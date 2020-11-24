@@ -1,0 +1,2583 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>11</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="section">
+            <head type="section" xml:id="h1">
+               <supplied resp="editor">1852</supplied>
+            </head>
+            <head type="omslag" xml:id="h2">
+               <hi rend="underline">RigsStatholderns Rapporter</hi>.<lb/>
+    1852 &amp; 1853.</head>
+            <div type="rapport">
+               <head xml:id="h3">
+                  <supplied resp="editor">Christiania 1. januar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h4">Underdanigst Rapport!</head>
+                  <p xml:id="p1">	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+                  <p xml:id="p2">	Jeg har idag Intet at indberette, men kun at tilfredsstille mit <lb/>
+Hjertes Trang til at fremsende mine underdanigste Nyaars-Ønsker ved <lb/>
+de første Ord, som min Haand nedskriver i det nysbegyndte Aar. Gud <lb/>
+holde Sin beskyttende Haand over Deres Majestæt, det Kongelige Huus, <lb/>
+de forenede Riger, og Deres Majestæts troe Undersaatter!</p>
+                  <p xml:id="p3">	Med Dagsposten tillader jeg mig underdanigst at fremsende et nylig <lb/>
+modtaget Exemplar af et før omnævnt interessant politisk Skrift <lb/>
+af Dr. Zimmermann i Hannover, som Deres Majestæt dog muligen allerede <lb/>
+kjender. Jeg lykønsker Sverige, at Forfatterens vel begrundede <lb/>
+Daddel over de moderne europæiske Forfatninger, mindre rammer den <lb/>
+svenske end alle de andre.</p>
+                  <p xml:id="p4">	Det er muligen det nye Aars første Sol, som i mit gamle Hoved <lb/>
+tænder en electrisk Gnist for underdanigst at omtale en electrisk <lb/>
+Tellegraph imellem Stockholm og Christiania. <lb/>
+Medens andre civiliserede Nationer daglig gjøre saa forbausende <lb/>
+Fremskridt i denne Retning, synes det næsten en Skam, at Communicationen <lb/>
+imellem de 2de Hovedstæder skal behøve saa mange Døgn, som <lb/>
+ved Tellegraph kunde opnaaes i lige mange Timer eller Minutter. Jeg <lb/>
+vilde derfor underdanigst strax foreslaae en Communication ved electrisk <lb/>
+Tellegraph, om ikke Omstændigheder som ere releverede i Zimmermanns <lb/>
+Skrift, ogsaa i denne Begivenhed bandt Regjeringens Hænder; men <lb/>
+med Hensyn paa de constitutionelle Former, der saa ofte forbyde  <lb/>
+Regjeringen at iværksætte gavnlige Foranstaltninger, maa jeg indskrænke <lb/>
+mig til at opvække Idéen, som om den af Deres Majestæt naadigst  <lb/>
+Bifaldes, efterat have gjennemgaaet en lang parlamentarisk Skjærsild, <lb/>
+muligen engang kan blive realiseret.</p>
+                  <p xml:id="p5">	Vor Atmosphære er nu noget lysere og Kulde er indtraadt; men vi <lb/>
+mangle fremdeles Snee, til stort Savn for den indre Rørelse.</p>
+                  <p xml:id="p6">	Vi have i den senere Tid faaet en betydelig Korntilførsel, især <lb/>
+af Ruug fra Frankrige, endog fra Holland. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 1ste Januar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h5">
+                  <supplied resp="editor">Christiania 4. januar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h6">Underdanigst Rapport!</head>
+                  <p xml:id="p7">	Efter min sidste underdanigste Rapport af 1ste denne Maaned, <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 29de forrige Maaned.</p>
+                  <p xml:id="p8">	Fra det første Øieblik, da Underhandlingerne med Rusland om vore <lb/>
+Lappers Forholde begyndte, har jeg erkjendt deres Vigtighed, mindre <lb/>
+med Hensyn paa selve Gjenstanden, end paa de for den svagere Part <lb/>
+mislige Forviklinger, hvortil de kunde lede, og efterat vor sagkyndige <lb/>
+Udenrigsminister havde erklæret, at Grændse Traktaten af 1752 ikke <lb/>
+længere er bindende for Rusland, har jeg saa meget mere erkjendt  <lb/>
+Nødvendigheden af Forsigtighed og Maadehold fra vor Side, under disse <lb/>
+Forhandlinger. Visselig staae de forenede Riger som Statseenhed lige med <lb/>
+Rusland i europæisk Rang; men det vilde være formastelig at være <lb/>
+blind for den uhyre Forskjel af de 2de Staters Kræfter og Magt.</p>
+                  <p xml:id="p9">	Fra denne Synspunct maatte jeg ligesaa meget beklage <lb/>
+Underhandlingernes Afbrydelse, som jeg nu er glad ved, at den stærkere Part <lb/>
+har forlangt dem fornyet.</p>
+                  <p xml:id="p10">	Ved at bringe Sagen paa Bane i Statsraadet i Gaar bemærkede jeg <lb/>
+ugjerne Statsraad Stangs lidenskabelige Stemning i Anledning af den <lb/>
+sidste russiske Note, den jeg endnu ikke har seet, som efter hans  <lb/>
+Sigende skal indeholde nærgaaende og grove Yttringer om den norske  <lb/>
+Regjering, – der have bragt ham i Harnisk.</p>
+                  <p xml:id="p11">	Jeg haaber imidlertid, at Klogskab og Sindighed vil vinde <lb/>
+Overhaand under Sagens officielle Behandling i Regjeringen og dertil vil <lb/>
+jeg anvende mine Bestræbelser.</p>
+                  <p xml:id="p12">	Med Morgenposten vil afgaae Regjeringens underdanigste Indstilling <lb/>
+om, at Deres Majestæt ved provisorisk Anordning, naadigst vil befale <lb/>
+en midlertidig Forhøielse i Tolden af raffineret Sukker, der fra <lb/>
+Sverige indføres til Norge.</p>
+                  <p xml:id="p13">	Da Indstillingen er meget vidtløftig, tillader jeg mig underdanigst <lb/>
+at vedlægge en Tableau over denne ubehagelige Sags Gang og iværende <lb/>
+Stilling.</p>
+                  <p xml:id="p14">	Ogsaa i denne Begivenhed har Tidningspressen gjort sin fordærvelige <lb/>
+Indflydelse gjældende. Gøtheborgs Handels- och Sjøfarts Tidning <lb/>
+begyndte at blæse, det norske Morgenblad svarede, og snart bestræbede <lb/>
+alle Aviser sig for at ophidse svenske og norske Gemytter mod hinanden. <lb/>
+At det lykkedes at bevæge Rigsdag og Storthing til at tage Partie, – <lb/>
+undrede mig mindre, end at Avisartiklerne synes at have udøvet nogen <lb/>
+Indflydelse paa selve den svenske Regjering, da denne formeentlig burde <lb/>
+have erkjendt, at den norske Regjering valgte det efter Omstændighederne <lb/>
+eneste mulige Middel, for med store Opoffrelser at afvende end større <lb/>
+Tab saavel for den svenske, som norske Statscasse: det Middel, som <lb/>
+den svenske General Tull-Directeur under sin personlige Nærværelse her, <lb/>
+paa det Indstændigste anbefalede. Striden synes nu væsentligst at <lb/>
+versere imellem DHrr Carnegie og Bruzewitz.</p>
+                  <p xml:id="p15">	I Indstillingen om Besættelsen af Toldinspecteur Embederne i <lb/>
+Christiansand og Risøer, vil Deres Majestæt finde en væsentlig Dissents: <lb/>
+Told Departementets Chef har til begge disse Embeder indstillet <lb/>
+vel tjente Toldembedsmænd, som allerede have viist, den Dygtighed i <lb/>
+Toldfaget, som han for Toldinspecteurer især anseer nødvendig. Han har <lb/>
+derhos anført Nødvendigheden af at opretholde Toldembedsmændenes  <lb/>
+Nidkjærhed i Tjenesten, ved i denne Begivenhed at tage fortrinlig Hensyn <lb/>
+til dem, saa meget mere, som i de sidst forløbne 2 Aar, kun 2de Mænd <lb/>
+af Toldfaget, men 6 udenfor samme, ere befordrede til høiere Toldembeder <lb/>
+og at han finder sig beføiet til at indstille en Militair til det nu <lb/>
+ledige Toldcasserer Embede i Drøbak.</p>
+                  <p xml:id="p16">	Jeg maa tiltræde disse Statsraad Brettevilles Anskuelser, medens <lb/>
+det har lykket Statsraad Erichsen, ved Stangs Hjelp, at vinde een Stemmes <lb/>
+Pluralitet for Capitaine Horn, som jeg ikke kan anbefale til at blive <lb/>
+Toldinspecteur, fordi han med andre gode Egenskaber, aldeles mangler den <lb/>
+Conduite, der for dette Embede er nødvendig, om det skal blive vel <lb/>
+bestyret. <lb/>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 4de Januar 1852 </date>
+                     </dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst		</salute>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h7">
+                  <supplied resp="editor">Christiania 8. januar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h8">Underdanigst Rapport!</head>
+                  <p xml:id="p17">	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+                  <p xml:id="p18">	Samme Dag havde jeg til en mindre Middag indbuden de Herrer <lb/>
+Statsraader med samtlige Expeditionssecretairer og havde derved Anledning <lb/>
+til atter at sande Høistsalig Kongens Bemærkning "que l'on traite <lb/>
+les affaires mieux après diner". Jeg benyttede nemlig Leiligheden til <lb/>
+at omtale Underhandlingerne med Rusland med Statsraad Stang og det <lb/>
+lykkedes mig at bevæge ham til at betragte disse med Sindighed og til <lb/>
+at behandle Gjenstanden med Klogskab og Forsigtighed.</p>
+                  <p xml:id="p19">	Heldigviis er Foged i Finmarken Saxlund endnu her tilstede og i <lb/>
+Nærheden have vi Foged Hauge som i flere Aar har været Embedsmand i <lb/>
+Finmarken, og af disse forstandige Mænd har Statsraad Stang nu begjært <lb/>
+alle nødvendige Oplysninger om de locale Forholde, hvorefter han maa <lb/>
+have lidt Tid til Sagens Behandling, forinden den kan foretages til <lb/>
+endelig Afgjørelse i Statsraadet.</p>
+                  <p xml:id="p20">	Foreløbig antager jeg, at vi ikke vil kunne undgaae at indrømme <lb/>
+den af den russiske Regjering saa ivrigen paastaaede Fiskeret; men at <lb/>
+det gjælder om, at opnaae Betingelser, hvorved den norske Nationalhøihed <lb/>
+kan blive betrygget i Fremtiden og at forebygge, at en Nominalitet <lb/>
+ikke skal blive en altfor trykkende Realitet. Dette er imidlertid <lb/>
+ingen let Opgave for den norske Regjering ligeoverfor den stærkere <lb/>
+Nabo, ja den har endog at kjæmpe mod constitutionelle Vanskeligheder <lb/>
+hvorom den uindskrænkede russiske Regjering ikke kan eller vil gjøre <lb/>
+sig noget Begreb. Iøvrigt har jeg ikke i den russiske Note, som jeg <lb/>
+senere har læst, kunnet finde de fornærmelige Yttringer, som oprindelig <lb/>
+have opbragt Statsraad Stang.</p>
+                  <p xml:id="p21">	Efterat Amtmanden i Hedemarken havde indberettet, at nye Samlinger <lb/>
+havde funden Sted i visse Arbeiderforeninger, befandtes det ved <lb/>
+Undersøgelse i Thranes Arrest, at denne har foranlediget disse ved <lb/>
+et Circulaire, hvoraf en Copie underdanigst vedlægges.</p>
+                  <p xml:id="p22">	Da Thrane har befordret dette Circulair ved sin Hustru, som <lb/>
+hidindtil har havt Tilladelse til at besøge ham uden Vidner, og det  <lb/>
+derhos er oplyst, at hun har bragt Brændeviin til sin Mand og hans  <lb/>
+Medfangne, saa faaer Madame Thrane nu ikke længere Adgang til sin Mand <lb/>
+i Enerum.</p>
+                  <p xml:id="p23">	Denne Foranstaltning og det i Arresten indsmuglede Brændeviin <lb/>
+foranledigede en Conflict mellem Thrane og Politiemesteren, hvorom  <lb/>
+dennes vedlagte Skrivelse giver Oplysning, hvorefter Thrane har  <lb/>
+tilskrevet ham underdanigst vedlagte latterlige Brev.</p>
+                  <p xml:id="p24">	Det er characteristisk for Lord Palmerston, at han har været et <lb/>
+Haabets Anker for Personer som Thrane.</p>
+                  <p xml:id="p25">	Gud gav os den 4de et herligt lidet Slædeføre, som sat alle <lb/>
+Slæder i Bevægelse; men som desværre allerede i Gaar blev os berøvet ved <lb/>
+en tøende Storm.</p>
+                  <p xml:id="p26">	Jeg beklager, at Deres Majestæt ikke kunde tage Hensyn paa min <lb/>
+underdanigste Forbøn for Fuldmægtig Kaltenborn. Vogt havde dog intet <lb/>
+Fortrin for ham uden det Held at være Bureauchef med en høiere Løn, <lb/>
+og Statsraad Riddervold ønskede ham bortfjernet fra Kirke Departementet. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 8de Januar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h9">
+                     <supplied resp="editor">Tillegg til rapport av 8. januar 1852</supplied>
+                  </head>
+                  <head type="sub2" xml:id="h10">
+                     <hi rend="underline">Copie</hi>.</head>
+                  <opener>Til <lb/>
+Hr Politiemester Kammerherre Morgenstjerne.</opener>
+                  <p xml:id="p27">	Den ubehagelige Conflict, som jeg havde med Dem i Løverdags, og <lb/>
+hvorved jeg maa erkjende, at have forløbet mig noget, vilde ikke have <lb/>
+fundet Sted, naar jeg om Formiddagen havde vidst, hvad jeg fik vide om <lb/>
+Eftermiddagen, nemlig det Palmerstonske Ministeriums Afskeed.</p>
+                  <p xml:id="p28">	Indtil Løverdag var jeg fast bestemt paa med lige Iver at fortsætte <lb/>
+Agitationen; thi indtil da levede jeg i et sikkert Haab om et heldigt  <lb/>
+Udfald for den Sag, hvorfor jeg nu i tre Aar har stridt. Men <lb/>
+Efterretningen om det Palmerstonske Ministeriums Afskeed har paa eengang <lb/>
+tilintetgjort alle mine Forhaabninger om Demokratiets Seier, og <lb/>
+jeg er nu overbeviist om, at en Fortsættelse af Agitationen ikke vil <lb/>
+kunne bringe noget saadant Resultat, som jeg har tænkt mig.</p>
+                  <p xml:id="p29">	Umuligheden af at kunne udrette noget, bringer mig derfor nu til <lb/>
+"at tage Fornuften fangen" og begynde at tænke paa mit eget og min  <lb/>
+Families Vel. Jeg vil saaledes ikke undlade at underrette Dem om, at <lb/>
+jeg har besluttet mig til at ophøre med at agitere, hvorved jeg  <lb/>
+forstaaer, paa en lidenskabelig og ophidsende Maade at sætte Folket i  <lb/>
+Bevægelse. Jeg har hermed ikke sagt, at jeg opgiver mine Anskuelser; om <lb/>
+disses Rigtighed er jeg tvertimod mere overbeviist end nogensinde; og <lb/>
+jeg har hermed heller ikke sagt, at jeg opgiver al politisk Virksomhed, <lb/>
+men kun min forrige <hi rend="underline">Maade</hi>  at gjøre mine Anskuelser gjældende paa.</p>
+                  <p xml:id="p30">	Min Plan at forsøge en forstærket Agitation fra Drammen og Stange, <lb/>
+opgiver jeg følgeligviis ogsaa; og da jeg saaledes ikke længer <lb/>
+har noget at correspondere med Foreningerne om, kan jeg nu love paa Ære <lb/>
+og Samvittighed ikke mere at staae i skriftlig Forbindelse med Nogen, <lb/>
+saalænge jeg er i Arrest. Grunden til man har maattet nægte min Kone <lb/>
+fri Adgang til mig, ophører altsaa, og venter jeg derfor af Deres <lb/>
+Godhed, at ogsaa Virkningen ophører.</p>
+                  <p xml:id="p31">	Hvad jeg her har tilladt mig at underrette Hr Politiemesteren om, <lb/>
+agter jeg ved første givne Anledning ogsaa at sige Commissionen, da <lb/>
+jeg haaber, at saadanne Erklæringer fra min Side ikke ville blive <lb/>
+uden Indflydelse paa min Løsladelse af Arresten.</p>
+                  <closer>
+                     <salute>Med Agtelse <lb/>
+    			             Ærbødigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Marcus Thrane</persName>
+                     </signed>
+                     <lb/>
+                     <dateline>
+                        <placeName>Christiania Raadhuus <lb/>
+            Arrest</placeName>
+                        <date>6 Janr. 1852</date>.</dateline>
+                  </closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h11">
+                     <supplied resp="editor">Tillegg til rapport av 8. januar 1852</supplied>
+                  </head>
+                  <opener>CHRISTIANIA POLITIKAMMER <lb/>
+                     <salute>Deres Excellence</salute>
+                  </opener>
+                  <p xml:id="p32">	Hoslagt oversendes underdanigen Gjenpart af den Circulairskrivelse, <lb/>
+som Thrane har ladet indgaae til Arbeiderforeningerne. Originaldocumenterne <lb/>
+ere med en Følgeskrivelse oversendte den Commission, der <lb/>
+er nedsat for at undersøge Arbeideragitationen.  Da disse Skrivelser <lb/>
+ere udgaaede ved Misbrug af den Tilladelse, der var givet Thranes  <lb/>
+Hustrue at besøge ham uden Overvær af Vidner, hvilken Tilladelse, som <lb/>
+Deres Excellence bekjendt, blev meddeelt af Justitsdepartementet, saa <lb/>
+har jeg strax suspenderet samme og herpaa erholdt Departementets <lb/>
+Approbation.</p>
+                  <p xml:id="p33">	Da jeg tilkjendegav Thrane denne min Beslutning geraadede han i <lb/>
+stort Raserie over at see sine nye Planer afslørede, og lod falde <lb/>
+de meest nærgaaende Yttringer mod Regjeringen, den nedsatte Commissions <lb/>
+Medlemmer o.s.v.  Da jeg derpaa betydede ham at han skulde tie <lb/>
+og begive sig i sin Arrest opførte han sig paa en saa upassende Maade, <lb/>
+at jeg i Medhold af min lovlige Ret over opsætsige Varetægtsfanger <lb/>
+tildeelte ham corporlig Correx.  Han har senere i en ganske ydmyg <lb/>
+Skrivelse andraget om Forandring i nogle disciplinaire Bestemmelser som <lb/>
+med Hensyn til hans Arrest vare tagne. <lb/>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania Politikammer</placeName>
+                        <lb/>
+                        <date>d. 4de Januar 1852</date>
+                     </dateline>
+                     <lb/>
+                     <salute>underdanig</salute>
+                     <lb/>
+                     <signed>
+                        <persName>C. Morgenstierne</persName>
+                     </signed>
+                     <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+m.m. v. Løvenskiold.</closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h12">
+                     <supplied resp="editor">Tillegg til rapport av 8. januar 1852</supplied>
+                  </head>
+                  <head type="sub2" xml:id="h13">
+                     <hi rend="underline">Gjenpart</hi>.</head>
+                  <p xml:id="p34">	Min oprigtige Kjerlighed til Demokratiets hellige Sag, og min <lb/>
+Sorg over at det skal gaae tilgrunde formedelst al den Dumhed og <lb/>
+Skamløshed som i lang Tid har raadet inden vor egen Midte, gjør at <lb/>
+jeg herved tilskriver den ærede Forenings Bestyrelse, for at oplyse <lb/>
+den om, hvordan Alt hænger sammen iblandt os, og for at give et <lb/>
+godt Raad i rette Tid.</p>
+                  <p xml:id="p35">	Med inderlig Bedrøvelse har jeg fornemmet, at istedetfor Ærlighed, <lb/>
+Kjerlighed og et oprigtigt demokratisk Sindelag, hersker i vor <lb/>
+Centralbestyrelse ganske andre Følelser saasom: Had, Misundelse, <lb/>
+Egenkjerlighed, Egennytte, Forfængelighed og Indbildskhed. Istedetfor <lb/>
+at følge den i vor Tid <hi rend="underline">ene sunde</hi>  Politik, holder man sig til den  <lb/>
+gammeldags Politik, som aldrig har bragt Arbeiderne noget Godt, men blot <lb/>
+tjent til at styrke Pengemagten.</p>
+                  <p xml:id="p36">	Da jeg anbefalte Abildgaard til Foreningerne som Redacteur af <lb/>
+Bladet og Medagitator, kjendte jeg ikke dette Menneskes Characteer <lb/>
+saaledes som jeg nu gjør. Af alle hans Handlinger og Skriverier forstaaer <lb/>
+jeg tydeligt, at han er af de Folk der hengive sig til demokratisk  <lb/>
+Virksomhed ene og alene af ussel Forfængelighed, Egenkjerlighed  <lb/>
+og andre daarlige Bevæggrunde. – Man veed hvor forhadt jeg har <lb/>
+været af de Store. Intet Under altsaa, at de Store bruge alle mulige <lb/>
+Kunster, Rænker og Bagtalelser for at faae <hi rend="underline">mig</hi>  styrtet. Da nu <lb/>
+Abildgaard kom til at redigere Bladet, og kom i Forbindelse med en <lb/>
+Deel Storthingsmænd, som kaldte sig Demokrater, (men som siden have <lb/>
+viist hvorledes de have meent med det) begyndte han fra den Tid at <lb/>
+virke <hi rend="underline">imod</hi>  mig istedetfor <hi rend="underline">sammen</hi>  med mig. Han har ikke alene bagtalt <lb/>
+og nedrakket mig saavel hos Storthingsmænd som andre; men, som man <lb/>
+seer af Bladet, har han næsten i hvert andet Blad revet ned paa mig <lb/>
+og min Virksomhed, og ophøiet sig selv og sin Virksomhed. Jeg vil nu <lb/>
+ikke tale om hvor <hi rend="underline">dum</hi>  og <hi rend="underline">barnagtig</hi>  en saadan Fremgangsmaade er; thi <lb/>
+han maatte vel begribe, at Arbeiderne derved tydelig vilde gjennemskue <lb/>
+hans Daarlighed og tænke: "Hvo sig selv ophøier skal fornedres", <lb/>
+men hvor skammelig og ussel er ikke den Fremgangsmaade. Han kommer <lb/>
+til mig som Ven, og opfører sig som en Forræder. – Jeg vil just ikke <lb/>
+paastaae det, men jeg <hi rend="underline">troer</hi>, at han, for at vinde noget Stort for <hi rend="underline">sin</hi>
+                     <lb/>
+                     <hi rend="underline">Person</hi>, vil see at arbeide for at hæve det uelandske Partie til Magten, <lb/>
+hvorfor han da skulde i sin Tid faae sin store Belønning. Abildgaards <lb/>
+Politik er, efter min Mening, saa langt fra <hi rend="underline">vor</hi>  Politik, at vi, <lb/>
+ved at følge <hi rend="underline">hans</hi>  Politik, aldrig kommer videre end vi altid have <lb/>
+været, nemlig at, være Pengepartiets Tjenere og Grydeskrabere.</p>
+                  <p xml:id="p37">	Af Bladet have I seet, at Abildgaards Politik bestaaer <lb/>
+hovedsagelig i: <lb/>
+                     <list xml:id="list38">
+                        <label>1, </label>
+                        <item>at trække dannede Mennesker til os,</item>
+                        <lb/>
+                        <label>2, </label>
+                        <item>
+                           <hi rend="underline">ikke</hi>  at hylde Socialismen,</item>
+                        <lb/>
+                        <label>3, </label>
+                        <item>
+                           <hi rend="underline">ikke</hi>  at hylde Indskrænkning i Eiendomsretten.</item>
+                        <lb/>
+                        <label>4, </label>
+                        <item>at vi skal slaae os sammen med Oppositionspartiet.</item>
+                     </list>
+                  </p>
+                  <p xml:id="p39">
+                     <hi rend="underline">Min</hi>  Politik veed man er ganske modsat, nemlig <lb/>
+                     <list xml:id="list40">
+                        <label>1, </label>
+                        <item>
+                           <hi rend="underline">ikke</hi>  at lokke de Dannede til os, saasom det har viist sig, og  <lb/>
+viser daglig, at disse ikke kommer til os uden for at forstyrre os og <lb/>
+lære os af med vore saakaldte "vildfarende" Anskuelser.</item>
+                        <lb/>
+                        <label>2, </label>
+                        <item>At hylde <hi rend="underline">Socialismen</hi>, d.e. Læren om Frihed, Lighed og Broderskab.</item>
+                        <lb/>
+                        <label>3, </label>
+                        <item>At fordre bestemt en Indskrænkning i Eiendomsretten, saa at der <lb/>
+kan blive Adgang til Jord for den Fattige.</item>
+                        <lb/>
+                        <label>4, </label>
+                        <item>
+                           <hi rend="underline">Ikke</hi>  at slutte os til noget af de Høieres Partie, førend vi see, at <lb/>
+de byde gode Betingelser, thi hvis vi slutte os til et andet Partie, <lb/>
+er det aldeles vist, at dette vil komme til at beherske os. Vi ere <lb/>
+stærke nok i os selv, naar vi holde fast sammen, og, ligesom vi <hi rend="underline">har</hi>
+                           <lb/>
+viist, bør vi fremdeles vise, at vi kunne staae paa egne Been. –</item>
+                     </list>
+                  </p>
+                  <p xml:id="p41">	See dette er Forskjellen mellem min og Abildgaards Politik. Som <lb/>
+de veed er jeg <hi rend="underline">radikal</hi>, og som de deels har seet af Bladet, deels  <lb/>
+erfaret ved Sentralmødet er Abildgaard <hi rend="underline">moderat</hi>, men Moderatismen duer <lb/>
+ikke; vi maa gjøre aldeles bestemte Fordringer og ligefrem og uden <lb/>
+Dølgsmaal sige hvad det er vi vil, thi nu er det ikke længer Tid til <lb/>
+at <hi rend="underline">svæve</hi>  hid og did som et Rør for Vinden. Næste Aar bliver ganske <lb/>
+vist et skjæbnesvangert Aar; næste Aar troer jeg det vil komme til <lb/>
+en over hele Europa almindelig Kamp mellem Demokratiet og Despotiet, <lb/>
+mellem Fattigdom og Rigdom. Da gjælder det at vor Politik har <hi rend="doubleunderline underline">fast</hi>
+                     <lb/>
+Grund at staae paa, at ogsaa <hi rend="underline">vi</hi>  han høste Nytte af den almindelige <lb/>
+Kamp. Saasnart jeg kommer ud af Fængslet, vil jeg gjøre en Reise til <lb/>
+Hedemarken, men imidlertid er det nødvendigt, saasnart som mueligt at <lb/>
+bevirke en Forandring, i vor nu saa ustøe Politik.</p>
+                  <p xml:id="p42">	For at bevirke en Forandring, der kan give os Fasthed er det <lb/>
+aldeles <hi rend="underline">nødvendigt</hi>  at der kommer en <hi rend="doubleunderline underline">ny Sentralbestyrelse nemlig paa</hi>
+                     <lb/>
+                     <hi rend="doubleunderline underline">Landet</hi>, og det af følgende Grunde: <lb/>
+                     <list xml:id="list43">
+                        <label>1, </label>
+                        <item>Fordi Christiania Sentralbestyrelse, især saalænge Abildgaard <lb/>
+ styrer den, er mere aristokratisk end demokratisk,</item>
+                        <lb/>
+                        <label>2, </label>
+                        <item>fordi Landboerne ere de Fornemste og Fleste, altsaa dem der bør <lb/>
+ have Hovedstemmen (Byerne anseer jeg, som de veed for Kræftbylder, <lb/>
+ der<hi rend="underline">tære</hi>  paa Landdistrikterne)</item>
+                        <lb/>
+                        <label>3, </label>
+                        <item>Fordi <hi rend="underline">Landets</hi>  Interesser aldrig blive ordentlig udtalte i Bladet, <lb/>
+ og ikke kraftigt forfægtet, saalænge Bestyrelsen raader, –</item>
+                        <lb/>
+                        <label>4, </label>
+                        <item>fordi Landboerne bedst <hi rend="underline">forstaaer</hi>  hvad det er som er galt, og bedst <lb/>
+                           <hi rend="underline">føler</hi>  hvordan Forbedringerne <hi rend="underline">bør</hi>  være. (Den veed bedst hvor Skoen <lb/>
+ trykker, som har Skoen paa),</item>
+                        <lb/>
+                        <label>5, </label>
+                        <item>og endelig fordi Bestyrelsen er formeget paavirket af  <lb/>
+                           <hi rend="underline">Byearistokraterne, </hi>
+                           <hi rend="doubleunderline underline">og altfor eftersporet af Politiet</hi>. – Altsaa: der maa <lb/>
+ dannes en Sentralbestyrelse for<hi rend="underline">Landet</hi>, ved Siden af den i Byen, dog <lb/>
+ troer jeg, at ogsaa mange<hi rend="underline">Byer</hi>  ville hylde den nye Bestyrelse paa <lb/>
+                           <hi rend="underline">Landet</hi>, idetmindste tør jeg forsikkre, at den største af <hi rend="underline">alle</hi>
+                           <lb/>
+ Foreninger, nemlig Drammens, vil det, ja jeg troer ogsaa Kongsbergs og <lb/>
+ Moss og Horten.</item>
+                     </list>
+                  </p>
+                  <p xml:id="p44">	Men jeg maa paalægge Eder at I gaae lidt hemmelig og forsigtig <lb/>
+tilværks for at ikke vore Planer skal hemmes. – Jeg skal give Eder <lb/>
+gode Raad om Fremgangsmaaden naar jeg faaer vide om I bifalder min <lb/>
+Plan eller ikke. Skriv derfor med første Post, men læg Brevet i <lb/>
+Covolut til Gravør Buck i Christiania og forsegl det godt. Tael ikke til <lb/>
+Nogen derom førend I faaer mit Svar.</p>
+                  <p xml:id="p45">	Din lange Artikkel i Bladet om "<hi rend="underline">Pengesystemet</hi>" forstaae I  <lb/>
+formodentlig er af mig. Det er næsten latterligt at fortælle det, men <lb/>
+jeg kan dog ikke undlade at berette Eder, at det var med Nød og Neppe <lb/>
+at jeg fik denne Artikkel ind i Bladet, thi det abildgaardske Partie, som <lb/>
+nu har Magten <hi rend="underline">her</hi>  i Byen, og altsaa over <hi rend="underline">Bladet</hi>, søger paa alle  <lb/>
+optænkelige Maader at hindre min Virksomhed. Sligt kalder jeg Skamløshed <lb/>
+og Forræderie, men de bør ligge paa sine Gjerninger. –</p>
+                  <p xml:id="p46">	Endelig maa jeg fortælle hvor nederdrægtig man handler mod mig <lb/>
+og min Familie i denne Tid, da jeg i Fængsel lider for vor fælleds <lb/>
+Sag.</p>
+                  <p xml:id="p47">	I veed, at jeg paa Sentralmødet overgav Bladet, min eneste Eiendom. <lb/>
+Dette gjorde jeg fordi jeg troede jeg var iblandt Venner og <hi rend="underline">retskafne</hi>
+                     <lb/>
+Folk. I veed at der blev bestemt, at jeg skulde have 50 Spd. maanedlig, <lb/>
+men nu kan Bladet ikke længere svare mig efter Kontrakten. Istedetfor <lb/>
+nu som retskafne Folk, at give mig Bladet tilbage, vedbliver man <lb/>
+at beholde det, uden at give mig en Skilling. De første 2 1/2 Maaned fik <lb/>
+jeg hvad jeg skulde have (thi da var den retskafne Bernh. Hansen <lb/>
+Casserer) men nu, siden en Skøier ved Navn Christoffer Olsen har <hi rend="underline">tiltaget</hi>
+                     <lb/>
+sig at være Casserer, nu faaer jeg ikke mere. Min Familie ligger nu <lb/>
+paa Christiania Fattigkasse, og selv maa jeg næsten leve af Fangekost. <lb/>
+Og saa skamløst, saa æreløst <hi rend="underline">vover</hi>  Sentralbestyrelsen at handle <hi rend="doubleunderline underline">i</hi>
+                     <lb/>
+                     <hi rend="doubleunderline underline">Foreningernes Navn</hi>! Mon virkelig Foreningerne vil bifalde Sligt, naar de <lb/>
+faaer vide Sammenhængen? Nei, Foreningerne ville vist ikke stemples <lb/>
+som Tyve og Bedragere, de ville vist ikke, at Efterslægten skal sige, <lb/>
+at de norske Foreninger opførte sig imod sin bedste Ven Thrane saa <lb/>
+skammeligt, som en Fiende ikke vilde opføre sig. Sentralbestyrelsen <lb/>
+siger vel i det sidste Blad, at den om en Tid atter vil kunne betale mig, <lb/>
+men den veed altfor vel, at Bladet <hi rend="underline">aldrig</hi>  kan skaffe mig endog kun <lb/>
+Halvparten af hvad jeg tilkommer efter Kontrakten. Bladet er meget aftaget <lb/>
+i den sidste Tid, rimeligviis fordi det bliver slet redigeret; Abildgaard <lb/>
+er nemlig en meget slet Redakteur, der intet andet forstaaer end <lb/>
+at skrive Lovtaler over sig selv og rive ned paa mig. Men nu nok herom.</p>
+                  <p xml:id="p48">	Dersom nu Bestyrelsen finder mit Forslag klogt og gavnligt, nemlig <lb/>
+at oprette en "<hi rend="doubleunderline underline">Land</hi>
+                     <hi rend="underline">-Sentralbestyrelse"</hi>  da tilskriv mig, som sagt, med <lb/>
+første Post; dog var det maaske godt, om man først sammenkaldte  <lb/>
+Foreningens Medlemmer og hørte <hi rend="underline">deres</hi>  Mening.</p>
+                  <p xml:id="p49">	Hvis mit Forslag antages, da vil jeg<hi rend="underline">flytte</hi>  til Morskoven = <lb/>
+Skovbygden for at boe der, og være med i den nye Bestyrelse. I saa Fald <lb/>
+var det godt om Bestyrelsen i Tide vilde høre efter for mig hos nogle <lb/>
+middels-Bønder, om jeg med Familie kan faae Logis, Kost, Veed og Lys <lb/>
+og Andet mod at betale en vis Sum hver Maaned. Det bemærkes, at jeg <lb/>
+har Kone, 4 Børn og en Tjenestepige. Vi ere altsaa 7 Personer. Hvis <lb/>
+nogen Bonde vilde paatage sig at have hele Familien i Kost og Logis, <lb/>
+da siig ham, at vi ikke ere vanskelige med Maden, og han maatte da <lb/>
+opgive, hvormeget han vilde have for Maaneden. Tag nu en rask Beslutning: <lb/>
+Betænk at Tiden iler; betænk at det nu gjælder at faae istand <lb/>
+en <hi rend="underline">fast</hi>, <hi rend="underline">radikal</hi>, <hi rend="underline">retskaffen</hi>  og <hi rend="underline">kjæk</hi>  Sentralbestyrelse, saa at <lb/>
+ikke Arbeidersagen skal gaae tilgrunde formedelst den nuværende <lb/>
+Bestyrelses Dumhed, Holdningsløshed og Uretskaffenhed.</p>
+                  <p xml:id="p50">	Hvorfor jeg henvender mig netop til Morskoven, Skovbygdens <lb/>
+Forening, skeer fordi jeg troer, at dersteds ere kjække, radikale Folk, <lb/>
+der vide hvad de ville, og fordi denne Land-Sentralbestyrelse da kom <lb/>
+til at blive i Midten af Landet.</p>
+                  <p xml:id="p51">	Forventende Bestyrelsens snarest mulige Svar, forbliver jeg med <lb/>
+demokratisk Hengivenhed Eders forbundne</p>
+                  <closer>
+                     <signed>
+                        <persName>Marcus Thrane</persName>
+                     </signed>
+                     <lb/>
+                     <dateline>
+                        <placeName>Christiania Raadhuusarrest</placeName>
+                        <lb/>
+                        <date>den 22de November 1851</date>.</dateline>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h14">
+                  <supplied resp="editor">Christiania 18. januar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h15">Underdanigst Rapport!</head>
+                  <p xml:id="p52">	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+                  <p xml:id="p53">	I Anledning af et Rygte om at Arbeiderne ved Kongsbergs Vaaben- <lb/>
+Fabrik, en 150 Mand, havde forenet sig om at anlægge en militair <lb/>
+Uniform, forlangte Artillerie Brigaden Oplysning herom af Fabrikens <lb/>
+Directeur, den fra Storthinget bekjendte Capitaine Holst, som svarede, <lb/>
+at Rygtet var sandt, og at han ikke havde formaaet at bevæge Arbeiderne <lb/>
+til at frafalde den fattede Beslutning.</p>
+                  <p xml:id="p54">	Armee Departementet anmodede derefter Feldtøimesteren, <lb/>
+Oberstlieutenant Meyn, som tidligere har været Vaabenfabrikens Directeur, <lb/>
+om at begive sig til Kongsberg, for at undersøge Forholdene, – hvorom <lb/>
+han har indberettet: "at Klæde med alt Tilbehør til den paatænkte <lb/>
+Uniform er anskaffet, at den er anlagt af 9 Mand og har megen Lighed <lb/>
+med den for vore ridende Jægere reglementerede Uniform. <lb/>
+Confidentielt har Oberstlieutenant Meyn for mig yttret, "at Directeur <lb/>
+Holst, efter hans Formening, har bidraget mere til at tilveiebringe <lb/>
+end til at afværge Uniformen, at Fleertallet af Arbeiderne uden Tvivl <lb/>
+vil frafalde Uniformen, om den forbydes, og at dette bør skee, om end <lb/>
+Fabrikens temporaire Standsning mod Formodning maatte blive Følgen".</p>
+                  <p xml:id="p55">	Dette var fra første Øieblik min Formening, og overeensstemmende <lb/>
+hermed har Armee-Departementet, gjennem Artillerie Brigaden, ladet <lb/>
+paalægge Directeur Holst, at forbyde Arbeiderne at bruge den ommeldte <lb/>
+Uniform, og at opsige af Arbeidet dem som maatte handle mod Forbudet. <lb/>
+Formodentlig vil det store Fleertal heller frafalde Uniformen <lb/>
+end Arbeidet; men i modsat Fald vilde de Vaaben, som nu forfærdiges, <lb/>
+ved Fabriken kunne erholdes lige saa gode og billige fra tydske <lb/>
+Fabriker. Om Hr Holst først havde faaet sit Regiment uniformeret, vilde det <lb/>
+for ham have været let at give dem Vaaben.</p>
+                  <p xml:id="p56">	I Aaret 1851 er til Christiania bleven indført 30,225 Tønder <lb/>
+mere af forskjellige Kornvarer end i Aaret 1850 . – Ved Christiania <lb/>
+Toldsted have Toldintraderne i Aaret 1851 beløbet over 518,000 Species, <lb/>
+som er det høieste Beløb, som nogensinde er indkommet.</p>
+                  <p xml:id="p57">	Vi have, Gud skee Tak! nu et godt Slædeføre og en nordisk Vinter <lb/>
+med en maadelig Kulde.</p>
+                  <p xml:id="p58">	Da jeg ikke siden i afvigte Juny Maaned har besøgt Fossum udbeder <lb/>
+jeg Deres Majestæts naadige Tilladelse til at begive mig did den <lb/>
+23de Februar hvor jeg ønsker at bivaane min ældste Søns Sølvbryllup, <lb/>
+som indtræffer den 26de Februar.</p>
+                  <p xml:id="p59">	Hans Kongelige Høihed Prinds Oscars Fødselsdag, den 21de denne <lb/>
+Maaned, hvortil min underdanigste Lykønskning nedlægges, agter jeg at <lb/>
+feire ved en Bal. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 18de Januar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h16">
+                  <supplied resp="editor">Christiania 1. februar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h17">Underdanigst Rapport!</head>
+                  <p xml:id="p60">	Min sidste underdanigste Rapport var af 18de forrige Maaned.</p>
+                  <p xml:id="p61">	Senere har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 15de forrige Maaned, som jeg har tilladt mig at meddele <lb/>
+Regjeringens øvrige Medlemmer, der med samme Interesse, som jeg, have <lb/>
+opfattet Deres Majestæts skarpsindige og lærerige Bemærkninger i <lb/>
+Anledning af de seneste politiske Begivenheder. Jeg gjenlæser stedse <lb/>
+med samme Interesse disse Bemærkninger, som characterisere den  <lb/>
+skarpsindige oplyste Monarch, men mine sørgelige Erfaringer om de <lb/>
+revolutionaire Omvæltninger, som ere indtrufne under min hele Livsperiode <lb/>
+tillade mig ikke at dele Deres Majestæts Forhaabning om, at  <lb/>
+Menneskelighedens Fred og Lykke vil kunne opnaaes og fremmes ved de moderne <lb/>
+europæiske Statsforfatninger, hvortil jeg som Undtagelser ikke henregner <lb/>
+Sveriges og Englands.</p>
+                  <p xml:id="p62">	I begge disse Stater ere de høieste Myndigheder viselig fordeelte <lb/>
+og Folke Representationen saaledes organiseret, at Intelligentsen <lb/>
+sædvanlig beholder Overmagten. I det øvrige Europa sees kun: <lb/>
+"Unbrauchbarkeit der constitutionellen Monarchie", unbrauchbare moderne  <lb/>
+Constitutionen! <lb/>
+Jeg har været Undersaat, Statsborger, Embedsmand under en i Formen <lb/>
+uindskrænket, senere under en constitutionel Regjeringsform og <lb/>
+funden mine borgerlige Rettigheder mere agtede og derfor føelt mig <lb/>
+lykkeligere under hiin end under denne. Dette er ved min Livsbanes <lb/>
+Slutning Resultatet af min lange Erfaring og jeg erkjender derfor daglig <lb/>
+mere Sandheden af Popes Sætning: "Let fools on <hi rend="underline">forms</hi>  of government <lb/>
+contest, the best administrised government is best".<note xml:id="ftn13" place="foot" n="13">
+                        <p xml:id="p63"> Alexander Pope, “Essay on Man”,<hi rend="italic">Epistle III: Of the Nature and State of Man, With Respect to Society: </hi>“For forms of government let fools contest; Whate'er is best administer'd is best”. </p>
+                     </note>
+                     <lb/>
+Min Erfaring vilde saaledes ikke bevæge mig til at stemme for <lb/>
+et uindskrænket Monarchies Forandring til et modernt constitutionelt, <lb/>
+medens jeg anseer det for Pligt at opretholde dette, naar det haves, <lb/>
+for at undgaae de med Omvæltninger forbundne Ulykker. Frankrige har <lb/>
+alene i de sidste 48 Aar faaet 5 nye Constitutioner, og enhver af disse <lb/>
+har kostet Blod og forvoldt navnløse Ulykker uden at have bevirket <lb/>
+varig Fred og Lykke. Erfaring synes ikke at gjøre Indtryk paa Nationer, <lb/>
+end mindre paa deres moderne Representationer. Disse fremture, uagtet <lb/>
+Alt hvad de i de sidste 4 Aar have seet i deres "regne du bavardage", <lb/>
+i deres umættelige Herskesyge og gjøre en god Regjering umulig. Dette <lb/>
+see vi daglig i Berlin, Hannover, Kjøbenhavn; og om end vort sidste <lb/>
+Storthings Opposition standsede ved "bavardage", saa forenede dog  <lb/>
+omtrent den Halve Deel af Storthingets Medlemmer sig om at forøge vor <lb/>
+fordærvelige Avispresse ved et nyt oppositionelt Blad, under en høist <lb/>
+uværdig Ledning.</p>
+                  <p xml:id="p64">	Regjeringens virksomste Middel mod disse fiendtlige Bestræbelser <lb/>
+og <hi rend="underline">For at opretholde det Bestaaende</hi>, er, som Deres Majestæt bemærker, <lb/>
+ueftergivelig at overholde den norske Kongemagts noksom svage <lb/>
+Prærogativer, og derfor beder jeg Deres Majestæt underdanigst aldrig <lb/>
+at eftergive en Tøddel af disse. Enhver Eftergivelse paaskynder det <lb/>
+Bestaaendes Opløsning! Det var fra denne Synspunkt, at jeg underdanigst <lb/>
+fraraadede at sanctionnere Beslutningen om Sexes Pension og Hypothek- <lb/>
+Bankens Bestyrelse. Følgerne af Storthingets Indflydelse paa <lb/>
+Bestyrelsens Valg vise sig allerede nu ubehagelige, og de kunne snart <lb/>
+blive fordærvelige for Indretningens Virksomhed.</p>
+                  <p xml:id="p65">	Deres Majestæt bemærker, at religieus Schisma banede Veien til <lb/>
+de politiske Omvæltninger i Tydskland og opfordrer os til deraf at <lb/>
+hente en nyttig Lærdom. Det var just med Hensyn herpaa, at jeg underdanigst <lb/>
+fraraadede de af en af vore Biskopper projecterede Præstemøder.</p>
+                  <p xml:id="p66">	Deres Majestæts Yttringer om vor Tids skjændige fordærvelige <lb/>
+Pressens Misbrug, ere for mig indlysende. Den vilde uden Tvivl  <lb/>
+formindskes ved de af Deres Majestæt paapegede præventive Midler og  <lb/>
+disse burde derfor jo før desto bedre forsøges. Men efterat jeg i ett <lb/>
+halvt Seculum har erfaret disse Midlers Utilstrækkelighed, maa jeg <lb/>
+høist ugjerne erkjende Sandheden af Louis Napoléons Yttring: "l'ordre <lb/>
+et la liberté de la presse ne peuvent coexister". – </p>
+                  <p xml:id="p67">	I Anledning af Excellence Löwenhjelms Yttring om Pariserfolkets <lb/>
+mere end sædvanlige Munterhed den 31te December, kan jeg ikke undlade <lb/>
+at tænke paa Hunden, der aldrig er muntrere end i Øieblikket efter, <lb/>
+at den har faaet Stryg.</p>
+                  <p xml:id="p68">	Jeg beder Deres Majestæt med naadig Overbærelse at modtage disse <lb/>
+mine underdanige Bemærkninger, som ere foranledigede ved Deres Majestæts <lb/>
+naadige Skrivelse.</p>
+                  <p xml:id="p69">	Deres Majestæts Betænkelighed ved at bestemme en Toldforhøielse <lb/>
+paa svensk Sukker som indføres til Norge, modsvarende den, som nylig <lb/>
+er bleven bestemt for norsk Sukker, som indføres til Sverige, fordi saa <lb/>
+dant formenes stridende mod Mellemrigs Anordningerne af 1825 og 1827, – <lb/>
+foranlediger mig til underdanigst at bemærke, at den i Sverige bestemte <lb/>
+Toldforhøielse ikke for Sukker i Almindelighed, <hi rend="underline">men alene for norsk</hi>
+                     <lb/>
+                     <hi rend="underline">Sukker</hi>,efter vor underdanigste Formening er stridende mod Mellemrigs- <lb/>
+Anordningerne, hvorefter vort underdanigste Forslag formeentlig er det <lb/>
+eneste Middel til at gjenvinde den Reciprocitet for denne Artikel, som <lb/>
+i de benævnte Anordninger er tilsigtet.</p>
+                  <p xml:id="p70">	En af vore retsindigste og dygtigste høiere Embedsmænd, <lb/>
+Stiftamtmand Hagerup i Bergen, er træt af sin lange Embeds Virksomhed og <lb/>
+har indgivet Ansøgning om Afsked. Han er saa hjemmehørende i Bergen, <lb/>
+saa almindelig agtet, har ikke ubetydelig egen Formue, som især i en <lb/>
+Pengebye giver forøget Indflydelse, at han vil blive saare vanskelig at <lb/>
+erstatte. Da jeg i sin Tid, efter Høistsalig Kongens Ønske, overtalede <lb/>
+Stiftamtmand Hagerup til at modtage sit nærværende Embede, som han <lb/>
+ikke attraaede, føelte jeg Kald til, nu at bede ham endnu i nogen Tid <lb/>
+at yde Deres Majestæts og Statens Tjeneste sine usvækkede Evner, men <lb/>
+han vedbliver sit Ønske, som ikke forundrer mig, men som jeg beklager.</p>
+                  <p xml:id="p71">	Jeg tillader mig underdanigst at vedlægge Vedkommendes underdanige <lb/>
+Taksigelse og Redegjørelse for Anvendelsen af Deres Majestæts <lb/>
+sædvanlige Naadegave 100 Spdl. den 26de Januar sidstleden.</p>
+                  <p xml:id="p72">	I Statsraadet i Gaar sluttedes Discussionen om de russiske <lb/>
+Fordringer for de norske Lappers Bete i Vinter Maanederne for deres <lb/>
+Reensdyr paa Fjeld Strækninger paa finsk Territorium. Indstillingen gaaer <lb/>
+ud paa, at denne Adgang til Bete kan begrændses til et mindre Arreal, <lb/>
+som vilde nødsage Lapperne til at formindske deres Reenhjorder medens <lb/>
+Spærring af Grændsen, Nægtelse af alt Bete, paa finsk Territorium, <lb/>
+vilde gjøre det umuligt for Lapperne at livnære deres Reener, og deres <lb/>
+Existence følgelig blive tilintetgjort; men at man end ikke for at befrie <lb/>
+et uskyldigt Folk fra en saa stor Ulykke, fra Ødelæggelse, kan tilraade <lb/>
+at opfylde Ruslands Fordring, som for den hele Stat kunde faae de <lb/>
+betænkeligste Følger.</p>
+                  <p xml:id="p73">	Som jeg tidligere har tilladt mig at bemærke, troede jeg, at <lb/>
+man, for at afværge Lappernes Ulykke, maatte under visse Garantier, <lb/>
+kunne indrømme russiske Undersaatter en selvstændig Fiskeret; men efter <lb/>
+den vigtigere Anskuelse, som jeg under Sagens Behandling har faaet, <lb/>
+maa jeg erkjende dette utilraadeligt, og jeg bestyrkes heri, ved Deres <lb/>
+Excellence Stjernelds og Dues Yttringer i Skrivelse til Indre  <lb/>
+Departementet af 20de October forrige Aar.</p>
+                  <p xml:id="p74">	Hertil kommer, at den begjærte Concession af selvstændig Fiskeret <lb/>
+for russiske Undersaatter, ikke kunde indrømmes uden med Forbehold <lb/>
+af Storthingets Bifald, fordi den vilde være stridende mod gjældende  <lb/>
+ Lov, og en saadan Forbeholdenhed vilde den russiske Regjering neppe <lb/>
+tilstæde i en Traktat.</p>
+                  <p xml:id="p75">	Lappernes fremtidige Tilværelse vil saaledes dependere af Keiserens <lb/>
+Beslutning; men denne haaber jeg vilde blive gunstigere for dem, <lb/>
+om det maatte lykkes at give Hans Majestæt et rigtigere Begreb om <lb/>
+Forholdenes Beskaffenhed.</p>
+                  <p xml:id="p76">	En paalidelig Oplysning herom giver underdanigst vedlagte Betænkning <lb/>
+af Fogderne Hauge og Saxlund, der dog kun er bestemt for Deres <lb/>
+Majestæt. Den viser, at den russiske Paastand om, "at russiske <lb/>
+                     <hi rend="underline">fastboende</hi>  Undersaatter tidligere have udøvet <hi rend="underline">selvstændig</hi>  Fiskerie i <lb/>
+Norge", – er aldeles ugrundet; – at Ingen tænker paa at berøve dem den <lb/>
+Adgang til Fiskerie i Fælledskab med Norske, som de hidindtil have <lb/>
+havt, og hvorunder de have de samme Fordele, som de norske Fiskere, der <lb/>
+ikke eie Baade; – at Alt hvad der ønskes for Lapperne er, at de herefter, <lb/>
+som fra umindelig Tid, maa i Vinter Maanederne livsnære deres Reenhjorder, <lb/>
+ikke ved Græs, men ved Reenmosse, paa finske Fjeldstrækninger. <lb/>
+Denne Adgang til Livsbjergning har Lappefolket uden Tvivl havt tidligere <lb/>
+end de nuværende nordiske Riger existerede, og at berøve det <lb/>
+undertrykte Folk denne Levning af dets gamle Eiendom, vilde være inhumant <lb/>
+uchristelig, barbarisk, hvad enten Lapperne ere norske eller russiske <lb/>
+Undersaatter, da de dog ere Mennesker. </p>
+                  <p xml:id="p77">	Dette vilde forhaabentlig erkjendes af den humane, christelige, <lb/>
+høisindede Keiser Nicolaus, om Deres Majestæt vilde have den Naade <lb/>
+at virke directe paa Høistsamme, og muligen, at en directe Meddelelse <lb/>
+af underdanigst vedlagte Slutning af Regjeringens Indstilling hertil <lb/>
+turde bidrage.</p>
+                  <p xml:id="p78">	Jeg beder Deres Majestæt naadigst tilgive, at jeg besværer Deres <lb/>
+Majestæt med saa vidtløftige Skrifters Læsning; men dette er  <lb/>
+uundgaaelig nødvendig for at faae et rigtigt Begreb om Forholdene, og <lb/>
+dette udkræves, for at kunne afværge Ulykke og Ødelæggelse fra <lb/>
+skikkelige, men besværlige Undersaatter, der som Mennesker have billig <lb/>
+Fordring paa Medlidenhed af egen som af fremmed Landsherre.</p>
+                  <p xml:id="p79">	Jeg kan ikke tilbageholde den underdanige Yttring, at de seneste <lb/>
+franske Efterretninger forurolige mig. Jeg ængstes ved den Frygt, <lb/>
+at Louis Napoléon ved Mangel paa Maadehold kan forskjertse Alt hvad <lb/>
+han ved Klogskab og Kraft har opnaaet for Frankrige og for Europa. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 1te Februar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h18">
+                  <supplied resp="editor">Christiania 12. februar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h19">Underdanigst Rapport!</head>
+                  <p xml:id="p80">	Efter min sidste underdanigste Rapport af 1ste denne Maaned, har <lb/>
+jeg modtaget Grev Lewenhaupts Brev af 2den, som foranlediger mig til  <lb/>
+underdanigst at bemærke, at Aarsagen til min Taushed fra den 18de <lb/>
+Januar til den 1ste Februar, var deels, at jeg, uden at være syg, var <lb/>
+mindre vel og lidende, deels, at jeg daglig ventede at kunne underdanigst <lb/>
+melde Noget om Lappesagens Behandling, som af Indre Departementet <lb/>
+blev udsat fra det ene Statsraad til det andet.</p>
+                  <p xml:id="p81">	I Anledning af den mig sendte Skrivelse fra H. Harring, tillader <lb/>
+jeg mig underdanigst at vedlægge den Oplysning om Personen, som <lb/>
+Politiemesteren, Kammerherre Morgenstjerne, har kunnet give. Han, som jeg, <lb/>
+formodede Brevet bestemt for en her bosat Tømmermester Struck, men som <lb/>
+ikke vil vedkjende sig det. Denne Struck, tydsk af Fødsel, var som <lb/>
+Tømmersvend i Warschau under Revolutionen 1830, gjennemgik der den <lb/>
+revolutionnaire Lære, har i en Deel Aar været bosat her, og er Formand <lb/>
+i den her for flere Aar tilbage af G. Fein stiftede Forening under <lb/>
+Benævnelsen "Germania".</p>
+                  <p xml:id="p82">	Jeg beklager, at Grev Wrangel ikke har meddeelt, til hvem Harrings <lb/>
+Brev er adresseret, som formeentlig ikke kan være vanskelig for <lb/>
+ham at erfare og som vilde give Lys i Sagen.</p>
+                  <p xml:id="p83">	Jeg vil nu tillade mig underdanigst at berøre 2de Gjenstande, <lb/>
+med underdanigst Bøn om, at de maa forblive for Deres Majestæt alene.</p>
+                  <p xml:id="p84">	Det er i de senere Aar bleven en Vedtægt, at et Par Avisredactioner <lb/>
+i Statssecretariatet have faaet Meddelelse om Regjeringens Indstillinger <lb/>
+til Embeders Besættelse, saa snart de ere afgaaede til <lb/>
+Stockholm, – <hi rend="underline">som de da strax publicere</hi>.</p>
+                  <p xml:id="p85">	Denne Vedtægt er, saavidt jeg har kunnet erfare, foranlediget <lb/>
+af Statsraad Vogt, som har en overdreven Tilbøielighed for Publicitet <lb/>
+i alle Begivenheder; – men som i denne, som i flere Begivenheder medfører <lb/>
+mangehaande Ulemper. Meddelelsen til 2de Avisredactioner foranlediger <lb/>
+Jalousie hos og lige Fordring af de andre, som nu ere saa mange, <lb/>
+at det vilde blive besværligt for Statssecretariatet at tilfredsstille <lb/>
+dem alle. Den utidige Publication foranlediger utidig Raisonnement i <lb/>
+Aviserne, forinden Deres Majestæt har afgivet Resolution. Vi finde <lb/>
+det mindre passende, at Sager, som foredrages Deres Majestæt til  <lb/>
+Afgjørelse, meddeles Publicum, forinden de af Deres Majestæt ere afgjorte, <lb/>
+og endelig releverer Statsraad Riddervold den mislige Indflydelse, <lb/>
+som det har paa Forholdet imellem Præster og Menigheder, at disse erfare, <lb/>
+at hine have søgt Forflyttelse, uden at opnaae den, som dog kun <lb/>
+kan blive Tilfældet for een af de 3de Indstillede.</p>
+                  <p xml:id="p86">	Alle Regjeringens Medlemmer ere derfor enige om, at den utidige <lb/>
+Publication er en Uskik, som bør afskaffes og reduceres til at meddele, <lb/>
+hvem Deres Majestæt naadigst har udnævnt til et Embede, uden at <lb/>
+publicere de øvrige af Regjeringen nævnte Candidater.</p>
+                  <p xml:id="p87">	Vi troe imidlertid ikke at burde forandre den ommeldte indførte <lb/>
+Uskik uden Deres Majestæts Vidende og naadigste Bifald, som jeg efter <lb/>
+Regjeringens eenstemmige Ønske tillader mig underdanigst at udbede mig <lb/>
+naadigst meddeelt.</p>
+                  <p xml:id="p88">	De fra de Kongelige Regjerings Departementer udgaaende Skrivelser <lb/>
+have alle en trykt Overskrift, lydende til Exempel: "Det <hi rend="underline">Kongelige</hi>
+                     <lb/>
+Kirke Departement". Denne Form er stedse befulgt og bliver fremdeles <lb/>
+befulgt af alle Regjerings Departementer, undtagen af Justits- og Armee- <lb/>
+Departementerne, i hvis Overskrifter Ordet "<hi rend="underline">Kongelig</hi>" i den senere <lb/>
+Tid er udeladt, saa at Skrivelsen lige vel kan antages udgivet af den <lb/>
+Norske Republik som af den <hi rend="underline">Kongelig</hi>  Norske Regjerings Justits-Departement.</p>
+                  <p xml:id="p89">	Herpaa gjort opmærksom, omtalede jeg Sagen med vedkommende Departements <lb/>
+Chefer, Statsraaderne Petersen og Sørenssen, som begge erklærede, <lb/>
+at den skeede Udeladelse af Ordet "Kongelig" er undgaaet Deres <lb/>
+Opmærksomhed, og at det igjen vil blive indtaget i nye Blanquetter, <lb/>
+naar de nu havende ere forbrugte; hvorimod jeg formener, at de  <lb/>
+paaankede Blanquetter strax bør casseres; thi Formforandringen maa <lb/>
+Departements-Cheferne uafvidende være iværksat af Underordnede, og disse <lb/>
+bør strax erfare, at Misbrug ikke taales, naar de ere bemærkede.</p>
+                  <p xml:id="p90">	For Tiden udbeder jeg underdanigst, at Deres Majestæt naadigst <lb/>
+vil ignorere denne Sag, som jeg blot har troet at burde underdanigst <lb/>
+meddele, for at forvisse mig om, at Deres Majestæt naadigst vil bifalde <lb/>
+min Anskuelse, forinden jeg gjør den gjældende, som derefter ikke <lb/>
+vil møde nogen Vanskelighed.</p>
+                  <p xml:id="p91">	Jeg vover at modsee den i min underdanigste Rapport af 18de <lb/>
+forrige Maaned udbedede naadige Reisepermission, hvortil Tiden nærmer <lb/>
+sig. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 12 Februar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h20">
+                     <supplied resp="editor">Tillegg til rapport av 12. februar 1852</supplied>
+                  </head>
+                  <opener>CHRISTIANIA POLITIKAMMER. <lb/>
+                     <salute>Deres Excellence</salute>
+                  </opener>
+                  <p xml:id="p92">	Saavidt jeg har kunnet erfare, har Haro Harring siden hans Udviisning <lb/>
+i 1850 kun staaet i Correspondance her i Landet, med Bygmester <lb/>
+Struck, Musiklærer Neupert, Prokurator Gaarder og en Skibscapitain <lb/>
+Hjorth, hvilken sidste, der med sit Skib farer paa Hull, flere Gange <lb/>
+har besøgt ham paa sidstnævnte Sted. De tre førstnævnte Mænd havde <lb/>
+paataget sig at sælge Haro Harrings efterladte Effekter, fornemmmelig <lb/>
+bestaaende i Malerier, for hvilke, 16 i Tallet, han forlangte 160 Spd. <lb/>
+De bleve imidlertid kun udbragte til 6 Spd. og da Capitaine Hjorth  <lb/>
+overbragte ham dette Beløb og fandt ham i den elendigste Forfatning paatog  <lb/>
+han sig ved sin Hjemkomst at aabne en Subscription, hvilket han ogsaa  <lb/>
+gjorde, og hvorved der kom ind 32 Spd der igjennem Vice Consul Crowes  <lb/>
+Forsorg bleve Harring tilstillede i engelsk Mynt. Bygmester Struck, med  <lb/>
+hvem jeg igaar har talt om denne Sag og som jeg har Anledning til at troe, <lb/>
+at jeg tør stole paa, især i nærværende Øieblik, forsikkrede mig at saavidt <lb/>
+ham bekjendt har Ingen her i Landet hørt noget fra Harring senere end  <lb/>
+August Maaned f. A. med Undtagelse af Capitaine Hjorth; der paa hver Reise  <lb/>
+til Hull besøgte ham. Betræffende Haro Harrings Skrivelse dateret London den <lb/>
+14de December 1851, saa fandt han sig overbeviist om at den ikke er <lb/>
+stilet til Nogen her i Landet, men til en Mand i Hamburg. Med Undtagelse <lb/>
+af "Nothmann", som er bosat i sidstnævnte Stad, kjendte han ikke  <lb/>
+et eneste af de i Skrivelsen anførte Navne.</p>
+                  <p xml:id="p93">	Harring blev i Høst nødsaget til at forlade Hull da han paa Grund <lb/>
+af en mod sin Vært begaaet Skjændselsgjerning havde udsat sig for <lb/>
+at lide corporlig Molest af bemeldte Værts mange Venner. Historien <lb/>
+der ikke er interressant nok til at jeg tør tillade mig dermed at  <lb/>
+opholde Deres Excellence, er af lumpneste og gemeneste Sort og har, <lb/>
+efter Bygmester Strucks Sigende, vendt al Sympathie fra ham, selv hos <lb/>
+de først, i nærværende Skrivelse nævnte Personer.</p>
+                  <p xml:id="p94">	Til Capitaine Hjorth skal forøvrigt Haro Harring have yttret <lb/>
+at han vilde gjøre sig al Umage for at formaae politiske Flygtninge <lb/>
+til at bosætte sig i Sverrig og i Norge, hvorved han i det mindste <lb/>
+opnaaede at forskaffe Regjeringen og Politiet Bryderie. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania Politikammer</placeName>
+                        <lb/>
+                        <date>den 12te Febr 1852</date>
+                     </dateline>
+                     <lb/>
+                     <salute>underdanig</salute>
+                     <lb/>
+                     <signed>
+                        <persName>C. Morgenstierne</persName>
+                     </signed>
+                     <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+ m.m. v. Løvenskiold</closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h21">
+                  <supplied resp="editor">Christiania 16. februar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h22">Underdanigst Rapport!</head>
+                  <p xml:id="p95">	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+                  <p xml:id="p96">	Jeg vilde ikke i Dag have besværet Deres Majestæt med disse <lb/>
+underdanige Linier, ifald jeg ikke kort før Postens Afgang havde modtaget <lb/>
+vedlagte Copie af en Skrivelse fra Hertugen af Nemours og Prindsen <lb/>
+af Joinville, som fra et anseet Handelshuus i London, (formeentlig <lb/>
+DHrr Coutts &amp; Co) er bleven tilstillet nogle af vore første Handlende <lb/>
+hersteds. Som jeg erfarer, vil en Copie af dette Brev med Dagsposten <lb/>
+blive tilstillet den i Stockholm værende franske Légation, uden <lb/>
+at jeg dog tør indestaae for Documentets Ægthed. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 16 Februar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h23">
+                     <supplied resp="editor">Tillegg til rapport av 16. februar 1852</supplied>
+                  </head>
+                  <opener>A Messieurs les Exécuteurs testamentaires du Roi Louis-Philippe. <lb/>
+    			(La lettre est Lithographiée) <lb/>
+                     <dateline>
+                        <placeName>Claremont</placeName>, <date>le 29 Janvier 1852</date>.</dateline>
+                  </opener>
+                  <p xml:id="p97">	Messieurs, Nous avons reçu la protestation que vous avez rédigée <lb/>
+contre les décrets de confiscation rendus contre nous et nous <lb/>
+vous remercions bien sincèrement de vos efforts pour résister à <lb/>
+l'injustice et à la violence.</p>
+                  <p xml:id="p98">	Nous avons trouvé tout simple que vous vous soyez occupés <lb/>
+spécialement de la question de droit sans faire ressortir ce que les <lb/>
+considérans de ces décrets ont d'injurieux pour la mémoire du Roi notre <lb/>
+père.</p>
+                  <p xml:id="p99">	Un moment nous avons songé à sortir de la réserve que l'exil <lb/>
+nous impose et à repousser nous-mêmes les attaques si indignement  <lb/>
+dirigées contre le meilleur des pères et nous ne craignons pas d'ajouter <lb/>
+contre le meilleur des Rois.</p>
+                  <p xml:id="p100">	Mais en y pensant plus mûrement, il nous a paru qu'à de semblables <lb/>
+imputations, le silence du dédain était la meilleure réponse.</p>
+                  <p xml:id="p101">	Nous ne nous abaisserons donc pas à relever ce que ces calomnies <lb/>
+ont de particulièrement odieux à être reproduites par celui qui a pu <lb/>
+deux fois apprécier la magnanimité du Roi Louis Philippe et dont la <lb/>
+famille n'a jamais reçu de lui que des bienfaits. <lb/>
+Nous laissons à l'opinion publique le soin de faire justice des <lb/>
+paroles aussi bien que de l'acte qu'elles accompagnent, et si nous en <lb/>
+croyons les témoignages de sympathie que nous recevons de toutes parts, <lb/>
+nous sommes bien suffisamment vengés.</p>
+                  <p xml:id="p102">	Pour l'honneur d'un pays à qui le Roi notre pére a donné dixhuit <lb/>
+années de paix, de prospérité et de dignité, d'un pays que nous, ses <lb/>
+fils, avons loyalement servi, pour l'honneur de cette France qui est <lb/>
+toujours la patrie que nous aimons, nous sommes heureux de constater <lb/>
+que ces honteux décrets et leurs considérans, plus honteux encore, n'ont <lb/>
+osé se produire que sous le régime de l'état de siège et après la <lb/>
+suppression de toutes les garanties protectrices des libertés de la <lb/>
+nation.</p>
+                  <p xml:id="p103">	Nous vous prions en finissant, Messieurs, d'exprimer notre vive <lb/>
+reconnaissance aux hommes éminens de tous les partis qui sont venus <lb/>
+vous offrir le concours de leur talent et de leur courage. Nous acceptons <lb/>
+ce concours de grand coeur, persuadés qu'en défendant aujourd'hui <lb/>
+notre course ils défendent les droits de la société française toute <lb/>
+entiere.</p>
+                  <p xml:id="p104">	Recevez, Messieurs, l'assurance de nos sentimens affectueux pour <lb/>
+vous.</p>
+                  <closer>
+                     <signed>
+                        <persName>Louis d'Orléans</persName>	} <lb/>
+    							(Duc de Nemours)	}  <lb/>
+    										  Fac simile <lb/>
+                        <persName>F. d'Orléans</persName>	} <lb/>
+    						  (Prince de Joinville)	}</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h24">
+                  <supplied resp="editor">Christiania 22. februar 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h25">Underdanigst Rapport!</head>
+                  <p xml:id="p105">	Siden min sidste underdanigste Rapport af 16de, har jeg havt <lb/>
+den Ære at modtage Deres Majestæts naadige Skrivelse af 12te denne <lb/>
+Maaned og takker jeg underdanigst for Deres Majestæts naadige Deeltagelse <lb/>
+i den Familie Begivenhed som foranlediger mig til nu at besøge <lb/>
+Fossum. Jeg agter at tiltræde Reisen derhen den 24de og om <lb/>
+Gud vil, at være her tilbage den 10de Marts, for at feire Hendes  <lb/>
+Majestæt Dronningens Fødselsdag den 14de.</p>
+                  <p xml:id="p106">	Sildefisket paa vor Kyst er for dette Aar sluttet. Efter de <lb/>
+indkomne Rapporter er dette Aars Udbytte ringe, ikke af Mangel paa <lb/>
+Sild; men i Mangel af gunstigt Veir til at fiske den. Tilfredsheden <lb/>
+med de trufne kostbare offentlige Foranstaltninger, for at vedligeholde <lb/>
+den savnede Orden under Fiskeriet, synes almindelig.</p>
+                  <p xml:id="p107">	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa den i Journal des debats indførte Grev Montalemberts <lb/>
+mesterlige, ogsaa i politisk Henseende høist interessante <lb/>
+Tale, ved hans Indtrædelse i det franske Academie. Den fortjener at <lb/>
+læses og den efterlader et velgjørende Indtryk.</p>
+                  <p xml:id="p108">	Under min Fraværelse vil Hr Statsraad Krog besørge mine Vices.</p>
+                  <p xml:id="p109">	Da jeg i Dag intet Videre har at indberette, tillader jeg mig <lb/>
+underdanigst at anbefale mig til Deres Majestæts Naade og høie <lb/>
+Bevaagenhed. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 22 Februar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="postscript">
+                  <head type="tillegg" xml:id="h26">
+                     <supplied resp="editor">Tillegg til rapport av 22. februar 1852</supplied>
+                  </head>
+                  <head type="sub2" xml:id="h27">Underdanigst Apostille.</head>
+                  <p xml:id="p110">	Efter at min underdanigste Rapport af Gaars Dato var skrevet, <lb/>
+har jeg modtaget Grev Lewenhaupts Brev af 19de, hvori han meddeler <lb/>
+mig Deres Majestæts naadige Bifald til de i min underdanigste Rapport <lb/>
+af 12te omnævnte Punkter 1 og 2.</p>
+                  <p xml:id="p111">	Det var i Forventning heraf, at jeg udsatte min Afreise til <lb/>
+Fossum en Dag, som jeg vil anvende til at iværksætte Deres Majestæts <lb/>
+naadige Befalinger. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 23 Februar 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h28">
+                  <supplied resp="editor">Christiania 5. mars 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h29">Underdanigst Rapport!</head>
+                  <p xml:id="p112">	Siden Hans Excellence Statholderens Afreise den 24de forrige <lb/>
+Maaned er Intet mærkeligt indtruffet som jeg har troet at burde  <lb/>
+underdanigst indberette til Deres Majestæt.</p>
+                  <p xml:id="p113">	Uagtet den vedvarende strænge Vinter gaaer dog Arbeidet paa <lb/>
+Jernbanelinien frem med Kraft; 1,500 Mand ere daglig beskjæftigede <lb/>
+og finde derved Virksomhed og Fortjeneste. Hvis Arbeidet saaledes <lb/>
+skrider fremad, tør man maaskee gjøre sig Haab om, at en Deel af Linien <lb/>
+vil kunne aabnes og befares til Høsten.</p>
+                  <p xml:id="p114">	Sildefiskeriet er nu saa godt som sluttet, og Udbyttet, skjønt <lb/>
+noget mindre end et Middelsaar, har dog oversteget Forventningen.</p>
+                  <p xml:id="p115">	Kongsberg Sølvværk giver fremdeles gode Udsigter. Vel vil <lb/>
+der i den nærmeste Fremtid blive leveret mindre Sølv, da man i Aarene <lb/>
+1848-1850, for at fyldestgjøre Statscassens Fordringer, maatte <lb/>
+anstrænge Driften og derfor nu maa anvende betydeligt Arbeide paa <lb/>
+at afdrive de tilbagestaaende Bjergmasser. Der er dog ikke nogen <lb/>
+Grund til at betvivle, at Sølvværket i denne Budgettermin vil levere <lb/>
+saa meget Sølv som paaregnet, nemlig 18000 Mark fiint Sølv aarlig. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 5te Marts 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>N.J. Krog</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h30">
+                  <supplied resp="editor">Christiania 11. mars 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h31">Underdanigst Rapport!</head>
+                  <p xml:id="p116">	Min sidste underdanigste Rapport var af 22de og 23de forrige <lb/>
+Maaned og er det mig bekjendt, at Statsraad Krog under 5te <lb/>
+denne Maaned har afgivet en underdanigst Rapport.</p>
+                  <p xml:id="p117">	Efter min Bestemmelse kom jeg her tilbage i Gaar Aftes, efter <lb/>
+et for mig tilfredsstillende og velgjørende Besøg paa Fossum.</p>
+                  <p xml:id="p118">	Her har jeg heldigviis Intet erfaret, som fortjener Deres <lb/>
+Majestæts naadige Opmærksomhed.</p>
+                  <p xml:id="p119">	Den 14de denne Maaned agter jeg at feire Hendes Majestæt <lb/>
+Dronningens høie Fødselsdag ved en Bal.</p>
+                  <p xml:id="p120">	Actor i den mod Armée-Intendant Meylænder med Flere befalede <lb/>
+Sag, har i Gaar nedlagt følgende Paastand mod de Tiltalte: <lb/>
+                     <list xml:id="list121">
+                        <label>
+                           <hi rend="underline">A.</hi>
+                        </label>
+                        <item>At Armée Intendant Meylænder og Depôtforvalter Gløersen ansees <lb/>
+med Straf af Afsættelse, Ærens Tab og Fæstningsarbeide i 9 1/2 Aar. <lb/>
+Stadshauptmand Ytteborg med Mulkt af 100 Speciedaler til Statscassen <lb/>
+og Kjøbmand Andreas Berg med 15 Dages Fængsel paa Vand og Brød.</item>
+                        <lb/>
+                        <label>
+                           <hi rend="underline">B.</hi>
+                        </label>
+                        <item>At Armée Intendant Meylænder og Depôtforvalter Gløersen in solidum <lb/>
+tilpligtes at erstatte 8,825 3/8 Alen Munderings Klæde og Førstnævnte <lb/>
+181 Par Kudske Skoe.</item>
+                        <lb/>
+                        <label>
+                           <hi rend="underline">C.</hi>
+                        </label>
+                        <item>At samtlige Tiltalte in solidum tilpligtes at betale alle af  <lb/>
+Actionen flydende Omkostninger.</item>
+                     </list>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 11te Marts 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h32">
+                  <supplied resp="editor">Christiania 21. mars 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h33">Underdanigst Rapport!</head>
+                  <p xml:id="p122">	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+                  <p xml:id="p123">	Jeg takker underdanigst for Deres Majestæts naadige Meddelelse <lb/>
+ved Grev Lewenhaupt om Deres Majestæts Reise til Upsala, hvorfra <lb/>
+jeg haaber Deres Majestæt lykkelig tilbagekommet.</p>
+                  <p xml:id="p124">	Da Deres Majestæt nu naadigst har besluttet Kroningen udsat <lb/>
+til næste Aar, vover jeg underdanigst at bede mig naadigst underrettet <lb/>
+om Deres Majestæts Planer for Sommeren med Hensyn paa Norge, <lb/>
+som naturligviis har en stor Interesse for Deres Majestæts norske <lb/>
+Undersaatter.</p>
+                  <p xml:id="p125">	Hendes Majestæt Dronningens høie Fødselsdag feirede jeg ved <lb/>
+en Bal, hvorved jeg savnede et Huus, som paa Fossum, hvor jeg nylig <lb/>
+havde bivaanet en Bal.</p>
+                  <p xml:id="p126">	Høiesterets Assessor Ottesen er afgaaet ved Døden. Han var <lb/>
+en hæderlig Mand, men nu saa afkræftet, at hans Bortgang snarere <lb/>
+er en Fordeel end et Savn for Retten, hvilket kan siges om flere dens <lb/>
+ældre Medlemmer, som kun tilbageholdes i Mangel af Sikkerhed om billig <lb/>
+og anstændig Alderdoms Understøttelse.</p>
+                  <p xml:id="p127">	Jeg føler mig forpligtet til at gjentage min underdanige Bøn <lb/>
+i Rapport af 14de December forrige Aar om den naadige Udmærkelse <lb/>
+for Generalconsul Faye, hvorom jeg i sin Tid troede at turde give ham <lb/>
+Haab og som saaledes for mig er bleven en Æresgjæld. Jeg vovede at <lb/>
+give dette Haab efter Overlæg med Finants Departementets Chef, for <lb/>
+at bevæge Faye til at indtræde i Hypothekbankens Direction, fordi <lb/>
+vi begge vare overbeviiste om, at dens Tilblivelse og heldige Virksomhed <lb/>
+dependerede af Fayes Bestyrelse, og vi erfare daglig denne <lb/>
+Anskuelses Rigtighed. Faye havde allerede fortjent et offentligt Beviis <lb/>
+paa Deres Majestæts Naade, ved sine opoffrende Anstrængelser <lb/>
+for Hypothekbankens Tilblivelse, og han fortjener det daglig mere <lb/>
+ved sin ufortrødne Bestræbelse for dens heldige Virksomhed. Man kan <lb/>
+neppe gjøre sig Begreb om den Opoffrelse af Tid og Kræfter, som <lb/>
+denne Virksomhed kræver af en dygtig Mand med Fayes meget svage Helbred, <lb/>
+der ikke taaler Udsættelse for de Goder, som han endnu skal <lb/>
+kunne modtage i denne Verden.</p>
+                  <p xml:id="p128">	Jeg tillader mig derhos at gjentage min underdanige Bøn af <lb/>
+14de August forrige Aar om at Deres Majestæt ved samme Leilighed <lb/>
+vil benaade Statsraad Erichsen med Commandeur Graden af St Olafs <lb/>
+Ordenen og de aftraadte værdige Stifts-Amtmænd Hagerup og Falsen <lb/>
+med Guldmedaillen for Borgerdaad. Jeg har oftere erfaret, at gode <lb/>
+Gjerninger komme for seent, naar de udsættes og derfor bør jeg <lb/>
+underdanigst udbede Deres Majestæts naadige Tilgivelse for min <lb/>
+Paatrængenhed i denne Begivenhed.</p>
+                  <p xml:id="p129">	Jeg tillader mig underdanigst at vedlægge en Opfordring af <lb/>
+Harro Harring til hans Venner, paa Grund af den Maade, hvormed han <lb/>
+omtaler en Hr Mansvil, som skal opholde sig i Stockholm. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 21 Marts 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h34">
+                     <supplied resp="editor">Tillegg til rapport av 21. mars 1852</supplied>
+                  </head>
+                  <p xml:id="p130">	Om Generaladjutanten havde havt Anledning til at afgive sin <lb/>
+Betænkning om Planen for Generalstaben af 17de August 1850, forinden <lb/>
+den blev indstillet til naadigst Approbation, vilde han uden <lb/>
+Tvivl have yttret de samme Anskuelser, som nu, og disse yttrede af <lb/>
+en Mand, hos hvem i Følge hans Embedsstilling en høi Grad af Sagkundskab <lb/>
+bør forudsættes og som skal være Generalstabens Chef, vilde <lb/>
+rimeligviis have havt megen Indflydelse paa Sagens Behandling og <lb/>
+endelige Afgjørelse. Denne Indflydelse kan og bør Generaladjutantens <lb/>
+Anskuelse formeentlig have endnu, da intet af Planen er bleven iværksat, <lb/>
+og i Mangel af egen Sagkundskab, troer jeg at burde respectere  <lb/>
+General Adjutantens og tiltræde hans nu fremsatte Forslag om <lb/>
+Stabens militaire Organisation, alene med Undtagelse af den  <lb/>
+Afsættelighed, som han vil have bestemt for dens 1ste og 2den Officier.</p>
+                  <p xml:id="p131">	Naar jeg ikke i dette Punkt kan tiltræde Generaladjutantens <lb/>
+Mening, saa er det ikke, fordi jeg jo anseer den vel begrundet; men <lb/>
+fordi jeg ikke kan bringe den i Harmonie med Grundlovens 22de § eller <lb/>
+i Analogie med den paaberaabte Kongl. Resolution af 18e Juny <lb/>
+1831.</p>
+                  <p xml:id="p132">	Den eneste Maade at bringe disse 2de Officierer i den afsættelige <lb/>
+Stilling, som alle Sagkyndige anser hensigtsmæssig ja nødvendig <lb/>
+for Generalstabens Tarv, vil formeentlig være at constituere <lb/>
+(tilforordne), istedetfor at udnævne dem til faste Officierer. I <lb/>
+denne Hensigt maatte i Forslagets § 2 a istedetfor "<hi rend="underline">fast ansatte</hi>" <lb/>
+sættes "<hi rend="underline">constituerede</hi>  (tilforordnede) Officierer" og i § 28 ligeledes <lb/>
+istedetfor "faste" constituerede Officierer".</p>
+                  <p xml:id="p133">	Herved vilde Hensigten opnaaes og det skjønnes ikke, at en <lb/>
+afsættelig Oberstlieutenant i Generalstaben vilde være i en værre <lb/>
+Stilling end en som Corpschef afsættelig Oberst-lieutenant.</p>
+                  <p xml:id="p134">	Med Hensyn paa Charger og Personal i Generalstaben er Armee <lb/>
+Departementet og Generaladjutanten enige om, at denne bør have 3 høieste <lb/>
+Officierposter, at en af disse indtil videre skal staae vacant, <lb/>
+at Oberstlieutenant Rosen og Capitaine Wergeland bør ansættes i Staben; <lb/>
+men medens Departementet vil have den første Post staaende vacant <lb/>
+og Rosen ansat som 3die Officier, vil Generaladjutanten have <lb/>
+den 3e Post vacant og Rosen ansat som første Officier. Generaladjutanten <lb/>
+vil derhos have constitueret som 3e Officier Capitaine Blom, <lb/>
+hvem han dog ikke finder sig foranlediget til at indstille til virkelig <lb/>
+Ansættelse i Generalstaben.</p>
+                  <p xml:id="p135">	Jeg seer ingen skjellig Grund til at lade nogen af de 3 høieste <lb/>
+Officierposter henstaae vacant; men formener, at de alle strax <lb/>
+bør besættes og at herved bør tages Hensyn paa Capitaine Holmboe, <lb/>
+som efter paalidelige Vidnesbyrd i en lang Aarrække har arbeidet i <lb/>
+Generalstaben, derunder har viist udmærket Dygtighed, om om hvem <lb/>
+Generaladjutanten yttrer, at han er en duelig og værdig Officier, <lb/>
+som han anseer qvalificeret til Ansættelse i Generalstaben ved en <lb/>
+anden Leilighed.</p>
+                  <p xml:id="p136">	Jeg formener saaledes, at Oberstlieutenant Rosen, Capitaine <lb/>
+Holmboe og Capitaine Wergeland bør ansættes i de 3 høieste Officierposter <lb/>
+i Generalstaben, efter deres nu havende militaire Charger og  <lb/>
+Anciennetet, de 2de førstnævnte som Oberstlieutenanter, constituerede <lb/>
+i Generalstaben og den sidstnævnte som Major.</p>
+                  <p xml:id="p137">	At ville i en iøvrigt lige Stilling ansætte en Oberstlieutenant <lb/>
+under en Capitaine, eller en meget ældre Capitaine under en <lb/>
+yngre, vilde neppe være gavnligt for det militaire Respectforhold.</p>
+                  <closer>
+                     <dateline>
+                        <date>19/3 1852</date>.</dateline>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h35">
+                  <supplied resp="editor">Christiania 1. april 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h36">Underdanigst Rapport!</head>
+                  <p xml:id="p138">	Min sidste underdanigste Rapport var af 21de forrige Maaned.</p>
+                  <p xml:id="p139">	General Bloch har indgivet Forslag til nogle Forandringer i <lb/>
+den af Deres Majestæt under 17de August 1850 naadigst approberede <lb/>
+Plan for Generalstabens Organisation, hvis endelige Behandling  <lb/>
+Regjeringen havde udsat til min Tilbagekomst fra Fossum, hvilket var <lb/>
+mig ukjært, fordi jeg maa erkjende, at jeg i denne Begivenhed mangler <lb/>
+den til Forslagets rigtige Bedømmelse nødvendige Sagkundskab. <lb/>
+I Mangel heraf troer jeg at burde i det Væsentlige tiltræde den <lb/>
+Mands Mening, hos hvem jeg i militair Henseende forudsætter meest <lb/>
+Sagkundskab, og dette er General Bloch. Kun i 2de Henseender, der <lb/>
+ikke ere reen militaire, har jeg tilladt mig at yttre en egen afvigende <lb/>
+Mening.</p>
+                  <p xml:id="p140">	Jeg kan være ganske enig med General Bloch i, at Generalstabens <lb/>
+første Officierer burde være amovible; men hvilket de, en Gang <lb/>
+udnævnte, ikke vilde blive efter Grundlovens 22de § og saaledes <lb/>
+skjønner jeg intet Middel til Hensigtens Opnaaelse end at <hi rend="underline">tilforordne</hi>
+                     <lb/>
+dem; men da herimod gjøres Indvendinger, har jeg ikke vovet at  <lb/>
+indstille det, men kun paapeget det.</p>
+                  <p xml:id="p141">	Jeg antager derhos, at alle 3 høieste Officierposter bør strax <lb/>
+besættes, for at Generalstaben strax bør kunne komme i fuld <lb/>
+Virksomhed, og at herved bør tages Hensyn paa Capitaine Holmboe, som i <lb/>
+en lang Aarrække har arbeidet i Generalstaben med anerkjendt Dygtighed.</p>
+                  <p xml:id="p142">	Jeg tillader mig underdanigst at vedlægge mit først afgivne <lb/>
+Votum, hvilket jeg har forandret med Hensyn paa Ordenen imellem de <lb/>
+3 ansættende Officierer, deels for at opnaae Enighed, deels fordi <lb/>
+jeg maa erkjende, at den foreslaaede Orden vil være den gavnligste <lb/>
+for Generalstaben.</p>
+                  <p xml:id="p143">	Regjeringen (med Undtagelse af min Stemme) indstiller; "at <lb/>
+Deres Majestæt ikke vil bifalde General Blochs Forslag, og udnævne <lb/>
+Capitainerne Wergeland og Holmboe til Oberstlieutenanter som 1ste <lb/>
+og 2dre Officier i Generalstaben, og lade Oberstlieutenant Rosen <lb/>
+vedblive at være 3e Officier", som jeg sluttelig har tiltraadt.</p>
+                  <p xml:id="p144">	Ogsaa i denne Begivenhed har jeg ugjerne bemærket den Uenighed, <lb/>
+som vedvarer imellem Armee-Departementet og Commandoen. Til <lb/>
+Held for Marinen forholder det sig anderledes der, hvor Departementschefen  <lb/>
+og den Høistbefalende gaae Haand i Haand.</p>
+                  <p xml:id="p145">	En anden Regjerings-Indstilling vil afgaae med Morgen Posten, <lb/>
+hvorpaa jeg troer at burde henlede Deres Majestæts naadige Opmærksomhed. <lb/>
+Statsraad Riddervold foreslog først en privat Skoles Bestyrer, <lb/>
+Candidat Nissen, til Ansættelse i Kirke-Departementet som 2den  <lb/>
+Expeditions Secretair, hvilket Regjeringen saa meget mindre kunde ansee <lb/>
+nødvendigt, som dette Departement ved Indre Departementets Oprettelse <lb/>
+har afgivet betydelige Forretningsgrene til dette. Derefter <lb/>
+foreslog han benævnte Nissen ansat som faat Embedsmand for Skolevæsenet <lb/>
+i Kirke Departementet og da dette heller ikke mødte Bifald, <lb/>
+foreslog han Nissen ansat som Consulent for Skolevæsenet med aarlig <lb/>
+Løn 1050 Spdl., som er Expeditions Secretairs Gage, hvilket er <lb/>
+indstillet til Deres Majestæts naadige Bifald.</p>
+                  <p xml:id="p146">	Kirke Departementets forrige Chef, Statsraad Holst, lod sig <lb/>
+nøie med en Consulent for Skolevæsenet, som var lønnet med 200  <lb/>
+Speciedaler aarlig, og Nissen har senere i samme Egenskab hos <lb/>
+Riddervold havt 400 Speciedalers Løn. Statsraad Vogt, som nylig har <lb/>
+bestyret Kirke Departementet et heelt Aar, maa bedst kunne bedømme <lb/>
+om større Hjelp kan behøves end for denne Løn kan fordres.</p>
+                  <p xml:id="p147">	Jeg tilstaaer, at jeg ugjerne har givet min Stemme til det <lb/>
+nye Project, deels med Hensyn paa den høie Løn, deels, fordi jeg <lb/>
+befrygter, at Candidat Nissen, som vil kunne opoffre al sin Tid for <lb/>
+den nye Bestilling, vil foreslaae mange unødvendige upraktiske  <lb/>
+saakaldte Reformer i vort Skolevæsen.</p>
+                  <p xml:id="p148">	Biskop Juuel har afgivet en meget tilfredsstillende Indberetning <lb/>
+om sin Virksomhed blandt de aandsforvirrede Lapper i Kautokeino, <lb/>
+hvorunder han tildeler Pastor Stockfleth megen Roes. Det har <lb/>
+lykket Biskoppen at tilbageføre mange Forvildede og at gjenvinde <lb/>
+Fred og Orden under den offentlige Gudstjeneste. Han beklager, at <lb/>
+de svenske Nabopræster Læstadius og Liljeblad, især den første, efter <lb/>
+hans Formening, have meget bidraget til at opvække og nære den <lb/>
+aandelige Galskab blandt Lapperne, og har Biskoppen i denne Anledning <lb/>
+skriftlig henvendt sig til Læstadius.</p>
+                  <p xml:id="p149">	Da der under Indstillingen til en vacant gevorben Compagniechefspost <lb/>
+i 2den Infanterie Brigade har været yttret nogen Tvivl <lb/>
+om den for Tour staaende nationale Compagnie Chef Capitain Buddes <lb/>
+Dygtighed, har jeg herom søgt og faaet den paalidelige Oplysning, <lb/>
+at Capitaine Budde maa ansees for en til gevorben Compagniechef <lb/>
+fuldkommen dygtig Officier.</p>
+                  <p xml:id="p150">	Jeg kan kun i al Ydmyghed beklage, at Capitaine Fischer ikke <lb/>
+fik det vacante 3die Artillerie Batterie, som han ivrig attraaede <lb/>
+og hvortil vi her formeente, at han havde bedre Adgang en Capitaine <lb/>
+Fleischer.</p>
+                  <p xml:id="p151">	Af Hypothekbanken er allerede udlaant en 250,000 Speciedaler <lb/>
+og meget mere søgt. I den ældre Tid ansaae Folk sig lykkeligst ved  <lb/>
+at være gjældfrie; nu kappes Private med Staterne om at blive <lb/>
+forgjældet!</p>
+                  <p xml:id="p152">	Stakkels Stiftamtmand Falsen føelte sig ikke længere i Stand <lb/>
+til at bestyre Christiansands Stiftamtmands Embede, hvorfor Regjeringen <lb/>
+har været nødsaget til at constituere en Anden til Embedets  <lb/>
+Bestyrelse, indtil hans Eftermand er bleven naadigst udnævnt. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 1e April 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h37">
+                  <supplied resp="editor">Christiania 11. april 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h38">Underdanigst Indberetning!</head>
+                  <p xml:id="p153">	Siden min sidste underdanigste Rapport af 1ste denne Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 29de forrige Maaned, hvoraf jeg med Glæde erfarer, at vi tør <lb/>
+vente den Lykke at see Deres Majestæt her i Løbet af August Maaned.</p>
+                  <p xml:id="p154">	Siden min sidste underdanige Rapport er Intet omhandlet i <lb/>
+Statsraadet eller indtruffet i det daglige Liv, som fortjener Deres <lb/>
+Majestæts særdeles Opmærksomhed.</p>
+                  <p xml:id="p155">	Vort skjønne Vinterføre ophørte alt for tidligt for vor indre <lb/>
+Rørelse; I lang Tid have vi havt et stadigt klart Veir, men Foraar <lb/>
+vil vi neppe faae, før efter nogen vaad Nedbør, den Gud give os  <lb/>
+betimelig! Iiserne ligge endnu rundt omkring, som vedligeholder en <lb/>
+kjølig Temperatur; men Indseilingen til Havnen er aaben. Mange <lb/>
+danske Kornskibe ere ankomne, hvilket stadfæster den Formening, at <lb/>
+de høie Kornpriser, som de endnu vide at vedligeholde, – mere maa <lb/>
+tilskrives kunstige Maneuvre end naturlige Aarsager.</p>
+                  <p xml:id="p156">	Vor Tid er riig paa forskjellige Onder, hvoraf et aldeles nyt <lb/>
+viser sig i Byen Risøer, hvor et Par fra Danmark ankomne Mormoner <lb/>
+have foranlediget denne slemme Sectes Smitte blandt den lavere  <lb/>
+Folkeklasse, og hvor nu en Smed vil optræde som Mormonpræst.</p>
+                  <p xml:id="p157">	Paa sidste Tour fra Trondhjem til Bergen stødte Dampskibet <lb/>
+Constitutionen paa Grund i Alverstrømmen, og blev saa betydelig  <lb/>
+beskadiget, at det kun under Brugen af begge Pumper, kunde bringes til <lb/>
+Horten, hvor det maa landsættes, for at repareres. Skibet stod, – <lb/>
+da det stødte, under Lods Commando og gik i sin sædvanlige Cours; <lb/>
+men Lodsen maa ikke have taget tilbørlig Hensyn til, at Vandet, da <lb/>
+Uhælden indtraf, var usædvanligt lavt. Mangen anden Constitution har <lb/>
+faaet tidligere Skade end dette endnu gode gamle Skib, som efterat <lb/>
+være repareret, er bestemt til at fare anstundende Sommer imellem <lb/>
+Christiania og Kiel. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>d; 11te April 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h39">
+                  <supplied resp="editor">Christiania 16. april 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h40">Underdanigst Rapport!</head>
+                  <p xml:id="p158">	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+                  <p xml:id="p159">	Disse Linier fremkomme alene, for efter Vedkommendes Ønske, <lb/>
+- underdanigst at anmelde for Deres Majestæt, at den 82aarige Professor <lb/>
+Skjelderup af Alderdoms Svaghed er afgaaet ved Døden idag <lb/>
+Morges Klokken 3. Han efterlader sig almindelig Høiagtelse som <lb/>
+udmærket Videnskabsmand og Menneske. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 16 April 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h41">
+                  <supplied resp="editor">Christiania 18. april 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h42">Underdanigst Rapport!</head>
+                  <p xml:id="p160">	Med Henhold til min sidste underdanigste Rapport af 16de, <lb/>
+har jeg idag kun underdanigst at indberette Stiftamtmand Falsens <lb/>
+indtrufne Død.</p>
+                  <p xml:id="p161">	Efterat physisk Svaghed havde nødsaget ham til at fratræde <lb/>
+Stiftamtmands Embedets Bestyrelse, forinden hans Eftermand var bleven <lb/>
+udnævnt, modtog han alle locale Authoriteters Bevidnelse om <lb/>
+velfortjent Høiagtelse og Hengivenhed, og faae Dage derefter forundte <lb/>
+Gud den flittige, trætte Arbeider den evige Hvile. Han var <lb/>
+sin Konge og sit Fædreneland troe til sidste Stund.</p>
+                  <p xml:id="p162">	Det tørre klare Veir vedvarer med Solskin om Dagen, Frost <lb/>
+om Natten. Siden Midten af Februar Maaned har Himmelen ikke givet <lb/>
+os Væde, og intet grønt Straae, ingen grøn Knop er at see. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 18de April 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h43">
+                  <supplied resp="editor">Christiania 22. april 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h44">Underdanigst Rapport!</head>
+                  <p xml:id="p163">	Efterat min sidste underdanigste Rapport af 19de denne Maaned <lb/>
+var afgaaet, havde jeg den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 15de, hvorfor jeg iler at nedlægge min underdanigste <lb/>
+Taksigelse.</p>
+                  <p xml:id="p164">	Deres Majestæt har den Naade at meddele en Tableau over de <lb/>
+europæiske politiske Forholde, som har den høieste Interesse, fordi <lb/>
+den er baseret paa Sagkundskab og fordi den er ledsaget af lærerige <lb/>
+Betragtninger. Med god Grund indtager Frankrige den første Plads i <lb/>
+denne Tableau, fordi dets Folk angiver Tonen i Europa. Siden 1789, <lb/>
+altsaa i 63 Aar, har dette Folk givet Europa et Exempel paa politiske <lb/>
+Omvæltninger og disses sørgelige Resultater. Flere Nationer have <lb/>
+fulgt Exemplet med samme Iver, som de iøvrigt efterabe franske <lb/>
+Moder. Det sidste voldsomme revolutionaire Udbrud indtraf i Paris <lb/>
+1848, da man, som Deres Majestæt med fuld Føie yttrer, paahængte det <lb/>
+franske Folk den republikanske Narrekappe. Dette Udbrud greb en stor <lb/>
+Deel af det øvrige Europa og Dyningerne efter Stormen føeltes og <lb/>
+føles endnu i vort fjerne Norden. De Frankrige nærmest liggende Lande, <lb/>
+Belgien, Holland, Spanien, angrebes mindst, formodentlig, fordi <lb/>
+de allerede af Erfaring vare blevne kloge. Det revolutionaire Udbrud <lb/>
+1848 truede med at opløse alle europæiske indre og ydre Forholde, <lb/>
+indtil den almægtige Gud sendte en Mand, udrustet med den fornødne <lb/>
+Dygtighed og Kraft til at standse Revolutionens Hydra, og som fra <lb/>
+denne Synspunct bedre fortjener Navnet Dieudonné, end Hertugen af <lb/>
+Bordeaux. Naar det franske Folk villig har underkastet sig denne <lb/>
+Mands <hi rend="underline">Herredømme</hi>  da maa det formeentlig meest tilskrives den <lb/>
+Omstændighed, at det efter 63 Aars sørgelige Erfaringer, er bleven <lb/>
+kjed af, de uophørlige Omvæltninger, de store Ulykker, som Selvstyrelsen <lb/>
+medfører, og give Gud, at andre Nationer maa være lige saa <lb/>
+villige til at antage denne franske Anskuelse, som de have viist sig <lb/>
+tilbøielige til at følge dens modsatte!</p>
+                  <p xml:id="p165">	Jeg beundrer Louis Napoléons Dygtighed, hans altomfattende <lb/>
+Regjeringsvirksomhed, jeg ønsker ham for Frankrige og Europa <hi rend="underline">varigt</hi>
+                     <lb/>
+                     <hi rend="underline">Hæld</hi>; men i denne Henseende foruroliger det mig, at han proclamerer <lb/>
+sit Herredømme grundet paa Folkesouveraineteten. Denne Grundvold er  <lb/>
+løs og ubestandig! Den har ikke kunnet afværge Keiser Napoleons eller <lb/>
+Kong Louis Phillips Fald. Det er og bliver farligt for Herskeren <lb/>
+at begrunde sit Herredømme paa en revolutionair Sætning, et <lb/>
+revolutionairt System. Jeg vil heller holde mig til den guddommelige Ret, <lb/>
+fordi efter vor Frelsers Lære, Øvrigheden er indsat af Gud, ikke af <lb/>
+Folket, hvilket udtrykkes tilligemed en ydmyg Erkjendelse i den gamle <lb/>
+christelige Formel: "Af Guds Naade" som Napoléon og Louis Phillip  <lb/>
+forsmaaede.</p>
+                  <p xml:id="p166">	For Englands farlige indre Gjæring kan man kun beroliges ved <lb/>
+det engelske Folks Gudsfrygt og Lovlydighed; men disse herlige lykkelige  <lb/>
+Egenskaber sættes nu paa en farlig Prøve! Ogsaa mig har Walpoles <lb/>
+Tale i Underhuset frapperet og end mere den af alle Partier <lb/>
+anerkjendte Nødvendighed af et stærkt Forsvarsvæsen. At Engelsmændene <lb/>
+i denne Hensigt foretrække at tilveiebringe et frivilligt Forsvarsvæsen <lb/>
+ved Opoffrelse af Penge, end et tvunget ved Opoffrelse af den <lb/>
+personlige Frihed, er for mig et nyt Beviis paa deres sunde praktiske <lb/>
+Forstand.</p>
+                  <p xml:id="p167">	Tydskland indtager den 3die Plads i Deres Majestæts europæiske <lb/>
+Tableau. Kongen af Preussen ahnede ikke, da han udbragte den <lb/>
+fameuse Skaal i Cøln: "Kein Preussen, kein Østerreich", nur ein einiges <lb/>
+Deutschland! at det er lettere at opnaae "kein Preussen" end <lb/>
+ein einiges Deutschland. At Skaalens første Ønske ikke er gaaet i <lb/>
+Opfyldelse, derfor kan Kongen takke sin Armee, som uagtet Han havde <lb/>
+ladet den beskjæmme af Mobben i Berlin, med samme Krigstugt lod sig <lb/>
+bruge til at undertrykke Oprør i Tydskland og Posen, som til at  <lb/>
+understøtte det i et Naboland. Det bedrøveligste ved Revolutionen i <lb/>
+Tydskland, er, at dets Fyrster have prostitueret sig ligesaa meget <lb/>
+som dets Folk. Kun Habsburgs gamle Skiold er bevaret blankt og uplættet! <lb/>
+Tydsklands Redning skyldes Østerrigs Statsmænd og Arméernes <lb/>
+Krigstugt. Medens Kongen af Preussen viiste "des jambes, qui <lb/>
+se remuent sans avancer, des bras, qui s'ouvrent pour ne rien saisir, <lb/>
+des paroles, qui frappent l'air sans aucun effet", – <hi rend="underline">handlede</hi>
+                     <lb/>
+Østerrigs Statsmænd med Kraft og Conseqvents og reddede eget Land <lb/>
+og det øvrige Tydskland. Fyrst Schwartzenbergs tidlige Bortgang <lb/>
+maa derfor ansees som en Ulykke, den jeg høielig beklager som en  <lb/>
+saadan og paa Grund af personligt Bekjendtskab. <lb/>
+Reste le petit Dannemarc, hvor die Errungenschaften von 1848 holde sig <lb/>
+længst. Siden 1848 have Demokrater og Demagoger uden Modstand ledet <lb/>
+det fordum lykkelige danske Folk "af Dynen i Halmen". – De <lb/>
+demagogiske Styrere ere nu ifærd med de herlige danske Godser's for <lb/>
+Eiere og Fæstere lige fordærvelige Udstykning og derved vil Dannemark <lb/>
+blive ødelagt. Jeg formener det vilde have været til Danmarks <lb/>
+Gavn, om den sidste dumme Rigsdags Adresse havde bragt Monrad, Lehmann <lb/>
+og Consorter til Regjeringen; thi disse Herrer vilde snart bringe <lb/>
+Sagerne til den Opløsning, som nu synes at være den eneste Redning. <lb/>
+Kongen af Preussens atter forandrede Anskuelse i den danske <lb/>
+Sag, maa formeentlig tilskrives den meenedige slesvigske Præst, hvem <lb/>
+han i Meevs<note xml:id="ftn14" place="foot" n="14"> Meers (?).</note>  med Taarer rakte sin Kongelige Haand, beklagende, at <lb/>
+han ikke kunde gjøre mere for det ulykkelige Slesvig.</p>
+                  <p xml:id="p168">	Jeg tør underdanigst bede Deres Majestæt at ville med naadig <lb/>
+Overbærelse modtage disse mine underdanige Yttringer, i Anledning <lb/>
+af Deres Majestæts naadige Skrivelse af 15e. De skulle, som de fleste <lb/>
+loyale Svar til Throntaler, kun udtrykke min Ærefrygt og Taknemmelighed <lb/>
+for Deres Majestæts naadige Meddelelse.</p>
+                  <p xml:id="p169">	Jeg tillader mig underdanigst at anbefale til Deres Majestæts <lb/>
+naadige Bifald Regjeringens underdanige Indstilling, som vil afgaae <lb/>
+med næste Post, om Toldinspecteur Schydtzes Udnævnelse til Stiftamtmand <lb/>
+i Bergen, fordi det formeentlig er det bedste Valg, som efter <lb/>
+Omstændighederne kan gjøres.</p>
+                  <p xml:id="p170">	Hendes Kongelige Høihed Prindsesse Eugenies høie Fødselsdag, <lb/>
+hvortil jeg nedlægger min underdanige Lykønskning, agter jeg at feire <lb/>
+ved en større Soirée. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 22 April 1852</date>.</dateline>
+                     <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h45">
+                  <supplied resp="editor">Christiania 29. april 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h46">Underdanigst Rapport!</head>
+                  <p xml:id="p171">	Min sidste underdanigste Rapport var af 22de denne Maaned.</p>
+                  <p xml:id="p172">	Jeg har idag Intet at indberette undtagen, at Statsraad Krog har <lb/>
+indgivet underdanigst Ansøgning om naadigst Permission til at besøge <lb/>
+et Bad i Bøhmen, formodentlig Teplitz, hvortil hans under hele denne <lb/>
+Vinter lidende Helbred er høielig trængende.</p>
+                  <p xml:id="p173">	Da Hans Excellence Statsminister Due har meddeelt mig, at Deres <lb/>
+Majestæt har udsat af afgive naadigst Resolution til Regjeringens  <lb/>
+underdanigste Indstilling om Avancement i den 2den Agershusiske  <lb/>
+Infanterie Brigade til et senere Statsraad, føeler jeg mig forpligtet til <lb/>
+underdanigst at bemærke, at den til Chef for den Laurvigske Corps <lb/>
+instillede Capitaine Rye (Broder til den faldne danske General Rye), <lb/>
+er en udmærket dygtig Officier, som, om Deres Majestæt naadigst maatte <lb/>
+behage at udnævne ham, vil blive en værdig Efterfølger af bemeldte <lb/>
+Corpses forrige Chef, Oberst Mansbach.</p>
+                  <p xml:id="p174">Efter næsten 3 Maaneders vedvarende Tørke giver Himelen os i Dag <lb/>
+Regn, som Jord og Temperatur høielig tiltrænge. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 29e April 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h47">
+                  <supplied resp="editor">Christiania 13. mai 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h48">Underdanigst Rapport!</head>
+                  <p xml:id="p175">	Min sidste underdanige Rapport var af 29de forrige Maaned.</p>
+                  <p xml:id="p176">	Den deri ommeldte Regn gik over til et stærkt Sneefald, hvorefter <lb/>
+igjen tørt Veir indtraadte, som dog i den seneste Tid har været <lb/>
+afbrudt af velgjørende Regn. Imidlertid er Vegetationen og Jordarbeidet <lb/>
+endnu meget langt tilbage for Aarstiden.</p>
+                  <p xml:id="p177">	De svenske Eiere af Sukker-Raffinaderiet paa Frederikshald, ere <lb/>
+nu atter indkomne med en Klage over det Tab de lide ved den i Sverige <lb/>
+under 30te September 1851 besluttede Toldforhøielse for Deres <lb/>
+Product, i hvilken Anledning de fordre Forandringer i den med den <lb/>
+norske Stat sluttede Contract om deres Privilegiums Begrændsning.</p>
+                  <p xml:id="p178">	Medens vi maa erkjende, at Klagerne ved den for Sverige besluttede <lb/>
+Toldforhøielse for deres Product, lide et stort og uforudseet <lb/>
+Tab, staaer det ikke i den norske Statsstyrelses Magt at indvilge <lb/>
+Forandring til Tab for Statscassen i den <hi rend="underline">med Storthingets Samtykke</hi>
+                     <lb/>
+sluttede Contract, hvorimod Regjeringen underdanigst indstiller til <lb/>
+Deres Majestæts naadige Bifald Sukker Raffinadeurernes subsidiaire <lb/>
+Forslag om at renoncere paa den dem ved Contracten bevilgede Udførsels <lb/>
+Præmie for Sukker til Sverige, mod at den i denne Anledning derfor <lb/>
+besluttede svenske Toldforhøielse maa bortfalde, hvorefter den <lb/>
+ved provisorisk Anordning af 20de Februar 1852 bestemte Toldforhøielse <lb/>
+for svensk Sukker, som indføres til Norge, samtidig maatte <lb/>
+tilbagekaldes. Om dette underdanigste Forslag vinder Deres Majestæts <lb/>
+naadige Bifald, maa den norske Statscasse overtage Resicoen for det <lb/>
+Søgsmaal som Sukker-Raffinadeurerne derhos vil have sig forbeholdt <lb/>
+mod denne.</p>
+                  <p xml:id="p179">	Stiftsgaardens Meublement, hvoraf endeel er anskaffet i 1814 for <lb/>
+Høistsalig Kongens Regning, er nu i en yderst mislig Forfatning, der <lb/>
+vil foranledige Spørgsmaal om dets Vedligeholdelse og Complettering. <lb/>
+Hvad det Deres Majestæt tilhørende Meublement angaaer, kan imidlertid <lb/>
+det Offentlige ikke overtage Reparationen, med mindre Deres Majestæt <lb/>
+naadigst vil renoncere paa Eiendomsretten dertil, dog under Forbehold <lb/>
+af, at det Offentlige overtager Forpligtelsen til dets Vedligeholdelse <lb/>
+og Complettering. Ifald Deres Majestæt naadigst vil give Sit Samtykke <lb/>
+hertil, udbeder jeg dette meddeelt i en saadan Form, at det paa <lb/>
+officiel Maade kan benyttes. Det omhandlede Meublement er forøvrigt <lb/>
+i sin nærværende Tilstand af megen liden Værdie.</p>
+                  <p xml:id="p180">	Ved Deres Majestæts forestaaende Afreise fra Stockholm tillader <lb/>
+jeg mig at udbede naadigst Underretning om Deres Majestæts Reiseroute, <lb/>
+for at jeg deraf kan erfare, hvorhen jeg skal adressere mine  <lb/>
+underdanigste Rapporter under Deres Majestæts Fraværelse fra Stockholm.</p>
+                  <p xml:id="p181">	I Forbindelse med mine nylige underdanigste Bemærkninger om vor <lb/>
+Tids Trykkefrihed, tillader jeg mig underdanigst at citere Grev  <lb/>
+Ficquelemonts Yttring om samme Gjenstand i et nylig udgivet politisk <lb/>
+Skrift:</p>
+                  <p xml:id="p182">	"Si je m'élève ainsi contre la presse périodique, c'est parce <lb/>
+que j'ai l'intime conviction, que sa forme actuelle, l'extension qu' <lb/>
+elle a prise, et la liberté, qui lui est laissée, en font l'instrument <lb/>
+le plus puissant de troubles et d'anarchie, sans qu'elle puisse <lb/>
+jamais offrir la possibilite de devenir aussi utile qu'elle s'est <lb/>
+déjà montré dangereuse".</p>
+                  <p xml:id="p183">	Dette stemmer med Prinds Louis Napoleons Anskuelse: "L'ordre et <lb/>
+la liberté de la presse ne peuvent coexister".</p>
+                  <p xml:id="p184">	Efter de mange forgjæves Forsøg paa at forene begge Dele ved en <lb/>
+liberal og viis Lovgivning, maa jeg dele denne Mening. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 13 Mai 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h49">
+                  <supplied resp="editor">Christiania 28. mai 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h50">Underdanigst Rapport!</head>
+                  <p xml:id="p185">	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+                  <p xml:id="p186">	Forrige Post bragte mig Deres Majestæts naadige Skrivelse af 20e <lb/>
+Mai, hvorfor jeg underdanigst takker.</p>
+                  <p xml:id="p187">	Jeg tillader mig at frembære mit underdanige Ønske for Deres <lb/>
+Majestæts lykkelige Reise og behagelige Ophold i Skaane, ligesom jeg <lb/>
+hjertelig lykønsker Hendes Majestæt Dronningen til Gjensamlingen med Sin <lb/>
+Høie Frue Søster, hvis Hr Svigerfader jeg for mange Aar tilbage har <lb/>
+havt den Ære at kjende som Gouverneur i Kjøbenhavn.</p>
+                  <p xml:id="p188">	Statsraaderne Erichsens og Brettevilles samt Generalconsul Fayes <lb/>
+naadige Udnævnelse til Commandeur af Sanct Olafs Ordenen glæder mig, <lb/>
+fordi de alle fortjene denne Deres Majestæts naadige Anerkjendelse i <lb/>
+Deres offentlige Virksomhed. Faye har for denne opoffret sin Helbred <lb/>
+og er nu saa svag, at hans Læge er tvivlraadig, om han tør tilraade <lb/>
+en Reise til et udenrigs Bad, som han høielig tiltrænger.</p>
+                  <p xml:id="p189">	Foraaret, som udeblev længe, har i den seneste Tid udviklet sig <lb/>
+med Kjæmpeskridt. Denne Naturens pludselige skjønne Udvikling har <lb/>
+lokket den norske Biørn ud af sit Hie, og lokker mig ud af <lb/>
+Stiftsgaarden, som jeg i Morgen agter at ombytte med Holgerslyst.</p>
+                  <p xml:id="p190">	Jeg vover at udbede Deres Majestæts naadige Tilladelse til at <lb/>
+turde dette Aar, som forrige Aar, feire Deres Majestæts høie Fødselsdag  <lb/>
+paa det vakkre Ladegaardsøen, og derefter at besøge Fossum for <lb/>
+2 à 4 Uger.</p>
+                  <p xml:id="p191">	Iøvrigt har jeg Intet underdanigst at indberette, da Alt her <lb/>
+gaaer i sin sædvanlige jevne Gang. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 28 Mai 1852</date>.</dateline>
+                     <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h51">
+                  <supplied resp="editor">Holgerslyst 18. juni 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h52">Underdanigst Rapport!</head>
+                  <p xml:id="p192">	Naar jeg ikke siden den 28de forrige Maaned har villet besvære <lb/>
+Deres Majestæt med nogen underdanigst Rapport, saa er det, fordi jeg <lb/>
+Intet har havt at indberette, og det samme er Tilfældet i Dag.</p>
+                  <p xml:id="p193">	Jeg kan saaledes indskrænke mig til at nedlægge min underdanige <lb/>
+Lykønskning til Hans Kongelige Høihed Prinds Gustavs høie Fødselsdag, <lb/>
+som jeg vil have den Ære at feire ved en Middag, hvortil her dog haves <lb/>
+mindre Huusrum end Hjerterum.</p>
+                  <p xml:id="p194">	Siden min sidste underdanigste Rapport have vi havt overordentlige <lb/>
+og pludselige Temperaturforandringer, fra Hede til Kulde og omvendt. <lb/>
+Imidlertid har afvexlende Varme og Regn været særdeles gunstig <lb/>
+for Aarsvæxten og giver til denne Tid den ønskeligste Udsigt for Ager <lb/>
+og Eng.</p>
+                  <p xml:id="p195">	De af Deres Majestæt Statsraaderne Erichsen og Bretteville samt <lb/>
+Generalconsul Faye naadigst forundte Ordens Decorationer, som jeg <lb/>
+har overleveret dem, paa den i St Olafs Ordenens Statuter foreskrevne <lb/>
+Maade, modtoges med underdanigst Taknemmelighed. Faye er, ledsaget <lb/>
+af en Læge, afreist til Badet i Homburg; men saa svag, at der haves <lb/>
+lidet Haab om at see ham levende tilbage. Paa samme Tid afreiste <lb/>
+Statsraad Krog og Stiftamtmand Sem til Badet i Teplitz. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Holgerslyst</placeName>
+                        <date>den 18 Junii 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h53">
+                  <supplied resp="editor">Holgerslyst 1. juli 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h54">Underdanigst Rapport!</head>
+                  <p xml:id="p196">	Min sidste underdanige Rapport var af 18de forrige Maaned.</p>
+                  <p xml:id="p197">	Sidste Post bragte mig Grev E. Lewenhaupts brev af 24de forrige <lb/>
+Maaned, hvoraf jeg med Glæde erfarer Deres Majestæts lykkelige  <lb/>
+Tilbagekomst til Stockholm og at Reisen har havt en velgjørende Indflydelse <lb/>
+paa Deres Majestæts Helbred. Dette glæder mig især og betager <lb/>
+mig den Bekymring, som den senere Tids Rygte om Deres Majestæts  <lb/>
+Upasselighed har forvoldt mig.</p>
+                  <p xml:id="p198">	Mit høieste og hjerteligste Ønske til Deres Majestæts nu <lb/>
+forestaaende høie Fødselsdag er da: Gud skjænke Deres Majestæt en god og <lb/>
+varig Helbred, en lang og lykkelig Regjering, til Held og Glæde for <lb/>
+Deres Majestæts troe Undersaatter.</p>
+                  <p xml:id="p199">	Uagtet jeg endnu ikke har modtaget Deres Majestæts naadige Tilladelse <lb/>
+til at feire de forenede Rigers høieste Festdag paa Ladegaardsøen, <lb/>
+vover jeg dog at stole paa, at den vil blive mig naadigst givet <lb/>
+dette som forrige Aar.</p>
+                  <p xml:id="p200">	Under hele Juny Maaned har jeg været lidende af Steensmerter, som <lb/>
+jeg første Gang føelte ved mit Besøg i Trondhjem 1841 under en der <lb/>
+ikke usædvanlig pludselig Temperaturforandring. Mine Lidelser vare <lb/>
+denne Gang langvarigere end sædvanlig; men ere nu Gud skee Tak  <lb/>
+overstaaet for denne Gang.</p>
+                  <p xml:id="p201">	Min Upasselighed har forhindret mig fra at deeltage i de Upsalensiske <lb/>
+Studenteres Besøg, hvortil jeg kun har kunnet være Tilskuer undertiden <lb/>
+Tilhører, her fra Holgerslyst.</p>
+                  <p xml:id="p202">	Selskabet, hvoriblandt ogsaa befandtes Raadmænd, Herredshøfdinger, <lb/>
+Possessionater og mange Magistre, ankom paa Dampskibet "Berzelius" <lb/>
+den 24de og reiste den 29de Juny.</p>
+                  <p xml:id="p203">	Under dette Besøg har hele Christiania og Omegn, med faae <lb/>
+Undtagelser, været i Bevægelse; Statsraader og Copiister, Professorer og <lb/>
+Haandværkere kappedes om at beværte Gjæsterne med Champagne, Taler, <lb/>
+Sange; Damerne skjænkede dem en Fahne, Alt Arbeide var standset; for <lb/>
+mig som var aldeles ædru (nykter) syntes Svenske og Norske under hele <lb/>
+Besøget at gaae dandse og synge i En skandinavisk Ruus.</p>
+                  <p xml:id="p204">	Jeg ønsker og haaber, at de svenske Gjæster maa være tilfredse! <lb/>
+Vist er det, at om Keiseren af Rusland besøgte Christiania, <hi rend="underline">vilde</hi>
+                     <lb/>
+dets Indvaanere ikke gjøre <hi rend="underline">saa meget</hi>, kunde de ikke gjøre <hi rend="underline">mere</hi>, for <lb/>
+at feire Ham, end de have gjort, for at more (roga) Studenterne fra <lb/>
+Upsala. Jeg antager, at Christiania Commune har bidraget i Penge og <lb/>
+Natural Præstationer til dette som til forrige Aars Studenterbesøg <lb/>
+10,000 Speciedaler.</p>
+                  <p xml:id="p205">	Det vil ikke forundre mig, om norske republikanske Sæder og Skikke, <lb/>
+norsk demokratisk Lighed, har noget tillokkende for den svenske <lb/>
+Ungdom, og at den vil gjøre dem gjældende i sit svenske Hjem, som <lb/>
+lignende Ideer i sin Tid forplantedes fra det unge Amerika til det <lb/>
+gamle Frankrige.</p>
+                  <p xml:id="p206">	Veiret er fremdeles meget gunstigt for Vegetationen; men vi <lb/>
+tiltrænge nu høielig tør og varm Temperatur for Høets Bjergning og <lb/>
+Agrenes Triven.</p>
+                  <p xml:id="p207">	Jeg længes meget efter Deres Majestæts naadige Tilladelse til i <lb/>
+Slutningen af næste Uge at begive mig til Fossum, som jeg underdanigst <lb/>
+udbad før Deres Majestæts Afreise til Skaane. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Holgerslyst</placeName>
+                        <date>den 1ste Julii 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h55">
+                  <supplied resp="editor">Holgerslyst 4. juli 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h56">Underdanigst Rapport!</head>
+                  <p xml:id="p208">	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+                  <p xml:id="p209">	Idag er det en Trang for mit Hjerte at gjentage mine deri fremførte <lb/>
+underdanige Lykønskninger i Anledning af Dagen, som jeg i Eftermiddag <lb/>
+agter at feire ved en Collation paa Ladegaardsøen, hvor jeg <lb/>
+under Accompagnement af Musik og Kanoner vil have den Ære at udbringe <lb/>
+mine underdanige, mine hjertelige Ønsker for Deres Majestæt.</p>
+                  <p xml:id="p210">	Strax efter at ovennævnte min underdanigste Rapport var afgaaet, <lb/>
+havde jeg den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+28de forrige Maaned, som bedrøver mig inderlig, fordi jeg deraf <lb/>
+erfarer, Deres Majestæts Ildebefindende og de formelle Vanskeligheder, <lb/>
+som Deres Majestæts derved foranledigede Badereise møder.</p>
+                  <p xml:id="p211">	Aldeles umulig er det ikke, at jeg, betimelig underrettet om den <lb/>
+paatænkte Reise, kunde have bidraget til at formindske og afværge de <lb/>
+nu derimod mødende formelle Vanskeligheder, og fra denne Synspunkt <lb/>
+beklager jeg, at Deres Majestæt saa længe, ja endnu den 24de denne <lb/>
+Maaned har bevaret Hemmeligheden for mig. Jeg vilde ikke troe dette, <lb/>
+og derfor vilde jeg ikke troe paa tydske Avisers Annoncer og Rygter <lb/>
+om Deres Majestæts Reise til Kisingen.</p>
+                  <p xml:id="p212">	Under 17de forrige Maaned meddeelte Hans Excellence Due mig <lb/>
+confidentielt, at man i Stockholm begyndte at fæste Lid til Rygtet om <lb/>
+Deres Majestæts Reise og de dermed forbundne constitutionelle <lb/>
+Vanskeligheder, hvorom han udbad den Norske Regjerings Betænkning, hvori <lb/>
+jeg, paa Grund af min da iværende lidende Forfatning, ikke kunde <lb/>
+deeltage.</p>
+                  <p xml:id="p213">	Foreløbig tillader jeg mig, i Anledning af den bogstavelige Grundlovs <lb/>
+Fortolkning, som man i denne Begivenhed vil gjøre gjældende, den <lb/>
+almindelige Bemærkning, at medens Bogstaven dræber, giver Aanden Liv. <lb/>
+Efter Bogstaven kræver Regjeringsformens 39te § , under Kongens endog <lb/>
+korte Fraværelse udenrigs, visselig en Interimsregjering; men neppe <lb/>
+efter §s Aand, naar den fortolkes cum granu salis.<note xml:id="ftn15" place="foot" n="15"> Cum granu salis [sic]; granu for grano, [granum, i, n. korn], cum grano salis, ”med et korn salt”.</note>  For mig er det <lb/>
+klart, at §s Forfattere have havt for Øie Carl den 12tes, Gustav den <lb/>
+3dies, Gustav den 4des langvarige Ophold udenrigs; men ingenlunde <lb/>
+tænkt den anvendelig paa en Reise som den nu paatænkte, under hvilken <lb/>
+det for Indlandet vilde være beklageligt, for Udlandet latterligt, at <lb/>
+anordne en Regjering, bestaaende af 20 svenske og norske Regenter,  <lb/>
+eller i et Bad at omgive Deres Majestæt med et Regjeringsapparat,  <lb/>
+bestaaende af 7 Raadgivere foruden Federvie, og Alt dette, for, under <lb/>
+nogle Uger, at regjere 5 Millioner Mennesker! Jeg vil aldrig kunne <lb/>
+bequemme mig til at tilraade Noget, som jeg maa ansee for abderitisk, <lb/>
+om jeg end kunde riskere at blive fordømt af en abderitisk Rigsret. <lb/>
+Fra denne Synspunkt vilde jeg ikke tage i Betænkning at tilraade Deres <lb/>
+Majestæt at anordne Rigernes Styerlse under Deres Majestæts paatænkte <lb/>
+Fraværelse paa den af Deres Majestæt naadigst foreslaaede Maade, <lb/>
+fordi den er den eneste forstandige, og at iværksatte denne, om <lb/>
+end Ingen af Deres Majestæts Raadgivere vilde vove at forlade den <lb/>
+dræbende Bogstav. Min Fortolkning kan formeentlig forsvares, og Kongens <lb/>
+Beslutning er under alle Omstændigheder uangribelig.</p>
+                  <p xml:id="p214">	Paa Grund af min Fraværelse i Eftermiddag, skriver jeg disse <lb/>
+underdanige Linier i Formiddag og imødeseer med Længsel og Uro Deres <lb/>
+Majestæts naadige Beslutning med Dagens forventende Post.</p>
+                  <p xml:id="p215">	Gud lede denne Beslutning til det Bedste! men hvorledes den end <lb/>
+bliver, bør vi snarest mulig rydde af Veien for Fremtiden de nu indtrufne <lb/>
+forargelige Vanskeligheder, hvilket formeentlig hensigtsmæssigst <lb/>
+vil skee, ved for næste Rigsdag og Storthing at foreslaae Love, <lb/>
+hvorefter Kongen under Fraværelse eller Sygdom kan overdrage Regjeringen <lb/>
+til den nærmeste Thronarving, og for Rigsdagen Forandring af <lb/>
+Regjeringsformens 39te og 40de §§er, hvorefter den norske Grundlovs <lb/>
+41te § af sig selv vil bortfalde, og derfor bør Initiativet hertil <lb/>
+tages af den svenske Regjering, som den norske vil følge.</p>
+                  <p xml:id="p216">	At 1809 Aars svenske Mænd, under en monarchisk Regjeringsform, have <lb/>
+villet udelukke Thronarvingen fra Deeltagelse i Interims Regjeringen, <lb/>
+er for mig uforklarligt. Denne umonarchiske Forkeerthed vil ophøre <lb/>
+med Ophævelse af Regjeringsformens umonarchiske 39te og 40de §§. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Holgerslyst</placeName>
+                        <date>den 4de Juli 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="postscript">
+                  <head type="tillegg" xml:id="h57">
+                     <supplied resp="editor">Tillegg til rapport av 4. juli 1852</supplied>
+                  </head>
+                  <head type="sub2" xml:id="h58">Underdanigst Apostille fra Ladegaardsøen Klokken 12 Midnat.</head>
+                  <p xml:id="p217">	Vor Herre har feiret Deres Majestæts høie Fødselsdag ved en <lb/>
+fortrinlig skjøn Aften paa det deilige Ladegaardsøen, hvis Bestyrelse <lb/>
+har feiret den, ved for første Gang at lade det nye Vandspring  <lb/>
+paa Oscarshalls Terasse vise sig i sin fulde Glands for mine <lb/>
+Gjæster, af hvem min Skaal for Deres Majestæts Held og Lykke <lb/>
+blev udbragt med Mund og Hjerte under Fanfarer og Kanonsalut.</p>
+                  <p xml:id="p218">	Stockholms Posten ankom seent men bragte mig ikke Deres Majestæts <lb/>
+forventende naadige Beslutning, den jeg saaledes fremdeles  <lb/>
+med Længsel imødeseer med det ivrige Ønske at Deres Majestæt maa <lb/>
+ville holde fast ved Sit naadige Forslag som visselig vil møde  <lb/>
+almindelig Bifald i Norge som i Sverige.</p>
+                  <closer>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h59">
+                  <supplied resp="editor">Christiania 6. september 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h60">Underdanigst Rapport!</head>
+                  <p xml:id="p219">	Min sidste underdanigste Rapport var af 6te forrige Maaned.</p>
+                  <p xml:id="p220">	Jeg har med Forsæt ikke villet besvære Deres Majestæt med mine <lb/>
+underdanige Rapporter under Reisen hvortil jeg heldigviis heller ikke <lb/>
+har havt nogen særdeles Anledning.</p>
+                  <p xml:id="p221">	Efterretningerne om Brøndeurens og Reisens heldige Indflydelse <lb/>
+paa Deres Majestæts dyrebare Helbred, har opvakt almindelig Deeltagelse <lb/>
+og Glæde, og vi længes hjertelig efter den Lykke at gjensee <lb/>
+Deres Majestæt frisk paa Sjæl og Legeme;</p>
+                  <p xml:id="p222">	Her vil forhaabentlig Intet forstyrre Deres Majestæts Tilfredshed; <lb/>
+men jeg beklager, at Deres Majestæter efter en lys og behagelig <lb/>
+Sommer, her vil gaae den mørke mindre behagelige Høst i Møde.</p>
+                  <p xml:id="p223">	Vi have havt en saare behagelig velsignet Sommer, som har givet <lb/>
+os en riig Høehøst og een god Kornhøst, medens Korn-speculanter postdaglig <lb/>
+udbasune, at Kornhøsten har aldeles slaaet Feil i Sverige og Norge som paa <lb/>
+Continenten. Trælast Exporten har dette Aar været særdeles heldig, i  <lb/>
+Særdeleshed til Frankrige. Den bedste Følge af disse Forsynets gode Gaver <lb/>
+er almindeligt Velvære og saa vidt jeg har erfaret, deraf følgende <lb/>
+Tilfredshed. Det eneste, hvorover her nu kan klages, er, at Potaterne <lb/>
+over det hele Land vil give et ringe Udbytte, og at Jernprisen ikke <lb/>
+svarer til vor høie Productionsomkostning, uagtet almindeligt norsk <lb/>
+Jern i Udlandet betales med 10 Speciedaler, medens det i Stockholm kun <lb/>
+gjælder 15 Rdr. Banco pr Skippund.</p>
+                  <p xml:id="p224">	Den til at undersøge og paadømme den Thraniske Agitation anordnede <lb/>
+Commission har været meget flittig og virksom; men da den, for at  <lb/>
+faae de nødvendige Oplysninger, har maattet bereise den største Deel <lb/>
+af Landet, har den først nylig kunnet afgive sin Indberetning, som har <lb/>
+foranlediget Stiftamtmanden i Christiania til at decretere justitiel <lb/>
+Tiltale med 149 Individer. Flere af disse, deriblandt Thrane og  <lb/>
+Abildgaard, ville neppe undgaae at blive dømte til vel fortjent  <lb/>
+Fæstningsarbeide.</p>
+                  <p xml:id="p225">	Det var kun under den Forudsætning, at Deres Majestæt ikke forinden <lb/>
+Afreisen fra Stockholm, havde fattet Beslutning om Interims Regjeringens <lb/>
+Opløsning, at jeg maatte ansee en Beslutning herom i combineret <lb/>
+Statsraad nødvendig. Da denne Sag heldigviis allerede er ordnet, <lb/>
+bortfalder mit hele Raisonnement, hvormed jeg ikke vilde have besværet <lb/>
+Deres Majestæt, om jeg havde havt Kundskab om den trufne Foranstaltning.</p>
+                  <p xml:id="p226">	Jeg vil holde en Coureer færdig for, strax ved Deres Majestæts <lb/>
+Ankomst hertil, at bringe Interims Regjeringens Ordfører Meddelelse <lb/>
+herom.</p>
+                  <p xml:id="p227">	Med det den 13de hertil forventende Dampskib fra Kiel tør jeg <lb/>
+modsee endelig Bestemmelse om Deres Majestæts høie Ankomst hertil.</p>
+                  <p xml:id="p228">	Jeg formoder, at Deres Majestæter efter Landstigningen vil træde <lb/>
+ind i Palaiet og derfra begive Sig til Slottet, hvor Byens Formandskab <lb/>
+ved dets Ordfører ønsker at turde fremføre sin underdanigste  <lb/>
+Velkomsthilsen.</p>
+                  <p xml:id="p229">	Hans Kongelige Høihed Kronprindsen har ikke beæret mig med <lb/>
+nogensomhelst Meddelelse om Sin Ankomst hertil; men da jeg af Andre har <lb/>
+erfaret, at denne kan ventes i Dag, har jeg begivet mig til Byen, for <lb/>
+at have den Ære at modtage og opvarte Hans Kongelige Høihed. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>d. 6 Septbr. 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="postscript">
+                  <head type="tillegg" xml:id="h61">
+                     <supplied resp="editor">Tillegg til rapport av 6. september 1852</supplied>
+                  </head>
+                  <head type="sub2" xml:id="h62">Underdanigst Apostille!</head>
+                  <p xml:id="p230">	Jeg har i dette Øieblik havt den Lykke at modtage Hans Kongelige <lb/>
+Høihed Kronprindsen frisk og vel efter Reisen, som fra Stockholm hertil <lb/>
+er tilbagelagt i 3de Døgn.</p>
+                  <p xml:id="p231">	Hans Kongelige Høihed vil idag indtage Middag hos General Baron <lb/>
+Wedel og imorgen hos mig paa Holgerslyst, hvorefter Hans Kongelige Høihed <lb/>
+paa Onsdag agter at begive Sig til Leiren paa Gardermoen. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 6te September 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h63">
+                  <supplied resp="editor">Holgerslyst 17. oktober 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h64">Underdanigst Rapport!</head>
+                  <p xml:id="p232">	Det bliver i Morgen 8 Dage siden Deres Majestæt forlod os, og jeg <lb/>
+har idag Intet at indberette.</p>
+                  <p xml:id="p233">	Det er saaledes alene mit Hjerte, som uimodstaaelig foranlediger <lb/>
+mig til at besvære Deres Majestæt med disse underdanige Linier; thi <lb/>
+medens jeg i Alt øvrigt føler, at min Alder er en ulægelig Sygdom, er <lb/>
+Hjertet endnu ungt og byder mig med Ungdommens varme Følelse endnu en <lb/>
+Gang at bevidne Deres Majestæt min hjertelige Deeltagelse i det haarde <lb/>
+Slag, som saa uventet rammede Deres Majestæts ømme Faderhjerte.</p>
+                  <p xml:id="p234">	At dette Slag skulde slutte Deres Majestæts skjønne Reise, der <lb/>
+lignede et Triumphtog; at det skulde ramme inden Norges Grændser,  <lb/>
+bedrøver mig usigelig; men Guds Veie ere ikke vore! og Deres Majestæt <lb/>
+har erfaret, at Norges Folk af ganske Hjerte deeler Sorg som Glæde med <lb/>
+Sin elskede Konge og Hans Huus.</p>
+                  <p xml:id="p235">	Deres Majestæt begræder med Ret en elseklig og elsket Søns Tab; <lb/>
+men Forsynet har levnet Deres Majestæt andre kjære Børn, andre Pligter, <lb/>
+andre Gjenstande for Sin Kjærlighed og Omsorg og give Gud! at Deres <lb/>
+Majestæt i denne Følelse maa finde Trøst! Kongen, som Undersaatten have <lb/>
+det Menneskelige fælles, og jeg tør saaledes bemærke at jeg under Tabet <lb/>
+af mit Kjæreste paa Jorden, en høit elsket Hustru, elskede Børn, <lb/>
+har føelt mig haabløs; tilintetgjort; men jeg har erfaret, at Gud alene <lb/>
+kan styrke det svage Menneske og gjengive os Kraft til endnu her <lb/>
+at virke, indtil han vil forene os med vore kjære Hedengangne, naar vi <lb/>
+skulle skilles fra de os her levnede Kjære, fra vore jordiske Pligter.</p>
+                  <p xml:id="p236">	Den samme velgjørende Erfaring vil Deres Majestæt vinde og hertil <lb/>
+give Gud Deres Majestæt og hendes Majestæt Dronningen Sjæls og  <lb/>
+Legemsstyrke! Vi følge Deres Majestæter med vore kjærlige Ønsker og med <lb/>
+Længsel efter at erfare Deres Lykkelige Hjemkomst.</p>
+                  <p xml:id="p237">	Efterat jeg har erfaret, at Deres Majestæt anseer Oberstlieutenant <lb/>
+Rosen ubrugbar for Generalstaben, ubrugbar i Stockholm, er al min  <lb/>
+Omtanke, al min Bestræbelse henvendt paa at kunne forlænge hans passive <lb/>
+Stilling og faae hans Function udført, uden at krænke vore minutieuse <lb/>
+constitutionelle Former. Vanskeligheden bestaaer i, at Rosen som bestallet <lb/>
+3die Officier i Generalstaben, er inamovible og at Regjeringen ikke <lb/>
+kan disponere over Armeens besparede Midler, fordi Storthinget  <lb/>
+udtrykkelig har bestemt, at disse skulle anvendes til Armeens Materiel. <lb/>
+Denne Sag er nu Gjenstand for Statsraadets Discussion og især for mine <lb/>
+møisommelige Underhandlinger med de flere Vedkommende. I Haab om at <lb/>
+kunne opnaae et nogenlunde tilfredsstillende Resultat, tillader jeg <lb/>
+mig imidlertid at tilbageholde Indstillingen om General Staben.</p>
+                  <p xml:id="p238">	Denne ubehagelige Forlegenhed, hvori vi nu befinde os, viser <lb/>
+tilstrækkelig 1o Nødvendigheden af, at Generalstabens Officierer bør <lb/>
+være amovible og 2o hvor saare vanskelig de constitutionelle Former <lb/>
+gjøre en god Styrelse.</p>
+                  <p xml:id="p239">	Ved den i Gaar afsagte Commissions Dom, dømtes Armee Intendant <lb/>
+Meylænder og Depôtforvalter Gløersen til Embedsfortabelse og 6 Aars <lb/>
+og 1 Maaneds Strafarbeide, det er Slaveri samt Stadshauptmand Ytteborg <lb/>
+til Embedsfortabelse.</p>
+                  <p xml:id="p240">	Medens jeg skrev disse underdanige Linier, nedbrændte 4 eller 5 <lb/>
+smaa Huse paa Ruseløkbakken i vort saa kaldte Algier. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Holgerslyst</placeName>
+                        <date>den 17de October 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h65">
+                  <supplied resp="editor">Christiania 31. oktober 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h66">Underdanigst Rapport!</head>
+                  <p xml:id="p241">	Min sidste underdanigste Rapport var af 28de denne Maaned.</p>
+                  <p xml:id="p242">	Da Statsraad Sibberns Helbred ikke tillod ham at modtage det ham <lb/>
+af Deres Majestæt naadigst tiltænkte Hverv, som Medlem af en ny Interims <lb/>
+Regjering, har den norske Regjering, med Hjemmel af Deres Majestæts <lb/>
+naadige Bemyndigelse, i hans Sted udnævnt Stiftamtmand Sem til <lb/>
+som tilforordnet Statsraad at tiltræde denne Interimsregjering.</p>
+                  <p xml:id="p243">	Alle de øvrige naadigst udnævnte Medlemmer have skyldigst modtaget <lb/>
+den naadige Kaldelse, nemlig: Statsraaderne Krog, Petersen, Sørenssen, <lb/>
+Amtmand Blom, Biskop Arup, Generalmajor Garben.</p>
+                  <p xml:id="p244">	Statsraaderne Petersen og Sørenssen tiltraadte i Gaar Morges Reisen <lb/>
+til Stockholm, og de øvrige ville uopholdelig følge dem.</p>
+                  <p xml:id="p245">	Derefter er den herværende Norske Regjering sammensat som følger:</p>
+                  <list xml:id="list246">
+                     <item>Kirke-Departement: Statsraad Riddervold;</item>
+                     <lb/>
+                     <item>Finants Departemt: Statsraad Vogt;</item>
+                     <lb/>
+                     <item>Indre Departemt: Statsraad Stang;</item>
+                     <lb/>
+                     <item>Armee Departemt: Statsraad Sylow;</item>
+                     <lb/>
+                     <item>Revisions Departemt: tilforordnet Statsraad forhenværende <lb/>
+    				  Statsraad Holst;</item>
+                     <lb/>
+                     <item>Marine Departemt: tilforordnet Statsraad Byfoged Thrap;</item>
+                     <lb/>
+                     <item>Justits Departemt: tilforordnet Statsraad Sorenskriver Lasson;</item>
+                  </list>
+                  <lb/>
+                  <p xml:id="p247">	Vinteren er pludselig indtraadt med en for denne Aarstid usædvanlig <lb/>
+Kulde. -</p>
+                  <p xml:id="p248">	Sidstafvigte Uges stormende Veir har forsinket vore 2de paa <lb/>
+Udlandet farende Dampskibe under deres sidste Reise, saaledes, at <lb/>
+"Nordcap", som skulde have bragt Posten fra Kjøbenhavn Fredag Formiddag, <lb/>
+først ankom idag Morges; – og "Christiania", som i Morgen skulde komme <lb/>
+fra Kiel, vil først kunne komme nogle Dage senere.</p>
+                  <p xml:id="p249">	Jeg imødeseer den i Dag fra Stockholm forventende Post med <lb/>
+Efterretning om Deres Majestæts Befindende, med urolig Længsel. Savnet af <lb/>
+en tellegraphisk Forbindelse imellem de 2de Hovedstæder føeles nu  <lb/>
+bitterlig. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 31te October 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h67">
+                  <supplied resp="editor">Christiania 14. november 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h68">Underdanigst Rapport!</head>
+                  <p xml:id="p250">	Min sidste underdanigste Rapport var af 31te forrige Maaned.</p>
+                  <p xml:id="p251">	Siden den Tid er her Intet passeret, som fortjener Deres Majestæts <lb/>
+Opmærksomhed. Veiret har været meget afvexlende med Kulde indtil 10 <lb/>
+Grader Reaumure og Tøe, som dog har levnet saa meget af den i Mængde <lb/>
+faldne Snee, at vi have et hjelpeligt lidet Slædeføre, til stor Gavn <lb/>
+for Færdselen.</p>
+                  <p xml:id="p252">	Havnen og Skibsfarten er heldigviis endnu aaben. Korntilførselen <lb/>
+fra Danmark vedvarer meget stærk og det er ubegribelig, hvorledes, <lb/>
+uagtet en riig Høst der og en meget god Høst her i Landet, Kornpriserne <lb/>
+vedvarende kunde holdes høie.</p>
+                  <p xml:id="p253">	Alles Opmærksomhed og Deeltagelse her som i det hele Land, er <lb/>
+henvendt paa Deres Majestæts Sygdom. Hver Stockholms Post ventes med <lb/>
+ængstelig Længsel, og vi takke Gud for de beroligende Efterretninger, <lb/>
+som den sidste af 8de bragte os, med inderlig Bøn, at den Algode vil <lb/>
+opfylde 2de Folks hjertelige Bønner for Deres Majestæts snarlige <lb/>
+Helbredelse.</p>
+                  <p xml:id="p254">	Efterat Forestaaende var skrevet, bragte Grev Lewenhaupts venlige <lb/>
+Meddelelse af 11te mig, til almindelig Glæde, gode Efterretninger om <lb/>
+Deres Majestæts og Hendes Kongelige Høihed Prindsessens Befindende, <lb/>
+hvorfor jeg takker Gud. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 14e November 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h69">
+                  <supplied resp="editor">Christiania 3. desember 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h70">Underdanigst Rapport!</head>
+                  <p xml:id="p255">	Min sidste underdanigste Rapport var af 14de forrige Maaned.</p>
+                  <p xml:id="p256">	Jeg har ikke senere villet besvære Deres Majestæt, saa meget <lb/>
+mindre, som jeg ikke dertil har havt nogen bydende Anledning.</p>
+                  <p xml:id="p257">	Ogsaa i den senere Tid har Veiret været meget variabelt. I forrige <lb/>
+Uge faldt her en meget betydelig Masse Snee, med 10 Graders Kulde, <lb/>
+hvorefter stærk Tøe indtraf, som truer med at borttage Slædeføret.</p>
+                  <p xml:id="p258">	De glædelige Efterretninger, om Deres Majestæts bedre Befindende <lb/>
+som sidste Post, Gud være lovet, bragte os, har forvandlet den almindelige <lb/>
+Bekymring til almindelig Glæde. Vi bede Gud om at ville opfylde <lb/>
+vort brændende Ønske om Deres Majestæts snarlige fuldkomne Bedring.</p>
+                  <p xml:id="p259">	Ved at omhandle Marine Departementets underdanige Andragende om <lb/>
+Deres Majestæts naadige Bifald til Anlægget af en Havnequai udenfor <lb/>
+det Kongelige Palais Hauge, tillod jeg mig at yttre den underdanige <lb/>
+Formening: at Palaiet <hi rend="underline">er en Kongelig Eiendom</hi>, som for mange Aar tilbage <lb/>
+er bleven mig sagt; - ikke en Statseiendom, som i den senere <lb/>
+Tid har været paastaaet. Deres Majestæt befalede mig i denne Henseende <lb/>
+at anstille Undersøgelse, og jeg har nylig været saa heldig, ved <lb/>
+Hjelp af min Søn Otto, Expeditionssecretair i Finants Departementet, <lb/>
+at vinde fuld juridisk Vished for, at Palaiet med tilliggende Hauge <lb/>
+er i Aaret 1806 af rette Vedkommende bleven overdraget som <hi rend="underline">Eiendom</hi>
+                     <lb/>
+til Hs Majestæt Kongen og Successorer, som underdanigst i Copie vedlagte <lb/>
+Skjøde viser. Neppe vilde nogen have gjort Deres Majestæt Palaiets <lb/>
+Brug endog som Statseiendom stridig; men det er dog tryggere, at have <lb/>
+en ubestridelig juridisk Eiendomsret, og det er mig tilfredsstillende <lb/>
+at have vindiceret denne for Deres Majestæt. Jeg bør derhos dog ikke <lb/>
+lade ubemærket, at Palaiet er for Statscassens Regning bleven betydelig <lb/>
+forstørret og forbedret og at denne betaler aarlig for Haugen <lb/>
+150 Speciedaler til Cathedralskolen, til hvilken Haugen oprindelig <lb/>
+var testamenteret.</p>
+                  <p xml:id="p260">	Jeg har senere foranlediget, at Hofchefens Betænkning er bleven <lb/>
+forlangt, om de Betingelser, hvorunder Deres Majestæt naadigst kunde <lb/>
+ville bifalde det attraaede Quai Anlæg, hvorom jeg formoder, at han <lb/>
+ved denne Post underdanigst vil udbede Deres Majestæts naadige <lb/>
+Befaling. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 3 December 1852</date>.</dateline>
+                     <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="vedlegg">
+                  <head type="tillegg" xml:id="h71">
+                     <supplied resp="editor">Tillegg til rapport av 3. desember 1852</supplied>
+                  </head>
+                  <div type="tillegg-main">
+                     <head type="sub2" xml:id="h72">
+                        <hi rend="underline">Copie</hi>
+                     </head>
+                     <head type="sub3" xml:id="h73">				U d s k r i f t </head>
+                     <p xml:id="p261">af Christiania Byes Skjøde og Pantebog, forsaavidt efterskrevne den <lb/>
+4de December 1806 thinglæste Document betræffer.</p>
+                     <p xml:id="p262">No 101. C.J./1806 56 Rd. 24 / Kammerherre Peder Anker, Jacob Nielsen, <lb/>
+Thomas Bagge og Lars Semb gjøre vitterligt, at da det af afdøde  <lb/>
+Kammerherre og Ridder Bernt Anker under 19 December 1801 oprettede og af <lb/>
+Hans Majestæt Kongen under 11 April indeværende Aar allernaadigst  <lb/>
+confirmerede Testamente, i dets 15de § indeholder følgende saa lydende <lb/>
+Bestemmelse: "Mit Huus med Hauge jeg boer i skal gives til offentlig <lb/>
+Brug efter Overlæg med Stiftbefalingsmanden over Aggershuus. Min Haug <lb/>
+bør være en botanisk Hauge for Cathedralskolen her", saa har  <lb/>
+Administrationen for det af Kammerherre Bernt Anker oprettede Fidei-Commis, <lb/>
+ikke kunnet finde noget passeligere med Testators Tankemaade og  <lb/>
+Testamentets Aand og Hensigt mere overeenstemmende Brug, hvortil den  <lb/>
+Afdødes Gaard og Hauge kunde anvendes, end om det allernaadigst maatte <lb/>
+behage Hans Majestæt Kongen at modtage samme til en Beboelse for den <lb/>
+Kongelige Familie, saa ofte Norge maatte nyde det Held, at nogen af <lb/>
+vort Kongehuus her opholder sig. I Følge heraf har Administrationen <lb/>
+vovet, allerunderdanigst at tilbyde Hans Majestæt den ovennævnte af <lb/>
+Kammerherre Bernt Anker her i Christiania beboede og nu det af ham  <lb/>
+oprettede Fidei-Commis tilhørende Gaard med Hauge, alt i Overeenstemmelse <lb/>
+med og i Henhold til den ovenanførte § 15 i Testamentet af 19 <lb/>
+December 1801; og da Administrationen er bleven underrettet, at Hans <lb/>
+Majestæt vil værdiges allernaadigst at antage dette allerunderdanigste <lb/>
+Tilbud, samt ligeledes allernaadigst at tillade, at Christiania <lb/>
+Cathedralskole maa forbeholdes den samme ved Testamentets § 15 tillagte <lb/>
+Ret at benytte sig af den bemeldte Gaard tilliggende Hauge til botanisk <lb/>
+Brug, og Stiftbefalingsmanden over Aggershuus Stift, Kammerherre <lb/>
+Hr. Gebhard Greve af Moltke, ved Skrivelse til Overtilsyns-Commissionen <lb/>
+for det Ankerske Fidei-Commis af 18 September sidstleden, har <lb/>
+meddeelt sit Samtykke til denne Overdragelse; saa er det, at vi  <lb/>
+ovennævnte som Administrator for det Bernt-Ankerske Fidei-Commis, <lb/>
+herved, paa Fidei-Commissets Vegne, allerunderdanigst skjøde og <lb/>
+overdrage den benævnte af Kammerherre Bernt Anker beboede Gaard her <lb/>
+i Christiania med tilliggende Hauge samt dertil hørende Bygninger og <lb/>
+Indretninger, alt beliggende i Stadens østre Qvarteer i store i og lille <lb/>
+i Strandgaden samt i Prindsens Gade, Huset under Matricul No 130, <lb/>
+131, 137 og 138, og Haugen under No 142c, til Hans Majestæt Kongen, saa <lb/>
+at fornævnte Gaard og Hauge med videre Tilliggelser og Tilhørende  <lb/>
+herefter skal være og forblive Hans Kongelige Majestæts Eiendom, til Brug <lb/>
+og Benyttelse for Allerhøistsamme og Kongelige Efterkommere, saavelsom <lb/>
+for hvilken af vort Kongehuus, Hans Majestæt allernaadigst maatte finde <lb/>
+forgodt at anordne, hvorhos dog Christianias Cathedralskole, i  <lb/>
+Overeensstemmelse med Testamentets § 15 og med Hans Kongelige Majestæts  <lb/>
+allernaadigste Tilladelse, forbeholdes Ret til at benytte sig af bemeldte <lb/>
+Hauge til botanisk Brug, og til deri at gjøre saadannne Anlæg, som, <lb/>
+i Hensyn hertil, maatte ansees fornødne. Dets til Bekræftelse under  <lb/>
+vore Hænder og Signeter, ligesom dette allerunderdanigste Overdragelses <lb/>
+Documente bliver at tilstille Stiftbefalingsmanden over Aggerhuus <lb/>
+Stift, for med hans Underskrift at vorde forsynet. Christiania i <lb/>
+Administrationen over det Bernt Ankerske Fideicommis, den 27 October 1806. <lb/>
+Peder Anker (LS) Jacob Nielsen (L S) Thomas Bagge (L S) Lars Semb <lb/>
+(L S) Imod dette Overdragelsesdocuments Udstædelse til Hans Majestæt <lb/>
+Kongen, har jeg, qva Stiftamtmand over Aggerhuus Stift, ifølge den <lb/>
+1e § af afdøde Herr Kammerherre Bernt Ankers Testamente, intet at <lb/>
+erindre. Glorup den 21 November 1806; G. Moltke (L S). Da Kjøbesummen <lb/>
+for indbemeldte Gaard, i Følge ovenmeldte respective Administrations <lb/>
+Opgivende til mig, er opgivet til 10,000 rd., saa har jeg <lb/>
+derfor modtaget den Fattigvæsenet tillagte 1/4 pbt. af indbemeldte Sum <lb/>
+med Fem og Tyve Rigsdaler. Christiania den 1. December 1806. J.P. Petersen. <lb/>
+(Herimod Protest, vide Bythings-Protocollen Pag. 559)</p>
+                     <closer>Udskriftens Rigtighed bekræfter <lb/>
+                        <signed>For Byskriveren: <lb/>
+                           <persName>Chr. Mathiesen</persName>, aut. Fuldm. <lb/>
+    						  (L S.)</signed>
+                        <lb/>
+Meddeles paa ustemplet Papir og uden Betaling til Finantsdepartementet <lb/>
+                        <signed>
+                           <persName>Chr. Mathiese</persName>n</signed>. </closer>
+                  </div>
+                  <div type="tillegg-extra">
+                     <p xml:id="p263">Af den i Slutningen af nærværende Udskrift nævnte Protest kan ingen <lb/>
+Gjenpart meddeles, da den Protocol, hvori Protesten indeholdes, ikke <lb/>
+fandtes ved Byeskrivercontoirets Archiv ved dettes Overleverelse til <lb/>
+den nuværende Byeskriver.</p>
+                     <closer>
+                        <dateline>
+                           <placeName>Byeskrivercontoiret i Christiania</placeName>
+                           <date>d. 18 Novbr 1852</date>.</dateline>
+                        <lb/>
+(Uden Betaling)					<signed>
+                           <persName>Chr. Mathiesen</persName>, aut.Fuldm.</signed>
+                     </closer>
+                  </div>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h74">
+                  <supplied resp="editor">Christiania 18. desember 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h75">Underdanigst Rapport!</head>
+                  <p xml:id="p264">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+                  <p xml:id="p265">	Jeg vaagnede denne Dags Morgen ved det glade Budskab, som Deres <lb/>
+Majestæt under 14de denne Maaned har havt den Naade at meddele mig, <lb/>
+og min Glæde forøgedes saare meget ved, efter en lang og bekymringsfuld <lb/>
+Tid, at have den Lykke at gjensee Deres Majestæts egenhændige <lb/>
+høie Navnunderskrift aldeles uforandret.</p>
+                  <p xml:id="p266">	Jeg takker underdanigst for denne Naade og iler med at fremsende <lb/>
+min underdanigste Lykønskning tilligemed Deres Majestæts norske  <lb/>
+Regjerings, i Anledning af den indtrufne lykkelige Begivenhed, og har jeg <lb/>
+til Overbringer heraf valgt Lieutenant Bloch, hvis Fader for 26 Aar <lb/>
+tilbage, i en lignende Anledning overbragte Høistsalig Kongen og Deres <lb/>
+Majestæt en underdanigst Lykønskning herfra.</p>
+                  <p xml:id="p267">	Jeg lod strax den naadige Meddelelse forkynde den længtende Almeenhed <lb/>
+ved Fæstningnes Kanoner og Herolder, en Opmærksomhed, som <lb/>
+denne Almeenhed fortjener ved dens hjertelige Deeltagelse, før i <lb/>
+Sorg, nu i Glæde.</p>
+                  <p xml:id="p268">	I Morgen ville vi i Herrens Huus fornye vor ydmyge Taksigelse <lb/>
+for Deres Majestæts Helbredelse og for den Kostelige Julegave, som <lb/>
+Han i sin Naade har forundt Deres Majestæt, det Kongelige Huus og de <lb/>
+forenede Riger. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 18de December 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h76">
+                  <supplied resp="editor">Christiania 23. desember 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h77">Underdanigst Rapport!</head>
+                  <p xml:id="p269">	Min sidste underdanigste Rapport af 18de denne Maaned afsendtes <lb/>
+med Lieutenant Bloch som Coureer. Først den 21te denne Maaned modtog <lb/>
+vi her Stadfæstelse paa de gruelige Optrin, som have funden Sted i  <lb/>
+Begyndelsen af forrige Maaned i Kautokeino, som for længst have været <lb/>
+ommeldte i svenske Blade.</p>
+                  <p xml:id="p270">	Indberetningen herom af Stedets værdige Sognepræst Hvoslev til <lb/>
+den sig for Tiden her opholdende Biskop i Tromsø Stift, Juell, findes <lb/>
+indtaget i Bladet "Christiania Posten for den 22de dennes No <lb/>
+1532. Den viser, til hvilke skrækkelige Yderligheder Raahed, forenet <lb/>
+med Fanatisme kan lede! I denne Begivenhed var det religieus eller <lb/>
+rettere irreligieus Fanatisme, som benyttedes til at udøve skrækkelig <lb/>
+Udaad; om M. Thrane ikke i sidste Øieblik var bleven standset <lb/>
+i sin politiske Virksomhed vilde han snart have benyttet den raa Masses <lb/>
+communistiske Fanatisme, hvis Opvækkelse var hans Formaal, til at <lb/>
+iværksætte lignende Rædselsscener.</p>
+                  <p xml:id="p271">	Den egentlige Anledning til det skrækkelige Optrin var, saa vidt <lb/>
+jeg kan skjønne, denne, at den myrdede Lensmand havde søgt at paagribe <lb/>
+en paa Grund af forrige Aars Uroligheder til Tugthuset dømt Quinde, <lb/>
+som tilhører den fanatiske Sect, hvis Medlemmer havde svoret at <lb/>
+dræbe enhver, som vilde forsøge at arrestere hende. For at forhindre <lb/>
+hendes Paagribelse satte de sig i Bevægelse og Sectens Fanatisme <lb/>
+benyttedes til at udøve Mord og Mordbrand, og derved udbrede  <lb/>
+Forskrækkelse blandt de lovlydige fredelige Indvaanere.</p>
+                  <p xml:id="p272">	Hensigten var ogsaa at dræbe Præsten og at opbrænde Præstegaarden <lb/>
+og Kirken; men dette afværgedes ved tililende brave Finner, som ved <lb/>
+Outzie, en Miil fra Kautokeino, have faste Boliger, og som under en <lb/>
+haardnakket Kamp, hvorunder paa begge Sider mange saaredes, overvandt <lb/>
+Morderne og bragte disse til Alten, i Justitiens Hænder, forinden de <lb/>
+af Øvrigheden til Kautokeino sendte Politi-Assistenters Ankomst.</p>
+                  <p xml:id="p273">	Disse brave Outzie-Finner, som vovede Lemmer og Liv, fortjene <lb/>
+visselig lige meget Belønning, som Andre, der redde Skibbrudne fra <lb/>
+at drukne.</p>
+                  <p xml:id="p274">	Den værdige Præst Hvoslev flygtede ikke; men forblev under sin <lb/>
+og frugtsommelige Hustrues Mishandling og Livsfare troelig ved sin <lb/>
+Hjord. Hans Bohave og Vinterforraad blev for en stor Deel ødelagt <lb/>
+og Regjeringen har, for at afhjelpe hans første Forlegenhed, i  <lb/>
+Forventning af Deres Majestæts naadige Bifald, foreløbig sendt ham 100 <lb/>
+Species af Oplysningsvæsenets Understøttelsesfond.</p>
+                  <p xml:id="p275">	Jeg agter idag at feire Deres Majestæts Helbredelse og Prinds <lb/>
+Carl Oscars Fødsel ved en saa stor Middag, som i Stiftsgaarden kan <lb/>
+rummes.</p>
+                  <p xml:id="p276">	I samme Hensigt er her aabnet en Subscription til Fattiges <lb/>
+Bespisning, hvortil Bidraget har været saa almindeligt, at 18 til 1900 <lb/>
+fattige Familier derved ville kunne faae et rundeligt Maaltid, og er <lb/>
+det især tilfredsstillende, at Tjenestefolk, Sjouere, Soldater, hertil <lb/>
+med stor Beredvillighed have bidraget deres Skjærv. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 23 December 1852</date>.</dateline>
+                     <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="rapport">
+               <head xml:id="h78">
+                  <supplied resp="editor">Christiania 30. desember 1852</supplied>
+               </head>
+               <div type="hoveddel">
+                  <head type="sub" xml:id="h79">Underdanigst Rapport!</head>
+                  <p xml:id="p277">	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+                  <p xml:id="p278">	Jeg tillader mig herved at fremsende min underdanigste Lykønskning <lb/>
+i Anledning af Aarets Omvexling, med det hjertelige Ønske, at <lb/>
+det kommende Aar maa kunne læge de uventede Haarde Saar, som det <lb/>
+hensvundne bragte, og at det maa vorde rigt paa Velsignelse for <lb/>
+Deres Majestæt, det Kongelige Huus, og de forenede Riger, hvorhos <lb/>
+jeg tillader mig underdanigst at anbefale mig og mine til Deres <lb/>
+Majestæts vedvarende Kongelige Naade og Bevaagenhed. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 30te December 1852</date>.</dateline>
+                     <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                     <salute>underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>Løvenskiold</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
