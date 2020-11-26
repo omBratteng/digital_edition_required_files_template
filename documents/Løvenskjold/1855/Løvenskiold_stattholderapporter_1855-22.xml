@@ -1,0 +1,172 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 17. juni 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p>	Den 13de erfarede jeg i Statsraadet, at Tellegraflinien mellem <lb/>
+Christiania og Stockholm i uventet kort Tid er bleven fuldført,  <lb/>
+hvorpaa jeg samme Dags Eftermiddag fik Stadfæstelse, ved efter Deres <lb/>
+Majestæts naadige Befaling at modtage den første Meddelelse fra  <lb/>
+Stockholm ved Tellegraf. Jeg besvarede den snarest muligt herfra og  <lb/>
+formoder at mit Svar maa være ankommet til Stockholm endnu samme Dags <lb/>
+Aften. Dette forbausende Communicationsmiddel er et af Nutidens største <lb/>
+Opfindelser og dets Anvendelse i de forenede Riger, en af de interessante <lb/>
+og gavnlige Begivenheder, som udmærke Deres Majestæts Regjering.</p>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse <lb/>
+af 11te, som jeg modtog et og et halvt Døgn senere end Meddelelsen <lb/>
+pr Tellegraf af 13de.</p>
+               <p>	Jeg har den Ære at vedlægge en Copie af den officielle Indberetning <lb/>
+om den ulykkelige Ildebrand, som nylig har rammet Staden Bergen.</p>
+               <p>	Det var en ulykkelig Følge af den langvarige Vinter, at Jorden <lb/>
+først meget seent kunde bearbeides for Vaarsæden og at i dette Foraar <lb/>
+er blevet saaet mindre end sædvanligt, fordi Jorden ikke var beqvem <lb/>
+til i Tide at bearbeides og til at modtage Sæden. Alle Livets Fornødenheder <lb/>
+ere stegne til enorme høie Priser, hvorved dog den arbeidende <lb/>
+Klasse lider mindst fordi Arbeidslønnen er steget forholdsmæssig. <lb/>
+I de seneste Dage have vi faaet en for Ager og Eng velgjørende Regn <lb/>
+som forhaabentlig ogsaa vil medføre en ønskelig Indflydelse paa  <lb/>
+Luftens Temperatur, som hidindtil har været meget foranderlig og som  <lb/>
+oftest saa kold, at jeg endnu daglig Morgen og Aften maa benytte <lb/>
+Kakkelovnen i mit Sengkammer.</p>
+               <p>	Jeg tillader mig (maaskee aldeles overflødig) underdanigst at <lb/>
+henlede Deres Majestæts naadige Opmærksomhed, paa vedlagte Artikkel <lb/>
+af Hamborger Correspondent No 134, Berlin 5te Juni. <lb/>
+Med det sidste Dampskib fra Kjøbenhavn havde jeg den Glæde at <lb/>
+modtage min Søn Ernst, efter et Aars Fraværelse udenrigs. Hovedformaalet <lb/>
+for hans Ankomst nu, var Haabet om den Lykke at kunne opvarte <lb/>
+Deres Majestæt her; men da han nu af mig har erfaret at Deres Majestæts <lb/>
+Ankomst hertil først kan ventes mod Slutningen af næste Maaned, <lb/>
+agter han at vende tilbage til sin i Kjøbenhavn værende Familie og at <lb/>
+komme her tilbage mod den for Deres Majestæts Ankomst bestemte Tid <lb/>
+til sin Tjenstgjøring.</p>
+               <p>	General Baron Wedel Jarlsberg er i den senere Tid meget lidende <lb/>
+af Astma og Podagra og vil i Mangel af en betydelig Bedring neppe <lb/>
+komme op ad Slotstrapperne.</p>
+               <p>	Jeg vover at stole paa, at Deres Majestæt ogsaa dette Aar naadigst <lb/>
+vil tillade mig, at feire Deres Majestæts høie Fødselsdag paa <lb/>
+det vakre Ladegaardsøen. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 17de Junii 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 17. juni 1855</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Gjenpart</hi>.</head>
+               <p>	Herved indberettes ærbødigst den ulykkelige Begivenhed, at en <lb/>
+stor Deel af Bergen igaar er afbrændt. Ilden bemærkedes om Natten <lb/>
+Klokken noget over 1 i et ved Torvet beliggende Kjøbmand C. Lossius <lb/>
+Brandt tilhørende Huus i 15de Rode No 2, men den havde allerede da <lb/>
+faaet saa meget Raaderum i bemeldte Eiendom, hvorfra det siges, at <lb/>
+een af Beboerne maatte flygte upaaklædt og uden at kunne redde det <lb/>
+Mindste, at den øieblikkelig udbredte sig til de i flere Retninger <lb/>
+tilstødende Huse, og derefter med megen Hurtighed greb videre om sig. <lb/>
+Det lykkedes dog at forebygge, at den forplantede sig paa den anden <lb/>
+Side af den saa kaldede Vaagsalminding eller den fra Torvet til  <lb/>
+Raadstuealmindingen løbende Gade, hvorved Bankbygningen og den nærmest <lb/>
+ved denne beliggende Eiendom, hvori Ilden allerede havde fænget, bleve <lb/>
+reddede.</p>
+               <p>	Derimod fortsatte den sine Ødelæggelser i det Strøg, der fra <lb/>
+den sydvestlige Kant af Vaagsalmindingen gaaer langs Torvalmindingens  <lb/>
+sydlige Side til Maartmanns Hauge eller Begyndelsen af Vaskerelvsmuget, <lb/>
+samt imod Syd indbefatter de ved Vaagsalmindingens vestlige Side, <lb/>
+samt lille Strandgaden, lille Markeveien eller Graamuurgaden og  <lb/>
+Starhuusgaderne liggende Huse. Ved et af disse, Fattigvæsenets Eiendom i <lb/>
+16de Rode No 87 a lykkedes det at standse Ilden, saa at Klokken <lb/>
+omtrent 9 om Formiddagen Faren kunde ansees overvunden, efterat man <lb/>
+noget før havde været saa heldig at afværge saavel Ildens Forplantelse <lb/>
+over Torvet, der lod sig befrygte, som dens Udbredelse i Vest forbi <lb/>
+Maartmanns Hauge. Hvad der ligger paa Raadstuealmindingen, blev <lb/>
+reddet, undtagen de før betegnede Huse, der paa dens nordvestlige Side <lb/>
+stødte til samme fra lille Strandgaden og lille Markveien, men af <lb/>
+de øvrige paa Almindingen beliggende Eiendomme svævede flere i den <lb/>
+største Fare og deriblandt især den, der senest har været eiet af  <lb/>
+afdøde Stiftamtmand Hagerup, men nu tilhører Børsen. For at forebygge <lb/>
+Ildens Udbredelse blev paa flere Steder skredet til Nedrivelse af <lb/>
+Bygninger og deriblandt ogsaa af nogle, der laa ved Gaden fra Raadstuen <lb/>
+forbi Børsens nysnævnte Eiendom til den Musæet tilhørende Eiendom, <lb/>
+da der ikke var nogen Sandsynlighed for, at de vilde undgaae at blive <lb/>
+et Bytte for Ilden; men som forhen bemærket, lykkedes det at standse <lb/>
+denne ved Fattigvæsenets Eiendom i 16de Roden No 87 a, en lang, med <lb/>
+tilstødende Træbygninger i Forbindelse staaende, af samme Material <lb/>
+opført Bygning, af hvilken en Deel blev nedreven og en Deel brændte, <lb/>
+inden Ilden kunde slukkes. Ved dette uventede Held hævedes den Fare, <lb/>
+hvorfor Musæets Skatte og den videre tilstødende Deel af Byen var udsat, <lb/>
+hvorhos Bygningerne imellem Huset i 16de Rode No 87 a og Børsens <lb/>
+Eiendom bleve frelste til Held for denne og den Deel af Byen, <lb/>
+som ved Ildens Forplantelse til samme lettelig kunde være bleven et <lb/>
+Rov for Ilden.</p>
+               <p>	Jeg har modtaget 2 Beretninger om den omhandlede Begivenhed og <lb/>
+hvad dermed staaer i Forbindelse, den ene fra Magistraten og den  <lb/>
+anden fra Branddirecteuren. Jeg giver mig den Ære at vedlægge dem,  <lb/>
+tilligemed den, den første ledsagende, Fortegnelse fra Raadstueskriveren <lb/>
+over de i Brandkassen forsikrede Eiendomme, der ere brændte, og <lb/>
+deres Forsikringssummer. Disse ere, formodentlig ved feilagtig  <lb/>
+Opsummering, opgivne at udgjøre ialt 148,450 Spd. men efter rigtig <lb/>
+Optælling af de anførte Summer bliver Beløbet 20 Spd. mindre. De <lb/>
+nedrevne Eiendomme har han ikke taget med. Hertil kommer den Flere  <lb/>
+vederfarede Beskadigelse.</p>
+               <p>	Postmester Kjellands Eiendom, hvori Postcointoiret holdtes, er <lb/>
+iblandt de afbrændte. Foreløbig er der anviist ham Rum i Tanks  <lb/>
+Skoles Bygning. Formodentlig vil han directe meddele det Kongelige <lb/>
+Departement Beretning om, hvad der vedkommer hans Embede.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Bergens Stift</placeName>, <date>den 31te Mai 1855</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Schydtz</persName>
+                  </signed>
+    	Den Kongelige Norske Regjerings <lb/>
+    			Departement for det Indre.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

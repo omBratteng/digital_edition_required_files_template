@@ -1,0 +1,73 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 17. november 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p>	Deres Majestæts naadige Beslutning om Grændsespærrens Ophævelse, <lb/>
+har opvakt megen Glæde hos de mange derved opholdte Svenske, som <lb/>
+hos det Norske Publicum. Man har imidlertid ikke forhastet sig med <lb/>
+denne glædelige saa meget efterlængtede Efterretnings Meddelelse, da <lb/>
+Deres Majestæts naadige Resolution af 2den først naaede hid den 14de <lb/>
+denne Maaned. Iøvrigt veed jeg ikke af hvem eller til hvem Meddelelsen <lb/>
+er givet. Jeg erfarede den først igaar den 16de af offentlige <lb/>
+Blade.</p>
+               <p>	Jeg takker underdanigst for Meddelelsen om Cholera Sygdommens <lb/>
+Oprindelse i Malmø, som ikke skal ligge begravet hos mig. Jeg skulde <lb/>
+troe det meget hensigtsmæssigt at give Publicum en udførlig officiel <lb/>
+Meddelelse, naar Undersøgelserne ere tilendebragte og de Skyldige <lb/>
+dragne til vel fortjent Ansvar.</p>
+               <p>	I de senest forløbne 3de Døgn ere 8 Angrebne, 3 Døde, 3 Helbredede <lb/>
+af Cholera. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17 November 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

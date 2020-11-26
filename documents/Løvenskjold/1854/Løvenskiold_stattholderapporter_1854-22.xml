@@ -1,0 +1,104 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 23. april 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Efter min sidste underdanigste Rapport af 20de har jeg havt <lb/>
+den Ære at modtage Deres Majestæts naadige Skrivelse af 17de. Det <lb/>
+Indtryk som Storthingets Færd i Anledning af Commandants-Instructionen <lb/>
+har gjort paa Deres Majestæt, bedrøver mig ubeskrivelig; men forundrer  <lb/>
+mig ikke, thi det er bittert i en Begivenhed hvori Deres Majestæt <lb/>
+med største Føie har Krav paa Paaskjønnelse og Taknemmelighed <lb/>
+at møde Uskjønsomhed og Miskjendelse. Jeg vover imidlertid underdanigst <lb/>
+at bede Deres Majestæt at ville være overbeviist om at denne <lb/>
+Miskjendelse kun næres af meget faa taabelige og Ildesindede som  <lb/>
+beklageligviis forstaae at gjøre sig gjældende i Storthinget og i vore <lb/>
+fordærvelige offentlige Blade. Denne Miskjendelse bedømmes med vel <lb/>
+grundet Indignation af den bedre store Almenhed, som med uforandret <lb/>
+Hengivenhed og Taknemmelighed paaskjønne Deres Majestæts landsfaderlige <lb/>
+heldkronede Bestræbelser og Opoffrelser for Sine Rigers og Undersaatters <lb/>
+Bedste.</p>
+               <p>	Den oprindelige Misforstaaelse af Commandant Instructionen af <lb/>
+6te Marts er ikke foranlediget ved dennes <hi rend="underline">urigtige</hi>  Læsning og  <lb/>
+Forstaaelse; men derved at den beklageligviis aldeles ikke var læst af <lb/>
+Nogen udenfor Commandocontoret, hvorfra mundtlige Meddelelser om dens <lb/>
+Indhold kanskee have været mere vildledende end veiledende.</p>
+               <p>	Min underdanigste Rapport af 2den denne Maaned viser at Ordren <lb/>
+dengang ikke var læst i selve Regjeringen, som jeg fandt ubeskedent <lb/>
+(indiscret) at begjære, som en Regjeringen uvedkommende Commandosag, <lb/>
+indtil jeg bemærkede den Uro, som den forvoldte i Storthinget. Deres <lb/>
+Majestæts naadige Skrivelse til mig af 8de denne Maaned og den samtidig <lb/>
+ankomne Senere Commandantordre af samme Dato, <hi rend="underline">hvorom der underhaanden</hi>
+                  <lb/>
+                  <hi rend="underline">er givet Storthinget Meddelelse</hi>, burde ogsaa hos dette have <lb/>
+hævet enhver Misforstaaelse, som Uforstand og ond Villie imidlertid <lb/>
+have vedligeholdt, hvilket Storthingets Skrivelse af 19de viser. Jeg  <lb/>
+fremlagde igaar i Statsraadet mit Concept til et kort Svar til denne <lb/>
+Skrivelse, som bifaldtes, men da man troede at den burde behandles in <lb/>
+optima forma, blev det overdraget til Marinedepartementets Chef derom <lb/>
+at gjøre et formeligt Foredrag.</p>
+               <p>	Deres Majestæts naadige Skrivelse af 17de, som jeg har forelæst <lb/>
+i Regjeringen, for Storthingets Præsident, og flere Storthingsmænd, <lb/>
+har gjort et dybt og piinligt Indtryk og forene Alle sig med <lb/>
+mig i det Ønske og den underdanigste Bøn om Vedligeholdelse af Deres <lb/>
+Majestæts naadige Sindelag for Norges troe hengivne Folk.</p>
+               <p>	Da de engelske og franske Regjeringer have lovet, at ville opfylde <lb/>
+Deres Majestæts Ønske om at lade den russiske Skibsfart og <lb/>
+Tuskhandel paa Finmarken være uforstyrret, vover jeg at udbede den <lb/>
+russiske Regjering derom underrettet, til Efterretning for dens  <lb/>
+vedkommende Undersaatter.</p>
+               <p>	Da det Kongelige Huus Sorg forbyder mig som sædvanlig at feire <lb/>
+Hendes Kongelige Høihed Prindsessens høie Fødselsdag i Morgen ved en <lb/>
+Bal, agter jeg ved en større Middag at udbringe mine underdanigste <lb/>
+Ønsker for Hendes Kongelige Høihed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23de April 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

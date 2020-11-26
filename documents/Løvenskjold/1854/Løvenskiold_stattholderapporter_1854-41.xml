@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 31. august 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 24de denne Maaned.</p>
+               <p>	Jeg kommer nu af et overordentligt Statsraad, som blev afholdt <lb/>
+for at overveie, om Jernbanen overeensstemmende med Contract og  <lb/>
+senere Overeenskomst kan blive modtaget i Morgen den 1ste September, <lb/>
+hvilket er de i denne Hensigt hidkomne engelske Entrepreneurer meget <lb/>
+magtpaaliggende, fordi Omstændighederne kun tillade dem at opholde <lb/>
+sig nogle faae Dage her.</p>
+               <p>	Jernbanens hele Linie blev i Gaar befaret og omhyggelig <lb/>
+undersøgt at Overingenieuren Sir Robert Stephenson med de engelske  <lb/>
+Contrahenter og den norske Control-Commission, hvis herom afgivne  <lb/>
+Indberetning er saa tilfredsstillende, at Regjeringen ikke kunde have <lb/>
+nogen Betænkelighed ved, paa Deres Majestæts høie Vegne, at afgive <lb/>
+Beslutning om: at Jernbanen i Morgen kan blive modtaget, hvorom  <lb/>
+underdanigst Indberetning snarest mulig vil skee.</p>
+               <p>	De engelske Entrepreneurer have til Jernbanens høitidelige <lb/>
+Aabning imorgen indbuden den Norske Regjering, Storthingets samtlige <lb/>
+Medlemmer, med Flere, til et Antal af 230 Personer. Jeg beklager, at <lb/>
+min Helbred forbyder mig at deeltage i denne interessante Act.</p>
+               <p>	Coureren, som bragte Deres Majestæts Sanction til Værnepligtsloven <lb/>
+med en derved foranlediget naadigst Proposition til Storthinget, <lb/>
+kom betimelig i Gaar Morges, og blev Documenterne strax af Statsraad <lb/>
+Bloch overbragte Storthinget.</p>
+               <p>	Statsraad Erichsen meddeelte mig efter Statsraadet i Gaar Deres <lb/>
+Majestæts naadige Skrivelse til ham og erklærede sig, til min store <lb/>
+Tilfredsstillelse, redebon til at opfylde Deres Majestæts naadige <lb/>
+Ønske, som han selv underdanigst vil andrage for Deres Majestæt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 31de August 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

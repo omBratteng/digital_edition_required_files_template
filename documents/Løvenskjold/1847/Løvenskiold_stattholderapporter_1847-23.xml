@@ -1,0 +1,65 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 8. juli 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p>	Deres Majestæts Høie Fødselsdag havde jeg den Ære at feire ved en stor Middag i Stiftsgaarden, hvorved mine for Deres Majestæter og det Kongelige Huus udbragte hjertelige Skaaler geleidedes af varm Deeltagelse, Fanfarer og Fæstningens Salutter.</p>
+               <p>	Garnisonens Underofficierer og Menige erholdt den sædvanlige Gratification og Deres Majestæts Naadegave 200 Spdl. blev af Magistraten anvendt til at bespise 1431 Fattige, hvis Taknemmelighed jeg er anmodet om underdanigst at fremføre.</p>
+               <p>	I den sidste Halvdeel af Juny Maaned, nemlig fra den 15de til 30te, er til Christiania indført: 14,981 Tønder Kornvarer, Ærter, Gryn, Meel, Potates, hvoriblandt 7037 Tønder Ruug og 5275 Tønder Byg.</p>
+               <p>	Da jeg erfarede, at Biskop Neumann under Feiringen af hans 25aarige Jubilæum sidstleden 6te Juny som Biskop over Bergens Stift, for den derved forsamlede Geistlighed havde yttret sit Forset, snarlig at ville trække sig tilbage fra sin offentlige Virksomhed, bad jeg ham ret indstændig at vedblive denne saalænge hans Kræfter maatte tillade det. Jeg foranledigedes hertil af den Anskuelse, at Biskop Neumann, uagtet 75 Aar gammel, endnu er Rigets lærdeste og dygtigste Biskop, at hans Virksomhed, saa længe Gud som hidindtil forunder ham Helbred og Kræfter, endnu kan bære velsignede Frugter; at den dygtige gamle Mands Erfaring og Sindighed ikke tiltrænges mindre end unge og friske Kræfter. Hans Svar tillader jeg mig underdanigst at vedlægge, hvoraf naadigst vil erfares, at han vil ansee Deres Majestæts Villie som Lov for sig; men at han efter sin engang afgivne offentlige Erklæring maa kunne paaberaabe hiin, for at kunne forandre sit tilkjendegivne Forsæt. Jeg vover derfor underdanigst at udbede mig naadigst Bemyndigelse til at meddele Biskop Neumann Deres Majestæts naadige Ønske: at han endnu vil vedblive sin gavnlige og hæderlige geistlige Virksomhed, hvorved et fædrenelandsk Gode vil opnaaes, om hvis Ønskelighed Kirke-Departementets Chef, Statsraad Holst, ganske deler min Anskuelse. Efter Biskoppens Ønske tillader jeg mig underdanigst at vedlægge hosfølgende i Anledning af hans Jubilæum.</p>
+               <p>	Af Hr Greve E. Lewenhaupts Skrivelse af 28de forrige Maaned, har jeg gjerne erfaret, at Deres Majestæt, efterat have talt med den fra Paris hjemkomne Grosserer Schwan, har givet Hans Excellence Løwenhjelm den i min underdanigste Rapport af 12te Juny udbedede Befaling for Underhandlingen med Frankrige.</p>
+               <p>	Ogsaa Hr Stephanson er hjemkommet, medens de fremsatte Propositioner nu behandles i Paris; hvorhen han er villig til at reise tilbage, om hans Nærværelse der maatte behøves. Toldcasserer Lange er imidlertid endnu tilbage i Paris og vil kunne give Hans Excellence Løwenhjelm enhver attraaende Oplysning. Af Hr Stephanson, som synes at have røgtet sit Kald med megen Nidkjærhed, erfarer jeg med Fornøielse den gode Forstaaelse og Enighed, som har funden Sted, imellem de svenske og norske Herrer i Paris.</p>
+               <p>	Med Morgenposten vil den norske Regjerings underdanigste Indstilling om min Søn Otto’s naadige Udnævnelse til Expeditions Secretair i Finants Departementet afgaae, som jeg tillader mig underdanigst at anbefale til Deres Majestæts naadige Bifald. Statsraad Vogts Forslag herom var lige uventet for mig som for min Søn. Han har hidindtil med Held arbeidet i det juridiske Fag og jeg tør tiltroe ham Dygtighed til snart at kunne blive bekjendt med det ham nu tiltænkte nye.</p>
+               <p>	Med Længsel modseer jeg Underretning om og naar jeg tør vente den Lykke at modtage Deres Majestæt her og ad hvilken Vei. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 8de Juli 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 28. november 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 24de denne Maaned.</p>
+               <p>	Deres Majestæts naadige Skrivelse af 20de tilhændekom mig Søndag <lb/>
+Aften den 23de. Jeg bør i Eet og Alt tiltræde Deres Majestæts <lb/>
+skarpsindige Bemærkninger om Valget af Kongelige Raadgivere i Almindelighed, <lb/>
+som om de naadigst nævnte Personer i Særdeleshed. Omendskiønt  <lb/>
+jeg tør bekjende at det gjør mig ondt, at den hæderlige Falsen ved <lb/>
+denne Leilighed forbigaaes, maa jeg dog erkjende Deres Majestæts  <lb/>
+naadige Valg for det rigtigste, og at i Begivenhed som denne bør Følelser <lb/>
+vige for Fornuftens Bud.</p>
+               <p>	Deres Majestæt har naadigst overladt til mig at raadføre mig med <lb/>
+Nogen, som nærmere kjender Stang, om hans Dygtighed til at bestyre det <lb/>
+ny Regjerings Departement eller med ham selv, og jeg har troet at burde <lb/>
+benytte begge Dele. I førstnævnte Henseende har jeg ikke troet at kunne <lb/>
+faae paalidelig Veiledning af nogen competentere Dommer end Professor <lb/>
+Schweigaard. Først efterat jeg af ham havde modtaget Forsikkring om <lb/>
+Stangs fuldkomne Dygtighed i den specielle Retning, meddeelte jeg denne <lb/>
+Onsdag Aften Deres Majestæts naadige Tilbud og henledede hans Opmærksomhed <lb/>
+paa de mange forskjellige Administrationsgrene som ere underlagte <lb/>
+det nye Departement.</p>
+               <p>	Stang modtog Deres Majestæts naadige Tilbud med underdanigst <lb/>
+Taknemmelighed og udbad sig nogle Dage for at overveie og undergive sine <lb/>
+Evner en stræng Prøve, hvis Resultat jeg tør haabe vil blive  <lb/>
+tilfredsstillende og hvorom jeg vil tilade mig at gjøre underdanigst  <lb/>
+Indberetning snarest mulig. Stang hører til de faae Undtagelser blandt mine <lb/>
+Landsmænd, som have nogen mangesidig Dannelse. Det store Fleertal maa <lb/>
+indskrænke sig til et specielt Brødstudium, hvilket igjen er en Følge <lb/>
+af de borgerlige og oeconomiske Stillinger, hvori de fødes og opdrages.</p>
+               <p>	Jeg bør underdanigst bemærke, at den af Deres Majestæt naadigst <lb/>
+paapegede Udvei at overdrage Departementet for det Indre til Statsraad <lb/>
+Petersen under ingen Omstændighed vilde kunne benyttes. Petersen har <lb/>
+forlængst for mig erklæret, at han mangler de dertil fornødne Kundskaber <lb/>
+og deri maa jeg være enig med ham. Petersen har et meget udmærket <lb/>
+Hoved. Talent, sjeldne Evner, men udenfor sit juridiske Fag meget <lb/>
+tarvelige Kundskaber. Han er lig en brillant Over-Bygning paa en svag <lb/>
+Under-Bygning. Om jeg blandt <hi rend="underline">Statsraaderne</hi>  skulde paapege en Chef for <lb/>
+det ny Departement maatte det blive Vogt, i hvis Sted jeg tiltroer <lb/>
+Schmidt de fornødne Kundskaber, for Finants Departementets Bestyrelse. <lb/>
+Herom vil imidlertid neppe blive Spørgsmaal.</p>
+               <p>	Min Meddelelse til Stang er ikke kjendt af Nogen uden af ham og <lb/>
+Schweigaard, og herved bør det forblive, om Sagen ikke skal blive  <lb/>
+omhandlet i Aviser, forinden den er afgjort.</p>
+               <p>	I Slutningen af October Maaned var jeg urolig for denne Byes <lb/>
+Forsyning med Rug, hvoraf Beholdningen da neppe var tilstrækkelig for 3 <lb/>
+Uger. I forrige Aars October Maaned indførtes hertil fra Udlandet <lb/>
+13,700 Tønder; dette Aar 2,727 Tønder Rug, hvorimod vi i November Maaned <lb/>
+til den 22de Gud skee Tak! have modtaget nær 12,000 Tønder. Forbruget <lb/>
+af Rug i Christiania med Forstæder anslaaes til 4,000 Tønder maanedlig, <lb/>
+hvortil, for at være forsynet til 1ste Mai mangler 8,000 Tønder; men <lb/>
+da i de 2de næstforegaaende Aar i Tidsrummet fra 1ste December til <lb/>
+1ste Mai hertil er bleven indført 12 à 14,000 Tønder Rug, tør det <lb/>
+Manglende ogsaa dette Aar forventes indført. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28de Novbr. 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

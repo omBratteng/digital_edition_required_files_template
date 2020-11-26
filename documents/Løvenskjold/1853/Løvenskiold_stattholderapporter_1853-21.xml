@@ -1,0 +1,181 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. juli 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min underdanigste Rapport af 30te forrige Maaned har jeg <lb/>
+havt den Ære at høitideligholde Deres Majestæts høie Fødselsdag ved <lb/>
+en Middag i Stiftsgaarden, hvor de Tilstedeværende med mig udbragte <lb/>
+de varmeste Ønsker for Deres Majestæt og de forenede Riger.</p>
+               <p>	Stadens Fattige, til et Antal af 1546 Individer, bleve paa <lb/>
+sædvanlig Maade for Deres Majestæts høie Regning bespiiste med et <lb/>
+velsmagende Maaltid, hvorom jeg giver mig den underdanige Frihed at  <lb/>
+vedlægge Indberetning fra Fattigbestyrelsens Formand.</p>
+               <p>	Ligeledes blev den sædvanlige Gratification af Deres Majestæts <lb/>
+private Casse uddeelt til Garnisonen, der, paa Grund af Vaabenøvelserne <lb/>
+paa Etterstad, denne Gang var forøget med et Musqueteercorps.</p>
+               <p>	Efter Indbydelse af den herværende engelske Over Ingenieur fandt <lb/>
+samme Dag et Prøvetog paa Jernbanen Sted mellem Christiania og Strømmen, <lb/>
+en Strækning af omtrent 1 3/4 Miil, der blev tilbagelagt i en <lb/>
+1/2 Time. I næste Uge vil denne Deel af Banen foreløbig blive taget <lb/>
+i Brug for Befordring af Trælast.</p>
+               <p>	Statsraad Sylow har anmeldt Sygdomsforfald og paa Grund heraf er <lb/>
+Byfoged Thrap med Henhold til Grundlovens 29de § bleven constitueret <lb/>
+til at tage Sæde i Statsraadet den 7de Julii. Regjeringen besluttede <lb/>
+at under Statsraad Sylows Forfald, der efter Lægens Udsigende  <lb/>
+forhaabentlig om kort Tid vil ophøre, at undertegnede Statsraad Krog  <lb/>
+midlertidig er overdraget Bestyrelsen af Armee Departementet og ligesaa <lb/>
+Statsraad Petersen Marine Departementet.</p>
+               <p>	Contre Admiral Petersen er i Tirsdags den 5te Julii død af et <lb/>
+langvarigt Levertilfælde. I denne Anledning er Commandeur Capitaine <lb/>
+Bendtz beordret til, indtil Deres Majestæts naadigste Bestemmelse  <lb/>
+vorder afgiven, at fungere som Høistbefalende og Generaladjutant for <lb/>
+Marinen.	</p>
+               <p>	I den saakaldte Depôtsag er Høiesterets Dom falden, hvorved <lb/>
+Meylænder og Gløersen ere dømte til 4 Aars Tugthuus Arbeide, og  <lb/>
+Stadshauptmand Ytteborg er dømt fra sit Embede.</p>
+               <p>	Dampskibet "Nordcap", der Klokken 5 i Morges er ankommet fra <lb/>
+Helsingør, er paa Grund af nogle medhavende Passagerer fra Kjøbenhavn, <lb/>
+atter lagt i Quarantaine. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Julii 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. juli 1853</supplied>
+               </head>
+               <opener>Høivelbaarne <lb/>
+Hrr Statsraad Krog <lb/>
+    	Ridder og Commandeur af Hans Kongelige <lb/>
+    			Majestæts Ordener.</opener>
+               <p>	Jeg giver mig herved den Ære at meddele Hr Statsraaden Underretning <lb/>
+om, at de af Hans Majestæt Kongen naadigst skjænkede 200 Spd. <lb/>
+til Uddeling blandt de Fattige paa Høistsammes Fødselsdag ere fordeelte <lb/>
+saaledes:</p>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Til Fattige paa Kong Carl Johans Stiftelse, </cell>
+                     <cell> 8 Individer. .</cell>
+                     <cell> 4 Sp.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>	  "	  "	  "  Byens gamle Fattighuus	</cell>
+                     <cell>  22  "		 </cell>
+                     <cell> 3 -80</cell>
+                  </row>
+                  <row>
+                     <cell>	  "	  "	  "  Peder Mikkelsens Enkestue	</cell>
+                     <cell>  19  "		 </cell>
+                     <cell> 3 -20</cell>
+                  </row>
+                  <row>
+                     <cell>	  "	  "	  "  Saugbankens Fattigstue	</cell>
+                     <cell>  48  "		</cell>
+                     <cell>  8 - -</cell>
+                  </row>
+                  <row>
+                     <cell>	  "	  "	  "  Byens almindelige Fattigstuer</cell>
+                     <cell> 248  "		 </cell>
+                     <cell> 40 -60</cell>
+                  </row>
+                  <row>
+                     <cell>	  "	  "	  "  Oslo Hospital			</cell>
+                     <cell>  29  "		 </cell>
+                     <cell> 4 -100</cell>
+                  </row>
+                  <row>
+                     <cell>	  "	  "	  "  Fattigstuen "Søemands Heil"</cell>
+                     <cell>	7  "		</cell>
+                     <cell>  1 -20</cell>
+                  </row>
+                  <row>
+                     <cell>	  "  Udenhuusfattige i Oslo	  		</cell>
+                     <cell>  35  "		 </cell>
+                     <cell> 5 --</cell>
+                  </row>
+                  <row>
+                     <cell>	  "  Ditto paa Grønland		  		</cell>
+                     <cell>  330  "		</cell>
+                     <cell>  30 - -</cell>
+                  </row>
+                  <row>
+                     <cell>	 "  Ditto i Christiania		</cell>
+                     <cell>   800  " </cell>
+                     <cell> 99 -80  </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>						tilsammen	 </cell>
+                     <cell> 1546 Individer	</cell>
+                     <cell>  200 Sp.</cell>
+                  </row>
+               </table>
+               <p>Der er sørget for, at samtlige Individer paa Fattigstuerne <lb/>
+erholde et velsmagende Middagsmaaltid og at de Udenhuus fattige <lb/>
+faae hver en Portion kraftig Kjødsuppe med Kjød og Brød. </p>
+               <p>Fattigforstandernes underdanigste Taksigelse er indrykket i <lb/>
+Dagens Aviser.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 4de Juli 1853</date>.</dateline>
+                  <lb/>
+                  <salute>Allerærbødigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>E. Thorsted</persName>.<lb/>
+    							  p.t. Formand i Fattigcommissionen</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

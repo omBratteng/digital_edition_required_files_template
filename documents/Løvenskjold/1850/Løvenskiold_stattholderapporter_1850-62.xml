@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 29. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 26de denne Maaned.</p>
+               <p>	I Statsraad igaar (det 3die i Ugen imellem Juul og Nyaar), bragte <lb/>
+jeg den min sidste underdanigste Rapport vedlagte Thranes Proclamation <lb/>
+paa Bane. Alle vare enige om dens farlige Tendents, men ogsaa <lb/>
+om, at Forfatteren ikke efter vor nærværende Lovgivning kan ventes <lb/>
+domfældt, hvorved jeg stadfæstes i min Anskuelse om den paatrængende <lb/>
+Nødvendighed af en Lov, der bemyndiger Regjeringen til <hi rend="underline">i Tide</hi>  at <lb/>
+standse dæmagogiske Agitationer. Vi blev derfor enige om, at Thranes <lb/>
+Agitation bør hensigtsmæssig omhandles i Beretningen om Rigets  <lb/>
+Tilstand, som vil blive næste Storthing at forelægge, og anmodede jeg <lb/>
+Statsraad Petersen om snarest mulig at forelægge Regjeringen et Udkast <lb/>
+hertil, hvorpaa jeg lægger særdeles megen Vægt.</p>
+               <p>	Med Morgenposten vil en underdanigst Indstilling afgaae om hvad <lb/>
+der for Tiden, forinden Storthinget har bevilget de foreslaaede Midler <lb/>
+kan gjøres for at befordre nogen Virksomhed i Generalstaben – <lb/>
+Regjeringen foreslaaer underdanigst et formeentlig juste milieu imellem <lb/>
+Generaladjutantens og Armee-Departementets Forslag, som jeg tillader <lb/>
+mig underdanigst at anbefale til Deres Majestæts naadige Bifald, <lb/>
+fordi jeg formener, at det vilde skade Sagens Behandling i Storthinget <lb/>
+om man uden at oppebie dets Bevilgning, allerede nu vilde iværksætte <lb/>
+større Reformer.</p>
+               <p>	Da disse underdanigste Linier ere de sidste, som jeg vil have den <lb/>
+Ære at tilskrive Deres Majestæt forinden dette Aars Udgang tillader <lb/>
+jeg mig at fremsende mine underdanigste og hjertelige Ønsker for Deres <lb/>
+Majestæt og det Kongelige Huus til det nu anstundende Aar 1851. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

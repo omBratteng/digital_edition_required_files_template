@@ -1,0 +1,64 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 1. april 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p>	Anledningen til denne er en med Dagsposten afgaaende underdanigst Ansøgning fra Toldcasserer Lange om Reise Permission til Paris paa 6 Maaneder, den jeg har tilladt mig foreløbig at meddele ham, medens jeg vil tillade mig underdanigst at meddele de Omstændigheder, der have foranlediget denne Reise, med den Uforbeholdenhed som jeg i enhver Begivenhed føler mig forpligtet til at iagttage mod Deres Majestæt. Toldcasserer Lange er uden Tvivl den norske Mand, som besidder den største Sag Kundskab om Norges Handelsforholde, Skibsfart og Toldvæsen, forenet med en udmærket Forretnings Dygtighed, og Valget af den Mand, som efter Deres Majestæts Befaling, skal gaae til Haande med Oplysninger ved Underhandlingen om en Tractat med Frankrige, vilde derfor været falden paa ham, om ikke Deres Majestæt udtrykkelig havde befalet at vælge en Handlende.</p>
+               <p>	Vi nære det Haab, i Valget af denne, at have været heldige; men da vi ved personligt Bekjendtskab med Hr Stephanson dog maatte erkjende, at denne, som enhver Anden, staaer langt tilbage i Dygtighed for Lange, opstod hos Regjeringens Medlemmer det Ønske, at for denne maatte kunne aabnes Adgang til Deeltagelse i den vigtige Sags Behandling. Efter fælles Overlæg meddeelte jeg Lange dette Regjeringens Ønske og opfordrede ham til at begive sig til Paris, for at gaae til Haande med Underhandlingen saavidt det maatte tilstædes ham, i alle Fald, for at assistere Hr Stephanson.</p>
+               <p>	Det begjærte Offer var stort, da jeg ikke kunde tilbyde Lange at optræde i nogen officiel Stilling, ingen anden Løn end Regjeringens Taknemmelighed og Erstatning for de med Reisen forbundne Udgifter; men Offeret var ikke for stort for Langes Fædrenelandssind. Han erklærede sig villig til at reise om<hi rend="underline">Deres Majestæt naadigst bifalder det</hi>, paa Vilkaar, at han selv vil afholde sine Reiseudgifter af egen Casse, ligesom han tilbyder selv at lade sit Embede bestyre under hans Fraværelse, uden Udgift for Staten.</p>
+               <p>	Efter saaledes at have oplyst de Omstændigheder, som have foranlediget Toldcasserer Langes Reise til Paris, den han agter at tiltræde i Midten af denne Maaned, tillader jeg mig dertil underdanigst at udbede Deres Majestæts naadige Bifald og at Deres Majestæt naadigst vil foranledige Hans Excellence Løwenhjelm til at afbenytte Langes Sag Kundskab for den for de forenede Riger vigtige Sag. Herved tør jeg forsikkre at saavel Sagen som Hans Excellence vil blive vel tjent.</p>
+               <p>	Med Henhold til min underdanigste Rapport af 25de forrige Maaned undlader jeg ikke at meddele, at en nu herværende Handlende Aagaard fra Hammerfest, giver den for Finmarken beroeligende Efterretning, at han og andre Handlende ere rundelig forsynede med Ruugmeel, den derværende Befolknings Hoved-Nødvendighed. Herved maa dog bemærkes, at Hr Aagaard som Kjøbmand formodentlig interesserer sig mere for at sælge sit Meelforraad for en høi Priis end for Finmarkens Befolkning og ny Tilførsel fra Archangel. Amtmandens Indberetning ventes. Mere beroliges jeg ved sidste Post’s Efterretning om Kornprisernes uventede Dalen udenrigs. Give Gud! at den snart maa indtræffe her! de nærværende Priser ere for den store Almenhed det samme som Mangel.</p>
+               <p>	I nærværende Tid, da Avispressen indtager en ikke ubetydende Plads i Samfundet, tør jeg nævne, at Bladet "Den Constitutionelle" er bleven forenet med Rigs-Tidenden, som har faaet saa dygtige Medarbeidere at dette Blad forhaabentlig vil fortjene Deeltagelse saavel inden-, som udenrigs. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1 April 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

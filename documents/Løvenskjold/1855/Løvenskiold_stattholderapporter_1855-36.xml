@@ -1,0 +1,86 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 13. desember 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p>	Af en paalidelig privat Correspondent har man Underretning om, <lb/>
+at efterat Blokaden er ophævet i det Hvidehav, ere 16 Skibe, ladede <lb/>
+med Ruugmeel og Ruug, ankomne fra Archangel til Hammerfest og andre <lb/>
+Havne i Finmarken, og 2de Ladninger af samme Beskaffenhed ere endnu <lb/>
+i Vente, hvorved Finmarken, Gud skee Tak, kan ansees sikkret mod <lb/>
+Mangel under denne Vinter. I Archangels Havn ligge 13 norske Skibe <lb/>
+indefrusne, i Haab om at kunne næste Foraar afgaae med Meel og Korn til <lb/>
+Finmarken, forinden en ny Blokade begynder.</p>
+               <p>	Et lidet fattigt Præstegjeld, – Ørland, i Søndre Trondhjems Amt, <lb/>
+som i Mangel af Evne ikke har kunnet bygge en høielig tiltrængende ny <lb/>
+Kirke, har nylig modtaget en uventet Forsynets Hjelp, ved i kort Tid <lb/>
+at fiske over 80,000 Tønder god Sild, som vil levne Sognet en Netto <lb/>
+Indtægt af mindst 2 Speciedaler pr Tønde.</p>
+               <p>	Ved nylig confidentielt i Statsraadet at overveie den Resolution <lb/>
+som man underdanigst vil foreslaae Deres Majestæt at fatte, i <lb/>
+Anledning af den naadige Resolution af 25 August sidstleden om Hans <lb/>
+Kongelige Høihed Kronprindsens Udnævnelse til Vice Konge i Begyndelsen <lb/>
+af næste Aar, enedes man om, at ville underdanigst foreslaae, at <lb/>
+Deres Majestæt naadigst vil bestemme en vis Maaned, til Exempel Løbet <lb/>
+af Mai Maaned, for Hans Kongelige Høiheds <hi rend="underline">Tiltrædelse</hi>  til Functionen, <lb/>
+og derhos naadigst befale, at jeg til den <hi rend="underline">Tid</hi>  skal vedblive at fungere <lb/>
+som Statholder. Herimod har jeg saa meget mindre Noget at indvende, <lb/>
+som det er stemmende med Forholdet under lignende Omstændigheder Aar <lb/>
+1824, da Deres Majestæt i Februar Maaned blev udnævnt til Vice Konge <lb/>
+og tiltraadte Functionen i April Maaned, indtil hvilken Tid den <lb/>
+daværende Statholder vedblev at fungere.</p>
+               <p>	Den her forsamlede svensk-norske juridiske Commission arbeider <lb/>
+meget flittig i god indbyrdes Forhold og vil forhaabentlig opnaae et <lb/>
+tilfredsstillende Resultat. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13de December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

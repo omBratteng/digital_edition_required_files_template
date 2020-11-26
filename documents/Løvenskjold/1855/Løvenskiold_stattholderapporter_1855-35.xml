@@ -1,0 +1,79 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 6. desember 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanige Rapport af 22de forrige Maaned har <lb/>
+jeg Intet havt at indberette.</p>
+               <p>	Vinteren synes nu at have indstillet sig i gammel nordisk Orden. <lb/>
+Efter en i den senere Tid maadelig Kuldegrad, have vi nu Gud skee <lb/>
+Tak! ogsaa faaet Snee, og det for den indre Rørelse saa nødvendige <lb/>
+Slædeføre, medens Indseilingen og Havnen endnu holdes aaben for <lb/>
+Skibsfarten.</p>
+               <p>	Den Frygt, som man tidligere havde for en betydelig Formindskelse <lb/>
+i Toldintradene dette Aar mod forrige Aar, er nu hævet. Disse  <lb/>
+Intrader beløb til October Maaneds Udgang 1854 – 2,133,978 Speciedaler, <lb/>
+og i samme Tid 1855 2,110,986 Speciedaler, hvoraf Toldintraderne ved <lb/>
+Christiania Toldsted i samme Tid udgjorde 1854: 600,640 Spd og 1855: <lb/>
+545,740 Speciedaler.</p>
+               <p>	General Meydel har, efter det ham naadigst givne Paalæg, indgivet <lb/>
+sin underdanige Ansøgning om Afskeed i Naade med Pension. Regjeringen <lb/>
+har, i Betragtning af hans lange Tjeneste og hans Fortjenester <lb/>
+for Artillerie Videnskaben underdanigst indstillet ham til naadigst <lb/>
+Afskeed med hans fulde Gage 1608 Spd i Pension, dog, at han skal <lb/>
+vedblive Commandoen over Artillerie Brigaden indtil hans Efterfølger er <lb/>
+bleven naadigst udnævnt. Hans Emolumenter som Brigadechef udgjøre <lb/>
+omtrent 400 Spd aarlig.</p>
+               <p>	General Meydells beklagelige Blindhed gjør ham utjenstdygtig <lb/>
+medens hans Sjælsevner synes usvækkede. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

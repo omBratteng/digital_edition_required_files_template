@@ -1,0 +1,93 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 22. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>Stormægtigste Allernaadigste Konge!</opener>
+               <p>	Det hører til de menneskelige Skrøbeligheder, hvoraf jeg har <lb/>
+min gode Deel, at udsætte hvad som koster paa Sindet og Hjertet, og <lb/>
+dette har foranlediget mig til at udsætte med at gjentage hvad jeg <lb/>
+under mit sidste Ophold i Stockholm føelte mig forpligtet til  <lb/>
+underdanigst at andrage for Deres Majestæt, at mine Kræfter ikke tillade <lb/>
+mig længe mere at opfylde de Pligter, som ere forbundne med den mig <lb/>
+naadigst anbetroede Embedsstilling. Jeg orker ikke mere! Je n'y suffis <lb/>
+plus! og da er det Pligt at trække sig tilbage.</p>
+               <p>	Jeg fyldte i afvigte Februar Maaned mine 78 Aar, en Alder, som <lb/>
+Mængden ikke oplever; anstundende 10de Julii vil jeg i 27 Aar have <lb/>
+bestyret de mig af min Konge naadigst betroede Rigets 2de høieste <lb/>
+Embeder, hvorunder jeg efter Evne har anstrænget mine Kræfter, –  <lb/>
+og jeg maa da finde mig i, at disse nu ere svækkede.</p>
+               <p>	Disse Omstændigheder foranledige mig til underdanigst at bede <lb/>
+mig naadigst entlediget fra min Embedsstilling <hi rend="underline">i Løbet af anstundende</hi>
+                  <lb/>
+                  <hi rend="underline">Sommer</hi>.</p>
+               <p>	Min ringe Person vil være let at erstatte, men ikke saa let <lb/>
+turde det være at udfylde den mig i en lang Aarrække naadigst  <lb/>
+anbetroede Plads, og derfor føeler jeg mig forpligtet til betimelig <lb/>
+underdanigst at henstille til Deres Majestæt naadigst <hi rend="underline">at bestemme den</hi>
+                  <lb/>
+                  <hi rend="underline">beleilige Tid</hi>  for min Afgang <hi rend="underline">forinden næste Høst</hi>.</p>
+               <p>	Ogsaa for mig er det af høi Vigtighed<hi rend="underline">betimelig</hi>  at kjende Deres <lb/>
+Majestæts naadige Bestemmelse i denne Henseende, for i Tide at kunne <lb/>
+træffe de mangehaande Foranstaltninger, som ere nødvendige for en total <lb/>
+Forandring i min Livsstilling, forsaavidt det maatte behage Forsynet <lb/>
+endnu at forunde mig noget kort Liv, som jeg ønsker at slutte <lb/>
+paa mit gamle Fossum.</p>
+               <p>	I min Alder er enhver Forandring besværlig, en Forandring, som <lb/>
+den mig forestaaende, piinlig, og det er derfor kun Nødvendighed, <lb/>
+Følelsen af Pligt, som kan bevæge mig til at underkaste mig den og til <lb/>
+underdanigst foreløbig at udbede Deres Majestæts naadige Bifald hertil.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>den 22de Marts 1855</date>
+                  </dateline>
+                  <lb/>
+                  <salute>I Forventning heraf har jeg den Ære at undertegne mig med dybeste <lb/>
+Ærefrygt <lb/>
+					        Deres Majestæts <lb/>
+   							allerunderdanigste Tiener <lb/>
+   							  og troe Undersaat</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

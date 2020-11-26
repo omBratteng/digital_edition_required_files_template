@@ -1,0 +1,100 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 21. mai 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p>	Senere har jeg havt en Conference med Storthingsmændene, <lb/>
+Professor Schweigaard og Toldcasserer Lange, betræffende det mig ved  <lb/>
+Deres Majestæts naadige Skrivelse af 4de denne Maaned tilstillede <lb/>
+Document. Begge disse forstandige og loyale Mænd forsikre at der efter <lb/>
+de senere modtagne Oplysninger ikke længere i Storthinget findes nogen <lb/>
+Misforstaaelse af Commando Ordren af 6te Marts eller nogen Tvivl <lb/>
+om Deres Majestæts Ret til at give den, – og jeg har saaledes for Tiden <lb/>
+ikke Anledning til at meddele Documentet til Protocol-Committeen.</p>
+               <p>	Ved denne Conference er jeg bleven stadfæstet i den Mening, at <lb/>
+den uheldige Misforstaaelse er foranlediget ved 1o at Commando-Ordren <lb/>
+ikke i sin Tid var læst og derfor urigtig opfatte efter mindre <lb/>
+correcte mundtlige Meddelelser, – 2o ved at dens Redaction neppe <lb/>
+har udtrykt Deres Majestæts sande Mening, som jeg antager at have <lb/>
+været den, at indskrænke Skibenes Antal til 4 <hi rend="underline">i de Havne</hi>, som efter <lb/>
+Krigens Udbrud skulde lukkes; men ikke i andre befæstede Havne.  <lb/>
+Misforstaaelsen kan være undskyldelig; men Maaden, hvorledes den i <lb/>
+Storthinget misbrugtes af Ueland og Consorter og af Avispressen,  <lb/>
+misbilliges lige meget af forstandige velsindede Storthingsmænd, som af den <lb/>
+forstandige Deel af Almeenheden.</p>
+               <p>	Det i min sidste underdanigste Rapport ommeldte Krigsforhør paa <lb/>
+Horten, er endnu ikke indkommet. Imidlertid har man moralsk Overbeviisning  <lb/>
+om, at Soldaterne ere blevne opviglede af en i deres Nærhed <lb/>
+boende Person, som i sin Tid har overstaaet Tugthuus-Straf, og det er  <lb/>
+ønskeligt, at herfor maa kunne erholdes juridisk Beviis. I samme <lb/>
+infernale Tendentz behandles vedvarende Gjenstanden af vore forbryderiske <lb/>
+Aviser.</p>
+               <p>	Deres Majestæt vil af Statsraad Bloch have erfaret, at Storthinget <lb/>
+har nægtet Bevilgning til at realisere Armeens projecterede <lb/>
+Reorganisation, som er et nyt Beviis paa Umuligheden af <hi rend="underline">at regjere</hi>
+                  <lb/>
+                  <hi rend="underline">godt</hi>  med vore Institutioner.</p>
+               <p>	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa en i Morgenbladet No 141 indført Artikel med <lb/>
+Overskrift: "Bør Sverige ønske at reunere Finland", Denne er formeentlig <lb/>
+forstandig og derfor misbilliges den af Redactionen.</p>
+               <p>	Jeg formener, at om Preussen fra Begyndelsen ærlig havde erklæret <lb/>
+sig for det ene eller andet Partie, vilde Krigen have været undgaaet, <lb/>
+da man vilde have betænkt sig paa begge Sider; men medens <lb/>
+Preussen underskriver alle mulige Protocoller i Wien, spiller det under <lb/>
+Dækket i Berlin. Faren ligger formeentlig nu ikke i den aabenbare <lb/>
+Krig imellem Staterne; men i den uundgaaelige Følge: Partie og  <lb/>
+Religionskrig, og wehe! os, naar det beleilige Øieblik til Udbrud kommer, <lb/>
+– om Rusland skulde blive beseiret! </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de Mai 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 24. mai 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p>	Jeg tillader mig at vedlægge et Exemplar af Bladet "Den Constitutionelle" og underdanigst at meddele, hvad jeg veed om den deri omhandlede Gjenstand.</p>
+               <p>	En Polak ved Navn Adam Alexander Dzwankowski, som skal have været deelagtig i den polske Revolution 1830 og desaarsag maatte forlade sit Fædreneland, établerede sig her 1834 som Boghandler i Fælleskab med en Guldberg og denne Boghandel existerer fremdeles under Firma: "Guldberg &amp; Dzwonkowski".</p>
+               <p>	Her giftede han sig med en Datter af den daværende franske Consul De Zerre, hvis Broder, en Pair de France, skal have formaaet Høistsalig Kongen til naadigst at udvirke for ham Hans Majestæt Keiserens Tilgivelse, som han dog ikke skal have benyttet for sin Person før i forrige Aar, da han reiste til Warschau, for at hente sin derværende Familie, med hvem han vilde have tilbage kommet afvigte Høst, men hvorfra han ved Sygdom skal være bleven forhindret.</p>
+               <p>	Hans Associé Guldberg meddeelte mig forleden Dag, at Dzwonskowski paa Tilbagereisen hertil er bleven arresteret i Kønigsberg, og udbad min Hjelp til hans Frigivelse eller i det mindste til at afværge hans Udleverelse til Rusland.</p>
+               <p>	Med Hensyn paa periculum in mora, troede jeg det hensigtsmæssigst med Gaarsposten at henvende mig directe til Baron d'Ohsson, som hosfølgende Copie viser, medens Hr Guldberg henvendte sig til Deres Majestæts Consul i Kønigsberg og gjennem Statsraad Krog udbad Hans Excellence Udenrigsministerens Assistance.</p>
+               <p>	De her om Dzwonkowski underdanigst anførte Detailler, har jeg først erfaret, efterat mit Brev til Baron d'Ohsson var expederet.</p>
+               <p>	Under de 11 Aar Dzworskowski som er mig personlig ubekjendt, har været bosat her, har han erhvervet Hengivenhed og Deeltagelse og jeg tør derfor tillade mig underdanigst at anbefale ham til Deres Majestæts naadige og mægtige Beskyttelse.</p>
+               <p>	Jeg beder naadigst tilgivet, at jeg uventet atter kommer tilbage til Slots-Decorationen. Welhaven foreslaaer, at istedet for Nora og Svea i Mikkelsens Vogn,<hi rend="underline">Sandhed og Ret</hi>  deri maa placeres som Vognens Styrere, omgivet af Norges om Vognen groupperede Folk, lyttende til og hyldende dette Deres Majestæts Valgsprog.</p>
+               <p>	Denne Idee finder jeg saa vakker, at jeg har troet, underdanigst at burde fremføre den.</p>
+               <p>	Dagens Post bringer en underdanigst Indstilling om en af Directionen for Tegne- og Kunstskolen anbefalet Kronprindselig Krone, som flere af mine Colleger, som jeg, finde at have meget tilfælles med en Røkmøssa, hvorimod vi underdanigst formene, at den af Guldsmed Brinch fremlagte Tegning fortjener Fortrinet for alle de øvrige, en Anskuelse, som jeg har lovet mine Colleger underdanigst at fremføre. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 Mai 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 24. mai 1846.</supplied>
+               </head>
+               <head type="sub2" rend="center">Copie d'une lettre de S.E. le Rigs-Statholder Mr de Løvenskiold à Mr le Baron d'Ohsson à Berlin, d. le 21 Mai 1846.</head>
+               <opener>Monsieur le Baron! </opener>
+               <p>Monsieur Guldberg, libraire établi dans cette ville, vient de recommander à mes soins les documents ci-joints, touchant son associé Mr Adam Alexandre Dzwonkowski, qui, a ce que lui mande Madame Dzwonkowska, a eu le malheur d'être arrêté à Kønigsberg et risque d'être livré aux autorités Russes.</p>
+               <p>	Ces documents constatent suffisamment, ce qui d'ailleurs m'est bien connu, que Mr Dzwonkowski a été établi comme libraire à Christiania depuis<hi rend="underline">1834</hi>  et qu'il y jouit de l'estime générale de ces concitoyens, pour sa conduite irréprochable sous tous les rapports.</p>
+               <p>	L'année passée il alla en Pologne pour chercher et ammener sa famille vers l'automne, mais malheureusement une grave maladie le força à passer l'hiver en Pologne. La lettre confidentielle ci-jointe de sa femme à Mr Guldberg, est la seule nouvelle, que nous avons du désastre, qui vient de le frapper à Kønigsberg.</p>
+               <p>	J'ose recommander à Votre protection gracieuse Mr le Baron, ce malheureux Dzwonkowski, Polonais par naissance, Norvégien par son domicile dans cette ville pendant onze ans, ce qui Vous autorise à faire valoir sa qualité de sujet de notre auguste Souverain.</p>
+               <p>	La réussite de vos genereux efforts Mr le Baron! en faveur du malheureux, serait un triomphe pour notre diplomatie dans l'opinion publique ici, et voici une raison de plus pour moi, pour la désirer vivement, en outre l'intérêt, que m'inspire l'Individu.Je crains qu'il n'y ait periculum in mora.</p>
+               <p rend="center">– – – oOo – – –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

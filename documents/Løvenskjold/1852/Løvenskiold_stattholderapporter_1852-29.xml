@@ -1,0 +1,102 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 23. desember 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport af 18de denne Maaned afsendtes <lb/>
+med Lieutenant Bloch som Coureer. Først den 21te denne Maaned modtog <lb/>
+vi her Stadfæstelse paa de gruelige Optrin, som have funden Sted i  <lb/>
+Begyndelsen af forrige Maaned i Kautokeino, som for længst have været <lb/>
+ommeldte i svenske Blade.</p>
+               <p>	Indberetningen herom af Stedets værdige Sognepræst Hvoslev til <lb/>
+den sig for Tiden her opholdende Biskop i Tromsø Stift, Juell, findes <lb/>
+indtaget i Bladet "Christiania Posten for den 22de dennes No <lb/>
+1532. Den viser, til hvilke skrækkelige Yderligheder Raahed, forenet <lb/>
+med Fanatisme kan lede! I denne Begivenhed var det religieus eller <lb/>
+rettere irreligieus Fanatisme, som benyttedes til at udøve skrækkelig <lb/>
+Udaad; om M. Thrane ikke i sidste Øieblik var bleven standset <lb/>
+i sin politiske Virksomhed vilde han snart have benyttet den raa Masses <lb/>
+communistiske Fanatisme, hvis Opvækkelse var hans Formaal, til at <lb/>
+iværksætte lignende Rædselsscener.</p>
+               <p>	Den egentlige Anledning til det skrækkelige Optrin var, saa vidt <lb/>
+jeg kan skjønne, denne, at den myrdede Lensmand havde søgt at paagribe <lb/>
+en paa Grund af forrige Aars Uroligheder til Tugthuset dømt Quinde, <lb/>
+som tilhører den fanatiske Sect, hvis Medlemmer havde svoret at <lb/>
+dræbe enhver, som vilde forsøge at arrestere hende. For at forhindre <lb/>
+hendes Paagribelse satte de sig i Bevægelse og Sectens Fanatisme <lb/>
+benyttedes til at udøve Mord og Mordbrand, og derved udbrede  <lb/>
+Forskrækkelse blandt de lovlydige fredelige Indvaanere.</p>
+               <p>	Hensigten var ogsaa at dræbe Præsten og at opbrænde Præstegaarden <lb/>
+og Kirken; men dette afværgedes ved tililende brave Finner, som ved <lb/>
+Outzie, en Miil fra Kautokeino, have faste Boliger, og som under en <lb/>
+haardnakket Kamp, hvorunder paa begge Sider mange saaredes, overvandt <lb/>
+Morderne og bragte disse til Alten, i Justitiens Hænder, forinden de <lb/>
+af Øvrigheden til Kautokeino sendte Politi-Assistenters Ankomst.</p>
+               <p>	Disse brave Outzie-Finner, som vovede Lemmer og Liv, fortjene <lb/>
+visselig lige meget Belønning, som Andre, der redde Skibbrudne fra <lb/>
+at drukne.</p>
+               <p>	Den værdige Præst Hvoslev flygtede ikke; men forblev under sin <lb/>
+og frugtsommelige Hustrues Mishandling og Livsfare troelig ved sin <lb/>
+Hjord. Hans Bohave og Vinterforraad blev for en stor Deel ødelagt <lb/>
+og Regjeringen har, for at afhjelpe hans første Forlegenhed, i  <lb/>
+Forventning af Deres Majestæts naadige Bifald, foreløbig sendt ham 100 <lb/>
+Species af Oplysningsvæsenets Understøttelsesfond.</p>
+               <p>	Jeg agter idag at feire Deres Majestæts Helbredelse og Prinds <lb/>
+Carl Oscars Fødsel ved en saa stor Middag, som i Stiftsgaarden kan <lb/>
+rummes.</p>
+               <p>	I samme Hensigt er her aabnet en Subscription til Fattiges <lb/>
+Bespisning, hvortil Bidraget har været saa almindeligt, at 18 til 1900 <lb/>
+fattige Familier derved ville kunne faae et rundeligt Maaltid, og er <lb/>
+det især tilfredsstillende, at Tjenestefolk, Sjouere, Soldater, hertil <lb/>
+med stor Beredvillighed have bidraget deres Skjærv. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23 December 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

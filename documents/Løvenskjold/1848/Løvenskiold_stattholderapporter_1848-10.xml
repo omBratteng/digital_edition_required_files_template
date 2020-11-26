@@ -1,0 +1,103 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 2. mars 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 21de forrige Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+samme Dato, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p>	Da min underdanigste Rapport af 17de var naadigst modtaget, tør <lb/>
+jeg haabe det samme om en foregaaende af 13de.</p>
+               <p>	Med sand Tilfredsstillelse erfarede jeg Resultatet af de altfor <lb/>
+lange svenske Discussioner om Hans Kongelige Høihed Kronprindsens <lb/>
+Appanage. Jeg ønsker og bestræber mig for, at man her maa komme til samme <lb/>
+Resultat, nemlig Bevilgning af Deres Majestæts naadige Proposition, <lb/>
+med mindre Discussion og uden nogensomhelst Betingelse.</p>
+               <p>	Jeg takker underdanigst for naadigst Meddelelse af den høist <lb/>
+interessante Correspondance betræffende de Schweitzerske Forholde. Den <lb/>
+vidner om de store europeiske Magters Agtelse og Tillid, og at disse <lb/>
+ere vel fortjente, bevises ved Udenrigsministerens kloge Svar til Hr <lb/>
+Ochsenbein. Under de i flere Stater nu gjærende farlige Elementer, er <lb/>
+det maaskee det farligste, at Englands udenrigske Anliggender bestyres <lb/>
+af en Minister, som er mere tilbøielig til at oprøre end til at berolige.</p>
+               <p>	Vor ganske dygtige Jernbane Commission er kommen til det Resultat, <lb/>
+som jeg ventede, at det engelske Tilbud for en vordende Jernbane  <lb/>
+destoværre er uantageligt. Det store, det vigtige Spørgsmaal er derefter, <lb/>
+at kunne fremsætte et Forslag til den for dette Land høist vigtige <lb/>
+Sags Fremme, som kan ventes bifaldt af den bevilgende Statsmagt. I denne <lb/>
+Hensigt vover jeg underdanigst at udbede nogen naadigst Veiledning <lb/>
+af Deres Majestæt, hvortil det min underdanigste Rapport af 6te Februar <lb/>
+vedlagte engelske Forslag mulig kunde give nogen sagkyndig svensk <lb/>
+Authoritet Anledning.</p>
+               <p>	Om vort Storthings Virksomhed er hidindtil ikke stort at sige. Den <lb/>
+har indskrænket sig til hæftige, tidsspildende, kostbare Debatter om <lb/>
+Hurtigskriverne, til hvis Oplærelse, <hi rend="underline">efter Storthingets Ønske</hi>, er  <lb/>
+anvendt over 1,000 Spd. skal afbenyttes i Storthinget, og efter at det <lb/>
+Stabelske Partie havde bevirket dette afslaaet, om Trykningen af  <lb/>
+Storthings Forhandlingerne, hvorved Morgenbladets Interesse ogsaa er gjort <lb/>
+gjeldende. Sidste Storthing bevilgede 1000 Speciedaler til Oplærelse <lb/>
+af Hurtigskrivere, som Deres Majestæt, mod Statsraadets Indstilling, <lb/>
+naadigst bifaldt, men som man nu, efterat have faaet dem, ikke vil <lb/>
+benytte! Dobbelt vel, at Deres Majestæt ikke nægtede Ønskets Opfyldelse! <lb/>
+Imidlertid benytter Rigstidenden Hurtigskrivere til Referenter, hvoraf <lb/>
+følger, at dette Blads Meddelelser om Storthingsdebatterne, ere  <lb/>
+nøiagtigere end Morgenbladets.</p>
+               <p>	Iøvrigt ere Comiteerne beskjæftigede med Kongelige Propositioner <lb/>
+og mangfoldige private, hvoraf alene igaar fremlagdes 52.</p>
+               <p>	I Odelsthinget har det Stabelske Partie ved Stemmegivning aabenbar <lb/>
+Overhaand over Schweigaards kraftige Modstand, hvorimod det i det  <lb/>
+samlede Storthing, hvor de vigtigste Gjenstande ville blive at afgjøre, <lb/>
+forhaabentlig ikke vil kunne vinde de nødvendige 2/3 eller 70 Stemmer.</p>
+               <p>	Imorgen venter jeg 50 Storthingsmænd til Middag. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2 Marts 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

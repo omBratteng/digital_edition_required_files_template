@@ -1,0 +1,86 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 2. februar 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Skrivelse var af 31te forrige Maaned, <lb/>
+hvortil jeg tillader mig underdanigst at referere.</p>
+               <p>	Grev Lewenhaupts Brev af 27de forrige Maaned levner mig saa <lb/>
+lidet Haab om Deres Majestæts høie Ankomst hertil før Storthingets <lb/>
+Aabning uagtet vi nu, Gud være lovet, have faaet Snee og Slædeføre, <lb/>
+at jeg troer at burde adressere disse Linier til Stockholm.</p>
+               <p>	Storthingets Medlemmer vare igaar samlede under Forsæde af <lb/>
+dets sidste Præsident, Præsten Harbitz. Som sædvanlig valgtes en <lb/>
+Comité til Fuldmagternes Granskning hvortil formodentlig vil medgaae <lb/>
+2 à 3 Dage, og Plenum atter samles anstundende Onsdag eller Thorsdag, <lb/>
+for at erfare Resultatet og derover at discutere, ifald dertil maatte <lb/>
+være Anledning. Da nogen saadan ikke kjendes, venter jeg, at Storthinget, <lb/>
+forinden Ugens Udgang vil kunne anmelde sig constitueret.</p>
+               <p>	Forinden den Tid vil jeg kunne have Vished om Deres Majestæts <lb/>
+høie Ankomst før Storthingets Aabning eller ikke og derefter kunne <lb/>
+indrette mit Svar. I sidste Fald tør jeg stole paa, betimelig at <lb/>
+modtage Deres Majestæts naadige Fuldmagt og Befaling.</p>
+               <p>	Amtmanden i Hedemarken, Manthey, har nu indberettet, at Forhørerne <lb/>
+i Anledning af de i afvigte November og December Maaneder af flere <lb/>
+Medlemmer af de Thraneske Arbeider Foreninger foretagne lovstridige <lb/>
+Handlinger ere sluttede, efterat i 12 Sessioner 108 Personer ere <lb/>
+afhørte og derefter beordret Justitiens Tiltale mod 55 Individer, <lb/>
+blandt hvilke findes 2 nationale Musqueterer og 1 Landeværn.</p>
+               <p>	Amtmand Manthey har i denne Begivenhed viist Dygtighed, <lb/>
+Maadeholdenhed og Kraft.</p>
+               <p>	Den i min sidste underdanige Skrivelse berørte, min Søn Adam <lb/>
+truende Skjæbne, har i den Grad smertet og rystet mig,at jeg har ondt <lb/>
+for at samle mine Kræfter for det tunge Arbeide,som i Særdeleshed <lb/>
+i denne Tid paaligger mig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2den Februar 1851. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

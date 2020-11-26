@@ -1,0 +1,123 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 11. mai 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p>	Jeg kan idag have den Lykke underdanigst at meddele at Hendes <lb/>
+Majestæt Dronningen har forundt mig den Naade at modtage min personlige <lb/>
+Opvartning i Gaar og at jeg havde den Glæde at see Hendes Majestæt <lb/>
+aldeles helbredet (till hälsan återstäld). – Imidlertid fordrer <lb/>
+det vedvarende Kolde ubehagelige Veir megen Forsigtighed og Hendes <lb/>
+Majestæt bør ikke tænke paa at reise, forinden Kræfterne ere gjenvundne, <lb/>
+Gud har forundt os en mildere Temperatur og bedre Veir. I politisk <lb/>
+og unionel Henseende synes derhos den Fordring jo ikke urimelig, <lb/>
+at medens Sverige har den Lykke at besidde vor fælles Konge, burde <lb/>
+Norge have det Gode at <hi rend="underline">beholde</hi>  vor fælles Dronning. Jeg undrer mig <lb/>
+virkelig over, at denne billige unionelle Fordring, hvis Opfyldelse <lb/>
+Deres Majestæt vist ikke vilde have nægtet, ikke er bleven tidligere <lb/>
+fremstillet; mais c'est Sire! – que l'appetit vient en mangant.</p>
+               <p>	Under Discussionerne i Storthinget om Lensmænds Ansættelse <lb/>
+yttrede en Lensmand fra Romsdals Amt ved Navn Hagerup, med ganske  <lb/>
+fornærmelige Udtryk for Amtmændene, at det var bekjendt nok, hvilke <lb/>
+Misligheder der foregik ved Lensmænds Ombuds Besættelse. Ved en saadan <lb/>
+offentligen fremført Yttring af en Storthingsrepresentant, som <lb/>
+derhos er Lensmand, troede jeg ikke, at Regjeringen burde være passiv <lb/>
+og jeg anmodede derfor Justits Departementet om, at affordre ham nøiere <lb/>
+Forklaring og Oplysning. Copie af Departementets Skrivelse og <lb/>
+Lensmandens Svar, efter 8 Dages Betænkning, vedlægges underdanigst <lb/>
+og vil Deres Majestæt deraf naadigst erfare, at han ikke drister sig <lb/>
+til at vedkjende sig de Yttringer som i offentlige Blade have været <lb/>
+refererede. Efterat disse imidlertid have været offentlig fremførte, <lb/>
+formener jeg at Justits Departementets Skrivelse og Lensmandens Svar <lb/>
+paa en eller anden Maade bør bringes til Almenhedens Kundskab.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te Mai 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 11. mai 1845.</supplied>
+               </head>
+               <head type="sub2">Underdanigst Post Scriptum!</head>
+               <p>	Efterat Forestaaende var skrevet i Gaar har jeg havt den Lykke, <lb/>
+at modtage Deres Majestæts naadige Skrivelse af 8de dennes, hvorfor <lb/>
+min underdanigste Taksigelse nedlægges. – Jeg tillader mig underdanigst <lb/>
+at fremføre min underdanigste Lykønskning til den ærefulde og lykkelige <lb/>
+Fredsslutning med Keiseren af Marokko. Finants Departementet modtog <lb/>
+allerede med sidste Post en directe foreløbig Meddelelse herom, <lb/>
+fra General Consul Ehrenhoff, som jeg ikke troede passende at lade <lb/>
+offentliggjøre forinden modtaget officiel Underretning fra Stockholm. <lb/>
+Efter den mig nu af Deres Majestæt naadigst meddeelte Underretning,  <lb/>
+finder jeg ingen videre Betænkelighed ved at lade offentliggjøre en  <lb/>
+lykkelig Begivenhed, som vil foranledige almindelig Deeltagelse og  <lb/>
+Tilfredshed.</p>
+               <p>	Jeg havde den Lykke at bivære i Gaar Aftes en glad huuslig Fest <lb/>
+i det Kongelige Palais i Anledning af Hendes Majestæt Dronningens <lb/>
+lykkelige Helbredelse. Denne Fest var med megen Hels tilberedet af Deres <lb/>
+Kongelige Høiheder Prinds Gustav og Prindsessen, og udførtes med  <lb/>
+Hjertelighed af Dem og Hoffets samtlige Damer og Herrer. For mig var  <lb/>
+dette i Sandhed en glad Fest.</p>
+               <p>	Jeg beklager, at Hendes Majestæt Dronningen, mod min underdanigste <lb/>
+Protest, allerede nu har bestemt Sin Afreise til Mandag den 19de <lb/>
+denne Maaned.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 12 Mai 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

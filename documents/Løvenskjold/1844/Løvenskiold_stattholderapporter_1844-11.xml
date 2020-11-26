@@ -1,0 +1,102 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 21. juli 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p>	Til Følge Deres Majestæts naadige Befaling har jeg af Hr Baron <lb/>
+von Schultzenheim modtaget en Ridder Decoration af den Kongl. Wasa Orden <lb/>
+som jeg har tilsendt Baron Herman Løvenskiold, og af Kabinets Kammerherre <lb/>
+Wejdemann en brillanteret Brystnaal, den jeg har overleveret <lb/>
+til Lector Welhaven, som for dette Kongelige Naadesbeviis har bedet mig <lb/>
+nedlægge sin underdanigste Taknemmelighed. Lignende Taknemmelighed  <lb/>
+tillader jeg mig underdanigst at fremføre fra alle Vedkommende som have <lb/>
+nydt godt af Deres Majestæts betydelige Naadegave i Anledning af Deres <lb/>
+Majestæts høie Fødselsdag. Af denne til Beløb 400 Speciedaler erholdt <lb/>
+herværende Garnison som Gratification 97 Spd 72 Skil. og til Fattiges <lb/>
+Bespisning anvendtes 200 Spd. Mere troede Magistraten ikke for Tiden at <lb/>
+burde anvende til dette Brug, fordi i denne for de Fattige gunstige Aarstid, <lb/>
+deres Antal og Trang er mindre end i den haarde Vintertid, da <lb/>
+Høistsalig Kongens Fødselsdag indtraf. Jeg har saaledes et Overskud af <lb/>
+102 Spd. 48 Skil., som jeg foreløbig har indsat i Sparebanken, underdanigst <lb/>
+indstillende: om jeg maa anvende disse til værdige Trængende efter <lb/>
+Overlæg med Magistraten anstundende 26de Januar.</p>
+               <p>	De her den 11te denne Maaned forsamlede Naturforskere, sluttede <lb/>
+deres Forhandlinger den 18de, Selskabet bestod af flere udmærkede <lb/>
+uden- og indenrigske Mænd med en talrig Tros i Alt omtrent 150 Personer. <lb/>
+Blandt Førstnævnte, hvoriblandt jeg ikke nævner vore berømte <lb/>
+svenske Landsmænd, tillader jeg mig at bemærke Ørsted fra Kjøbenhavn, <lb/>
+Hr von Buch fra Berlin, den berømte Geolog Murchison fra London,  <lb/>
+Schimper fra Stratsburg, Dr Chauffepié fra Hamburg.</p>
+               <p>	Som Mennesket i Almindelighed ikke lever alene af Brød, saa leve <lb/>
+de Lærde heller ikke alene af Lærdom. Man søgte derfor at forskaffe de lærde <lb/>
+Herrer saamegen Adgang til det selskabelige Livs Nydelser, som vore <lb/>
+smaa Ressourcer vilde tilstæde; men ved denne Leilighed følte jeg tungt, <lb/>
+at den betydelige Gageformindskelse har berøvet Rigsstatholderen Midler <lb/>
+til en for hans Embedsstilling passende og gavnlig Representation. Med <lb/>
+7,200 Spd aarlig mindre end den sidste svenske, 4000 Spd. mindre end <lb/>
+den sidste norske Rigsstatholder, kan jeg ikke give Fêter, som ved denne <lb/>
+Leilighed havde været passende. Jeg maatte indskrænke mig til en <lb/>
+Middag paa 60 Couverts. Idet jeg ved Afskeden takkede de lærde Herrer <lb/>
+for deres interessante Besøg, ønskede jeg dem velkommen tilbage, for <lb/>
+at see det Kjæreste Norge eier, som de denne Gang ikke havde seet, <lb/>
+" Vor herlige folkekjære Konge ", vort trofaste kraftfulde Klippe- <lb/>
+Folk, vor storartede Natur, den Guddommen har paasat Sit store Stempel.</p>
+               <p>	Jeg tillader mig meget betimelig at fremføre mit underdanige Ønske <lb/>
+om at maatte den 23de August reise til Fossum, som jeg ikke har besøgt <lb/>
+siden et Aar, for 3 høist 4 Uger. Da jeg havde min Høistsalige Konges <lb/>
+naadige Tilladelse til at gjøre deslige Excursioner, uden særskilt Permission, <lb/>
+vover jeg at benytte mig heraf, om Deres Majestæt ikke maatte <lb/>
+anderledes befale. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 Juli 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

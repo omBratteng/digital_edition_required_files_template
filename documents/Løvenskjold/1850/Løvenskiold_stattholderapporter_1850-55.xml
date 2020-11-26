@@ -1,0 +1,81 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 1. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p>	Jeg tillader mig underdanigst at lykønske Deres Majestæt til den <lb/>
+værdige Maade, hvormed Deres Majestæt har aabnet denne Rigsdag, med <lb/>
+det ivrige Ønske, at den maa fortgaae og fremfor Alt slutte paa en for <lb/>
+Konge og Fædreneland tilfredsstillende Maade.</p>
+               <p>	Jeg takker underdanigst for Meddelelsen gjennem Grev Lewenhaupt <lb/>
+af visse norske Forholdes Behandling i det Stockholmske Morgenblad, <lb/>
+som i denne og andre Begivenheder yttrer sig saa stemmende med mine <lb/>
+Anskuelser at jeg vil bestille mig Bladet fra Stockholm.</p>
+               <p>	Efter et Rygte skal en Arbeiderforening paa Hedemarken med Vold <lb/>
+mod Retten og dens Administrators Mishandling have forhindret en <lb/>
+Tvangsauctions Afholdelse. Nogen officiel Indberetning herom vides ikke <lb/>
+indkommet; men jeg har den Tillid til Amtmand Manthey, at han vil vide <lb/>
+at behandle en saadan Begivenhed med Conduite og Kraft.</p>
+               <p>	Det samme haaber jeg vil skee her, under de Begivenheder, som <lb/>
+kunne indtræffe, naar Høiesterets Dom er afsagt mod M. Thrane, som <lb/>
+daglig kan ventes og hvorpaa jeg ikke har manglet at forberede vedkommende <lb/>
+civile og militaire Embedsmænd.</p>
+               <p>	I en Tid og under Omstændigheder som nærværende, er det høist <lb/>
+magtpaaliggende at militaire Chefer have den fornødne Conduite og <lb/>
+Kraft, og disse Egenskaber tiltroer jeg Oberstlieutenant Glad i mere <lb/>
+end almindelig Grad.</p>
+               <p>	Underdanigst vedlagte Rapporter vise i de 3 sidste Døgn: Angrebne <lb/>
+af Cholera 2, død 1, Helbredede 2. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1 December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

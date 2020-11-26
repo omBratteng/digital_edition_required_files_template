@@ -1,0 +1,105 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 11. juli 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p>	Efterat jeg samme Dags Aften, Klokken 7 1/2 havde havt den Ære at <lb/>
+modtage med Coureer Deres Majestæts naadige Skrivelse af 5te denne <lb/>
+Maaned, sammenkaldte jeg strax Statsraadets Medlemmer (DHrr Petersen, <lb/>
+Stang, Riddervold og Erichsen) til et confidentielt Møde paafølgende <lb/>
+Dag, Løverdag Klokken 10 1/2 Formiddag.</p>
+               <p>	Jeg meddeelte der Indholdet af Deres Majestæts naadige Skrivelse, <lb/>
+men da der yttrede sig megen Dissents med Hensyn til Gjenstanden for <lb/>
+Mødet, saae jeg mig nødt til at udsætte Sagens videre Behandling til <lb/>
+idag Mandag Formiddag Klokken 11.</p>
+               <p>	Statsraaderne Petersen, Stang, Riddervold og Erichsen erkjendte <lb/>
+vistnok, at Justits Departementet vilde erholde en dygtig Chef i  <lb/>
+Sorenskriver Lasson; men de troede dog, at man ved Besættelsen af den <lb/>
+ledigværende Statsraadspost ikke udelukkende burde have et enkelt  <lb/>
+Departements Tarv for Øie.</p>
+               <p>	Ved Udnævnelsen af en ny Statsraad antoge de det maatte være af <lb/>
+indgribende Vigtighed, at Valget faldt paa en Mand, der, foruden at <lb/>
+være skikket til med Dygtighed at bestyre et Departement, tillige var <lb/>
+i Besiddelse af saa megen Statsmandsdygtighed, som i vore Forhold <lb/>
+kan ventes, og der ved betydningsfuld Deeltagelse i det offentlige <lb/>
+Liv havde skaffet sig almeen Anerkjendelse.</p>
+               <p>	Skal Statsraadet til enhver Tid kunne forsvarligen opfylde sin <lb/>
+Bestemmelse, er det formeentlig nødvendigt, at Landets meest fremragende <lb/>
+Personligheder søges erhvervede for samme, saa at den størst <lb/>
+mulige alsidige og almindeligen anerkjendte Dygtighed, der altid kunde <lb/>
+forefindes. Fra denne Synspunct antage de, at der vilde sørges <lb/>
+bedre for at give Statsraadet den størst mulige indre Styrke, om det <lb/>
+maatte behage Deres Majestæt naadigst at opfordre Professor Schweigaard <lb/>
+eller Amtmand Aall eller Toldcasserer Lange til at indtræde som <lb/>
+Medlem deraf. De formene, at disse Mænd burde komme i Betragtning i <lb/>
+den her anførte Orden og at Valget ikke burde falde paa Sorenskriver <lb/>
+Lasson, med mindre det maatte vise sig, at ingen af dem var villig <lb/>
+til at indtræde i Statsraadet.</p>
+               <p>	Hvilkensomhelst af de 3de nævnte Mænd, det maatte behage Deres <lb/>
+Majestæt at udnævne, antoge de, at der med en hensigtsmæssig Fordeling <lb/>
+af de Kræfter, Statsraadet da kom til at indslutte, vilde blive <lb/>
+Anledning til at faae Justits Departementet vel bestyret ved Siden <lb/>
+af de øvrige Departementer". –</p>
+               <p>	Da Deres Majestæt har havt den Naade ogsaa at opfordre mig til at <lb/>
+yttre min Formening, vover jeg, efter bedste Overbeviisning, underdanigst <lb/>
+at erklære, at jeg anseer Sorenskriver Lasson som den Mand, der <lb/>
+er meest skikket til at indtræde i den ledige Statsraadsplads ved  <lb/>
+nærværende Leilighed. Da imidlertid Statsraadets Pluralitet ikke deri <lb/>
+har været enig med mig har jeg ikke anseet mig bemyndiget til at <lb/>
+tilskrive Sorenskriver Lasson, forinden jeg i saa Henseende modtager <lb/>
+Deres Majestæts naadigste Befaling.</p>
+               <p>	Jeg har troet at burde fremsende denne underdanigste Rapport med <lb/>
+den retournerende Coureer idet jeg intet Mærkeligt har at tilføie  <lb/>
+herfra. Den almindelige Sundheds Tilstand er god, og Veiret synes nu at <lb/>
+ville begunstige Høehøsten og Vegetationen, der stod noget tilbage. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te Julii 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

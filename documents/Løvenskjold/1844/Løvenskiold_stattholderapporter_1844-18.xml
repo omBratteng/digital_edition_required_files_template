@@ -1,0 +1,113 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 6. desember 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 22de forrige Maaned.</p>
+               <p>	Jeg tillader mig nu underdanigst at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa følgende med Dagsposten afgaaende Regjerings- <lb/>
+Indstillinger:</p>
+               <list>
+                  <label>1o</label>
+                  <item>
+                     <hi rend="underline">Betreffende den Kongelige Civilliste</hi>. I denne Henseende <lb/>
+har Regjeringen anseet det rigtigst at indskrænke sig til at angive <lb/>
+de Summer, som siden 1815 have været bestemte til den Kongelige <lb/>
+Hofholdning og det Kongelige Huus, og derefter underdanigst at henstille <lb/>
+til Deres Majestæt, hvilke Summer, der i samme Øiemed befales <lb/>
+opførte i næste Budget til Udredelse fra 8de Marts 1844 og for <lb/>
+den følgende Tid, hvorom Deres Majestæts naadigste Befaling modsees.</item>
+                  <label>2o</label>
+                  <item>
+                     <hi rend="underline">Betræffende Udredelse af den nødvendige Sum for Corvetten</hi>
+                     <lb/>
+                     <hi rend="underline">" Nordstjernens" forlængede Ophold i Middelhavet</hi>. Regjeringen formener <lb/>
+nu som tidligere, saaledes som jeg under 7de September underdanigst <lb/>
+indberettede, at Udgifterne for benævnte Corvets forlængede <lb/>
+Ophold i Middelhavet, i Mangel af andre Ressourcer, kan og bør udredes <lb/>
+af den norske Statscasse; men da Deres Majestæt i naadigst Resolution <lb/>
+af 11te November sidstleden har udtalt den Anskuelse, at <lb/>
+omhandlede Udgift burde udredes af Convoi-Commissariatets Fond, om <lb/>
+dette dertil havde Midler, har Regjeringen fra sin ansvarsfulde  <lb/>
+Standpunkt funden det betænkeligt, nu ligefrem at renoncere paa al  <lb/>
+Fordring, i denne Begivenhed paa Convoi-Commissariatets Fond, forinden <lb/>
+dettes Mangel paa Evne ved opgjort Regnskab er bleven godtgjort. Fra <lb/>
+denne Synspunkt har Regjeringen underdanigst indstillet: <quote>"at de med <lb/>
+" Corvetten Nordstjernens forlængede Togt forbundne Udgifter, maa <lb/>
+" fra 9de December d. A. befales udredede af den Norske Statscasse <lb/>
+" som et Forskud, om hvis <hi rend="underline">mulige</hi>  Erstatning af Convoi-Commissariatets <lb/>
+" Fond, nærmere naadigst Bestemmelse vil blive at fatte."</quote> – Regnskabet <lb/>
+vil da i sin Tid vise Muligheden eller, hvilket er sandsynligere, <lb/>
+Umuligheden af den paapegede Erstatning.</item>
+                  <label>3o</label>
+                  <item>
+                     <hi rend="underline">Betræffende den i næste Budget til Fuldførelse af det Kongelige</hi>
+                     <lb/>
+                     <hi rend="underline">Slot opførende Sum</hi>. Indstillingen viser detailleret, at der til <lb/>
+det egentlige Bygningsarbeides Fuldførelse, med Tillæg af nogle faste <lb/>
+Speile og Maler- og Billedhugger-Arbeider af norske Kunstnere, udfordres <lb/>
+64,000 Speciedaler. – Vi have yttret det Ønske, at Slots-Bygningen <lb/>
+maa kunne blive endelig fuldført i næste Budget-Termin, beregnet <lb/>
+til 3 1/2 Aar, og at der i samme Tidsrum maa anvendes 20,000 Speciedaler  <lb/>
+til Slottets Meublering, og saaledes underdanigst indstillet: <lb/>
+                     <quote>" At der i dette dobbelte Øiemed maa opføres i det næste Storthing <lb/>
+" foreliggende Budget 24,000 Speciedaler aarlig."</quote>
+                  </item>
+               </list>
+               <p>	Efterat Ovenstaaende var skrevet, har jeg havt den Ære og Glæde <lb/>
+at modtage Deres Majestæts naadigste Skrivelse af 2den dennes, <lb/>
+hvorfor min underdanigste Taksigelse nedlægges, og er jeg fuldt  <lb/>
+overbeviist om, at de Følelser, som Deres Majestæt’s naadige Bestemmelse <lb/>
+for den norske Cocarde med mere have opvakt hos mig ere nationale. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6 December 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

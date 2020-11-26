@@ -1,0 +1,139 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 19. februar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p>	Den 17de havde jeg indbuden til et fortroeligt Møde hos mig et <lb/>
+Udvalg af Storthinget, bestaaende af 12 Thingmænd, hvorover den  <lb/>
+Fortegnelse underdanigst vedlægges.</p>
+               <p>	Jeg har ved Valget af disse Mænd tilsidesat ethvert Partiehensyn <lb/>
+og ene havt for Øie at vælge Mænd med Indflydelse i Storthinget og <lb/>
+som det maatte være ønskeligere at have med end imod. Jeg beklager, <lb/>
+at Sygdom forhindrede Provst Harbitz fra at deeltage i Mødet, som  <lb/>
+medtog 4 Timer, fra Klokken 6 til Klokken 10 Aften.</p>
+               <p>	Efterat have oplæst Deres Majestæts naadige Befaling til mig om <lb/>
+Sammenkaldelse af dette fortroelige Udvalg, svarende mod det hemmelige <lb/>
+Utskott i Sverige, gjorde jeg opmærksom paa, at medens dettes Medlemmer <lb/>
+ved Eed ere forpligtede til Taushed, vilde jeg ansee mine Landsmænds <lb/>
+Løfte herom lige bindende, overbeviist om, at den moralske Forpligtelse <lb/>
+vil være dem lige saa hellig, som den juridiske, og jeg har <lb/>
+al Grund til at ansee mig forvisset herom.</p>
+               <p>	Efter dernæst at have meddeelt alle af Deres Majestæt befalede <lb/>
+Aktstykker, Neutralitets-Erklæringen, de Punkter, som Deres Majestæt <lb/>
+har tilladt fortroelig at meddele Storthingets øvrige Medlemmer,  <lb/>
+efterat have givet forønskede Oplysninger og forberedet paa en Kongelig <lb/>
+Proposition om Pengebevilgning til de foreløbige Udrustninger, sluttede <lb/>
+jeg med at lade oplæse det hemmelige Utskotts Henvendelse til <lb/>
+Deres Majestæt, med mit Ønske, om at modtage noget lignende af mit <lb/>
+hemmelige Udvalg.</p>
+               <p>	Jeg erkjender, at dettes Stilling er forskjellig fra det hemmelige <lb/>
+Utskotts, forsaavidt at dette er en constitutionel Institution, <lb/>
+med en constitutionel Bemyndigelse, <hi rend="underline">hiint ikke</hi>; men jeg har hos mit <lb/>
+Udvalg mødt det samme Sindelag som i Utskottet, den samme Anerkjendelse <lb/>
+af Deres Majestæts ædle og vise Kongelige Færd, og Udvalgets foreløbige <lb/>
+Meddelelse i Gaar til mig ved 3 Deputerede, giver mig Vished <lb/>
+for, at det vil behandle Gjenstanden i Storthinget med Discretion <lb/>
+(Granlagenhet) og Klogskab.</p>
+               <p>	Erindrende den gamle Erfaring, "at uden Mad og Drikke er Helten <lb/>
+ingen Ting", sluttede jeg Mødet med en Aften-Beværtning og vi skildtes <lb/>
+gjensidig tilfredse.</p>
+               <p>	Jeg ønsker, at min Behandlingsmaade maa vinde Deres Majestæts <lb/>
+naadige Bifald, saa sandt som jeg i denne Hensigt har anvendt min <lb/>
+bedste Villie, min ivrige Bestræbelse.</p>
+               <p>	Fra den Synspunkt, som jeg i min sidste underdanigste Rapport <lb/>
+yttrede om den Sum, som nu bør begjæres bevilget, var det mig særdeles <lb/>
+kjært, af Deres Majestæts naadige Skrivelse af 13de, at erfare <lb/>
+Deres Majestæts samme Anskuelse. Uden denne Tilkjendegivelse af Deres <lb/>
+Majestæts Villie, vilde Sagen have mødt Dissents i Statsraadet, idet <lb/>
+nogle af dets Medlemmer vilde have stemt for strax at begjære 500,000 <lb/>
+Specier. Deres Majestæts tilkjendegivne <hi rend="underline">bestemte naadige Villie</hi>  har <lb/>
+bortfjernet denne Dissents og den imorgen afgaaende eenstemmige  <lb/>
+underdanigste Indstilling gaaer ud paa <hi rend="underline">nu</hi>  at indskrænke Begjæringen til de <lb/>
+af Deres Majestæt bestemte 300,000 Spd om hvis beredvillige Bevilgelse <lb/>
+jeg ikke nærer Tvivl.</p>
+               <p>	Finants Departementets Chef, Statsraad Bretteville, har behandlet <lb/>
+denne vigtige Sag, med den ham egne Dygtighed og Conduite, hvorom <lb/>
+den af ham forfattede Indstilling vidner. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19 Februar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 19. februar 1854</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Fortegnelse</hi>
+               </head>
+               <p>over de Storthings Medlemmer, der deeltoge i det hos Hs. Excellence <lb/>
+Statholderen afholdte fortroelige Møde, – Fredag den 17de Februar <lb/>
+1854 Kl. 6 Eftermiddag. </p>
+               <p>
+                  <hi rend="underline"> </hi>
+               </p>
+               <list>
+                  <item>  Amtmand Aall</item>
+                  <item>	Toldcasserer Lange</item>
+                  <item>	Professor Schweigaard</item>
+                  <item>	Høiesterets Assessor Motzfeldt</item>
+                  <item>	Stiftamtmand Schydtz</item>
+                  <item>	Biskop v. d. Lippe</item>
+                  <item>	Bankadministrator Stabell</item>
+                  <item>	Gaardbruger Valstad</item>
+                  <item>	Byfoged Christensen</item>
+                  <item>	Bank Directeur Jenssen</item>
+                  <item>	Lensmand Ueland</item>
+                  <item>	Capitaine Lieutenant Hagerup.</item>
+               </list>
+               <p>
+                  <hi rend="underline"> </hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

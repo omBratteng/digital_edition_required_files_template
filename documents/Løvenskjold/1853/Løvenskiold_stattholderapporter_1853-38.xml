@@ -1,0 +1,75 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 5. september 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 2den denne Maaned er <lb/>
+de af Cholera Angrebnes Antal i de sidste 3 Døgn, indtil igaar Morges <lb/>
+Klokken 9, 254, saaledes at Antallet af Angrebne fra Epidemiens <lb/>
+Udbrud i det Hele nu udgjør 744, hvoraf 473 Døde. Blandt disse sidste <lb/>
+er, foruden flere af de høiere Classer, ogsaa Feldttøimesteren, <lb/>
+Oberstlieutenant Meyn, der døde igaar Nat. <lb/>
+Da de for Christiania Communes Regning indrettede Lazaretter begynde <lb/>
+at overfyldes, har Sundheds Commissionen, uanseet at kun faae <lb/>
+af Garnisonens Mandskaber ere angrebne, hos Commandantskabet andraget <lb/>
+om, at et eget militairt Lazaret maatte blive indrettet. Et saadant <lb/>
+er som Følge heraf indenfor Fæstningen bleven complet istandbragt <lb/>
+for 10 Patienter, og constitueret Brigade Læge Schiøtt er med <lb/>
+fornøden Assistence ansat derved som Overlæge.</p>
+               <p>	Blandt Slaverne paa Agershuus Fæstning har Cholera ogsaa yttret <lb/>
+sig; igaar vare 4 Angrebne, hvoraf 1 Død. For at give Plads til det <lb/>
+fornødne Lazaret, ere Kron-Arbeiderne hjemsendte og deres Locale taget <lb/>
+i Brug.</p>
+               <p>	Enkelte Cholera Tilfælde skulle ogsaa være indtrufne i Drammen, <lb/>
+i Frederiksstad og paa Moss. – ­­Fra Laurvig er ingen Indberetning  <lb/>
+modtaget, men Sygdommen er dog forhaabentlig der i Aftagende. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te September 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N:J:Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

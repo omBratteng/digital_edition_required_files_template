@@ -1,0 +1,64 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 4. februar 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 31te forrige Maaned har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af 28de Januar.</p>
+               <p>	Jeg beklager saa meget mere, at den senest omnævnte Kjøbmand Kiær i Drammen ikke kan modtage den ham tiltænkte Sendelse til Paris, som han skal være en særdeles dygtig, hæderligog formuende Mand, vel bevant i det franske Sprog. Han lider af en Øiensvaghed, som ikke tillader ham megen Læsning eller Skrivning, men som Beviis for, at han hverken skyer Umage eller Opoffrelse, naar han troer at kunne gavne, tilbyder han sig, om det ønskes, <hi rend="underline">for egen Regning</hi>, at ville medfølge nogen Anden som Assistent.</p>
+               <p>	Jeg har nu overdraget til Statsraad Stang at indhente den i mit underdanigste sidste omnævnte Stephansons Erklæring, i hvis Forfald jeg vil henvende mig til Munch i Skien.</p>
+               <p>	Jeg tillader mig den underdanigste Bøn, at Deres Majestæt under min Fraværelse, naadigst vil lade Statsraad Stang underrette om: hvem der sendes for Sverige, om den for denne bestemte Godtgjørelse og Instruction og Tiden for hans Afreise.</p>
+               <p>	Alle Livets Nødvendigheder in Specie Kornvarer (Spanmål) vedblive at stige i Priis, i en foruroligende Grad. Det er allerede et stort Onde, naar for mange Arbeidere den daglige Fortjeneste ikke længer er tilstrækkelig til at kjøbe det daglige Brød; men den største Ulykke er det, naar dette ikke er at faae for Penge. De noksom bekjendte Omstændigheder i det øvrige Europa foranledige min vel grundede Frygt for, at denne Ulykke kan ramme Norge i anstundende Foraar. Jeg har henledet mine Collegers Opmærksomhed paa disse alvorlige Omstændigheder, under hvilke det er piinligt ikke at kunne forhindre, at Livets første Fornødenheder vedvarende forvandles til Brændeviin. Saadan Myndighed er desværre ikke forundt den Norske Regjering men de Midler, hvorover den kan disponere, bør den i Tide være betænkt paa at anvende, for at afværge eller muligst formindske den truende Ulykke.</p>
+               <p>	Med Deres Majestæts naadige Tilladelse agter jeg i Morgen at tiltræde Reisen til Fossum, med det Ønske at blive der til den 22de og være her tilbage den 23de Februar.</p>
+               <p>	Deres Majestæts naadige Hilsener til mine Børn, som vil gjøre mig dobbelt velkommen modtager jeg med underdanigst Taknemmelighed. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Februar 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. februar 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 7de denne Maaned har <lb/>
+jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af samme <lb/>
+Dato, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p>	Med Glæde og hjertelige Deeltagelse modtog jeg den naadige <lb/>
+Meddelelse om Hans Kongelige Høihed Kronprindsens lykkelige Forlovelse og <lb/>
+tillader mig i denne Anledning at fremsende min underdanigste Lykønskning, <lb/>
+hvorhos jeg til det guddommelige Forsyn opsender mine varme Bønner <lb/>
+om at denne lykkelige Begivenhed maa skjænke Deres Majestæter, <lb/>
+det Kongelige Huus og de Forenede Riger Lykke og Velsignelse i en lang <lb/>
+Aarrække.</p>
+               <p>	Regjeringens Medlemmer og General Wedel, hvem jeg efter naadigst <lb/>
+Befaling har givet Meddelelse, have anmodet mig om til Deres Majestæt <lb/>
+at fremføre deres underdanigste Lykønskning.</p>
+               <p>	Af herværende Protocoller erfarer jeg, at Deres Majestæts Egen <lb/>
+Forlovelse blev i sin Tid af høistsalig Kongen naadigst meddeelt og <lb/>
+omhandlet i et combineret Statsraad og at det der Forhandlede blev den <lb/>
+Norske Regjering naadigst officielt meddeelt, hvorom den norske  <lb/>
+Statsminister vil kunne give nærmere Oplysning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14 Februar 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 14. februar 1850</supplied>
+               </head>
+               <opener>Allernaadigste Konge,</opener>
+               <p>	Tilgiv naadigst at jeg atter tillader mig i Underdanighed at <lb/>
+fremføre for Deres Majestæt et af mine ømmeste Hjerteanliggender, nemlig <lb/>
+min kjære Søn Adams Skjæbne, som vil blive fortvivlet, i Mangel af <lb/>
+Deres Majestæts naadige Redning.</p>
+               <p>	Den Tid nærmer sig, da Adams Permission udløber og da han ikke tør <lb/>
+ønske den meget forlænget, vil han, i Mangel af anden naadig Ansættelse, <lb/>
+snart blive nødsaget til allene at vende tilbage til Amerika, thi <lb/>
+han kan ikke anden Gang føre Hustru og 5 Børn over Atlanterhavet. Med <lb/>
+Adams Følelser og Sindelag for sin Familie, vil han ikke længe kunne <lb/>
+udholde en saa fjern og lang Skilsmisse, han vil gaae til Grunde! – <lb/>
+Jeg vover underdanigst og indstændigst at bede Deres Majestæt om at <lb/>
+forskaane mig og mine for en bitter Hjertesorg, ved naadigst at benytte <lb/>
+en muligens sig tilbydende Anledning, til at forunde Adam en diplomatisk <lb/>
+Ansættelse i Europa, som kan give ham Livsophold.</p>
+               <p>	Gud har nylig skjænket Deres Majestæts Kongelige Fadershjerte en <lb/>
+stor Glæde. Jeg vover nu underdanigst at bede Deres Majestæt at ville <lb/>
+skjænke mit gamle Faderhjerte en Beroligelse, hvorefter det daglig sukker.</p>
+               <p>	I underdanigst Haab om denne Kongelige Velgjerning, har jeg den <lb/>
+Ære, i dybeste Underdanighed at undertegne mig <lb/>
+               </p>
+               <closer>
+                  <salute>Deres Majestæts<lb/>
+    			underdanigste Tiener og troe Undersaat</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15de Februar 1850</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

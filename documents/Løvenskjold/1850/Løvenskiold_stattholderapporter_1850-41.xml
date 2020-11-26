@@ -1,0 +1,67 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 24de forrige Maaned.</p>
+               <p>	Jeg tillader mig herved underdanigst at anmelde min Tilbagekomst <lb/>
+Løverdag Aften den 12te hertil, hvor jeg allerede har modtaget tvende <lb/>
+høist ubehagelige nedslaaende Efterretninger, først om flere indtrufne <lb/>
+CholeraTilfælde i Forstaden Grønland, hvorom jeg anseer det <lb/>
+rigtigst at Statsraad Vogt ogsaa i Dag afgiver underdanigst Rapport, <lb/>
+da jeg endnu ikke har havt Anledning til at blive tilstrækkelig  <lb/>
+bekjendt med alle Omstændigheder, dernæst om at mit sidste Haab om <lb/>
+en kjær og værdig Broders naadige Befordring er bleven mig berøvet, <lb/>
+som bedrøver og krænker mig ubeskrivelig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14de October 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

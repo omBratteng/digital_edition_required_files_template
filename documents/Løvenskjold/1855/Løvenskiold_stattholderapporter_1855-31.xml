@@ -1,0 +1,99 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 1. november 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p>	I Henhold til denne tillader jeg mig underdanigst at indberette, <lb/>
+at jeg, i Forudsætning af, at mulige Meddelelser i Chiffersprog fra <lb/>
+Deres Majestæt til mig eller fra mig til Deres Majestæt, vil blive <lb/>
+expederet og dechiffreret i Stockholm af Greve E. Lewenhaupt, – har <lb/>
+tilstillet denne en Chiffre Tabel med tilhørende Nøgel, som kun er <lb/>
+kjendt af Kammerherre Holst.</p>
+               <p>	For at afværge utidig Offentliggjørelse af Statsraadets Forhandlinger <lb/>
+og Indstillinger, forinden de ere Deres Majestæt foredragne, <lb/>
+har man nu foranstaltet, at deslige Sager kun ville komme til Kundskab <lb/>
+af de 2de Fuldmægtige i Statssecretariatet, hvem saaledes Ansvarligheden <lb/>
+vil paahvile.</p>
+               <p>	I Tønsberg, hvor Cholerasygdommen tilforn aldrig har viist sig, <lb/>
+ere nogle senere Tilfælde, i Alt 16 atter indtrufne og en Læge herfra <lb/>
+didsendt.</p>
+               <p>	Til at paadømme, hvem Ansvaret for det ulykkelige Sammenstød af <lb/>
+de 2de Dampskibe "Norge" og "Bergen" maa tilregnes, hvortil  <lb/>
+udfordres Sag- og Fagkundskab, har Regjeringen udnævnt en Commission,  <lb/>
+bestaaende af Byfogden i Christiansand Borchgrevink, Assessor i <lb/>
+Christiansands Stiftsoverret, Kammerherre Knudtzon og Lieutenant i Marinen <lb/>
+Rosenqvist.</p>
+               <p>	Under Valget af en Biskop for Tromsøe Stift, efter den altfor <lb/>
+tidlig afdøde Biskop Juel, have af Rigets Provster og Biskopper følgende <lb/>
+3 Præster erholdt de fleste Stemmer:  1o den nylig for Gjerpens <lb/>
+Præstegjeld udnævnte Sognepræst Gislesen  2o Sognepræst for <lb/>
+Hetland, Birkeland og  3o Tredie Præst i Christiania Brun, – som <lb/>
+alle 3 have erklæret sig villige til Embedets Modtagelse.</p>
+               <p>	Da blandt disse Gislesen har de fleste Stemmer og af Kirke <lb/>
+Departementet og Regjeringen ansees værdig og dygtig til det vigtige <lb/>
+Embedes Bestyrelse, er han underdanigst indstillet til at blive naadigst  <lb/>
+udnævnt til Biskop i Tromsæ Stift, – medens jeg høielig beklager,  <lb/>
+at Gjerpen efter saa kort Tids Forløb skal miste denne udmærkede <lb/>
+Sjælesørger.</p>
+               <p>	Forleden modtog Indre-Departementet fra vor Consul i Galactz en <lb/>
+Tellegraph Depeche, som <hi rend="underline">var befordret derfra og hid i 24 Timer</hi>, hvori <lb/>
+han begjærer nogle Skibs-Documenter for norske Skibe, som dersteds <lb/>
+skulle indtage Kornladninger.</p>
+               <p>	Den russiske Regjering har nemlig tilladt Korn Udførsel i neutrale <lb/>
+Skibe til <hi rend="underline">neutrale Havne</hi>, hvilket af Skipperen maa beediges før <lb/>
+Ladningen tillades indtaget; men hvilket man paastaaer elluderes paa <lb/>
+den Maade, at Ladningerne lodses i nærmeste neutrale Havn; men derefter <lb/>
+igjen indtages, for at føres til Frankrige eller England; – saadan <lb/>
+Eed kaldes en Skippereed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste November 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

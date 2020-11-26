@@ -1,0 +1,155 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 13. oktober 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p>	Med levende Deeltagelse modtog jeg med sidste Stockholms Post <lb/>
+Grev E. Lewenhaupts Meddelelse om den i Tullgarns Slot indtrufne slemme <lb/>
+Ildsvaade. Maatte den kun ikke have ubehagelige Følger for Hendes <lb/>
+Majestæt Dronningens og den øvrige Kongelige Families dyrebare Helbred! <lb/>
+ikke nødsage Deres Majestæter til at flytte til Stockholm før <lb/>
+saa længe efter Sygdommens Ophør, at al Smittestof maa være aldeles <lb/>
+bortryddet! Jeg længes inderlig efter at erfare dette, fordi Erfaring <lb/>
+her synes at vise, at senere tilflyttende Mennesker ere mere udsatte <lb/>
+for Smitte end de, der under Sygdommen have opholdt sig her <lb/>
+paa Stedet.</p>
+               <p>	Medens Sygdommen Gud skee Tak! aftager her, herjer den meget <lb/>
+slemt paa Frederikshald og andre Steder.</p>
+               <p>	Sidste Løverdag den 8de, fremlagde Statsraad Vogt i Statsraadet <lb/>
+sin Indstilling om Foreningen af den administrative og executive  <lb/>
+militaire Styrelse. Denne Indstilling circulerer nu blandt Regjeringens <lb/>
+Medlemmer og med Hensyn paa Sagens store Vigtighed udbeder jeg <lb/>
+underdanigst, at Deres Majestæt naadigst vil forunde os den nødvendige <lb/>
+Tid til moden Overveielse, forinden Sagen bliver Deres Majestæt <lb/>
+forelagt.</p>
+               <p>	Statsraad Krog, som er ligesaa taknemmelig som glad over hans <lb/>
+Stedsøns naadige Udnævnelse til Brigadelæge, har anmodet mig om, at <lb/>
+nedlægge for Deres Majestæt Forsikringen om hans underdanige <lb/>
+Taknemmelighed.</p>
+               <p>	Statsraad Stang fremlagde i Statsraadet i Gaar sin underdanige <lb/>
+Indstilling om naadigst Tilladelse for Medlemmerne af Telegraf- <lb/>
+Commissionen, Oberstlieutenant Wergeland og Lieutenant Nielsen, til at <lb/>
+begive sig til Stockholm, for efter Deres Majestæts naadige Befaling <lb/>
+at conferere med Generalmajor Akrell, og at der i denne Hensigt naadigst <lb/>
+maa bevilges dem 300 Spd til Reisen og Opholdet i Stockholm.</p>
+               <p>	Da General Akrell er enig med de nævnte Mænd om Nødvendigheden <lb/>
+af en mundtlig Conference, og denne paa Grund af flere Omstændigheder <lb/>
+ikke <hi rend="underline">kan udsættes</hi>  uden Skade for Sagen, troede Regjeringen ikke <lb/>
+at burde nægte sit Samtykke, hvortil jeg underdanigst udbeder Deres <lb/>
+Majestæts naadige Bifald. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 13de October 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 13. oktober 1853</supplied>
+               </head>
+               <head>				Underdanigst Indberetning <lb/>
+    					  om <lb/>
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25de Julii  til 7de  October:</cell>
+                     <cell>  2389 Angrebne,</cell>
+                     <cell> hvoraf 1551 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  7de October til 8de October</cell>
+                     <cell>	  6	do	</cell>
+                     <cell>  do	6  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  8de October til 9de October</cell>
+                     <cell>	  7*	do	</cell>
+                     <cell>  do	2  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  9de October til 10de October</cell>
+                     <cell>  4  do </cell>
+                     <cell> do  4  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>i det Hele til 10de October</cell>
+                     <cell>	  2406 Angrebne,</cell>
+                     <cell> hvoraf 1563 Døde.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell rend="botBorder"/>
+                  </row>
+               </table>
+               <lb/>
+               <p>*Af de den 9de October Angrebne, vare Ingen i Christiania Bye, men <lb/>
+ alene i Forstæderne og paa Landet.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 10de October 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Chr.Holst</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

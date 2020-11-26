@@ -1,0 +1,121 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. april 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p>	Jeg har udsat at bevidne min underdanige Erkjendtlighed for Deres <lb/>
+Majestæts naadige Skrivelse af 8de, indtil jeg kunde meddele hvorledes <lb/>
+Storthinget, som bebudet, vilde behandle den deri ommeldte Sag <lb/>
+ved første Sammenkomst efter Paaskeferierne.</p>
+               <p>	Imidlertid var den sidste Ordre til Commandanterne af 8de denne <lb/>
+Maaned indløben til Armeecommandoen, hvorved den første af 6te <lb/>
+Marts tilbagekaldtes og haabede man at den hele Misforstaaelse i  <lb/>
+Storthinget vilde blive hævet ved en underhaands Meddelelse af begge  <lb/>
+disse Documenter, hvoraf i denne Hensigt Copier underhaanden gaves  <lb/>
+Præsidenten Harbitz. Denne spurgte i Gaar, da Storthinget havde sit første <lb/>
+Møde efter Paaske, om han maatte lade Documenterne trykke og om deres <lb/>
+Meddelelse maatte ansees officiel.</p>
+               <p>	Til første Spørgsmaal svaredes Ja, da jeg om Documenterne havde <lb/>
+været mine, selv vilde have ladet dem trykke, til det andet, at de <lb/>
+som verificerede maatte ansees paalidelige; men at Regjeringen ikke <lb/>
+kan give <hi rend="underline">officiel</hi>  Meddelelse af Deres Majestæts Befalinger til Commandoen, <lb/>
+som efter Grundlovens 28de § ikke foredrages i Statsraadet og <lb/>
+efter dens 75de § litra f Storthinget ikke er berettiget til at forlange <lb/>
+sig forelagte.</p>
+               <p>	I denne Anledning discuteredes i Storthinget hele Gaar Formiddag <lb/>
+inden lukkede Døre, hvorefter jeg modtog en Skrivelse, hvoraf Copie <lb/>
+underdanigst vedlægges, som jeg vil forelægge i næstafholdende <lb/>
+Statsraad.</p>
+               <p>	Man veed virkelig ikke om man skal lee eller græde over en <lb/>
+Folkerepræsentations saa barnagtige Færd!</p>
+               <p>	Den 18de førte Statsraad Erichsen Storthingspersonalet til Horten <lb/>
+i Dampcorvetten Nidaros, som i den Hensigt var kommet herop og <lb/>
+samme Aften bragte det tilbage. Efterat have beseet Etablissementet, <lb/>
+indtog Selskabet Middag paa Admiralskibet Desideria og udbragtes  <lb/>
+Skaaler og Hurraraab for Deres Majestæt, Statsraad Erichsen og <hi rend="underline">Admiral</hi>
+                  <lb/>
+                  <hi rend="underline">Hesselberg</hi>, som, i dette lykkelige Champagneøieblik blev taget til <lb/>
+Naade. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de April 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdänigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 20. april 1854</supplied>
+               </head>
+               <head type="sub2">	Copie</head>
+               <opener>Fra  <lb/>
+Storthingets Præsidentskab</opener>
+               <p>	I et idag inden lukkede Døre afholdt Møde har Storthinget fattet <lb/>
+følgende Beslutning: <lb/>
+                  <quote>"Regjeringen anmodes om at meddele Storthinget Oplysning om, <lb/>
+ hvorvidt der maatte være gjort nogen Indskrænkning i den ved <lb/>
+ Neutralitetserklæringen givne Adgang for fremmede Krigsskibe til at <lb/>
+ løbe ind i norske Havne."</quote>
+hvilket Præsidentskabet herved giver sig den Ære at meddele.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19de April 1854</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>G. P. Harbitz</persName>
+                     <lb/>
+    					f.T. Præsident <lb/>
+                     <persName>E. Saxlund</persName>
+                     <lb/>
+    							 f.T. Secretair <lb/>
+                  </signed>
+                  <lb/>
+Til <lb/>
+Den Norske Regjering </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

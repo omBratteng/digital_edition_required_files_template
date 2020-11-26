@@ -1,0 +1,80 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. oktober 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 28de forrige Maaned, <lb/>
+har Veiret ikke været heldigt; Snee og en paa denne Aarstid ualmindelig <lb/>
+Frost vil desto værre paa flere Steder faae en skadelig Indflydelse <lb/>
+paa Kornets og især paa Jordfrugternes Modning og Indhøstning samt <lb/>
+virke fordærveligt paa Havnegangene, hvilke i et mindre riigt Foderaar <lb/>
+i Høstens Tid er af saa megen Vigtighed. I Fjeldtracterne staaer meget <lb/>
+Korn endnu ude og en Deel er endog uskaaret.</p>
+               <p>	Statsraad Erichsen har anmeldt, at General Lieutenant Bloch og <lb/>
+Oberste Mansbach, som efter Deres Majestæts naadige Befaling af ham ere <lb/>
+blevne adspurgte om de fandtes villige til at overtage den ledige <lb/>
+Generaladjutants Post, ifald det maatte behage Deres Majestæt at anfortroe <lb/>
+dem en saadan Ansættelse, – have hertil afgivet saadan underdanigst <lb/>
+Erklæring, at de begge have modtaget dette naadige Tilbud med dybeste <lb/>
+Erkjendelse af Deres Majestæts hædrende Tillid, – men, den Første <lb/>
+General Lieutenant Bloch, – at han ikke ønskede at fratræde den ham <lb/>
+naadigst anbetroede Brigadechefspost, i hvilken han haabede fremdeles at <lb/>
+kunne virke til Deres Majestæts naadige Tilfredshed; – den Anden, –  <lb/>
+Oberste Mansbach, – at hans svækkede Syn, der ikke tillader ham noget <lb/>
+anstrængende Arbeide, gjør det til en ufravigelig Pligt for ham, ikke <lb/>
+at modtage den naadigst tilbudne Ansættelse som han i andet Fald med <lb/>
+underdanigst Taknemmelighed vilde have overtaget.</p>
+               <p>	Jeg har anseet det for min Pligt underdanigst at indberette <lb/>
+Foranstaaende, idet man i denne Anledning underdanigst imødeseer Deres <lb/>
+Majestæts nærmere naadigste Befaling. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8 October 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

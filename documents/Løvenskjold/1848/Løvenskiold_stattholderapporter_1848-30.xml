@@ -1,0 +1,166 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 18. mai 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de forrige Maaned.</p>
+               <p>	Da mange af vore senere Statsraad have været optagne af overordentlige <lb/>
+Gjenstande og den hele sidste Uge medgik til Krigsspørgsmaalets Behandling, <lb/>
+have vi holdt Statsraad den 15de, 17de og i Dag, for at behandle <lb/>
+de mange efterliggende saakaldte courante Sager. Jeg er herved <lb/>
+kommet i det behagelige Tilfælde allerede før disse underdanige Linier <lb/>
+begyndes, at være i Besiddelse af Deres Majestæts naadige Skrivelse <lb/>
+af 15de.</p>
+               <p>	Jeg deler med Sjæl og Hjerte Deres Majestæts Anskuelser og deraf <lb/>
+følgende værdige Holdning i den store nordiske Sag og kan paa dem, som <lb/>
+ikke forstaae disse Anskuelser kun anvende: "Wer zum Schilling  <lb/>
+geschlagen, wird mein Leben kein Thaler". – <lb/>
+Jeg tillader mig underdanigst at lykønske til Rigsdagens nu beviiste <lb/>
+Deeltagelse i denne vigtige Begivenhed og deler Professor Schweigaards <lb/>
+(med hvem jeg igaar havde en lang Samtale om Gjenstanden) Haab, at vort <lb/>
+revolutionaire Partie i Storthinget <hi rend="underline">neppe</hi>
+                  <hi rend="underline">vil</hi>
+                  <hi rend="underline">vove</hi>  at opponere alvorlig <lb/>
+i denne Begivenhed, uagtet det ikke vil undlade at benytte den i selve <lb/>
+Regjeringen yttrede Opposition.</p>
+               <p>	Gaarsdagen den 17de Mai hengik i Rolighed, uden at der var Anledning <lb/>
+til en eneste Arrestation. Ved sammenskudte Penge moredes det lavere <lb/>
+Publicum med Musik og Sang paa Slotspladsen og Klokken 10 Aften, sædvanlig <lb/>
+den farligste Tid, kom vor Herre os til Hjelp med et herligt Tordenveir <lb/>
+og en øsende Regn, som hovedkuls jagede den flygtende Fiende af Gaden.</p>
+               <p>	Storthingsmændene feirede Dagen ved en Middag i Restaurationen <lb/>
+Klingenberg, hvorved sanges Vers for Deres Majestæt, som jeg tillader mig <lb/>
+underdanigst at vedlægge, fordi de ere forfattede af Storthingsmand, <lb/>
+                  <hi rend="underline">Bonden</hi>  Johannes Olsen Vesæth fra Søndre Bergenhuus.</p>
+               <p>	Veiret er velsignet frugtbart, i Dag 20 Grader Varme med <lb/>
+afvexlende Regn. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 Mai 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 18. mai 1848</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">S a n g e</hi>
+                  <lb/>
+            		den 17 Mai 1848.</head>
+               <p>–––––o0o–––––</p>
+               <div type="sang">
+                  <head type="sub3">Mel. For Norge, Kjæmpers Fødeland.</head>
+                  <lg>
+                     <l>Med alvorsblandet, høitidsfuld </l>
+                     <l>Og reen og fyrig Glæde, </l>
+                     <l>Med Egens Løv og Markens Guld</l>
+                     <l>Med Jubelharpens Qvæde,</l>
+                     <l>Vi hilse Dig, o Dages Drot,</l>
+                     <l>Du kjære Gjest fra Lysets Slot!</l>
+                     <l>Som <hi rend="expanded">Frihed</hi> gav, med den alt Godt</l>
+                     <l>Til Klippen, Kraftens Sæde.</l>
+                  </lg>
+                  <lg>
+                     <l>Ja Nors Klenod er Skatten bold,</l>
+                     <l>dens Klang hans Lyst at høre –</l>
+                     <l>Med rynket Bryn han slaaer paa Skjold</l>
+                     <l>Vil Nogen blot den røre; –</l>
+                     <l>Men Ingen den antaste tør,</l>
+                     <l>Thi Løven vogter ved dens Dør</l>
+                     <l>– Dog vred den ei sig reiser før</l>
+                     <l>Man Skatten bort vil føre.</l>
+                  </lg>
+                  <lg>
+                     <l>Ja Held os, Held, vor Lod er skjøn!</l>
+                     <l>Kun egen Lov vi lyde.</l>
+                     <l>Den høie Borgs og Hyttens Søn</l>
+                     <l>Hinanden Haanden byde!</l>
+                     <l>Alt mere Friheds ædle Skud</l>
+                     <l>Lyefulde Grene breder ud,</l>
+                     <l>Og Himmelbrevet, Dagens Bud,</l>
+                     <l>Alt mere klart vi tyde.</l>
+                  </lg>
+                  <lg>
+                     <l>Saa svinde da hver smaalig Strid,</l>
+                     <l>Som Kraften kun maa døde. –</l>
+                     <l>Vort Maal er eet – Vi stræbe did,</l>
+                     <l>Og derfor Blikket gløde!</l>
+                     <l>Din Hæder, Norrig, straale vidt!</l>
+                     <l>Du stande lykkeligt og frit!</l>
+                     <l>Vort Liv, vort Hjertebod er Dit!</l>
+                     <l>Vil Du, at vi skal bløde.</l>
+                  </lg>
+                  <p>–––––o0o–––––</p>
+               </div>
+               <div type="sang">
+                  <head type="sub3">Mel. For Norge, Kjæmpers Fødeland.</head>
+                  <lg>
+                     <l>Stand, OSCAR! tryg – vi elske Dig,</l>
+                     <l>Du Rets og Sandheds Værge!</l>
+                     <l>Omkring Dig Nordmænd leire sig,</l>
+                     <l>Og Troskabseden sværge!</l>
+                     <l>Mod Tidens Storm Du smile kan,</l>
+                     <l>Thi Du er <hi rend="expanded">Folkets</hi> første Mand! –</l>
+                     <l>Mens Andres Throner staae paa Sand,</l>
+                     <l>Staaer Din paa Marmorbjerge!</l>
+                  </lg>
+                  <lg>
+                     <l>Du os forstaaer – vi Frihed vil,</l>
+                     <l>– Ei <hi rend="expanded">den</hi>, som Pagten bryder,</l>
+                     <l>Men <hi rend="expanded">den</hi>, hvem Pagten viser til,</l>
+                     <l>Og Folk og Fyrste pryder. –</l>
+                     <l>Hil, OSCAR! Dig! – I Fred og Krig,</l>
+                     <l>Som Du er god, bliv lykkelig! –</l>
+                     <l>Ja Konning bold, vi hylde Dig!</l>
+                     <l>Thi Hjertets Trang det byder!</l>
+                  </lg>
+                  <p>–––––o0o–––––</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

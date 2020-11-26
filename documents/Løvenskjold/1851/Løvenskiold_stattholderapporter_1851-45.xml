@@ -1,0 +1,101 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 3. august 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 31te forrige Maaned.</p>
+               <p>	Amtmand Blom kom i Gaar Formiddg, medens Regjeringen var samlet, <lb/>
+fra Ringeriget, og meddeelte os følgende Oplysninger.</p>
+               <p>	Den hastig opstillede militaire Styrke har fuldkommen gjort den <lb/>
+tilsigtede Virkning. Oprørerne ere forskrækkede, Bygdens fredelige <lb/>
+Indvaanere beroligede, og formener Amtmanden, at den Thraneske Forening <lb/>
+paa Ringerige kan ansees opløst. Efter Amtmandens Ordre er Hattemager <lb/>
+Knudsen og 2de andre de meest graverede Personer, hvoraf den <lb/>
+ene har lagt Haand paa Lensmanden, i afvigte Nat, indført til Arrest <lb/>
+i Christiania. Amtmanden har forløvet det nationale Militair og <lb/>
+formener, at Artilleriet kan tilbagedrages, hvorimod de 2de Compagnier <lb/>
+Fodjægere og de ridende Jægere, under de fortgaaende Forhører bør <lb/>
+forblive paa Ringerige.</p>
+               <p>	Amtmanden fortalte, at blandt de arresterede Oprørere befindes <lb/>
+en saa kaldet Huusmand, som paa den ham tilbygslede Jord føder 5 Kjør <lb/>
+og 1 Hest, for en aarlig Afgift af 6 Speciedaler, som dog vel ikke <lb/>
+kan henregnes til de fortrykte Huusmænd. Flere af de arresterede <lb/>
+Personer havde i Begyndelsen viist sig meget brutale og frække; men <lb/>
+vare, efterat være behandlede paa gevorben Maneer, snart bleven  <lb/>
+ydmyge. Den korte militaire Opdragelse skal have virket mærkelig paa <lb/>
+den raae Almue, saaledes at denne, som før var studsk og grov, nu  <lb/>
+viser sig civiliseret. Mændene bukke og Qvinderne nejge.</p>
+               <p>	Amtmand Blom vilde i Dag begive sig til Hogsund, hvor en Thranisk <lb/>
+Sangforening var berammet og ønsker meget at kunne i Overmorgen <lb/>
+reise til Kiel, for at hente en kjær Søn, som har været sindssvag.</p>
+               <p>	Regjeringens kraftige Optræden paa Ringerige, synes at finde <lb/>
+almindelig Bifald;, men om Nogle, som sædvanlig bag efter maatte <lb/>
+ mene, at der er gjort for meget, tør jeg paa Forhaand smigre mig med, <lb/>
+at Deres Majestæt ikke vil dele denne Mening.</p>
+               <p>	Sidste Stockholms Post bragte mig fra Kabinettet og fra den norske <lb/>
+Statsminister Meddelelser om de i min sidste underdanigste Rapport <lb/>
+ommeldte politiske Eventyrere hvortil jeg tillader mig underdanigst at <lb/>
+referere. Crevenna &amp; Bronzetti ventes i Disse Dage tilbage fra en <lb/>
+Excursion til Hedemarken og jeg har endnu i Gaar om alle disse Personer <lb/>
+confereret med den constituerede Politiemester.</p>
+               <p>	Fra Kabinetssecretairen, Baron Manderstrøm har jeg efter Deres <lb/>
+Majestæts naadige Befaling modtaget Decorationerne til Nordstjerne- <lb/>
+Ordenen for Professorerne Boeck og Faye, som jeg vil have den Ære, <lb/>
+paa Deres Majestæts høie Vegne, at overlevere dem, ved deres Tilbagekomst <lb/>
+fra Udlandet.</p>
+               <p>	Statsraad Vogt gjør nu en 8 Dages Recreations Reise, som vi alle <lb/>
+meer eller mindre tiltrænge.</p>
+               <p>	I Overmorgen agter jeg at feire Hendes Kongelige Høihed <lb/>
+Kronprindsessens Fødselsdag ved en Souper her paa Holgerslyst. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 3 August 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

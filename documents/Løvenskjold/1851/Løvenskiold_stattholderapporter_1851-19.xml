@@ -1,0 +1,111 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 24. april 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p>	Jeg tillader mig at frembære min underdanigste Lykønskning i <lb/>
+Anledning af Dagen, som jeg agter at feire ved en Bal denne Aften.</p>
+               <p>	Med sidste Post afsendtes til Stockholm Regjeringens <lb/>
+underdanigste Indstillinger: <lb/>
+                  <list>
+                     <label>1o </label>
+                     <item>om Lov for Oprettelse af en Pantelaane Indretning;</item>
+                     <lb/>
+                     <label>2o </label>
+                     <item>om Bevilgelse af 500,000 Speciedaler til Grundfond for denne <lb/>
+ Indretning;</item>
+                     <lb/>
+                     <label>3o </label>
+                     <item>om Tilladelse for Sparebankerne til at give Indskyderne 5 pro <lb/>
+ Cent i Stedet for 4 pro Cent Renter.</item>
+                  </list>
+               </p>
+               <p>	Under Behandlingen i Statsraadet af Lovforslaget No 1, forundrede <lb/>
+jeg mig over, hvorledes man i vor Tid studerer paa at artificere <lb/>
+istedetfor at simplificere administrative Foranstaltninger. Naar det <lb/>
+agtes nødvendigt eller gavnligt at optage et Statslaan for at anvendes <lb/>
+til Udlaan mod Pant i faste Eiendomme, synes denne Operation meget <lb/>
+simpel og faae da de Laantrængende finde sig i at betale <hi rend="underline">skadesløse</hi>
+                  <lb/>
+Renter, medens disse nødvendig maa blive meget høiere for at kunne <lb/>
+bære Omkostningerne af den dyre Administration, der er nødvendig for <lb/>
+det foreslaaede Kunstige Maskinerie, sigtende til ved kunstige Midler <lb/>
+at forøge den laante og den udlaanende Capital, hvormed dog altid <lb/>
+Resico vil være forbunden. Jeg opdagede imidlertid snart, at <lb/>
+Hovedhensigten med det nu Foreslaaede er, ad en Omvei at opnaae den  <lb/>
+almindelige Rentefodens Forhøielse, som Deres Majestæt i afvigte Februar <lb/>
+Maaned ikke vilde bifalde; men som maa følge af at man vil privilegere <lb/>
+de fleste offentlige Sitftelser og Laaneindretninger til at tage <lb/>
+høiere Rente end Private. Denne Hensigt tilstodes af Motionairen og <lb/>
+dem, som talede for Forslaget, og Statsraad Vogt har ligefrem gjentaget <lb/>
+sit forrige Forslag om Rentefodens almindelige Forhøielse. Discussionen <lb/>
+i Statsraadet var ganske liig den forrige i Deres Majestæts <lb/>
+Nærværelse. Riddervold, som ønsker Renteforhøielse for sit rige <lb/>
+Oplysningsvæsenets Fond, fremsatte endog den ubegribelige Paradox: "at <lb/>
+det for Debitor er fordeelagtigere at betale 5 % end 4 % Rente!</p>
+               <p>	Jeg maa nu som før, fra moralsk, oeconomisk, politisk Synspunct, <lb/>
+underdanigst fraraade at fremsætte nogen Proposition om Rentefodens <lb/>
+Forhøielse.</p>
+               <p>	Formanden for Hortens Arbeiderforening, en Værftstømmermand, <lb/>
+har i disse Dage været her, for at consultere Thrane og Abildgaard <lb/>
+om Arbeidernes Fordring paa forhøiet Dagløn, ved Værftet og  <lb/>
+retournerede med det Raad at gaae alvorlig men forsigtig til Værks.</p>
+               <p>	I sidste Møde af Arbeider-Foreningens Central Bestyrelse her i <lb/>
+Staden, besluttedes, at et Centralmøde af Delegerede fra de  <lb/>
+forskjellige Foreninger skal sammenkaldes her i Løbet af anstundende Mai  <lb/>
+Maaned, som da formodentlig vil blive en Fortsættelse af den forrige <lb/>
+Aar paa Langvig ved Siden af Deres Majestæt afholdte constituerende <lb/>
+Forsamling, men denne Gang ved Siden af Storthinget. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 April 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

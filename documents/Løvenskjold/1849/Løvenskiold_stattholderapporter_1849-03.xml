@@ -1,0 +1,71 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. januar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+               <p>	Den sidste Indberetning fra Bergen af 7de dennes angiver fra Cholera <lb/>
+Sygdommens Udbrud angrebne 179, døde 104, helbredede 16 Personer. <lb/>
+Sygdommen har nu ogsaa viist sig i Fjeld Sogn, paa Øer i Skjærgaarden <lb/>
+udenfor Bergens Bye, hvorhen en Læge herfra efter vedkommende Amtmands <lb/>
+Anmodning er bleven sendt.</p>
+               <p>	Til Styrke for visse Folks fixe Anskuelse om alle Qvarantaine <lb/>
+Foranstaltningers Unytte, anføres blandt andet at disse, ere blevne  <lb/>
+ophævede i Rusland, Preussen, England, saasnart Cholera havde viist sig <lb/>
+inden disse Lande, ligesom at de af General Cavaignac skulle være <lb/>
+ophævede i Frankrige.</p>
+               <p>	Uagtet jeg i Begivenhed som denne ingenlunde vil tilraade blindt <lb/>
+at følge andre Regjeringers Exempel, tillader jeg mig dog underdanigst <lb/>
+at spørge, om det anførte forholder sig rigtig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14 Januar 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

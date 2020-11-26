@@ -1,0 +1,66 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 23. september 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Efterat min sidste underdanigste Rapport af 19de denne <lb/>
+Maaned var afgivet, havde jeg den Glæde af Hr Greve Lewenhaupts Brev <lb/>
+af 16de at erfare Deres Majestæters og den Kongelige Families  <lb/>
+lykkelige Ankomst til Stockholm og takker jeg underdanigst for den  <lb/>
+naadige hastige Meddelelse, som her med almindelig Deeltagelse modtoges.</p>
+               <p>	Med Deres Majestæts naadige Tilladelse agter jeg i <lb/>
+Overmorgen at begive mig til Fossum; men vil forinden min Afreise afgive <lb/>
+underdanigst Rapport om Udfaldet af det i Dag foregaaende Valg af <lb/>
+Valgmænd for Christiania Bye. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23 September 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

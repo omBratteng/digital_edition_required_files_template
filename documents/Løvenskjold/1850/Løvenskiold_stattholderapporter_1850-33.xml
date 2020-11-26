@@ -1,0 +1,76 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 15. juli 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p>	I Statsraad den 13de dennes har den Norske Regjering paa <lb/>
+Deres Majestæts høie Vegne og i Anledning af den gjennem  <lb/>
+Commandoen under 8de dennes udfærdigede naadige Befaling afgivet saadan  <lb/>
+Resolution:</p>
+               <p>	"At det naadigst bestemmes, at de 5 Stykker Skibe, som <lb/>
+allerede ere befragtede ifølge den tidligere givne Bestemmelse angaaende <lb/>
+afløsning og Ombytning af de til Slesvig commanderede Norske Tropper, <lb/>
+snarest muligt skulle afgaae herfra for at afhente de norske Tropper, <lb/>
+som ikke blive hjemførte med Dampskib, samt Heste, Kanoner og  <lb/>
+Materielle og have de nævnte Skibe at anløbe Sønderborg paa Als, for der <lb/>
+at erholde nærmere Ordre angaaende Embarqueringen hvorimod der med <lb/>
+Hensyn til de flere Fartøier, som maatte tiltrænges til  <lb/>
+Tilbageførelsen, bliver at forholde overeensstemmende med Conventionen af 13 <lb/>
+August 1849".</p>
+               <p>	Da Deres Majestæt derhos har befalet, at ingen Indstilling <lb/>
+maatte afgaae herfra senere end afvigte 8de Juli, saa tillader jeg <lb/>
+mig underdanigst at vedlægge Afskrift af Armee Departementets  <lb/>
+Indstilling i berørte Anledning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 Julii 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

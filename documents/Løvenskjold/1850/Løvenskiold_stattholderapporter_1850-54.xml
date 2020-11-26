@@ -1,0 +1,87 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 28. november 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 24de denne Maaned.</p>
+               <p>	Indstillingen om Besættelsen af Chefsposten for Cavellerie <lb/>
+Brigaden blev omsider i Gaar vidtløftig behandlet og afgjort i det <lb/>
+herværende Statsraad. General Bloch har indstillet Oberstlieutenant Glad, <lb/>
+Statsraad Sylow derimod Oberst lieutenant Schjelderup. Statsraad Vogt <lb/>
+og jeg stemme for Glad, Regjeringens øvrige Medlemmer for Skjelderup.</p>
+               <p>	Deres Majestæts naadige Valg i denne Begivenhed er for vor lille <lb/>
+Armee af megen Vigtighed: men det er ikke alene fra denne Synspunct <lb/>
+og med min Overbeviisning om, at Oberstlieutenant Glad er den <lb/>
+dygtigste for den omhandlende Post, at jeg tillader mig underdanigst <lb/>
+at anbefale ham; men fordi jeg ogsaa fra en anden Synspunct underdanigst <lb/>
+bør fraraade noget andet Valg.</p>
+               <p>	Det var ikke ubekjendt, at General Bloch, forinden han indstillede <lb/>
+Glad, dertil havde erhvervet Deres Majestæts naadige Bifald. Desto <lb/>
+kjærere var det mig derefter at kunne med god Overbeviisning give <lb/>
+Glad min Stemme; men desto dadelværdigere var det forargelige <lb/>
+Avisskriverie herom, som uden Tvivl havde sit Udspring fra yngre  <lb/>
+Officierer, som fordre, at der ved Besættelsen af deres høieste Chefspost, <lb/>
+skal tages udelukkende Hensyn paa deres Anciennetets-Interesse og som <lb/>
+indbilde sig, at deres Avisartikler skal have Indflydelse paa Deres <lb/>
+Majestæts Beslutning. Dette Avisskriverie vidner desværre om en <lb/>
+daarlig militair Aand, der ikke fortjener Medhold, men alvorlig <lb/>
+Misbilligelse.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge et Morgenblad, som <lb/>
+indeholder den sidste trykte Artikel om denne Gjenstand.</p>
+               <p>	Ligeledes tillader jeg mig underdanigst at vedlægge 6 Stykker <lb/>
+holsteenske Portraiter, som ere mig tilsendte <hi rend="underline">fra Kiel</hi>.</p>
+               <p>	Hosfølgende Indberetninger vise i de sidste 4 Døgn 1 Angreben, <lb/>
+Ingen død, 5 Helbredede af Cholera. Vi have saaledes i de sidste 7 <lb/>
+døgn kun Een ny Syg. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 November 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

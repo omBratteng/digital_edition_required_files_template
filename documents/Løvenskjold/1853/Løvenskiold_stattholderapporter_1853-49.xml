@@ -1,0 +1,299 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 24. november 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 30te forrige Maaned.</p>
+               <p>	Den 26de flyttede jeg til Byen fra Holgerslyst, fordi <lb/>
+Choleraepidemien kom mig hver Dag nærmere der; men jeg kom snart af Scylla <lb/>
+i Charybdis. Den 8de denne Maaned slog den lumske Farsot som et Lyn <lb/>
+ned i mit Huus i Byen, dræbte min stakkels Kudsk efter 2 Dages Sygdom <lb/>
+og angreb mig selv samme Dag meget haardt. Sygdommen udviklede sig <lb/>
+dog ikke hos mig til virkelig Cholera; men de enkelte Symptomer, hvoraf <lb/>
+jeg led, vare meget voldsomme og uagtet Sygdommen forhaabentlig <lb/>
+er overstaaet, føler jeg endnu Efterveerne.</p>
+               <p>	Min Sygdom har forhindret mig fra at deeltage i de mundtlige <lb/>
+Discussioner i Statsraadet om de militaire Departementers Forening med <lb/>
+Commandoen; men jeg har dog jevnlig kunnet conferere med Vedkommende <lb/>
+om denne vigtige Gjenstand. Discussionerne sluttedes omsider i Gaar <lb/>
+og Regjeringens underdanige Indstilling vil afgaae med Morgenposten.</p>
+               <p>	Statsraad Krog har ligesom jeg ved Sygdom været forhindret fra at <lb/>
+deeltage i Sagens mundtlige Behandling, som saaledes har været overladt <lb/>
+til Statsraaderne Vogt, Sylow, Erichsen og Bretteville, samt <lb/>
+Stang og Riddervold. De 4 første (altsaa Pluraliteten) indstille: <lb/>
+"at Deres Majestæt naadigst vil beslutte, at de militaire Departementers <lb/>
+Bestyrelse skal forenes med Commandoen, hvilket de dog formene <lb/>
+ikke bør iværksættes før efter anstundende Storthings Slutning; Stang <lb/>
+og Riddervold erklære sig i et dissenterende Votum for Sagens  <lb/>
+Udsættelse <hi rend="underline">for Landetaten</hi>  til en ubestemt Tid. Dette dissenterende Votum <lb/>
+forekommer mig temmelig intetsigende, og røber mere Opposition mod <lb/>
+Person end mod Sag. Jeg tillader mig underdanigst at vedlægge de af <lb/>
+Statsraad Krog og mig under Sagens Circulation afgivne Vota og kan <lb/>
+jeg fremdeles ikke finde nogen skjellig Grund for at berøve Armee- <lb/>
+Departementets Chef noget ham som Generalsperson tilkommende Emolument, <lb/>
+fordi Commandoen overdrages ham. Jeg ønsker tvertimod, at noget analogt <lb/>
+Emolument maatte kunne tillægges Marine-Departementets Chef for <lb/>
+Commandoen.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge Statsraad Erichsens <lb/>
+Erklæring, i Anledning af den Meddelelse, som jeg, i Følge Deres <lb/>
+Majestæts naadige Befaling af 10de denne Maaned, har givet ham.  <lb/>
+Quintessentsen er, at han erkjender det rigtigere, at Commandoen føres af <lb/>
+en Admiral med denne Charges Uniform, end af en Capitain, og at et <lb/>
+militairt Corps har større Respect for Admirals- end for Statsraads <lb/>
+Uniformen.</p>
+               <p>	Iøvrigt har Statsraad Erichsen adskillige Projecter, som han <lb/>
+underdanigst vil forelægge Deres Majestæt.</p>
+               <p>	Jeg gav i sin Tid Oberstlieutenant Birch min Stemme til det vacante <lb/>
+Søe- og Landkrigscommissair Embede, fordi disse Embeder, hvoraf <lb/>
+der gives 6, formeentlig bør være forbeholdt Armeens Officierer, ligesom <lb/>
+de 5 Indrulleringschefs-Embeder ene kunne tildeles Søe-Officierer, <lb/>
+fordi de tillige ere Overlodser. Hertil kommer, at Oberstlieutenant <lb/>
+Birch, i øvrigt en brav Mand, ikke længer er sit Kald som Corpschef <lb/>
+voxen, og det derfor vil blive en væsentlig Fordeel, at faae ham <lb/>
+erstattet som Chef for det gevorbne Jægercorps ved en dygtigere Officier.</p>
+               <p>	Deres Majestæt har en ønskelig Anledning til at holde den brave <lb/>
+Hesselberg skadesløs, ved naadigst at udnævne ham til Commandeur <lb/>
+Capitaine eller ved naadigst at tildele ham den vacante Admiralspost. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 November 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 24. november 1853</supplied>
+               </head>
+               <head type="sub2">Copie af H.E. RigsStatholderens <lb/>
+                  <hi rend="underline">foreløbig circulerende Votum</hi>
+               </head>
+               <p>	Den senere Tids Erfaring har ogsaa givet mig den Anskuelse at <lb/>
+Foreningen af de militaire Departementers Bestyrelse med Commandoen <lb/>
+er hensigtsmæssig og tilraadelig, og jeg maa saaledes ønske de sig <lb/>
+derimod fremstillende Vanskeligheder hævede, en Opgave, som i Justits- <lb/>
+Departementets Indstilling, saavidt efter Omstændighederne mulig synes <lb/>
+løst. Herved maa jeg dog bemærke, at jeg ikke kan dele Justits <lb/>
+Departementets Anskuelse Ark 8 Side 4, at den Officier, der er skikket <lb/>
+til at være Statsraad og Departementschef, neppe kan være uskikket <lb/>
+til at føre Commandoen. Jeg formener tvertimod, at en i førstnævnte <lb/>
+Henseende meget vel skikket Mand kan mangle de for en commanderende <lb/>
+General eller Commandoførende nødvendige Egenskaber, hvoraf vil <lb/>
+følge, at naar det hidindtil har været vanskelig, at finde en for <lb/>
+Armee Departementets Bestyrelse vel skikket Mand, det vil blive end <lb/>
+vanskeligere at finde en Officier med de for begge Functioner  <lb/>
+ønskelige og nødvendige Egenskaber.</p>
+               <p>	Departementets første Alternativ Ark 9 Side 3 er ikke alene den <lb/>
+simpleste men formeentlig ogsaa den rigtigste Maade, hvorpaa Sagen <lb/>
+kan ordnes, og jeg agter at stemme for dette. Derved vil  <lb/>
+Generalstabschefen kunne bibeholdes efter Planen af 10 August 1850 med de <lb/>
+foreslaaede Forandringer i hans og Generaladjutantens Embedsstillinger.</p>
+               <p>	De af Statsraaderne Sylow og Krog for dette Embedes Bibeholdelse <lb/>
+anførte Grunde ere for mig indlysende.</p>
+               <p>	Derved vil Generalstabschefens Gage ikke vindes til Erstatning <lb/>
+for de for de 2de Departementschefer foreslaaede Taffelpenge; men <lb/>
+for disse vilde jeg dog ikke stemme, fordi Taffelpenge hos os ikke <lb/>
+ere yndede, uden maaskee af de Faae, som have Adgang til Taffelet og <lb/>
+neppe vilde blive bevilgede. Disse Taffelpenge vilde desuden mere <lb/>
+blive en Byrde end et Gode. Billighed og Retfærdighed fordre vistnok, at <lb/>
+der for Arbeide gives Løn og at saadan gaves de 2de Statsraader for <lb/>
+forøget Arbeide og Ansvar ved Commandoens Overtagelse; men medens <lb/>
+Kongen paalægger Arbeider, er det Storthinget, som skulde bevilge <lb/>
+Lønnen, og naar jeg erindrer hvor vanskeligt det i sin Tid var, af <lb/>
+dette at erholde hvad der udfordredes til et nyt Regjerings  <lb/>
+Departements Oprettelse, kan jeg ikke nære Haab om nogen ny Bevilling <lb/>
+i denne Begivenhed og man bør ikke gjøre Planens Iværksættelse  <lb/>
+afhængig af Bevilgning eller Ikke Bevilgning.</p>
+               <p>	Den eneste permanente Godtgjørelse, som Hs. Majt har at raade <lb/>
+over til Chefen for Marine-Departementet er formeentlig det  <lb/>
+Generaladjutanten for Marinen tillagte Commando Tillæg 192 Speciedaler, som <lb/>
+ikke kan ansees for Løn, hvorimod Commando-Tillæget for Armeens  <lb/>
+Generaladjutant vil tilfalde Generalstabschefen, og man bør da ikke <lb/>
+berøve Armee Departementets Chef den Adgang til nogen anden militair <lb/>
+Gage eller Emolument, som maatte være forbunden eller forenelig med <lb/>
+hans militaire Charge og Stilling.</p>
+               <p>	Jeg kan saaledes ikke stemme for Indstillingens 3die, 4de og <lb/>
+6te Nummere, men for de øvrige Indstillingspunkter med de Modificationer, <lb/>
+som kunne forenes med mine forestaaende udtalte Anskuelser.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de November 1853</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 24. november 1853</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Copie af Hr Statsraads Krogs tiltænkte Votum</hi>.</head>
+               <p>	Da det formeentlig maa erkjendes, at en Statsraad og Chef for <lb/>
+Armee Departementet, naar han tillige fører Commandoen over Armeen, <lb/>
+har særegne, i Forholdets Natur grundede og efter Omstændighederne <lb/>
+uundgaaelige Udgifter, der i en vis Grad bør staae i Forhold til den <lb/>
+Charge, han beklæder i Armeen, kan jeg ikke tiltræde den i Justits <lb/>
+Departementets Foredrag yttrede Anskuelse, at det skulde være rigtigt, <lb/>
+ogsaa at indbefatte de i Armeeplanen af 3die Juli 1817 bestemte <lb/>
+og af Storthinget i 1818 bevilgede Generalstillæg under den Inddragelse <lb/>
+af militair Lønning og Emolumenter, som efter bemeldte Foredrag <lb/>
+skulde være en Følge af Armee Commandoens Forening med Departements <lb/>
+Bestyrelsen.</p>
+               <p>	Idet jeg forøvrigt i det Væsentlige tiltræder Indstillingen, <lb/>
+skulde jeg derfor tillade mig at foreslaae, at Slutningen af sammes <lb/>
+2den Post forandres i Overeensstemmelse med min her udtalte  <lb/>
+Formening, saaledes, at det tilkjendegives, at Chefen for Armee <lb/>
+Departementet, der tillige fører Commandoen over Armeen, naar han er  <lb/>
+Generalsperson med Generalstillæg, vedbliver at oppebære samme, og i <lb/>
+modsat Fald tillægges et saadant, naar Adgang dertil gives. <lb/>
+               </p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 24. november 1853</supplied>
+               </head>
+               <opener>Deres Excellence!</opener>
+               <p>	Meddelelsen af Hans Majestæt Kongens Yttringer om hvad jeg i en <lb/>
+foregaaende Skrivelse til Deres Excellence havde tilladt mig at fremsætte, <lb/>
+angaaende Hans Majestæts naadigst tilkjendegivne Bestemmelse om <lb/>
+at udnævne mig til Contre-Admiral ved den paatænkte Forening af Marine- <lb/>
+Departementets Bestyrelse med Marine-Commandoen, lader mig ansee  <lb/>
+en nærmere Udvikling af min i denne Anledning fremsatte Formening at <lb/>
+være fornøden.</p>
+               <p>	Hans Majestæts naadigste Hensigt, naar den militaire Overcommando <lb/>
+og Departements Bestyrelsen blive forenede, stedse at søge Cheferne <lb/>
+for de militaire Departementer i de respective Etater, – en Søofficier <lb/>
+til Chef for Marine-Departementet og høistbefalende Officier for  <lb/>
+Marinen, en Landofficier til den tilsvarende Post for Armeens Vedkommende, <lb/>
+har jeg intet Øieblik taget feil af; Hans Majestæts Mening om denne <lb/>
+Sag har været klart og tydeligen udtrykt, og jeg tillader mig at <lb/>
+anmode Deres Excellence at oplyse Hans Majestæt om, at jeg i Eet og  <lb/>
+Alt deler Høistsammes Mening, saavel om Nødvendigheden af, naar  <lb/>
+Departementet og Commando forenes, at Armee- og Marine-Departementets <lb/>
+Chefer ere Militaire, som om at de bør forblive at være active Officierer, <lb/>
+enhver under sin Etat, og bære den Militair-Uniform der tilhører <lb/>
+de høieste Klasser. Hvad der under disse Forhold har givet Hans <lb/>
+Majestæt Anledning til at troe sig misforstaaet, ligger altsaa i den <lb/>
+mindre tydelige og fuldstændige Maade, hvorpaa jeg har affattet min <lb/>
+Fremstilling om, at jeg antog at Alt dette kunde finde Sted, uden at <lb/>
+Udnævnelse til <hi rend="underline">nogen bestemt</hi>  høiere militair Charge, – og navnlig for <lb/>
+mig i Marinen – desaarsag blev fornøden. Gaaende ud fra at Departements- <lb/>
+Chefen altid var Militair, antog jeg nemlig at det da vilde være <lb/>
+nok, at det ved Iværksættelsen af Foreningen af Departement og Commando <lb/>
+tillige fastsattes ved Resolution, at den militaire Departementschef <lb/>
+skulde, forsaavidt han maatte staae i nogen lavere Officiersklasse <lb/>
+end Contre-Admirals eller Generalmajorsklassen, <hi rend="underline">udtræde af samme</hi>, <lb/>
+og <hi rend="underline">saalænge han var militair Departementschef</hi>, betragtes som staaende <lb/>
+i Spidsen for vedkommende Etats Officierscorps, samt bære Admirals- <lb/>
+eller Generals-Uniform, med en for hans Stilling særskilt bestemt <lb/>
+Distinction paa Epauletterne. Denne Distinction kunde t.Ex. være et <lb/>
+Par Commandostave i Kors med Krone over, i Sølv, eller hvilken anden <lb/>
+Distinction som Hans Majestæt fandt bedre passende. Jeg har i min  <lb/>
+forrige Skrivelse til Deres Excellence kun fremsat Ønsket om at en  <lb/>
+saadan Ordning af Forholdene maatte anvendes paa mig personlig, men  <lb/>
+havde altid den Tanke, at den vilde passe ogsaa i andre Tilfælde. Ved at <lb/>
+ordne Forholdene paa denne Maade antog jeg at de militaire Former vilde <lb/>
+tilfredsstilles, paa samme Tid som man, om en militair Departementschef <lb/>
+udtraadte af Statsraadet, vilde undgaae at faae nogen overcomplet <lb/>
+Officier staaende i en høi Charge, uden at Hans Majestæt i et <lb/>
+saadant Tilfælde altid havde Anledning til at placere ham i den <lb/>
+respective Etat med en Indtægt efter hans militaire Grad. Dette vilde <lb/>
+især blive Tilfældet hvad Marinen angaaer, idet der kun er bevilget <lb/>
+Gage til een Admiral, og hvor der saaledes maaskee ikke i mange Aar <lb/>
+vilde være Adgang for Hans Majestæt til at tildele den Udtrædende  <lb/>
+Aflønning efter Chargen; medens dette vilde være ulige lettere naar han <lb/>
+gik tilbage til en lavere Charge, hvor Officiers-Antallet er større <lb/>
+og altsaa Vacancerne ere forholdsviis hyppigere, og hvis Aflønning <lb/>
+skjøndt mindre, dog maaskee var fornøden for Vedkommende. Men en saadan <lb/>
+Tilbagegang til en lavere Officiersgrad, kunde uden Vanskelighed <lb/>
+gaae for sig naar han aftraadte som Sø- eller Krigs-Minister, hvorimod <lb/>
+det ikke vilde lade sig gjøre, naar han tillige var udnævnt til Admiral <lb/>
+eller General. –</p>
+               <p>	Uagtet vistnok hyppige Forandringer i Regjeringspersonalet ikke <lb/>
+hidtil har fundet Sted hos os, bør dog Muligheden af en Forandring <lb/>
+heri formeentlig ikke tabes af Sigte. Sagen er ikke usædvanlig i andre <lb/>
+Lande, og den mere indviklede Stilling end hidtil, hvori Marine- <lb/>
+og Armee-Departementernes Chefer ville komme til at staae, naar de <lb/>
+tillige blive høistbefalende Militaire, kan vel spaae deres personlige <lb/>
+Virksomhed en kortere Varighed end den der før har fundet Sted. <lb/>
+Ligesom det derfor i mødende Tilfælde vil være godt at Vedkommende have <lb/>
+en Retraite, om den end ikke er glimrende, saaledes staaer det jo <lb/>
+derhos altid i Hans Majestæts Magt at give en udtrædende Departementschef <lb/>
+saadanne Tegn paa Velvillie og Tilfredshed, som Høistsamme maatte <lb/>
+finde passende og Omstændighederne tillade.</p>
+               <p>	Efter her at have forsøgt at supplere hvad der fattes i Fremstillingen <lb/>
+af denne Sag i mit forrige Brev til Deres Excellence, staaer <lb/>
+der tilbage for mig at bede Deres Excellence om, naar De gjør Hans <lb/>
+Majestæt bekjendt hermed, at frembære for Høistsamme et fornyet Udtryk <lb/>
+af min Taknemmelighed for den naadige Velvillie hvormed Hans Majestæt <lb/>
+omtaler mig, og derhos paa mine Vegne at erklære, at forsaavidt  <lb/>
+som Hans Majestæt ikke maatte finde den af mig fremsatte Anskuelse <lb/>
+om den militaire Stilling som Chefen for Armee- og Marine- <lb/>
+Departementerne bør anvises, at være den rette, eller Ordningen af deres <lb/>
+militaire Forhold paa den antydede Maade at være hensigtsmæssig, saa <lb/>
+opgiver jeg gjerne min Mening om denne Gjenstand for Hans Majestæts <lb/>
+bedre Indsigt, og skal overtage, under den Form som Hans Majestæt <lb/>
+anseer at være rettest, det vigtige og ansvarsfulde Hverv som  <lb/>
+Høistsamme vil give mig, med Løftet om, at om det end skulde briste mig <lb/>
+paa Evne, skal det aldrig briste paa ærlig Villie til at udføre de <lb/>
+mig derved paalagte Pligter til Kongens Tilfredshed og Marinens Tarv.</p>
+               <closer>
+                  <salute>Med udmærket Høiagtelse forbliver jeg <lb/>
+    				Deres Excellences <lb/>
+                    ærbødigste</salute>
+                  <lb/>
+                  <signed>
+                     <persName>O.W.Erichsen</persName>.</signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 Novb. 1853</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 31. desember 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 27de denne Maaned.</p>
+               <p>	Jeg takker underdanigst for den mig under 24de naadigst meddeelte Beslutning om den norske Kronings Iværksættelse under Løbet af tilstundende Sommer. Det norske Folk længes efter at see denne høitidelige Act fuldbyrdet og vil med Glæde erfare Deres Majestæts naadige Redebonhed til at opfylde dette loyale Ønske. Gud den Almægtige lade det gaae i Opfyldelse!</p>
+               <p>	Ifølge Deres Majestæts naadige Befaling har jeg aftalt det Fornødne med Vedkommende om de manglende Regaliers Istandbringelse, og med Oberst Garben om Afbenyttelsen af Slottets belle Etage anstundende Sommer. – Jeg ventede, at denne vilde erklæres umulig, om jeg fremsatte den som et blot Ønske, hvorfor jeg "von vorn hinein" erklærede, at det var Deres Majestæts bestemte Befaling, hvorimod ingen Indvendinger tilstededes. Med denne Erklæring fra min Side, forlod Oberst Garben mig i Overgaar og idag bragte han mig hosfølgende Note, som jeg tillader mig underdanigst at vedlægge, uagtet den (fordi jeg havde forlangt en skriftlig Erklæring) kun er bestemt for mig, ikke for Deres Majestæt.</p>
+               <p>	Heraf vil naadigst erfares, at Slottets store Vaaning vil kunne blive færdig til Afbenyttelse anstundende Sommer, hvorimod Fuldførelsen af Meublementet til denne Vaaning, som skal gjøres i Stockholm, dependerer af Dispositionerne dersteds. I denne Henseende har jeg bedet Oberste Garben snarest mulig at conferere med Hof Kammereer Bäckstrøm og give ham de Oplysninger han endnu maatte mangle, hvorefter jeg tør vente, at denne dygtige Mand vil vide at gjøre det umulige mulig, der, som vi her.</p>
+               <p>	Jeg antager det fremdeles hensigtsmæssigst, at Deres Majestæter ville reise ad Jämtelandsveien til Trondhjem og efter Kroningens Fuldbyrdelse, vil benaade Hovedstaden med Sin Høie Nærværelse, hvorved lidt Tid vil vindes for Slots-Arbeidet.</p>
+               <p>	Corvetten "Nordstjernen", som forlod New-York den 21de November retournerede, efter en lykkelig Reise den 29de denne Maaned til Frederiksværn. Min Søn Adam stod færdig at begive sig til Congressen i Washington.</p>
+               <p>	Jeg beklager at maatte underdanigst melde den sørgelige Efterretning, at Hofintendanten, Kammerherre Heidemark sidst afvigte Nat blev truffet af et apoplectisk Tilfælde, hvorefter der er lidet Haab om hans Liv. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te December 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 31. desember 1846</supplied>
+               </head>
+               <p>	For i den ny Kongebolig at kunne sætte Hans Majestæt Kongens Værelser og de dertil stødende Festivitetslocaler med derhen hørende ydre Adkomster i saadan Stand, at disse af Høistsamme kunne benyttes til Fêten allerede i næste Sommers Juli Maaned, maa der gjøres opmærksom paa at Fuldførelsen af følgende Gjenstande er afhængig af betids nok modtagendes Bestillinger fra Udlandet, nemlig: <lb/>
+                  <list>
+                     <label>1.</label>
+                     <item>Capitælerne til Portalets Søiler, hvilke ere contraherede i Berlin at leveres til Foraaret ved første aabent Vand, og </item>
+                     <lb/>
+                     <label>2.</label>
+                     <item>Gelænderet til Hovedtrappen i Vestibulen, der ligeledes er bestilt i Berlin, og at leveres her til nævnte Tid.</item>
+                  </list>
+               </p>
+               <p>	Ligeledes maa der gjøres opmærksom paa, at<hi rend="underline">Trappen</hi>  i Kongeboligens nordre Deel, som fører fra Hans Majestæts Etage ned til 1ste Etage og til Kjelderen, og hvorigjennem al Transport til Kjøkkenerne maa foregaae under Bordserveringen m. m., ikke kan gjøres færdig til den omhandlede Tid, da al Materialtransport til Loftet og Etagerne maa skee ad denne Trappe indtil Slottet bliver færdigt. Det formenes imidlertid, at den nuværende Stilladstrappe maatte kunne benyttes i den Stand den nu er for de enkelte Anledninger hvorom der kunde blive Spørgsmaal ved et midlertidigt Brug af Hans Majestæts Etage. – <lb/>
+                  <hi rend="underline">Planeringsarbeiderne</hi>  udenfor Kongeboligen, samt <hi rend="underline">Oprydning af Gaardsrummet</hi>  og <hi rend="underline">Nedtagelse</hi>  af <hi rend="underline">Plankeværkerne</hi>  kunne derimod ikke være tilendebragte forend i Aaret 1848. –</p>
+               <p>	Det øvrige Arbeide ved Indstandbringelsen af Hans Majestæt Kongens Værelser og af Festivitetslocalerne vil Commissionen derimod med al mulig Iver og Omhue søge at faae istandbragt til den angivne Tid.</p>
+               <p>	Dersom altsaa Hans Majestæt Kongen, – uanseet det Ubestemte som er forbundet med at faae Kongeboligens Hovedentrée og dens store Vestibule og Trappeopgang i brugbar Stand, i hvis Sted Høistsamme maatte benytte Biindgangen gjennem den søndre Dør, – og uanseet de øvrige berørte tilbagestaaende Arbeider  hvis Fuldførelse ikke kan skee til den bestemte Tid, alligevel naadigst maatte beslutte at benytte den omhandlede Etage ved enkelte Anledninger, saa nærer Commissionen, som anført, sikkert Haab om at kunne have Værelserne i brugbar Stand til det nævnte Øiemed. –</p>
+               <p>	Endelig har Commissionen anseet det nødvendigt at burde bemærke, at de Extraudgifter, som maatte blive forbundne med at træffe de nødvendige Foranstaltninger til en partiel Afbenyttelse af Kongeboligen ikke maatte komme til Afdrag i det Beløb, der nu har en forudbestemt Anvendelse, men at saadan tilfældig Udgift maatte blive Arbeidsfondet extraordinært godtgjort.</p>
+               <p>		––––––––––––</p>
+               <p>	Angaaende Anskaffelsen af Meublementet, saa har Commissionen besluttet, til al mulig Fremskyndelse af dette Anliggende, snarest muligt at indgaae med Forestilling til den Kongelige norske Regjering om, at Omsorgen hermed maatte underlægges en anden Administration end den hidtilværende, da Erfaring allerede har viist, at det er umuligt for Kongeboligens Bygningscommission, som hidtil ogsaa har beskjæftiget sig med Meublementet, ved Siden af dens øvrige mangehaande Forretninger, tillige tilbørlig at kunne udføre dette Hverv. –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

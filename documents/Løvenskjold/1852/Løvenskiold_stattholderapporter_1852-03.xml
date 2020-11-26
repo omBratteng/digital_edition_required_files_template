@@ -1,0 +1,414 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. januar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p>	Samme Dag havde jeg til en mindre Middag indbuden de Herrer <lb/>
+Statsraader med samtlige Expeditionssecretairer og havde derved Anledning <lb/>
+til atter at sande Høistsalig Kongens Bemærkning "que l'on traite <lb/>
+les affaires mieux après diner". Jeg benyttede nemlig Leiligheden til <lb/>
+at omtale Underhandlingerne med Rusland med Statsraad Stang og det <lb/>
+lykkedes mig at bevæge ham til at betragte disse med Sindighed og til <lb/>
+at behandle Gjenstanden med Klogskab og Forsigtighed.</p>
+               <p>	Heldigviis er Foged i Finmarken Saxlund endnu her tilstede og i <lb/>
+Nærheden have vi Foged Hauge som i flere Aar har været Embedsmand i <lb/>
+Finmarken, og af disse forstandige Mænd har Statsraad Stang nu begjært <lb/>
+alle nødvendige Oplysninger om de locale Forholde, hvorefter han maa <lb/>
+have lidt Tid til Sagens Behandling, forinden den kan foretages til <lb/>
+endelig Afgjørelse i Statsraadet.</p>
+               <p>	Foreløbig antager jeg, at vi ikke vil kunne undgaae at indrømme <lb/>
+den af den russiske Regjering saa ivrigen paastaaede Fiskeret; men at <lb/>
+det gjælder om, at opnaae Betingelser, hvorved den norske Nationalhøihed <lb/>
+kan blive betrygget i Fremtiden og at forebygge, at en Nominalitet <lb/>
+ikke skal blive en altfor trykkende Realitet. Dette er imidlertid <lb/>
+ingen let Opgave for den norske Regjering ligeoverfor den stærkere <lb/>
+Nabo, ja den har endog at kjæmpe mod constitutionelle Vanskeligheder <lb/>
+hvorom den uindskrænkede russiske Regjering ikke kan eller vil gjøre <lb/>
+sig noget Begreb. Iøvrigt har jeg ikke i den russiske Note, som jeg <lb/>
+senere har læst, kunnet finde de fornærmelige Yttringer, som oprindelig <lb/>
+have opbragt Statsraad Stang.</p>
+               <p>	Efterat Amtmanden i Hedemarken havde indberettet, at nye Samlinger <lb/>
+havde funden Sted i visse Arbeiderforeninger, befandtes det ved <lb/>
+Undersøgelse i Thranes Arrest, at denne har foranlediget disse ved <lb/>
+et Circulaire, hvoraf en Copie underdanigst vedlægges.</p>
+               <p>	Da Thrane har befordret dette Circulair ved sin Hustru, som <lb/>
+hidindtil har havt Tilladelse til at besøge ham uden Vidner, og det  <lb/>
+derhos er oplyst, at hun har bragt Brændeviin til sin Mand og hans  <lb/>
+Medfangne, saa faaer Madame Thrane nu ikke længere Adgang til sin Mand <lb/>
+i Enerum.</p>
+               <p>	Denne Foranstaltning og det i Arresten indsmuglede Brændeviin <lb/>
+foranledigede en Conflict mellem Thrane og Politiemesteren, hvorom  <lb/>
+dennes vedlagte Skrivelse giver Oplysning, hvorefter Thrane har  <lb/>
+tilskrevet ham underdanigst vedlagte latterlige Brev.</p>
+               <p>	Det er characteristisk for Lord Palmerston, at han har været et <lb/>
+Haabets Anker for Personer som Thrane.</p>
+               <p>	Gud gav os den 4de et herligt lidet Slædeføre, som sat alle <lb/>
+Slæder i Bevægelse; men som desværre allerede i Gaar blev os berøvet ved <lb/>
+en tøende Storm.</p>
+               <p>	Jeg beklager, at Deres Majestæt ikke kunde tage Hensyn paa min <lb/>
+underdanigste Forbøn for Fuldmægtig Kaltenborn. Vogt havde dog intet <lb/>
+Fortrin for ham uden det Held at være Bureauchef med en høiere Løn, <lb/>
+og Statsraad Riddervold ønskede ham bortfjernet fra Kirke Departementet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Januar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. januar 1852</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Copie</hi>.</head>
+               <opener>Til <lb/>
+Hr Politiemester Kammerherre Morgenstjerne.</opener>
+               <p>	Den ubehagelige Conflict, som jeg havde med Dem i Løverdags, og <lb/>
+hvorved jeg maa erkjende, at have forløbet mig noget, vilde ikke have <lb/>
+fundet Sted, naar jeg om Formiddagen havde vidst, hvad jeg fik vide om <lb/>
+Eftermiddagen, nemlig det Palmerstonske Ministeriums Afskeed.</p>
+               <p>	Indtil Løverdag var jeg fast bestemt paa med lige Iver at fortsætte <lb/>
+Agitationen; thi indtil da levede jeg i et sikkert Haab om et heldigt  <lb/>
+Udfald for den Sag, hvorfor jeg nu i tre Aar har stridt. Men <lb/>
+Efterretningen om det Palmerstonske Ministeriums Afskeed har paa eengang <lb/>
+tilintetgjort alle mine Forhaabninger om Demokratiets Seier, og <lb/>
+jeg er nu overbeviist om, at en Fortsættelse af Agitationen ikke vil <lb/>
+kunne bringe noget saadant Resultat, som jeg har tænkt mig.</p>
+               <p>	Umuligheden af at kunne udrette noget, bringer mig derfor nu til <lb/>
+"at tage Fornuften fangen" og begynde at tænke paa mit eget og min  <lb/>
+Families Vel. Jeg vil saaledes ikke undlade at underrette Dem om, at <lb/>
+jeg har besluttet mig til at ophøre med at agitere, hvorved jeg  <lb/>
+forstaaer, paa en lidenskabelig og ophidsende Maade at sætte Folket i  <lb/>
+Bevægelse. Jeg har hermed ikke sagt, at jeg opgiver mine Anskuelser; om <lb/>
+disses Rigtighed er jeg tvertimod mere overbeviist end nogensinde; og <lb/>
+jeg har hermed heller ikke sagt, at jeg opgiver al politisk Virksomhed, <lb/>
+men kun min forrige <hi rend="underline">Maade</hi>  at gjøre mine Anskuelser gjældende paa.</p>
+               <p>	Min Plan at forsøge en forstærket Agitation fra Drammen og Stange, <lb/>
+opgiver jeg følgeligviis ogsaa; og da jeg saaledes ikke længer <lb/>
+har noget at correspondere med Foreningerne om, kan jeg nu love paa Ære <lb/>
+og Samvittighed ikke mere at staae i skriftlig Forbindelse med Nogen, <lb/>
+saalænge jeg er i Arrest. Grunden til man har maattet nægte min Kone <lb/>
+fri Adgang til mig, ophører altsaa, og venter jeg derfor af Deres <lb/>
+Godhed, at ogsaa Virkningen ophører.</p>
+               <p>	Hvad jeg her har tilladt mig at underrette Hr Politiemesteren om, <lb/>
+agter jeg ved første givne Anledning ogsaa at sige Commissionen, da <lb/>
+jeg haaber, at saadanne Erklæringer fra min Side ikke ville blive <lb/>
+uden Indflydelse paa min Løsladelse af Arresten.</p>
+               <closer>
+                  <salute>Med Agtelse <lb/>
+    			             Ærbødigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Marcus Thrane</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania Raadhuus <lb/>
+            Arrest</placeName>
+                     <date>6 Janr. 1852</date>.</dateline>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. januar 1852</supplied>
+               </head>
+               <opener>CHRISTIANIA POLITIKAMMER <lb/>
+                  <salute>Deres Excellence</salute>
+               </opener>
+               <p>	Hoslagt oversendes underdanigen Gjenpart af den Circulairskrivelse, <lb/>
+som Thrane har ladet indgaae til Arbeiderforeningerne. Originaldocumenterne <lb/>
+ere med en Følgeskrivelse oversendte den Commission, der <lb/>
+er nedsat for at undersøge Arbeideragitationen.  Da disse Skrivelser <lb/>
+ere udgaaede ved Misbrug af den Tilladelse, der var givet Thranes  <lb/>
+Hustrue at besøge ham uden Overvær af Vidner, hvilken Tilladelse, som <lb/>
+Deres Excellence bekjendt, blev meddeelt af Justitsdepartementet, saa <lb/>
+har jeg strax suspenderet samme og herpaa erholdt Departementets <lb/>
+Approbation.</p>
+               <p>	Da jeg tilkjendegav Thrane denne min Beslutning geraadede han i <lb/>
+stort Raserie over at see sine nye Planer afslørede, og lod falde <lb/>
+de meest nærgaaende Yttringer mod Regjeringen, den nedsatte Commissions <lb/>
+Medlemmer o.s.v.  Da jeg derpaa betydede ham at han skulde tie <lb/>
+og begive sig i sin Arrest opførte han sig paa en saa upassende Maade, <lb/>
+at jeg i Medhold af min lovlige Ret over opsætsige Varetægtsfanger <lb/>
+tildeelte ham corporlig Correx.  Han har senere i en ganske ydmyg <lb/>
+Skrivelse andraget om Forandring i nogle disciplinaire Bestemmelser som <lb/>
+med Hensyn til hans Arrest vare tagne. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <lb/>
+                     <date>d. 4de Januar 1852</date>
+                  </dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+m.m. v. Løvenskiold.</closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. januar 1852</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Gjenpart</hi>.</head>
+               <p>	Min oprigtige Kjerlighed til Demokratiets hellige Sag, og min <lb/>
+Sorg over at det skal gaae tilgrunde formedelst al den Dumhed og <lb/>
+Skamløshed som i lang Tid har raadet inden vor egen Midte, gjør at <lb/>
+jeg herved tilskriver den ærede Forenings Bestyrelse, for at oplyse <lb/>
+den om, hvordan Alt hænger sammen iblandt os, og for at give et <lb/>
+godt Raad i rette Tid.</p>
+               <p>	Med inderlig Bedrøvelse har jeg fornemmet, at istedetfor Ærlighed, <lb/>
+Kjerlighed og et oprigtigt demokratisk Sindelag, hersker i vor <lb/>
+Centralbestyrelse ganske andre Følelser saasom: Had, Misundelse, <lb/>
+Egenkjerlighed, Egennytte, Forfængelighed og Indbildskhed. Istedetfor <lb/>
+at følge den i vor Tid <hi rend="underline">ene sunde</hi>  Politik, holder man sig til den  <lb/>
+gammeldags Politik, som aldrig har bragt Arbeiderne noget Godt, men blot <lb/>
+tjent til at styrke Pengemagten.</p>
+               <p>	Da jeg anbefalte Abildgaard til Foreningerne som Redacteur af <lb/>
+Bladet og Medagitator, kjendte jeg ikke dette Menneskes Characteer <lb/>
+saaledes som jeg nu gjør. Af alle hans Handlinger og Skriverier forstaaer <lb/>
+jeg tydeligt, at han er af de Folk der hengive sig til demokratisk  <lb/>
+Virksomhed ene og alene af ussel Forfængelighed, Egenkjerlighed  <lb/>
+og andre daarlige Bevæggrunde. – Man veed hvor forhadt jeg har <lb/>
+været af de Store. Intet Under altsaa, at de Store bruge alle mulige <lb/>
+Kunster, Rænker og Bagtalelser for at faae <hi rend="underline">mig</hi>  styrtet. Da nu <lb/>
+Abildgaard kom til at redigere Bladet, og kom i Forbindelse med en <lb/>
+Deel Storthingsmænd, som kaldte sig Demokrater, (men som siden have <lb/>
+viist hvorledes de have meent med det) begyndte han fra den Tid at <lb/>
+virke <hi rend="underline">imod</hi>  mig istedetfor <hi rend="underline">sammen</hi>  med mig. Han har ikke alene bagtalt <lb/>
+og nedrakket mig saavel hos Storthingsmænd som andre; men, som man <lb/>
+seer af Bladet, har han næsten i hvert andet Blad revet ned paa mig <lb/>
+og min Virksomhed, og ophøiet sig selv og sin Virksomhed. Jeg vil nu <lb/>
+ikke tale om hvor <hi rend="underline">dum</hi>  og <hi rend="underline">barnagtig</hi>  en saadan Fremgangsmaade er; thi <lb/>
+han maatte vel begribe, at Arbeiderne derved tydelig vilde gjennemskue <lb/>
+hans Daarlighed og tænke: "Hvo sig selv ophøier skal fornedres", <lb/>
+men hvor skammelig og ussel er ikke den Fremgangsmaade. Han kommer <lb/>
+til mig som Ven, og opfører sig som en Forræder. – Jeg vil just ikke <lb/>
+paastaae det, men jeg <hi rend="underline">troer</hi>, at han, for at vinde noget Stort for <hi rend="underline">sin</hi>
+                  <lb/>
+                  <hi rend="underline">Person</hi>, vil see at arbeide for at hæve det uelandske Partie til Magten, <lb/>
+hvorfor han da skulde i sin Tid faae sin store Belønning. Abildgaards <lb/>
+Politik er, efter min Mening, saa langt fra <hi rend="underline">vor</hi>  Politik, at vi, <lb/>
+ved at følge <hi rend="underline">hans</hi>  Politik, aldrig kommer videre end vi altid have <lb/>
+været, nemlig at, være Pengepartiets Tjenere og Grydeskrabere.</p>
+               <p>	Af Bladet have I seet, at Abildgaards Politik bestaaer <lb/>
+hovedsagelig i: <lb/>
+                  <list>
+                     <label>1, </label>
+                     <item>at trække dannede Mennesker til os,</item>
+                     <lb/>
+                     <label>2, </label>
+                     <item>
+                        <hi rend="underline">ikke</hi>  at hylde Socialismen,</item>
+                     <lb/>
+                     <label>3, </label>
+                     <item>
+                        <hi rend="underline">ikke</hi>  at hylde Indskrænkning i Eiendomsretten.</item>
+                     <lb/>
+                     <label>4, </label>
+                     <item>at vi skal slaae os sammen med Oppositionspartiet.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi rend="underline">Min</hi>  Politik veed man er ganske modsat, nemlig <lb/>
+                  <list>
+                     <label>1, </label>
+                     <item>
+                        <hi rend="underline">ikke</hi>  at lokke de Dannede til os, saasom det har viist sig, og  <lb/>
+viser daglig, at disse ikke kommer til os uden for at forstyrre os og <lb/>
+lære os af med vore saakaldte "vildfarende" Anskuelser.</item>
+                     <lb/>
+                     <label>2, </label>
+                     <item>At hylde <hi rend="underline">Socialismen</hi>, d.e. Læren om Frihed, Lighed og Broderskab.</item>
+                     <lb/>
+                     <label>3, </label>
+                     <item>At fordre bestemt en Indskrænkning i Eiendomsretten, saa at der <lb/>
+kan blive Adgang til Jord for den Fattige.</item>
+                     <lb/>
+                     <label>4, </label>
+                     <item>
+                        <hi rend="underline">Ikke</hi>  at slutte os til noget af de Høieres Partie, førend vi see, at <lb/>
+de byde gode Betingelser, thi hvis vi slutte os til et andet Partie, <lb/>
+er det aldeles vist, at dette vil komme til at beherske os. Vi ere <lb/>
+stærke nok i os selv, naar vi holde fast sammen, og, ligesom vi <hi rend="underline">har</hi>
+                        <lb/>
+viist, bør vi fremdeles vise, at vi kunne staae paa egne Been. –</item>
+                  </list>
+               </p>
+               <p>	See dette er Forskjellen mellem min og Abildgaards Politik. Som <lb/>
+de veed er jeg <hi rend="underline">radikal</hi>, og som de deels har seet af Bladet, deels  <lb/>
+erfaret ved Sentralmødet er Abildgaard <hi rend="underline">moderat</hi>, men Moderatismen duer <lb/>
+ikke; vi maa gjøre aldeles bestemte Fordringer og ligefrem og uden <lb/>
+Dølgsmaal sige hvad det er vi vil, thi nu er det ikke længer Tid til <lb/>
+at <hi rend="underline">svæve</hi>  hid og did som et Rør for Vinden. Næste Aar bliver ganske <lb/>
+vist et skjæbnesvangert Aar; næste Aar troer jeg det vil komme til <lb/>
+en over hele Europa almindelig Kamp mellem Demokratiet og Despotiet, <lb/>
+mellem Fattigdom og Rigdom. Da gjælder det at vor Politik har <hi rend="doubleunderline underline">fast</hi>
+                  <lb/>
+Grund at staae paa, at ogsaa <hi rend="underline">vi</hi>  han høste Nytte af den almindelige <lb/>
+Kamp. Saasnart jeg kommer ud af Fængslet, vil jeg gjøre en Reise til <lb/>
+Hedemarken, men imidlertid er det nødvendigt, saasnart som mueligt at <lb/>
+bevirke en Forandring, i vor nu saa ustøe Politik.</p>
+               <p>	For at bevirke en Forandring, der kan give os Fasthed er det <lb/>
+aldeles <hi rend="underline">nødvendigt</hi>  at der kommer en <hi rend="doubleunderline underline">ny Sentralbestyrelse nemlig paa</hi>
+                  <lb/>
+                  <hi rend="doubleunderline underline">Landet</hi>, og det af følgende Grunde: <lb/>
+                  <list>
+                     <label>1, </label>
+                     <item>Fordi Christiania Sentralbestyrelse, især saalænge Abildgaard <lb/>
+ styrer den, er mere aristokratisk end demokratisk,</item>
+                     <lb/>
+                     <label>2, </label>
+                     <item>fordi Landboerne ere de Fornemste og Fleste, altsaa dem der bør <lb/>
+ have Hovedstemmen (Byerne anseer jeg, som de veed for Kræftbylder, <lb/>
+ der<hi rend="underline">tære</hi>  paa Landdistrikterne)</item>
+                     <lb/>
+                     <label>3, </label>
+                     <item>Fordi <hi rend="underline">Landets</hi>  Interesser aldrig blive ordentlig udtalte i Bladet, <lb/>
+ og ikke kraftigt forfægtet, saalænge Bestyrelsen raader, –</item>
+                     <lb/>
+                     <label>4, </label>
+                     <item>fordi Landboerne bedst <hi rend="underline">forstaaer</hi>  hvad det er som er galt, og bedst <lb/>
+                        <hi rend="underline">føler</hi>  hvordan Forbedringerne <hi rend="underline">bør</hi>  være. (Den veed bedst hvor Skoen <lb/>
+ trykker, som har Skoen paa),</item>
+                     <lb/>
+                     <label>5, </label>
+                     <item>og endelig fordi Bestyrelsen er formeget paavirket af  <lb/>
+                        <hi rend="underline">Byearistokraterne, </hi>
+                        <hi rend="doubleunderline underline">og altfor eftersporet af Politiet</hi>. – Altsaa: der maa <lb/>
+ dannes en Sentralbestyrelse for<hi rend="underline">Landet</hi>, ved Siden af den i Byen, dog <lb/>
+ troer jeg, at ogsaa mange<hi rend="underline">Byer</hi>  ville hylde den nye Bestyrelse paa <lb/>
+                        <hi rend="underline">Landet</hi>, idetmindste tør jeg forsikkre, at den største af <hi rend="underline">alle</hi>
+                        <lb/>
+ Foreninger, nemlig Drammens, vil det, ja jeg troer ogsaa Kongsbergs og <lb/>
+ Moss og Horten.</item>
+                  </list>
+               </p>
+               <p>	Men jeg maa paalægge Eder at I gaae lidt hemmelig og forsigtig <lb/>
+tilværks for at ikke vore Planer skal hemmes. – Jeg skal give Eder <lb/>
+gode Raad om Fremgangsmaaden naar jeg faaer vide om I bifalder min <lb/>
+Plan eller ikke. Skriv derfor med første Post, men læg Brevet i <lb/>
+Covolut til Gravør Buck i Christiania og forsegl det godt. Tael ikke til <lb/>
+Nogen derom førend I faaer mit Svar.</p>
+               <p>	Din lange Artikkel i Bladet om "<hi rend="underline">Pengesystemet</hi>" forstaae I  <lb/>
+formodentlig er af mig. Det er næsten latterligt at fortælle det, men <lb/>
+jeg kan dog ikke undlade at berette Eder, at det var med Nød og Neppe <lb/>
+at jeg fik denne Artikkel ind i Bladet, thi det abildgaardske Partie, som <lb/>
+nu har Magten <hi rend="underline">her</hi>  i Byen, og altsaa over <hi rend="underline">Bladet</hi>, søger paa alle  <lb/>
+optænkelige Maader at hindre min Virksomhed. Sligt kalder jeg Skamløshed <lb/>
+og Forræderie, men de bør ligge paa sine Gjerninger. –</p>
+               <p>	Endelig maa jeg fortælle hvor nederdrægtig man handler mod mig <lb/>
+og min Familie i denne Tid, da jeg i Fængsel lider for vor fælleds <lb/>
+Sag.</p>
+               <p>	I veed, at jeg paa Sentralmødet overgav Bladet, min eneste Eiendom. <lb/>
+Dette gjorde jeg fordi jeg troede jeg var iblandt Venner og <hi rend="underline">retskafne</hi>
+                  <lb/>
+Folk. I veed at der blev bestemt, at jeg skulde have 50 Spd. maanedlig, <lb/>
+men nu kan Bladet ikke længere svare mig efter Kontrakten. Istedetfor <lb/>
+nu som retskafne Folk, at give mig Bladet tilbage, vedbliver man <lb/>
+at beholde det, uden at give mig en Skilling. De første 2 1/2 Maaned fik <lb/>
+jeg hvad jeg skulde have (thi da var den retskafne Bernh. Hansen <lb/>
+Casserer) men nu, siden en Skøier ved Navn Christoffer Olsen har <hi rend="underline">tiltaget</hi>
+                  <lb/>
+sig at være Casserer, nu faaer jeg ikke mere. Min Familie ligger nu <lb/>
+paa Christiania Fattigkasse, og selv maa jeg næsten leve af Fangekost. <lb/>
+Og saa skamløst, saa æreløst <hi rend="underline">vover</hi>  Sentralbestyrelsen at handle <hi rend="doubleunderline underline">i</hi>
+                  <lb/>
+                  <hi rend="doubleunderline underline">Foreningernes Navn</hi>! Mon virkelig Foreningerne vil bifalde Sligt, naar de <lb/>
+faaer vide Sammenhængen? Nei, Foreningerne ville vist ikke stemples <lb/>
+som Tyve og Bedragere, de ville vist ikke, at Efterslægten skal sige, <lb/>
+at de norske Foreninger opførte sig imod sin bedste Ven Thrane saa <lb/>
+skammeligt, som en Fiende ikke vilde opføre sig. Sentralbestyrelsen <lb/>
+siger vel i det sidste Blad, at den om en Tid atter vil kunne betale mig, <lb/>
+men den veed altfor vel, at Bladet <hi rend="underline">aldrig</hi>  kan skaffe mig endog kun <lb/>
+Halvparten af hvad jeg tilkommer efter Kontrakten. Bladet er meget aftaget <lb/>
+i den sidste Tid, rimeligviis fordi det bliver slet redigeret; Abildgaard <lb/>
+er nemlig en meget slet Redakteur, der intet andet forstaaer end <lb/>
+at skrive Lovtaler over sig selv og rive ned paa mig. Men nu nok herom.</p>
+               <p>	Dersom nu Bestyrelsen finder mit Forslag klogt og gavnligt, nemlig <lb/>
+at oprette en "<hi rend="doubleunderline underline">Land</hi>
+                  <hi rend="underline">-Sentralbestyrelse"</hi>  da tilskriv mig, som sagt, med <lb/>
+første Post; dog var det maaske godt, om man først sammenkaldte  <lb/>
+Foreningens Medlemmer og hørte <hi rend="underline">deres</hi>  Mening.</p>
+               <p>	Hvis mit Forslag antages, da vil jeg<hi rend="underline">flytte</hi>  til Morskoven = <lb/>
+Skovbygden for at boe der, og være med i den nye Bestyrelse. I saa Fald <lb/>
+var det godt om Bestyrelsen i Tide vilde høre efter for mig hos nogle <lb/>
+middels-Bønder, om jeg med Familie kan faae Logis, Kost, Veed og Lys <lb/>
+og Andet mod at betale en vis Sum hver Maaned. Det bemærkes, at jeg <lb/>
+har Kone, 4 Børn og en Tjenestepige. Vi ere altsaa 7 Personer. Hvis <lb/>
+nogen Bonde vilde paatage sig at have hele Familien i Kost og Logis, <lb/>
+da siig ham, at vi ikke ere vanskelige med Maden, og han maatte da <lb/>
+opgive, hvormeget han vilde have for Maaneden. Tag nu en rask Beslutning: <lb/>
+Betænk at Tiden iler; betænk at det nu gjælder at faae istand <lb/>
+en <hi rend="underline">fast</hi>, <hi rend="underline">radikal</hi>, <hi rend="underline">retskaffen</hi>  og <hi rend="underline">kjæk</hi>  Sentralbestyrelse, saa at <lb/>
+ikke Arbeidersagen skal gaae tilgrunde formedelst den nuværende <lb/>
+Bestyrelses Dumhed, Holdningsløshed og Uretskaffenhed.</p>
+               <p>	Hvorfor jeg henvender mig netop til Morskoven, Skovbygdens <lb/>
+Forening, skeer fordi jeg troer, at dersteds ere kjække, radikale Folk, <lb/>
+der vide hvad de ville, og fordi denne Land-Sentralbestyrelse da kom <lb/>
+til at blive i Midten af Landet.</p>
+               <p>	Forventende Bestyrelsens snarest mulige Svar, forbliver jeg med <lb/>
+demokratisk Hengivenhed Eders forbundne</p>
+               <closer>
+                  <signed>
+                     <persName>Marcus Thrane</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania Raadhuusarrest</placeName>
+                     <lb/>
+                     <date>den 22de November 1851</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

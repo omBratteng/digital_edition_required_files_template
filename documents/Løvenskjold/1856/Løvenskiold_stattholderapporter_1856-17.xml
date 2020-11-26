@@ -1,0 +1,124 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. april 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>		Stormægtigste Allernaadigste Konge og Herre!</opener>
+               <p>	I mit gamle Hjerte har jeg endnu et brændende Ønske, som jeg <lb/>
+vover at fremføre for Deres Majestæt, som en indstændig underdanigst <lb/>
+Bøn.</p>
+               <p>	Efter Sigende vil Deres Majestæts Minister ved det Kongelige <lb/>
+Danske Hof, Baron Lagerheim, snart drage sig tilbage og vover jeg <lb/>
+da at udbede den Naade, at Deres Majestæt naadigst vil anbetroe min <lb/>
+Søn Adam denne Post.</p>
+               <p>	Underdanigst vedlagte Liste over min Søns forskjellige <lb/>
+Tjenstgjøringer, viser, at han ikke er nye i vor diplomatiske Carrière; <lb/>
+den viser blandt Andet, at han i 1 1/2 Aar har fungeret som Chargé <lb/>
+d'Affaires i den nu attraaede Post, hvori det, paa Grund af Familie <lb/>
+Forbindelser, turde være lettere for ham at virke med Held, end for <lb/>
+nogen Anden.</p>
+               <p>	For min Søns Duelighed vover jeg at paaberaabe Høistsalig Kongens <lb/>
+naadige Vidnesbyrd, idet han benaadede ham med Nordstjerne Ordenen <lb/>
+og befalede Grev Wetterstedt tillige at meddele ham Sin naadige <lb/>
+Tilfredshed for hans i en vis Begivenhed viiste Conduite og Takt, <lb/>
+et Vidnesbyrd, som min Søn bevarer som et dyrebart Klenodie.</p>
+               <p>	Jeg vil maaskee ikke opleve den forventede Vacance, men et <lb/>
+Haab om min Bøns naadige Opfyldelse vilde i høi Grad beroelige og <lb/>
+glæde mig i min Alderdom.</p>
+               <p>	Jeg vover underdanigst at bede herom og har den Ære med dyb <lb/>
+Ærefrygt at undertegne mig</p>
+               <closer>
+                  <salute>Deres Kongelige Majestæts <lb/>
+ 					  underdanigste Tiener <lb/>
+				  og troe Undersaat</salute>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>den 14de April 1856</date>
+                  </dateline>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 14. april 1856</supplied>
+               </head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>1828. </cell>
+                     <cell>Attaché à Paris.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>1832. </cell>
+                     <cell>Legations Secretaire i Berlin fra </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>1833. til 1835 </cell>
+                     <cell>Chargé d'Affaires dersteds under Vacancen.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>1838. </cell>
+                     <cell>Interimistisk Chargé d'Affaires i Kjøbenhavn under Baron <lb/>
+Lagerheims Fraværelse til Høsten 1839 i 1 1/2 Aar.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>1840. </cell>
+                     <cell>sendt som interimistisk Chargé d'affaires til Wien under <lb/>
+Grev Løwenhjelms Fraværelse til Høsten 1841 i 1 1/2 Aar.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>1846. </cell>
+                     <cell>udnævnt til Chargé d'affaires og Generalconsul i de forenede <lb/>
+Nordamerikanske Stater.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>1851. </cell>
+                     <cell>Ministre plénipotentiaire ved det Kongelige Nederlandske Hof.</cell>
+                  </row>
+               </table>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

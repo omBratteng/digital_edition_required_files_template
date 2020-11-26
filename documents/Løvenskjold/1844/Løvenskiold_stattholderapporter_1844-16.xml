@@ -1,0 +1,86 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 4. november 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 21de forrige Maaned, <lb/>
+har jeg havt den Ære, ved forrige Post at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 28de October, hvorfor jeg nedlægger min  <lb/>
+underdanigste Taksigelse.</p>
+               <p>	Deres Majestæts naadige Ønske om tidligst muligt at modtage <lb/>
+Indstilling om næste Budget, har jeg ikke undladt gjentagende at meddele  <lb/>
+Vedkommende og tør jeg underdanigst forsikkre, at Enhver vil lade sig <lb/>
+sammes muligste Opfyldelse være magtpaaliggende.</p>
+               <p>	Uagtet Agershuus Fæstnings Commandant, som jeg senere har erfaret, <lb/>
+ved sin Adjutant havde ladet underrette Justits-Departementets  <lb/>
+Chef om de den 13de forrige Maaned i Slaveriet forefaldne Uordener <lb/>
+og de derved foranledigede Foranstaltninger, manglede jeg dog al officiel <lb/>
+Kundskab derom. Jeg beboede den 13de October endnu mit kun en <lb/>
+god halv Miil fra Byen beliggende lidet Landsted,hvor jeg af Besøgende <lb/>
+erfarede det i Fæstningen Passerede, hvorom det paa en saa kort Distance <lb/>
+havde været meget let at give mig Meddelelse, en Attention mod <lb/>
+min Embeds Stilling, som om den end ikke var skyldig, dog formeentlig <lb/>
+havde været passende og let at vise. Da jeg fremdeles formener det <lb/>
+Upassende og Urigtigt, at Deres Majestæts Statholder skal være uvidende <lb/>
+om Begivenheder, der foranledige saa alvorlige Foranstaltninger, <lb/>
+som de den 13de sidstleden i Agershuus Fæstning iværksatte, tillader <lb/>
+jeg mig underdanigst at bede Commandantskaberne paalagte, om deslige  <lb/>
+overordentlige Begivenheder at give Rigs Statholderen officiel <lb/>
+Meddelelse, foruden den, som afgives til vedkommende Regjerings- <lb/>
+Departement. Saadant formenes at være i sin Orden og vil ikke foranledige <lb/>
+synderlig Uleilighed, da overordentlige Begivenheder heldigviis sjelden <lb/>
+indtræffe.</p>
+               <p>	Jeg agter i Aften at feire Rigenes Foreningsdag ved en saa talrig <lb/>
+Bal, som min Vaaning vil tillade. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de November 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

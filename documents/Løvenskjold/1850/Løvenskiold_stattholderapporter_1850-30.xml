@@ -1,0 +1,87 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 24. juni 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p>	Jeg havde igaar den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 20de dennes og Protocol af samme Dag, i hvilken  <lb/>
+Anledning Statsraad afholdtes i Formiddag, hvorefter det Fornødne vil  <lb/>
+blive iagttaget og udført overeensstemmende med Deres Majestæts  <lb/>
+naadige Befaling.</p>
+               <p>	Endvidere besluttedes i Statsraadets Møde at udfærdige den <lb/>
+ved Dagens Post afgaaende til Deres Majestæt stilede underdanigste <lb/>
+Lykønsknings Adresse i Anledning af Hans Kongelige Høihed  <lb/>
+Kronprindsens den 19de fuldbyrdede Formæling.</p>
+               <p>	Ifølge Indberetning fra Byfogden i Drammen udbrød den 20de <lb/>
+om Morgenen Klokken 7 en Ildebrand paa Tangen, hvorved i nogle  <lb/>
+Timer lagdes i Aske omtrent 20, dog tildeels mindre Vaaningshuse, der <lb/>
+i den almindelige Brandcasse ere assurerede for omtrent 28000 Spdl. <lb/>
+uberegnet den Skade, der maa erstattes for nedrevne Bygninger med <lb/>
+Videre. Denne uheldige Begivenhed vil imidlertid for Brandcassen <lb/>
+ikke fordre nogen extraordinair Contingent, da bemeldte Casse, efter <lb/>
+Opgave fra Indre Departementet, for Tiden eier en contant Beholdning <lb/>
+af 170,000 Speciedaler. Nogen Oplysning om Ildens Opkomst haves  <lb/>
+endnu ikke, men der er ingen Formodning om nogen forsætlig  <lb/>
+Brandstiftelse.</p>
+               <p>	Ifølge Opgave fra Finants Departementet have Told-Intraderne <lb/>
+i de 5 første Maaneder af dette Aar (Finmarken uberegnet) udgjort <lb/>
+823,207 Spdl., i samme Tidsrum i 1849 udgjorde de 749,545 Spdl. Et <lb/>
+større Udbytte har kun 2 Gange før fundet Sted: i 1843 = 876,047 Spdl. <lb/>
+og i 1846: 835,681 Spdl.</p>
+               <p>	St Hans Aften, som denne Gang indtraf paa en Søndag, feiredes <lb/>
+igaar af nogle Hundrede af Arbeiderforeningens Medlemmer; men uagtet <lb/>
+de med Musik drog til sit Samlingssted, uden for Byen, forefaldt <lb/>
+ikke den mindste Uorden. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 Juni 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

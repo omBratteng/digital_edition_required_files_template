@@ -1,0 +1,150 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 6. februar 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 23de forrige Maaned.</p>
+               <p>	Jeg tillader mig at vedlægge en underdanigst Taksigelse fra <lb/>
+Bestyrelsen af det herværende Understøttelses Selskab, for Deres <lb/>
+Majestæts Naadegave sidstleden 26de Januar, som viser, hvorledes denne <lb/>
+er bleven anvendt.</p>
+               <p>	Biskoppen i Tromsøe Stift, Juuel, som har opholdt sig her denne <lb/>
+Vinter, har i den seneste Tid fra flere Stiftets Geistlige modtaget <lb/>
+Meddelelser, som røbe grundet Frygt for nye Udbrud af den blandt  <lb/>
+Lapperne herskende fanatiske religieuse Forvirrelse. Denne opægges og <lb/>
+vedligeholdes af omstreifende Emissairer, som hemmelig opfordre til <lb/>
+lignende Rædselsscener, som de, der i afvigte November Maaned bleve <lb/>
+forøvede i Kautokeino. Af Frygt for deslige har en Præst i en  <lb/>
+Lappemenighed ikke vovet at holde, men ladet aflyse den offentlige <lb/>
+Gudstjeneste. Flere Symptomer røbe den agiterede Almues Hensigt at ville <lb/>
+befrie deres fra Kautokeino til Alten henbragte arresterede Cammerader.</p>
+               <p>	Fogderne Hauge og Saxlund, som nylig ere hjemkomne fra Finmarken, <lb/>
+stadfæste i Eet og Alt disse Meddelelser, medens den civile Overøvrighed, <lb/>
+Stiftamtmand Harris, i sin sidste Indberetning af 3die Januar <lb/>
+vel yttrer Uro, men dog ikke Frygt for nogen overhængende Fare, <lb/>
+hvilket imidlertid kan have sin Grund deri, at han, da han skrev, <lb/>
+endnu ikke havde Kundskab om de Begivenheder, der have foranlediget <lb/>
+de ommeldte senere Meddelelser.</p>
+               <p>	Disse Omstændigheder var sidste Fredag Gjenstand for et <lb/>
+overordentligt Statsraad, hvori vi alle blev enige om Nødvendigheden af, <lb/>
+uden Ophold, ved en passende militair Styrke at afværge nye Ulykker <lb/>
+og opretholde den offentlige Rolighed paa det truede Punkt. Ifølge <lb/>
+heraf besluttede Regjeringen, i Haab om Deres Majestæts naadige Bifald, <lb/>
+at lade 50 Mand af Trondhjems Garnison med fornøden Befaling <lb/>
+afgaae med det derfra den 13de denne Maaned til Alten afgaaende  <lb/>
+Dampskib, hvorom gjennem Commandoen tildeeltes Generalmajor Thorne Ordre <lb/>
+ved Coureer. Om jeg ved denne nødvendige Foranstaltning skulde have <lb/>
+noget at bemærke, saa er det, at jeg formener det havde været rigtigere <lb/>
+at sende et heelt end et halvt Compagnie.</p>
+               <p>	Biskop Juel tiltræder i Morgen sin Tilbagereise til Tromsøe.</p>
+               <p>	Jeg kan ikke forlade denne Materie, uden underdanigst at bemærke, <lb/>
+at efter alle norske geistlige og civile Embedsmænds eenstemmige  <lb/>
+Anskuelse, er den svenske Grændsepræst Læstadius den egentlige Ophavsmand <lb/>
+til den fanatiske Forvildelse i Finmarken, den han endog efter <lb/>
+Rædselsscenerne i Kautokeino ivrigen søger at vedligeholde.</p>
+               <p>	Næste Post vil medføre Regjeringens underdanige Indstilling om <lb/>
+naadigst Bemyndigelse til at sætte et af Statens Dampskibe i Fart <lb/>
+imellem Hammerfest og Vardøe i Finmarken, foranlediget af de nylig <lb/>
+derfra retournerede Commissarier Hauge og Saxlund. Denne Indstilling <lb/>
+indeholder interessante Oplysninger om Finmarken og om Nødvendigheden <lb/>
+i commerciel og politisk Henseende at styrke Forbindelsen imellem <lb/>
+denne interessante Provinds og det øvrige Rige.</p>
+               <p>	Efterretningerne om Sildefiskeriet ere hidindtil, Gud skee Tak, <lb/>
+gode og lovende.</p>
+               <p>	I de sidste nær 14 Dage har Forsynet forundt os et stadigt <lb/>
+Vinterveir med Slædeføre og en maadelig Kulde. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te Februar 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 6. februar 1853</supplied>
+               </head>
+               <opener>Deres Excellence <lb/>
+Norges Statholder</opener>
+               <p>	I det undertegnede Bestyrelse herved giver sig den Ære at <lb/>
+meddele, at den ifølge Deres Excellences Anwiisning af Hans Majestæt <lb/>
+Kongens Kasse til Selskabet skjænkede Gave af 100 Spd er fordeelt <lb/>
+paa følgende Maade: <lb/>
+                  <table rend="noBorder">
+                     <row>
+                        <cell>Til Lemmerne paa Carl Johans Stiftelse . . . . . . . .</cell>
+                        <cell> 4 Spd</cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>Til Beklædning af 49 Børn . . . . . . . . . . . . . .</cell>
+                        <cell> 57 " 28 s.</cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>Til Uddeling af Brænde til 22 Familier og enkelte Personer . . . . . . .</cell>
+                        <cell>  37 " 92 "</cell>
+                     </row>
+                  </table>
+                  <lb/>
+tillader man sig erbødigst at anmode Deres Excellence om for Hans <lb/>
+Majestæt Kongen at frembære Bestyrelsens underdanigste Tak for <lb/>
+dette fornyede Beviis paa Allerhøistsammes Godhed og Velvillie for <lb/>
+Selskabet.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName> i Bestyrelsen for Understøttelsesselskabet <lb/>
+                     <date>den 26e Januar 1853</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Henriette Wegner</persName>.  <persName>Julie Wedel-Jarlsberg</persName>.  <persName>Emilie Blich</persName>. <lb/>
+                     <persName>Elise Finne</persName>.  <persName>Hanna Lorch</persName>.  <persName>Hedevig Hariboe</persName>. <lb/>
+                     <persName>J.H.Krog</persName>.  <persName>A.H.Fangen</persName>.  <persName>Peter Schreiner</persName>.  <persName>F.I.Haslund</persName>
+                     <lb/>
+                     <persName>D.N.Barth</persName>.  <persName>C. Morgenstierne</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 11. april 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Indberetning!</head>
+               <p>	Siden min sidste underdanigste Rapport af 1ste denne Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 29de forrige Maaned, hvoraf jeg med Glæde erfarer, at vi tør <lb/>
+vente den Lykke at see Deres Majestæt her i Løbet af August Maaned.</p>
+               <p>	Siden min sidste underdanige Rapport er Intet omhandlet i <lb/>
+Statsraadet eller indtruffet i det daglige Liv, som fortjener Deres <lb/>
+Majestæts særdeles Opmærksomhed.</p>
+               <p>	Vort skjønne Vinterføre ophørte alt for tidligt for vor indre <lb/>
+Rørelse; I lang Tid have vi havt et stadigt klart Veir, men Foraar <lb/>
+vil vi neppe faae, før efter nogen vaad Nedbør, den Gud give os  <lb/>
+betimelig! Iiserne ligge endnu rundt omkring, som vedligeholder en <lb/>
+kjølig Temperatur; men Indseilingen til Havnen er aaben. Mange <lb/>
+danske Kornskibe ere ankomne, hvilket stadfæster den Formening, at <lb/>
+de høie Kornpriser, som de endnu vide at vedligeholde, – mere maa <lb/>
+tilskrives kunstige Maneuvre end naturlige Aarsager.</p>
+               <p>	Vor Tid er riig paa forskjellige Onder, hvoraf et aldeles nyt <lb/>
+viser sig i Byen Risøer, hvor et Par fra Danmark ankomne Mormoner <lb/>
+have foranlediget denne slemme Sectes Smitte blandt den lavere  <lb/>
+Folkeklasse, og hvor nu en Smed vil optræde som Mormonpræst.</p>
+               <p>	Paa sidste Tour fra Trondhjem til Bergen stødte Dampskibet <lb/>
+Constitutionen paa Grund i Alverstrømmen, og blev saa betydelig  <lb/>
+beskadiget, at det kun under Brugen af begge Pumper, kunde bringes til <lb/>
+Horten, hvor det maa landsættes, for at repareres. Skibet stod, – <lb/>
+da det stødte, under Lods Commando og gik i sin sædvanlige Cours; <lb/>
+men Lodsen maa ikke have taget tilbørlig Hensyn til, at Vandet, da <lb/>
+Uhælden indtraf, var usædvanligt lavt. Mangen anden Constitution har <lb/>
+faaet tidligere Skade end dette endnu gode gamle Skib, som efterat <lb/>
+være repareret, er bestemt til at fare anstundende Sommer imellem <lb/>
+Christiania og Kiel. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d; 11te April 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

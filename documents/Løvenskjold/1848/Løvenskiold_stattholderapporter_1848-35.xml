@@ -1,0 +1,91 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 18. september 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p>	Finants Departementet har vel ikke modtaget nogen Beretning fra <lb/>
+Borgemester Bretteville og Generalconsul Faye angaaende Laanesagen, men af <lb/>
+privat Brev fra Bretteville til Statsraad Vogt sees, at det mindre er at <lb/>
+betvivle, at Laan vil erholdes, end at Vilkaarene ville blive taalelige. <lb/>
+Disse synes at ville blive af den Beskaffenhed, at de ikke kunne kaldes <lb/>
+overdrevent haarde, om det var Tilfældet, at Laan skulde optages, for <lb/>
+at dække Statscassens Udgifter under Omstændigheder, da formedelst Krig <lb/>
+eller andre Uheld enten Udgifterne oversteg eller Indtægterne gik under <lb/>
+det Sædvanlige. Men anderledes maa nærværende Laanesag betragtes. Den <lb/>
+laante Sum skal efter den af Storthinget givne Bemyndigelse, efterat <lb/>
+deraf er udredet det Fornødne til at dække de ved midlertidig Credit <lb/>
+tilveiebragte 600,000 Speciedaler, – anvendes til Udlaan, fortrinsvis mod <lb/>
+betryggende Pant i faste Eiendomme og med Hensyn til denne Anvendelse er <lb/>
+det foreskrevet, at, ved Laanets Optagelse, skal det paasees, at  <lb/>
+Statscassen intet Tab kommer til at lide, hvilket bliver vanskeligt paa <lb/>
+Forhaand at bestemme. Det er paa Grund heraf ikke umuligt, at man kommer til <lb/>
+at optage to Laan, og af disse det ene til Dækkelse af de 600,000  <lb/>
+Speciedaler, om end Vilkaarene maatte synes byrdefulde, og det andet for at <lb/>
+tilveiebringe Fonds til nye Udlaan. Med dette sidste Laans Afslutning vil <lb/>
+det ikke haste saameget med for det første.</p>
+               <p>	Den norske Statscassens gamle Kunde, Hofraad Hambro, bliver <lb/>
+sandsynligviis den, med hvem man kommer til at afslutte Laanene, og der er <lb/>
+Anledning til at troe, at de Banquiers i Hamburg og Altona, som kunde være <lb/>
+at handle med i denne Sag, ere i Forstaaelse med ham. Det tør forresten <lb/>
+indtræffe, at for nogen Deel norske Statsobligationer vil finde Afsætning <lb/>
+i Kjøbenhavn, og sammesteds kunne anbringes uden at henhøre til noget  <lb/>
+for en større Sum omcontraheret Laan.</p>
+               <p>	Bretteville og Faye vare den 12te dennes i Hamburg, og agtede næste <lb/>
+Dag at fortsætte Reisen videre. De have gjennem Bretteville begjært <lb/>
+sig meddeelt adskillige Oplysninger og Beregninger samt i visse Punkter <lb/>
+Formening underhaanden om hvad man skulde kunne gaae ind paa ved <lb/>
+Afslutning af Laanet.</p>
+               <p>	Veiret vedbliver at begunstige Indbjergningen og Beretningerne fra <lb/>
+det sydlige Partie af Landet giver fremdeles Haab om en god Høst. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 September 1848</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>N. J. Krog.</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 7. desember 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 27de forrige maaned.</p>
+               <p>	Blandt de senest naadigste udnævnte Riddere af St Olafs Ordenen, <lb/>
+befindes kun 2de her paa Stedet, til hvem jeg kunde overlevere Ordenens <lb/>
+Decoration paa den i dens Statuter foreskrevne Maade, nemlig <lb/>
+Høiesterets Assessor Ottesen og Kammerherre Oberstlieutenant Sørenssen; <lb/>
+Den sidstnævnte modtog Ordens Decorationen den 3die denne Maaned, <lb/>
+hvorimod jeg ved Ordenens Ceremoniemester lod den oversende til Assessor <lb/>
+Ottesen, som var forhindret fra at afgive personligt møde.</p>
+               <p>	Igaar foredroges i Statsraadet Finants Departementets Indstilling <lb/>
+om Hypothekbankens Organisation uden at tilendebringes. Der udfordres <lb/>
+ogsaa en modern Kunst til med 1/2 Million Valuta at skabe 4 Millioner. <lb/>
+Denne Sags Behandling har været udsat med Hensyn paa Generalconsul <lb/>
+Fayes meget alvorlige Sygdom, som er en Følge af hans nylige besværlige <lb/>
+Reise, men som i de seneste Dage har taget en bedre Vending.</p>
+               <p>	I en med Morgenposten afgaaende underdanigst Indstilling betræffende <lb/>
+Byfoged Embedet i den lille Kjøbstad Drøbak, med en aarlig Indtægt <lb/>
+af 5 a 600 Spdl., vil Deres Majestæt finde den Dissents, at <lb/>
+Statsraad Krog og jeg underdanigst indstille Fuldmægtig i Finants <lb/>
+Departementet Kaltenborn til at erholde dette Embede, medens Regjeringens <lb/>
+øvrige Medlemmer, indstille Bureauchef i Kirke Departementet Vogt.</p>
+               <p>	Alle ere enige om, at begge de benævnte Candidater ere dygtige <lb/>
+for Embedet og at de i formel Henseende ere lige. Det er saaledes <lb/>
+Kaltenborns høist trængende Stilling, som har bevæget Statsraad Krog <lb/>
+og mig til at stemme for ham, og som vi underdanigst bede Deres  <lb/>
+Majestæt om at ville tage i naadig Betragtning.  Han er en Søn af den <lb/>
+pensionerede Oberst Kaltenborn, der lever i Armod; han har Hustru og <hi rend="underline">5</hi>
+                  <lb/>
+                  <hi rend="underline">Børn</hi>  med den utilstrækkelige Løn 320 Spdl., medens Bureauchef Vogt <lb/>
+kun har 1 Barn og 500 Spdl. Gage.</p>
+               <p>	Da jeg intet mere har at indberette vover jeg underdanigst at <lb/>
+bringe Kroningssagen i Deres Majestæts naadige Erindring.</p>
+               <p>	Da sidste Storthing har bevilget de til Kroningen nødvendige <lb/>
+Midler og udnævnt sin Deputation til at overvære den; da denne  <lb/>
+grundlovmæssige Acts Fuldbyrdelse uden Tvivl er et almindeligt Folkeønske; <lb/>
+da 7 Deres Majestæts Regjeringsaar ere henrundne uden at Deres Majestæt <lb/>
+er kronet som Norges Konge, synes Sagen nu at være kommet i den <lb/>
+Stilling, at Kroningen bør iværksættes næste Aar eller aldrig. At <lb/>
+bestemme sig for det sidste Alternativ, eller ved yderligere Udsættelse <lb/>
+endog kun at foranledige Formodning herom, forekommer mig betænkeligt <lb/>
+og utilraadeligt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7de December 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

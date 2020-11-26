@@ -1,0 +1,95 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. april 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>Stormægtigste Allernaadigste Konge!</opener>
+               <p>	Deres Majestæts naadige Skrivelse af 2den denne Maaned har <lb/>
+rørt mig dybt og jeg iler med derfor at frembære min lige hjertelige <lb/>
+som underdanige Taksigelse.</p>
+               <p>	Jeg er visselig ikke ubevægelig mod min Konges, mod Deres Majestæts <lb/>
+naadige Ønsker, der nu som stedse have samme Gyldighed for mig <lb/>
+som Befalinger, forsaavidt mine Kræfter tillade mig at opfylde dem, <lb/>
+og det er kun Erfaringen om, at dette ikke længere er Tilfældet, under <lb/>
+mit ansvarsfulde Kald's Udførelse, som efter alvorlig Selvprøvelse <lb/>
+har paalagt mig den Pligt at bede mig naadigst entlediget derfra. <lb/>
+Mine Sjæleevner ere, saavidt jeg selv kan bedømme dem, Gud være <lb/>
+lovet, usvækkede; men mine legemlige Kræfter ere svækkede, min <lb/>
+Helbred, især denne Vinter, lidende, og jeg har erfaret, at i denne <lb/>
+Verden er Legemet Menneskets Hovedsag, fordi de legemlige Kræfters <lb/>
+Styrke og Velbefindende have mere Indflydelse paa Sjælen end omvendt. <lb/>
+Med denne Erfaring, i denne Stilling, maa jeg fremdeles føle mig <lb/>
+forpligtet til at trække mig tilbage fra mit ansvarsfulde Kald, for <lb/>
+hvis samvittighedsfulde Opfyldelse mine svækkede Kræfter ikke længe <lb/>
+mere ville være tilstrækkelige.</p>
+               <p>	Overgangen fra den ene til den anden Stilling, vil være piinlig. <lb/>
+Jeg betragter den som en smertelig Operation, den jeg underkaster <lb/>
+mig, for om det er Forsynets Villie, at friste en Stund et gammelt <lb/>
+udlevet Liv, hvorunder jeg høieligen vil savne de naadige fortroelige <lb/>
+Meddelelser, hvormed Deres Majestæt har havt den Naade i en lang <lb/>
+Aarrække at beære mig. Jeg vil med veemodigt Hjerte skilles fra Deres <lb/>
+Majestæt, min elskede Konge.</p>
+               <p>	Om Gud endnu vil forunde mig noget længere Liv, ønsker jeg at <lb/>
+tilbringe og slutte det paa Fossum, som jeg ønsker at tilflytte <hi rend="underline">i</hi>
+                  <lb/>
+                  <hi rend="underline">anstundende September Maaned</hi>, før den værste Aarstid indtræder, og jeg <lb/>
+vil da kunne give mig det Vidnesbyrd, at jeg med Troskab og Nidkjærhed <lb/>
+har tjent min Konge og mit Fædreneland, saalænge mine Kræfter <lb/>
+tillod det.</p>
+               <p>	Da Deres Majestæt naadigst tillader mig at yttre mig om mit <lb/>
+Embedes tilkommende Bestyrelse, vover jeg, at udtale den faste  <lb/>
+Overbeviisning: at dette ikke <hi rend="underline">uden Fare kan henstaae ubesat</hi>, og at jeg, <lb/>
+under Nutidens Forholde, ikke kan øine noget andet hensigtsmæssigt <lb/>
+Middel for de norske Anliggenders paalidelige og værdige Bestyrelse, <lb/>
+end ved at sætte Hans Kongelige Høihed Kronprindsen i Spidsen derfor, <lb/>
+som Vice-Konge. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>den 8de April 1855</date>
+                  </dateline>
+                  <salute>	Jeg har den Ære med dybeste <lb/>
+                                    Ærefrygt at undertegne mig <lb/>
+    								Deres Majestæts <lb/>
+    							allerunderdanigste Tiener <lb/>
+    							  og troe Undersaat</salute>
+                  <lb/>
+    									Løvenskiold</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

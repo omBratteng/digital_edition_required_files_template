@@ -1,0 +1,99 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 29. juni 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 19 denne Maaned.</p>
+               <p>	Den 22de havde jeg den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 19de, hvorfor min underdanige Taksigelse nedlægges.</p>
+               <p>	Formaalet for disse Linier, som ville inløbe den 3die Julii, er <lb/>
+at fremføre mine underdanigste og hjerteligste Lykønskninger til den 4de. <lb/>
+Gud holde sin beskyttende Haand over Deres Majestæt og det Kongelige <lb/>
+Huus! og forunde Deres Majestæt den Tilfredsstellelse, endnu en lang <lb/>
+Række af Aar at see denne tvende Folks Kongelige Festdag feires af dem <lb/>
+med de samme hjertelige og taknemmelige Følelser, som nu. Alle mine have <lb/>
+bedet mig om at nedlægge deres underdanigste Ønsker for Dagen tilligemed <lb/>
+mine egne. Da mit lille Landsted ikke egner sig til en Fest, maa <lb/>
+jeg flytte ind til Byen, for at feire Dagen med en Middag for 72 Couverts, <lb/>
+det største Antal, som kan rummes i Stiftsgaarden.</p>
+               <p>	En Storthings Deputation overbragte i Statsraad i Gaar 2de <lb/>
+Beslutninger til Love om Brændeviinsbrænden og om Lensmænds fremtidige <lb/>
+Udnævnelse, som vil blive Deres Majestæt underdanigst forelagte,  <lb/>
+efterat være overveiede.</p>
+               <p>	Betræffende sidstnævnte Beslutning tillader jeg mig underdanigst <lb/>
+at referere til min Rapport af 28de April. De deri yttrede Anskuelser <lb/>
+deles, saavidt jeg senere har erfaret, af alle fornuftige Mænd i og <lb/>
+udenfor Storthinget. Saaledes yttrede Ordføreren for den Deputation, <lb/>
+som overbragte Lovbeslutningen, Sorenskriver Garmann, confidentielt for <lb/>
+en Statsraad "Ifølge Grundlovens 76te Paragraph er det min Pligt at <lb/>
+udbede Kongelig Sanction til denne Lovbeslutning, men jeg ønsker  <lb/>
+oprigtig, at den ikke maa gives." –  </p>
+               <p>Den 26te denne Maaned tiltraadte General Wedel sin lange og besværlige <lb/>
+Inspections-Reise til Lands til Trondhjem, derfra til Hammerfest i  <lb/>
+Dampskib og derfra til Wardøehuus <hi rend="underline">i Baade</hi>. I vort kjære Land bydes ikke <lb/>
+høie sædvanlig gamle Embedsmænd de bequemmere Befordringsmidler, som <lb/>
+i mange andre Europas Lande.</p>
+               <p>	Den 27de reiste Grevinde Wedel med sine og mine 2de Børnebørn <lb/>
+paa en 14 Dage til Jarlsberg.</p>
+               <p>	Vel mærker jeg, at mange Storthingsmænd, som ikke fristes af <lb/>
+Diætpengene, begynde at længes efter Opløsning; men jeg tør dog ikke <lb/>
+troe, at denne vil kunne finde Sted før i September Maaned. Imidlertid <lb/>
+vover jeg underdanigst at bede mig naadigst underrettet om, naar jeg <lb/>
+tør vente den Lykke, at modtage Deres Majestæt her, hvorefter jeg bør <lb/>
+rette mit eget Ønske om, nogen Gang under Sommerens Løb at besøge  <lb/>
+Fossum. Om Deres Majestæts naadige Nærværelse, som jeg haaber, maatte <lb/>
+indtræffe endnu i den gode Aarstid, skulde jeg underdanigst tilraade <lb/>
+at beboe Ladegaardsøen som er vakkert og logibelt, ja jeg troer <lb/>
+bequemmere end det Kongelige Palais i Byen.</p>
+               <p>	Vi trængte til Regn, som vi i de senere Dage have faaet i saa <lb/>
+megen Overflødighed, at vi nu længes efter Ophold og Varme.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 29 Juni 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen, <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

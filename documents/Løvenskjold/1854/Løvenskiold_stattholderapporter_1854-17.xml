@@ -1,0 +1,103 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 26. mars 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p>	Jeg tillader mig herved underdanigst at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa en med Morgen Posten herfra afgaaende  <lb/>
+underdanigst Indstilling om Avancement i Artillerie Brigaden i Anledning <lb/>
+af Generaladjutant Kroghs Afsked.</p>
+               <p>	Det er, saavidt mig bekjendt, første Gang, at Deres Majestæts <lb/>
+Statsraad eenstemmig har erklæret sig imod de militaire Autoriteters <lb/>
+Indstilling om et militairt Avancement, og jeg erindrer aldrig, saa <lb/>
+megen Anledning dertil, som i denne Begivenhed.</p>
+               <p>	Artillerie Brigadens Chef, Generalmajor Meydell har indstillet <lb/>
+Oberstlieutenant Rehbinder til Chef for den her garnisonerende Artillerie <lb/>
+Bataillon, og Oberstlieutenant Collin til Chef for den Throndhjemske <lb/>
+Artillerie Bataillon, hvilket tiltrædes af Alle, – hvorimod <lb/>
+vi ikke kunne tiltræde hans Indstilling om at udnævne Major Fleischer <lb/>
+til Chef for den Frederiksstadske 3die Artillerie Bataillon, <hi rend="underline">med</hi>
+                  <lb/>
+                  <hi rend="underline">Forbigaaelse af de ældre Batterie Chefer, Capitainerne Scheel og Fischer</hi>.</p>
+               <p>	Om General Meydell havde motiveret denne Forbigaaelse ved den <lb/>
+hans Anskuelse, at han anseer Fleischer <hi rend="underline">dygtigere</hi>  end Scheel og Fischer, <lb/>
+vilde vi kunne have respecteret denne hans militaire Bedømmelse; <lb/>
+men vi kunne ikke underskrive hans Fordømmelse over de 2de sidstnævnte <lb/>
+Officierer, som vi tvertimod maa ansee vilkaarlig og uretfærdig. <lb/>
+Begge ere af Deres Majestæts Regjering og den store Almeenhed kjendte <lb/>
+som værdige og dygtige Officierer, som General Meydell ikke ved et <lb/>
+Magtsprog kan gjøre udygtige. Deres Majestæt har for ikke længe siden <lb/>
+givet Capitaine Scheel en offentlig naadig Anerkjendelse af hans <lb/>
+Fortjeneste for Artillerie-Vaabenet og efterat General Meydell selv har <lb/>
+foreslaaet Capitaine Fischer til at være Medlem af den vigtige  <lb/>
+Commission, som undersøger og bedømmer de Thraneske Agitationer, er det <lb/>
+visselig paafaldende, at han nu vil fraskrive ham almindelige Aandsevner.</p>
+               <p>	For at have en sikker Støttepunkt for mig selv, har jeg fortroeligen <lb/>
+udbedet mig General Wedels og Generaladjutant Kroghs sagkyndige <lb/>
+Formening, og begge erklære Capitainerne Scheel og Fischer dygtige og  <lb/>
+fuldt qvalificerede til at være Bataillons Chefer, og deres Forbigaaelse <lb/>
+maatte da opvække en velgrundet ubehagelig Sensation.</p>
+               <p>	Under disse Omstændigheder føler jeg mig forpligtet til underdanigst <lb/>
+at bede Deres Majestæt, at ville naadigst bifalde Regjeringens <lb/>
+underdanigste Indstilling om at udnævne Capitaine Scheel til  <lb/>
+Oberstlieutenant og Chef for 3die Artillerie Bataillon.</p>
+               <p>	General Meydells totale Blindhed vil snart gjøre hans Afgang <lb/>
+nødvendig og da vil det uden Tvivl vise sig, at der med god Grund <lb/>
+gjøres andre Fordringer paa en Brigadechef end paa en Bataillonschef; <lb/>
+thi sandt er det gamle Ordsprog: "Tel qui brille en second rang s'éclipse <lb/>
+au premier." Jeg vilde have mindre Betænkelighed ved at forbigaae <lb/>
+Mænd som Scheel og Fischer til Brigadechef end til Bataillonchef, <lb/>
+hvortil de efter alle Sagkyndiges Dom, undtagen General Meydells, – <lb/>
+ansees fuldkommen qvalificerede. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 Marts 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

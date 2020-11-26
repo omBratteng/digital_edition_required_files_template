@@ -1,0 +1,65 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 4. desember 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 20de forrige Maaned.</p>
+               <p>	Af Deres Majestæts naadige Skrivelse af 26de forrige Maaned har jeg med Glæde erfaret Hendes Majestæt Dronningens lykkelige Tilbagekomst og Hans Kongelige Høihed Prinds August's Bedring hvortil jeg tillader mig underdanigst at lykønske. For Hans Kongelige Høihed Prinds Gustavs naadige venlige Erindring, takker jeg underdanigst.</p>
+               <p>	Deres Majestæts ved sidste Post modtagne naadige Befaling betræffende Stiftelsen af en norsk Orden, er overdraget til det Kongelige Justits-Departements Behandling som uden Tvivl vil behøve Oplysninger af sagkyndige Mænd i Stockholm, forinden underdanigst Indstilling om Statutter med mere for Ordenens Organisation vil kunne gjøres.</p>
+               <p>	Da de løbende Forretninger ikke levne Tid til at behandle Unionscommitteens Forslag til en Foreningsact i de sædvanlige 2de ugentlige Statsraads Sessioner have vi hertil bestemt særskilte. Regjeringens Medlemmer samles saaledes nu 2de Formiddage ugentlig i Statsraad og Ugens øvrige 4 Dage hver Eftermiddag fra Klokken 5 til 9 à 10, for at discuttere om den foreslaaede Førenings-Act.</p>
+               <p>	Dette kan man rigtig kalde "Winternøye"!</p>
+               <p>	I 7 Sessioner have vi gjennemgaaet 40 §er af Forenings-Acten som bestaaer af 150 §er. Hvor lang Tid vil Storthing og Stænder behøve!</p>
+               <p>	Jeg beklager, at Statsraad Holst's ved hans sidste Sygdom svækkede Kræfter, endnu ikke tillade ham, at deeltage i Forretninger.</p>
+               <p>	Da jeg i min underdanigste Rapport af 16de forrige Maaned tillod mig at nævne, at Christiania Bye til sædvanlig Vinterforsyning den Gang manglede 2400 Tønder Ruug, er det mig behageligt nu at kunne underdanigst indberette at hertil senere er indført 4,168 Tønder af denne Kornsort. Vistnok vil Brødkurven denne Vinter hænge høit; men den er dog, Gud være lovet! ikke tom, hvilket er en af de største Ulykker, som jeg af Erfaring kjender. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de December 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

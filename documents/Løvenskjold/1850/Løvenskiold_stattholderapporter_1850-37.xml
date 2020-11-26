@@ -1,0 +1,112 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 30. september 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>Ved det idag foretagne Storthingsvalg for Christiania ere udvalgte:</p>
+               <table>
+                  <head> 			Til Storthingsmænd.</head>
+                  <lb/>
+                  <row>
+                     <cell>1o	</cell>
+                     <cell>Professor Schweigaard	</cell>
+                     <cell>med 25 Stemmer. </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2o	</cell>
+                     <cell>Kjøbmand Houge		</cell>
+                     <cell>  ”  25  ” </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3o	</cell>
+                     <cell>Amtmand Møinichen		</cell>
+                     <cell>  ”  19  ” </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4o	</cell>
+                     <cell>Stadshauptmand Ytteborg	 </cell>
+                     <cell> ”  14  ” </cell>
+                  </row>
+               </table>
+               <table>
+                  <head>			Til Suppleanter: </head>
+                  <lb/>
+                  <row>
+                     <cell>1o	</cell>
+                     <cell>Garver Schou			</cell>
+                     <cell>med 22  “ </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2o	</cell>
+                     <cell>Byfoged Thrap		</cell>
+                     <cell>  “  14  “ </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3o	</cell>
+                     <cell>Statsrevisor Daa		</cell>
+                     <cell>  ”  13  ” </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4o	</cell>
+                     <cell>Borgemester Fougstad	</cell>
+                     <cell>  ”  12  ” </cell>
+                  </row>
+               </table>
+               <p>	Dette har jeg troet at burde underdanigst indberette.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30 September 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

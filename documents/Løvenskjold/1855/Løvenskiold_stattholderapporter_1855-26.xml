@@ -1,0 +1,83 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 13. september 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Jeg beklager, at jeg skal begynde denne min første underdanigste <lb/>
+Rapport siden Deres Majestæts Afreise herfra med Meddelelsen om <lb/>
+en meget sørgelig Begivenhed.</p>
+               <p>	De 2de, et Bergensk Interessentskab tilhørende Dampskibe <lb/>
+"Bergen" (160 Hestes Kraft) og "Norge" (160 Hestes Kraft), havde Natten <lb/>
+til den 10de, i Nærheden af Oxø, et Sammenstød, hvorefter "Norge" <lb/>
+øieblikkelig sank og "Bergen" indbragtes synkefærdig til Christiansand. <lb/>
+"Norge" var udgaaende fra Christiansand til Hamburg; – "Bergen" <lb/>
+indgaaende fra Hamburg til Christiansand.</p>
+               <p>	Af Besætningen, der med Passagerer udgjorde omtrent 80 Personer, <lb/>
+er kun det halve Antal bleven reddet; de øvrige druknede. Nærmere  <lb/>
+Oplysninger ville først kunne erholdes, naar Dampskibet "Bergen" har <lb/>
+sluttet sin Qvarantaine.</p>
+               <p>	Statsraad Vogt er igaar rammet af et haardt Familietab, idet <lb/>
+hans Datter, gift med Artillerie Capitaine Scheel, pludselig døde, <lb/>
+45 Aar gammel, af et Slag, efterladende Mand og 11 Børn.</p>
+               <p>	Iøvrigt vides Intet passeret, som fortjener Deres Majestæts <lb/>
+naadige Opmærksomhed.</p>
+               <p>	Veiret har siden Deres Majestæts Afreise, med enkelte Afvexlinger, <lb/>
+været vakkert og gunstigt for Kornbjergningen; men beklageligviis <lb/>
+staaer ikke lidet Korn endnu umodent, som en Følge af det sidste <lb/>
+vaade og kolde Foraar.</p>
+               <p>	Deres Majestæts hastige og lykkelige Tilbagereise glædede mig <lb/>
+usigelig. Jeg har siden Deres Majestæts Afreise besøgt Oscarshall een <lb/>
+Gang og fandt det lige vakkert, men forladt af dets Sjæl og Hjerte og <lb/>
+sørgende som vi Andre. Det venlige Kongeflag, de hyggelige Lys ere <lb/>
+forsvundne; det er mørkt paa Oscarshall og Holgerslyst. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 13de September 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

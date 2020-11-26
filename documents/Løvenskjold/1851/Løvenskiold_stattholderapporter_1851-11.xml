@@ -1,0 +1,678 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 28. mars 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p>	Først igaar modtog jeg fra Justits Departementet underdanigst <lb/>
+vedlagte Copie af Stiftamtmand Arntzens Indberetning om de i Trondhjem <lb/>
+den 14de og 15de denne Maaned stedfundne grove og voldsomme <lb/>
+Optrin samt om en trodsig Optræden af Almuen ved en Retshandling i <lb/>
+Sønder Trondhjems Amt's Landdistrict. Jeg troer at burde fremsende <lb/>
+disse Indberetninger, omendskjønt de som forsinkede ikke mere kunne <lb/>
+have nogen Interesse. Senere har jeg Intet videre hørt fra Trondhjem.</p>
+               <p>	Begge disse Begivenheder vidne desværre om den beklagelige og <lb/>
+fordærvede Aand, som er bleven udbredt i Almueclassen i Bye og i <lb/>
+Bygd. Denne Aand er bleven opvakt og vedligeholdt af Avispressen og <lb/>
+lumpne Agitatorer og den har desværre funden Medhold i vore Storthings <lb/>
+Færd og Holdning.</p>
+               <p>	Aviserne give daglig de mange Taler, som i den Sexiske Sag ere <lb/>
+holdte i Storthinget. De Herrer Holst og Lerche formene at Kongsberg <lb/>
+Sølvværk eies af et Participantskab, som kaldes Storthing, hvis <lb/>
+Befalinger blindt skal adlydes af Hans Majestæt Kongen som  <lb/>
+Participantskabets Forvalter. Om dette kan udledes af Grundlovens <lb/>
+19de §, da maa jeg høieligen beklage, at Constituenternes Mening ikke er <lb/>
+bleven rigtig udtrykt, thi vor Grundtanke var, at Regjeringsformen <lb/>
+skulde være monarchisk; men hiin Anskuelse er visselig høist  <lb/>
+umonarchisk.</p>
+               <p>	Sagen er endnu ikke bleven behandlet i Regjeringen, men faldne <lb/>
+Yttringer have overbeviist mig om, at Stang og Riddervold i det  <lb/>
+væsentlige dele Holst's og Lerches Anskuelse, og naar Riddervold giver <lb/>
+Texten og Stang derover prædiker, er Menigheden gjerne tilbøielig <lb/>
+til at sige Amen. Jeg har bedet Bretteville udsætte Sagens officielle <lb/>
+Behandling længst mulig og imidlertid <hi rend="underline">confidentielt</hi>  forlangt <lb/>
+Regjeringens Advocatens juridiske Betænkning. Imidlertid kunne vi <lb/>
+vente Oplysning i Sag fra Commissionen paa Kongsberg.</p>
+               <p>	Det høie Storthing har i Gaar bestemt de afgaaede Statsraaders <lb/>
+Pensioner saaledes: Holst 2000 Spd; Schmidt 1300 Spd; Foss 1300 Spd; <lb/>
+Fleischer 1500 Spd; Sibbern 1500 Spd. Jeg beklager saare meget disse <lb/>
+betydelige Reductioner, saavel for Vedkommende som for Tjenesten, <lb/>
+paa hvilken de maa udøve en høist skadelig Indflydelse.</p>
+               <p>	En her tilsigtet monstrueus Festmiddag i Frimurerlogens store <lb/>
+Sal, er strandet paa Embedsmænds og Andres Takt. Hensigten var at <lb/>
+feire Beslutningen for Jernbane-Anlægget, men denne Hensigt var ikke <lb/>
+antydet i Indbydelsen, som blot gik up paa en Middag for "Storthinget" <lb/>
+og naar hertil lægges at Indbydelsen udgik Dagen efter at Storthinget <lb/>
+havde fattet Beslutning om den Sexiske Sag, saa fik den Udseende <lb/>
+af en Demonstration fra Storthinget mod Regjeringen, hvilket <lb/>
+dog ikke var de tankeløse Indbyderes Hensigt. Følgen heraf blev at <lb/>
+saavidt mig bekjendt, kun een Embedsmand, nemlig Høiesterets Assessor <lb/>
+Smith og saa faae Andre tegnede sig, at Middagen blev udsat.</p>
+               <p>	Jeg erfarer nu, at Storthingets Sværd i Formiddag ogsaa har <lb/>
+rammet den Stakkels General Wedel, hvis Pension blev nedsat fra 2000 <lb/>
+til 1300 Spdl.</p>
+               <p>	Jeg kan ikke tilbageholde den underdanige Bemærkning, at her <lb/>
+nu er tungt at leve og end tungere at leve i offentlig Tjeneste.</p>
+               <p>	Vi have nu dyb Vinter med megen Snee, som daglig forøges. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 Marts 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Gjenpart</hi>
+                  <lb/>
+af Ørke og Guldals Fogderies Skrivelse til Søndre Trondhjems <lb/>
+Amtmandskab af 14de Marts 1851.</head>
+               <p>	Desværre er heller ikke det Undertegnede betroede Embedsdistrict <lb/>
+gaaet frit for Smitten af den Uroligheds- og Opsætsighedsaand, <lb/>
+som synes at være et sørgeligt Særkjende for vor Tid.</p>
+               <p>	Mandag den 10de Marts sidstleden var undertegnede Foged samlet <lb/>
+med Sorenskriver Richter paa Thingstædet Syrstad i Meldalen til <lb/>
+Behandling af endeel til Foretagelse sammesteds berammede offentlige <lb/>
+Sager. Retten blev sat i det sædvanlige Retslocale i Overvær af <lb/>
+Retsvidnerne. Et til Kl 8 Formiddag berammet Thingsvidne blev først <lb/>
+behandlet i god Orden og uden Afbrydelse. Til Klokken 10 Formiddag <lb/>
+og længere udover Dagen vare derefter berammede 7 Politisager for <lb/>
+Overtrædelse af Lovgivningen om Brændeviinssalg eller Brænden. Til <lb/>
+den bestemte Tid vare ingen af de Tiltalte eller de indstevnte Vidner, <lb/>
+hvilke for samtlige Sagers Vedkommende udgjorde nogle og tyve, komne <lb/>
+tilstede. Da Klokken var omtrent 10 1/2, kom imidlertid samtlige disse <lb/>
+Personer, dog ikke alene, men ledsagede af idetmindste 150 uvedkommende <lb/>
+Personer, Hele denne Masse kom nu i een Flok indmarscherende i <lb/>
+Rets-Lokalet, hvilket de for det meste med bedækkede Hoveder og under <lb/>
+forskjellige høirøstede og upassende Yttringer, ganske opfyldte. Mængden <lb/>
+blev derpaa af Rettens Administrator betydet, at Retten var sat og <lb/>
+Thingsfred lyst, samt tilspurgt om, hvad deres Ærinde var, med  <lb/>
+Tilhold at iagttage Anstændighed og Lovmæssighed. Under mangeslags <lb/>
+forvirrede Raab og upassende Støi og Yttringer kom det nu frem, at <lb/>
+Forsamlingens Hensigt var at hindre de berammede Rets-Sagers Fremme, <lb/>
+indtil de havde faaet indsendt og afgivet et Andragende til Storthinget <lb/>
+vedkommende Brændeviins-Væsenet, samt have faaet opgivet vedkommende <lb/>
+Anmeldere.</p>
+               <p>	Herunder hørtes tillige fra Hoben forskjellige usammenhængende, <lb/>
+tildeels med Trudsler ledsagede Yttringer angaaende Thrane, Mikelsen, <lb/>
+Levanger By, om de Fattiges Undertrykkelse ved de Rige og  <lb/>
+Embedsmændene, at disse sidste fik Brændeviins-Sagerne i Gang for deres <lb/>
+Fordeels Skyld, medens Bygden blev udarmet ved Sagsomkostninger o.s.v. <lb/>
+Da vi fandt en ynkværdig og ganske utrolig Uvidenhed og Ukyndighed om <lb/>
+de simpleste offentlige Forholde hos Hoben, ansaae saavel Sorenskriveren <lb/>
+som Undertegnede det for vor Pligt at bære over i det længste <lb/>
+med samt tale til Rette disse for den aller største Deel vistnok  <lb/>
+vildeledede Mennesker, og søgte derfor at oplyse dem om forskjellige af de <lb/>
+Ting, hvorom de kunne skjønnes især at være vildfarende. Sorenskriveren <lb/>
+lovede dem derhos, at han efter Maaneds-Thingenes Slutning skulde <lb/>
+skrive for dem de Andragender, de ønskede at indsende, og Undertegnede <lb/>
+gav de Tiltalte Tilsagn om, at de, forsaavidt de med Hensyn til <lb/>
+Bestemmelserne i Straffelovens Cap. 17 navnligen dettes §4 kunde <lb/>
+antages at have Ret dertil, skulde erholde Angiverne opgivne, naar intet <lb/>
+Beviis for de Tiltaltes Brøde maatte fremkomme. Imidlertid formanede <lb/>
+og advarede vi dem alvorligen om ei at trodse eller sætte sig op imod <lb/>
+Lovene, hvis Straffe-Bestemmelser vi foreholdt dem. Navnligen oplæste <lb/>
+vi for dem Loven om Forbrydelser Cap 10 §§1−4 samt §§9 og 10. <lb/>
+Alt hvad der blev anført, syntes dog at gjøre lidet Indtryk paa en <lb/>
+stor Deel af den forsamlede Mængde. Da Undertegnede saaledes oplæste <lb/>
+de 2de sidst anførte Lov-§pher blev der yttret, at dette kuns var <lb/>
+en "Farke-Lov", givet af Formandskabet eller Storthinget, men ikke <lb/>
+underskrevet af Kongen, som allenfals dertil maatte være tvungen. Da <lb/>
+Tiden imidlertid var hengaaet til Kl. 12 uden at vore Bestræbelser <lb/>
+for at tale Mængden tilrette havde frugtet, bleve Sorenskriveren og <lb/>
+Undertegnede enige om, at vi dog endnu skulde give Mængden nogen <lb/>
+Betænkningstid, inden vi opgave Haabet om med det Gode at faae de  <lb/>
+berammede Sager behandlede, for at de af Militair-Magts Tilkaldelse  <lb/>
+nødvendigen følgende Omstændigheder, Ulykker og Udgifter maatte kunne <lb/>
+undgaaes. Dette blev tilkjendegivet den forsamlede Mængde, hvorefter <lb/>
+Sorenskriveren og Undertegnede forlode Rets-Lokalet, udsættende  <lb/>
+Sagernes Behandling til efter Middag. Resid. Capellan og Medlem af  <lb/>
+Formandskabet Hr Rambeck, som var kommen tilstæde, bestræbte sig <lb/>
+derefter for ved Forestillinger at bringe Mængden til ikke at hindre den <lb/>
+lovmæssige Orden.</p>
+               <p>	Kl. 2 Eftermiddag indfandt Sorenskriveren og Undertegnede os <lb/>
+paa nyt i Rets-Lokalet. Retten blev sat, de tilstevnede Sager  <lb/>
+paaraabte samt de Tiltalte og Vidnerne fremkaldte. Mængden var atter <lb/>
+forsamlet i Rets-Stuen, men ikke fuldt saa høirøstet som om Formiddagen.  <lb/>
+Dog søgte de ved passiv Modstand, navnlig ved at trænge sig <lb/>
+sammen at hindre de Fremkaldtes Komme. Lensmanden beordredes derfor <lb/>
+til at skaffe de fremkaldte Personer frem, hvilket ogsaa lykkedes med <lb/>
+Hensyn til alle de berammede Sager, der saaledes efterhaanden samtlige <lb/>
+bleve paa lovlig Maade behandlede uden anden Forstyrrelse end at <lb/>
+et og andet upassende Udtryk og Uqvemsord af og til hørtes fra Hoben. <lb/>
+Da alle til Dagen berammede Sager, der ei vare synderlig vidtløftige, <lb/>
+vare tilendebragte mellem Kl.6 og 7, holdt Administrator en passende <lb/>
+Formaningstale for Mængden, af hvilken derefter Flere erklærede deres  <lb/>
+Tilfredshed med Sorenskriveren, medens derimod adskillige Stemmer <lb/>
+hørtes om, at Fogden var den, der holdt med "Farkerne" (hvorved  <lb/>
+mentes Angiverne). Tillige hørtes Yttringer om, at man skulde komme <lb/>
+igjen, og at det "skulde blive værre" om Aftenen, naar det blev mørkt <lb/>
+og næste Dag. Det hele Tog drog derefter afsted, og blev der fra <lb/>
+samme, da Toget havde passeret Gaardens Bygninger udstødt skingrende <lb/>
+Hurraraab.</p>
+               <p>	Den paafølgende Dag, Torsdag den 11 dennes, bleve 3 berammede <lb/>
+Sager, af hvilke de 2de vare Brændeviins-Sager, behandlede uden <lb/>
+Afbrydelse og Forstyrrelse, ligesom der da ikke var nogen Sagerne <lb/>
+Uvedkommende tilstæde. Dog hørtes ogsaa da enkelte, dog mindre  <lb/>
+høirøstede og truende Yttringer af Misnøie med, at Undertegnede ei vilde <lb/>
+opgive alle Angivere af Brændeviins-Forseelserne.</p>
+               <p>	Hvem der have været de egentlige Anstiftere af eller Anførere <lb/>
+i Henseende til de ved denne Leilighed forøvede utilbørlige Optrin, <lb/>
+kan ikke siges. Af de Mange, der yttrede sig i høi Grad uforskammede <lb/>
+og tildeels truende, kunne nævnes: Ole Andreassen Moksæt, Ole Thoresen <lb/>
+Storaas, Hans Olsen Tømmerdal og Ole Thoresen Mjøen den Ældre. <lb/>
+At den berygtede Christen Thoresen Storaas har havt Deel i samt  <lb/>
+underhaanden oppustet Deeltagerne i hiint Optrin, antages, endskjønt jeg <lb/>
+maa erkjende at han ved den Leilighed tilsyneladende forholdt sig <lb/>
+rolig og endog viste en langt anstændigere Opførsel, end han  <lb/>
+sædvanligen under Retsmøder pleier at iagttage. At der flere Dage før <lb/>
+det Passerede er gaaet Bud over Bygden for at stevne Folk til det  <lb/>
+ulovlige Møde paa Syrstad, er sikkert, ligesom der ogsaa bagefter skal <lb/>
+være gaaet Bud op over Bygden (de ved hiin Leilighed Mødende vare <lb/>
+Alle fra den nedre Deel af Bygden) for at faae ny Stemplinger  <lb/>
+istandbragt). Som et tro Billede af de forvirrede og usammenhængende med <lb/>
+forblommede Trusler blandede Yttringer, som af den nævnte Forsamling <lb/>
+fremførtes tillader jeg mig at vedlægge et Brev, som ved samme <lb/>
+Leilighed blev mig overleveret af en mig ubekjendt Person, der <lb/>
+foregav, at det var fundet paa Gulvet og hvilket synes bestemt til <lb/>
+at komme mig i Hænde før min Afreise hjemmefra.</p>
+               <p>	Efter saaledes at have temmelig udførligen berettet den <lb/>
+omhandlede beklagelige Begivenhed, tillader jeg mig til det høie Amt at <lb/>
+indstille, at Forhør foranstaltes optaget til Undersøgelse angaaende <lb/>
+Anstifterne af og Anførerne for de ved Retsmødet den 10 Marts  <lb/>
+sidstleden paa Thingstædet Syrstad i Meldalen stedfundne Uordener samt <lb/>
+derunder for Dagen lagte Ringeagt for Lovene og Forbrydelse mod den <lb/>
+offentlige Myndighed.</p>
+               <closer>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt</persName>
+                     <lb/>
+    			  const. Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Gjenpart</hi>
+                  <lb/>
+af det i Ørke og Guldal's Fogeds Skrivelse af 14de Marts 1851  <lb/>
+paaberaabte Brev.</head>
+               <p>	Vi Bønderfolk af Meldalen haver længe ventet at dise Brendevins <lb/>
+Sager Skulde blive afgjort for nue Troer jeg vist at Enhver er <lb/>
+ferdig at betalle baade Angiveren med sin Rette Løn som fortjent er, <lb/>
+og tillige det som hører de Smørtæver til: til den Nye Anrettes Rusting <lb/>
+og Klober vil vist Betalle den Overgangne Underfundighed som har <lb/>
+hersket i langtid og af den Armes Armme Gjevnlig Lønnes Efter som <lb/>
+Passeligt er. Saa Tror jeg Sandelig Kommer til Rettetid Paa denne <lb/>
+forretning til de som gaaer i en Kledes-Kjorttel haver Døe og Pinne <lb/>
+nue ikke Liv for mer 2 Skilling der som de ikke vil indslige sin <lb/>
+Isterbalge til den Armme Bonnde er slet ikke lenger istand til <lb/>
+Opholde dem vedlige for nu er det saa vit kommet, at det Gjelder Enten <lb/>
+Dø en at leve − thi naar det tamme Dyr drives saa lenge det bliver <lb/>
+tret saa maa det Entten lege sig stille, heller at vende tilbage <lb/>
+med en kurende Minne,</p>
+               <p>	Der for er det nue i den seneste tid at vende tilbage skal <lb/>
+Mand tenkke paa lengere at leve.</p>
+               <p>	Der for hav Lykke paa Reisen til Meldalen paa <lb/>
+Brendevinsforretningen jeg forsikkrer de faar Folk at skuee der.</p>
+               <p>	Øvrigheden hører Djevelen og jeg tror han faar snart sin <lb/>
+Glæde baade i deres Krop og Skind og uretfærdig Penger, Gid Alle <lb/>
+svinhunde <lb/>
+    	  Var Død</p>
+               <closer>
+                  <signed>
+                     <persName>Mekal Vidbrg</persName>
+                     <lb/>
+                     <persName>Gruvsteen Stiur</persName>
+                     <lb/>
+     Samt alle Graaguter</signed>
+                  <lb/>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt</persName>
+                     <lb/>
+    					  const. Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">Gjenpart <lb/>
+af Trondhjems Politikammers Skrivelse til Tronshjems Stiftamtmandskab <lb/>
+af 15de Marts 1851.</head>
+               <p>	  ---------------------</p>
+               <p>	Som det ærede Stift bekjendt skede igaar Gade-Optøier <lb/>
+her i Byen saa at militair Magt maatte benyttes.</p>
+               <p>	Klokken omtrent 12 blev jeg underrettet om,at Uordener <lb/>
+fandt Sted i Ravnkloe-Almindingen, hvorfor jeg strax afsendte derhen <lb/>
+3 Politibetjente, som netop vare tilstæde ved et Forhør paa  <lb/>
+Politikammeret, og som søgte at bringe Rolighed tilveie, og derefter  <lb/>
+meldte mig, at en deel Byfiskere havde viist voldsom Adfærd imod nogle <lb/>
+Mænd fra Frosten, som vare her med fersk Fisk til Salg, i det Fiskerne <lb/>
+havde skyvet Frostingernes Baad paa Søen, udkastet den indehavende <lb/>
+Fisk og forvoldet at een af Frostingerne var kommet i Vandet, <lb/>
+Saavel disse som Fiskerne droge nu med Politibetjenterne og fulgte <lb/>
+af flere Tilskuere til Politikammeret, hvor 4 af Fiskerne bleve  <lb/>
+indkaldte og bleve betydede det Urigtige og det Ulovlige i deres Adfærd <lb/>
+og det lod til, at de erkjendte dette, medens de dog yttrede Misnøie <lb/>
+over, at Landsfolk skulde have Ret til at selge fersk Fisk i Byen. <lb/>
+Efter at derpaa Frostingerne kortelig havde fremført deres Ønske, <lb/>
+forlode Samtlige Politikammeret og Gaden. Forhør i Anledning af det <lb/>
+Passerede blev berammet at paabegyndes idag Klokken 10 Frm.</p>
+               <p>	Ud paa Eftermiddagen indfandt sig hos mig 2ne af Fiskerne <lb/>
+som jeg havde lovet at forelæse Handelsloven forsaavidt angik Salg <lb/>
+af fersk Fisk; hvilket ogsaa skede, med Tilkjendegivende, at de maatte <lb/>
+gaa Lovens Vei ved Klage til mig,ifald de troede sig forurettede. <lb/>
+Deres Forhold hos mig var godt. Ogsaa ud paa Eftermiddagen blev en <lb/>
+Person som fandtes liggende beskjænket under en Brygge ved Ravnkloe- <lb/>
+Almindingen henbragt til Raadstuen af en Politibetjent, efterat <lb/>
+denne først havde forsøgt paa at faae nogle af den Beskjenkedes <lb/>
+Bekjendte til at tage ham hjem.</p>
+               <p>	Klokken imellem 6 og 7 havde der imidlertid i Ravnkloen <lb/>
+samlet sig en deel Fiskere, og med dem en betydelig Menneskemasse, og <lb/>
+det sagdes at Fiskerne vilde paanyt have fat paa Frostingerne, som <lb/>
+havde Logis i et hosliggende Huus; og efter hvad jeg har hørt, skulle <lb/>
+de ogsaa have angrebet Een.</p>
+               <p>	Hoben, der stedse forøgedes, satte sig dernæst i Bevægelse <lb/>
+fra Ravnkloen − paa hvilken Tid jeg kom tilstæde der, ligesom <lb/>
+jeg uafbrudt var nærværende til i Morges − og drog op Munkegaden <lb/>
+til Torvet hvor den standsede og forblev i længere Tid, uagtet saavel <lb/>
+jeg som mine Betjente ved Anmodninger og Advarsler især henvendte <lb/>
+til Fiskerne, søgte at bevirke Massens Adspredelse, dog skede der <lb/>
+ingen Excesser, uden forsaavidt man dertil vil henregne endeel  <lb/>
+Hurraraab. Jeg troer ogsaa, at en Deel af de bedre Fiskere gik bort <lb/>
+under Opholdet paa Torvet, men Folkestimmelen forøgedes dog, med ogsaa <lb/>
+Drenge, Qvinder og Børn, og nu var Klokken 8. Hoben drog derpaa <lb/>
+forbi Fruekirke over Bybroen og indover Baklandet, og en Stund efter <lb/>
+samme Vei tilbage til foran nysmældte Kirke, under Huraraab og Skrigen, <lb/>
+og underveis blev en Vinduesrude indslaaet, men jeg antager,at <lb/>
+dette neppe var tilsigtet. Ved Frue-Kirke forblev Massen i lang <lb/>
+Tid og udstødte flere Gange Huraraab, uagtet saavel venlige som  <lb/>
+alvorlige Advarsler, men desuagtet havde jeg det Haab, at videre  <lb/>
+Uorden vilde standse; men pludselig Kl. omtrent 10 sætter Hoben <lb/>
+afstæd til Raadstuen, og omslutter Indgangsdøren til Vagtmæsterens <lb/>
+Stue, og under Skrig og Raab tilkjendegiver, at man vil tage ud den <lb/>
+i Raadstuen indsatte Person. Jeg trængte mig nu igjennem Hoben <lb/>
+og tog Stilling netop i Indgangen, men her var al Tale og al Advarsel <lb/>
+forgjeves, da de nærmest Staaende under vild Allarm forlangte hiin <lb/>
+Person udladt og svor at vilde tage ham med Magt, og da Een slog efter <lb/>
+mig og greb min Stok, som jeg dog beholdt. Nu fandt jeg at Politiet <lb/>
+intet Videre kunde udrette, og da jeg ikke vilde tage min Tilflugt <lb/>
+ind i Raadstuen, trængte jeg mig ud af Massen og indfandt <lb/>
+mig hos Hr Stiftamtmanden. Ved min Tilbagekomst til Raadstuen,  <lb/>
+erfarede jeg at Hoben endnu var samlet der, at Luger og Vinduer vare <lb/>
+ødelagte og at Politibetjenterne vare slaaede, saa at et Paar af dem <lb/>
+vare beskadigede m.V. og det blev mig sagt, at den fulde Person var <lb/>
+af Vagtmæsteren udsluppet. Med Samtykke af Stiftamtmanden henvendte <lb/>
+jeg mig nu til Borgermesteren og til Commandanten, idet jeg hos den <lb/>
+Sidste reqvirerede militair Assistance. Medens dette skede, og <lb/>
+medens Militairet samlede sig i Exercishuset havde Urostifterne og <lb/>
+Folkesværmen strømmet til Harmonien, hvor der var Bal, og hvor de <lb/>
+Første trængte ind i Entréen og nogle endog opad Trappen til  <lb/>
+Balsalen. Her kom jeg tilstæde idet jeg søgte Borgermesteren, men <lb/>
+det var ikke mig mulig at bringe de Angjeldende ud af Entreen, hvor <lb/>
+de holdt sig og truede med at slaae. Jeg gik derpaa til Commandanten. <lb/>
+Man havde imidlertid faaet Entreen ryddet og Harmoniens Port <lb/>
+stængt, men ogsaa de, og forinden Militairet kom, truedes med at <lb/>
+man vilde bryde ind igjen, og det var med Nød og Neppe, − at jeg og <lb/>
+Andre undgik Angreb. Borgermesteren læste Oprørsacten længere nede <lb/>
+i Gaden,hvor Urostifterne da havde samlet sig, men Borgermesterens <lb/>
+Opfordringer til at Massen skulde skilles ad frugtede intet. Militairet <lb/>
+kom derpaa til ved Harmonien hvor det tog Post, og der paagrebes <lb/>
+og indsattes i Raadstuen 2ne af Hovedmændene for Urolighederne. <lb/>
+Jeg har siden 24de f.M. benyttet nogle Extrabetjente til de 6 <lb/>
+faste Betjente jeg har og havde igaar 4 Saadanne.</p>
+               <p>	Idag skal jeg bestræbe mig for at engagere flere Extrabetjente. <lb/>
+Jeg pligter at tilføie, at Arbeiderforeningens Medlemmer, <lb/>
+saavidt jeg kundet erfare, ikke have deeltaget i Urolighederne, og <lb/>
+dette var hvad jeg ogsaa haabede efter den gode Tendents, som denne <lb/>
+Forening hidtil har lagt for dagen. Siden Militairets Ankomst  <lb/>
+adskildte Hoben sig efterhaanden og Kl. 2 var alt roligt, og idag til <lb/>
+denne Tid Kl. 12 er intet Væsentligt passeret. Frostingerne ere <lb/>
+idag afhørte.</p>
+               <closer>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt</persName>
+                     <lb/>
+    					  const. Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">Gjenpart <lb/>
+af en Bekjendtgjørelse fra Trondhjems Stiftamtmandskab af 16 Marts <lb/>
+1851.</head>
+               <p>		--------------</p>
+               <p>	Byens fredelige Indevaanere ere i de 2de sidstforløbne <lb/>
+Dage satte i Skræk ved beklagelige Uordener, der ikke have kunnet <lb/>
+standses uden ved Anvendelse af Militairmagt.</p>
+               <p>	Disse Uordener ere saamegetmere beklagelige, som en Deel <lb/>
+Indevaanere, hvis Hensigt det efter Rimelighed ikke kan have næret <lb/>
+at deeltage i dem, dog ved deres urigtige og ubetænksomme Forhold <lb/>
+have bidragit til at forøge og forlænge Uordenerne.</p>
+               <p>	Antallet af Urostifterne er i sig selv ikke stort. Naar <lb/>
+de forbleve alene, vilde deres ringe Mængde falde dem selv i Øinene <lb/>
+og de vilde sandsynligviis betænke sig paa at fremture i deres <lb/>
+Forehavende. De vilde indsee, at saa Faa ikke med Nytte kunde opsætte <lb/>
+sig mod den offentlige Myndighed, og Modet til at angribe den eller <lb/>
+til at gjøre Brud paa den offentlige Orden vilde forlade dem. Men <lb/>
+naar de see sig omringede af en Masse af flere Hundrede Mennesker, <lb/>
+der synes at interessere sig for deres Forehavende, troe de at finde <lb/>
+Medhold og i det afgjørende Øieblik Medvirkning til deres lovstridige <lb/>
+Hensigters Opnaaelse; de blive saamegetmere haardnakkede i at forfølge <lb/>
+disse og i at modsætte sig Politiets Bestræbelser for at <lb/>
+gjenoprette Ordenen. Om det derfor end kun er Nysgjerrighed, der <lb/>
+bevæger saamange Mennesker til at samles; er dette dog et meget  <lb/>
+dadelværdigt Forhold, og Enhver, som forbliver tilstæde, uden at <lb/>
+være der paa Embeds- eller Bestillingsvegne, maa ansees moralsk <lb/>
+medskyldig i de Uordener, som forøves.</p>
+               <p>	Men naar Oprørsacten af Øvrigheden er oplæst, og Mængden <lb/>
+af den er opfordret til at adskilles, bliver dette Forhold endog <lb/>
+strafbart efter Lovgivningen, og Enhver, der ikke begiver sig <lb/>
+roligen bort, eller, vidende om det Passerede, indfinder sig paa <lb/>
+Stædet, uden Pligt eller anden Nødvendighed, forfalder til offentlig <lb/>
+Straf, ikke ringere end Fængsel, men under mere graverende <lb/>
+Omstændigheder, endog af Tugthuusarbeide.</p>
+               <p>	Det følger ogsaa ligefrem heraf, at Enhver, der viser Ulydighed <lb/>
+mod Øvrighedens Opfordring til at adskilles, efterat Oprørsacten <lb/>
+er læst, betragtes som Deeltager i Opløbet, om han derfor ved <lb/>
+Politiets eller den militaire Magts Bestræbelser for at gjenoprette <lb/>
+den offentlige Sikkerhed bliver beskadiget eller lider anden Overlast, <lb/>
+maa han tilskrive sig det selv og kan derover ingen Klage føre.</p>
+               <p>	For at bidrage til Forebyggelse af saadanne Optrin, som <lb/>
+vi i de 2ne sidste Dage have været Vidner til, og for at forhindre, <lb/>
+at fredelige Mennesker ikke af Uvidenhed eller Ubetænksomhed skulle <lb/>
+komme i Fortred, advares derfor Byens Indvaanere om og paalægges <lb/>
+at holde sig borte fra Opløbet, om det igjen skulde indtræffe, og <lb/>
+især opfordres alle Familiefæder og Huusbønder til med Strænghed <lb/>
+at paase, at deres Familie, Tyende, Læredrenge og Andre, som staae <lb/>
+i Lydighedsforhold til dem, under saadanne Omstændigheder forblive <lb/>
+hjemme.</p>
+               <closer>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt.</persName>
+                     <lb/>
+    				  const. Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">Gjenpart <lb/>
+af Trondhjems Politikammers Skrivelse til Trondhjems Stiftamtmandskab <lb/>
+af 16 Marts 1851.</head>
+               <p>	  ----------------------</p>
+               <p>	I Forbindelse med min ærbødige Indberetning af igaar <lb/>
+tillader jeg mig herved at melde:</p>
+               <p>	Som anført passerede i Gaar Formiddag intet Væsentligt <lb/>
+ihvorvel Fiskerne gjorde nogen Qvalm i Anledning et Par Baade som <lb/>
+ankom fra Frosten med Fisk. Men allerede tidlig paa Eftermiddagen <lb/>
+rygtedes det, at Spectaclerne skulde gjentages, og at Øiemedet var <lb/>
+med Magt at udtage de i Forgaars arresterede 2 Personer, hvilket <lb/>
+blev mig sagt af Flere, og deriblandt af Borgermesteren og Byfogden <lb/>
+til hvilken Sidste en Fisker −formentlig Olof Wold− havde gjort <lb/>
+Opfordring om hine Personers Løsladelse, under Trudsel om, at de <lb/>
+ellers vilde blive tagne med Magt.</p>
+               <p>	Sammenstimlingen begyndte ud paa Eftermiddagen og Raadstuen <lb/>
+blev besat af det Militaire; Folkemassen tiltog stedse og deri <lb/>
+viste sig Urostifterne fra foregaaende Aften. Politiet var  <lb/>
+forstærket med saa mange Extrabetjente som havde været at erholde, med <lb/>
+nogle Frivillige og med nogle Mænd efter Enroulleringschefens <lb/>
+Forføining, ialt et Antal af omtrent 3o Personer. Massen begyndte de <lb/>
+samme Excesser som før, drog om hist og her, skreg, raabte Hurra, <lb/>
+truede og haanede alle Advarsler, Formaninger og Befalinger af <lb/>
+Authoriteterne.</p>
+               <p>	Oprørsacten blev oplæst af Borgermesteren, men samme <lb/>
+Haan og Skrig fandt ogsaa da Sted og det syntes som Hoben var bestemt <lb/>
+paa, at vise Trods og Modstand til det Yderste, ja det gik saavidt <lb/>
+at den, da en Deel af Infanteriet rykkede frem i Gaden og  <lb/>
+afbrændte Fænghætterne til paafølgende Ladning, raabte Hurra til <lb/>
+begge Dele og endda forbleve paa Stedet. Under Løbet af Aftenen <lb/>
+foretoges oftere Anfald af Politistyrken med nogenlunde god Virkning <lb/>
+baade ved Raadstuen, paa Torvet og andre Steder, og en god Deel af <lb/>
+de Angjeldende bleve paagrebne og indsatte i Raadstue-Arresten,  <lb/>
+efterhvert som man kunde udpille dem. Ud paa Aftenen fremmødte  <lb/>
+Borgergarden og ca.20 Mænd Artilleri til Hest, og ved Ridning og Choc af dem <lb/>
+i Forening med Politiets Anvendelse af Stokke lykkedes det at rydde <lb/>
+Gaderne omtrent Kl.11. Noget Forsøg paa at storme Raadstuen skede ikke, <lb/>
+men een Person trængte ind paa Soldaterne og gjorde Opfordringer, <lb/>
+til at skyde sig, hvilke havde til Følge at han blev grebet, erholdt <lb/>
+nogle Kolbestød og arresteredes. I et Par Huse i Byen ere Vinduerne <lb/>
+indkastede, hvilket ikke stod til at afværge, ligesom og tildeels <lb/>
+Steenkastning fandt Sted, dog, saavidt jeg veed ikke efter det <lb/>
+Militaire.</p>
+               <p>	Trudsler om Urolighedernes Gjentagelse i Aften hørtes <lb/>
+temmelig almindelig, men jeg tør haabe, at man idag vil være end <lb/>
+mere forberedt paa at mødegaae dem, ifald dertil viser sig Tegn.</p>
+               <p>	En deel af de Arresterede viste sig i Arresten meget trodsige, <lb/>
+støiende og vilde.</p>
+               <p>	Jeg haaber at kunde continuere det paabegyndte Forhør i <lb/>
+Morgen.</p>
+               <closer>
+                  <signed>infidem <lb/>
+                     <persName>P. Brandt.</persName>
+                     <lb/>
+    			  const. Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Gjenpart</hi>
+                  <lb/>
+af Søndre Trondhjems Amtmandskabs Skrivelse til Justits-Departementet <lb/>
+af 17de Marts 1851.</head>
+               <p>	I Forbindelse med min Indberetning af Dags Dato angaaende de <lb/>
+i Trondhjems Bye den 14de og 15de dennes stedfundne Uordener har <lb/>
+jeg den Ære herved at tilstille det Kongelige Departement Avskrivt <lb/>
+af en fra Fogden i Ørke og Guldalen til Amtet idag indkommen  <lb/>
+Skrivelse af 14de dennes, af hvilken vil erfares, at der den 10de <lb/>
+næstforhen er forefaldet et uroligt Optrin i Meldalen i Anledning <lb/>
+af nogle sammesteds til Behandling berammede Politisager, angaaende <lb/>
+ulovlig Brændeviins Brænden eller Salg.</p>
+               <p>	Amtet har i denne Anledning idag paalagt Sorenskriveren at <lb/>
+optage Forhør og foranstalte efter Omstændighederne det videre Fornødne <lb/>
+i denne Anledning. Da det er Amtet forelagt, at en Person, ved <lb/>
+Navn Borgen, der skal være udsendt fra Christiania for at agitere <lb/>
+Almuen, for Tiden i Stilhed opholder sig i Meldalen, og det derfor, <lb/>
+uagtet Fogdens Indberetning derom Intet indeholder, ikke er  <lb/>
+usandsynligt, at han kan være Anstifter af den fra Almuens Side viste <lb/>
+Opsætsighed, som forøvrigt rigtignok ikke synes at have sin directe <lb/>
+Kilde i Arbeider-Agitationen, men snarere i den i flere  <lb/>
+Landdistricter gjærende Misfornøielse med den nu gjældende Lovgivning <lb/>
+om Brændeviins Brænden og Salg, saavelsom den dermed forbundne <lb/>
+Control og det Spionere og Bygdeangiveri, hvortil denne næsten <lb/>
+uundgaaelig giver Anledning, saa har Amtet tillige paalagt Sorenskriveren,  <lb/>
+hvis det omhandlede Rygte maatte medføre Sandhed, ogsaa at rette <lb/>
+Undersøgelserne mod bemeldte Borgen, samt, dersom der skulde vise <lb/>
+sig Grund til Mistanke om, at han ophidser Almuen til ulovlige  <lb/>
+Foretagender, da strax at arrestere ham.</p>
+               <p>	Derimod har Amtet ikke fundet tilstrækkelig Grund til i Sagens <lb/>
+nærværende Stilling at træffe nogen yderligere Foranstaltning.</p>
+               <p>	Ved denne Leilighed skylder Amtet ærbødigst at indberette, at <lb/>
+de regelmæssigen hver Uge fra Sælbo Præstegjeld modtagne Oplysninger <lb/>
+om Stemningen der i Districtet vise, at der ingen Grund er <lb/>
+til Frygt for Uordener sammesteds.</p>
+               <closer>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt</persName>
+                     <lb/>
+    		  const.Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">Gjenpart <lb/>
+af Trondhjems Stiftamtmandskabs Skrivelse til Justits-Departementet <lb/>
+af 17 Marts 1851.</head>
+               <p>	  ------------------------</p>
+               <p>	I min Indberetning af 24 f.M. yttrede jeg Frygt for at <lb/>
+der ogsaa her i Trondhjem kunde ventes nogen Forstyrrelse af den <lb/>
+offentlige Rolighed endskjøndt Arbeider-Agitationen ikke synes i <lb/>
+denne Kjøbstad at ville fæste Rod. Min Frygt har destoværre ikke <lb/>
+været ugrundet, idet der den 14de og 15de dennes om Aftenerne har <lb/>
+fundet beklaglige Uordener Sted, om hvilke jeg herved tillader mig <lb/>
+at indsende de fra Politimæsteren modtagne 3ne Beretninger.</p>
+               <p>	Den første Aften vare disse Optrin af mindre Betydning <lb/>
+i det baade Antallet af Urostifterne og den samlede Folkemasse var <lb/>
+mindre, endskjønt dog Politiet insulteredes og enkelte Excesser <lb/>
+bleve begaaede. Da Oprørsacten var læst og Militairet kom tilstæde <lb/>
+adskiltes imidlertid Hoben efterhaanden og begav sig bort uden <lb/>
+videre Uorden, saa at nogen Indskriden fra Militairets Side blev <lb/>
+ufornøden.</p>
+               <p>	Men om Aftenen den 15de var Folkemassen meget betydelig <lb/>
+og Opløbet antog et truende Udseende. Uagtet Politiet var ikke <lb/>
+ubetydeligt forstærket, saa det sig dog ikke i stand til at adsprede <lb/>
+Hoben ligesaalidt som den var med det Gode at formaa til at adskilles. <lb/>
+Tvertimod blev baade Politiet og det Militaire, der havde besat  <lb/>
+Raadstuen, for at beskytte denne mod Pøbelens Angreb, fornærmede af Massen <lb/>
+tildeels endog ved Steenkastning og anden Voldsomhed. Ogsaa bleve <lb/>
+Ruder indslaaede paa flere Stæder.</p>
+               <p>	Efterat imidlertid Oprørsacten paany var læst, og Militairet, <lb/>
+som holdtes i Beredskab, var rykket frem, lykkedes det, især <lb/>
+ved Hjælp af det ridende Artilleri, at rydde Pladsen i Nærheden af <lb/>
+Raadstuen, hvor Folkemassen havde concentreret sig, heldigviis uden at <lb/>
+behøve at skride til Brugen af skarpe Vaaben og uden at noget Menneskeliv <lb/>
+gik tilspilde. Ved eftertrykkligt Brug af den flade Klinge <lb/>
+og Politiets Stokke opløstes enhver Modstand, som kunde være paatænkt. <lb/>
+Ved denne Leilighed var ogsaa Borgervæbningen og Borgergarden <lb/>
+under Vaaben, beredte til at gjøre Tjeneste om større militaire <lb/>
+Kræfter skulde være blevne fornødne.</p>
+               <p>	Af Hovedmændene for disse Uordener ere i det Hele 18 <lb/>
+arresterede. Forhør i denne Anledning paabegyndtes den 15de d.M. og <lb/>
+continuerer idag.</p>
+               <p>	Efter hvad jeg har kunnet opdage, staae disse Optrin ikke <lb/>
+i nogen directe Forbindelse med Arbeider-Agitationen, men ere <lb/>
+oprindelig foranledigede ved Byfiskernes Misfornøjelse over, at <lb/>
+Søbønderne bringe fersk Fisk til Salg i Byen. For omtrænt 3 Uger <lb/>
+siden blev af nogle af Byens Fiskere Klage i denne Anledning frembragt <lb/>
+for mig personlig og det lykkedes mig ikke ved rolige Forestillinger <lb/>
+at overbevise dem om det Ugrundede i deres Klage, hviket maaskee <lb/>
+meest havde sin Grund i at disse Personer vare temmelig beskjænkede <lb/>
+og formodentlig forud bestemte paa ikke at tage imod Grunde.</p>
+               <p>	Uagtet Politiets Bestræbelser bleve om Morgenen den 14de <lb/>
+dennes nogle Søbønder, som fra Frosten vare hidkomne med fersk Fisk <lb/>
+molesterede af endeel Byfiskere og deres Fisk udkastet. Det var, <lb/>
+saavidt vides, disse samme Personer, der om Aftenen stode i Spidsen <lb/>
+for Optøierne, og som til Paaskud brugte det Foregivende at de vilde <lb/>
+af Arresten udfri en i høist beskjænket Forfatning paa Raadstuen <lb/>
+indbragt Sømand. Det lykkedes dem ogsaa efter for et Øieblik at <lb/>
+have fordrevet Politiet at bevirke ham udsluppet af Vagtmesteren <lb/>
+med Samtykke af den Politibetjent, som havde indsat ham. Da han var <lb/>
+indbragt for at udsove Rusen, kunde han vel neppe betragtes som Arrestant <lb/>
+og hans Løsgivelse er derfor af mindre Vigtighed.</p>
+               <p>	Opløbet den 15de dennes var aabenbar rettet imod Raadstuen <lb/>
+og havde til Hensigt af dennes Arrester med Magt at udtage <lb/>
+de 2ne af Hovedmændene for den foregaaende Aftens Uordener, som <lb/>
+sammesteds vare fængslede.</p>
+               <p>	Ligesom der igaar, den 16de, ikke yttrede sig noget <lb/>
+bemærkeligt Spor af den Hensigt at ville forny Uordenerne, saaledes <lb/>
+er ogsaa idag hidtil Alt roligt. Navnlig bemærkes, at Søbønder <lb/>
+igjen have indfundet sig med Fisk til Salg, hvilket foregaaer uden <lb/>
+Forhindring.</p>
+               <p>	Jeg nærer ikke synderlig Frygt for at disse urolige Optrin <lb/>
+skulde gjentages, ialfald ikke i den nærmeste Fremtid. Men <lb/>
+jeg troer dog at have mærket en vis Gjæring i Gemytterne, som <lb/>
+øiensynlig er en Følge af de Ophidselser, der i de senere Aar ere <lb/>
+udgaade saavel fra en fordærvet Presse, som fra andre Kanter til <lb/>
+den simple Mand.</p>
+               <p>	Jeg tillader mig at vedlægge et trykt Exemplaer af en <lb/>
+Bekjendtgjørelse, jeg igaar har ladet udgaae til Byens Indvaanere; <lb/>
+dens Hensigt vil det Kongelige Departement erfare af Indholden.</p>
+               <p>	Endelig er det mig en Fornøielse at oplyse, at endeel <lb/>
+yngre Mænd af den dannede Classe deels allerede have begyndt med <lb/>
+at assistere Politiet som Frivillige, deels i større Antal agte <lb/>
+paa samme Maade at stille sig til dets Disposition.</p>
+               <closer>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt</persName>
+                     <lb/>
+                         const.Fuldmægtig</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. mars 1851</supplied>
+               </head>
+               <head type="sub2">Gjenpart <lb/>
+af Trondhjems Politikammers Skrivelse til Trondhjems Stiftamtmandskab <lb/>
+af 17de Marts 1851.</head>
+               <p>	  -----------------------</p>
+               <p>	Herved har jeg den Ære at indberette i Forbindelse med <lb/>
+min Skrivelse af Gaars dato: at Roligheden ikke senere er bleven <lb/>
+forstyrret. Paa Gaderne befandt sig i Gaaraftes en Mængde Mennesker, <lb/>
+hvilket havde sin Grund i deels Nysgjerrighed efter at see <lb/>
+om noget passerede og deels i at det var Søndag og godt Veir. <lb/>
+Enkelte formeentlige Rolighedsforstyrrere saaes at være ude, men <lb/>
+da de forholdt sig stille, fandt Politiet ikke Grund til da at  <lb/>
+arrestere dem. En Person, som udøvede Fornærmelser imod en Anden, <lb/>
+blev indsat i Raadstuen, men vil idag blive løsladt. Den største <lb/>
+Deel af de igaar ved Politiet opslaaede Placater befindes idag <lb/>
+nedrevne.</p>
+               <p>	Paa Raadstuen forrettede Borgervæbningen Vagttjeneste, <lb/>
+og Politiet, der var bleven forstærket til et Antal af omtrent <lb/>
+45 Mand, havde taget Station i Harmonien ved Torvet.</p>
+               <closer>
+                  <signed>in fidem <lb/>
+                     <persName>P. Brandt</persName>
+                     <lb/>
+    				      const.Fuldmægtig</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

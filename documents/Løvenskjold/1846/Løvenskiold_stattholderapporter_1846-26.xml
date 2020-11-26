@@ -1,0 +1,95 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 15. november 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p>	Siden Hr Greve Lewenhaupts Brev af 2den denne Maaned, har jeg ingen directe Meddelelse fra Deres Majestæt, og da sidste Post Intet bragte om Hans Kongelige Høihed Prinds Augusts Befindende, er jeg i denne Henseende ret bekymret. Gud give Hans Kongelige Høiheds snarlige og fuldkomne Helbredelse!</p>
+               <p>	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige Opmærksomhed paa en med Morgenposten afgaaende underdanigst Indstilling betræffende en ansøgt Gjenoprettelse af et Marked i Drammen.</p>
+               <p>	Efterat dette Marked havde bestaaet i en lang Række af Aar, eengang aarlig, – indkom for 3 Aar tilbage Drammens Commune Representation med underdanigst Ansøgning, anbefalet af alle Local-Autoriteter, om Markedets Ophævelse, som overeensstemmende med Regjeringens underdanigste Indstilling af Deres Majestæt blev naadigst bifaldt. Efter 3 Aars Forløb ansøger nu den samme Commune Representation om Markedets Gjenoprettelse! Denne hastige Omvexling af Anskuelser er uden Tvivl ene og alene en Følge af Biskop Arups Forflyttelse fra Drammen; thi det var ham, der, som derværende Sjælesørger, formaaede sin Menighed til at ansøge om Markedets Ophævelse, paa Grund af de derfra uadskillelige Udsvævelser, moralske Onder, oeconomiske Tab og Ødelæggelse for mange. Denne uden Tvivl rigtige Anskuelse, som Biskop Arup havde opvakt hos Drammens Commune, sees nu at have forladt den med ham!</p>
+               <p>	Jeg beklager, at Departementet for det Indre anbefaler Ansøgningen til Deres Majestæts naadige Bifald. Statsraad Stang har, forinden Sagen var behandlet i Regjeringen, givet Supplicanterne Haab om Anbefaling og dette Haab forsvarer han nu som en ivrig Advocat! Regjeringens Pluralitet, hvis Votum underdanigst vedlægges, anseer det nu som for 3 Aar tilbage, for et stort Gode, at Markedet i Drammen,<hi rend="underline">efter Communens eget Ønske</hi>, er bleven afskaffet, og beder Deres Majestæt underdanigst, ikke at bevilge dets Gjenoprettelse.</p>
+               <p>	Jeg for min Deel ønsker alle vore elendige Bymarkeder, hvis Hovedhandel bestaaer i berusende Drikke og Honning i Kager, afskaffede. De medføre megen moralsk Fordærvelse og oeconomisk Ødelæggelse.</p>
+               <p>	Med næste Post vil Regjeringens underdanige Indberetning betræffende Trondhjems Domkirke blive afgivet. Resultatet af langvarige Undersøgelser, er desværre, at den af Storthinget bevilgede Sum, 10,000 Species, ikke paa langt nær vil være tilstrækkelig, endog kun til den paatænkte partielle Restauration. Derimod har vedkommende Architect Schirmer gjentagende erklæret, at Domkirken, uden nogensomhelst Fare, vil kunne afbenyttes til Kroningen i dens iværende Forfatning, og at de dertil nødvendige Forbedringer ville, om de paabegyndes snart, kunne blive fuldførte til 1ste July næste Aar.</p>
+               <p>	Med Hensyn herpaa, som paa øvrige nødvendige Forberedelser, er det saare ønskeligt, at Deres Majestæt, saa snart Omstændighederne tillade, naadigst vil bestemme Tiden for Kroningen, og tillader jeg mig, ved denne Leilighed, at gjentage mit underdanigste Ønske om, at den maa blive bestemt til Iværksættelse, under Løbet af næste Sommer.</p>
+               <p>	Vi have havt nogle ubetydelige Frostnætter; men for den langt fremrykkede Aarstid, er Temperaturen mild, og vi Stakkels Nordboere maa ikke klage over, at Frosten, Natten til den 10de November, tilintetgjorde vore Georginer! <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 November 1846. </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 15. november 1846</supplied>
+               </head>
+               <head type="sub2">Underdanigst Post Scriptum!</head>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse af 12te denne Maaned, som Posten bragte mig i Gaar Aftes, hvoraf jeg med hjertelig Deeltagelse erfarer Hans Kongelige Høihed Prinds Augusts Bedring.</p>
+               <p>	I Gaar Aftes meldte sig hos mig Stadshauptmand Thorne, som i Dag har fortsat sin Reise til Stockholm, for som Deputeret for Drammens Bye, at supplicere om Gjenoprettelsen af Byens Marked, hvilket Regjeringens Pluralitet underdanigst har fraraadet. Jeg tillader mig underdanigst at referere til hvad jeg om denne Gjenstand har yttret i min Dagsrapport.</p>
+               <p>	Den deri yttrede Anskuelse har jeg uforbeholden meddeelt Hr Thorne; men derhos lovet ham, underdanigst at bede Deres Majestæt om, at Sagen ikke maa blive afgjort, forinden han har havt den Ære at fremføre sit Andragende for Deres Majestæt, og herom tillader jeg mig at nedlægge min underdanigste Bøn, som jeg tør haabe naadigst opfyldt.</p>
+               <p>	Hr Thorne fortalte mig, at Sagens Discussion og Udfald i Statsraadet den 11te denne Maaned var bleven meddeelt til Drammen, hvilket havde foranlediget Byens Formandskab til at overdrage ham det Hverv, hvorfor han nu reiser til Stockholm.</p>
+               <p>	Den af Thorne ommeldte ubetimelige Meddelelse af en Discussion i Deres Majestæts Statsraad, vil blive Gjenstand for min nærmere Undersøgelse, hvorom jeg forbeholder mig underdanigst Indberetning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16 November 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

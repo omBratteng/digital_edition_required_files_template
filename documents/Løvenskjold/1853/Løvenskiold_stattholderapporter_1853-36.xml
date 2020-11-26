@@ -1,0 +1,96 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Fossum 22. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>
+                  <dateline>
+                     <placeName>Fossum</placeName>
+                     <date>22dde August 1853</date>.</dateline>
+                  <lb/>
+                  <salute>Stormægtigste <lb/>
+Naadigste Konge,</salute>
+               </opener>
+               <p>	Siden min sidste underdanigste Rapport af 3die d.M. har jeg havd <lb/>
+den Ære, at modtage Deres Majestæts naadige Skrivelse af 13de. Ved  <lb/>
+samme Post som bragde mig denne naadige Skrivelse, modtog jeg af Statsraad  <lb/>
+Krog med Bekymring Meddeelelse om Resultatet af hans Underhandling <lb/>
+med Sorenskriver Lasson. For mig som kiender alle Omstændigheder og <lb/>
+seer bag Coulisserne, er det klart, at Lasson som i første Øyeblik  <lb/>
+                  <hi rend="underline">erklærede sig villig</hi>  til at modtage Deres Majestæts naadige Tilbud, kun <lb/>
+efter at have raadført sig med nogen Anden, har forandred sin første <lb/>
+Beslutning. At Lasson uvidende om hvad der er passeret, troeskyldig <lb/>
+har forlangt Raad af sin Svoger Stang og at denne har biebragt den <lb/>
+beskedne Mand den Anskuelse: "at han ikke troer sig i Besiddelse af de <lb/>
+fornødne Egenskaber", dette er for mig lige klart. I denne Sagens  <lb/>
+Stilling, vil det være vanskeligere, at bevæge Lasson til at forandre den <lb/>
+han uden Tvivl af Stang biebragte Anskuelse, som han ingenlunde tidligere <lb/>
+har yttred; men jeg modseer Deres Majestæts naadige Befaling, om <lb/>
+jeg maa forsøge det ved min Tilbagekomst til Christiania. Om dette <lb/>
+skulde slaae Feil, vilde jeg ansee Byefoged Thraps Acquisition ønskeligst.</p>
+               <p>	Statsraad Vogt, hvis Mening ikke har væred indhented; har meddeelt <lb/>
+mig, at han deeler Deres Majestæts Anskuelse, om Lassons fortrinlige <lb/>
+Dygtighed for Justitsdepartementet.</p>
+               <p>	For ikke at misbruge Deres Majestæts Naade, agter jeg i Løbet af <lb/>
+næstkommende Uge, at begive mig til Christiania.</p>
+               <p>	Jeg vil tillade mig underdanigst at berøre en Episode fra min <lb/>
+Reise, som mueligen kunde blive Deres Majestæt urigtig forebragd.</p>
+               <p>	I Brev af 17 May, bad jeg mig af den preussiske Minister og <lb/>
+Overkammerherre Grev Stolberg Wernigerode, i hvis Forældres Slot jeg har <lb/>
+leved en lykkelig Tid af min Ungdom, underretted, om Hans Majestæt <lb/>
+i Juny Maaned vilde være i Berlin, i hvilket Fald jeg vilde reise <lb/>
+igiennem denne Stad til Marienbad; men i modsat Fald, den kortere Vey <lb/>
+pr. Leipzig. Da jeg ved min Afreise den 14 Juny ikke havde modtaget <lb/>
+noget Svar, valgte jeg sidstnævnte Vey og blev forundred, da  <lb/>
+Storhertuginden af Meklenburg sagde mig, at Kongen Hendes Hr. Broder havde <lb/>
+vented mig; men ved min Tilbagekomst hertil den 1 August, modtog jeg <lb/>
+Hans Majestæts naadige og venlige Indbydelse til Sanssouci <hi rend="underline">datered</hi>
+                  <lb/>
+                  <hi rend="underline">30 May</hi>, hvorfor jeg da kun kunde underdanigst takke og forklare Grunden <lb/>
+til min Udeblivelse.</p>
+               <p>	Brevet af 30te May har uden Tvivl henlagd hos den preussiske <lb/>
+Mission i Stokholm, hvis Poststempel fandtes derpaa.</p>
+               <closer>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

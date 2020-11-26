@@ -1,0 +1,73 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 3. januar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Regjeringen har nylig behandlet Uddelingen af saavel det almindelige <lb/>
+Gratificationsfond som af de specielle Midler der ere stillede til <lb/>
+Regjeringens Disposition til Understøttelse for Embedsmænds Trængende <lb/>
+Efterladte, og har derved gaaet frem med al den Samvittighedsfuldhed, <lb/>
+som det er muligt for menneskelige Gjerninger. Uagtet der blev uddeelt <lb/>
+over 5000 Speciedaler, var der dog mange høist Trængende, hvem <lb/>
+man ikke kunde tildele noget. Blandt disse var Enken efter Høiesterets <lb/>
+Justitaiarius Bull, der lever i trængende Kaar med 3 uforsørgede <lb/>
+Døttre; hun er i enhver Henseende værdig og er en Søster af Dannemarks <lb/>
+store Ørsted, og har her i Landet ikke nogen Familie, der kan <lb/>
+yde hende Bistand. Jeg vover i Underdanighed at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed herpaa, da Deres Majestæt vilde lægge en <lb/>
+ny god Gjerning til de talrige Velgjerninger, hvoraf saa mange  <lb/>
+Trængende nyde godt, ifald Deres Majestæt naadigst vil bevilge Enkefru <lb/>
+Bull af Gratificationsfondet den ansøgte Understøttelse af 100 <lb/>
+Speciedaler, hvortil Regjeringen i nærværende Tilfælde ikke har troet <lb/>
+at burde underdanigst indstille hende. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die Januar 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

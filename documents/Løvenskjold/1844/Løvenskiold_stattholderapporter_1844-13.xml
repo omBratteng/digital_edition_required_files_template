@@ -1,0 +1,84 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 7. oktober 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden mine 2de sidste underdanigste Rapporter af 13de og 23de <lb/>
+September er Intet indtruffet, som fortjener Deres Majestæts naadige <lb/>
+Opmærksomhed.</p>
+               <p>	Den senere Tids særdeles vakkre Høstveir har kun været afbrudt <lb/>
+af enkelte Regndage. Kornhøsten er overalt, og Potetesavlingen for <lb/>
+største Deel, fuldført, og give, saa vidt vides, et godt Udbytte.</p>
+               <p>	Af offentlige Blade har jeg med oprigtig Deeltagelse erfaret Deres <lb/>
+Kongelige Majestæters høitidelige Kroning i Stokholm, hvortil <lb/>
+jeg tillader mig at nedlægge min underdanigste Lykønskning. Den Kongelige <lb/>
+Kroning og Salvning er en gammel vakker religieus Act, hvorved <lb/>
+et religieust og høitideligt Indsegl offentlig paatrykkes Forholdet, <lb/>
+Pagten, imellem Konge og Folk, og Kongens ophøiede Person bliver ved <lb/>
+denne høitidelige Act end meer hellig i Folkets Øine. – <lb/>
+Jeg er derfor glad ved at Norges Grundlovs 10 § udtrykkelig har <lb/>
+foreskreven at denne Act skal finde Sted i Kongeriget Norge, og jeg <lb/>
+vover underdanigst at bede Deres Majestæt ikke at udsætte den længer, <lb/>
+end til anstundende Aar 1845. En længere Udsættelse vilde saare <lb/>
+det norske Folks i denne Begivenhed visselig fromme og loyale Følelser; <lb/>
+Storthinget vil paa den Tid være samlet, og kunne afgive en Deputation <lb/>
+til paa dets Vegne at bivaane den høitidelige Act, og endelig er <lb/>
+her periculum in mora, for Afbenyttelsen af den af Grundloven til  <lb/>
+Kroningen bestemte Trondhjems Domkirke som et Aar senere neppe vil vel <lb/>
+kunne afbenyttes. –</p>
+               <p>	Paa disse Grunde tillader jeg mig underdanigst at indstille at Deres <lb/>
+Majestæt naadigst vil bestemme: at Kroningen i Norge skal iværksættes  <lb/>
+ved den Tid, som nærmere vil blive bestemt under Løbet af anstundende <lb/>
+Aar 1845. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7de October 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

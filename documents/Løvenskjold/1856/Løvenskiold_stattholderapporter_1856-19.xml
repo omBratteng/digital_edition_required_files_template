@@ -1,0 +1,75 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 27. april 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p>	Uvidende, som jeg er, om Hans Kongelige Høihed Vicekongens <lb/>
+Reiseplan, tør jeg tillade mig at bemærke, at jeg ikke tør tilraade at <lb/>
+bestemme Ankomsten hertil den 17de Mai, fordi den den Dag kunde give <lb/>
+Anledning til utidige Demonstrationer, – hvorfor vi nu længe have <lb/>
+været befriede, og at jeg bør fraraade at bestemme Ankomsten til den <lb/>
+18de Mai, fordi denne Dag er bestemt til høitidelig kirkelig Indvielse  <lb/>
+for Biskoppen i Tromsø Stift, – en Begivenhed, som sætter den <lb/>
+hele Bye i Bevægelse og hvori Regjeringens Medlemmer, som efter  <lb/>
+Reglementet dertil skulle indbydes, ikke kunne undslaa sig for at deeltage.</p>
+               <p>	Jeg har havt den Ære at feire Hendes Kongelige Høihed Prindsesse <lb/>
+Eugenies høie Fødselsdag ved en Soirée for 150 Personer, og agter <lb/>
+at feire den 3die Mai ved en større Middag.</p>
+               <p>	I Anledning af min i underdanigst Rapport af 17de denne Maaned <lb/>
+yttrede Formodning, om Bemyndigelse for Hofchefen til Udlaan til en <lb/>
+Statsraad af Sager for Repræsentation, tillader jeg mig at bemærke, at <lb/>
+der aldrig kan blive Spørgsmaal om Representation for nogen Statsraad, <lb/>
+naar Hans Kongelige Høihed Vicekongen er i Landet, uden Hensyn til <lb/>
+                  <hi rend="underline">hvor</hi>  i Landet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de April 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

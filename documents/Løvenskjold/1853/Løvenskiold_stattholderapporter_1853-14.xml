@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 22. mai 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p>	Det ligger i Sagens Natur, at det er magtpaaliggende for de <lb/>
+Statsraader, som ved næste Ombytning skulle gaae til Stockholm, derom <lb/>
+tidligst mulig, at faae Deres Majestæts naadige Bestemmelse, og derfor <lb/>
+bragte jeg denne Gjenstand paa Bane i Statsraadet i Gaar.</p>
+               <p>	De Statsraader, som det efter Tour nærmest tilfalder at skulle <lb/>
+gaae til Stockholm anstundende Høst, ere Stang, Petersen og Riddervold, <lb/>
+men da det maa erkjendes betænkeligt, nær under det nu forestaaende <lb/>
+Storthing at overdrage Indre- og Kirke-Departementernes Bestyrelse <lb/>
+til Uindviede, var man enig om, at Statsraaderne Stangs og Riddervolds <lb/>
+Stockholms Tour bør udsættes til næste Aar, hvorimod Intet <lb/>
+er til Hinder for, at Statsraad Petersen anstundende Høst kan begive <lb/>
+sig til Stockholm. Efter Overveielse af alle Omstændigheder, enedes <lb/>
+man dernæst om, at Statsraad Vogt bør være den anden Statsraad, som <lb/>
+næste Høst maa gaae til Stockholm.</p>
+               <p>	Jeg tillader mig saaledes underdanigst at indstille, at Deres <lb/>
+Majestæt, forinden Afreisen til Særø, naadigst vil befale, at  <lb/>
+Statsraaderne Vogt og Petersen ved næste Statsraads Ombytte skulle tiltræde <lb/>
+Statsraadsafdelingen i Stockholm og Statsraaderne Erichsen og Bretteville <lb/>
+ved Tilbagekomsten hertil, skulle overtage Bestyrelsen, Førstnævnte <lb/>
+af Marine-, sidstnævnte af Finants-Departementet.</p>
+               <p>	Statsraad Vogt har indgivet underdanigst Ansøgning om 5 à 6 Ugers <lb/>
+Tjenesteledighed, for at bruge Badet i Sandefjord, – som Regjeringen <lb/>
+tillader sig underdanigst at anbefale og derhos underdanigst at  <lb/>
+indstille, at under hans Fraværelse Statsraad Petersen maa bestyre <lb/>
+Finantsdepartementet ved Siden af Marine-Departementet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22de Mai 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

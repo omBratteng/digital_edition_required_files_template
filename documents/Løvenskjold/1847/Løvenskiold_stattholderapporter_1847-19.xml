@@ -1,0 +1,66 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. mai 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p>	Ifølge Deres Majestæts naadige Befaling af samme Datum, har Regjeringen paa Deres Majestæts høie Vegne igaar udfærdiget underdanigst vedlagte Provisoriske Anordning, hvorved Indførselstolden er hævet for Hvede, Ærter, Gryn, Bønner, malet eller uformalet, til August Maaneds Udgang.</p>
+               <p>	Det var vel, at Deres Majestæts Befaling i denne Henseende var bestemtere i den naadige Skrivelse til mig end i Statsraadsprotocollen, i Mangel af hvilket, Man uden Tvivl vilde have taget sig længer Betænktid. Da det oplystes, at Skibsafgifter og Fyrafgift neppe beløber 2 Skilling pr Tønde Korn, var jeg den Eneste af Regjeringens Medlemmer, som stemmede for sammes Ophævelse, meest for Opinionens Skyld.</p>
+               <p>	Man paastaaer, at der ikke vil mangle private Skibe til Befragtning for det Korn, som kan ventes, og at Transporten vil koste mindre ved disse end ved Orlogsfartøier.</p>
+               <p>	Udførselsforbudet for Sverige forøger under nærværende Omstændigheder naturligviis Bekymringen for Norge; men jeg takker underdanigst for Deres Majestæts naadige Tilsagn om at ville i denne Henseende gjøre det mulige til vore Bekymringers Formindskelse. De 6000 Tønder Korn, som vi havde ventet fra Sverige, have vi nu requireret fra russiske Havne, blandt andre fra Åbo. Af Regjeringens indforskrevne 2000 Tønder Korn, er idag indkommet her paa Havnen de første 500 Tønder Ruug og 250 Tønder Byg, som oplægges i det militaire Magazin. Hertil er endnu ikke kommet mere, hvorimod Arendal, Skien, Drammen have faaet nogen Tilførsel ved Privates Anstrængelse, men desværre til Priser, som kun faa kunne betale, hvorfor allerede i flere Bygder Livet opholdes ved Bark og Moss. I de østlige Byer, Frederikshald og Frederikstad klages nu ogsaa over Mangel.</p>
+               <p>	Ved Morgenposten vil afgaae Regjeringens underdanigste Indstilling om at Corpssamlinger og Exercitie maa bortfalde dette Aar i det hele Rige undtagen i de Throndhjemske Amter, samt ligeledes Recrut-Exercitie for Artilleriet og Cavalleriet søndenfjelds og for 7 Infanterie Corpser i de meest betrængte Districter, som jeg tillader mig underdanigst at anbefale til Deres Majestæts naadige Bifald.</p>
+               <p>	I Christiania og Drammen forefaldt om Aftenen den 17de Mai nogle Politie Uordener, som Følge af, at Andre vare mindre stemte til at give Penge til at amusere Pøbelen, hvortil denne er bleven vant for Dagen.</p>
+               <p>	Jæger-Esquadronens Heste stode sadlede; men Politiet standsede Uordenerne uden militair Hjelp.</p>
+               <p>	Værre turde det blive, om Massens vel-grundede Klager over Levnetsmidlernes enorme Dyrhed skulde udbryde i Voldsomheder. Symptomer vise sig og Erfaring lærer, at naar Styrelsen ikke kan eller vil hjelpe Massen til Levnetsmidler for Priser, som den kan betale saa hjelper den sig om mulig selv. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de Mai 1847. </date>
+                  </dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

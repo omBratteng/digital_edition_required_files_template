@@ -1,0 +1,102 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 16. oktober 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p>	Den fra Laurvig tilbagekomne Professor Conradi og den ham <lb/>
+medfulgte Dyrlæge berette: at foruden de 3de paa Gaarden Yttersoe af <lb/>
+Lungsot angrebne og creperede hollandske Køer, blev en 4de Koe af <lb/>
+Gaardens Besætning angreben af samme Sygdom og strax slagtet,  <lb/>
+hvorefter der ikke sporedes Tegn til Sygdommens videre Udbredelse.</p>
+               <p>	2de under Professorens Ophold paa Yttersøe ankomne nye hollandske <lb/>
+Køer, blev lagt i Quarantaine paa en afsides liggende Gaard og Røgteren <lb/>
+forbuden alt Samqvem med Bygden.</p>
+               <p>	Jeg finder denne Quarantaine Foranstaltning ganske i sin Orden; <lb/>
+men forundrer mig over, at den samme Læge, som finder Quarantaine <lb/>
+hensigtsmæssig for Fæ, anseer den unødvendig for Mennesker, som dog <lb/>
+ogsaa i denne Begivenhed have meget tilfælles med Fæet.</p>
+               <p>	Jeg seer, at den danske Finantsminister uden at oppebie den fra <lb/>
+Stockholm forlangte Erklæring, har forelagt Rigsdagen Lovforslag om <lb/>
+al Quarantaines Ophævelse og ønsker, at Danmark herved maa opnaae <lb/>
+Lord Palmerstones oprigtigere Deeltagelse end hidindtil.</p>
+               <p>	Siden den 10de har her, med Undtagelse af enkelte Timer, eller <lb/>
+en enkelt Dag, regnet uophørlig og endnu i Dag øser Regnen ned, hvorved <lb/>
+det udestaaende Korn er bleven saa gjennemvaadt at det kun ved Guds <lb/>
+Almagt skulde kunne reddes fra total Ødelæggelse. Vor Udsigt for <lb/>
+Mennesker og Dyrs Livs Næring er saaleds høist sørgelig.</p>
+               <p>	Deres Majestæt vil maaskee have bemærket, at Hr L. K. Daa er <lb/>
+udtraaet af Christiania Postens Redaction, for at udgive et eget Blad, <lb/>
+under Navn af "den Norske Tilskuer". Vor radicale Presse gjør ham nu <lb/>
+ivrig Cour, for at vinde ham tilbage under sin smudsige Fane, og det <lb/>
+vil ikke forundre mig, om det lykkes, efterat han har nedladt sig til <lb/>
+at lade sine Grundlovsforslag fremføre ved Jaabæk og Holst.</p>
+               <p>	Et sørgeligere Indtryk gjør den Deeltagelse, som Lord Palmerstone <lb/>
+viser et fremmed Lands Oprørere, den Jubel og Udmærkelse, hvormed disse <lb/>
+modtages af det engelske Folk. Herimod betyder kun lidet den Deeltagelse, <lb/>
+som Yankéerne vise Piraterne mod Cuba thi de ere Udskuddet <lb/>
+af det fordærvede Europas politiske Cloak. Le monde ressemble à un <lb/>
+college en revolte. Le terme, où nous touchons, c'est le chaos social <lb/>
+c'est la barbarie, og dette er Resultat af vor moderne Oplysning, af <lb/>
+vore saakaldte "progrès"!</p>
+               <p>	Jeg beder Deres Majestæt naadigst tilgive, at jeg har ladet mig <lb/>
+henrive til denne Digression.</p>
+               <p>	Da Deres Majestæt vil have den Naade, at tage Hensyn paa min <lb/>
+underdanigste Anbefaling til nogle Ordens Decorationer, vover jeg endnu <lb/>
+at nævne Kammerherre Morgenstjerne, der formeentlig som Politiemester <lb/>
+har viist sig værdig til Deres Majestæts Naade.</p>
+               <p>	Jeg skrev min sidste underdanigste Rapport under en voldsom Feber <lb/>
+Paroxismus og har senere ikke kunnet forlade mine Værelser, men <lb/>
+føeler mig i Dag Gud skee Tak noget bedre. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 16 October 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

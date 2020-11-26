@@ -1,0 +1,69 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 12. januar 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Efter min sidste underdanigste Rapport af 9de denne Maaned har jeg idag Intet at indberette og indskrænker mig saaledes til at berøre 2de Regjeringens underdanigste Indstillinger, som afgaae med Dagsposten, betræffende: <lb/>
+                  <list>
+                     <label>1o</label>
+                     <item>en hanoversk Skipper Johan Schwanwedels og Drengs fortjenstfulde Redning af forulykkede norske Søfolk og <lb/>
+                     </item>
+                     <label>2o</label>
+                     <item>en Benaadnings-Sag.</item>
+                  </list>
+               </p>
+               <p>	I førstnævnte Henseende bemærkes underdanigst, at man her endnu aldrig har belønnet Handlinger af omnævnte Beskaffenhed, baade med Medaille og Penge; men indskrænket sig til een af Delerne, med Hensyn paa Handlingens Beskaffenhed og Vedkommendes Stilling. Medaillen er efter sin nye Bestemmelse endnu ikke bleven givet, og man formener, at Medaillen i Guld, som, i Mangel af en norsk Orden, er det høieste norske Hæderstegn, bør være forbeholdt for store og overordentlige Fortjenester af Fædrenelandet. Med Hensyn paa disse Betragtninger var man tvivlsom, om man burde foreslaae for Skipper Schwanwedel Medaillen eller 50 Ducater men besluttede omsider, underdanigst at indstille ham til at benaades med Medaillen i Sølv og hans Dreng med 50 norske Speciedaler.</p>
+               <p>	Benaadningssagen betræffer den ulykkelige Pige, som 16 Aar gammel, foranledigede den sidste store Ildebrand i Bergen hvorfor hun for sin Livstid blev dømt til Tugthuset, – hvor Deres Majestæt i sin Tid har seet hende.</p>
+               <p>	Efterat have hensat i denne Straffe-Anstalt i 14 Aar og derunder viist god Opførsel, har man nu troet at burde underdanigst indstille hende til naadigst Løsladelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12 Januar 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 27. mai 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	I Forbindelse med den af Hans Excellence Statholderen under 24de <lb/>
+dennes afgivne Rapport er det bleven mig overdraget underdanigst at  <lb/>
+anmelde hvad der betræffende Harro Harrings paatænkte Bortviisning  <lb/>
+herfra Landet i Statsraadet den 25de blev besluttet.</p>
+               <p>	Ifølge heraf tillader jeg mig underdanigst at indberette, at Sagen <lb/>
+endnu ikke difinitivt har kunnet afgjøres, saasom Meningerne i bemeldte <lb/>
+Session ikke kunde bringes til den Eenhed, som i nærværende Tilfælde <lb/>
+ansees ønskelig. Det erkjendtes imidlertid, at Sagen ei burde udsættes <lb/>
+længere end høist nødvendig og det blev derfor bestemt at den i dag den 27de atter skal foretages i extraordinairt Statsraad.</p>
+               <p>	At en endelig Beslutning da vil blive fattet, antager jeg for afgjort, <lb/>
+ligesom jeg ogsaa, efter det Passerede, nærer Haab om, at denne vil gaae <lb/>
+ud paa bemeldte Harrings Bortviisning, hvorefter saadan Beslutning  <lb/>
+formeentlig uden Ophold vil blive bragt i Udførelse.</p>
+               <p>	Nærmere Indberetning herom vil snarest mulig blive Deres Majestæt <lb/>
+underdanigst forelagt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de Mai 1850</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

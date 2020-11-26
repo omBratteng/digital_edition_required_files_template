@@ -1,0 +1,89 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 13. april 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 10de denne Maaned.</p>
+               <p>	Den i Grev Lewenhaupts Brev af 7de befalede Copie af Regjerings <lb/>
+Advocatens confidentielle Betænkning i den Sexiske Sag giver jeg mig <lb/>
+den Ære underdanigst at vedlægge. Om Deres Majestæt i nogen <lb/>
+Henseende maatte befale en yderligere Udvikling, tør jeg derom modsee <lb/>
+Deres Majestæts naadige Befaling.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge en senere hertil <lb/>
+ankommen Sendeskrivelse fra Harro Harring til Slesvig-Holstenerne, som <lb/>
+kun kan have Interesse for andre Europæere formedelst Harrings deri <lb/>
+uforbeholdent meddeelte Anskuelser om Monarchie i Almindelighed.</p>
+               <p>	Som efter gammelt Ordsprog alle gode Ting ere Tre, venter jeg <lb/>
+hernæst en 3die Sendeskrivelse fra Harro Harring til alle Normænd.</p>
+               <p>	Offentlige Blade vise nu, at man i det engelske Over- og Underhuus <lb/>
+begynder at yttre Uro over de mange europæiske Oprørere, som ere <lb/>
+samlede i England, under Lord Palmerstons Beskyttelse og der conspirere <lb/>
+mod det øvrige Europas Fred og Ro. Det vilde være et Mesterstykke, <lb/>
+om Baron John Reenhausen kunde bevirke Harro Harring bortviist fra <lb/>
+England, som hertillands vilde gjøre en fortræffelig Effect.</p>
+               <p>	Først havde vi Cholera, saa fik vi Storthing, for det 3die <lb/>
+anmeldte Kjøbenhavns Studenter sig til Besøg hos vore i anstundende  <lb/>
+Sommer. I denne Anledning var i Gaar Aftes Samling i Studenter Samfundet, <lb/>
+hvori vore Skandinaver, med Professorerne Welhaven og Faye i Spidsen, <lb/>
+anstrængede sig for at faae en Indbydelse i Stand til de danske  <lb/>
+Brødre. Denne Anstrængelse strandede paa Directionens Erklæring, at <lb/>
+den før vilde fratræde sin Stilling end udstæde en Indbydelse og de <lb/>
+varme Debatter sluttede med at Directionen skal give et Svar = et <lb/>
+høfligt Refus.</p>
+               <p>	Storthinget holder Ferie til over Paaske og de fleste Medlemmer <lb/>
+have forladt os. Om Gud bød mig efter Paaske Storthing eller Cholera, <lb/>
+tog jeg med Kyshaand Cholera, og at dette her er den almindelige <lb/>
+Anskuelse, viiste sig nylig, ved den lidet smiggrende Deeltagelse, som <lb/>
+Anstrængelsen for den tiltænkte Fest Middag mødte. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 April 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

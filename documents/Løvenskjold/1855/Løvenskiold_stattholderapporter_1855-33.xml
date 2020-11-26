@@ -1,0 +1,106 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 15. november 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 9de denne Maaned, <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+8de, hvorfor jeg underdanigst takker.</p>
+               <p>	Jeg tillader mig at nedlægge min underdanige Lykønskning til <lb/>
+Hans Kongelige Høihed Prinds Augusts lykkelige Hjemkomst, som glæder <lb/>
+mig mere end General Canroberts Ankomst. <lb/>
+Vi have her i den senere Tid, Gud skee Tak, havt en betydelig <lb/>
+Korntilførsel; men Priserne saa vel for Korn, som for alle andre <lb/>
+Livsfornødenheder vedligeholdes i en meget trykkende Høide. Ogsaa de <lb/>
+nordlige Provindser have modtaget en forhaabentlig tilstrækkelig  <lb/>
+Vinterforsyning og tør man haabe, at Finmarken, efterat de fiendtlige <lb/>
+Krydsere nu have forladt det hvide Hav, vil kunne faae det Manglende <lb/>
+fra de russiske Havne.</p>
+               <p>	Det har destoværre viist sig at den af Architect Hanno opførte <lb/>
+vakkre Kuppel over Byens nye Kirke er bleven saa feilagtig construeret, <lb/>
+at den for en Deel maa nedtages og ombygges. Vore Architecter <lb/>
+gjøre meget vakkre og meget dyre Tegninger, men overlade sædvanlig <lb/>
+Udførelsen til underordnede Haandværkere.</p>
+               <p>	Deres Majestæts Gaards-Fuldmægtig paa Ladegaardsøen, Monsieur <lb/>
+Biseth, er for flere af ham inventerede Agerdyrkningsredskaber, som <lb/>
+paa Pariser Udstillingen have vundet meget Bifald, udnævnt til Medlem <lb/>
+af det franske Academie agricole, en Udmærkelse, hvilken han som <lb/>
+Practicus visselig fortjener saa godt som nogen Professor.</p>
+               <p>	Min Søn Ernst har, efter en naadig Indbydelse af Hans Majestæt <lb/>
+Kongen af Dannemark, nylig havt den Ære at tilbringe 14 behagelige <lb/>
+Dage paa Frederiksborg Slot i Jagtsaisonnen, hvorom han har givet <lb/>
+mig en Meddelelse, som maaskee turde have en liden Interesse for  <lb/>
+Deres Majestæt og som jeg derfor tillader mig underdanigst at gjengive.</p>
+               <p>	Selskabet bestod af Prindserne af Dannemark og Hessen, Greverne <lb/>
+Danneskiold og andre distinguerede Godseiere, Hoffets Cavalierer, <lb/>
+Udenrigsministeren Hans Excellence GeheimeConferentsraad Scheel, som <lb/>
+var den eneste af de Kongelige Ministre, formodentlig fordi de øvrige <lb/>
+lærde Herrer neppe forstaae at løse et Skud.</p>
+               <p>	Hver Formiddag Klokken 8 à 10 kjørte man daglig ud til de <lb/>
+forskjellige Jagter og kom tilbage Klokken 5 à 7 Eftermiddag. En Time <lb/>
+senere var Taffel for 40 Couverts, hvorefter spilledes Billard og <lb/>
+Kort, hvori Kongen deeltog. Hans Majestæt var den hele Tid munter, <lb/>
+en meget naadig Vært, hvortil <hi rend="underline">vi</hi>  ere vante, og dejeunerede en Dag <lb/>
+hos sin Hofjægermester Baron Løvenskiold. Jagternes Udbytte var 223 <lb/>
+Stykker Vildt, hvoraf 97 Ræve. Hofjægermesteren beklager de Kongelige <lb/>
+Jagters Forringelse og Ødelæggelse under den nye Regjeringsform. <lb/>
+Lignende Klage har jeg hørt i andre Lande med moderne Institutioner. <lb/>
+Naar Alle skulle have Jagt, faaer sluttelig Ingen den; thi den kan <lb/>
+ikke forslaae for Alle.</p>
+               <p>	Grevinde Danner deeltog kun 2 Dage i det Kongelige Taffel; men <lb/>
+havde en Aften indbuden Selskabet til sig, hvorved hun gjorde Parti <lb/>
+med Hans Majestæt, Hans Excellence Scheel og Ernst.</p>
+               <p>	Under Jagttiden holdtes kun een Gang Statsraad, hvortil man <lb/>
+havde valgt <hi rend="underline">en Søndag</hi>!</p>
+               <p>	I det muntre Jagtselskab blev ikke talt et Ord om Øresundstolden. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15de November 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

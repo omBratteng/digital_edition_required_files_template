@@ -1,0 +1,173 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 21. juni 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 17de denne Maaned. <lb/>
+Det være mig naadigst tilladt for Deres Majestæt at  <lb/>
+frembære mine underdanigste Lykønskninger i Anledning af Hans Kongelige  <lb/>
+Høiheds Kronprindsens den 19de fuldbyrdede Formæling. Denne for  <lb/>
+Kongehuset og de forenede Riger lige lykkelige og viktige Begivenhed er her <lb/>
+modtaget med almindelig Glæde og ledsages med Folkets varmeste Ønsker <lb/>
+om Lykke og Velsignelse for det høie Brudepar.</p>
+               <p>	Dagen feiredes af mig ved en Middag i Stiftsgaarden, hvortil <lb/>
+samtlige Authoriteter vare indbudne; Deres Majestæters og det  <lb/>
+Kongelige Brudepars Skaaler bleve udbragte under Salut.</p>
+               <p>	Samme Dags Formiddag bivaanede jeg tilligemed Regjeringens <lb/>
+øvrige Medlemmer Universitetets Fest i Anledning af Formælings  <lb/>
+Høitideligheden, hvor Professor Welhaven i et mesterligt Foredrag  <lb/>
+skildrede Familielivet som Grundvolden for Staternes og Individernes Lykke <lb/>
+og sluttede med at nedbede Himmelens Velsignelse over den for de  <lb/>
+forenede Riger nu afsluttede viktige Forbindelse. Før og efter Talen <lb/>
+blev afsunget en Cantat af de Studerende ligesom Professor Munch i  <lb/>
+et værdiefuldt Program havde indbuden til Festen og deri meddeelt <lb/>
+interessante Oplysninger om Hendes Kongelige Høihed Kronprindsessens <lb/>
+Slægtskab med vor gamle norske Kongeæt. Jeg kan ikke nok rose den <lb/>
+gode Stemning der ved denne Leilighed yttrede sig blant den talrige <lb/>
+Forsamling, ligesom den underdanige Hengivenhed for Deres Majestæt <lb/>
+og Kongehuset, som derved udtalte sig blant Universitetets Lærere <lb/>
+og Studerende. En Afskrift af Professor Welhavens Tale tillader jeg <lb/>
+mig underdanigst at vedlægge, hvorimod Programmet vil blive Deres <lb/>
+Majestæt tilstillet af Collegiet. <lb/>
+Samtlige Christiania Byes Fattige og Lemmerne i de forskjellige <lb/>
+Fattighuse bleve samme Dag overeensstemmende med Deres Majestæts <lb/>
+naadige Befaling, bespiiste med et godt og velsmagende Maaltid, ganske <lb/>
+paa samme Maade, som det sædvanlig skeer paa Deres Majestæts høie <lb/>
+Fødselsdag, mere end 1500 Individer deeltoge i denne Kongelige  <lb/>
+Velgjerning. Jeg tillader mig underdanigst at vedlægge den constituerede <lb/>
+Borgemesters Indberetning derom. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de Juni 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 21. juni 1850</supplied>
+               </head>
+               <opener>Høivelbaarne <lb/>
+Hrr Statsraad Krog <lb/>
+Ridder og Commandeur af Hs Kongelige Majestæts Ordener.</opener>
+               <p>	Jeg giver mig herved den Ære allererbødigst at meddele Deres <lb/>
+Høivelbaarenhed, at de af Hans Majestæt Kongen naadigst skjænkede <lb/>
+200 Sp. til de Fattiges Bespiisning paa Hans Kongelige Høihed  <lb/>
+Kronprindsens Formælingsdag d. 19de denne Maaned ere anvendte saaledes: <lb/>
+               </p>
+               <table>
+                  <row>
+                     <cell>Til 8 Fattige i Kong Carl Johans Stiftelse	</cell>
+                     <cell>			  4 Sp. </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  22  "  i Byens gamle Fattighuus	</cell>
+                     <cell>			  3 – 	80</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  17  "  i Peder Mikkelsens Enkestue		</cell>
+                     <cell>		  2 –	100</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  50  "  i Saugbankens Fattigstue	</cell>
+                     <cell>			  8 – 	40</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>" 263  "  i Byens øvrige Fattigstuer	</cell>
+                     <cell>			43 – 	100</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  30  "  i Oslo Hospital		</cell>
+                     <cell>				  5 –	"</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>" 340  Udenhuusfattige paa Grønland	</cell>
+                     <cell>			30 –	"</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  40  Ditto i Oslo	</cell>
+                     <cell>					  5 –	"</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>" 800  Ditto i Christiania	</cell>
+                     <cell>
+                        <hi rend="underline">97 –	40</hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>								</cell>
+                     <cell>  = 200 Sp.</cell>
+                  </row>
+               </table>
+               <lb/>
+               <p>Samtlige Individer paa Fattigstuere have nydt et godt  <lb/>
+Middagsmaaltid, saavidt Omstændighederne have tilladt det ved sluttet Bord <lb/>
+og af de Udenhuusfattige har hver erholdt en Portion Kjød- og  <lb/>
+Ærtesuppe med Kjød og Brød. – Fattigforstandernes underdanigste  <lb/>
+Taksigelse for den Kongelige Gave vil i Morgen blive indrykket i Aviserne.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 20de Juni 1850</date>.</dateline>
+                  <lb/>
+                  <salute>Allerærbødigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>E. Thorsted</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 28. desember 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 24de denne Maaned have <lb/>
+vi havt Indberetning om Cholera i Bergen til den 21de, hvorefter fra <lb/>
+den 17de til den benævnte Dag, 22 nye Sygdomstilfælde og 13 Dødsfald <lb/>
+vare indtrufne. Sygdommen havde endnu ikke viist sig i andre Dele af <lb/>
+Byen end i det oprindelige fattige Strøg og senere i 2de Fattighuse. <lb/>
+Stadsphysicus i Bergen erklærer, at Sygdommen viser sig at være  <lb/>
+contagiøs, hvorom Erfaring for længst har overbeviist mig; men hvorom vore <lb/>
+fleste Læger endnu tiltrænge en sørgelig Erfaring, den de for seent <lb/>
+vil faae.</p>
+               <p>	I Bergen var den 21de indrettet et Lazaret til 100 Patienter. Byens <lb/>
+egne Læger, i Forening med de herfra afsendte, ville afgive den fornødne <lb/>
+Lægehjelp, Apothekerne ere vel forsynede med Lægemidler og holder <lb/>
+jeg mig iøvrigt overbeviist om, at Stiftamtmand Hagerup vil foranstalte <lb/>
+Alt hensigtsmæssigt til Sygdommens Standsning. For Sygdommens videre <lb/>
+Udbredelse ere Omstændighederne derimod beklageligviis altfor gunstige og <lb/>
+det er en haard og vanskelig Kamp at kjæmpe derimod.</p>
+               <p>	Vore Læger i Centralcommissionen, som alle vore yngre Læger have <lb/>
+nu en Gang den fixe Anskuelse, at Cholera morbus ikke forplantes ved <lb/>
+Smitte og at alle Foranstaltninger mod dens Indtrængen og videre Udbredelse <lb/>
+ere unødvendige, ere en unyttig Opoffrelse af store materielle Interesser. <lb/>
+At denne Anskuelse, som endog deles af Statsraader, hvoriblandt <lb/>
+dog <hi rend="underline">ikke</hi>  er Marine Departementets Chef, er populair for Handlende og  <lb/>
+Søfarende, er naturlig og den er dobbelt vanskelig, næsten umulig at  <lb/>
+modarbeide i dette Øieblik, da Sildefiskeriet sætter Handelsmænd, Søfarende <lb/>
+og den vidtstrakte vestlige Kysts hele Befolkning i Bevægelse. Central <lb/>
+Commissionens principale Forslag var, fra det Øieblik Cholera havde <lb/>
+viist sig i Bergen, at ophæve al Quarantaine i det hele Rige, hvilket <lb/>
+Statsraad Erichsen var enig med mig om bestemt at forkaste, hvorimod jeg <lb/>
+med Hensyn paa de oven paapegede Omstændigheder maatte være enig med <lb/>
+ham om Nødvendigheden af Modificationer med mindre man vilde gjøre  <lb/>
+Sildefiskeriet umuligt, hvilket efter Omstændighederne er umuligt. Man <lb/>
+enedes omsider om, saaledes som af underdanigst vedlagte Copie naadigst <lb/>
+vil erfares, at erklære Staden Bergen for Cholera smittet og indtil <lb/>
+videre at suspendere Quarantaine-Forskrifterne i det Kyst-District, hvor <lb/>
+Sildefiskeriet foregaaer, fordi de ved Siden af dette, ikke vilde kunne <lb/>
+overholdes.</p>
+               <p>	Det eneste, som under disse Omstændigheder herfra kan gjøres mod <lb/>
+Sygdommens Udbredelse, er at give Øvrighederne i hiint District Instruction <lb/>
+for indtræffende Tilfælde og at sende flere Læger did, hvilket <lb/>
+allerede er foranstaltet.</p>
+               <p>	Som dette Aar begyndte, saa slutter det, med Landeplager! I en stor <lb/>
+Deel af Europa politisk, i en anden physisk Cholera. Den sidste er  <lb/>
+ulykkelig, den første end ulykkeligere.</p>
+               <p>	Gud give Deres Majestæter med høie Familie et godt og lyksaligt <lb/>
+Nytaar!</p>
+               <p>	Af en dansk Avis har jeg erfaret, at den franske Regjering har <lb/>
+forbuden slesvigske Skibe at indløbe i franske Havne, med andre end danske <lb/>
+Nationalitetsmærker. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 Decbr. 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 28. desember 1848</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="expanded">A f s k r i f t</hi>
+               </head>
+               <p>af Marine-Departementets Circulaire-Skrivelse af 25de December 1848 <lb/>
+til de Amter, Overlodse og Qvarantaine-Commissioner, hvorunder samtlige <lb/>
+Søstæder og Havne paa Kyststrækningen fra Østerriisøer til Trondhjem, <lb/>
+begge inclusive, sortere.</p>
+               <p>			  oOo</p>
+               <p>	Da Departementet har modtaget Indberetning om, at enkelte Tilfælde <lb/>
+af den ondartede Cholera-Sygdom have viist sig i Staden Bergen, saa <lb/>
+bestemmes herved foreløbig <lb/>
+                  <list>
+                     <label>1.</label>
+                     <item>	at de fra Bergen ankommende Fartøier i alle Norske Stæder og Havne <lb/>
+udenfor Strækningen imellem Stat og Flekkefjord indtil videre blive at <lb/>
+behandle som kommende fra et af Cholera smittet Sted, og </item>
+                     <lb/>
+                     <label>2.</label>
+                     <item>	at al Qvarantaine med Hensyn til den ondartede Cholera indtil videre <lb/>
+ophæves i alle Stæder og Havne i Strækningen imellem Stat og Flekkefjord, <lb/>
+dog saaledes, at Fartøier, der ankomme til noget i bemeldte Strækning <lb/>
+liggende Sted, hvor denne Sygdom endnu ikke har viist sig, undergives <lb/>
+den bestemte Qvarantaine, forsaavidt de paa Afseilingsstedet eller <lb/>
+under Reisen have havt, eller ved Ankomsten have ombord Syge eller Døde, <lb/>
+hvis Sygdom skjønnes at være eller at have været den ondartede Cholera.</item>
+                  </list>
+               </p>
+               <p>	Hvilket herved tjenstlig meddeles til Efterretning og snarest mulig <lb/>
+Kundgjørelse for samtlige Vedkommende.</p>
+               <closer>				in fidem copia<lb/>
+                  <signed>
+                     <persName>P. Blix</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

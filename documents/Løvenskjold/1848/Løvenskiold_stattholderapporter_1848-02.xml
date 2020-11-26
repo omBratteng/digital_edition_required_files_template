@@ -1,0 +1,110 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 9. januar 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 2den denne Maaned.</p>
+               <p>	Jeg maa ugjerne underdanigst indberette at jeg paa det nærmeste <lb/>
+har tabt Slaget for Høiesteret i Regjeringen som Følge af, at 2de mine <lb/>
+Bundsforvanter ikke kunde deeltage i Sagens Behandling, og at denne <lb/>
+mødte en aldeles uventet Opposition af Statsraad Stang.</p>
+               <p>	Statsraaderne Holst, Vogt, Schmidt, vare enige med mig om, at indstille <lb/>
+samtlige Høiesterets Assessorer til 200 Speciedaler aarlig Gagetillæg,  <lb/>
+som saaledes vilde havt Pluralitet i Regjeringen. Overeensstemmende  <lb/>
+hermed gjorde Statsraad Schmidt sin vel motiverede Indstilling men <lb/>
+uheldigviis forhindredes Statsraaderne Holst og Vogt ved Sygdom fra at <lb/>
+bivaane Statsraadet. Stangs Opposition var mig uventet, blandt Andet, <lb/>
+fordi 2de Høiesterets Assessorer Lasson og Hjelm ere hans Svogre og <lb/>
+trængende Mænd.</p>
+               <p>	Han opponerede imidlertid med megen Hæftighed, fordi han ansaa det <lb/>
+umuligt at forskaffe samtlige Amtmænd et lignende Tillæg uden hvilket <lb/>
+han ikke vilde stemme for samtlige Høiesterets Assessorers Tillæg.</p>
+               <p>	Da jeg maatte ansee Sagen tabt i Storthinget, om dens Behandling <lb/>
+viiste Dissents i Regjeringen, ansaa jeg det klogest at stemme for den <lb/>
+Mening, som efter en langvarig Discussion vandt Eenstemmighed i Regjeringen, <lb/>
+nemlig at indstille de 4 ældste Høiesterets Assessorer til hver 200 <lb/>
+Speciedaler Tillæg og til de 4 meest trængende Amtmænd tilsammen 650 <lb/>
+Spdl., altsaa et Tillæg til Høiesterets Assessorer 800 Spdl. (istedetfor <lb/>
+paatænkte 1800 Spdl.) og til Amtmændene 650 Spdl.,hvortil jeg underdanigst <lb/>
+udbeder Deres Majestæts naadige Bifald.</p>
+               <p>	Statsraaderne Holst og Vogt have hele den forrige Uge ved Sygdom <lb/>
+været forhindrede fra at deeltage i Regjeringens Sessioner hvilket i <lb/>
+nærværende Tidspunkt er dobbelt beklageligt.</p>
+               <p>	Høiesterets Assessor Motzfeldts Frue døde nogle Dage efter sin Mand <lb/>
+og uden at have erfaret dennes Død, af samme Sygdom, nemlig grippe. De <lb/>
+skulle begge begraves imorgen.</p>
+               <p>	Den Naade, hvormed Deres Majestæter ved alle Leiligheder have behaget <lb/>
+at hædre mig og de mine tillader mig og paalægger mig den sørgelige <lb/>
+Pligt, underdanigst at indberette, at det har behaget Gud den 6te <lb/>
+denne Maaned at bortkalde til et bedre Liv min elskede Sønnedatter Sophie <lb/>
+Løvenskiold i hendes 20de Aar.</p>
+               <p>	Siden hun i sidstafvigte Foraar havde Mæslinger, har hun ikke havt <lb/>
+sin forrige gode Helbred; men nogen speciel Anledning til den pludselige <lb/>
+aldeles uventede Død, efter kun 2 Dages Sygeleie, hvorunder Lægen ingen <lb/>
+Fare ahnede, kjendes ikke.</p>
+               <p>	Endnu den 3die dandsede hun munter og glad; den 6te hendes <lb/>
+Trolovedes Fødselsdag, laae hun Liig! Her sender jeg en tydsk Digters <lb/>
+Sørgeqvad:</p>
+               <lg>
+                  <l>	"Heute tantzt die junge Braut,</l>
+                  <l>	Morgen auf der Bahre!”</l>
+               </lg>
+               <p>	Mit Hjerte drager mig til Fossum, for at trøste de dybt nedbøiede <lb/>
+Forældre, den fortvivlede Fæstemand; men under de her forhaandenværende <lb/>
+Omstændigheder, byder Pligt mig at blive her.</p>
+               <p>	Statsraad Schmidt hentedes igaar fra Statsraadet til sin døende Frue, <lb/>
+hvis Tilstand uden Tvivl ogsaa vil gjøre ham utjenstdygtig. Jeg  <lb/>
+gjennemgaaer en meget haard Tid, hvorunder Savnet af Meddelelser fra Deres  <lb/>
+Majestæts høie Haand er dobbelt smertelig for mig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9 Januar 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

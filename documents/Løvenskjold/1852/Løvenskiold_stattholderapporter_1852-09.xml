@@ -1,0 +1,73 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 5. mars 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden Hans Excellence Statholderens Afreise den 24de forrige <lb/>
+Maaned er Intet mærkeligt indtruffet som jeg har troet at burde  <lb/>
+underdanigst indberette til Deres Majestæt.</p>
+               <p>	Uagtet den vedvarende strænge Vinter gaaer dog Arbeidet paa <lb/>
+Jernbanelinien frem med Kraft; 1,500 Mand ere daglig beskjæftigede <lb/>
+og finde derved Virksomhed og Fortjeneste. Hvis Arbeidet saaledes <lb/>
+skrider fremad, tør man maaskee gjøre sig Haab om, at en Deel af Linien <lb/>
+vil kunne aabnes og befares til Høsten.</p>
+               <p>	Sildefiskeriet er nu saa godt som sluttet, og Udbyttet, skjønt <lb/>
+noget mindre end et Middelsaar, har dog oversteget Forventningen.</p>
+               <p>	Kongsberg Sølvværk giver fremdeles gode Udsigter. Vel vil <lb/>
+der i den nærmeste Fremtid blive leveret mindre Sølv, da man i Aarene <lb/>
+1848-1850, for at fyldestgjøre Statscassens Fordringer, maatte <lb/>
+anstrænge Driften og derfor nu maa anvende betydeligt Arbeide paa <lb/>
+at afdrive de tilbagestaaende Bjergmasser. Der er dog ikke nogen <lb/>
+Grund til at betvivle, at Sølvværket i denne Budgettermin vil levere <lb/>
+saa meget Sølv som paaregnet, nemlig 18000 Mark fiint Sølv aarlig. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te Marts 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

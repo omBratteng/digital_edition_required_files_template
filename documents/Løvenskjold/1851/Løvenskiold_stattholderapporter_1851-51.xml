@@ -1,0 +1,104 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 4. september 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 31te forrige Maaned.</p>
+               <p>	Med Henhold til min underdanigste Meddelelse deri om <lb/>
+Værnepligtslovens Behandling i Statsraadet, maa jeg nu beklage at Statsraad <lb/>
+Sylow vedbliver sit Forsæt at ville indstille den til Deres Majestæts <lb/>
+naadige Sanction. Sin hertil sigtende forandrede Indstilling foredrog han <lb/>
+atter i Statsraadet i Gaar, hvor Udfaldet blev som ved Sagens første <lb/>
+Behandling, nemlig, at medens Armee-Departementet's Chef vil tilraade <lb/>
+Lovens Sanction, finde Statsraadets samtlige øvrige Medlemmer sig  <lb/>
+forpligtede til underdanigst at fraraade den.</p>
+               <p>	Dernæst foredrog Statsraad Petersen sin Indstilling om naadigst <lb/>
+Sanction til Storthingets Beslutning om begge Kiøns lige Arveret, som <lb/>
+ogsaa Statsraadets samtlige øvrige Medlemmer underdanigst vil fraraade <lb/>
+Den lige Arveret er en af de moderne Ideer, der som saa mange lignende i <lb/>
+vor Nutid har bemægtiget sig Gemytterne. Det var mig saaledes ikke <lb/>
+uventet at 2de yngre juridiske Professorer, som Medlemmer af den <lb/>
+Commission hvori Gjenstanden foreløbig behandledes, erklærede sig for den <lb/>
+moderne Manie, at ville opoffre en gammel prøvet Institution for moderne <lb/>
+Theorier; men dette var mig uventet af den ældre og modnere Jurist, <lb/>
+nuværende Sorenskriver Lasson. Det er mig imidlertid bekjendt, at Lasson <lb/>
+allerede nu høieligen fortryder og bebreider sig, at han lod sig <lb/>
+henrive af sine yngre Colleger, og den samme Forandring i Tankegang, <lb/>
+spaaer jeg Statsraad Petersen. Det er min og mine fleste Collegers  <lb/>
+inderlige Overbeviisning, at den moderne Forandring i vor ældgamle  <lb/>
+Arvelov vilde blive fordærvelig for det Norske Folk, og med denne  <lb/>
+Overbeviisning bønfalder jeg Deres Majestæt underdanigst, ikke at  <lb/>
+sanctionnere den.</p>
+               <p>	Dæmagogen A.B. Stabell har nu igjen bragt Lensmandsloven, som <lb/>
+man troede begravet, paa Bane i Storthinget. Man mener imidlertid, at <lb/>
+denne Lovs Skjæbne i Storthinget vil dependere af Hypotheque Banklovens <lb/>
+Sanction eller Ikke Sanction, – nemlig, at Lensmandsloven i første <lb/>
+Fald vil nyde Fremgang, i sidste ikke, fordi begge Love have det <lb/>
+tilfælles, at de ville berøve Kongemagten det vigtige Prærogativ, at <lb/>
+udnævne offentlige Functionnairer. Om Prærogativet opretholdes i den <lb/>
+ene Begivenhed, kan det ventes opretholdt i den anden, i modsat Fald <lb/>
+ikke!</p>
+               <p>	Jeg formoder, at Storthinget vil kunne blive færdig til Opløsning <lb/>
+omkring den 20de denne Maaned og tillader mig, om vi ikke kan <lb/>
+vente den Lykke af Deres Majestæts personlige høie Nærværelse, at <lb/>
+udbede mig beæret med Deres Majestæts naadige Fuldmagt og øvrige <lb/>
+Befalinger for Opløsningen til omnævnte Tid.</p>
+               <p>	Dernæst vover jeg at udbede mig Deres Majestæts naadige Tilladelse <lb/>
+til muligen at afbenytte det Kongelige Palais til Storthingets <lb/>
+Opløsning og Beværtning, om Stiftsgaarden som jeg befrygter ikke skulde <lb/>
+kunne afgive det nødvendige Rum.</p>
+               <p>	Protocol-Comiteen har afgivet sin Beretning, som skal være ligesaa <lb/>
+dum som grov, – uden Indstilling til Rigsret. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 4de September 1851</date>
+                  </dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

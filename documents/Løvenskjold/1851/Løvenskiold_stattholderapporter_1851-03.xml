@@ -1,0 +1,110 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 19. januar 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p>	Ogsaa i sidste Uge havde vi 5 Statsraad, hvori næsten udelukkende <lb/>
+Storthings Sager behandledes. Man blev færdig med 2de Lovforslag <lb/>
+fra Indre Departementet om en ny Søret og en ny Veilov, som <lb/>
+i den kommende Uge vil kunne blive sendte til Stockholm.</p>
+               <p>	Sidstnævnte Forslag er især foranlediget ved Regjeringens <lb/>
+Ret efter den nu gjældende Veilov til at kunne uden Indskrænkning <lb/>
+bestemme Udgifterne til Veivæsenet, en Beskatningsret, som Indre- <lb/>
+Departementet har benyttet til Veivæsenets Fremme, men forbunden med <lb/>
+saa betydelige Udgifter, at disse have opvakt en ikke ugrundet <lb/>
+Utilfredshed.</p>
+               <p>	Det nærværende Forslag er bygget paa det formeentlig rigtige <lb/>
+Princip, at det bør være overladt til Storthinget at bestemme, <lb/>
+hvor stor en Sum, der aarlig skal udredes til det almindelige  <lb/>
+Veivæsen, det er Beskatningsretten; men den bevilgede Sums Anvendelse <lb/>
+til Regjeringen endelig, at Kjøbstæderne bør tage en forholdsmæssig <lb/>
+Deel i disse Udgifter.</p>
+               <p>	Under næsten alle Departements Chefers Fordring paa nu i sidste <lb/>
+Øieblik før Storthinget at foredrage deres Sager, maatte jeg bruge <lb/>
+min Myndighed til i Gaar at faae Budgettet behandlet, hvormed vi <lb/>
+efter 4 Timers trættende og tildeels ubehagelig Discussion blev <lb/>
+færdige. Det nærværende Budget er beregnet paa 2 Millioner, <lb/>
+715,700 Speciedaler Indtægt og Udgift, til tilfældige Udgifter <lb/>
+49,000 Speciedaler. I det næste Budget paaregnes Indtægt: 3 <lb/>
+Millioner 88,000 Spdl., deriblandt Told 2 Millioner, og til tilfældige <lb/>
+Udgifter 38,000 Speciedaler. Udgifterne til nye almeennyttige <lb/>
+Statsøiemed, beløbe i det nye Budget til betydelige Summer medens <lb/>
+dog nogle Told Afgifter foreslaaes nedsatte, som i min sidste <lb/>
+underdanigste Rapport ommeldt. − Statsraad Bretteville har ved Budgettets <lb/>
+Forfattelse viist den Dygtighed og Routine, som han har erhvervet <lb/>
+som Expeditions Secretair i Finants-Departementet og som jeg af ham <lb/>
+ventede.</p>
+               <p>	I den kommende Uge ville vi forhaabentlig blandt Andet tilendebringe <lb/>
+Behandlingen af Værnepligtsloven og Arveloven. Uagtet alle <lb/>
+deslige Sager have foregaaende circuleret blandt Regjeringens Medlemmer, <lb/>
+foranledige de dog som oftest langvarige mundtlige Discussioner, <lb/>
+undertiden endog om et eneste Ord.</p>
+               <p>	Denne Vinters Beskaffenhed er i Mangel af Slædeføre høist <lb/>
+ulykkelig for den indre Rørelse, især for Jernværkerne; thi denne <lb/>
+Mangel er i Norden, især i dette Land en virkelig Calamitet.</p>
+               <p>	Hans Kongelige Høihed Prinds Oscars Fødselsdag i Overmorgen, <lb/>
+hvortil jeg underdanigst lykønsker agter jeg at feire ved en Middag <lb/>
+paa 70 Couverts.</p>
+               <p>	Medens jeg ikke vover at gjentage mit underdanigst fremførte, <lb/>
+men ubesvarede Ønske, om Deres Majestæts høie Nærværelse her under <lb/>
+Storthinget bør jeg ikke lade ubemærket, at et almindeligt Rygte, <lb/>
+som endog skal være hidkommet fra Stockholm, bebuder dette Ønskes <lb/>
+Opfyldelse.</p>
+               <p>	Saavidt skrevet modtager jeg Hr Greve Lewenhaupts Brev af <lb/>
+16de og Statsraads Protocol af 11te denne Maaned.</p>
+               <p>	Jeg tillader mig underdanigst at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa en sandfærdig Beskrivelse af Bladskrivere <lb/>
+og Oppositionsmænd i Christiania Postens No 843. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19 Januar 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

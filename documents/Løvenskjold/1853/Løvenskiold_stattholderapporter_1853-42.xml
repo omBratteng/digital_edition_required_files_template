@@ -1,0 +1,107 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 18. september 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p>	Da de daglige Indberetninger om Cholerasygdommen i Christiania <lb/>
+og Omegn fremdeles indkomme saa seent paa Dagen, at Meddelelsen for <lb/>
+det sidste Døgn maa tilføies i det Øieblik, da Posten afgaaer, tillader <lb/>
+jeg mig underdanigst at lade Kammerherre Holst paa Foden heraf <lb/>
+anføre den fornødne Oplysning om Tilstanden her ved Postens Afgang. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 18 September 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 18. september 1853</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <lb/>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25te Julii til  16de September</cell>
+                     <cell>  1784 Angrebne,</cell>
+                     <cell> 1139 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  16de Septbr til 17de September</cell>
+                     <cell>  79  do  ,</cell>
+                     <cell>  52  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  17de Septbr.til 18de September</cell>
+                     <cell>  66  do  ,</cell>
+                     <cell>  30  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  18de Septbr.til 19de September</cell>
+                     <cell>  76  do  ,</cell>
+                     <cell>  48  do  </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> i det Hele til 19de Septbr.</cell>
+                     <cell> 2005 Angrebne,</cell>
+                     <cell> 1269 Døde.</cell>
+                  </row>
+               </table>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

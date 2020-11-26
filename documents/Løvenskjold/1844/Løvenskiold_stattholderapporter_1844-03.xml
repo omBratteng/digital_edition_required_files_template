@@ -1,0 +1,73 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 15. april 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 12te denne Maaned er <lb/>
+Intet indtruffet, som fortjener Deres Majestæts naadige Opmerksomhed.</p>
+               <p>	Saadant maa under vore sædvanlige, Gud skee Tak! fredelige Forholde, <lb/>
+som oftest være Tilfældet, da Posten imellem Stockholm og <lb/>
+Christiania gaaer hver 3die eller 4de Dag, og mine postdaglige underdanige <lb/>
+Rapporter kunne da som oftest kun forvolde Deres Majestæt unyttig <lb/>
+Besvær og Tidsspilde. Jeg tillader mig saaledes at troe, at <lb/>
+den Rigs Statholderen givne Befaling, at indsende en underdanigst <lb/>
+Rapport <hi rend="underline">med hver afgaaende Post</hi>, uden Skade kan modificeres, naturligviis <lb/>
+med Forbehold af den Forpligtelse for ham, at afgive underdanigst <lb/>
+Rapport til Deres Majestæt saa ofte dertil gives Anledning.</p>
+               <p>	Vel har min ældste Søn meddeelt mig Deres Majestæts ham mundtlig <lb/>
+tilkjendegivne naadigst bifaldende Anskuelse om denne Gjenstand, <lb/>
+men da jeg ikke drister mig til at ansee mig dispenseret fra den mig <lb/>
+paalagte Pligt, uden Deres Majestæts naadigste Befaling, vover jeg <lb/>
+at bede mig denne naadigst meddeelt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 April 1844</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

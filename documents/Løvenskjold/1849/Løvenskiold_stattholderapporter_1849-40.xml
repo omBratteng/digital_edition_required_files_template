@@ -1,0 +1,97 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 27. desember 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p>	Jeg har idag Intet at indberette, men følger kun mit Hjertes Trang <lb/>
+ved at fremsende mine underdanigste Lykønskninger til det om faa Dage <lb/>
+begyndende nye Aar.</p>
+               <p>	Jeg beder Gud holde Sin beskyttende Haand over Deres Majestæt og <lb/>
+den Kongelige Familie, over Deres Majestæts forenede Riger. Maa det <lb/>
+nye Aar blive velsignelsesrigt for Disse; maa Deres Majestæters og  <lb/>
+Rigernes kjæreste Ønske for vedværende og for en ny Lykke i den Kongelige <lb/>
+Familie gaae i Opfyldelse og vorde kronet med varigt Held!</p>
+               <p>	Medens Deres Majestæts Riger ogsaa i det nu til Ende løbende Aar, <lb/>
+Gud være lovet, have været forskaanede for store Ulykker, der have <lb/>
+rammet og herjet mange Europas Lande, have Misvæxt og Climat dog i flere <lb/>
+enkelte Districter deels formindsket, deels ødelagt Aarets Afgrøde, <lb/>
+hvorved i disse er bevirket megen Nød og Elendighed. Jeg antager, at <lb/>
+det i underdanigst vedlagte Artikel omhandlede Sælbo Præstegjeld i <lb/>
+Søndre Trondhjems Amt er et af de haardest trufne Districter, hvor Nøden <lb/>
+er meget stor og beder, at det ikke maa ansees for ubeskedent eller <lb/>
+paatrængende, naar jeg i Underdanighed tillader mig at henlede Deres <lb/>
+Majestæts naadige Opmærksomhed paa denne Nød og underdanigst at  <lb/>
+henstille om Deres Majestæt ved en liden Naadegave, som jeg kunde hæve <lb/>
+hos Kammerherre Holst og tilsende vedkommende Sognepræst, maatte ville <lb/>
+lindre denne Nød, for at Deres Majestæts høie Navn ogsaa der maa blive <lb/>
+priset.</p>
+               <p>	Paa Rideauen i det Kongelige Theater i Kjøbenhavn staaer skrevet: <lb/>
+"Ei blot til Lyst". Med lige Føie kunde man visselig paaskrive Rideauen <lb/>
+i Nutidens mangfoldige saa kaldte videnskabelige og kunstneriske  <lb/>
+Associationer: "Ei blot for Videnskab og Kunst".</p>
+               <p>	Et Exempel herpaa gav i disse Dage vor techniske Forening, hvis <lb/>
+Direction har bestræbet sig for at samle Haandværkere og Haandværkssvende. <lb/>
+Efterat de 3de Redacteurer<note xml:id="ftn6" place="foot" n="6">
+                     <hi rend="italic">Redacteurer</hi>: feilskrift for "Directeurer".</note>, Professor Thaulow, Architect Schirmer <lb/>
+og Mechanicus Zarbell, efter sluttede videnskabelige Forelæsninger <lb/>
+havde i Overflødighed poculeret i Champagne, foretog de en Kjøretour <lb/>
+i en af Zarbell efter en ny Methode construeret Slæde og væltede, hvorved <lb/>
+Professoren, der agerede Kudsk, brak en Arm, og de 2 andre Directeurer <lb/>
+fik svære Contusioner. De have naturligviis kun ved sit lærerige <lb/>
+Exempel villet give sine Disciple en Advarsel mod for megen Champagne. <lb/>
+Jeg tillader mig underdanigst at meddele denne, paa 3 saarede Directeurer <lb/>
+nær, ubetydelige Begivenhed som et Beviis paa vore Technicheres practiske <lb/>
+Dygtighed. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de December 1849 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 24. november 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 22de denne Maaned.</p>
+               <p>	Senere har jeg modtaget Greve E. Lewenhaupts Brev af 18de i hvis <lb/>
+Følge jeg af Amtmanden i Stavanger har forlangt Oplysning om den i  <lb/>
+Aviserne omskrevne, af en fiirbenet Bjørn mishandlede Mand, hvorom jeg <lb/>
+forbeholder mig at afgive underdanigst Indberetning.</p>
+               <p>	Det var mig virkelig uventet, at Thrane har været i Carlstad, <lb/>
+hvorom jeg ogsaa tør forbeholde mig nærmere. Om han heller ikke hos <lb/>
+nogen anden Authoritet dersteds end Landshøvdingsembedet har begjært <lb/>
+Pas, saa maa hans Meddelelse herom dog være usandfærdig. Iøvrigt <lb/>
+var der god Grund til at nægte ham Pas i Carlstad, naar han, som <lb/>
+Tilfældet maa have været, kom Pasløs did.</p>
+               <p>	Jeg takker underdanigst for den naadige Meddelelse af det høist <lb/>
+interessante Berlinerbrevet af 9de. Den preussiske Politik forekommer <lb/>
+mig som et "Schattenspiel an der Wand", hvor Hans Preussiske Majestæt <lb/>
+og Hr von Radowitz i deres Laterna magica forevise for det  <lb/>
+forbausede Europa idelige Afvexlinger. Saaledes blev efter de seneste <lb/>
+Efterretninger de heroiske Beslutningers eneste Resultat kun 17 Millioner <lb/>
+Thaler Udgift hvorfor 5 stakkels østerrigske Jægere blesseredes, <lb/>
+– hvorefter de meget snart atter forandredes. Man driver imidlertid <lb/>
+et meget farligt Spil, der kan foranledige nyt Anarchie og Revolution <lb/>
+i et Øieblik, da alle Regjeringer burde forene alle deres Kræfter, for <lb/>
+at bekjæmpe disse Europas værste Landeplager. Den preussiske Armees <lb/>
+og Journalistiks Seiersdrømme og Arrogants yttrede sig nu aldeles som <lb/>
+før Slaget ved Jena, og havde fortjent en lignende Tugtelse.</p>
+               <p>	I de sidste 3 Døgn er, Gud være lovet, Ingen her angreben af Cholera, <lb/>
+4 Døde, 5 Helbredede. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 November 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

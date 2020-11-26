@@ -1,0 +1,129 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 7. januar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport</head>
+               <p>	Siden min sidste underdanigste Rapport af 28de forrige Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+1ste dennes og tillader jeg mig at bevidne min underdanigste  <lb/>
+Taknemmelighed for den deri yttrede naadige Deeltagelse for mig og mine, som <lb/>
+for Hendes Majestæt Dronningens for mig saa dyrebare Erindring.</p>
+               <p>	Fra de Storhertugelige hessiske og badiske Udenrigs Ministerier <lb/>
+har jeg modtaget forbindtlige Taksigelser for min dem meddeelte Underretning <lb/>
+og det her fundne Brev, fra førstnævnte under 23de, fra sidstnævnte <lb/>
+af 25de December. Begge erkjende Brevets Indhold og Tendentz <lb/>
+stemmende med den nu i Tydskland beklageligviis raadende Aand og forbeholde <lb/>
+sig nærmere Meddelelser. Det badiske Ministerium udbeder sig derhos <lb/>
+nogle Oplysninger, som jeg ikke tidligere har villet søge her, for <lb/>
+ikke at opvække Vedkommendes Opmærksomhed paa, at Brevet her er funden <lb/>
+og afbenyttet.</p>
+               <p>	Det skulde imidlertid være forunderligt, om man ikke i Berlin skulde <lb/>
+kunne komme paa Spoer af den forbryderske Brevskriver ved Hjelp af <lb/>
+det originale Brev.</p>
+               <p>	Efter sidste Rapport fra Bergen vare fra den 10de til 31te December <lb/>
+angrebne af Cholera 92 Personer, helbredede 2, døde 60, tilbageværende <lb/>
+Syge 30. Sygdommen har saaledes ikke grebet hastig om sig, men <lb/>
+derimod viist sig meget dødelig. Det store Dødelighed blandt de paa <lb/>
+Lazaretterne behandlede Syge, har allerede hos Almuen opvakt større Frygt <lb/>
+for Lazaretterne end for selve Sygdommen og den sædvanlige Troe, at de <lb/>
+føres did, for at forgiftes.</p>
+               <p>	Jeg deler aldeles Deres Majestæts Anskuelse om denne Landeplage <lb/>
+idet jeg anseer Cholera morbus for en frygtelig Landeplage, mod hvilken <lb/>
+Styrelsen bør anvende alle mulige hensigtsmæssige Midler. Jeg beklager <lb/>
+derfor dobbelt, at her ogsaa i denne Begivenhed hersker en Begrebs <lb/>
+Forvirring, som arbeider mod den paa Erfaring grundede Anskuelse, og lammer, <lb/>
+ja tilintetgjør dennes Foranstaltninger mod det Onde. Denne Opposition <lb/>
+har sit Udspring fra vore Læger, den finder Medhold hos notable svenske <lb/>
+Læger, som jeg kunde nævne og hos engelske, som vedlagte nylig afgivne <lb/>
+Betænkning af the general board of health viser. <lb/>
+Herfra ere 8 Læger sendte til Bergen og ligeledes til de meest <lb/>
+besøgte Fiskesteder, hvis Overøvrigheders Opmærksomhed er henledet paa <lb/>
+den truende Fare.</p>
+               <p>	Sildefiskeriet har begyndt tidlig under gunstige Aspecter ved <lb/>
+Stavanger.</p>
+               <p>	Jeg tillader mig underdanigst at anbefale Capitaine Colbjørnsens <lb/>
+naadige Udnævnelse til Oberstlieutenant og Chef for det Østerdalske <lb/>
+Jægercorps, overbeviist om, at dette vakkre Corps vil i ham, selv fød <lb/>
+Østerdøl, faae en dygtig og værdig Chef, der allerede som ung Officier <lb/>
+har udmærket sig ved det Staffeldtske Jægercorps. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7de Januar 1849</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 7. januar 1849</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Copi</hi>.</head>
+               <p>	From evidence, of which they have now laid before your Lordship <lb/>
+a part, the General Board of Health beg to state that they have arrived <lb/>
+at the conviction that the expense incurred by quarantaine  <lb/>
+establishments is worse than waste of the public money, and that the  <lb/>
+general experience of their inutility and mischievousness, justifies and <lb/>
+requires their abandonment. They are also of that opinion that it would <lb/>
+be alike honourable and advantageous to Great Britain to set an exemple <lb/>
+to other nations of discontinuing for the future the enforcement of  <lb/>
+regulations which in the judgement of all competent and disinterested <lb/>
+persons who have paid attention to their operations, cannot be carried <lb/>
+into effect without inflicting evils of a most grievous nature, without <lb/>
+any compensating benefit whatever, and which had their origin in <lb/>
+times when the nature of epidemic diseases and the laws which regulate <lb/>
+their rise and spread, were comparatively unknown.</p>
+               <closer>
+                  <salute>			  I have etc.</salute>
+                  <signed>(signed)<lb/>
+                     <persName>The Right Hon. Viscount Palmerston</persName>
+                     <persName>Henry Austin</persName>
+                     <lb/>
+    			G.B.C.			Secretary</signed>
+                  <lb/>
+    	  etc. 	  etc.  etc.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

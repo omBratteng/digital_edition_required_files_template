@@ -1,0 +1,104 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 8. september 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p>	Efter Gaarsdagens Sygerapport, (idag har jeg endnu ingen modtaget) <lb/>
+har den skrækkelige Sygdom endnu ikke culmineret i Christiania, <lb/>
+medens den udbreder sig paa Landet. Kammerherre Holst vil imorgen <lb/>
+paa Foden heraf notere Sygdomstilstanden ved Postens Afgang.</p>
+               <p>	Ved mit første Besøg i Byen den 5te, hændte det mig, at en brav <lb/>
+Mand, Oberst Meyn, som jeg ønskede at tale med, var død af Cholera <lb/>
+Dagen forud. Saadant hænder oftere og opvækker en naturlig Ængstelse <lb/>
+for hver Dags Begivenheder.</p>
+               <p>	Jeg bivaanede igaar det første Statsraad efter min Tilbagekomst, <lb/>
+hvis Forhandlinger vare uden Interesse eller Vigtighed.</p>
+               <p>	Jeg beder mig naadigst tilladt nøiere at forklare min Yttring om, <lb/>
+"at Statsraad Petersen i den nylige Statsraadssag har meget at bebreide <lb/>
+sig". Strax efter Sørenssens Død yttrede han for Vogt den <lb/>
+bestemte Mening, at Lasson og ingen Anden burde vælges til hans  <lb/>
+Efterfølger, og i samme Retning yttrede han sig ved den første Meddelelse <lb/>
+af denne Deres Majestæts naadige Hensigt. Ikke desto mindre gik <lb/>
+han den følgende Dag over til det modsatte Partie og lod sig endog <lb/>
+bruge til at concipere det fameuse Votum!</p>
+               <p>	Ved Oplæsningen af Deres Majestæts naadige Skrivelse betræffende <lb/>
+Lasson, yttrede Riddervold: "at naar Kongen paapeger en saa værdig <lb/>
+Mand, vilde det være upassende og urigtigt, at gjøre nogensomhelst <lb/>
+Indvending". – Ikke desto mindre gik ogsaa han den følgende Dag over <lb/>
+til det modsatte Partie.</p>
+               <p>	Stang og Erichsen forholdt sig passive; men den følgende Dag aabnede <lb/>
+Sidstnævnte Debatten <hi rend="underline">med Stangs Kugler</hi>  og fremførte, understøttet  <lb/>
+af Stang, al den Statsmands Viisdom, som senere indtoges i det <lb/>
+skrevne Votum. Saaledes er efter Statsraad Krogs confidentielle  <lb/>
+Meddelelse denne vigtige Sag bleven behandlet og fordærvet.</p>
+               <p>	Som jeg ventede, varede det ikke længe, før Stang vil give <lb/>
+Erichsen Gjengjæld, for den ham i Statsraadssagen ydede Bistand. Han <lb/>
+yttrede nemlig i Statsraadet i Gaar, uden nogensomhelst Anledning, at man <lb/>
+nu bør benytte Vacancen i Commandoen til at forene denne med Marine- <lb/>
+Departementet. Riddervold tiltraadte strax denne Anskuelse, med en <lb/>
+saadan Bestemthed, at det for mig blev klart, at denne Sag er aftalt <lb/>
+imellem dem, uagtet Erichsen gjorde la petite bouche.</p>
+               <p>	I Marinen ønskes kun Udnævnelsen af en ny Admiral, hvorved ogsaa <lb/>
+et Avancement vil vindes.</p>
+               <p>	Statsraad Bretteville er kommet vel tilbage og vil i Morgen <lb/>
+overtage Finants Departementets Bestyrelse.</p>
+               <p>	Jeg længes efter Deres Majestæts naadige Beslutning om Justits <lb/>
+Departementets Overdragelse til Statsraad Vogt, som jeg i Sagens  <lb/>
+nærværende Stilling maa ansee for det Ene Rette, og hvorved derhos det <lb/>
+Gode vil opnaaes, at denne ikke for Storthinget servile Mand vil  <lb/>
+forblive her, hvorpaa jeg sætter megen Priis.</p>
+               <p>	Veiret har længe været meget behageligt og begunstiger, Gud skee <lb/>
+Tak, Indbjergningen af den rige Korn Avling, hvorimod det ikke synes <lb/>
+at have nogensomhelst Indflydelse paa den os plagende Sygdom. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 8de September 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

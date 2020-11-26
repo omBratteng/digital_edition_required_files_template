@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 3. mars 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 20de forrige Maaned.</p>
+               <p>	Directionen for det herværende militaire Samfund havde paa dets <lb/>
+Stiftelsesdag den 1ste denne Maaned foranlediget en Fest i Anledning <lb/>
+af Deres Majestæts lykkelige Helbredelse, hvorved alle herværende  <lb/>
+Officierer af begge Etater, samt civil militaire Embedsmænd vare  <lb/>
+forsamlede til en festlig Middag i Frimurerlogens store Sal, – hvori jeg, <lb/>
+efter Indbydelse, havde den Lykke at deeltage.</p>
+               <p>	Salen var smagfuldt og rigt decoreret for et Bord for 170 Couverts, <lb/>
+hvorved en gemytlig og loyal Stemning var almindelig. Deres Majestæts <lb/>
+Skaal udbragtes af Directionens Formand Ingenieur Capitaine Broch, i <lb/>
+særdeles vel valgte Udtryk, hvorved underdanigst vedlagte af ham  <lb/>
+forfattede Sang blev afsunget og hvorunder Kongelig Salut gaves.</p>
+               <p>	Da jeg havde den Ære at modtage Skaalen paa Deres Majestæts høie <lb/>
+Vegne, haaber jeg at have handlet efter Deres Majestæts naadige Villie,  <lb/>
+da jeg tillod mig paa Deres Majestæts høie Vegne at udbringe en Skaal  <lb/>
+for Deres Majestæts norske Armee og Marine.</p>
+               <p>	Denne Fest var i alle Henseender vakker, i Særdeleshed ved den <lb/>
+Hjertelighed og Enthousiasmus, hvormed den feiredes.</p>
+               <p>	Med underdanigst Henhold til min underdanige Rapport af 17de forrige <lb/>
+Maaned, tillader jeg mig underdanigst at indberette, at Subscriptionen <lb/>
+til Theatrets Ombygning har havt en saa god Fremgang, at den <lb/>
+dertil fornødne Sum kan ventes tilveiebragt.</p>
+               <p>	Under de forskjellige Angivelser i private Breve og offentlige <lb/>
+Blade, om Deres Majestæts Planer for Besøg til forskjellige Slotte og <lb/>
+Badereise til Særø, vover jeg i Underdanighed at fremføre det Ønske, <lb/>
+om at maatte erfare det Rette. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3e Marts 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

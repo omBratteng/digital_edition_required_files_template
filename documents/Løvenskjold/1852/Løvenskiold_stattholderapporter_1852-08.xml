@@ -1,0 +1,103 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 22. februar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 16de, har jeg havt <lb/>
+den Ære at modtage Deres Majestæts naadige Skrivelse af 12te denne <lb/>
+Maaned og takker jeg underdanigst for Deres Majestæts naadige Deeltagelse <lb/>
+i den Familie Begivenhed som foranlediger mig til nu at besøge <lb/>
+Fossum. Jeg agter at tiltræde Reisen derhen den 24de og om <lb/>
+Gud vil, at være her tilbage den 10de Marts, for at feire Hendes  <lb/>
+Majestæt Dronningens Fødselsdag den 14de.</p>
+               <p>	Sildefisket paa vor Kyst er for dette Aar sluttet. Efter de <lb/>
+indkomne Rapporter er dette Aars Udbytte ringe, ikke af Mangel paa <lb/>
+Sild; men i Mangel af gunstigt Veir til at fiske den. Tilfredsheden <lb/>
+med de trufne kostbare offentlige Foranstaltninger, for at vedligeholde <lb/>
+den savnede Orden under Fiskeriet, synes almindelig.</p>
+               <p>	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa den i Journal des debats indførte Grev Montalemberts <lb/>
+mesterlige, ogsaa i politisk Henseende høist interessante <lb/>
+Tale, ved hans Indtrædelse i det franske Academie. Den fortjener at <lb/>
+læses og den efterlader et velgjørende Indtryk.</p>
+               <p>	Under min Fraværelse vil Hr Statsraad Krog besørge mine Vices.</p>
+               <p>	Da jeg i Dag intet Videre har at indberette, tillader jeg mig <lb/>
+underdanigst at anbefale mig til Deres Majestæts Naade og høie <lb/>
+Bevaagenhed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22 Februar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 22. februar 1852</supplied>
+               </head>
+               <head type="sub2">Underdanigst Apostille.</head>
+               <p>	Efter at min underdanigste Rapport af Gaars Dato var skrevet, <lb/>
+har jeg modtaget Grev Lewenhaupts Brev af 19de, hvori han meddeler <lb/>
+mig Deres Majestæts naadige Bifald til de i min underdanigste Rapport <lb/>
+af 12te omnævnte Punkter 1 og 2.</p>
+               <p>	Det var i Forventning heraf, at jeg udsatte min Afreise til <lb/>
+Fossum en Dag, som jeg vil anvende til at iværksætte Deres Majestæts <lb/>
+naadige Befalinger. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23 Februar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

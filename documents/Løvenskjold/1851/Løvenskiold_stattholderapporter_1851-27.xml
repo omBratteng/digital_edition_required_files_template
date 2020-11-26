@@ -1,0 +1,80 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 22. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 18de denne Maaned. <lb/>
+ Uagtet offentlige Blade have omnævnt Hendes Kongelige Høihed <lb/>
+Hertuginden af Leuchtenbergs dødelige Afgang, vil jeg dog oppebie <lb/>
+nærmere Stadfæstelse paa dette Sørgebudskab, forinden jeg troer derpaa, <lb/>
+medens Rygtet allerede opvækker min sørgelige deeltagende Bekymring.</p>
+               <p>	Min Søn Adam kom for et Par Dage til mig, for at meddele mig sin <lb/>
+ved Hans Excellence Udenrigsministeren modtagne naadige Udnævnelse <lb/>
+til sin nye Bestemmelse. Han forlod mig idag, for i sit Hjem at oppebie <lb/>
+Ordre til sin Afreise. Deres Majestæt har saaledes nu havt den <lb/>
+Naade at opfylde et af mit Faderhjertes kjæreste Ønsker, hvorfor jeg <lb/>
+tillader mig at nedlægge min ligesaa hjertelige som underdanige  <lb/>
+Taksigelse.</p>
+               <p>	Med Deres Majestæts naadige Tilladelse agter jeg den 30te denne <lb/>
+Maaned at tiltræde en Reise til Fossum, hvor jeg vil ankomme den <lb/>
+31te for den 2den Junii med Dampskib at tiltræde en Reise til mine <lb/>
+Jerngruber i Nærheden af Arendal, til hvis Drift jeg nylig har anlagt <lb/>
+en Damp-Maskine og en liden Jernbane, som jeg endnu ikke har seet.</p>
+               <p>	Dampskibsrouten vil ikke tillade mig at komme tilbage til Fossum <lb/>
+forend den 6te Junii og uagtet jeg kun der vil kunne tilbringe de <lb/>
+2de Pintsedage, vil jeg ikke kunne være tilbage i Christiania før den <lb/>
+11te Junii.</p>
+               <p>	Jeg har med megen Interesse læst Strinlunds seneste Forslag <lb/>
+hvorpaa Deres Majestæt har havt den Naade at henlede min Opmærksomhed. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22 Mai 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

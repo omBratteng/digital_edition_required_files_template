@@ -1,0 +1,99 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 9. februar 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p>	Efterat Storthinget i Mandags havde constitueret sig og igaar den <lb/>
+8de ved en Deputation havde underrettet mig og den Norske Regjering <lb/>
+derom, besluttede jeg at lade den høitidelige Aabning foregaae idag <lb/>
+Klokken 1 Eftermiddag. Til den bestemte Tid indfandt jeg mig i  <lb/>
+Storthinget, hvor jeg oplæste Deres Majestæts naadige Bemyndigelse for <lb/>
+mig til at aabne Storthinget og Deres Majestæts vakkre Tale, og erklærede <lb/>
+paa Deres Majestæts Høie Vegne Norges 12te ordentlige Storthing <lb/>
+aabnet. Efterat derefter Beretningen om Rigets Tilstand var oplæst og <lb/>
+overleveret tilligemed Talen til Storthingets President, Stiftamtmand <lb/>
+Falsen, udbragte denne et "Gud bevare Kongen", der gjentoges med  <lb/>
+Hjertelighed af Forsamlingen.</p>
+               <p>	En Deputation fra Storthinget complimenterede derpaa den Norske <lb/>
+Regjering, der var samlet i det Kongelige Palais. Ordføreren for denne <lb/>
+Deputation, Professor Schweigaard, holdt i denne Anledning en Tale, hvori <lb/>
+han paa den forbindtligste Maade bevidnede Regjeringen Storthingets <lb/>
+Agtelse, Velvillie og Tillid, en Forsikkring, som jeg, uforberedet paa <lb/>
+et saa uventet Tillidsvotum, – hjertelig besvarede.</p>
+               <p>	En Middag for samtlige Storthings Representanter samt for de <lb/>
+fornemste Authoriteter var arrangeret i Stiftsgaarden, hvorved jeg havde <lb/>
+den Ære at udbringe Skaaler for Deres Majestæt, for Storthinget og for <lb/>
+de forenede Riger, hvilke besvaredes af Storthings Presidenten, <lb/>
+Stiftsamtmand Falsen, med en Skaal for den Norske Regjering.</p>
+               <p>	Til Storthingets President er valgt Stiftamtmand Falsen, til Vice <lb/>
+President Biskop Riddervold, Til Lagthings President er valgt Biskop <lb/>
+v.d. Lippe, til Vice President Amtmand Schydtz. Begge disse Valg maa <lb/>
+ansees for heldige og tilfredsstillende. Derimod er til Odelsthingets <lb/>
+President valgt Byfoged Christensen og til Vice President Morgenbladets <lb/>
+Udgiver A. B. Stabell, hvilket i Forening med den Maade, hvorpaa et vist <lb/>
+Partie har forstaaet at bringe flere af Storthingets dueligste Mænd <lb/>
+ind i det mindre virksomme Lagthing, synes at give et mindre godt  <lb/>
+Forvarsel. Christensen og Stabell maa, efter det Passerede, ansees for  <lb/>
+Ledere af Partiet, der allerede har lagt sin Overvægt for Dagen ved <lb/>
+Besættelsen af Valg Commitéen, der har at udnævne de Comiteer, der skulle <lb/>
+forberede Sagerne til Behandling i Storthinget. Det synes saaledes <lb/>
+at være Partiets Hensigt at bemægtige sig Afgjørelsen af alle vigtigere <lb/>
+Lovforslag, paa hvis Skjæbne Comité-Indstillingerne sædvanlig <lb/>
+har en decideret Indflydelse, hvilket med Hensyn til de mange vigtige <lb/>
+Forslag, der forelægges nærværende Storthing er betænkeligt nok.</p>
+               <p>	Jeg troer at burde underdanigst nævne, at jeg, efter min Læges <lb/>
+bestemte Forbud, ikke vovede at deeltage i Processionen, hvortil jeg <lb/>
+imidlertid sluttede mig forinden Indtrædelsen i Storthingssalen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Februar 1848 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

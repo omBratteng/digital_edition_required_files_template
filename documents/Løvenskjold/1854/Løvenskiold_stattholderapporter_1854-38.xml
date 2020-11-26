@@ -1,0 +1,76 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. august 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p>	I Statsraads Mødet i Løverdags blev Regjeringens samtlige <lb/>
+Medlemmer eenstemmig enige om underdanigst at indstille til Deres  <lb/>
+Majestæt "at Storthingets Beslutning af 18de Julii sidstleden til  <lb/>
+Grundlovsbestemmelse om Statholder Embedets Ophævelse ikke maa naadigst <lb/>
+sanctionneres, og at Justits Departementet bemyndiges til herom at <lb/>
+meddele Storthinget Underretning gjennem dets Præsidentskab". – For <lb/>
+Expeditionens Skyld vil imidlertid denne Sag først blive færdig til <lb/>
+Afsendelse med næste Post, men jeg har ikke troet at burde undlade <lb/>
+foreløbig at meddele Deres Majestæt Underretning herom.</p>
+               <p>	Med Dagens Post afgaaer underdanigst Indberetning om en af <lb/>
+Storthingets seneste Budget Bevillinger, hvorpaa jeg tillader mig at  <lb/>
+henlede Deres Majestæts naadige Opmærksomhed nemlig den, at 45,000  <lb/>
+Species skulle anvendes til en Bro over Glommen ved Kongsvinger samt til <lb/>
+Anlæggelsen af en ny Communicationsvei med Sverige, – alt overeensstemmende <lb/>
+med Deres Majestæts naadigste Proposition.</p>
+               <p>	Saasnart Deres Majestæts naadige Approbation indløber, vil Indre <lb/>
+Departementet strax iværksætte det Fornødne til Arbeidets Paabegyndelse.</p>
+               <p>	Hans Excellence Statholderen agter at komme her tilbage Løverdag <lb/>
+den 19de dennes. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14e August 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

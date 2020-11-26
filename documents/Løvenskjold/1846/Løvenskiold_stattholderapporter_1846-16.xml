@@ -1,0 +1,160 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. mai 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p>	Jeg beder om naadigst Tilgivelse for at jeg har vovet at aabne hosfølgende mig ved sidste udenrigske Post tilhændekomne Brev fra Liverpool, hvis besynderlige Adresse til<hi rend="underline">Christiania</hi>  foranledigede mig til ikke at troe Brevet bestemt for Deres Majestæt, hvorimod jeg antog, at det kunde angaae nogen offentlig Gjenstand. Jeg beder gjentagende om naadigst Tilgivelse, forsikkrende, at jeg ikke skal forraade Indholden, den jeg saa lidet forstaaer "that I think the author ought to be put in the madhouse."</p>
+               <p>	Slots Commissionen har sat Regjeringen i Forlegenhed, ved at tilstille den til Deres Majestæts naadige Bifald, Tegning til en Decoration paa Slottets Frontespice. Da Ingen af os besidder tilstrækkelig Sagkundskab til at bedømme den projecterede Idee og dens Udførelse, som allerede har været skarpt critiseret i offentlige Blade, – mindre til at angive noget mulig bedre, have vi troet det rigtigst ved Statsraad Krog at lade Tegningen foreløbig underdanigst forelægge til Deres Majestæts høie sagkyndige Bedømmelse.</p>
+               <p>	I Frontespicens ene Hjørne er placeret Retfærdighedens Gudinde med sine Attributer; i det andet en qvindelig Figur, forestillende Sandheden. I Midpartiet sees Enden af en med et ikke skiønt Medusa-Hoved decoreret Vogn, hvorpaa en staaende Figur, som skal forestille Geniet. For Vognen befindes 8 Heste, som for mit ikke kunstforstandige Øie have Udseende af at løbe løbsk ("skena") i modsat Retning, som om de 4 Heste skulde springe (springa ikull) Retfærdigheden, – de andre 4 Sandheden overende.</p>
+               <p>	Den Tegning, som Deres Majestæt naadigst maatte bifalde, er paatænkt at skulle i Basrelief udføres<hi rend="underline">i Gips</hi>, af Billedhugger Mikkelsen.</p>
+               <p>	Det er ønskeligt, at denne Decoration, Slottets ydre Præg, som vil blive udsat for megen Bedømmelse og Critik, maa blive Kongeboligen værdig og derfor tillader jeg mig underdanigst at anbefale den til Deres Majestæts naadige Opmærksomhed.</p>
+               <p>	Statsraad Vogt tiltraadte den 12te Reisen til Stockholm, hvor han haabede at ankomme den 19de.</p>
+               <p>	Statsraad Petersen og Consul Faye retournerede med Dampskibet i Dag fra deres udenrigs Reise.</p>
+               <p>	Efter lidet velgjørende Regn er Luften blevet noget mildere og Vegetationen skyder frem.</p>
+               <p>	Fanejunker Falkenstrøm, som ved sin fortrinlig gode Opførsel under 22 Aars Tjeneste i den norske Armee er vel qvalificeret til saadan Ansættelse, hvorom Kongelig Resolution af 1te April 1815 giver vel tjente Underofficierer Haab, vover jeg underdanigst at anbefale til Deres Majestæts naadige Erindring. I denne Hensigt beder jeg mig naadigst autoriseret til at meddele Statsraad Schmidt, at Falckenstrøms Ansættelse som Under-Toldbetjent, ved given Leilighed, vil være Deres Majestæt behagelig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14 Mai 1846. </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 14. mai 1846.</supplied>
+               </head>
+               <head type="sub2">Underdanigst Post Scriptum!</head>
+               <p>	Efterat Forestaaende var skrevet, har Statsraad Foss leveret mig sin Betænkning, betræffende Slots-Frontespicens Decoration, som jeg tillader mig underdanigst at vedlægge.</p>
+               <p>	Posten bragte mig nu den Efterretning, at min Søn Adam med Familie indskibede sig den 13de om Morgonen for Havre.</p>
+               <p>	I dette Øieblik, da Posten skal afgaae, modtager jeg et Brev med en anden ældre Tegning fra Statsraad Foss, som jeg tillader mig underdanigst at fremsende. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 Mai 1846 </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 14. mai 1846.</supplied>
+               </head>
+               <div type="tillegg-main">
+                  <p>Enig i at Frontonfeltets Billedgruppe er at ansee som et plastisk Program, der antyder Bygningens Væsen og særlige Hensigt, maa jeg ogsaa med Architekten være enig i, at det ingenlunde er nogen uheldig Idee, ved Decorationen i Kongeborgens Frontonfelt at udtrykke: <hi rend="underline">at Aanden eller Geniet, uden materiel Tvang, let styrer Modet og Styrken</hi>. Hvorvidt den paa Triumphatorkarmen anbragte bevingede Figur med 2de Krandse, netop betegner Aanden eller Geniet, turde vel være tvivlsomt, men jeg vil dog her forudsætte, at der paa denne Deel af Ideens billedlige Fremstillen intet Væsentligt er at udsætte, og at Modet og Styrken baade passende og skjønt kan betegnes med de Karmen forspandte vælige Heste. At Tømmer ere udeladte, forat betegne at den overlegne Aand, uden materiel Kraft let styrer de raae Kræfter, har jeg Intet at erindre imod. Det er saaledes ikke mod Ideen i det plastiske Program for vor Kongeborg, jeg har Noget at indvende; men skal denne Idee opfattes, maa den Billedskrift, som betegner den, baade være læselig og utvetydig. Dette er, efter min ringe Skjønsomhed, aldeles ikke Tilfældet med den nu foreslaaede Tegning til Kongeborgens Frontonfeldts Decoration.</p>
+                  <p>	Om jeg end forudsætter at Beskueren, ved at betragte Hovedfiguren, begriber at den betegner<hi rend="underline">Aanden</hi>  eller <hi rend="underline">Geniet</hi>, – som dog turde være svært nok, da den har overordentlig Lighed med en Victoria, – saa falder han dog ikke lettelig paa, at det er denne Figur, der styrer og leder de 8 Heste, der have deelt sig i 2de tilsyneladende fiendtlige Partier, der i fuld utæmmet Kraft arbeide mod hinanden, istedetfor, styret af een Haand, eller een Aand, at arbeide tilsamme Maal. Man maa holde Vognen for ganske overordentlig stærk, om man ikke skal frygte for dens og den derpaa anbragte Figurs Skjæbne. Tænker jeg mig det Tilfælde, at jeg, uden at have hørt forklare den Idee, som agtes udtrykt, saa Frontondecorationen udført saaledes som den fremlagte Tegning antyder, da vilde jeg visselig ikke kunne udfinde Ideen, som er paatænkt udtalt gjennem den, men nødvendigviis komme til en ganske anden Mening, og finde at den anbragte Billedskrift, rigtig læst, tvertimod sin Hensigt, antydede: at Aanden eller Geniet ikke uden materiel Tvang formaaede at styre de raa Kræfter til et fælles Maal.</p>
+                  <p>	Kun fremstillet forfra, og Hestene samlede saaledes at det tydelig viser sig, at de trække i samme Retning, og Hestenes Antal da indskrænket til 4, forekommer det mig, at Billedet kan give en skjøn og rigtig plastisk Fremstilling. Vanskeligheden, for ei at sige Umuligheden, af at give en saadan Fremstilling i Basrelief, og Nødvendigheden af ved de enkelte Dele af Billedernes Gruppering, at rette sig efter Frontonfeltets triangulaire Flade og give Gruppen en pyramidalsk Form, har foranlediget den uheldige Idee, at sprede Hestene til begge Sider, hvorved det Hele er bleven fordærvet.</p>
+                  <p>	At selv den kunstforstandige og smagfulde Architekt, som har givet baade Ideen til Sujettet og Tegningen, har erkjendt dette, viser sig tydelig i hans Opsats indførdt i den Constitutionelle No 65 for d. A. Hr Intendant Linstow erklærer der blandt Andet:</p>
+                  <p>	"Det er kun Sujettet, som er Hr. Michelsen opgivet, men Compositionen er ham aldeles overladt til fri Raadighed."</p>
+                  <p>	"At han nøiagtigen copierer en af mig for 12 Aar siden udført Tegning, er ikke efter min Tilskyndelse eller mit Forlangende. Jeg har endog gjentagende gjort ham opmærksom paa denne Skizzes Ufuldkommenheder og paa det Indstændigste anmodet ham om at følge sin egen Fantasie, da man gav ham aldeles frie Hænder" etc.</p>
+                  <p>	"At jeg i en Commissionssamling, hvori for henved 2 Aar siden foreløbig blev contraheret med Hr. Michelsen, fremlagde mit gamle Udkast, var kun for at give Forhandlingen et Udgangspunct".</p>
+                  <p>	"At Grupperingen i min Skizze ikke var heldig, har jeg altid erkjendt".</p>
+                  <p>	"Det kan saaledes ikke lægges mig til Last, at Hr. Michelsen i sit Modeludkast,<hi rend="underline">som sikkert ikke vil blive anbefalet</hi>, nøiagtigen har copieret min Tegning, og jeg kan ikke forklare mig hans Vedholden ved mit Udkast, trods mine Remonstrationer, uden af en Misforstaaelse hos ham etc."</p>
+                  <p>	Uden at være i Besiddelse af kunstnerisk Dannelse tør jeg ikke tillægge min Dom om Kunstgjenstande nogen Vægt, men da jeg af de ovenanførte Yttringer fra en Mand som Intendant Linstov, der desuden er den, fra hvem Ideen til Kongeborgens Fronton-Decoration er udgaaet, nødvendigviis maa slutte, at han ingenlunde bifalder denne Decorations Udførelse efter den nu fremlagte Tegning, hvilken han troer sikkert ikke vil blive anbefalet, saa finder jeg min foran yttrede individuelle Mening derved saameget bestyrket, at jeg anseer mig forpligtet til ei længere at tilbageholde den. Jeg kan saaledes ikke ved min Stemme bidrage til at det underdanigst tilraades Hans Majestæt, naadigst at approbere den til Kongeboligens Frontondecoration foreslaaede Tegning, men troer at det vil være rigtigere, underdanigst at indstille: At Sagen undergives enten et anseet Kunstacademies, eller en almindelig erkjendt udmærket Billedhuggers eller Architekts Bedømmelse, inden der i samme fattes endelig Beslutning med underdanigst Tilkjendgivelse af, at Regjeringen ikke veed at kunne paavise her i Landet enten nogen Corporation eller nogen enkelt Person, som i denne Kunstretning kan ansees fuldkommen competent til herom at afgive en paalidelig Bedømmelse.</p>
+                  <p>	Jeg tillader mig underdanigst at vedlægge No 62 og 65 for indeværende Aar af Bladet den Constitutionelle, da Gjenstanden deri er omhandlet. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 14 Mai 1846</date>.</dateline>
+                     <lb/>
+                     <salute>Underdanigst</salute>
+                     <lb/>
+                     <signed>
+                        <persName>H. Foss.</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="tillegg-extra">
+                  <p>	Om Sagen i Regjeringen var forekommen til Behandling, vilde jeg have tilladt mig underdanigst at yttre ovenstaaende Formening.</p>
+                  <closer>
+                     <signed>
+                        <persName>H. Foss.</persName>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 14. mai 1846.</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>15de Mai 1846</date>.</dateline>
+               </opener>
+               <lb/>
+               <p>	Ved igaar Eftermiddag, i en anden Anledning, at besøge Billedhugger Michelsens Attelier, i Selskab med Hr Oberste Garben, kom naturligviis den der staaende Model til den foreslaaede Frontondekoration paa Tale og jeg erfarede derved at Hr Michelsen aldeles ikke bifaldt at Fronton-basrelieftet udførtes efter den fremlagte Tegning, men at han tvertimod antog at den Idee, som tilsigtedes udtrykt, aldeles ikke kunde udtrykkes ved at befølge Tegningen. Under Løbet af denne Samtale kom D'Herrer Expeditionssekretair Birch-Reichenwald og Lektor Welhaven til og jeg erfarede da tilfældigviis at Hr Michelsen fra flere Aar tilbage havde fremsat en Idee til en Basrelief for Kongeboligen som han forklarede at have leveret i Skizze til Hs Excellence Statsminister Due, som dengang var Statssekretair, og havde erholdt tilbage paa Forlangende. Hr Michelsen stod i den Formening at denne hans Skizze havde været bedømt og var bleven forkastet, hvilket formeentlig maa være en Misforstaaelse. Idetmindste kan jeg – som i flere Aar har været Medlem af Slotskommissionen – ikke mindes at der om denne Skizze har været nogen Forhandling i hiin Kommission. Paa Opfordring havde Hr Michelsen den Godhed at vise os denne Skizze. Da jeg, saavelsom de øvrige tilstedeværende Herrer, fandt at der var særdeles meget Anbefalelsesværdigt i denne Skizze og at den muligen ved liden Forandring kunde bringes til passende og skjønt at fremstille den Idee, som ligger til Grund for den af Slotskommissionen fremlagte Tegning, hvilken Idee jeg for mit Vedkommende foretrækker for den, der ligger til Grund for Michelsens Skizze, troede jeg at det i høi Grad maatte interessere Regjeringens Medlemmer, og in specie Finantsdepartementet, at komme i Besiddelse af denne Skizze og bad derfor Hr Michelsen indstændig om at overlade mig samme og tillade mig at fremlægge den for Regjeringens øvrige Herrer Medlemmer, for at den muligen, tilligemed den anden Tegning kunde blive forelagt Hans Majestæt. Efter nogen Modstand lykkedes det mig at overtale Hr Michelsen til at overlade mig Skizzen til det begjærte Brug.</p>
+               <p>	Kompositionen forekommer mig i og for sig selv baade riig og smuk. Her er en ægte antikFremstilling af en Qvadriga: De 4 Heste gaae i jevnt Skridt og trække alle i samme Retning, Karmen er meget smuk. De to Figurer paa Karmen forestille Norge og Sverige, to Skjoldmøer i søsterlig Forening, den til høire <hi rend="underline">Norge</hi>  og den til venstre, der fører Tømmen, <hi rend="underline">Sverige</hi>. En Skare Krigere følge Toget og danne til venstre en vakker Gruppe. Den nederste Frontonvinklen optages af allegoriske Billeder fremstillende Fiskerie og Landbrug. Over det hele i øverste Vinkel svæver Nordstjernen.</p>
+               <p>	Ved istedet for de 2de Skjoldmøer paa Karmen – hvis Gruppering lettelig kan give Anledning til Mistydninger – at placere en bevinget Genius fremstillende Aanden og udelade Tømmerne, forekommer det mig at den vakkre Linstovske Idee fuldkommen rigtigt og tillige kunstnerisk skjønt samt paa en med Basreliefets Natur overeensstemmende Maade blev udtrykt. Om denne Mening af virkelig Kunstforstandige maatte findes rigtig, var derved den hele Vanskelighed, man nu befinder sig i, hævet. Efter saavel Samtalen med Hr Michelsen som efter et Par Arbeider, jeg igaar saae af ham, nærer jeg ikke tvivl om, at han vil kunne udføre den her antydede Idee fuldkommen skjønt. Skal der herom indhentes skriftlige Erklæringer fra Architecten og Slotskommissionen, frygter jeg meget for at Sagen vil gaae i Langdrag og Frontespisen maatte opføres uden Frontondekoration.</p>
+               <p>	Man er nu i den besynderlige og ubehagelige Stilling, at maatte forelægge H: Majestæt en Tegning, som den, der har forfattet den, ikke troer at turde befølges i Udførelsen og som tillige den Kunstner, der skal udføre Arbeidet, finder forkastelig. Kunde man paa den her antydede Maade, med Vedbehold af Linstovs Idee, benytte en stor, eller den største, Deel af Michelsens heldige Skizze, troer jeg man kom godt ud af Forviklingen og Kongeboligen fik en vakker og værdig Frontondekoration.</p>
+               <p>	Idet jeg tillader mig at oversende Skizzen, henstiller jeg ærbødigt til Deres Excellenses Omdømme, om det under disse forandrede Omstændigheder ikke skulde være rigtigt at bevirke en Udsættelse i Finantsdepartementets Expedition af Sagen. Deres Excellense vil gunstigst tilgive at jeg gjentagende volder Bryderie med denne Sag.</p>
+               <closer>
+                  <salute>Med udmærket Høiagtelse har jeg den Ære at undertegne mig <lb/>
+    					Deres Excellences <lb/>
+    							Ærbødigste <lb/>
+                  </salute>
+                  <signed>
+                     <persName>H. Foss.</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

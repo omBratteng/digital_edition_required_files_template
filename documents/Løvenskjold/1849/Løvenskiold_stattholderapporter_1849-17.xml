@@ -1,0 +1,97 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 12. april 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p>	Cholera Epidemien er fremdeles i Aftagende saavel i Bergens Bye <lb/>
+som i Landdistricterne. I Byen angrebes fra 24de til 31te Marts 5, <lb/>
+døde 3; fra 31te Marts til 6te April angrebes 2, døde 1. Idethele <lb/>
+vare til 5te April i Byen angrebne 1042, døde 615. Fra Landdistricterne <lb/>
+ere Anmeldelserne mindre nøiagtige og paalidelige. Takke maa vi Gud, <lb/>
+om Landeplagen denne Gang maa standse med de Offere, som den hidindtil <lb/>
+har krævet.</p>
+               <p>	De moralske Landeplager berede i vor Tid Nationerne, Menneskeheden, <lb/>
+end større Ulykker! Til disse maa visselig henregnes den Agitation i <lb/>
+Samfundets laveste Classer, som i det forbigangne Aar har forvoldt saa <lb/>
+store Omvæltninger og dermed forbundne Ulykker. Denne for Samfundene <lb/>
+saa farlige Agitation kan neppe afværges af vore moderne constitutionelle <lb/>
+Styrelser, hvis Hænder ere saa bundne, at de ikke tør slukke <lb/>
+Ilden i sin Begyndelse, men maa udsætte enhver virksom Foranstaltning, <lb/>
+indtil den er udbrudt i lys Lue, da det er for seent. En Agitator kan <lb/>
+berede og forvolde store Ulykker, <hi rend="underline">uden at yttre sig lovstridig</hi>, og først <lb/>
+derefter, naar Ulykken er gjort, kan den constitutionelle Styrelse  <lb/>
+standse hans Virksomhed. Følgerne tør maaskee efter mange og store Ulykker <lb/>
+bringe Nationerne til den Erfaring, at deres Fred og Velvære er mere <lb/>
+udsat for Fare under de mere end mindre bindende Regjeringsformer og <lb/>
+lede dem til blandt denne Verdens altid ufuldkomne Former, at vælge de <lb/>
+mindst ufuldkomne. Jeg tillader mig underdanigst at vedlægge en om  <lb/>
+denne Gjenstand i "Christiania posten" skreven Artikel mærket x. De  <lb/>
+forskjellige Classers indbyrdes Forfølgelser ere i dette Land fremskredne <lb/>
+med Hurtighed. Først conspirerede Embedsmændene mod den uskyldige Rest <lb/>
+af Adel og fik den tilintetgjort; derefter Bønderne mod Embedsmændene, <lb/>
+og nu bestræber man sig for at opvigle Huusmændene (Torparne) mod <lb/>
+Bønderne, den øvrige Arbeidsclasse mod det hele Samfund.</p>
+               <p>	Medens jeg i Anledning af den sidste Høiesterets Assessors Udnævnelse <lb/>
+i Underdanighed bøier mig for det Kongelige Prærogativ, tør det <lb/>
+være mig tilladt at beklage, at Stangs Plaidure har havt mere  <lb/>
+Indflydelse end min, Dues og Krogs; men end mere beklager jeg, at denne  <lb/>
+Udnævnelse foranlediger Utilfredshed i Høiesteret, som jeg gjerne vil <lb/>
+holde i god Forstaaelse med Kongemagten for saa billig Priis, som i <lb/>
+denne Begivenhed tilbød sig.</p>
+               <p>	Efter 8 Dages Ophold paa Horten kom Statsraad Erichsen tilbage <lb/>
+igaar. Den 10de gik en ny Corvet "Ørnen" paa 16 Kanoner af Stabelen <lb/>
+og den 24de vil Kjølen blive lagt til Fregatten "Désideria" paa 38 <lb/>
+Canoner af meget svært Caliber. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te April 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

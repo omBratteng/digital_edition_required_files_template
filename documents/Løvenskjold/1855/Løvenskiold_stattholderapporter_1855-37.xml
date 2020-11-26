@@ -1,0 +1,122 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 16. desember 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p>	Igaar Aftes Klokken mellem 6 og 7 overbragte en Coureer, som <lb/>
+var afreist fra Stockholm den 12te denne Maaned, mig Deres Majestæts <lb/>
+naadige Skrivelse af 11te, med vedlagte vigtige Document, som af mig <lb/>
+vil blive behandlet nøiagtig og samvittighedsfuldt, efter Deres <lb/>
+Majestæts mig givne og yderligere modseende naadige Befaling.</p>
+               <p>	I Statsraadet<hi rend="underline">i Gaar</hi>  omhandledes en Sag, som vore offentlige <lb/>
+Blade allerede <hi rend="underline">i Dag</hi>  have bemægtiget sig (medens jeg dog holder mig <lb/>
+overbeviist om, at de herom ikke have erholdt Kundskab fra  <lb/>
+Statsraadet) og som jeg derfor finder mig forpligtet til allerede nu <lb/>
+underdanigst at indberette.</p>
+               <p>	Jernbanens norske Direction bestod af Amtmand Birch-Reichenwald, <lb/>
+(som succederede nu værende Statsraad Møinichen), Ingenieur Capitaine <lb/>
+Ræder og Grosserer Tostrup, alle dygtige og nidkjære Mænd, – og jeg <lb/>
+beklager derfor meget, at de Alle 3 nu have begjært sig entledigede <lb/>
+fra dette vigtige Hverv. Anledningen hertil er en beklagelig indbyrdes <lb/>
+Uenighed mellem de 3 norske Directeurer, som efter min Formening <lb/>
+Ene er foranlediget ved Amtmand Birchs Uforligelighed og som ikke <lb/>
+vilde have indtruffet under Statsraad Møinichens Præsidium. Medens jeg <lb/>
+erkjender Birchs Forretningsdygtighed, beklager jeg, at hans pirrelige, <lb/>
+lidenskabelige, selvraadige Character gjør ham uskikket til at <lb/>
+arbeide fredelig med Colleger. Forsøg paa at bibeholde dem alle eller <lb/>
+Enkelte have været forgjæves, og det maatte erkjendes, at de ikke <lb/>
+længere kunde arbeide hensigtsmæssig sammen.</p>
+               <p>	Vi maatte derfor i Statsraadet i Gaar beslutte at indgaae til <lb/>
+Deres Majestæt med Indstilling om de 3 Directeurers Entledigelse og <lb/>
+i deres Sted naadigst at udnævne Lector Dr Broch, Bankadministrator <lb/>
+A. B. Stabell, Grosserer T. Heftye, som have erklæret sig villige til <lb/>
+at modtage det vigtige Hverv.</p>
+               <p>	Jeg tilstaaer, at Stabell er mig en modbydelig Person, som jeg <lb/>
+ugjerne vil anbetroe et offentligt Hverv; men da Statsraadets øvrige <lb/>
+Medlemmer ansaae ham fortrinlig skikket til dette, troede jeg ikke at <lb/>
+burde opponere.</p>
+               <p>	Generalconsul Crowe, den Eneste af Entrepreneurerne valgte <lb/>
+engelske Directeur vedbliver imidlertid sin Function, som jeg anseer <lb/>
+meget ønskelig.</p>
+               <p>	De 3 svenske Medlemmer af den herværende juridiske Committée, <lb/>
+Rigs Archivar Dr Norstrøm, Assessor Grev Sparre, og Assessor  <lb/>
+Lagerstråle, have besluttet at reise hjem og senere at komme tilbage for <lb/>
+at lægge den sidste Haand paa Verket. Uagtet jeg smigrer mig med, at <lb/>
+de ville være tilfredse med deres Ophold her, vil de dog naturligviis <lb/>
+helst feire Julefesten i deres Hjem. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16de December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 16. desember 1855</supplied>
+               </head>
+               <head type="sub2">Underdanigst Apostille!</head>
+               <p>	Efterat foranstaaende underdanigste Rapport af 16de dennes var <lb/>
+skrevet, modtog jeg i Gaar Aftes, Klokken noget over 1/2 12, Deres <lb/>
+Majestæts naadige Befaling per Tellegraph, – ifølge hvilken jeg idag <lb/>
+har sammenkaldt Statsraadet til et extraordinairt Møde. Dette vil dog <lb/>
+ikke kunne finde Sted før efter Postens Afgang. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17de December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

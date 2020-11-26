@@ -1,0 +1,109 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 15. juni 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 29de Mai.</p>
+               <p>	Under min Fraværelse har al offentlig og privat Opmærksomhed <lb/>
+og Beskjæftigelse været henvendt paa de danske og svenske Besøgende.</p>
+               <p>	Selskabet bestod hovedsagelig af danske og svenske Studerende <lb/>
+fra Kjøbenhavns og Lunds Universiteter, dernæst af Professorer, Poeter, <lb/>
+Skuespillere og en Deel Tros, der som ved alle udisciplinerede <lb/>
+Armeer var talrig. Selskabets Hovedunderholdning bestod i Champagne, <lb/>
+Sange, Skaaler og Taler. Alle ere enige om, at den Fest, som Deres <lb/>
+Majestæt havde den Naade at lade give de Fremmede paa Dronningbjerget, <lb/>
+var Glandspunctet i Forlystelserne. De Fremmede forlod Christiania i <lb/>
+Gaar ved Middagstid, efterat have tømt de sidste Champagne Bouteiller <lb/>
+og efter uendelige gjensidige Taler.</p>
+               <p>	Besøget har kostet Christiania Bye mange Penge, Slotsintendant <lb/>
+Linstow Livet, Byens Indvaanere megen Tid og maaskee mangen Helbred. <lb/>
+Den gamle Linstow var som mange Andre i en munter Stemning efter <lb/>
+Dronningbjergets Champagne, hvorunder han væltede og kort efter opgav <lb/>
+Aanden.</p>
+               <p>	Fredag Formiddag gav Storthinget de Fremmede en Forestilling <lb/>
+hvorunder Grundlovens Forbud mod Jøders Adgang til Riget besluttedes <lb/>
+ophævet mod 10 Stemmer. Denne Beslutning overbragtes Regjeringen i <lb/>
+Gaar og vil blive Deres Majestæt underdanigst foredraget. Jeg fik <lb/>
+herved en ny Anledning til at bemærke, hvormegen Indflydelse Øieblikkets <lb/>
+herskende Anskuelser udøve paa <hi rend="underline">Nutidens</hi>  Statsmænd. Statsraad Petersen, <lb/>
+der som Justits Departementets Chef skal forfatte Indstilingen, yttrede <lb/>
+sig mod Storthingets Beslutning og fortalte, at han i Udlandet havde <lb/>
+erfaret, at man der anseer Forbudet mod Jøderne som noget af det Bedste <lb/>
+i vor Grundlov. De øvrige Statsraader yttrede sig mere eller mindre <lb/>
+i samme Tone. Ikke desto mindre er jeg overbeviist om, at Petersen vil <lb/>
+indstille Beslutningen til naadigst Sanction og at de andre Statsraader <lb/>
+ville tiltræde.</p>
+               <p>	Min Formening er Deres Majestæt ikke ubekjendt og jeg tør <lb/>
+forbeholde mig underdanigst at yttre den nærmere.</p>
+               <p>	Arbeiderforeningens Central-Comité har forlangt en directe <lb/>
+Communication med Storthinget, som dette har afslaaet; men derimod <lb/>
+tilstedet en saadan med Storthings Comiteen, som har Arbeiderforeningens <lb/>
+Petition under Behandling.</p>
+               <p>	Statsraad Erichsen vil ikke undlade at søge ved Domstolene <lb/>
+Opreisning, for de ærekrænkende løgnagtige Beskyldninger, som ere  <lb/>
+fremførte mod ham i Arbeiderforeningens Gaarsblad af en forhenværende  <lb/>
+Materialforvalter ved Horten, som han quæ Værftschef har forafskediget <lb/>
+paa Grund af Drukkenskab og uordentligt Forhold.</p>
+               <p>	Ved min Tilbagekomst hertil den 12te havde jeg den Ære at <lb/>
+modtage en naadig Skrivelse fra Hendes Majestæt Dronningen, hvorfor  <lb/>
+Beskedenhed forbyder mig skriftlig at bevidne den min underdanigste  <lb/>
+Taknemmelighed, hvoraf jeg er dybt gjennemtrængt. Jeg har heraf med  <lb/>
+Bekymring erfaret Deres Majestæts Upasselighed, som jeg inderlig ønsker  <lb/>
+snart hævet.</p>
+               <p>	En Standsning i den sædvanlige Dampskibsroute forhindrede mig <lb/>
+fra at besøge mine Gruber ved Arendal, som var Hovedformaalet for min <lb/>
+lille Reise; men jeg tilbragte 10 lykkelige Dage paa mit kjære Fossum.</p>
+               <p>	Et saa koldt Foraar eller rettere Sommer har jeg aldrig oplevet; <lb/>
+men i Dag have vi dog Gud skee Tak, den første Sommerdag. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 15 Junii 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

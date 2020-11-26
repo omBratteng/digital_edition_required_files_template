@@ -1,0 +1,101 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 15. mai 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p>	Temperaturen har siden Maanedens Begyndelse været tør og kjølig <lb/>
+og ikke sjelden medført Nattefrost, hvoraf følger, at Vegetationen er <lb/>
+meget langt tilbage; men Veiret er gunstigt for Jordarbeidet og et <lb/>
+tydsk Ordsprog lyder: "Mai kühl, Juny nass, füllt sowohl Scheunen als <lb/>
+Fass".</p>
+               <p>	Jeg tillader mig at vedlægge Tromsø Byes Magistrats og Communes <lb/>
+underdanigste Adresse i Anledning af Deres Majestæts lykkelige  <lb/>
+Helbredelse, ledsaget af Stiftamtmand Harris's Skrivelse til mig. Disse  <lb/>
+Documenter afgive et nyt Beviis paa den hjertelige Hengivenhed og  <lb/>
+Kjærlighed for Deres Majestæt som har viist sig i den almindelige Sorg  <lb/>
+under Deres Majestæts Sygdom, i den ligesaa almindelige Glæde over <lb/>
+Deres Majestæts Helbredelse. Enhver Leilighed gribes til at yttre disse <lb/>
+Følelser! Saaledes sluttedes nylig en Concert til Bedste for det  <lb/>
+herværende Theater-Orchester, hvis Medlemmer under næste Sommer maa <lb/>
+savne Løn, med en vakker Sang for Deres Majestæt.</p>
+               <p>	Til Følge den Kongelige Sanct Olafs Ordens Statuter, overleverede <lb/>
+jeg igaar til 4 herværende Commandeurer og 7 Riddere de dem af Deres <lb/>
+Majestæt maadigst forundte Ordens Tegn. Blandt disse var Statholderskabets <lb/>
+mangeaarige fortjente Secretair, Kammerherre Holst, hvis <lb/>
+underdanigste Taksigelse jeg tillader mig at fremføre, ledsaget af <lb/>
+min egen.</p>
+               <p>	Uopfordret vover jeg den underdanig Bemærkning, at det neppe kan <lb/>
+ansees forenelig med den Værdighed, som Deres Majestæt har havt den <lb/>
+Naade at tildele Statsraad Vogt som Seraphimer Ridder, at han <lb/>
+vedbliver at fungere som Skatmester ved St Olafs Ordenen.</p>
+               <p>	Jeg bemærker mere og mere det Ønske, at Deres Majestæt naadigst <lb/>
+maatte ville tillade Seraphimer Riddere, som Deres Majestæt naadigst <lb/>
+har tildeelt Storkorset af Sanct Olafs Ordenen, at bære denne Stjerne <lb/>
+under Seraphimer-Stjernen, som oprindelig var paatænkt, saa meget mere <lb/>
+som dette er Tilfældet med Ordenens nærværende Cantsler, og som <lb/>
+det ikke er bestemt, at Storkors af St Olafs Ordenen, som benaades <lb/>
+med Seraphimer Ordenen, derefter skal aflægge førstnævnte Ordens  <lb/>
+Stjerne, altsaa kunde vedblive at bære den.</p>
+               <p>	Med Deres Majestæts naadige Tilladelse har jeg indgivet min <lb/>
+officielle underdanige Ansøgning om 3 Maaneders Tjenestefrihed, da jeg, <lb/>
+vil Gud, agter den 14de Juny at tiltræde Reisen til Marienbad. Min <lb/>
+Læge byder denne Reise og jeg adlyder høist ugjerne. Iøvrigt er <lb/>
+Reiselysten i Aar her almindelig. Almuen emigrerer talrigt til andre <lb/>
+Verdensdele, flere Andre, end nogensinde, foretage Reiser for Helbred <lb/>
+eller Fornøielse. <hi rend="underline">Min</hi>  største Fornøielse vilde være at blive <lb/>
+hjemme.</p>
+               <p>	Efterat Forestaaende var skrevet, har jeg havt den Ære at modtage <lb/>
+Deres Majestæts naadige Skrivelse af 12te, hvorfor jeg underdanigst <lb/>
+takker. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 Mai 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,379 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 15. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+               <p>	De i Grev Lewenhaupts Brev af 8de denne Maaned efter Deres <lb/>
+Majestæts naadige Befaling begjærte Oplysninger betræffende de Kongelige <lb/>
+Apanager og Udgifter til det Kongelige Slot, giver jeg mig den <lb/>
+Ære underdanigst at vedlægge. Jeg tillader mig derhos underdanigst <lb/>
+at bemærke, at forsaavidt Udgifterne til Slottet fra 1848 til 1851 <lb/>
+med nogle Hundrede Species overskride de dertil i denne Budgettermin <lb/>
+aarlig bevilgede 5050 Speciedaler, vil det Overskydende, efter <lb/>
+Statsraad Brettevilles mundtlige Meddelelse, kunne dækkes ved en fra en <lb/>
+foregaaende Tid havende Beholdning.</p>
+               <p>	Afdøde Lensmand Hersæters Enkes Qvittering og underdanigste <lb/>
+Taksigelse for Deres Majestæts Naadegave 100 Speciedaler, har jeg  <lb/>
+leveret Kammerherre Holst som et Regnskabs Bilag, hvorimod jeg tillader <lb/>
+mig underdanigst at vedlægge Amtmand Mantheys Skrivelse i samme Anledning, <lb/>
+hvoraf naadigst vil erfares, at der desværre kun er lidet Haab <lb/>
+om at kunne forhjelpe benævnte Enke til nogen Pension af Lensmands <lb/>
+Ombudet, fordi dette formodentlig vil blive deelt.</p>
+               <p>	Staldmester Ritmester Juul, vil i Overmorgen tiltræde en Reise <lb/>
+til Stockholm, hvor han har tilbragt et Aar i mit Huus, for at udbede <lb/>
+Deres Majestæts naadige Protection under det forestaaende Avancement <lb/>
+til Corpsmajor ved det Throndhjemske ridende Jægercorps efter Major <lb/>
+Prydtzes Forflyttelse, hvortil Juul staaer for Tour, om man nu vil <lb/>
+følge de samme Regler, som ved Prydtzes Avancement.</p>
+               <p>	Jeg har i en lang Række af Aar kjendt Ritmester Juul som en <lb/>
+hæderlig Mand, der har anvendt Tid og egne Midler til Uddannelse for <lb/>
+sit militaire Kald, og jeg tillader mig underdanigst at anbefale ham <lb/>
+til Deres Majestæts Naade. Under de sidste Uroligheder i Levanger <lb/>
+var han med sin Svoger Grev Trampe der med sin Eskvadron.</p>
+               <p>	I Skrivelse af 24de April behagede Deres Majestæt naadigst <lb/>
+at yttre, at Deres Majestæt <hi rend="underline">med næste Post</hi>  vilde omskrive den Sexiske <lb/>
+Sag; men da jeg senere Intet har modtaget herom, og den heller ikke <lb/>
+findes behandlet i den nu modtagne Statsraads Protocol af 12te denne <lb/>
+Maaned, tillader jeg mig underdanigst at bringe denne ubehagelige <lb/>
+Sag i naadigst Erindring. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 Mai 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 15. mai 1851</supplied>
+               </head>
+               <opener>Til <lb/>
+Hs Excellence Rigets Statholder, Løvenskiold <lb/>
+    	Ridder og Commandør af Hs Kgl Majestæts Ordener.</opener>
+               <lb/>
+               <p>	Ved at fremsende Kvittering for de mig ved Deres Excellences <lb/>
+gunstige Skrivelse af 21de f.M. tilstillede 100 Spdl som et Bidrag <lb/>
+fra Hans Majestæt Kongen til at afhjælpe Lensmand Hersetters Enkes <lb/>
+trængende Forfatning tillader jeg mig at forene min Tak med Enkens <lb/>
+for denne Kongelige Gave.</p>
+               <p>	Forsaavidt Deres Excellence i ovenmeldte Skrivelse tillige har <lb/>
+berørt Hans Majestæts naadigst yttrede Ønske om at der maatte være <lb/>
+Anledning til at bevirke Enken nogen aarlig Understøttelse af det <lb/>
+offentlige, skal jeg give mig den Frihed ærbødigst at oplyse, at en <lb/>
+underdanigst Ansøgning fra Enken om naadigst at forundes en aarlig <lb/>
+Pension af Odalens Lensmandsbestilling med det Første vil blive indsendt, <lb/>
+men at der desværre ikke er megen Udsigt til at den kan blive <lb/>
+indvilget, saafremt en anden underdanigst Forestilling om Odalens <lb/>
+Deling i to Thinglag og to Lendsmandsdistricter efter de to  <lb/>
+Præstegjelde hvoraf Thinglaget hidtil har bestaaet maatte vinde naadigst  <lb/>
+Bifald.</p>
+               <closer>
+                  <dateline>Hedemarkens Amtscontor, <placeName>Veen i Stange</placeName>
+                     <date>d. 10de Mai 1851</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>A. Manthey</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 15. mai 1851</supplied>
+               </head>
+               <p>I Budgetforslaget til indeværende Storthing for Budgetterminen <lb/>
+18 51/54 ere Udgifterne til det Kongelige Huus og til det Kongelige <lb/>
+Slot med Parkanlæg og Inventarium opførte, som følger: <lb/>
+               </p>
+               <table rend="noBorder">
+                  <row>
+                     <cell>a.	</cell>
+                     <cell/>
+                     <cell>Til Hans Majestæt Kongens Hofholdning . . . .</cell>
+                     <cell/>
+                     <cell> 64,000 Sp. aarlig</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>b.	</cell>
+                     <cell/>
+                     <cell>
+                        <p>Til Apanage for Hendes Majestæt <lb/>
+    		  Enkedronningen. . .</p>
+                     </cell>
+                     <cell/>
+                     <cell>  16,000 "  " </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>c.	</cell>
+                     <cell/>
+                     <cell>
+                        <p>Til Apanage for Hans Kongelige Høihed <lb/>
+    			  Kronprindsen . . .</p>
+                     </cell>
+                     <cell/>
+                     <cell>  20,000 "  " </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>d.	</cell>
+                     <cell/>
+                     <cell>Det  Kongelige Slot:</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>1. </cell>
+                     <cell>til nye Bygninger . . . . . .</cell>
+                     <cell>  500 Sp. Sk.</cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>2. </cell>
+                     <cell>
+                        <p>Bygningernes Vedligeholdelse <lb/>
+og forskjellige aarlige <lb/>
+Udgifter. . . . . . . .</p>
+                     </cell>
+                     <cell>3. 200  " –</cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>3. </cell>
+                     <cell>Inventarium . . . . . . . .</cell>
+                     <cell>  2,592, " 80 </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>4. </cell>
+                     <cell>Parkanlægget. . . . . . . .</cell>
+                     <cell>  1,000  " – </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>5. </cell>
+                     <cell>
+                        <p>Afskraaning af et Fjeld ved <lb/>
+de nye Universitetsbygninger</p>
+                     </cell>
+                     <cell>  166 " 80 </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>6. </cell>
+                     <cell>Slotveienes Istandsættelse <lb/>
+og Vedligeholdelse . . . . . .</cell>
+                     <cell> 700  " – </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>7. </cell>
+                     <cell>Aarlige Lønninger. . . . . .</cell>
+                     <cell> 1,554  " – </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>8. </cell>
+                     <cell>Anskaffelse af Sølvtøi</cell>
+                     <cell>
+                        <hi rend="underline">. . . 4.000  " –</hi>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>	  13,713 Sp. 40 Sk.</cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>eller med en rund Sum . . . . .</cell>
+                     <cell/>
+                     <cell>
+                        <hi rend="underline">13,700  " –</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Til sammen </cell>
+                     <cell/>
+                     <cell> 113,700 Sp. aarlig</cell>
+                  </row>
+               </table>
+               <p>Siden 20de October 1848, da Slotsbygningscommissionen tilmeldte  <lb/>
+Departementet, at Slottet var færdigt til Beboelse, er til Slottet med <lb/>
+Parkanlæg, derunder indbefattet Lønninger, anviist <lb/>
+               </p>
+               <table rend="noBorder">
+                  <row>
+                     <cell>i Aaret 1848 (efter 20de October) . . . . . . . . . .</cell>
+                     <cell>  863 Sp. 60 Sk</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  "  1849 . . . . . . . . . . . . . . . . . . . . . .</cell>
+                     <cell> 9,175  "  –  " </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  "  1850 . . . . . . . . . . . . . . . . . . . . . .</cell>
+                     <cell> 4,600  "  –  " </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  "  1851 (1ste Halvaar) . . . . . . . . . . . . .</cell>
+                     <cell>
+                        <hi rend="underline"> 1,000  "  –  " </hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Til sammen</cell>
+                     <cell> 15,638 Sp. 60 Sk </cell>
+                  </row>
+               </table>
+               <lb/>
+               <p>Det bemærkes, at i Budgetterminen 18 48/51 er af Storthinget til <lb/>
+Slottet med Parkanlæg bevilget aarlig 5,050 Spdl, fordeelt paa følgende <lb/>
+Maade: <lb/>
+               </p>
+               <table rend="noBorder">
+                  <row>
+                     <cell>1. </cell>
+                     <cell>Lønning til Slotsforvalteren . . . . . . . . . . . . . . . .</cell>
+                     <cell>  400 Spdl</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2. </cell>
+                     <cell>  Do  til Vagtmesteren . . . . . . . . . . . . . . . . .</cell>
+                     <cell> 150  " </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3. </cell>
+                     <cell>  Do  til Gartneren. . . . . . . . . . . . . . . . . . . . . .</cell>
+                     <cell>  200  " </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4. </cell>
+                     <cell>Til Vedligeholdelse af Park og Have. . . . . . . . .</cell>
+                     <cell> 1,000  " </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>5. </cell>
+                     <cell>Til Vedligeholdelse af Kongeboligen og dertil hørende <lb/>
+Bygninger. .</cell>
+                     <cell>
+                        <hi rend="underline"> 3,300  "</hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>Tilsammen</cell>
+                     <cell> 5,050 Spdl </cell>
+                  </row>
+                  <lb/>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13de Mai 1851</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Bretteville</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

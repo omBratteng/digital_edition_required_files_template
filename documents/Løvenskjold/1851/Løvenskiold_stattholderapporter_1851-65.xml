@@ -1,0 +1,108 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 27. november 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 20de har jeg havt <lb/>
+den Ære at modtage Deres Majestæts  naadige Skrivelse af 17de denne <lb/>
+Maaned, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p>	Generalconsul Faye har nu erklæret sig villig til at modtage <lb/>
+Deres Majestæts naadige Udnævnelse til første Directeur i Hypotheque <lb/>
+Banken, og hans Deeltagelse i dens Bestyrelse er for Tiden en nødvendig <lb/>
+Betingelse for dens heldige Virksomhed. Dette erkjendes af hans <lb/>
+af Storthinget valgte Colleger og af Andre. Saaledes har hans paatænkte <lb/>
+Suppleant H. Heftye erklæret, kun at ville modtage dette Valg, under <lb/>
+den Betingelse, at Faye bliver første Directeur.</p>
+               <p>	Jeg er gjerne Overbringer af behagelige Meddelelser, og har <lb/>
+saaledes med Fornøielse tilkjendegivet Borgemester Fougstad Deres <lb/>
+Majestæts for ham smiggrende og glædende naadige Tilfredshed med hans <lb/>
+nidkjære Virksomhed for en ny Kirkes Bygning hersteds.</p>
+               <p>	St. Olafs Ordenens Casse er vistnok ikke riig og kan aldrig blive <lb/>
+riig, som Følge af, at de med denne Orden Benaadede ikke som for <lb/>
+andre Ordener skal betale Noget for Decorationen; men jeg formener dog, <lb/>
+at man for Tiden bedømmer Ordens Cassens Uformuenhed mindre rigtig.</p>
+               <p>	Ordenens oprindelige Fonds beløb ca 7800 Spdl. og den sammes <lb/>
+Formue er til Dato vedligeholdt, nemlig Obligationer for 4,800 Sp. og <lb/>
+Decorationer for et Beløb af ca 3000 Spdl., <hi rend="underline">der ikke gaae tabt,</hi>  da <lb/>
+Decorationerne tilbageleveres.  De uddeelte Decorationer danne saaledes <lb/>
+en vedværende roterende Capital, som vil bestaae, selv om det hele <lb/>
+contante Fond anvendtes til Decorationers Anskaffelse.  Følgen heraf <lb/>
+vilde alene blive den, at Uddelingen senere maa blive indskrænket <lb/>
+til at besætte de Vacancer, der indtræffe.  Herpaa er allerede i det <lb/>
+trykte Regnskab gjort opmærksom.</p>
+               <p>	De engelske Jernbanecontrahentere udvikle megen Energie. De have, <lb/>
+foranlediget ved og af Hensyn til Jernbanen, kjøbt den ganske betydelige <lb/>
+Jordeiendom Store Hammer, og de ville anskaffe nye Dampskibe for <lb/>
+Mjøsen, fordi de finde de nu derværende for smaa for den Trafique de  <lb/>
+vente ved Jernbanen. For ikke ved Concurrence at ødelægge de derværende <lb/>
+Dampskibe, have de gjort disses Eiere det ganske hæderlige Tilbud, <lb/>
+at ville afkjøbe dem deres Dampskibe, for den derfor af den sagkyndige <lb/>
+Directeur Sørenssen sættende Taxt, med 10 pro Cent Tillæg.</p>
+               <p>	Saa gavnlig som engelske Penges og Industries Anvendelse i dette <lb/>
+Land kan være, kan jeg dog ikke undlade at erindre de Ulykker, som <lb/>
+Lord Palmerston bragte over det arme Grækenland i Anledning af den <lb/>
+der etablerede engelske Jøde Pacifico.</p>
+               <p>	I flere Landets Egne har man havt og har Snee og Slædeføre; men <lb/>
+ikke her, hvor Aarstid og Veir er meget mørkt og triste.</p>
+               <p>	I vore Statsraad havde i den senere Tid den Vane indsneget sig, <lb/>
+at nogle Statsraader sædvanlig indfandt sig saa seent, at Statsraadet, <lb/>
+i Stedet for at begynde til bestemt Tid Klokken 11, som oftest først <lb/>
+kunde begynde en Time senere, hvoraf fulgte, at man ikke blev færdig <lb/>
+og ofte maatte afholde Extra Sessioner.  I denne Anledning erklærede jeg <lb/>
+nylig, at jeg stedse vilde bestræbe mig for, at indfinde mig før Klokken <lb/>
+11, bad mine Colleger gjøre ligesaa; og at Protocollens Læsning <lb/>
+herefter i alle Fald vilde begynde præcise Klokken 11, hvilket har <lb/>
+gjort den tilsigtede Virkning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de November 1851</date>
+                  </dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

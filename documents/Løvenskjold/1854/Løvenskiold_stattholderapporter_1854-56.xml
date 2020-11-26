@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. desember 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p>	Da det grove og plumpe Angreb som i underdanigst vedlagte <lb/>
+Morgenblad er gjort paa Politimester Morgenstierne, turde blive  <lb/>
+bemærket af Deres Majestæt, troer jeg at burde underdanigst meddele  <lb/>
+følgende Oplysning i Anledning af dette Skjændige Misbrug af Avispressen.</p>
+               <p>	Siden Kammerherre Morgenstierne blev gift har han hvert Aar <lb/>
+feiret Keiser Nicolaus Navnedag ved en liden Middag i sit Huus for <lb/>
+12 à 16 Personer, hvorved Keiserens Skaal i denne lille Vennekreds <lb/>
+er bleven udbragt. Anledningen til denne aldeles private Feiring var <lb/>
+det intime Forbindtligheds Forhold hvori salig Frue Morgenstiernes <lb/>
+Familie Soltikow staaer til den Keiserlige Familie og den Erkjentlighed <lb/>
+som Morgenstierne selv, Bærer af en russisk Orden, skylder Keiseren, <lb/>
+der ved flere Leiligheder har viist ham personlig Naade og <lb/>
+Velvillie. Disse anførte Omstændigheder ere uforandrede og om  <lb/>
+Morgenstierne i Aar havde undladt den sædvanlige uskyldige Feiring  <lb/>
+vilde man have søgt Anledningen i forandrede politiske Forholde men som <lb/>
+ikke ere tilstede og altsaa ikke forbyde Deres Majestæts troe  <lb/>
+Undersaatter at udbringe ligesaavel en Skaal for Keiser Nicolaus som for <lb/>
+Dronning Victoria.</p>
+               <p>	Ligesom jeg de foregaaende Aar har havt den Fornøielse at <lb/>
+deeltage i de ovennævnte smaa Middage, vilde jeg heller ikke i Aar havt <lb/>
+nogen Betænkelighed derimod, om ikke Upasselighed havde forhindret <lb/>
+mig.</p>
+               <p>	Da denne Upasselighed, der bestaaer i en piinlig reumatisk <lb/>
+Affection, forhindrer mig fra at gaae ud, var Regjeringens Medlemmer <lb/>
+i Gaar samlede i Statsraad hos mig. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 25. september 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Efter min sidste underdanigste Rapport af 17de denne Maaned har <lb/>
+jeg modtaget Grev Lewenhaupts mig efter Deres Majestæts naadige  <lb/>
+Befaling givne Meddelelse af 18de, hvorom jeg ikke drister mig til at <lb/>
+yttre mig videre.</p>
+               <p>	Vi befinde os her i en ubehagelig Forlegenhed, som især for mig <lb/>
+er piinlig, da Storthinget er færdig til Opløsning, men som ikke kan <lb/>
+iværksættes, forinden vi have modtaget Deres Majestæts Afskedstale <lb/>
+og manglende Resolutioner, som jeg i min underdanigste Rapport af 4de <lb/>
+tillod mig underdanigst at udbede til den 20de.</p>
+               <p>	Dagen for Opløsningen maa for de nødvendige Forberedelser bestemmes <lb/>
+et Par Dage forud; men jeg vover ikke at bestemme Dagen, forinden <lb/>
+de nødvendige Documenter ere modtagne, hvorom jeg med stor Længsel <lb/>
+modseer Oplysning med Dags Posten.</p>
+               <p>	Imidlertid har Klokker Ueland benyttet Tiden til i Gaar at <lb/>
+foreslaae et Andragende til Deres Majestæt betræffende den paatænkte <lb/>
+svenske Sukkertolds Forhøielse, og flere utidige Forslag kan ventes i <lb/>
+Mangel af en snarlig Opløsning.</p>
+               <p>	Jeg erindrer ikke, at Regjeringen er bleven saa grovt behandlet <lb/>
+af noget Storthing under Discussionerne, som af det nærværende, som <lb/>
+derfor ikke fortjener Complimenter til Afskeed. Vi arbeides desværre <lb/>
+af Storthing og Presse dybere og dybere ned i Democratien.</p>
+               <p>	Efter indstændig Anmodning af Oberste Kaltenborn tillader jeg <lb/>
+mig underdanigst at henlede Deres Majestæts naadige Opmærksomhed paa <lb/>
+hans nylig indgivne underdanigste Ansøgning om Afsked med Pension. <lb/>
+Hans aarlige Gage beløber 894 Speciedaler og Regjeringen har underdanigst <lb/>
+indstillet ham til 2/3 heraf som Pension, 596 Speciedl; men med <lb/>
+Tillæg af Emolumenter 23 Spdl maanedlig, nyder han nu aarlig 1178 <lb/>
+Spdl og udbeder han underdanigst, at Deres Majestæt med Hensyn paa <lb/>
+hans Alder 70 Aar, hans lange Tjeneste, og at han har 2 ugifte Døttre <lb/>
+at forsørge, naadigst vil forunde ham 2/3 af sidstnævnte Sum 785 eller <lb/>
+800 Spdl som Pension. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 25 September 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

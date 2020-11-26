@@ -1,0 +1,103 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 10. mai 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 29de forrige Maaned.</p>
+               <p>	Strax derefter havde jeg den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 3die denne Maaned, hvorfor jeg underdanigst takker.</p>
+               <p>	Ved samme Post modtog jeg Statsraad Stangs underdanige Ansøgning <lb/>
+om 4 Maaneders Tjenstledighed, som ikke var uventet og hvorpaa <lb/>
+vi vare forberedede. Derimod var en lignende Ansøgning fra Statsraad <lb/>
+Riddervold os ligesaa uventet som ubehagelig.</p>
+               <p>	Det var ham ikke ubekjendt, at Statsraaderne Vogt og Bloch<hi rend="underline">ere</hi>
+                  <lb/>
+                  <hi rend="underline">nødsagede til</hi>  at ansøge Tjenstledighed i Juny og July Maaneder, for <lb/>
+at besøge Badet i Sandefjord, og vi beklage, at Statsraad Riddervold <lb/>
+under disse Omstændigheder har kundet foretrække egen Beqvemmelighed <lb/>
+for Tjenestens Tarv. Til denne Anskuelse er man berettiget, da Statsraad <lb/>
+Riddervold ikke, som hans Colleger, ved Lægeattest har godtgjort <lb/>
+Nødvendigheden af hans Tjenstledighed.</p>
+               <p>	Vi ere herved satte i en ikke ringe Forlegenhed og udsatte for <lb/>
+den Mulighed, at det grundlovmæssige Antal Statsraader ikke vil være <lb/>
+tilstede, uden Tilkaldelse af overordentlige Medlemmer. Ikke desto <lb/>
+mindre formene vi det under nuværende politiske Omstændigheder end <lb/>
+angelegnere, at Statsraads Afdelingen i Stockholm holdes fuldtallig <lb/>
+end Statsraadet her, fordi, om overordentlig Tilkaldelse skulde  <lb/>
+behøves, Adgang til denne dog lettere maa kunne findes her end der.</p>
+               <p>	Fra denne Synspunkt vil Regjeringen underdanigst indstille, at <lb/>
+det naadigst maa behage Deres Majestæt at befale Statsraad Lange at <lb/>
+begive sig til Stockholm, for at remplacere Statsraad Stang, – som <lb/>
+Statsraad Møinichen vil remplacere Statsraad Riddervold.</p>
+               <p>	Denne pludselige og uventede Bestemmelse vil være meget <lb/>
+ubeleilig for Statsraad Lange og jeg og hans øvrige Colleger vil høist  <lb/>
+ugjerne savne ham i Statsraadet her, men det kan virkelig ikke være <lb/>
+anderledes, og Statsraad Lange sætter Tjenestens Tarv over egen <lb/>
+Beqvemmelighed.</p>
+               <p>	Jeg vover at forudsige, at Deres Majestæt, i Statsraaderne Lange <lb/>
+og Møinichen vil finde ligesaa dygtige som behagelige Raadgivere.</p>
+               <p>	Efter Statsraad Møinichens Afgang vil Statsraad Bretteville <lb/>
+overtage Revisions-Departementet, ved Siden af Indre-Departementet, men <lb/>
+om Deres Majestæt naadigst bifalder vor underdanige Indstilling,  <lb/>
+betræffende Statsraad Lange, er det os for Tiden dog ikke muligt at  <lb/>
+foreslaae Kirke-Departementets og senere Finants Departementets  <lb/>
+Bestyrelse, som vil dependere af Omstændighederne, naar Tilfældene  <lb/>
+indtræffe. Regjeringen beder sig derfor naadigst bemyndiget til i sin <lb/>
+Tid at ordne de forskjellige Departementers Bestyrelse efter <lb/>
+Omstændighederne.</p>
+               <p>	Blind som Mennesket er, endog for sin nærmeste Fremtid, kan og <lb/>
+bør man dog ikke undlade at tænke sit Muligheden af nogen Fremtid og <lb/>
+forberede sig derpaa. I denne Hensigt ønsker jeg at begive mig til <lb/>
+Fossum den 21de denne Maaned, som jeg tør haabe ikke vil være Deres <lb/>
+Majestæt imod. Isaafald agter jeg at være her tilbage den 31te. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 10de Mai 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

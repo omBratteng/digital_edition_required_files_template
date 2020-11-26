@@ -1,0 +1,68 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 25. mars 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 18de denne Maaned, har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af 15de, hvis Indhold jeg har meddeelt Regjeringens øvrige Medlemmer.</p>
+               <p>	Idag paaligger mig den ubehagelige Pligt for Deres Majestæt underdanigst at andrage en indtruffet feilagtig Expedition, af en i Regjeringen her den 10de forrige Maaned afgjort Sag hvis ubehagelige Følger allene ville kunne afværges ved Deres Majestæts naadige Overbærelse og Hjelp, som jeg tillader mig underdanigst at anraabe.</p>
+               <p>	Naar jeg tillader mig foreløbig underdanigst at bemærke, at den omnævnte Sag er bleven behandlet og expederet under min Fraværelse og at jeg saaledes er udenfor al Deeltagelse i den indtrufne Expeditionsfeil, saa vil jeg derved ingenlunde antyde, at denne ikke vilde være indtruffet, om jeg havde været tilstede, men denne underdanige Bemærkning gjøres alene, for at oplyse mit upartiske Forhold til Sagen. Borgermester Bonnevies indgivne Forestillinger om Protocolførelsen m.m. i Møder af Magistrat og Formænd i Trondhjem, blev den 10de Februar af Statsraad Stang foredraget i Regjeringen, hans Indstilling af denne bifaldt og Resolution herom af ham paa sædvanlig Maade Vedkommende meddeelt den paafølgende 18de. Derefter var det ligesaa ubehagelig som uventet, af den den 21de denne Maaned fra Stockholm hertil ankomne Statsraads Protocol at erfare, at den samme Sag har været Deres Majestæt underdanigst foredraget den 15de og at Deres Majestæt dertil har afgivet naadigst Resolution.</p>
+               <p>	Denne ubetydelige Sag egnede sig, overeensstemmende med den for Regjeringens Virksomhed gjeldende Kongelige Instruction til Afgjørelse her. Derved har Regjeringen saaledes ikke overskredet sin Competence; men den uheldige indtrufne Feil bestaaer deri, at Sagen istedetfor i Statssecretariatet at blive indført i den rette Expeditions Protocol for her afgjorte Sager, og derefter anført i Regjeringens sædvanlige underdanige Rapport, – er bleven expederet til Stockholm til Foredragning for Deres Majestæt med en underdanigst Indstilling, som af Regjeringens Medlemmer er bleven underskreven, uden at Nogen har bemærket Feiltagelsen.</p>
+               <p>	Nægte kan og vil man ikke, at denne Feiltagelse er bleven foranlediget derved, at Sagen er i Statsraadet bleven noteret som henhørende til Protocollen over de til Deres Majestæts naadige Afgjørelse henhørende Sager; – dernæst ved en mindre skarp Opmærksomhed ved Indstillingens Underskrift; men herfor vover jeg at haabe naadigst Undskyldning i de Omstændigheder, som have foranlediget det Ene som det Andet. Den Statssecretairen paahvilende Function, at ordne de i Statsraadet foredragne Sager, med Paategning om, hvilke her ere afgjorte og hvilke skulle expederes til Stockholm, maatte under hans langvarige Upasselighed som endnu den 10de Februar forhindrede hans Nærværelse i Statsraadet, skifteviis besørges af en Statsraad, – og naar naadigst Hensyn tages til at denne ved Siden af denne Function, tillige maatte deeltage i Statsraadets Forhandlinger, Discussioner og Underskrifter, saa synes en Feiltagelse som den indtrufne tilgivelig.</p>
+               <p>	At Feiltagelsen ved Indstillingens Underskrift ikke er bleven bemærket kan synes paafaldende, men for denne Mangel paa skarp Opmærksomhed vover jeg at haabe naadigst Undskyldning med Hensyn paa at Regjeringens Protocoller og Indstillinger underskrives i Statsraadet under Sagers Foredragning og Discussion. Det er da umulig at læse Documenterne og Underskrift maa gives i Tillid til Statssecretairens Parafering, der uden Tvivl i dette som hidindtil i alle andre Tilfælde vilde have været paalidelig, om han havde været nærværende i Statsraads-sessionen den 10de Februar.</p>
+               <p>	Jeg vover da at haabe og underdanigst at udbede Deres Majestæts naadige Tilgivelse for en Feil, som ene er foranlediget ved flere sammenstødte tilfældige uheldige Omstændigheder.</p>
+               <p>	Dernæst vover jeg i dybeste Underdanighed at udbede Deres Majestæts naadige Samtykke og Befaling til at afværge de for den Norske Regjering, isærdeleshed for Statsraad Stang, høist compromitterende Følger, som den indtrufne Feil, i Mangel deraf, kunde foranledige. Statsraad Stang har overeensstemmende med Sandhed, i god Tro,<hi rend="underline">communiceret</hi>  Vedkommende en af Regjeringen med fuld Hjemmel afgivet Resolution, om hvis Gjenstand Deres Majestæt ved en uheldig Feiltagelse senere er bleven foranlediget til Selv at afgive en Kongelig Resolution. Om denne ikke med Deres Majestæts naadige Samtykke kan hæves, vil Statsraad Stang, paa hvem i denne Begivenhed ikke den ringeste moralske Brøde hviler, kunne paavæltes en juridisk, som muligens kunde medføre Anvendelse af Ansvarligheds Loven af 7de Juli 1828, hvilket vilde være lige ufortjent som beklagelig for ham og Deres Majestæts Regjering. For at afværge et saa stort Onde for Statsraad Stang som for Regjeringens Anseelse, vover jeg at nedlægge min underdanigste Forbøn om, at Deres Majestæt, underrettet om, at den Gjenstand, hvorom Deres Majestæt under 15de denne Maaned har afgivet naadigst Resolution, allerede tidligere har været afgjort af Regjeringen, naadigst vil tillade, at hiin Resolution maa ansees som ikke afgivet, og at den ikke skal indtages i Statsraads-Afdelingens Protocol, – eller, om den mod Formodning allerede deri skulde være indført, maa udslettes med Vedtegning om, at Indstillingen er bleven tilbagekaldt. Jeg tillader mig derhos underdanigst at bemærke, at denne Protocol ingensinde er, og sandsynligviis ikke vil blive paakrævet af Storthinget, da den ikke indeholder andet end af de her beroende Protocoller kan erfares. Bifalder Deres Majestæt naadigst dette, vil den fornødne Rettelse blive foretaget i de her værende Protocoller. I Haab om naadigst Bønhørelse, tilstilles Hans Excellence Statsministeren den hertil sendte Protocol, hvori Resolutionen er indført, for med Deres Majestæts naadige Tilladelse deraf at vorde udtagen.</p>
+               <p>	Sagens Gjenstand er af en meget underordnet Beskaffenhed, og om Borgermester Bonnevie ikke vil lade sig nøie med Regjeringens Resolution, staaer det ham frit, underdanigst at henvende sig med et fornyet Andragende til Deres Majestæt i sidste Instants. Ved saadan Sagens Afgjørelse vil Ingens Ret blive krænket; men Statsraad Stang og Regjeringen blive forskaanet for en Ydmygelse, som jeg høieligen maatte beklage.</p>
+               <p>	Jeg modseer med Længsel Deres Majestæts naadige Bifald, til Beroeligelse for den i denne Begivenhed meget lidende Statsraad Stang.</p>
+               <p>	Af en Meddelelse fra Statsraad Stang til Hans Excellence Statsministeren, vil Deres Majestæt naadigst have erfaret, den nedslaaende Efterretning, at den engelske Regjering skal have opkjøbt al Ruug og Ruugmeel, som Archangel i dette Aar kan exportere, hvorved Finmarkens Befolkning sædvanlig brødfødes. En ubehagelig Efterretning kommer tidsnok, og jeg har derfor udsat denne, indtil affordret nærmere Underretning fra Amtmanden i Finmarken modtages. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de Marts 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

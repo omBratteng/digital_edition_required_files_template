@@ -1,0 +1,315 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 4. april 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p>	Den fungerende Politiemester's Rapport betræffende H. Harring <lb/>
+og M. Thrane, tillader jeg mig underdanigst at vedlægge. Da jeg deraf <lb/>
+erfarer, at Harrings Correspondance føres gjennem den i mit sidste <lb/>
+omnævnte Poulsen, vil jeg herpaa henlede Vedkommendes Opmærksomhed.</p>
+               <p>	Efterat Oberst Mansbach havde meddeelt mig en Deres Majestæts <lb/>
+naadige Skrivelse til ham, besøgte jeg ham den anden Paaskedag. Jeg <lb/>
+fandt ham i en høist beklagelig Forfatning. Uagtet jeg sad nær for <lb/>
+ham kunde han kun see mig som en mørk Skygge og de herværende Læger <lb/>
+have meget lidet Haab om, at han vil kunne gjenvinde Synet. Hans eget <lb/>
+sidste Haab er fæstet til fremmede Lægers Hjelp, og bad han mig, da <lb/>
+han ikke selv kan skrive, at bevidne Deres Majestæt den inderlige  <lb/>
+Taknemmelighed, hvoraf han paa en rørende Maade viiste sig gjennemtrængt <lb/>
+for den Naade, hvorved Deres Majestæt har sat ham i Stand til at søge <lb/>
+dette svage Haab opfyldt. Skulde dette slaae Feil, beder han Gud befrie <lb/>
+sig ud af denne for ham mørke Verden. Han ønskede derhos sin  <lb/>
+underdanigste Taknemmelighed fremført for den naadige Deeltagelse, som <lb/>
+Hendes Majestæt Dronningen har viist ham ved Greve E. Lewenhaupts <lb/>
+Meddelelse, som har været ham meget velgjørende.</p>
+               <p>	Ogsaa Frøken Juul har anmodet mig om at fremføre hendes underdanigste <lb/>
+Tak for Deres Majestæts Naadegave. Uagtet en svag Helbred, bestræber <lb/>
+hun sig paa en agtværdig Maade for at erhverve Livsophold ved <lb/>
+Underviisning og nu har Deres Majestæt havt den Naade at erstatte det <lb/>
+Manglende. Salige ere de Givende! og jeg takker underdanigst for den <lb/>
+Anledning Deres Majestæt har givet mig til at fremføre Modtagernes <lb/>
+hjertelige Taknemmelighed. Med Morgenposten vil Regjeringens underdanigste <lb/>
+Indstilling om Statsraad Sibberns Afskeed med Pension afgaae. <lb/>
+Ingen Statsraad er hidindtil afgaaet med en mindre Pension end 2/3 af <lb/>
+Gagen, nemlig 2000 Speciedaler, i enkelte Tilfælde har Hans Majestæt, <lb/>
+med Hensyn paa lang Tjeneste og andre Omstændigheder naadigst bevilget <lb/>
+og Storthinget bifaldt en høiere Pension. Saaledes har Statsraad <lb/>
+Motzfeldt 2500 Spdl., Statsraaderne Collett og Holst 3000 Spdl.</p>
+               <p>	Med Hensyn herpaa og paa Statsraad Sibberns lange og hæderlige <lb/>
+Tjeneste, har Regjeringens Pluralitet underdanigst indstillet ham til <lb/>
+en aarlig Pension af 2500 Spdl. som anbefales til Deres Majestæts <lb/>
+naadige Bifald.</p>
+               <p>	Da jeg anseer det gavnligt at Deres Majestæt kjender Forholdene <lb/>
+her, vil jeg tillade mig underdanigst <hi rend="underline">confidentielt</hi>  at meddele hvad <lb/>
+her er passeret i Forbindelse med Statsraad Sibberns Afskeed.</p>
+               <p>	Efterat Deres Majestæt naadigst havde bifaldt Borgemester <lb/>
+Brettevilles Udnævnelse til Statsraad, meddeelte Statsraad Vogt mig, at <lb/>
+Statsraad Stang i en meget nedtrykt Sinds-Stemning havde meddeelt ham, at <lb/>
+hans Helbred ikke tillod ham at vedblive Indre Departementets Bestyrelse, <lb/>
+at Pligt mod hans talrige Familie bød ham at søge sig derfra forflyttet, <lb/>
+og at han derfor ivrig ønskede, at Indre Departementets Bestyrelse <lb/>
+maatte blive overdraget til Bretteville og Justits-Departementets <lb/>
+til ham. I samme Tone yttrede han sig for Statsraad Sørenssen og <lb/>
+senere for mig.</p>
+               <p>	Anerkjendende Gyldigheden af Stangs Grunde var jeg saa meget <lb/>
+tilbøieligere til at imødegaae hans Ønske, som jeg maatte erkjende det <lb/>
+stemmende med Forretningernes Tarv. Indre-Departementet vilde i Bretteville <lb/>
+have faaet en dygtig Bestyrer, og da det tilfalder Sørenssen at <lb/>
+gaae til Stockholm til Høsten, maatte jeg erkjende det hensigtsmæssigt, <lb/>
+at Stang strax kunde overtage Justits-Departementet, forberede <lb/>
+dets Sager til Storthinget og derunder vedblive dets Bestyrelse, hvilket <lb/>
+jeg ikke uden megen Møie overtalede Sørenssen til at bifalde. Denne <lb/>
+vilde da have overtaget Kirke-Departementet til Riddervolds Tilbagekomst <lb/>
+og Vogt Finants-Departementet.</p>
+               <p>	Saavidt forberedet bragte jeg Sagen under en confidentiel Discussion <lb/>
+i Statsraadet, men erfarede da til min og Andres største Forundring, <lb/>
+at Stang, der havde givet Anledningen, gjorde Vanskeligheder. Han <lb/>
+erklærede det nu for en Opoffrelse at forlade Indre-Departementet og <lb/>
+at han ikke ønskede at overtage Justits-Departementet, med mindre denne <lb/>
+Overdragelse maatte ansees som permanent. Derefter tog jeg naturligviis <lb/>
+mit Forslag, (som jeg underdanigst beder Deres Majestæt ignorere) –  <lb/>
+tilbage, hvorefter Departementernes Bestyrelse vil forblive in <lb/>
+statu quo til Høsten, og antager jeg saaledes, at Deres Majestæt ved <lb/>
+Brettevilles naadige Udnævnelse til Statsraad naadigst vil befale ham <lb/>
+at overtage Finants Departementets Bestyrelse indtil videre.</p>
+               <p>	Efter en forræderisk Martsvarme, have vi faaet complet Vinter. <lb/>
+Bjørnen er ikke alene den klogeste men derhos den lykkeligste Normand. <lb/>
+Han lader sig ikke forlokke til at forlade sit gode Vinterhie, før <lb/>
+det efter Naturens Orden efter fattig Leilighed bliver Foraar. Jeg <lb/>
+fristes til det ydmyge Ønske, at vor Herre havde ladet mig blive en <lb/>
+norsk Bjørn i Stedet for en norsk Rigs-Statholder.</p>
+               <p>	Efterat forestaaende var skrevet, modtog jeg Greve Lewenhaupts <lb/>
+Brev af 1ste denne Maaned, hvis Indhold skal blive iagttaget.</p>
+               <p>	Just idet jeg slutter denne underdanige Rapport modtager jeg fra <lb/>
+Kammerherre Morgenstjerne vedlagte Meddelelse, som jeg tillader mig <lb/>
+underdanigst at fremsende. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4 April 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 4. april 1850</supplied>
+               </head>
+               <opener>Hans Exellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+Løvenskiold, Ridder og Commendør  <lb/>
+af Hans Majestæts Ordener,  <lb/>
+Storkors af St Olafs Ordenen, <lb/>
+Ridder af Elephanten m.m. <lb/>
+               </opener>
+               <p>Som Deres Excellence bekjendt ankom hertil i Løbet af December <lb/>
+Maaned f.A. en Person ved Navn Haro Harring.</p>
+               <p>	I Henhold til Deres Excellences Ordre, at være opmærksom paa <lb/>
+denne Person, havde jeg den Ære, kort efter hans Ankomst, mundtlig <lb/>
+at meddele at det ikke havde været mig mueligt at komme paa Spor  <lb/>
+efter at han stod i Forbindelse med Nogensomhelst her paa Stedet, med <lb/>
+Undtagelse af den Læge, der under en Sygdom besøgte ham. Senere er <lb/>
+det kommen til min Kundskab at han havde stiftet Bekjendtskab med  <lb/>
+Boghandler Dzwondkowski, Lærer ved Høiskolen og Krigsskolen Auteuriette, <lb/>
+Prokurator Gonder, dennes Fuldmægtig, Examinatus juris Poulsen, en <lb/>
+Incassator Martinius Bratlie og dennes Fuldmægtig Arnesen, men jeg maa <lb/>
+erkjende at det var ved Deres Excellences velvillige Meddelelse at jeg <lb/>
+kom til Kundskab om at han ogsaa stod i Forbindelse med Markus Thrane. <lb/>
+Bekjendskabet med denne sidste er stiftet for omtrent to Uger siden i <lb/>
+et Selskap hos en tydsk Musiklærer ved Navn Neupert. En af de i  <lb/>
+Selskabet Tilstedeværende har forsikret mig at Hr Neupert der  <lb/>
+forestillede Thrane for Harring. Senere er Thrane oftere kommen til  <lb/>
+Sidstnævnte og har hvergang tilbragt flere Timer hos ham.</p>
+               <p>	Haro Harring er en Mand paa imellem 50 og 60 Aar og af svagelig <lb/>
+Helbred. Han lever særdeles indgetogent og tilbringer sin Tid med at <lb/>
+male Portraiter og med at skrive. Han angiver at han maattet forlade <lb/>
+Hertugdømmerne, hvor han opholdt sig, fordi han var Dansksindet,  <lb/>
+undertiden ogsaa fordi han ikke vilde tage Tjeneste, da han som Republikaner <lb/>
+ikke vilde stride hverken for Kongen af Preussen eller Kongen af  <lb/>
+Danmark. Han angiver derhos at han fra en Broder, som er Præst i Nord- <lb/>
+schleswig erholder Hjælp til Livsophold. Med den før omtalte  <lb/>
+Examinatus juris Poulsen gjorde han Bekjendtskab paa Reisen hertil og det er <lb/>
+igjennem denne Person at han modtager alle sine hertil ankommende Breve, <lb/>
+saavel fra Sverrig, som fra Udlandet. Fra Sverrig har han modtaget i <lb/>
+det mindste eet Brev fra Aftonbladets Redactør Hr Lars Hjerta, og han <lb/>
+angiver at dette var Svar paa et til hiin adresseret Brev, hvori han <lb/>
+anmodede ham om at være Forlægger for et af hans Skrifter, noget som <lb/>
+Hr Hjerta, i det mindste kun betingelsesviis, vilde gaae ind paa. Det <lb/>
+har ikke været mig mueligt at opdage fra hvilke Personer i Udlandet, <lb/>
+han har modtaget Brev, derimod har han i Løbet af Januar og Februar  <lb/>
+Maaneder afsendt følgende Breve: </p>
+               <list>
+                  <item>til Kjøpmand Holtermann, Rödigsmark No 75 i Hamburg.</item>
+                  <lb/>
+                  <item> ”  Friederich Meisling, Friburg, ”römische Kaiser”.</item>
+                  <lb/>
+                  <item> ”  Carl Grollmann ”zum Adler” i Emmerdinge.</item>
+                  <lb/>
+                  <item> ”  Hinrich Adolph Klepker Glasfabrikant – Schöenmuntzbach.</item>
+                  <lb/>
+                  <item> ”  Eduard Leininger, Posthof zu Rodolffszell.</item>
+               </list>
+               <lb/>
+               <p>Betræffende de Personer, der besøge Haro Harring, maa det være <lb/>
+mig tilladt underdanig at bemærke:</p>
+               <p>	At Dzwondkowski er en Polack af den lavere Adel og derhos af <lb/>
+temmelig ubetydelige Evner. Jeg antager dette tilstrækkeligt for at  <lb/>
+carakterisere hans Forhold til Haring, der imidlertid skal have lidt et  <lb/>
+betydeligt Afbræk ved den Omstændighed at Dzwonkowski har nægtet at  <lb/>
+være Forlægger for de af ham annoncerede Skrifter. Sikkert er det  <lb/>
+ialfald at Dzwonkowski høit erklærer, at Haring er en stor  <lb/>
+Middelmaadighed og at hans Skrifter ere ligesaa slette som kjedsommelige, samt at <lb/>
+de i den senere Tid ikke omgaaes.</p>
+               <p>	Prokurator Gaarder har sikkerlig Lyst til at foraarsage <lb/>
+Autoriteterne alt mueligt Bryderie paa Grund af den mod ham anlagte Justitssag; <lb/>
+men Gaarder talte og voterede i den demokratiske Forening imod at man  <lb/>
+skulde understøtte Thrane, det være sig ved moralske eller pekuniaire <lb/>
+Midler.</p>
+               <p>	H. Auteuriette har en altfor lykkelig Stilling som Lærer ved <lb/>
+Høiskolen og Krigsskolen til at han skulde indtræde i nogen Forbindelse <lb/>
+der kunde drage ham Afskedigelse som Lærer til Følge. Han har ogsaa <lb/>
+yttret for Haring at Norge var et ufrugtbart Land for dem der vare <lb/>
+vante til og ønskede at gjøre Opsigt, hvortil Haring svarede at Norge <lb/>
+visselig var et besynderligt Land isaa Henseende og hvor selv Politiet <lb/>
+ikke bekymrede sig om ham.</p>
+               <p>	Inkassator Martinus Bratlie har een Gang været indlagt paa <lb/>
+Rigshospitalet som sindssvag og man anseer det ikke usandsynligt at han <lb/>
+snart vil komme tilbage til denne Helbredelsesanstalt. Han er ialfald  <lb/>
+høist uskadelig. De to omhandlede Fuldmægtige Poulsen og Arnesen ere <lb/>
+ubetydelige Personer, der finde sig smigrede ved at komme i Berørelse <lb/>
+med en Mand, hvis Navn er europæisk bekjendt.– </p>
+               <p>	Harings Forhold til Thrane indskrænker sig sandsynligvis til at <lb/>
+være ham behjælpelig med Raad og med Bidrag til Arbeiderforeningernes <lb/>
+Blad. Han skal allerede have leveret en Opsats betitlet ”Europas  <lb/>
+nærmeste Fremtid”. Imidlertid skal jeg saavidt mueligt søge at komme til <lb/>
+Kundskab om deres fremtidige Samvirken. Haring har opsagt sit Logis og <lb/>
+skal 1ste Juni indlogere sig hos Tømmermester Struck, til hvem han <lb/>
+har ærklæret at han i Mai Maaned agtede at foretage en Reise, men at <lb/>
+han endnu var ubestemt, og ikke vidste om han reiste til Holsteen eller <lb/>
+til Bergen.</p>
+               <p>	Markus Thrane er for Øieblikket beskjæftiget med at ordne hvad <lb/>
+der vedkommer Petitionen til Hans Majestæt Kongen. Petitionen skal <lb/>
+overrækkes Deres Excellence og saafremt Deres Excellence ikke skulde <lb/>
+finde Dem foranlediget til at modtage den, da til Chefen for  <lb/>
+Departementet for det Indre. Endvidere arbeides paa at faae istandbragt et <lb/>
+Fane, hvorunder Medlemmerne af Foreningen skulle samle sig den 17de <lb/>
+Mai. Medlemmerne skulle betegnes ved et paa Kjolen anbragt Baand og <lb/>
+Opfordringer skulle udgaae til alle Deeltagere om ikke den Dag at nyde <lb/>
+spirituøse Drikke og at holde den største Opmærksomhed paa at undgaae <lb/>
+enhver Ting, der kunde afstedkomme Uorden og frembringe Conflicter med <lb/>
+Politiet. – Foruden de Mangler Thrane forøvrigt har som Agitator,  <lb/>
+nemlig at være uden Kundskaber og især uden Talegaver, maa jeg, efter <lb/>
+hvad der fra flere og paalidelige Personer er mig berettet, antage, at <lb/>
+han er i høi Grad frygtsom, vaklende og ubestemt, især viser han den <lb/>
+allerstørste Utilbøielighed til at komme i Berørelse med Politiet,  <lb/>
+noget hvorom jeg under en Samtale med ham forrige Aar, havde Anledning <lb/>
+til at overbevise mig. Samtlige Muur- og Bygmestere, der have et større <lb/>
+Antal Arbeidere under sig have forsikkret mig at de ikke hos  <lb/>
+Arbeiderne have fundet ringeste Spoer af noget, der kunde antages som  <lb/>
+Paavirkning af Thrane og hans Blad, og der gives endog een, nemlig Tømmermester <lb/>
+Struck, der beskjæftiger 30 à 40 Arbeidere, der han forsikkret at han <lb/>
+selv har været Vidne til at baade Thrane og hans Blad blant <lb/>
+Arbeiderne var Gjenstand for Uvillie og Latter. – Thrane er i megen  <lb/>
+Pengeforlægenhed. Han siges at have faaet 100 Spd. tilsendt af en anonym  <lb/>
+Person, noget som Thrane dog stadig benægter, som man troer for ikke at <lb/>
+lamme Arbeidernes allerede flere Gange svigtede Lyst til at komme ham <lb/>
+til hjælp. Med de ”formaaende Mænd”, han i sit Blad paaberaaber sig, <lb/>
+har det nok neppe sin Rigtighed. Vist er det ialfald at han for omtrent <lb/>
+14 Dage siden hos Sparebankens Forstander forhørte sig om der var Laan <lb/>
+at faae mod gode Cautionister, paa Forstanderens bejaende Svar opgav <lb/>
+han nu Martinus Bratlie og Broderen Lieutenant Thrane for et Laan af <lb/>
+200 Spd., men da disse Cautionister ikke bleve godkjendte lovede han  <lb/>
+at komme tilbage. Endnu i gaar løb han omkring for at opdrive en  <lb/>
+Cautionist, hvilket endnu ikke er lykkedes.– </p>
+               <p>	Deres Excellence vil under disse Omstændigheder formodentlig <lb/>
+beklage om der fra andre Steder skulde bringes denne Person Mod og Hjælp, <lb/>
+noget hvorpaa jeg fremdeles skal være opmærksom.– </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <date>d. 3ie April</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstjerne</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 4. april 1850</supplied>
+               </head>
+               <opener>Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+Løvenskiold, Ridder og <lb/>
+Commdør af H.M.Ordener, <lb/>
+Storkors af St OlofsOrdenen <lb/>
+Ridder af Elephanten</opener>
+               <p>	I dette Øieblik blev jeg underrettet om at Markus Thrane igaar <lb/>
+Aftes modtog et Brev fra Stockholm undertegnet "M.G.H. Michaelson", <lb/>
+med hvilket fulgte den svenske Arbeiderforenings Statuter og et Nummer <lb/>
+af Bladet "Reform". I Skrivelse fra Michaelson findes en Opfordring <lb/>
+til den norske Arbeiderforening om at efterligne den svenske, <lb/>
+i at fastholde den Tanke at der under dens Bestræbelser ikke maae <lb/>
+anvendes andre end lovlige Midler, og i at hindre, at der hos Arbeideren <lb/>
+lægges Spirer til den revolutionaire Aand, der har gjort det <lb/>
+øvrige Europa saa ulykkeligt, idet man har forsøgt paa at forstyrre <lb/>
+Religionen, Familien og Eiendomsretten, hvilke just skulle være  <lb/>
+Underpanten paa Menneskenes Fred, Lyksalighed og Uafhængighed.</p>
+               <p>	Hvad Thrane herpaa vil svare haaber jeg senere underdanig at <lb/>
+kunne meddele Deres Excellence. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <date>d. 5te April 1850</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

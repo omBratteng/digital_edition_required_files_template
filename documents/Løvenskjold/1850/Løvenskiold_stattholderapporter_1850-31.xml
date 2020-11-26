@@ -1,0 +1,73 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 5. juli 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p> Min sidste underdanigste Rapport var af 1ste denne Manned.</p>
+               <p>	Jeg vover i Underdanighed at nedlægge for Deres Majestæt mine <lb/>
+underdanigste Lykønskninger i Anledning af Deres Majestæts høie  <lb/>
+Fødselsdag, som jeg igaar havde den Ære at feire ved en Middag i  <lb/>
+Stiftsgaarden, hvorved Deres Majestæts Skaal af mig blev underdanigst  <lb/>
+udbragt og ledsagedes af de Tilstedeværendes varmeste Ønsker.</p>
+               <p>	Deres Majestæts Naadegave til Christiania Byes og Forstæders <lb/>
+Fattige, samt Gratificationen til Garnisonen blev paa sædvanlig <lb/>
+Maade uddeelt.</p>
+               <p>	Statsraad Erichsen har anmeldt, at de fornødne Fartøier til <lb/>
+Troppernes Transport til Slesvig allerede ere befragtede og at han  <lb/>
+antager, at de nødvendige Indretninger paa det nærmeste ville blive  <lb/>
+færdige inden Udgangen af næste Uge. Capitaine Meyer er overdraget  <lb/>
+Commandoen over Transporten.</p>
+               <p>	De fornødne Foranstaltninger til Troppernes Udrustning ville <lb/>
+blive fremmede med størst mulig Hurtighed ved Armee Departementet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te Juli 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

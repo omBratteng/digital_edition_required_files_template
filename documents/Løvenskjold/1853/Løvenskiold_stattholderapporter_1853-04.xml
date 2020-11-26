@@ -1,0 +1,84 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. februar 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p>	Medens jeg ikke, til Følge Deres Majestæts naadige Befaling ved <lb/>
+Grev Lewenhaupt af 10de, kan anføre bestemte juridisk beviselige Facta <lb/>
+mod Provst Læstadius, tillader jeg mig underdanigst at fremsende, <lb/>
+Litr. A: et Uddrag af en Skrivelse af 8de Januar fra Amtmanden i <lb/>
+Finmarken til det Kongelige Justits Departement, og Litr. B. Copie af <lb/>
+en Indberetning fra Biskoppen i Tromsø, som af det norske Kirke Departement  <lb/>
+er tilsendt det Kongelige Svenske Ekklesiastik Departement.</p>
+               <p>	Disse Indberetninger vise, at vedkommende norske civile og <lb/>
+geistlige Overøvrighed ere enige i den Overbeviisning, at Læstadius er  <lb/>
+Ophavsmanden til den fanatiske Forvildelse, som allerede har forvoldt <lb/>
+stor Ulykke, og at han fremdeles søger at vedligeholde den. Fogderne <lb/>
+Hauge og Saxlund, son nylig have bereist Finmarken, dele denne  <lb/>
+Overbeviisning, og tillægge, paa Grund af Alt hvad de paa Stedet have <lb/>
+erfaret, at Læstadius udøver en terroristisk Indflydelse paa Almuen, <lb/>
+som gjør hans Virksomhed i religieus og politisk Retning dobbelt farlig. <lb/>
+De have i Finmarken læst et der udbredt, af Læstadius udgivet, <lb/>
+i Piteå trykt Skrift, benævnt: "En ropandes Røst i Øknen", hvis  <lb/>
+oprørende Angreb paa civil og geistlig Autoritet, paa den i Staten  <lb/>
+bestaaende Orden, de ansee lige saa strafværdig som formastelig.</p>
+               <p>	Dette er Alt, hvad jeg for Tiden veed underdanigst at indberette <lb/>
+om denne Gjenstand.</p>
+               <p>	Jeg kan ikke undlade at dele de benævnte forstandige og hæderlige <lb/>
+Mænds Anskuelse om Læstadius's farlige Virksomhed, og det Ønskelige i, <lb/>
+at den maa kunne standses snarest mulig, i hvilken Hensigt det turde <lb/>
+være gavnlig at lade hans Virksomhed undersøge paa Stedet af forstandige <lb/>
+og paalidelige Mænd, medens hans paaberaabte trykte Skrift muligen <lb/>
+allerede kan give Anlednng til en alvorlig Foranstaltning mod ham. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 Februar 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

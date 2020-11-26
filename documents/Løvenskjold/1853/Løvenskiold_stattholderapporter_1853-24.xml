@@ -1,0 +1,94 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 1. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p>	Under 11te Junii udfærdigede Departementet for det Indre Circulaire <lb/>
+til Overøvrighederne, hvorved indskjærpes Communal Bestyrelserne <lb/>
+Nødvendigheden af at træffe Foranstaltninger til Overholdelse af <lb/>
+den offentlige Reenlighed som Forebyggelsesmiddel mod Cholera, samt <lb/>
+at være beredte paa Oprettelsen af Lazaretter.</p>
+               <p>	Imellem den 26de og 30te Julii ere 4 mistænkelige Dødsfald <lb/>
+indtrufne paa Rigshospitalet. Paa Grund heraf har Regjeringen, efter  <lb/>
+Indre Departementets Foredrag, under 30te forrige Maaned ladet udgaae <lb/>
+en provisorisk Anordning overeensstemmende med den under 22de December <lb/>
+1848 naadigst afgivne Resolution, alene med den Forandring, at <lb/>
+den Indre-Departementet adjungerede Medicinal-Commité overdrages samme <lb/>
+Myndighed, som den tidligere anordnede Central-Commission. Med Dagens <lb/>
+Post fremkommer Regjeringens underdanigste Indberetning herom, <lb/>
+i Forventning om Deres Majestæts naadige Bifald til den trufne <lb/>
+Foranstaltning.</p>
+               <p>	Overeensstemmende med Deres Majestæts naadige Resolution af 20de <lb/>
+Junii er Indkjøbet af det danske Dampskib "Juno" effectueret for den <lb/>
+limiterede Sum af 60,000 Rbdl Dansk. Skibet er under 28de forrige <lb/>
+Maaned ankommet til Horten for der at undergaae den fornødne Aptering.</p>
+               <p>	Statsraad Sylow overtager idag Bestyrelsen af Armee- og Marine- <lb/>
+Departementerne, hvilke ifølge Deres Majestæts naadigste Bestemmelse, <lb/>
+midlertidig have været bestyrede af Undertegnede og Statsraad Petersen.</p>
+               <p>	I Døgnet fra 30te til 31te Julii have atter 2de Dødsfald fundet <lb/>
+Sted paa Rigshospitalet, ligesom, ifølge Meddelelse fra Medicinal- <lb/>
+Commitéen, 2de nye Sygdomstilfælde ere indtrufne i det sidste Døgn, <lb/>
+fra igaar den 31te Julii til idag den 1ste August, dog uden at nogen <lb/>
+af disse endnu ere døde.</p>
+               <p>	I dette Øieblik, da Posten expederes, var endnu intet Sygdomstilfælde <lb/>
+indtruffet i Staden selv, udenfor Rigshospitalet, hvortil der <lb/>
+saaledes kan være Haab om, at Sygdommen denne Gang vil indskrænke sig. <lb/>
+Den lægekyndige Authoritet, Medicinal-Commitéen, har endnu ikke fundet <lb/>
+tilstrækkelig Grund til at erklære Sygdommen for epidemisk eller <lb/>
+Stedet for smittet.</p>
+               <p>	Statsraad Stang, med hvem jeg jevnlig confererer i dette Anliggende, <lb/>
+vil iagttage Alt Fornødent for det beklagelige Tilfælde, at <lb/>
+Sygdommen skulde antage en epidemisk Character, ligesom jeg med  <lb/>
+Extrapost skal underdanigst indberette, ifald Christiania skulde blive <lb/>
+erklæret smittet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste August 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p>	Høiesterets Dom over M. Thrane er endnu ikke afsagt. Imidlertid <lb/>
+tillader jeg mig underdanigst at vedlægge Arbeiderforeningens Blad <lb/>
+for igaar, hvori Thrane afgiver en Erklæring betræffende den forventende <lb/>
+Dom og de iværksatte Voldsomheder paa Hedemarken. Det vil <lb/>
+snart vise sig, hvorvidt denne Erklæring er ærlig meent.</p>
+               <p>	Af vedlagte Indberetniner vil naadigst erfares, at vi ogsaa i <lb/>
+de sidstforløbne 3de Døgn Gud være lovet! have været forskaanede <lb/>
+for nye Cholera Tilfælde, og vi tør saaledes haabe os for denne <lb/>
+Gang befriede fra Landeplagen, det Gud give!</p>
+               <p>	En Hr Bidder, som for 4 Aar siden var her med den engelske <lb/>
+Civil-Ingenieur Stephensen, er ankommet hertil fra London, for paa <lb/>
+det engelske Compagnies Vegne at underhandle og slutte Contract om <lb/>
+det paatænkte Jernbaneanlæg. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

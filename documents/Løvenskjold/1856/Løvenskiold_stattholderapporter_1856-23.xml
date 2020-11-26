@@ -1,0 +1,72 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 2. juni 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>		Allernaadigste Konge og Herre!</opener>
+               <p>	Jeg formaaer ikke at udtrykke de Taknemmeligheds Følelser, <lb/>
+hvormed jeg overraskedes, ved Modtagelsen af Deres Majestæts naadige <lb/>
+Skrivelse af 29de Mai, geleidet af den Kongelige Gave, der er mig <lb/>
+et fornyet dyrebart Beviis paa Deres Majestæts Naade. Denne Kongelige <lb/>
+Gave glæder mig ubeskrivelig, Skrivelsen rører mig dybt, jeg <lb/>
+frembærer min hjertelige underdanige Tak for begge Dele.</p>
+               <p>	I Morgen skal jeg, vil Gud! tiltræde og fuldføre min Hjemreise. <lb/>
+Tiden tillader mig ikke at sige mere idag, end at jeg nu efter 15 <lb/>
+Aar forlader Christiania, med mit Hjerte fuldt af Taknemmelighed og <lb/>
+Kjærlighed for Deres Majestæt.</p>
+               <p>	Gud bevare min naadige Konge, min elskelige Dronning, Deres <lb/>
+Kongelige Huus, de forenede Riger!</p>
+               <p>	Jeg beder, at jeg og de mine maa være indsluttede i Deres <lb/>
+Majestæts Naade og undertegner mig med dyb Ærefrygt </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>den 2den Juni 1856</date>
+                  </dateline>
+                  <lb/>
+                  <salute>Deres Majestæts <lb/>
+    							  underdanigste Tiener <lb/>
+    							  og troe Undersaat</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

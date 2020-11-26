@@ -1,0 +1,91 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 5. november 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 22/23de forrige Maaned.</p>
+               <p>	Jeg beklager hjertelig, at den vakkre og lyse Fest i Norrkøping er bleven formørked ved den Hans Kongelige Høihed Prinds August paakomne Sygdom. Af ganske Hjerte deler jeg Deres Majestæters Bekymring og varme Ønsker for den elskværdige af mig oprigtig afholdte unge Prindses Helbredelse.</p>
+               <p>	Af tydske Aviser har jeg med Glæde erfaret, at Hans Kongelige Høihed Kronprindsen har udvidet Sin Reise til Italien; men jeg beklager, at Prinds Gustav ikke deltog i denne Reise.</p>
+               <p>	Jeg har Intet herfra at indberette, som fortjener Deres Majestæts naadige Opmærksomhed. Den lange vedvarende Regn, har omsider standset, og uagtet vi længe ikke have seet Solen, er Luftens Temperatur usædvanlig mild for denne Aarstid. Mine Georginer blomstre endnu i fuld Pragt. Jeg har modne Bringebær (Hallon) Blomkaal og andre Grønsager, som jeg savnede under den tørre Sommer.</p>
+               <p>	Jeg forlod derfor ugjerne denne Vegetation paa Holgerslyst, men jeg maatte ansee det for min Skyldighed at flytte til Byen den 3die denne Maaned, blandt Andet, for at feire Hendes Majestæt Enke Dronningens Fødselsdag ved en Bal for 200 Personer.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge en Extract af Hr Stephensons Assistents, Hr Bidder's Brev til Generalconsul Crowe, betræffende vor tiltænkte Jernvei.</p>
+               <p>	Virkningen af Deres Majestæts naadige Foranstaltning for den udenrigske Posts hurtigere Befordring gjennem Sverige, viser sig meget velgjørende og paaskjønnes med underdanigst Taknemmelighed. Denne Post kommer omtrent 12 à 14 Timer tidligere og afgaaer omtrent 10 Timer senere end før. Det ligger imidlertid i den syndige menskelige Natur, "at naar man har guult Haar, vil man have det kruset". Saaledes afgaaer med Dagsposten underdanigst Indstilling om Deres Majestæts naadige Approbation paa en ny Postconvention med Danmark, hvorefter den udenrigske Post i Sommermaanederne skal befordres ved Dampskibe een Gang ugentlig over Kjøbenhavn, een Gang over Kiel, – i Vintermaanederne een Gang ugentlig som hidindtil gjennem Sverige, een Gang ved Dampskib over Frederikshavn i Jylland, hvorved saavel for Passagereres som Breves Befordring vil vindes nogen Tid. Over Kiel til Exempel, vil Befordringen fra Hamburg til Christiania kun udfordre 2 1/2, over Kjøbenhavn 3 1/2 Døgn.</p>
+               <p>	Byskriver Rye, som i egne Anliggender tilbragte nogle Sommermaaneder i Kjøbenhavn, har med Nidkjærhed og Dygtighed negocieret denne Postconvention, men han har ikke villet arbeide for Intet, som Deres Majestæt vil erfare af en anden underdanigst Indstilling betræffende hans Salarium, som<hi rend="underline">for at tifredsstille ham</hi>, underdanigst er foreslaaet til 800 Speciedaler. Vore saakaldte Liberale fordre for sig selv megen Liberalitet af Statscassen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5 November 1846</date>.</dateline>
+                  <lb/>
+        Til Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 5. november 1846</supplied>
+               </head>
+               <head type="sub2">Underdanigst Post Scriptum!</head>
+               <p>	Efterat Forestaaende var skrevet i Gaar Aftes, havde jeg senere den Glæde ved Greve Lewenhaupt at modtage efter Omstændighederne gode Efterretninger om Hans Kongelige Høihed Prinds Augusts Befindende, for hvis Meddelelse jeg nedlægger min underdanigste Taksigelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6 November 1846</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 5. november 1846</supplied>
+               </head>
+               <head type="sub2" rend="center">
+                  <hi rend="underline">Extract of Mr Bidder's Letter of the 9th October to Mr Crowe</hi>.</head>
+               <quote>
+                  <p>	"I have seen such of our friends as we proposed to join us in the Railway project, and they are all quite prepared to go on with us, providing we report favorably of the result of the detailed investigation to be made this winter and next spring, for I quite fear it is impossible to find a properly qualified person to send out for a month, as they are all now occupied in preparing for the ensuing Parliamentary Campaign.</p>
+                  <p>	But I think you may now rest assured, that if the result of this be as we expect, the Railway to the Miøsen will be in operation<hi rend="underline">within three years from this time</hi>."</p>
+               </quote>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

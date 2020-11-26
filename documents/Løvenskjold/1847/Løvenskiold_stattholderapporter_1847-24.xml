@@ -1,0 +1,66 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 12. juli 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p>	Af Deres Majestæts naadige Skrivelse af samme Dato erfarede jeg med Glæde, at jeg tør vente den Lykke snart at modtage Deres Majestæter og den høie Kongelige Familie her.</p>
+               <p>	I Anledning heraf begav jeg mig tidlig i Dag til Byen, for efter Conference med Statsraad Stang at kunne efter Deres Majestæts naadige Befaling ved Dagsposten underdanigst indberette, hvorvidt Dampskibet "Christiania" kan stilles til Deres Majestæts Disposition i Gothenborg uden Hinder for den sædvanlige Post-Befordring.</p>
+               <p>	Som Resultat af denne Conference giver jeg mig den Ære underdanigst at meddele Følgende:</p>
+               <p>	" – Dampskibet "Christiania" kan og bør paa sin Tour fra Kjøbenhavn fra 1ste til 3die August undlade at medtage Passagerer imellem Kjøbenhavn, Gothenborg og Norge, og paa denne Maade være til Hans Majestæts Disposition i Gothenborg den 2dre August fra Klokken 7 Morgen (den sædvanlige Ankomsttid) og afgaae til den Tid samme Dags Formiddag som Hans Majestæt maatte bestemme. Ankomsten til Christiania vil da indtræffe den 3die August." –</p>
+               <p>	" – Dampskibet "Christiania" kan fremdeles, om Hans Majestæt skulde foretrække dette, afgaae strax efter sin Ankomst fra Kjøbenhavn hertil den 3die August til Svinesund og den 4de August, til hvilken Tid paa Dagen Hans Majestæt naadigst maatte bestemme,<hi rend="underline">der</hi>  modtage Hans Majestæt og den Kongelige Familie, for at føre Høistsamme samme Dag til Christiania." –</p>
+               <p>	Jeg har tilladt mig uopfordret underdanigst at opføre det sidstnævnte Alternativ, fordi den Høikongelige Familie derved vilde undgaae at tilbringe nogen Nat ombord, som jeg anseer saameget ønskeligere, fordi Tid og Omstændigheder ikke ville tillade at gjøre passende Arrangements for Hendes Majestæt Dronningen’s Natteqvarteer i Dampskibet.</p>
+               <p>	Om Deres Majestæt skulde foretrække at embarquere i Strømstad i Stedet for i Svinesund, antager jeg ogsaa dette gjørligt, maaskee endog i Udewalla, men herom tør jeg ikke yttre nogen bestemt Mening før efter Conference med Dampskibets Chef PremierLieutenant Diriks, som imorgen ventes fra Kjøbenhavn, hvorom min underdanigste Indberetning forbeholdes ved næste Post.</p>
+               <p>	For at kunne foranstalte de for ethvert Tilfælde fornødne Arrangements vover jeg indstændig at bede mig Deres Majestæts naadige Beslutning og Befaling om mulig meddeelt med omgaaende Post. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12 Julii 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 18. juli 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Mine sidste underdanigste Rapporter vare af 15de og 16de.</p>
+               <p>	Strax efterat disse vare afsendte sat General Wedel og jeg os i Virksomhed, for at finde et antageligt Qvarteer for Hendes Majestæt Enke-Dronningen.</p>
+               <p>	Stiftsgaarden, som jeg strax tilbød, befandtes aldeles utilstrækkelig, og det samme er Tilfældet med Consul Fayes Huus, som han velvillig, uden nogensomhelst Godtgjørelse tilbød, – som med de flere private Huse, af hvis Eiere vi kunde vente lignende Velvillie.</p>
+               <p>	Vi overdrog da til Enke-Dronningens Kammerherre Baron F. Wedel og Formandskabets Ordfører, Overrets-Procurator Rasch, at søge, – og disse Herrers ufortrødne Bestræbelser har det lykkets at finde et complet meubleret og monteret Huus, i Nærheden af det Kongelige Palais, som de, saavelsom Hof-Kammereer Bäckstrøm, finde antagelig, hvorom jeg ved Dagsposten giver mig den Ære at underrette Hendes Majestæt Enke-Dronningen.</p>
+               <p>	Dette Huus eies af Svendsen, Klokkeren ved Vor Frelsers Menighed i Christiania, som er en meget formuende Mand og ansees for at have større aarlige Indtægter, end en Statsraad, – med hvem Leie-Contract vil blive afsluttet i Morgen.</p>
+               <p>	Jeg modseer nu Deres Majestæts endelige naadige Beslutning og Befaling betræffende Hidreisen og det befalende Dampskib.</p>
+               <p>	Vi kunne ikke sætte noget andet Dampskib i Postrouten istedetfor "Christiania", fordi alle Statens Dampskibe ere i Fart, "Carl Johan" er i en slet Forfatning og "Hardy" er for lidet udenfjords.</p>
+               <p>	Det ene Rette og Nødvendige for Fremtiden er, at et eget norsk Dampskib appreteres udelukkende for Deres Majestæters og den Kongelige Families Brug imellem Rigerne og indenrigs. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 18 July 1847</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

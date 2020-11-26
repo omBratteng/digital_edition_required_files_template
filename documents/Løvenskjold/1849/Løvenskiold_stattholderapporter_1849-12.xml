@@ -1,0 +1,392 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. mars 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p>	Som enhver Regjeringshandling i vor Tid medfører ubehagelige <lb/>
+Vanskeligheder, saa er dette ogsaa Tilfældet ved den underdanigste <lb/>
+Indstilling, som det paaligger Regjeringen at fremsætte for Deres <lb/>
+Majestæt om Gjenbesættelsen af den efter Generalmajor Spørch ledige <lb/>
+tjenstgjørende Generaladjutants Post.</p>
+               <p>	Til dette Embede har den commanderende General udelukkende indstillet <lb/>
+Oberstlieutenant Sørenssen og derhos i en vedlagt <hi rend="underline">officiel</hi>  Skrivelse <lb/>
+meddeelt, at Deres Majestæt paa hans underdanige Forespørgsel,  <lb/>
+Intet har indvendt mod hans paatænkte Valg, samt at ogsaa Generalmajor <lb/>
+Meydell har meldt sig til Embedet, hvoraf følger, at Regjeringen <lb/>
+ikke <hi rend="underline">kan</hi>  undlade ogsaa at tage Hensyn paa ham. Som Broder til  <lb/>
+Oberstlieutenant Sørenssen og paa sin Frues Vegne nær beslægtet til <lb/>
+Generalmajor Meydell, har Statsraaderne Sørenssen og Sylow ikke kunnet <lb/>
+deeltage i Sagens Behandling, som derfor blev overdraget til Marine <lb/>
+Departementets Chef.</p>
+               <p>	Under den første fortroelige Discussion imellem Regjeringens øvrige <lb/>
+Medlemmer, yttredes, med fuld Anerkjendelse af Sørenssens hæderlige <lb/>
+Characteer og Dygtighed i hans nærværende Embede, dog mere end Tvivl <lb/>
+om hans tilstrækkelige Kundskaber og Dygtighed for Generaladjutants- <lb/>
+Posten, Egenskaber, som man tiltroer Meydell; men mod hvem andre  <lb/>
+Betænkeligheder yttredes. Ved disse Anskuelser foranledigedes man til at  <lb/>
+tænke paa Andre og yttredes da den Formening, at Oberst Mansbach besidder <lb/>
+den Dygtighed, som man ikke tiltroer Sørenssen, og den militaire Takt <lb/>
+og de ønskelige militaire og politiske Grundsætninger, som man troer at <lb/>
+savne hos Meydell, hvilket foranledigede Statsraad Erichsen til at spørge <lb/>
+Mansbach, som hændelsesviis er i Byen, om han har noget imod at blive <lb/>
+nævnt eller indstillet til denne Befordring. Mansbach frabad sig denne <lb/>
+Gunst paa Grund af følgende Anskuelse, hvilken han ogsaa meddeelte mig. <lb/>
+Han yttrede nemlig, at General-adjutants Posten er et Tillids Embede, <lb/>
+som ifølge Instrux af 25de October 1828 medfører et personligt Forhold <lb/>
+til Kongen, hvortil det vilde være ubeskedent og upassende at melde sig, <lb/>
+– uden at være forvisset om, Deres Majestæts naadige Bifald, og at  <lb/>
+erfare det modsatte, efterat være indstillet, vilde krænke ham. Jeg  <lb/>
+respecterer denne Mansbachs delicate Anskuelse og vilde i hans Sted handle <lb/>
+derefter.</p>
+               <p>	Statsraad Erichsen, som nu ansaae sig reduceret til Meydell og <lb/>
+Sørenssen, fremlagde i næste fortroelige Møde, sin Indstilling for den <lb/>
+første paa de Grunde, som ere anførte i underdanigst vedlagte Extract, <lb/>
+og som for ham og Regjeringens øvrige Medlemmer, med Hensyn paa militaire <lb/>
+Qualificationer, synes bindende. Jeg forudseer derfor, at denne  <lb/>
+Indstilling vil blive tiltraadt af Regjeringens øvrige Medlemmer, og selv <lb/>
+jeg, som ikke ønsker at stemme for Meydell, vilde ikke <hi rend="underline">i Protocollen</hi>
+                  <lb/>
+kunne motivere denne min Anskuelse, som jeg kan tillade mig underdanigst <lb/>
+at fremføre for Deres Majestæt.</p>
+               <p>	Foruden Dygtighed anseer jeg en paalidelig Characteer, gode militaire <lb/>
+og politiske Grundsætninger, militair Takt og strænge Disciplins <lb/>
+Grundsætninger for væsentlig nødvendige Egenskaber hos Generaladjutanten, <lb/>
+som jeg ikke kan tiltroe Meydell og som jeg derhos befrygter, vilde <lb/>
+i det nye Forhold blive ubehagelig for Deres Majestæt, utaalelig for <lb/>
+den commanderende General. Jeg antager, at Deres Majestæt deler denne <lb/>
+Anskuelse og at det derfor vilde være Deres Majestæt ubehagelig at  <lb/>
+modtage den for ham paatænkte Indstilling, som efter Omstændighederne ikke <lb/>
+vilde kunne undgaaes.</p>
+               <p>	Deres Majestæt vil neppe udnævne Meydell; men den hæderlige <lb/>
+Sørenssens Udnævnelse vilde, (jeg yttrer det høist ugjerne) efter Alt <lb/>
+hvad jeg har kunnet erfare, opvække Utilfredshed i og udenfor Armeen, <lb/>
+fordi man ikke tiltroer ham den fornødne Dygtighed.</p>
+               <p>	I denne Sagens Stilling bleve vi enige om, at udsætte den paatænkte <lb/>
+Indstilling indtil vi have erfaret Deres Majestæts naadige Anskuelse <lb/>
+om Mansbach.</p>
+               <p>	Vi formene, at de for Embedet ønskelige Egenskaber ere mere forenede <lb/>
+hos ham end hos nogen anden, og at han, under hans mangeaarige militaire <lb/>
+Stilling som Commando Expeditionens Chef i Stockholm, maa have  <lb/>
+erhvervet fortrinlig Qualification og Adgang til denne Ansættelse. Jeg <lb/>
+vover at tillægge det Haab, at han ved mange Lidelser maa være helbredet <lb/>
+for en høi Grad af Ømfindtlighed, som i en tidligere Tid gjorde <lb/>
+ham mindre behagelig.</p>
+               <p>	Fra de angivne Synspunkte ønske vi underdanigst at indstille Oberst <lb/>
+Mansbach, om Indstillingen <hi rend="underline">kan vinde Deres Majestæts naadige</hi>  Bifald, i <lb/>
+Mangel af hvilket han Intet bør erfare om denne underdanigste Forespørgsel, <lb/>
+                  <hi rend="underline">hvorom han er aldeles uvidende</hi>.</p>
+               <p>	Jeg tillader mig saaledes underdanigst at bede mig naadigst meddeelt <lb/>
+Deres Majestæts naadige Bestemmelse: om Regjeringens underdanigste  <lb/>
+Indstilling om Oberst Mansbachs Udnævnelse til tjenstgjørende  <lb/>
+Generaladjutant maa ventes naadigst bifaldt. I modsat Fald forbyder den Takt, <lb/>
+(Granlagenhet), som han ved det til ham fremsatte Spørgsmaal har viist, <lb/>
+ved denne Leilighed at nævne ham, for ikke at udsætte ham for et officielt <lb/>
+Afslag.</p>
+               <p>	Jeg har saa meget mindre Betænkelighed mod at fremsætte dette <lb/>
+underdanigste Spørgsmaal, som vi ikke med den commanderende General antage <lb/>
+Deres Majestæts naadige Svar til hans Forespørgsel betræffende <lb/>
+Oberstlieutenant Sørensen, som en Beslutning, der egnede sig til officiel <lb/>
+Meddelelse; men alene som et naadigt Tilkjendegivende til ham om at Deres <lb/>
+Majestæt Intet havde imod, at han indstillede Sørenssen, uden derved at <lb/>
+ville afskjære ham eller Regjeringen Adgang til underdanigst at foreslaa <lb/>
+nogen Anden.</p>
+               <p>	Jeg anseer mig forpligtet til uden Forbeholdenhed at fremstille <lb/>
+Sagens Stilling for Deres Majestæt, forinden den behandles officielt, saa <lb/>
+meget mere som den offentlige Opmærksomhed er spændt paa Regjeringens <lb/>
+Indstilling og Deres Majestæts naadige Beslutning. Saa gjerne som jeg <lb/>
+vilde have omhandlet Sagen confidentielt med General Wedel, kan jeg nu <lb/>
+ikke bequemme mig dertil, fordi han aldrig har omtalt den for mig.</p>
+               <p>	Af Hr Greve Wrangels mig naadigst tilsendte Skrivelse slutter jeg, <lb/>
+at den ham givne Erindring vil gjøre en god Virkning. I Anledning af de <lb/>
+af ham anførte ham ikke tilregnelige Omstændigheder hvorved den svensk- <lb/>
+norske Postbefordring til Altona og Hamburg forsinkes, tillader jeg mig <lb/>
+i underdanigst vedlagte Note at paapege Foranstaltninger, hvorpaa den <lb/>
+virksomme svenske Overpostdirecteurs Opmærksomhed turde naadigst  <lb/>
+henledes.</p>
+               <p>	Ifølge den sidste Indberetning om Cholera i Bergen var Totalantallet <lb/>
+af de angrebne indtil den 2den Marts 946, hvoraf 564 døde.</p>
+               <p>	I Stavanger var anmeldt ialt 23 angrebne, hvoraf 9 Døde.</p>
+               <p>	Denne underdanigste Rapport er allerede bleven saa lang, at jeg ikke <lb/>
+tør tillade mig, at besvære Deres Majestæt med mere i Dag. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8 Marts 1849. </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. mars 1849</supplied>
+               </head>
+               <head type="sub2">Underdanigst Postscriptum!</head>
+               <p>	Efterat ovenstaaende underdanigste Rapport var sluttet, modtog <lb/>
+jeg Deres Majestæts naadige Skrivelse af 5te denne Maaned, hvorfor <lb/>
+jeg nedlægger min underdanigste Taksigelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Marts 1849</date>.</dateline>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. mars 1849</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Extract</hi>.</head>
+               <p>Generalmajor Meydell har meldt sig som Aspirant til denne Post. <lb/>
+Allerede derved maatte Departementet fra sit Standpunkt ansee sig  <lb/>
+forpligtet til ved Sagens underdanigste Foredrag at tage behørig Hensyn til <lb/>
+ham og til hvad der taler til hans Fordeel, og kunde, selv om det ikke <lb/>
+nærede de i det foregaaende underdanigst fremsatte Anskuelser og om disse <lb/>
+Forholde kunde dele Armeecommandoens Mening, dog ikke undlade at anstille <lb/>
+en Sammenligning mellem ham og den af den høistbefalende i underdanigst <lb/>
+Forslag bragte Oberstlieutenant og Chef for Krigsskolen, Sørenssen.</p>
+               <p>	Departementet griber med Glæde Anledningen til i fuldeste Maade <lb/>
+at udtale dets Anerkjendelse af den sidstnævnte Officiers sjeldne <lb/>
+Dygtighed som Chef for den Kongl. Norske Krigsskole, og af den udmærkede <lb/>
+Omhue og Kyndighed, med hvilken han bestyrer denne for Armeens Fremtids <lb/>
+Vel og Hæder saa overordentlig vigtige Læreanstalt; og man nærer med <lb/>
+Hensyn dertil heller ingen Tvivl om, at han jo fuldkommen svarer til og <lb/>
+er værdig til de ham af Armeecommandoen givne særdeles hædrende  <lb/>
+Vidnesbyrd, paa hvilke den nævnte Autoritet begrunder sin underdanigste <lb/>
+Formening om hans fortrinlige Qvalification til Generaladjutantsposten; <lb/>
+men Departementet holder sig dog, uagtet dette, fuldkommen overbeviist <lb/>
+om, at Oberstlieutenanten er, og tillige sikkerligen inden Armeen i <lb/>
+Almindelighed ansees, – mindre qualificeret til og mindre skikket for  <lb/>
+denne Post end Generalmajor Meydell, og det uden at Sidstnævntes  <lb/>
+Anciennetet, Alder og høiere Stilling i Armeen tages i Betragtning.</p>
+               <p>	Generalmajor Meydell har nemlig saavel ved litterair Virksomhed, <lb/>
+som under Embedsforholdene lagt for Dagen, at han besidder militaire <lb/>
+Talenter samt en grundig og omfattende Indsigt i Krigsvæsenets forskjellige <lb/>
+Grene og det især i de Retninger, der ere de væsentligste for Chefen <lb/>
+for en Armees Generalstab; han har derhos i sin nærværende Stilling <lb/>
+som Chef for Artillerie Brigaden og som den, der udfører en  <lb/>
+Generalfeldttøimesters Functioner godtgjort, at han er i Besiddelse af en <lb/>
+høi Grad af administrativ Dygtighed og practisk Erfaring, hvilken denne hans <lb/>
+Stilling har givet ham den rigeste Anledning til at erhverve og forøge.</p>
+               <p>	I disse Henseender og i det Hele taget i alle de Egenskaber, der <lb/>
+maa ansees som væsentlige for den til hvem den for Armeens Vel og de <lb/>
+militaire Institutioners Udvikling overeensstemmende med Tidens Krav <lb/>
+saa høist vigtige Generaladjutantspost skulde anfortroes, staaer <lb/>
+Generalmajor Meydell efter Departementets bestemte Formening ikke alene  <lb/>
+over hans Concurrent ved nærværende Leilighed, men man tør tilføie det, – <lb/>
+over enhver anden af den Norske Armees Officierer, som ved Besættelsen <lb/>
+af Posten kunde være kommen i Betragtning, og flere end de 2de <lb/>
+Omhandlede havde meldt sig eller vare bragte i Forslag.</p>
+               <p>	Det er følgelig Departementets Pligt, underdanigst at indstille, <lb/>
+at Generalmajor Meydell som den ubetinget meest Qvalificerede, naadigst <lb/>
+maa vorde udnævnt til Generaladjutant for den Norske Armee og Chef for <lb/>
+sammes Generalstab. <lb/>
+               </p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. mars 1849</supplied>
+               </head>
+               <opener>Stormægtigste Naadigste Konge!</opener>
+               <p>	Det er en Trang for mit Hjerte, den jeg underdanigst beder Deres <lb/>
+Majestæt naadigst tillade mig at tilfredsstille at fremsende min <lb/>
+hjerteligste underdanigste Lykønskning til Hendes Majestæt Dronningens <lb/>
+nær forestaaende Fødselsdag.</p>
+               <p>	Mange ville feire Dagen med mig, ved en Bal, som jeg til Dagens <lb/>
+Feiring agter at give, desværre under Savn af den høie Person, for <lb/>
+Hvem jeg ønsker at kunne nedlægge min dybe Hyldning, Forsikkringen <lb/>
+om min undersaatlige Veneration og hjertelige Hengivenhed.</p>
+               <p>	Mine Ønsker forener jeg i min varme Bøn til det algode Forsyn, <lb/>
+at det vil holde Sin beskyttende Haand over Hendes Majestæt Dronningen, <lb/>
+til Held og Glæde for Deres Majestæt, det Kongelige Huus og</p>
+               <closer>
+                  <salute>Deres Majestæts<lb/>
+    			allerunderdanigste Tiener <lb/>
+		        og troe Undersaat </salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>den	Marts 1849</date>.</dateline>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 8. mars 1849</supplied>
+               </head>
+               <head type="sub2" rend="center">
+                  <hi rend="underline">Anciennetets Liste</hi>.</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>No</cell>
+                     <cell>Navn</cell>
+                     <cell>
+                        <p>General <lb/>
+major</p>
+                     </cell>
+                     <cell>
+                        <p>General <lb/>
+Adjutant</p>
+                     </cell>
+                     <cell>Oberst</cell>
+                     <cell>
+                        <p>Oberst <lb/>
+lieute- <lb/>
+nant</p>
+                     </cell>
+                     <cell>Major</cell>
+                     <cell>
+                        <p>Rit- <lb/>
+mester <lb/>
+eller <lb/>
+Capi-taine</p>
+                     </cell>
+                     <cell>
+                        <p>Premi-er <lb/>
+Lieut-en.</p>
+                     </cell>
+                     <cell>
+                        <p>Second <lb/>
+Lieuten.</p>
+                     </cell>
+                     <cell>
+                        <p>Kom-men <lb/>
+i  <lb/>
+Tjen- <lb/>
+esten</p>
+                     </cell>
+                     <cell>Født</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>
+                        <p rend="underline">Jacob Gerhard Meydell <lb/>
+Chef for Artilleri-brigaden siden 26. Jan. 1839 CSO</p>
+                     </cell>
+                     <cell>
+                        <p>19. mai <lb/>
+1847</p>
+                     </cell>
+                     <cell>
+                        <p>26. Jan. <lb/>
+1843</p>
+                     </cell>
+                     <cell>
+                        <p>26. Jan. <lb/>
+1839</p>
+                     </cell>
+                     <cell>
+                        <p>18 Juni <lb/>
+1831</p>
+                     </cell>
+                     <cell>
+                        <p>1 Jan. <lb/>
+1827</p>
+                     </cell>
+                     <cell>
+                        <p>1813 <lb/>
+Batte-rie <lb/>
+Chef <lb/>
+1818</p>
+                     </cell>
+                     <cell>1808</cell>
+                     <cell>
+                        <p>2. Decbr <lb/>
+1802</p>
+                     </cell>
+                     <cell>
+                        <p>som Cadet <lb/>
+1800</p>
+                     </cell>
+                     <cell>1786</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>
+                        <hi rend="underline">Johan Mansbach </hi>Chef for Laurvigske Nationale Musq. Corps siden 4 Oct 1844. R.S.O </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>26. Jan. 1843</cell>
+                     <cell>11. Okt. 1825</cell>
+                     <cell>4 Juli 1822</cell>
+                     <cell>7 Septbr 1818</cell>
+                     <cell>1812</cell>
+                     <cell>1 Jan. 1811</cell>
+                     <cell>som Cadet 1806.</cell>
+                     <cell>1794</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>
+                        <p rend="underline">Fredrik Moltke Sørensen <lb/>
+Chef for Krigs-skolen siden 7 Febr. 1839. R.S.O.</p>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>26 Jan. 1843.</cell>
+                     <cell>7 Febr. 1839</cell>
+                     <cell>7 Jan. 1829</cell>
+                     <cell>10 Juni 1826</cell>
+                     <cell>1 Jan. 1818</cell>
+                     <cell>som Cadet 1815</cell>
+                     <cell>1799</cell>
+                  </row>
+               </table>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

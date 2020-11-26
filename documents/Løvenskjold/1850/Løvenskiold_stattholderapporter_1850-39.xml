@@ -1,0 +1,83 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 11. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p>	Nogle Sygdomstilfælde, der have vakt Opmærksomhed, ere i den <lb/>
+sidste Uge indtrufne paa Grønland og Leeret, Forstæder til  <lb/>
+Christiania, i 4 forskjellige Huse. 8 Personer ere nemlig blevne angrebne <lb/>
+af Brækning, Krampe og Diarrhée. Af disse Angrbne ere 3 Døde. Af <lb/>
+de øvrige ere 2 blevne bragte til Rigshospitalet, hvorfra den ene er <lb/>
+udgaaet som helbredet, og den Anden er i Bedring. Eet af de <lb/>
+smittede Huse, hvis Kjældervaaning har været fuld af Vand siden Februar <lb/>
+Maaned, er befunden saa usundt, at det er paatænkt at forhindre dets <lb/>
+Beboelse. Man har ikke hidtil kunnet opdage andet end at fornævnte <lb/>
+Sygdomstilfælde ere paa Stedet opkomne, og lignende Tilfælde vides <lb/>
+tidligere i Aar at være indtrufne i Christiania og Omegn. Cholera <lb/>
+Central-Commissionen har været samlet og har fundet, at epidemisk <lb/>
+Cholera Sygdom ikke kan erklæres her at være udbrudt, men saafremt <lb/>
+en saadan Erklæring senere maatte blive afgivet, ville de  <lb/>
+Beslutninger blive at fatte og de Foranstaltninger at føie, som  <lb/>
+Omstændighederne maatte kræve.</p>
+               <p>	Sundhedscommissionen for Ager Sogn har udstedt en Indbydelse til <lb/>
+Bidrag til Fattige Syge og som findes indført i offentlige Blade,  <lb/>
+hvoraf et Exemplar underdanigst vedlægges. Denne Indbydelse maatte  <lb/>
+nødvendig allarmere. Imidlertid maa det dog bemærkes at bemeldte  <lb/>
+Indbydelse ikkun omtaler ”ondartet Sygdom”, uden at nævne Cholera, ligesom <lb/>
+Sundhedscommissionen ifølge den provisoriske Anordning af 22 Decbr <lb/>
+1848. har ikke alene at standse Cholerasygdom, men ogsaa ”<hi rend="underline">at </hi>
+                  <lb/>
+                  <hi rend="underline">forebygge</hi>” saadan. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te October 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 15. oktober 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p>	Efterat have den 8de denne Maaned bivaanet min Søn Adams ældste <lb/>
+Datters Confirmation i Jarlsbergs Kirke, hvor jeg for 17 Aar tilbage <lb/>
+bivaanede hendes Forældres Vielse, kom jeg her tilbage den 11te <lb/>
+Aften.</p>
+               <p>	Den 12te om Morgenen overraskede en Coureer mig med Deres Majestæts <lb/>
+naadige Skrivelse af 8de, hvorfor jeg nedlægger min underdanige  <lb/>
+Taksigelse. Deres Majestæts naadige Indbydelse til den 4de November <lb/>
+opvækker min hjertelige og underdanige Taknemmelighed. En saa naadig <lb/>
+Indbydelse betragtes af mig som en Kongelig Befaling, den jeg føler <lb/>
+mig forpligtet til med Glæde at efterkomme, om kun min, i min høie Alder <lb/>
+usikkre Helbred vil tilstede mig denne Lykke. I denne Henseende er <lb/>
+jeg virkelig meget usikker; men mine Betænkeligheder overvindes ved <lb/>
+mine usvækkede Følelser for Høistsalig Kongen, hvis Mindefest Deres <lb/>
+Majestæt saa værdig vil feire, – ved min varme Længsel efter den Lykke <lb/>
+at gjensee Deres Majestæt og hendes Majestæt Dronningen, og derved  <lb/>
+bevæges jeg til den Beslutning at tiltræde Reisen til Stockholm den 27de <lb/>
+denne Maaned, hvor jeg, om Gud vil, vil kunne ankomme med Dampskibet <lb/>
+fra Arboga den 1ste November. Da min høie Alder tiltrænger Hjelp og <lb/>
+Pleie, udbeder jeg Deres Majestæts naadige Tilladelse til at lade mig <lb/>
+følge af en af mine Sønner eller af min Ven, Kammerherre Holst.</p>
+               <p>	General Wedel, der tænker og føler som jeg, vil selv underdanigst <lb/>
+anmelde sin Beslutning at reise en Dag tidligere og komme til <lb/>
+Stockholm en Dag tidligere end jeg; men jeg beklager, at vi begge ere <lb/>
+2 ubrugbare Antiquiteter.</p>
+               <p>	I Statsraadet i Gaar enigedes vi om, at under de 2de militaire <lb/>
+Departementschefers Fraværelse, vil Statsraad Krog overtage Armee- <lb/>
+Departementets og Statsraad Petersen Marine Departementets Bestyrelse. <lb/>
+Jeg haaber, at Statsraad Lange, efter min Anmodning, maa kunne indfinde <lb/>
+sig her før min Afreise, da hans Nærværelse vil tiltrænges, for <lb/>
+et complet Statsraad.</p>
+               <p>	Deres Majestæt vil af Regjeringens underdanigste Indberetning <lb/>
+naadigst have erfaret, at man har været nødsaget til at bemyndige <lb/>
+Amtmanden i Finmarken til at udlaane til fattige Communer indtil 5000 Spd. <lb/>
+for at kjøbe Meel, som Gud skee Tak, haves, hvortil vor lille Escuadre <lb/>
+i det hvide Hav væsentlig har bidraget, medens Indvaanernes sædvanlige <lb/>
+Tuskhandel med Russerne har været afbrudt.</p>
+               <p>	Vore Studenter have forlængst sunget for den brittiske Consul i <lb/>
+Anledning af Sevastopols Indtagelse, en barnagtig Overilelse, som  <lb/>
+snarere kan tilgives Studenter, end de Franskes Keiser og den østerrigske <lb/>
+Udenrigsminister. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 15de October 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

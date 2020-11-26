@@ -1,0 +1,96 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 12. juni 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 2den denne Maaned.</p>
+               <p>	Jeg griber idag sidste Gang før min den 14de forestaaende Afreise <lb/>
+Pennen, for at nedlægge min underdanigste Taksigelse for Deres <lb/>
+Majestæts naadige Skrivelse af 6te denne Maaned og for den naadige  <lb/>
+Opmærksomhed, som Deres Majestæt har skjænket mine 2de underdanigste <lb/>
+Indstillinger betræffende Interims Regjeringen og Jurisdictions  <lb/>
+Tvisten i Agershuus nedre Fæstning mellem Commandanten og Byens  <lb/>
+Branddirecteur.</p>
+               <p>	Interims Regjeringen er en umonarkisk Institution, som bør afløses <lb/>
+af en anden, baseret paa det monarkiske Princip, hvilket efter <lb/>
+min Overbeviisning hensigtsmæssigst vil opnaaes paa den i Statsraad <lb/>
+Stangs Betænkning angivne Maade, og det glæder mig derfor, at denne <lb/>
+har vunden Deres Majestæts naadige Bifald. Dette glæder mig saa meget <lb/>
+mere, som jeg (hvilket jeg føler mig forpligtet til at yttre for Deres <lb/>
+Majestæt), har Grund til at formode, at denne Anskuelse ikke deles <lb/>
+af alle Deres Majestæts svenske Statsraader og heller ikke af Statsraad <lb/>
+Vogt her, hvorfor jeg anseer det ønskeligt, at Justitiæ  <lb/>
+Statsministerens Forslag maa kunne komme under Discussion i den norske <lb/>
+Regjering, forinden Statsraad Vogt begiver sig til Stockholm.</p>
+               <p>	Betræffende Fæstnings Sagen vover jeg uforbeholdent underdanigst <lb/>
+at ytre, at jeg og Andre, især Militaire, kun have kunnet ansee Deres <lb/>
+Majestæts Resolution af 1850 som en Følge af manglende rette  <lb/>
+Oplysninger, hvilket jeg nu, ved Deres Majestæts seneste naadige  <lb/>
+Skrivelse seer stadfæstet. Jeg erfarer ved denne Leilighed, hvad jeg  <lb/>
+oftere har erfaret, at en Deres Majestæt foredrget Sags Udfald <lb/>
+naturligviis maa dependere af <hi rend="underline">hvorledes</hi>  Sagen bliver Deres Majestæt <lb/>
+foredraget. De Oplysninger, som Deres Majestæt i denne Begivenhed muligen <lb/>
+endnu kunde ønske, vil bedst kunne faaes af de nu i Stockholm værende <lb/>
+Generallieutenant Bloch og Oberste Glad, som forhenværende Pladsmajor.</p>
+               <p>	Udsigten for Aarsvæxten er destoværre for Tiden mindre gunstig <lb/>
+end den jeg senest underdanigst kunde meddele, fordi vi siden Maanedens <lb/>
+Begyndelse aldeles have savnet efterlængtet Regn.</p>
+               <p>	Ved det den 9de denne Maaned stedfundne Representantvalg for <lb/>
+Agershuus Amt til næste Storthing valgtes til Representanter: A.B.Stabell, <lb/>
+2de virkelige Bønder og 1 Halvbonde.</p>
+               <p>	Jeg nedlægger nu min Pen med hjertelige Ønsker for Deres Majestæts <lb/>
+velgjørende Badecour, med det varme Ønske: at Gud vil holde Sin  <lb/>
+beskyttende Haand over Deres Majestæt, Hendes Majestæt Dronningen og det <lb/>
+ganske Kongelige Huus, medens jeg underdanigst anbefaler mig og mine <lb/>
+til Deres Majestæts Kongelige Naade. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 12te Junii 1853</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

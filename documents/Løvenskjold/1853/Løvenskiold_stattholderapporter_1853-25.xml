@@ -1,0 +1,67 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 5. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 1ste denne Maaned er <lb/>
+kun 3de Cholera Tilfælde indtrufne, hvoraf 2de i den chirurgiske <lb/>
+Afdeling af det herværende Rigshospital og 1 udenfor samme. Af de 11 <lb/>
+Cholera Tilfælde, der i det Hele have fundet Sted, have saaledes de <lb/>
+10 været dødelige. I det sidste Døgn fra igaar den 4de til idag den <lb/>
+5te var kun 1 Angreben, nemlig Manden til Rigshospitalets Tvætterske. <lb/>
+I Staden er kun 3 Tilfælde indtrufne, hvoraf dog de 2 Angrebne stode <lb/>
+i nær Berørelse med Rigshospitalet, som Arbeidere ved samme, og det <lb/>
+3die Tilfælde befandtes tvivlsomt med Hensyn til Sygdommen.</p>
+               <p>	Hans Excellence Statholder Løvenskiold er med sidste Dampskib fra <lb/>
+Kiel, den 1ste dennes, ankommet til Vallø, for derfra samme Aften <lb/>
+at indtræffe paa Fossum. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te August 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

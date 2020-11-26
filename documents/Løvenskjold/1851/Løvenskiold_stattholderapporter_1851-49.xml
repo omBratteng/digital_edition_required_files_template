@@ -1,0 +1,92 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 28. august 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport af 21de denne Maaned, var <lb/>
+skrevet som jeg stod i Begreb med at tiltræde en Reise til mine Gruber <lb/>
+i Nærheden af Arendal, hvorfra jeg kom tilbage til Holgerslyst <lb/>
+i Gaar Aftes, og her til Byen denne Dags Formiddag.</p>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse <lb/>
+af 18de, hvoraf jeg med Glæde erfarer Deres Majestæts naadige  <lb/>
+Tilfredshed med mine Yttringer ved Jernbanens Indvielse, hvilket er mig <lb/>
+saa meget mere tilfredsstillende, som jeg oprigtigen bekjender, at jeg <lb/>
+med billig Mistillid til mine Evner, ikke uden Ængstelighed optraadte <lb/>
+for et meget talrigt Publicum.</p>
+               <p>	Af Statsraad Vogt erfarer jeg, at Intet særdeles mærkeligt <lb/>
+er indtruffet under min Fraværelse.</p>
+               <p>	Storthinget har med faae Stemmers Pluralitet atter afslaaet Bankens <lb/>
+Forflyttelse fra Trondhjem til Christiania. Et af Schweigaard <lb/>
+umiddelbar derefter gjort Forslag om Bankens Forpligtelse til ogsaa i <lb/>
+Christiania at indfrie Sedler med Sølv, har vunden Pluralitet i  <lb/>
+Odelsthinget, men er endnu uafgjort i Lagthinget.</p>
+               <p>	Under Behandlingen af Kongsbergs Sølvværks Anliggender har <lb/>
+Storthinget viist megen Ukyndighed og Partiskhed for Sexe mod  <lb/>
+Directionen. Blandt Andet besluttedes at standse Arbeidet i Christians <lb/>
+Stoll, hvorom Debatterne have kostet mere end de 8 Arbeidere, som der <lb/>
+vare beskjæftigede, vilde have kostet i den hele Budget Termin.</p>
+               <p>	Som Følge af de af Meylænder meddeelte Oplysninger ere <lb/>
+Depôtforvalter Gloersen og Kjøbmand Berg efter Depotcommissionens  <lb/>
+Foranstaltning bleven arresterede.</p>
+               <p>	Istedetfor, at man tidligere havde for mig angivet den 13de <lb/>
+September som endelig Termin for Storthingets Sammenvær, tales nu om <lb/>
+en fjernere Tid, og jeg forudseer, at om Deres Majestæt ikke i Tide <lb/>
+bestemmer Tiden for Opløsningen, vil den ikke indtræffe snart.</p>
+               <p>	Da det turde interessere Deres Majestæt ogsaa at erfare Fremskridt <lb/>
+i vor private Virksomhed, som, Gud skee Tak! endnu ikke sorterer  <lb/>
+under Storthingets Ressort, tillader jeg mig underdanigst at meddele, <lb/>
+at jeg ved mine Gruber fandt en vakker liden Dampmaskine og 2 <lb/>
+smaa Jernbaner til Understøttelse for 40 Grubearbeideres Virksomhed. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 August 1851</date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

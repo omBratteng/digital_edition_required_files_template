@@ -1,0 +1,170 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 16. mars 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p>	Efter 3 Dages hæftige Debatter blev den Kongelige Proposition <lb/>
+om Jernbane Anlægget i Gaar Aftes Klokken 9 antaget af Storthinget <lb/>
+med 82 Stemmer mod 24. Jeg lykønsker mit Fædreneland til denne i <lb/>
+mange Henseender indgribende og vigtige Beslutning, som forhaabentlig <lb/>
+vil bringe velgjørende Frygter for vor indre Rørelse.</p>
+               <p>	Copie af Greve Trampes Rapport af 9de tillader jeg mig <lb/>
+underdanigst at vedlægge. Den viser, at Spørgsmaalet om de anvendte  <lb/>
+Troppers Lønning endnu ikke var tilfredsstillende afgjort, fordi <lb/>
+Statsraad Sylow i de for almindelige Begivenheder skrefne Regler ikke  <lb/>
+havde funden tilstrækkelig Hjemmel til at bifalde den nødvendige <lb/>
+Lønningsforhøielse, og naar man seer, hvorledes vore Statsraader, naar <lb/>
+Faren er glemt, drages til Ansvar for den mindste Formoverskridelse, <lb/>
+maa man ikke forundre sig over deres Betænkelighed. Efterat jeg <lb/>
+imidlertid havde bragt Sagen paa Bane i Regjeringen, blev Statsraad <lb/>
+Sylow bemyndiget til at approbere Brigadechefens Foranstaltning, <lb/>
+hvorefter Tropperne forpleies in natura for 12 Skilling daglig og <lb/>
+2 Skilling til Tobak pr Mand.</p>
+               <p>	Iøvrigt synes Faren i Nordre Trondhjems Amt ikke før overvunden <lb/>
+før man i offentlige Blade læser den sædvanlige skjæve Bedømmelse  <lb/>
+over Øvrighedens Forhold. Efterat Grev Trampe har afvendt den <lb/>
+truende Fare, spørges der <hi rend="underline">om hans Competence dertil</hi>  og finder man at <lb/>
+det var unødvendigt at tilkalde Militair!</p>
+               <p>	De 2de engelske Udsendinge, som afvigte Høst indfandt sig her <lb/>
+med et Project om Oprettelsen af en Point-Stock Bank i Christiania, <lb/>
+har nu indberettet, at de ikke see sig istand til for Tiden at  <lb/>
+tilveiebringe den for Øiemedet nødvendige Capital.</p>
+               <p>	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa en med Morgen Posten afgaaende Indstilling om <lb/>
+Besættelsen af Toldcasserer Embedet paa Moss, hvortil jeg, Petersen, <lb/>
+Riddervold, Bretteville, have indstillet Byfogden sammesteds Vogt; − <lb/>
+Stang, Erichsen, Sylow derimod Veimesteren Capitaine Finne. Vi formene <lb/>
+underdanigst, at Vogt (en Broder af Statsraaden) som i en Række <lb/>
+af Aar har været Byfoged paa Moss og flere Gange Storthingsmand, <lb/>
+bør have Fortrinet og tillader jeg mig underdanigst at anbefale ham. <lb/>
+Han vil tabe i Indtægter, men han ønsker sig i en fremrykkende Alder <lb/>
+en roligere Embedsstilling. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16 Marts 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 16. mars 1851</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Gjenpart</hi>
+                  <lb/>
+af Skrivelse fra Amtmanden i Nordre Throndhjems Amt til den Kongelige <lb/>
+norske Regjering, dateret Størdalen den 9de Marts 1851.</head>
+               <p>	Ankommen til Størdalen i Gaar Aftes har Amtmanden Dags Dato <lb/>
+tilkjendegivet den paa Stedet høistbefalende Officier Major Rüsing, <lb/>
+at han antager,at den herværende militare Styrke nu kan formindskes <lb/>
+til 50 Mand med Befalingsmænd − hvortil dog − paa Grund af vedlagte <lb/>
+Skrivelse i Gjenpart fra Lensmand Essendrup − maa tages gevorbne <lb/>
+Tropper − og 10 Mand Artillerister, samtlige beredne, og ville de øvrige <lb/>
+Tropper saaledes formeentlig drage tilbage i Morgen. De paabegyndte <lb/>
+Undersøgelser ere endnu langtfra sluttede og nogle og tredive ville <lb/>
+sandsynlig blive tiltalte i denne Sag. Man har iøvrigt ved i denne <lb/>
+Tid at afbenytte extraordinært civilt Politiopsyn kommet efter <lb/>
+Gjerningsmændene til forskjelligt grove Tyverier. Den urolige Tid har <lb/>
+upaatvivlelig givet Anledning til forskjellige Overtrædelser af <lb/>
+Brændeviinslovgivningen og ligesom flere ere anmeldte for ulovligt <lb/>
+Brændeviinssalg, saaledes har Lensmanden i Gaar grebet 4 Stykker − <lb/>
+deriblandt en Gaardmand − i ulovlig Brændeviinsbrænden. Sluttelig <lb/>
+anseer Amtmanden sig forpligtet at henlede Opmærksomhed paa  <lb/>
+Nødvendigheden af at de menige Krigsmænd og Underbefalingsmænd, som ere <lb/>
+benyttede ved denne Leilighed eller kunne komme til at benyttes ved <lb/>
+lignende Tilfælde, bevirkes en tilstrækkelig større Lønning end <lb/>
+som den militære Lovgivning fortiden synes at hjemle, da man ikke <lb/>
+i saadanne Tilfælde bør udsætte den der skal yde saa vigtige  <lb/>
+Tjenester for Næringssorg, hvilket let kan give Anledning til grundet <lb/>
+Misnøie og lamme Virksomhed, thi den som skal bruges, skal og aflønnes <lb/>
+saa at han har Noget at tabe.</p>
+               <p>	Forestaaende tillader Amtmanden sig at indberette i Forbindelse <lb/>
+med Skrivelse af 7de denne Maaned.</p>
+               <closer>		  Gjenpartens Rigtighed bekræfter <lb/>
+                  <signed>
+                     <persName>Otto Dahl</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 16. mars 1851</supplied>
+               </head>
+               <head type="sub2">Gjenpart</head>
+               <lb/>
+               <opener>S.T. <lb/>
+Hr Premierlieutenant Lyng!</opener>
+               <p>Ifølge modtagen Underretning skal i Aften have indfundet sig <lb/>
+en Mængde Personer paa Gaarden Øyan og indtaget en truende Stilling <lb/>
+og lovet senere at indfinde sig. Paa Grund heraf og at der senere <lb/>
+end Amtmandens og min Nærværelse have indfundet sig Personer i  <lb/>
+Skatvoldsbakken og forøvet Hugst og det af Personer som endog blev  <lb/>
+betydet Forbud af Hugst i Amtmandens Nærværelse − finder jeg det under <lb/>
+nærværende Forholde ikke længer forsvarligt at være uden fornøden <lb/>
+Assistance og maa derfor i Medhold af den mig meddelte Bemyndigelse <lb/>
+requirere Sælboeske Compagni sammenkaldt, henstillende til Dem <lb/>
+som Chef at bedømme, hvorvidt De tiltroer at Mandskabet vil opfylde <lb/>
+sin Pligt, hvorom flere kyndige Mænd nære nogen Tvivl, en Tvivl <lb/>
+som jeg paa Grund af Forholdene ikke kan andet endog for min Deel <lb/>
+yttre.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Moxens</placeName>
+                     <date>den 20de Februar 1851</date> Klokken 10 Aftenen.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Essendrup</persName>
+                  </signed>
+    		  Gjenpartens Rigtighed bekræfter <lb/>
+                  <signed>
+                     <persName>Otto Dahl</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

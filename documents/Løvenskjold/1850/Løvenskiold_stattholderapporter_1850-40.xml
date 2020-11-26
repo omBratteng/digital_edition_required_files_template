@@ -1,0 +1,100 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	I Forbindelse med min underdanigste Rapport med Posten idag <lb/>
+tillader jeg mig at indberette Følgende:</p>
+               <p>	Cholera CentralsCommissionen meddeelte i Svar paa Opfordringen <lb/>
+til samme, at da nu end flere Sygdomstilfælde vare indtrufne og <lb/>
+noget meer adspredte saa maatte den erklære, at den ondartede  <lb/>
+Cholera er hersteds udbrudt.</p>
+               <p>	I Statsraad idag har derpaa den Norske Regjering paa Deres <lb/>
+Majestæts høie Vegne bestemt: <lb/>
+                  <list>
+                     <label>1o	</label>
+                     <item>at alle fra Christiania ankommende Fartøier i alle Norske Steder <lb/>
+og Havne udenfor Christiania Stift indtil videre blive at behandle <lb/>
+som kommende fra af Cholerasmittet Sted; og</item>
+                     <lb/>
+                     <label>2o	</label>
+                     <item>at al Quarantaine med Hensyn til Cholera indtil videre ophæves <lb/>
+i alle Steder og Havne i Christiania Stift, dog saaledes, at Fartøier, <lb/>
+der ankomme fra smittet Sted til noget Sted i dette Stift, hvor den <lb/>
+ondartede Cholera endnu ikke har viist sig, undergives Quarantaine <lb/>
+overeensstemmende med den Kongelige Resolution af 28de Junii 1849 <lb/>
+forsaavidt de paa Afseilingsstedet eller under Reisen have havt eller <lb/>
+ved Ankomsten have ombord Syge eller Døde, hvis Sygdom skjønnes at <lb/>
+være eller at have været den ondartede Cholera.</item>
+                     <lb/>
+                     <label>3o	</label>
+                     <item>Fartøier, der afgaae fra ikkesmittede Havne og Stæder i Christiania <lb/>
+Stift til Havne og Steder i Riget udenfor dette Stift, ilægges ikke  <lb/>
+Quarantaine, naar de medbringe Sundhedsattest fra den Havn eller det Sted,  <lb/>
+de ere udgaaede fra, medmindre de have ombord Cholera-Syge eller Døde.</item>
+                  </list>
+               </p>
+               <p>	Disse Bestemmelser svare i Alt Væsentligt til hvad der blev <lb/>
+besluttet i Aaret 1833, da Cholera var udbrudt i Drammen, og i Aaret <lb/>
+1848 da den var udbrudt i Bergen.</p>
+               <p>	Da der ikke afgaaer Post herfra førend paa Fredag blev det vedtaget, <lb/>
+at Deres Majestæt om det saaledes Besluttede skulde ved Coureer <lb/>
+underrettes.</p>
+               <p>	Til Klokken 5 i Eftermiddag ere i Agers District ialt angrebne <lb/>
+21 Personer, hvoraf 11 ere døde. I Christiania District er endnu ikke <lb/>
+noget Sygdomstilfælde anmeldt.</p>
+               <p>	Hans Excellence Statholderen formeente, at da de foregaaende <lb/>
+Rapporter om denne Sag vare afgivne af mig, ogsaa nærværende rettest <lb/>
+af mig afgives. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14 October 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J. H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

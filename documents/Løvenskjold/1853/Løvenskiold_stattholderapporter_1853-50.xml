@@ -1,0 +1,109 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 8. desember 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 24de forrige Maaned.</p>
+               <p>	Deres Majestæts naadige Skrivelse af 28de forrige Maaned, som jeg <lb/>
+havde den Ære at modtage den 5te denne Maaned, foranledigede mig til <lb/>
+at sammenkalde Regjeringens Medlemmer hos mig den 6te, for efter Deres <lb/>
+Majestæts naadige Befaling at give dem en confidentiel Meddelelse <lb/>
+af den naadige Skrivelse og indhente deres Betænkning om samme Gjenstand.</p>
+               <p>	I denne Samling omtaledes naturligviis i Almindelighed Neutralitet, <lb/>
+de dermed forbundne sædvanlige Vedtægter og europæisk Folkeret, <lb/>
+og vare Regjeringens samtlige Medlemmer enige i, at erkjende Deres <lb/>
+Majestæts Anskuelse i denne Begivenhed og derpaa grundede Beslutning, <lb/>
+for at være stemmende med de forenede Rigers Tarv, og lige enige i, <lb/>
+med underdanigst Taknemmelighed at paaskjønne den Deres Majestæts <lb/>
+Viisdom, hvormed Rigernes Bedste ogsaa i denne Begivenhed omfattes.</p>
+               <p>	Idet jeg ganske deler denne Mening og denne Følelse, forudsætter <lb/>
+jeg, at de af Deres Majestæt for den tilsigtede Neutralitet bestemte <lb/>
+Grundsætninger og Hovedpunkter ere stemmende med den europæiske  <lb/>
+Folkeret og internationale Vedtægter, og at følgelig den russiske  <lb/>
+Fordrings Opfyldelse, som stridende derimod, maatte give andre Magter <lb/>
+gyldig Grund til Utilfredshed og Klage. Jeg anseer det derhos heldig, <lb/>
+at de 2de Stater, som paa Grund af deres Beliggenhed i denne Begivenhed <lb/>
+have samme Interesse, ere lige enige i at ville iagttage en stræng <lb/>
+Neutralitet, som enige om denne Neutralitets Grundsætninger og  <lb/>
+Hovedpunkter.</p>
+               <p>	Med mit Begreb om den russiske Keisers personlige Characteer er <lb/>
+det mig iøvrigt uforklarlig, at Hans Majestæt vil fremføre et Ønske, <lb/>
+hvis Opfyldelse maatte compromittere Deres Majestæts Forhold til andre <lb/>
+mægtige Stater, med hvem det er saa høist magtpaaliggende for de <lb/>
+forenede Riger at vedligeholde en venskabelig Forbindelse, som ikke <lb/>
+kan afbrydes uden at krænke disse Rigers vigtigste Interesser; men <lb/>
+jeg tilstaaer derhos, at den hele russiske Adfærd mod Tyrkiet er mig <lb/>
+uforklarlig. De farligste Følger af denne Adfærd er 1o, at den <lb/>
+igjen fremkalder og bevæger de kuede revolutionaire Elementer og <lb/>
+2o at den kan foranledige en europæisk Krig, nye Omvæltninger i  <lb/>
+Europa, Onder, der ere saa store, at jeg ikke har villet troe, at en <lb/>
+klog og viis Souverain vilde provocere dem. Dog! jeg maa erkjende, <lb/>
+at jeg raisonnerer som den Blinde om Farverne, og jeg beder Deres <lb/>
+Majestæt naadigst tilgive mit blinde Raisonnement.</p>
+               <p>	Jeg har ikke undladt, at meddele Statsraad Krog Deres Majestæts <lb/>
+naadige Deeltagelse i hans Ildebefindende, som efter Lægernes Formening <lb/>
+var af en apoplectisk Beskaffenhed, og har han bedet mig fremføre  <lb/>
+sin underdanigste Taknemmelighed. Statsraadens Helbred har i de <lb/>
+senere Dage været bedre, saa at han har kunnet deeltage i Statsraadets <lb/>
+Samlinger.</p>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Modtagelse <lb/>
+af min underdanige Bøn for Baronesse J. Wedel, om hvis Udnævnelse <lb/>
+jeg kun har hørt een bifaldende Stemme. Hun pleier nu ømt sin gamle <lb/>
+værdige Fader, som desværre er meget svag. Det har været ham en  <lb/>
+glædelig Trøst, i disse Dage at modtage et uventet Besøg af sin ældste <lb/>
+Søn i Brüssel.</p>
+               <p>	Til Følge St Olafs Ordenens Statutter har jeg i Gaar, paa Deres <lb/>
+Majestæts høie Vegne, meddeelt denne Ordens Ridderkors til Professor <lb/>
+Livmedicus Faye, og vil jeg i Morgen meddele den samme Orden til <lb/>
+Oberst Ruge, som da fylder sit 50 aarige Tjenesteaar. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de December 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

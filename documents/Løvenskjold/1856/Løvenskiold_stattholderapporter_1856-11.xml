@@ -1,0 +1,104 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 6. mars 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p>	Jeg gjentager min underdanige Taksigelse for Deres Majestæts <lb/>
+Naadebeviis mod Ritmester Meyer og glæder mig over den udeelte <lb/>
+Sympathie, – hvormed dette her er bleven omfattet.</p>
+               <p>	Først ved Posten den 3die denne Maaned kunde jeg meddele <lb/>
+Capitaine Hagerup Deres Majestæts naadige Tilbud, hvortil jeg kan vente <lb/>
+hans Svar den 8de.</p>
+               <p>	Det synderlige og under min lange Tjeneste Tid eneste Tilfælde <lb/>
+er nu indtruffet, – at tvende norske Statsraads Embeder ere vacante <lb/>
+paa samme Tid.</p>
+               <p>	Medens Statsraad Erichsens Post endnu ikke er besat, bragte <lb/>
+Forrige Udenrigspost Statsraad Stangs underdanige Ansøgning om naadig <lb/>
+Afskeed med Vartpenge, eller rettere hans Fuldmagt til hans Svoger, <lb/>
+Kammerherre Morgenstjerne, til paa hans Vegne at indgive saadan <lb/>
+Ansøgning, den han selv erklærer sig for svag til at kunne skrive.</p>
+               <p>	Statsraad Stang er saa svag at han ikke har kunnet skrive sit <lb/>
+Navn under denne Fuldmagt, som han har dicteret sin ham følgende Søn <lb/>
+og norske Læge. Ikkedestomindre røber dog hans Bøn om Vartpenge <lb/>
+(istedetfor Pension), at han ikke selv har opgivet alt Haab. Med Hensyn <lb/>
+paa hans udmærkede Tjeneste, hvorunder han har tabt sin Helbred, paa <lb/>
+hans talrige Familie og paa hans trængende Stilling, indstiller <lb/>
+Regjeringen ham underdanigst til naadigt Afskeed, med 2500 Species <lb/>
+Vartpenge aarlig.</p>
+               <p>	Statsraad Stangs oeconomiske Stilling er ynkelig. De ved en <lb/>
+udbredt Subscription for ham samlede over 15,000 Species, ere medgaaede <lb/>
+til pressant Gjelds Betaling og til hans Reise og Ophold udenrigs, <lb/>
+hvorefter han eier en ubetydelig liden Jordeiendom med et forfeilet <lb/>
+Slot, som formenes værd 14 à 15,000 Species, men med 7000 Species <lb/>
+Gjæld. Han har Hustrue og 9 Børn, hvoraf een just nu er bleven <lb/>
+Officier, de øvrige 8 uforsorgede.</p>
+               <p>	Den arme Mand forekommer mig lig en Raket, som hæver sig rask <lb/>
+mod Himmelen, – exploderer og nedfalder slukket til Jorden; – eller <lb/>
+som en udbrændt Vulkan, som efter en Eruption kun levner Slag.</p>
+               <p>	Under Forudsætning af, at Statsraad Stang erholder naadigst <lb/>
+Afskeed, har jeg bragt Spørgsmaalet om hans Efterfølger under <lb/>
+confidentiel Overveielse i Statsraadet, hvis Medlemmer, ligesom jeg, ere <lb/>
+enige om at ønske Amtmand Manthey. Om Deres Majestæt naadigst bifalder <lb/>
+dette Ønske, tør jeg herom modsee Deres Majestæts naadige Befaling.</p>
+               <p>	Statsraad Møinichen skal i Slutningen af May Maaned forlade den <lb/>
+norske Statsraads Afdeling i Stockholm, i hvilken Anledning jeg  <lb/>
+tillader mig underdanigst at fremføre Statsraad Langes Ønske om at  <lb/>
+maatte indtage hans Plads der og Møinichen derimod at overtage Finants <lb/>
+Departementets Bestyrelse.</p>
+               <p>	Lange er i enhver Stilling en dygtig og brugbar Mand; men destoværre <lb/>
+af en svag Helbred, som han troer at kunne pleie bedre et Aar <lb/>
+i Stockholm, end under et mere anstrængende Arbeide her.</p>
+               <p>	Hendes Majestæt Dronningens høie Fødselsdag, hvortil jeg nedlægger <lb/>
+min underdanige Lykønskning, agter jeg at feire ved en Bal. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te Marts 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

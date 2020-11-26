@@ -1,0 +1,76 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. november 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 31te forrige Maaned.</p>
+               <p>	Siden den Tid er her Intet passeret, som fortjener Deres Majestæts <lb/>
+Opmærksomhed. Veiret har været meget afvexlende med Kulde indtil 10 <lb/>
+Grader Reaumure og Tøe, som dog har levnet saa meget af den i Mængde <lb/>
+faldne Snee, at vi have et hjelpeligt lidet Slædeføre, til stor Gavn <lb/>
+for Færdselen.</p>
+               <p>	Havnen og Skibsfarten er heldigviis endnu aaben. Korntilførselen <lb/>
+fra Danmark vedvarer meget stærk og det er ubegribelig, hvorledes, <lb/>
+uagtet en riig Høst der og en meget god Høst her i Landet, Kornpriserne <lb/>
+vedvarende kunde holdes høie.</p>
+               <p>	Alles Opmærksomhed og Deeltagelse her som i det hele Land, er <lb/>
+henvendt paa Deres Majestæts Sygdom. Hver Stockholms Post ventes med <lb/>
+ængstelig Længsel, og vi takke Gud for de beroligende Efterretninger, <lb/>
+som den sidste af 8de bragte os, med inderlig Bøn, at den Algode vil <lb/>
+opfylde 2de Folks hjertelige Bønner for Deres Majestæts snarlige <lb/>
+Helbredelse.</p>
+               <p>	Efterat Forestaaende var skrevet, bragte Grev Lewenhaupts venlige <lb/>
+Meddelelse af 11te mig, til almindelig Glæde, gode Efterretninger om <lb/>
+Deres Majestæts og Hendes Kongelige Høihed Prindsessens Befindende, <lb/>
+hvorfor jeg takker Gud. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14e November 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

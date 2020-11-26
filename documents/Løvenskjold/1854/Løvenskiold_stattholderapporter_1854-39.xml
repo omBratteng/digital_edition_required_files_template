@@ -1,0 +1,71 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 20. august 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 27de forrige Maaned.</p>
+               <p>	Efterat have levet et Par lykkelige Uger, paa Fossum i Ro og <lb/>
+Fred, som ikke falder i min Lod her, kom jeg her tilbage i Gaar Aftes, <lb/>
+hvor jeg havde den Ære at forefinde Deres Majestæts naadige <lb/>
+Skrivelse af 14de, hvis underdanige Besvarelse jeg tør forbeholde <lb/>
+mig.</p>
+               <p>	Statsraad Krog lider af en hæftig Cholerine; men Statsraad Vogt <lb/>
+har underrettet mig om, at imorgen vil blive at afholde det i <lb/>
+Statutterne for St Olafs Ordenen bestemte Ordens Capitul og derefter <lb/>
+blive at modtage en Storthings Deputation, for at overbringe nogle <lb/>
+Lovbeslutninger, i hvilken Anledning jeg har maattet sammenkalde et <lb/>
+overordentligt Statsraad.</p>
+               <p>	Storthings Præsidenten har mundtlig underrettet Statsraad Vogt <lb/>
+om, at Storthinget vil kunne blive færdigt med dets Forretninger <lb/>
+anstundende 4de September. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 20de August 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. desember 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+               <p>	Jeg beklager, at Morgenposten vil afgaae med Regjeringens 3 forskjellige Indstillinger om Gjenbesættelse af Smaalehnenes Amtmands-Embede, hvortil Pluraliteten, bestaaende af Statsraaderne Krog, Sibbern og Undertegnede, underdanigst har indstillet Amtmanden i Nordlandene Stabell; – Statsraaderne Schmidt og Foss Byfogden paa Frederikshald: Rieck; – Petersen og Stang: Expeditions Secretair Birch-Reichenwald.</p>
+               <p>	I denne Anledning tillader jeg mig underdanigst at vedlægge en Fortegnelse over Ansøgernes formelle Qvalificationer. At Amtmand Stabell efter vore almindelige Befordringsregler er den meest qvalificerede til denne Befordring, vil neppe kunne nægtes og jeg kjender i Sandhed ingen gyldig Grund til at tilsidesætte disse almindelige Befordringsregler, for at kunne tilsidesætte ham.</p>
+               <p>	Gyldige Grunde ere heller ikke angivne, hvorimod Anledningen til Dissentsen ene og alene er en ugrundet Uvillie, som flere af Regjeringens Medlemmer nu engang have fattet mod Amtmand Stabell.</p>
+               <p>	Imidlertid har jeg mere end eengang gjort den ubehagelige Erfaring, at enkelte Mænds Dygtighed af Regjeringen er bleven undervurderet, andre overvurderet.</p>
+               <p>	Under den almindelige Forretningsgang har jeg ikke havt mere Anledning til at erfare nogen særdeles Dygtighed eller Udygtighed af Stabell end af Rigets øvrige Amtmænd, og de specielle Oplysninger om hans Embedsførelse, som den mod ham yttrede Uvillie, har foranlediget mig til at søge, have ikke givet mig nogensomhelst Grund til at dele denne. Saaledes giver den nu herværende Amtmand Cappelen, som i afvigte Sommer har bereist Nordlandene med Stabell, hans Embedsførelse det bedste Vidnesbyrd.</p>
+               <p>	Under Discussionen opfordredes de Statsraader, som have yttret sig om Stabells Udygtighed, til at anføre Grunde, factiske Beviis for denne Mening; men den kunde ikke begrundes og Stangs Retsind bevægede ham til at erklære, at Stabell aldrig har viist sig udygtig som Amtmand, medens han har bestyret det Departement, hvorunder Amtmændene sortere.</p>
+               <p>	Jeg beder denne vidtløftige Discussion naadigst tilgivet hvortil jeg har føelt mig saa meget mere opfordret, som jeg veed, at Statsraad Vogt nærer maaskee end mere Uvillie mod Stabell end Andre. Denne har ikke i denne Begivenhed henvendt sig til mig; men jeg veed, at hans og <lb/>
+Families timelige Vel, efter 12 Aars Ophold i Nordlandene, beroer paa Forflyttelse derfra og dette billige Ønskes Opfyldelse tillader jeg mig underdanigst at anbefale til Deres Majestæts Retfærdighed og Naade.</p>
+               <p>	Statsraadinde Anker er ved Døden afgaaet 84 Aar gammel.</p>
+               <p>	Idag falder den første Snee, saa at vi nu, i Mangel af Jernbane, Gud skee Tak, have Sneebane.</p>
+               <p>	Da Deres Majestæt vil naadigst modtage disse underdanigste Linier Jule-Aften, tillader jeg mig at nedlægge mit underdanigste Ønske om en glædelig Juul for Deres Majestæter og den Kongelige Familie. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 December 1846. </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 20. desember 1846</supplied>
+               </head>
+               <salute>Naadigste Konge!</salute>
+               <p>	Under 25de October og 14de December dette Aar vare underskrevne Medlemmer af det akademiske Collegium samlede, for at foretage Uddelingen af de af Deres Majestæt for indeværende Aar til Understøttelse for trængende Studerende naadigst skjænkede Stipendier. Efter at have foreløbigen vedtaget at fordele den af Deres Majestæt naadigst skjænkede Summe i 7 Parceller, og efterat de ifølge forudgaaet Bekjendtgjørelse indkomne Ansøgninger med tilhørende Bilage vare tagne under nøieste Overveielse, besluttede det akademiske Collegium eensstemmig at uddele Deres Majestæts Gave til følgende Studerende: <lb/>
+               </p>
+               <list>
+                  <label>1.</label>
+                  <item>Studiosus theologiae<hi rend="underline">Georg Christian Hartmann</hi>, der i Aaret 1843 absolverede Examen artium og i Aaret 1844 Examen philologico-philosophicum, begge med Charakteren Laudabilis, <lb/>
+                  </item>
+                  <label>2.</label>
+                  <item>Studiosus theologiae<hi rend="underline">Albert Henrich Balchen</hi>, der i Aaret 1844 absolverede Examen artium og i Aaret 1845 Examen philologico-philosophicum, begge med Charakteren Laudabilis, <lb/>
+                  </item>
+                  <label>3.</label>
+                  <item>Stud. juris<hi rend="underline">Axel Nicolai Rosenkrantz Segelcke</hi>, der i Aaret 1844 absolverede Examen artium med Charakteren Laudabilis og i Aaret 1845 Examen philologico-philosophicum med Charakteren Laudabilis prae caeteris, <lb/>
+                  </item>
+                  <label>4.</label>
+                  <item>Studiosus medicinae<hi rend="underline">Johannes Musæus Norman</hi>, der i Aaret 1840 absolverede Examen artium med Charakteren Haud illaudabilis og i Aaret 1841 Examen philologico-philosophicum med Charakteren Laudabilis, <lb/>
+                  </item>
+                  <label>5.</label>
+                  <item>Studiosus philologiae<hi rend="underline">Hans Siewers</hi>, der i Aaret 1840 absolverede Examen artium med Charakteren Haud illaudabilis og i Aaret 1841 Examen philologico-philosophicum med Charakteren Laudabilis, <lb/>
+                  </item>
+                  <label>6.</label>
+                  <item>Studiosus philologiae<hi rend="underline">Christian Henrichsen</hi>, der i Aaret 1843 absolverede Examen philologico-philosophicum med Charakteren Laudabilis praecaeteris, og <lb/>
+                  </item>
+                  <label>7.</label>
+                  <item>Studiosus philologiae<hi rend="underline">Christian Larsen Hausmann</hi>, der i Aaret 1845 absolverede Examen artium og i Aaret 1846 Examen philologico-philosophicum, begge med Charakteren Laudabilis.</item>
+               </list>
+               <p>	Af disse Studerende tillagdes de 4 Førstnævnte hver 48 Spdlr og de 3 Sidstnævnte hver 36 Spdlr. – <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24de December 1846</date>.</dateline>
+                  <lb/>
+                  <salute>		Underdanigst <lb/>
+                  </salute>
+                  <signed>Jac. Keyser.	I. Kaurin.	Fr. Hallager.	Chr. Heiberg.	B. Holmboe.<lb/>
+    	L.C.M. Aubert.<lb/>
+    					Chr. Holst.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 17. mai 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p>	Naar jeg atter i Dag tillader mig at besvære Deres Majestæt, saa er det deels, fordi det er bleven en gammel Vane, at afgive en underdanigst Rapport om den 17de Mai, deels for at bede naadigst undskyldt den mindre Orden, hvori mine Meddelelser om den tiltænkte Decoration paa Slottets Frontespice ere fremførte, som Følge af, at de senere bragtes mig under Postexpeditionen.</p>
+               <p>	Uagtet denne Gjenstand vist nok ikke er nogen Statssag, saa anseer jeg det dog magtpaaliggende, at den tiltænkte Decoration maa blive Kongeboligen værdig, og fremfor alt, at den ikke maa blive en Carricatur.</p>
+               <p>	Fra denne Synspunkt tillader jeg mig, underdanigst at udbede Deres Majestæts naadige sagkyndige Interesse for Sagen.</p>
+               <p>	Hverken Linstov eller Mikkelsen sætte Priis paa deres Compositioner men ønske tvertimod begge noget bedre. Med Hensyn paa sidstnævnte tillader jeg mig underdanigst at bemærke, at Svea, hvor gjerne jeg end seer hende ved Siden af Nora, dog neppe<hi rend="underline">her</hi>  befindes paa sin rette Plads.</p>
+               <p>	Hvorvidt Gips kan ansees for et varagtigt Material til Decorationens Udførelse, henstilles til Sagkyndiges Bedømmelse.</p>
+               <p>	Jeg vover underdanigst at tilføie, at en snarlig Bestemmelse er saare ønskelig, for at Modelleringen maa kunne blive udført i den gode Aarstid.</p>
+               <p>	Efterat jeg havde gjort den Erfaring, at den lavere Folkeclasse hersteds, in specie Pøbelen, er kommen i den Vane, at ville à tout prix "moere sig" (roga sig) den 17de Mai, og at den, overladt til sig selv, morede sig paa en høist forargelig Maade, foranledigede jeg nogle fornuftigere Mænd, deriblandt Daa, til at paatage sig Ledningen af denne Morskab, inden Grændserne af god Orden og Anstændighed. Disse Mænds Bestræbelser have i de 2de sidste Aar fuldkommen svaret til min Forventning; den offentlige Fred og Orden er ikke som før bleven forstyrret og Byens øvrige Indvaanere og Politiet ere blevne forskaanede for megen Ængstelse og Plage.</p>
+               <p>	Hvorledes Dagens Morskab dette Aar er tiltænkt, vil naadigst erfares af hosfølgende Program og jeg tillader mig underdanigst at tillægge: "Honny soit, qui mal y pense".</p>
+               <p>	Petersen roser sig af den Velvillie, hvormed han overalt under sin udenrigs Reise er bleven modtaget som Deres Majestæts Statsraad, saaledes ogsaa af Hans Danske Majestæt, som dog yttrede sin Uvillie over den norske Pressefrækhed. Kongen yttrede sit Haab om Deres Majestæts Høie Besøg og jeg maa saaledes ansee Rygtet grundet.</p>
+               <p>	Jeg kunde, om Deres Majestæt og Omstændighederne tillade, selv ønske endnu en Gang at gjensee Dannemark og mit derværende gamle Familiesæde, Baroniet Løvenborg.</p>
+               <p>	Under 19de December forrige Aar anmodede jeg Overøvrighederne i enkelte Byer, hvor jeg kunde formode Evne, forenet med Villie, om at foranledige Bidrag til Nødens Lindring i Broderriget. Resultatet heraf er 2719 Spdl., omtrent 10,800 Rdl. Rigsgeld, hvoraf Christiania: 1,300 Speciedaler, som successive ere remitterede til den "gemensamma Undsätnings-Committéen. Under mange nærmere Fordringer paa Velgjørenhed kunde intet stort pecuniairt Resultat ventes; men broderlig Deeltagelse er viist, og dette var mit hovedsagelige Ønske.</p>
+               <p>	Et Bidrag af 100 Speciedaler i samme Hensigt, som senest remitteret, sætter jeg meest Priis paa, fordi det, uden given Anledning, af egen Drift er ydet af Ullensager Præstegjelds Land-Commune i Agershuus Amt.</p>
+               <p>	Hendes Majestæt Dronningen turde maaskee naadigst erindre, at Hendes Majestæt anbefalede til min Omsorg en fattig Gut, som under Reisen til Grændsen forrige Aar blev fremstillet i en høist scrophuleus Forfatning ved et Skydsskifte, og jeg tillader mig derfor underdanigst at indberette, at denne Gut, efter en langvarig Cuur, er helbredet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17 Mai 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

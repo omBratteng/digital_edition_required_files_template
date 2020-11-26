@@ -1,0 +1,107 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. mai 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>Min sidste underdanigste Rapport var af 10de denne Maaned.</p>
+               <p>	Den 4de  17de Mai efter min Ankomst til Christiania hengik <lb/>
+sidste Fredag roligere og fredeligere end tilforn. Sædvanlig har <lb/>
+Raadstue-Arresten den 18de Mai været opfyldt med Arrestanter for <lb/>
+den foregaaende Dag forøvede Gadeuordener; hvorimod der dette Aar <lb/>
+heldigviis ikke gaves Anledning til nogen Arrestering. Efterat have <lb/>
+overbeviist mig om, at der i Dagens Feiring ikke ligger nogensomhelst <lb/>
+ond Tendents, at Udskeielserne under denne Feiring hovedsagelig maa <lb/>
+tilskrives den Opposition, som den har mødt ovenfra, hvoraf er fulgt: <lb/>
+at bedre Folk have holdt sig tilbage og at Feiringen er bleven overladt <lb/>
+til Pøbelen, har jeg indskrænket min Opposition mod lovstridige <lb/>
+Uordener.</p>
+               <p>	Den almindelige nationale Tilbøielighed for Dagens Feiring, <lb/>
+opflammedes i Aar som sædvanlig ved ultra-patriotiske Opfordringer i <lb/>
+offentlige Blade og jeg ventede mig den hidindtil sædvanlige modbydelige <lb/>
+Feiring af berusede Haandtværkere og Pøbel. Imidlertid forenede <lb/>
+et stort Antal Indvaanere sig om at ville feire Dagen paa en værdigere <lb/>
+Maade, som efterat Formandskabet havde nægtet sin Deeltagelse, <lb/>
+blev af en dertil udvalgt Comité bestemt og offentliggjort. Vistnok <lb/>
+fandt jeg den tiltænkte Feiring under vor dybe Kongesorg høist ubetimelig <lb/>
+og det er denne Synspunkt, som har afholdt Formandskabet fra <lb/>
+Deeltagelse; men i Sagens daværende Stilling holdt jeg mig overbeviist <lb/>
+om, at Opposition vilde have gjort Sagen værre, fordi, at om jeg end <lb/>
+kunde have overtalt den omnævnte Comité til at træde tilbage, hvilket <lb/>
+ikke viiste sig umulig, vilde Sagen ikke have været opgivet; men <lb/>
+være falden i Ultrapatrioters og Pøbelens Hænder. Fra denne Synspunkt <lb/>
+indskrænkede jeg mig til fortrolig at anmode Comitéens Medlemmer <lb/>
+om: at give Feiringen Præg af Anstændighed og Loyalitet; at modvirke <lb/>
+de Fordomme derimod, som muligen endnu existere i Broderriget <lb/>
+og paalagde dem alt Ansvar for mulige Uordener.</p>
+               <p>	Deres Majestæt vil af hosfølgende offentlige Blade naadigst erfare, <lb/>
+at Comitéen punktlig har opfyldt min Anmodning. Den talrigt <lb/>
+forsamlede Mængde, viiste Sømmelighed og Loyalitet og tilbragte under <lb/>
+uskyldig Tidsfordriv en kold Aften under aaben Himmel. –</p>
+               <p>	At Mængden ikke føelte det Ubetimelige i en Feiring i dette Øieblik, <lb/>
+maa ene tilskrives Mangel paa Takt, men ingenlunde paa Pietetsfølelse.</p>
+               <p>	Den 18de dennes tabte Norge en af sine udmærkede Mænd, General- <lb/>
+Chirurg og Professor Thulstrup. Han døde over 75 Aar gammel, – agtet, <lb/>
+elsket, savnet. I 47 Aar var han mig en kjær Ven.</p>
+               <p>	For en anden end ældre Læge, Doctor og Physicus i Bradsberg <lb/>
+Amt, Hans Munk, vover jeg at udbede et Beviis paa Deres Majestæts <lb/>
+naadige Opmærksomhed. For 2 Aar tilbage feirede han sit Jubilæum <lb/>
+som Doctor medicinae, den 25te April dette Aar som Kongelig Embedsmand, <lb/>
+vel fortjent agtet af Colleger og Medborgere. Han er den ældste <lb/>
+Wasa-Ridder i Norge, og tillader jeg mig nu, efter mange Collegers <lb/>
+Ønske, underdanigst at udbede Nordstjerneordenen for denne værdige <lb/>
+Jubelolding.</p>
+               <p>	Jeg vover at haabe, at Deres Majestæt Intet vil have imod, at <lb/>
+jeg fra den 25te denne Maaned vil tillade mig en Fraværelse af nogle <lb/>
+Dage. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de Mai 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

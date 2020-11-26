@@ -1,0 +1,83 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 23. februar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p>	Med Henhold til denne, har jeg den Ære underdanigst at indberette, <lb/>
+at den 20de indfandt sig hos mig en Deputation af det Udvalg af <lb/>
+Storthinget, som den 17de var samlet hos mig, bestaaende af Amtmand <lb/>
+Aall, Stiftamtmand Schydtz og Capitaine Lieutenant Hagerup og gav mig <lb/>
+paa Udvalgets Vegne en ganske tilfredsstillende mundtlig Erklæring i <lb/>
+Anledning af mine fortroelige Meddelelser den 17de. Jeg takkede dem <lb/>
+herfor, men tilføiede, at en skriftlig Erklæring, underskrevet af <lb/>
+alle Udvalgets Medlemmer, som jeg maatte kunne tilstille Deres Majestæt, <lb/>
+vilde være mig mere fyldestgjørende; Scripta manent.</p>
+               <p>	I Anledning heraf har jeg modtaget Udvalgets Hosfølgende skriftlige <lb/>
+Erklæring, som jeg tør haabe vil befindes fyldestgjørende.</p>
+               <p>	Det ligger i den skrøbelige menneskelige Natur, at de af mig <lb/>
+Tilkaldte Storthingsmænd (inclusive Hrr Stabell, Christensen, Ueland) <lb/>
+føele sig smigrede ved den dem viiste Tillid, og ere godt stemte,  <lb/>
+medens andre ere misundelige. Denne Misundelse har søgt at gjøre sig <lb/>
+gjældende under Sagens Behandling inden Storthingets lukkede Døre; men <lb/>
+de dygtige Mænd, som jeg havde valgt, have vidst at overvinde denne <lb/>
+Opposition.</p>
+               <p>	Da jeg nu ikke mere har Brug for de mig i denne Begivenhed <lb/>
+anbetroede mange Aktstykker, som jeg ugjerne vil have liggende her, <lb/>
+tillader jeg mig underdanigst at forespørge, om jeg maa tilintetgjøre <lb/>
+disse, eller om de befales remitterede til Stockholm og i saa Fald <lb/>
+til hvem?</p>
+               <p>	Statsraad Erichsen længes meget efter at modtage Deres Majestæts <lb/>
+naadige Befalinger betræffende de tiltænkte Rustninger, hvis <lb/>
+snarlige Erholdelse i flere Henseender er ønskelig. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23de Februar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

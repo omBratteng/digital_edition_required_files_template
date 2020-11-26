@@ -1,0 +1,97 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 2. november 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 26de forrige Maaned.</p>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Meddelelse <lb/>
+af 23de ved Oberstlieutenant Lagerstråle.</p>
+               <p>	Jeg har kunnet deeltage i sidste Uges 2de Statsraad og funden, <lb/>
+at vore Forretninger gaae sin sædvanlige jevne Gang, uden at noget <lb/>
+særdeles mærkeligt er indtruffet.</p>
+               <p>	Den til Undersøgelse af den Thraneske Agitation anordnede <lb/>
+Commission bereiser nu de Stæder og Bygder, hvor den troer, under <lb/>
+anstillende Forhører at kunne vinde Oplysninger. <lb/>
+ Jeg føler mig forpligtet til at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa, at det var Byfoged Blom paa Kongsberg (en Broder af <lb/>
+Amtmanden) som gav den første Anledning til en gjennemgribende  <lb/>
+Foranstaltning i Anledning af Thranes Agitation ved at anmelde dens <lb/>
+Symptomer paa Kongsberg og iværksætte Undersøgelser der. Byfoged Blom er <lb/>
+ikke nogen ved Talenter udmærket, omendskjønt meget hæderlig Embedsmand; <lb/>
+men jeg formener underdanigst, at hans virksomme Vigilance i denne <lb/>
+vigtige Begivenhed, hvorved et stort socialt Onde blev standset, kan <lb/>
+fortjene at belønnes med Deres Majestæts Vasa Orden.</p>
+               <p>	Under sidste Storthing bestræbede Klokker Ueland og Procurator <lb/>
+Sverdrup (den meest ondskabsfulde og radicale blandt vore Democrater) <lb/>
+sig forgjæves for at samle et tilstrækkeligt Antal Subscribenter for <lb/>
+et nyt i deres Aand udgivende offentligt Blad; men senere har det <lb/>
+lykket Ueland at anhverve for det første 500 Subscribenter for et Blad, <lb/>
+som under Navn af "Nationalblad" og under Redaction af den bekjendte <lb/>
+Rolf Olsen skal udgives fra næste Aars Begyndelse.</p>
+               <p>	Dette Blad vil afgive et nyt Beviis for: at Stat og Regjering <lb/>
+ikke kan bestaae ved Siden af en infernal tøilesløs Presse som i sin <lb/>
+opløsende Tendents bearbeider Folkets laveste Masse.</p>
+               <p>	Politiemesteren har fra i Gaar bevirket Arbeiderforeningens saa <lb/>
+kaldte Centralcontoir i Christiania, som var en politiserende Tumleplads <lb/>
+for ledige Haandværkssvende, lukket.</p>
+               <p>	Madame Thrane har begjært Understøttelse af Fattigvæsenet og <lb/>
+er indtil videre bevilget 2 1/2 Spdl. ugentlig.</p>
+               <p>	Jeg tillader mig underdanigst at lykønske Deres Majestæt til <lb/>
+den, efter min Anskuelse, høist heldige Complettering af Deres  <lb/>
+Majestæts svenske Statsraad med 2de Mænd, som jeg kunde ønske mig til <lb/>
+Colleger her.</p>
+               <p>	For at kunne feire Hendes Majestæt Enke Dronningens høie <lb/>
+Fødselsdag, nødsages jeg til at flytte fra Holgerslyst til Byen i  <lb/>
+Overmorgen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 2den November 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

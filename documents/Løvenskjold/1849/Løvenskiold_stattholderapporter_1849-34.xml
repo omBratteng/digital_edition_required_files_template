@@ -1,0 +1,84 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 28. oktober 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 18de denne Maaned.</p>
+               <p>	Senere har jeg deeltaget i 3de Statsraads Sessioner, hvori kun <lb/>
+sædvanlige saa kaldte løbende Sager ere blevne behandlede og har jeg <lb/>
+ved min Tilbagekomst fra Fossum iøvrigt funden Administrationen i sin <lb/>
+sædvanlige Gang.</p>
+               <p>	Jeg beklager, at Generaladjutant Sagen er kommet i en ubehagelig <lb/>
+Stilling, som efter min uforbeholdne underdanigste Formening er en Følge <lb/>
+af, at <hi rend="underline">Mange</hi>  i denne Begivenhed have villet gjøre forskjellige Anskuelser <lb/>
+om Personer gjældende, hvorved Sagens endelige Afgjørelse er bleven <lb/>
+forsinket. I den Stilling hvori Sagen derved er kommet og for Tiden  <lb/>
+befinder sig, formener jeg det tilraadeligst, at lade  <lb/>
+Generaladjutantspostens Bestyrelse indtil videre forblive in statu quo og <lb/>
+at udsætte dens endelige Besættelse i Paavente af de Eventualiteter, som  <lb/>
+derpaa kunne faae Indflydelse, til Exempel Oberste Mansbachs dog ikke <lb/>
+umuelige Helbredelse, eller en Forandring med Commandoen, som kunde faae  <lb/>
+Indflydelse paa General Blochs Stilling.</p>
+               <p>	Efter det i Sagen passerede, formener jeg det saaledes rigtigere <lb/>
+at see Tiden noget an end nu at vælge den første den bedste nævnte <lb/>
+inferieure Officier.</p>
+               <p>	Statsraad Stang er for Tiden beskjæftiget med at udarbeide et <lb/>
+Forslag til en Værnepligtslov, efter de Principer, hvorom Statsraadets <lb/>
+Pluralitet er enig og tør jeg forbeholde mig at yttre mig underdanigst <lb/>
+om Gjenstanden naar den er bleven endelig behandlet og derom kan gjøres <lb/>
+underdanigst Indstilling til Deres Majestæt.</p>
+               <p>	Temperaturen er i den senere Tid bleven mildere med jevnlig Regn, <lb/>
+som i alle Henseender var velgjørende. Imidlertid erfares mere og mere, <lb/>
+at den foregaaende tidlige Kulde og Frost har gjort megen Skade især i <lb/>
+de nordlige Egne paa Korn og Potates. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 28 October 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

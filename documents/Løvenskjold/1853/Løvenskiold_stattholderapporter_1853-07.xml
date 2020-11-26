@@ -1,0 +1,74 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. mars 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p>	Den herværende Theaterdirection, som af Statsraad Bretteville og <lb/>
+Generalmajor Garben er bleven underrettet om Deres Majestæts naadige <lb/>
+Gave til Theatret af 500 Speciedaler, har anmodet mig om, for Deres <lb/>
+Majestæt at nedlægge dens underdanige Taksigelse for denne naadige <lb/>
+Gave, som ogsaa af Christiania Publicum vil blive paaskjønnet med <lb/>
+underdanig Taknemmelighed.</p>
+               <p>	De til Theatrets indvendige Ombygning calculerede omtrent 4000 <lb/>
+Speciedaler, ere subscriberede ved private Bidrag, som viser Publicums <lb/>
+Interesse for denne Indretning.</p>
+               <p>	Universitetet feirede den 17de denne Maaned i Frimurerlogens store <lb/>
+Sal en Fest i Anledning af Deres Majestæts Helbredelse og den nyfødde <lb/>
+Arveprindses Fødsel, hvorved Fest-Talen holdtes af Professor <lb/>
+Kaurin. Før og efter Talen udførtes af Studenternes Sangchor Cantater, <lb/>
+hvortil Ordene vare forfattede af A. Munch; samme Dag bespiistes <lb/>
+Byens og Forstædernes Fattige for Communens Regning.</p>
+               <p>	Jeg beklager, at en stærk Forkjølelse, efter min Læges Bud, <lb/>
+forhindrede mig fra at deeltage i denne Fest. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de Marts 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

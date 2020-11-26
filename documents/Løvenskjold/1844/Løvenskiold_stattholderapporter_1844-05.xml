@@ -1,0 +1,109 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 29. april 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 26de denne Maaned.</p>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Meddelelse <lb/>
+af 22de denned, i hvis Følge jeg tillod mig at lade sidste Post  <lb/>
+hengaae uden Rapport, da jeg Intet havde at indberette.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge Rigstidenden for 26de <lb/>
+hvoraf Deres Majestæt naadigst vil erfare, hvorledes Dagen her blev <lb/>
+feiret.</p>
+               <p>	Vor Høistsalige Konges sædvanlige lykkelige Sol skinnede klart <lb/>
+og begunstigede Dagens Feiring, hvortil alle Vedkommende con amore <lb/>
+og med Held have bidraget. For at ordne Processionen m. m. havde jeg <lb/>
+anmodet min ældste Søn, som i Forretninger var paa Fossum, at indfinde <lb/>
+sig her. Kun de, der aldrig have havt med deslige Sager at bestille,  <lb/>
+kunne indbilde sig, at de ordne sig selv. Mange agtværdige <lb/>
+Medborgere deeltoge i Processionen. Stadens borgerlige Infanterie  <lb/>
+paraderede under Stadshauptmandens Anførsel efter eget Ønske i den smagfuldt <lb/>
+sorgklædte Kirke, hvor vor 79aarige Biskop rørende og værdigen <lb/>
+tolkede vor forevigede Konges store Egenskaber og Folkets Følelser  <lb/>
+ved Hans Bortgang. Den i Kirken afsjungne vakkre Cantate er forfattet <lb/>
+af A. Munch, Copiist i Finants-Departementet, Søn av salig <lb/>
+Biskop Munch. Hvem, der som jeg erindrer Stemningen her mod den Høistsalige <lb/>
+Konge 1814, og nu efter 30 Aar hører ved Hans Bortgang hjertelig <lb/>
+og oprigtig: <lb/>
+                  <lg>
+                     <l>" Vi takke Dig Gud! at Du sendte Ham hid <lb/>
+                     </l>
+                     <l>" I vort Fædrelands mørkeste Uveirstid, <lb/>
+                     </l>
+                     <l>" Vi prise Dig Gud! at Du gjorde saa skjøn <lb/>
+                     </l>
+                     <l>" Hans Aften, saa rig paa Kjærligheds Løn. " <lb/>
+                     </l>
+                  </lg>
+maa erkjende, at Hans Majestæt i Norge har vunden en af Sine store <lb/>
+Seire.</p>
+               <p>	Ikke formaaer jeg at udtrykke den Veemod, det Savn, som viiste <lb/>
+sig i og udenfor Kirken; men det veed jeg, at om den Salige nedskuer <lb/>
+fra Sin Himmel, da vil Hans Sjæl frydes over den Ærbødighed, den <lb/>
+Kjærlighed, hvormed Hans Minde feires og prises i Norge. Et nyt Beviis <lb/>
+herpaa vil Deres Majestæt foreløbig naadigst erfare af hosfølgende <lb/>
+Rigs Tidendes Meddelelse om det her i Staden stiftede Legat: <lb/>
+" Til Kong Carl Johans Ihukommelse".–</p>
+               <p>	Det forholder sig ikke, som debiteret i Morgenbladet No 119, at <lb/>
+jeg har anmodet General-major Spørch med øvrige militaire Autoriteter <lb/>
+at deeltage i Sørgeprocessionen, hvortil jeg ikke har udstædet nogen <lb/>
+anden Indbydelse end den i Rigs Tidenden indførte almindelige til herværende <lb/>
+Autoriteter, Kongelige Embedsmænd, Medborgere. Ifølge denne <lb/>
+og uden nogen særskilt Indbydelse, mindre Anmodning, sluttede General <lb/>
+Spørch sig med nogle høiere Officierer til Processionen, hvorimod det <lb/>
+øvrige Officiercorps med Commandanten i Spidsen gik i Garnisonskirken. <lb/>
+Det ligger udenfor min Competence at bedømme, hvilken Vei var den rette. <lb/>
+Imidlertid forekommer det mig rimeligere, at Underordnede følge deres <lb/>
+Chef, end deres Fordring paa, at han skal følge dem. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de April 1844. </date>
+                  </dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

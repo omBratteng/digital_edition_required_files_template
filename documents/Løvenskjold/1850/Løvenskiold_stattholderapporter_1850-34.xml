@@ -1,0 +1,123 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 19. september 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden Deres Majestæts Afreise herfra, er, saavidt mig bekjendt, <lb/>
+Alt gaaet den sædvanlige Gang. Kongeflagget strøges paa Slottet, der <lb/>
+som den hele Bye stod øde og sørgende tilbage. I Tankerne har jeg <lb/>
+med mine bedste Ønsker fulgt Deres Majestæter og den Kongelige  <lb/>
+Familie, glædende mig over det stadige herlige September Veir, som fra <lb/>
+først til sidst har begunstiget den Kongelige Reise.</p>
+               <p>	Jeg tillader mig at gjentage min underdanige Taksigelse for <lb/>
+al Naade, hvormed Deres Majestæter under seneste Ophold her, har  <lb/>
+behaget at beære mig og mine.</p>
+               <p>	Storthingsvalgene vedblive desværre som de begyndte! <lb/>
+Vælgernes almindelige Tendents synes at være omhyggelig at udelukke de  <lb/>
+dygtigste og bedste Mænd, og derimod at vælge de udygtigste og  <lb/>
+sletteste, – en Tendents, der synes saa urimelig, at man først ved en  <lb/>
+sørgelig Erfaring kan troe paa dens Tilværelse; men med denne Erfaring <lb/>
+maa det erkjendes, hvor farligt det er at den hele Folke  <lb/>
+Representation bliver til ved Valg uden noget selvskrevet af Folke-Capricer  <lb/>
+                  <hi rend="underline">uafhængigt</hi>  Element.</p>
+               <p>	Bergens Bye gjør heldigviis en Undtagelse fra de mange slette <lb/>
+Byevalg, idet der ere valgte følgende hæderlige Mænd:  <lb/>
+Toldinspecteur Schydtz, Rector Holmboe, Consul Konow, Consul Gran og i dennes <lb/>
+Forfald Bager Wallace. <lb/>
+Gid vi maa være lige heldige i Christiania, hvilket vil vise <lb/>
+sig Mandag den 23de, da Valgmændene for denne Bye skulle vælges. <lb/>
+Ogsaa her arbeides ivrig for et slet Valg, hvorimod jeg, med Bistand <lb/>
+af Bretteville, Rasch, Fougstad og et Par Expeditions-Secretairer, arbeider <lb/>
+ lige ivrig for at faae Valgmænd, af hvem det efter vor <lb/>
+Anskuelse bedste Valg kan ventes.</p>
+               <p>	I Anledning af vedlagte Skrivelse fra en Mademoiselle Macé <lb/>
+til Hendes Majestæt Enke-Dronningen tillader jeg mig underdanigst <lb/>
+at oplyse at hendes Fader, en fød Franskmand, i en Række af Aar <lb/>
+har været bosat Borger og fransk Vice Consul i Molde, at han har <lb/>
+Ord for at være en retskaffen, og dygtig Mand; men at den Norske <lb/>
+Regjering ved at gjøre underdanigst Indstilling om Besættelse af <lb/>
+det svensk-norske Consulat i Nantes, har maattet give den indfødte <lb/>
+Nordmand, Brüneck, som i flere Aar har fungeret som svensk-norsk <lb/>
+Consul i St Malo, Fortrin for Hr Macé, en Anskuelse, som jeg  <lb/>
+fremdeles maa dele. Hans Excellence Due vil herom kunne give Deres  <lb/>
+Majestæt yderligere Oplysning.</p>
+               <p>	Statsraad Sørensen tiltraadte Reisen til Stockholm sidstleden <lb/>
+Mandag og Statsraad Krog vil tiltræde Reisen til Stockholm Mandag <lb/>
+den 23de. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 19 September 1850</date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 19. september 1850</supplied>
+               </head>
+               <opener>À sa Majesté la Reine Veuve.</opener>
+               <p>	Pendant mon sejour en France en 1839, j'eus l'honneur de faire la connaissance de Monieur le Général Clary que j'avais le plaisir de rencontrer quelquefois dans la famille de mon père. Ce Général qui commendait alors à Vannes et se disait le Neveu de Votre Majesté, eut la bonté de s'interesser à moi dès qu il sût que j'étais une de vos fideles sujettes; et sa bonté allât jusqu'á m'offrir une lettre de Recommendation pour votre Majesté, si en retournant dans ma famille en Norvège, je voulais passer par Stockholm pour remettre sa lettre en propres mains à votre Majesté.</p>
+               <lb/>
+               <p>C'eût été un grand honneur pour moi, et j'en avais d'autant plus le desir, que c'était non seulement le consentement, mais encore l'avis de toute ma famille. Tout était donc décidé pour ce prolongement de voyage que j'aurais entrepris avec tant de satisfaction; mais il ne faut compter sur rien, et il n'a pu être ainsi. De grandes pertes qu'eprouva alors mon père dans ses affaires maritimes, changèrent la face des choses, et mon voyage projeté par terre fut contre mon desir résolu par le retour d'un de ses Navires, qui ètait desiné directement pour Molde. Dans cet intervalle j'ai appris avec peine que le brave Général Clary n'existe plus; et je le regrette comme on doit regretter un ami, toujours porté à vouloir nous être utile, et qui peut-être aujoudhui aurait été d'un grand secours à mon père, dans la foule des Malheurs qui, depuis mon départ de France, n'ont cessé de le poursuivre, prèsque jusqu'à chaque pas dans ses nobles entreprises.</p>
+               <p>	Au nombre de ses Malheurs celui qu'il éprouva le 16 Novembre 1845 est irréparable. C'est la perte d'un fils à la fleur de son âge, qui était destiné à lui succeder dans les affaires, et sur le quel il avait fondé ses plus grandes Espérances. Ce fils cheri lui à été enlevé par un Evenement insui, près qu'à l'Entrée du port de Molde abord d'un de ses Navires dans le quel il a été englouti avec une grande partie de sa fortune. – J'aurais été inconsolable de cette perte épouvantable si, à l'Exemple de mes parents, je n'avais trouvé comme eux dans la Religion toute la force et toute la consolation que l'on y rencontre toujours.</p>
+               <p>	Soutenu par ces bons principes dans les quels ils m'ont élévée, je n'ai pas perdu tout espoir; et voilà ce qui me fait prendre le courage d'oser humblement m'adresser à votre Majesté, connaissant la générosité de son coeur, et dans l'espérance qu'il sera sensible aux prières d'un jeune fille qui guidée par l'amour paternel, vient avec tout le respect que l'on doit à votre Majesté, instament la supplier pour le salut de toute une famille malheureuse. – Je m'estimerais bien heureuse, si mes moyens me permettaint d'entreprendre le voyage de Christiania pour implorer le secours de votre Majeste, car je l'aurais suppliée de me faire la grace d'interceder pour mon père auprès de sa Majesté le Roi, pour la Place de Consul de Norvège et de Suède à Nantes, qu'il sollicite depuis longtemps; et voilà quel est le But de mes humbles sollicitations. – A la verité mon père a de grandes espérances pour cette place, parce qu'il a de bonnes qualifications qui doivent lui donner de grands droits, mais la verité ne parvient pas toujours jusqu'à sa Majesté, et il est à craindre que toutes ses Attestations, qui devaient être au nombre de 1 à 19, ne soient peut être pas toutes parvenues assez à temps pour accompagner sa petition, car quand sa Majesté lui fit la grace de lui accorder une Audience en 1849 et qu'il lui remit lui mème ses certificats, il n'avait encore reçu alors que ceux qui sont numérotés de 1 à 11. Cependant les autres de 12 à 19 ont du parvenir despuis au Collège de commerce à Stockholm et doivent être maintenant au Departement de l'intérieur à Christiania, ce qui poura convaincre votre Majesté de la verité. Ce qui est arrivé depuis à mon père augmente daileurs encore ses droits, il vient d'être nommé depuis commissaire conciliateur à Molde, ce qui est une autre preuve de grande confiance; et de plus dans les Assemblées des commités des Bources de commerce des principales villes de Norvège, qui ont été convoquees pour le choix à faire parmi les Aspirants, qui concourent, à ce Consulat à Nantes, il est du nombre de ceux qui ont le plus de voix. Toutes ces causes doivent donc entretenû en lui une espérance d'autant plus fondée quil a été bien flatté d'entendre de sa Majeste mème en 1849 que son zele et son activité pour la ville de Molde lui etaient connus. Depuis 1833 que mon père est dans la diplomatie, il continut d'être Vice Consul de France à la Residence de Molde. Localisé comme il est en France son pays natal, qu'il a habité presque aussi long temps que la Norvège sa nouvelle patrie, s'il a l'honneur d'obtenir cette place quels services ne serait il pas alors à mème de pouvoir rendre aux Norvègiens et aux Suèdois aux quels il est redevable de tant de Bienfaits; et quel plaisir n'aurait il pas à leur en temoigner ainsi toute sa reconnaissace! Versé d'ailleurs dans les affaires de France et de Norvège, qui pendent si long temps ont été sa principalle occupation, il a par là une grande Experience de commerce reciproque de ces pays; et comme c'est dans la ville de Nantes où il a été élevé et où il a de nombreuses connaissances commerciales qu'est situé le susdit Consulat, de quelle utilité ne serait il pas au commerce des deux Nations réunies de Suède et de Norvège, s'il a le bonheur d'obtenir le susdit Poste au quel il est appelé par vocation comme par intérèt. Mon père serait d'autant plus heureux d'obtenir la Place si désirée à Nantes, que quand il serait sur les lieux il pourrait alors lui mème défendre des Capitaux qui dans la dite ville lui sont injustement contestés. Le Dérangement de sa fortune ne lui permettant pas dans ces temps difficils la continuation des affairs qu'il desirerait alors ceder à son fils, il s'en suiveraint encore delà un soulagement pour mon père et un avenir pour mon frère. Que de Bienfaits pour toute ma famille! Voilà ce peut faire un seul mot de sa Majesté, si d'après les certificats de mon père ses sollicitations lui paraissent justes.</p>
+               <p>	Ah si par mon humble prière l'auguste intercession de votre Majesté pouvait reussir auprès de Roi, jamais ma reconnaissance pourrait acquitter toute l'étendue de votre bonté!</p>
+               <p>	Enfin si malheureusement ce bonheur n'est pas resesrvé à mon père qui jusqu'ici a vainement recherché divers Emplois, comme il se trouve forcé par les circonstances de continuer ses sollicitationes, et qu'à defaut du Consulat si desiré à Nantes som intension est de demander le Consulat general de Norvège et de Suède à Hambourg, ou la Place d'officier de la Douanne aussi vacant dans le District de Stavanger, peut être que la bonté de votre Majeste aura en souvenir mes humbles supplications pour mon père, soit pour l'une de ces deux dernières Places, soit pour celles qu'il pourrait solliciter plus tard. Plustôt votre Majesté me fera la grâce d'avoir la bonté d'interceder pour lui auprès de sa Majesté royale, plustôt mon Père serait heureux, dans l'extrême Besoin où il se trouve!</p>
+               <p>	Si je me suis servie de la langue française, que je parle presque comme ma langue maternelle, c'est que c'est celle de votre Majesté. D'ailleurs ce n'est point une Pétition adressée au Roi ni au gouvernement, c'est en quelque sorte une audience particulière que probablement votre Majesté ne m'aurait pas refusé la grâce de m'accorder, et qui ne peut nuire en Rien à la Petition que mon Père a adressée en temps à sa Majesté Royale, puis qu'elle a été faite dans la langue du pays, conformement à l'ordre et à l'usage.</p>
+               <p>	Dans l'espérance que les Malheurs de mon père ne seront pas sans effet sur le cæur sensible de votre Majesté et qu'elle voudra bien me faire la grace de me pardonner en faveur du motif qui m'a fait agir, j'ai l'honneur d'être avec le plus profond Respect de votre Majesté la très humble et très obeissante servante <lb/>
+               </p>
+               <closer>
+                  <signed>
+                     <persName>Joséphine Macé.</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Molde</placeName>
+                     <date>le 27 Aout 1850</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

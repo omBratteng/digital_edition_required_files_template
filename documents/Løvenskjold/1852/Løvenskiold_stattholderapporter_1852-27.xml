@@ -1,0 +1,184 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 3. desember 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de forrige Maaned.</p>
+               <p>	Jeg har ikke senere villet besvære Deres Majestæt, saa meget <lb/>
+mindre, som jeg ikke dertil har havt nogen bydende Anledning.</p>
+               <p>	Ogsaa i den senere Tid har Veiret været meget variabelt. I forrige <lb/>
+Uge faldt her en meget betydelig Masse Snee, med 10 Graders Kulde, <lb/>
+hvorefter stærk Tøe indtraf, som truer med at borttage Slædeføret.</p>
+               <p>	De glædelige Efterretninger, om Deres Majestæts bedre Befindende <lb/>
+som sidste Post, Gud være lovet, bragte os, har forvandlet den almindelige <lb/>
+Bekymring til almindelig Glæde. Vi bede Gud om at ville opfylde <lb/>
+vort brændende Ønske om Deres Majestæts snarlige fuldkomne Bedring.</p>
+               <p>	Ved at omhandle Marine Departementets underdanige Andragende om <lb/>
+Deres Majestæts naadige Bifald til Anlægget af en Havnequai udenfor <lb/>
+det Kongelige Palais Hauge, tillod jeg mig at yttre den underdanige <lb/>
+Formening: at Palaiet <hi rend="underline">er en Kongelig Eiendom</hi>, som for mange Aar tilbage <lb/>
+er bleven mig sagt; - ikke en Statseiendom, som i den senere <lb/>
+Tid har været paastaaet. Deres Majestæt befalede mig i denne Henseende <lb/>
+at anstille Undersøgelse, og jeg har nylig været saa heldig, ved <lb/>
+Hjelp af min Søn Otto, Expeditionssecretair i Finants Departementet, <lb/>
+at vinde fuld juridisk Vished for, at Palaiet med tilliggende Hauge <lb/>
+er i Aaret 1806 af rette Vedkommende bleven overdraget som <hi rend="underline">Eiendom</hi>
+                  <lb/>
+til Hs Majestæt Kongen og Successorer, som underdanigst i Copie vedlagte <lb/>
+Skjøde viser. Neppe vilde nogen have gjort Deres Majestæt Palaiets <lb/>
+Brug endog som Statseiendom stridig; men det er dog tryggere, at have <lb/>
+en ubestridelig juridisk Eiendomsret, og det er mig tilfredsstillende <lb/>
+at have vindiceret denne for Deres Majestæt. Jeg bør derhos dog ikke <lb/>
+lade ubemærket, at Palaiet er for Statscassens Regning bleven betydelig <lb/>
+forstørret og forbedret og at denne betaler aarlig for Haugen <lb/>
+150 Speciedaler til Cathedralskolen, til hvilken Haugen oprindelig <lb/>
+var testamenteret.</p>
+               <p>	Jeg har senere foranlediget, at Hofchefens Betænkning er bleven <lb/>
+forlangt, om de Betingelser, hvorunder Deres Majestæt naadigst kunde <lb/>
+ville bifalde det attraaede Quai Anlæg, hvorom jeg formoder, at han <lb/>
+ved denne Post underdanigst vil udbede Deres Majestæts naadige <lb/>
+Befaling. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3 December 1852</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 3. desember 1852</supplied>
+               </head>
+               <div type="tillegg-main">
+                  <head type="sub2">
+                     <hi rend="underline">Copie</hi>
+                  </head>
+                  <head type="sub3">				U d s k r i f t </head>
+                  <p>af Christiania Byes Skjøde og Pantebog, forsaavidt efterskrevne den <lb/>
+4de December 1806 thinglæste Document betræffer.</p>
+                  <p>No 101. C.J./1806 56 Rd. 24 / Kammerherre Peder Anker, Jacob Nielsen, <lb/>
+Thomas Bagge og Lars Semb gjøre vitterligt, at da det af afdøde  <lb/>
+Kammerherre og Ridder Bernt Anker under 19 December 1801 oprettede og af <lb/>
+Hans Majestæt Kongen under 11 April indeværende Aar allernaadigst  <lb/>
+confirmerede Testamente, i dets 15de § indeholder følgende saa lydende <lb/>
+Bestemmelse: "Mit Huus med Hauge jeg boer i skal gives til offentlig <lb/>
+Brug efter Overlæg med Stiftbefalingsmanden over Aggershuus. Min Haug <lb/>
+bør være en botanisk Hauge for Cathedralskolen her", saa har  <lb/>
+Administrationen for det af Kammerherre Bernt Anker oprettede Fidei-Commis, <lb/>
+ikke kunnet finde noget passeligere med Testators Tankemaade og  <lb/>
+Testamentets Aand og Hensigt mere overeenstemmende Brug, hvortil den  <lb/>
+Afdødes Gaard og Hauge kunde anvendes, end om det allernaadigst maatte <lb/>
+behage Hans Majestæt Kongen at modtage samme til en Beboelse for den <lb/>
+Kongelige Familie, saa ofte Norge maatte nyde det Held, at nogen af <lb/>
+vort Kongehuus her opholder sig. I Følge heraf har Administrationen <lb/>
+vovet, allerunderdanigst at tilbyde Hans Majestæt den ovennævnte af <lb/>
+Kammerherre Bernt Anker her i Christiania beboede og nu det af ham  <lb/>
+oprettede Fidei-Commis tilhørende Gaard med Hauge, alt i Overeenstemmelse <lb/>
+med og i Henhold til den ovenanførte § 15 i Testamentet af 19 <lb/>
+December 1801; og da Administrationen er bleven underrettet, at Hans <lb/>
+Majestæt vil værdiges allernaadigst at antage dette allerunderdanigste <lb/>
+Tilbud, samt ligeledes allernaadigst at tillade, at Christiania <lb/>
+Cathedralskole maa forbeholdes den samme ved Testamentets § 15 tillagte <lb/>
+Ret at benytte sig af den bemeldte Gaard tilliggende Hauge til botanisk <lb/>
+Brug, og Stiftbefalingsmanden over Aggershuus Stift, Kammerherre <lb/>
+Hr. Gebhard Greve af Moltke, ved Skrivelse til Overtilsyns-Commissionen <lb/>
+for det Ankerske Fidei-Commis af 18 September sidstleden, har <lb/>
+meddeelt sit Samtykke til denne Overdragelse; saa er det, at vi  <lb/>
+ovennævnte som Administrator for det Bernt-Ankerske Fidei-Commis, <lb/>
+herved, paa Fidei-Commissets Vegne, allerunderdanigst skjøde og <lb/>
+overdrage den benævnte af Kammerherre Bernt Anker beboede Gaard her <lb/>
+i Christiania med tilliggende Hauge samt dertil hørende Bygninger og <lb/>
+Indretninger, alt beliggende i Stadens østre Qvarteer i store i og lille <lb/>
+i Strandgaden samt i Prindsens Gade, Huset under Matricul No 130, <lb/>
+131, 137 og 138, og Haugen under No 142c, til Hans Majestæt Kongen, saa <lb/>
+at fornævnte Gaard og Hauge med videre Tilliggelser og Tilhørende  <lb/>
+herefter skal være og forblive Hans Kongelige Majestæts Eiendom, til Brug <lb/>
+og Benyttelse for Allerhøistsamme og Kongelige Efterkommere, saavelsom <lb/>
+for hvilken af vort Kongehuus, Hans Majestæt allernaadigst maatte finde <lb/>
+forgodt at anordne, hvorhos dog Christianias Cathedralskole, i  <lb/>
+Overeensstemmelse med Testamentets § 15 og med Hans Kongelige Majestæts  <lb/>
+allernaadigste Tilladelse, forbeholdes Ret til at benytte sig af bemeldte <lb/>
+Hauge til botanisk Brug, og til deri at gjøre saadannne Anlæg, som, <lb/>
+i Hensyn hertil, maatte ansees fornødne. Dets til Bekræftelse under  <lb/>
+vore Hænder og Signeter, ligesom dette allerunderdanigste Overdragelses <lb/>
+Documente bliver at tilstille Stiftbefalingsmanden over Aggerhuus <lb/>
+Stift, for med hans Underskrift at vorde forsynet. Christiania i <lb/>
+Administrationen over det Bernt Ankerske Fideicommis, den 27 October 1806. <lb/>
+Peder Anker (LS) Jacob Nielsen (L S) Thomas Bagge (L S) Lars Semb <lb/>
+(L S) Imod dette Overdragelsesdocuments Udstædelse til Hans Majestæt <lb/>
+Kongen, har jeg, qva Stiftamtmand over Aggerhuus Stift, ifølge den <lb/>
+1e § af afdøde Herr Kammerherre Bernt Ankers Testamente, intet at <lb/>
+erindre. Glorup den 21 November 1806; G. Moltke (L S). Da Kjøbesummen <lb/>
+for indbemeldte Gaard, i Følge ovenmeldte respective Administrations <lb/>
+Opgivende til mig, er opgivet til 10,000 rd., saa har jeg <lb/>
+derfor modtaget den Fattigvæsenet tillagte 1/4 pbt. af indbemeldte Sum <lb/>
+med Fem og Tyve Rigsdaler. Christiania den 1. December 1806. J.P. Petersen. <lb/>
+(Herimod Protest, vide Bythings-Protocollen Pag. 559)</p>
+                  <closer>Udskriftens Rigtighed bekræfter <lb/>
+                     <signed>For Byskriveren: <lb/>
+                        <persName>Chr. Mathiesen</persName>, aut. Fuldm. <lb/>
+    						  (L S.)</signed>
+                     <lb/>
+Meddeles paa ustemplet Papir og uden Betaling til Finantsdepartementet <lb/>
+                     <signed>
+                        <persName>Chr. Mathiese</persName>n</signed>. </closer>
+               </div>
+               <div type="tillegg-extra">
+                  <p>Af den i Slutningen af nærværende Udskrift nævnte Protest kan ingen <lb/>
+Gjenpart meddeles, da den Protocol, hvori Protesten indeholdes, ikke <lb/>
+fandtes ved Byeskrivercontoirets Archiv ved dettes Overleverelse til <lb/>
+den nuværende Byeskriver.</p>
+                  <closer>
+                     <dateline>
+                        <placeName>Byeskrivercontoiret i Christiania</placeName>
+                        <date>d. 18 Novbr 1852</date>.</dateline>
+                     <lb/>
+(Uden Betaling)					<signed>
+                        <persName>Chr. Mathiesen</persName>, aut.Fuldm.</signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

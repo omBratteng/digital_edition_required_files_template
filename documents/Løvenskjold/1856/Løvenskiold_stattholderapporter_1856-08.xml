@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 14. februar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>		Stormægtigste, naadigste Konge!</opener>
+               <p>	Under 7de Februar sidstleden har det behaget Deres Majestæt <lb/>
+naadigst at udnævne Hans Kongelige Høihed Kronprindsen til Norges <lb/>
+Vice-Konge. Deres Majestæt har herved føiet en ny Velgjerning til <lb/>
+de mange, ved hvilke Deres Majestæt allerede før har fyldt det norske <lb/>
+Folks Hjerte med Taknemmelighed.</p>
+               <p>	Budskabet om denne Deres Majestæts naadigste Beslutning vil <lb/>
+hos den hele Nation vække oprigtig Glæde og en end inderligere  <lb/>
+Erkjendelse af, at den stadigen er en Gjenstand for Deres Majestæts <lb/>
+faderlige og vise Omhue.</p>
+               <p>	Vi haabe, at Gud den Almægtige til denne naadigste Beslutning <lb/>
+vil lægge sin rige Velsignelse, saavist som vi vide, at Hans Kongelige <lb/>
+Høihed vil komme til at virke for et Folk, der modtager ham <lb/>
+med dyb Taknemmelighed mod Deres Majestæt, med uskrømtet Tillid <lb/>
+til ham selv og med en glad Forventning om hvad han vil virke i <lb/>
+dets Midte.</p>
+               <p>	Vi vove da herved i Underdanighed at frembære for Deres Majestæt <lb/>
+vor dybtfølte Tak for denne naadigste Beslutning. Maatte dens <lb/>
+velsignelsesrige Følger længe glæde Deres Majestæts Hjerte!</p>
+               <closer>
+                  <salute>Vi undertegne os med Ærefrygt <lb/>
+    			  Deres Kongelige Majestæts <lb/>
+    			underdanigste og troe <lb/>
+    			  Undersaatter og Tjenere</salute>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14de Februar 1856</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                     <lb/>
+                     <persName>Vogt</persName>
+                     <persName>Riddervold</persName>
+                     <persName>O.W. Erichsen</persName>
+                     <persName>Bretteville</persName>
+                     <persName>Lange</persName>
+                     <lb/>
+                     <persName>Schouboe</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

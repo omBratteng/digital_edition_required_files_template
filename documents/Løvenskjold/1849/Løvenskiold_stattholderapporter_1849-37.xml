@@ -1,0 +1,226 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 23. november 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p>	Ved denne vil jeg tillade mig at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa 2de Indstillinger til Embedsbefordring, som i Regjeringen <lb/>
+have vunden Pluralitet; men som jeg ikke kan finde stemmende med <lb/>
+vore sædvanlige Befordringsregler og heller ikke med Retfærdighed.</p>
+               <p>	Finants Departementets nærværende Chef, Statsraad Sibbern, har <lb/>
+indstillet til naadigst at udnævnes til Foged i Nedenæs, Foged i Romsdal, <lb/>
+Nørregaard; Regjeringens Pluralitet har derimod indstillet Foged Egeberg.</p>
+               <p>	Den sidstnævnte er vel 5 Aar ældre og har 5 Aar tidligere Embeds <lb/>
+Examen; men har kun 4 Aars activ Tjeneste som Officier og 7 Aar som Foged, <lb/>
+                  <hi rend="underline">ialt 11 Tjenesteaar</hi>, medens Nørregaard har 10 1/2 Aars Departements <lb/>
+Tjeneste og 15 1/2 Aar som Foged, <hi rend="underline">ialt 26 Tjenesteaar</hi>, hvorhos han <hi rend="underline">over</hi>
+                  <lb/>
+                  <hi rend="underline">1 Aar har bestyret Romsdals Amt</hi>  som constitueret Amtmand til sine <lb/>
+Foresattes særdeles Tilfredshed.</p>
+               <p>	Med Hensyn herpaa og paa den meget længere Tjeneste Tid formener <lb/>
+jeg, at Finants Departementet med god Grund har givet Nørregaard Fortrin <lb/>
+og jeg tillader mig derfor underdanigst at anbefale ham til at komme i <lb/>
+naadigst Betragtning.</p>
+               <p>	Til Byfoged i Aalesund har Regjeringens Pluralitet indstillet en <lb/>
+Candidat Baade, medens Statsraad Krog og jeg underdanigst indstille <lb/>
+Garnisonsauditeur Hvitfeldt, som i 15 1/2 Aar med Hæder har beklædt dette <lb/>
+Embede, har 2 Aar tidligere Embedsexamen og som 2de Gange constitueret <lb/>
+Byfoged i Frederiksstad har viist sin Dygtighed for det her omhandlede <lb/>
+Embede. Hvitfeldts fortrinlige Adgang til denne Befordring er for mig <lb/>
+saa utvivlsom, at jeg tør tillade mig paa det Bedste underdanigst at <lb/>
+anbefale ham.</p>
+               <p>	Flere af vore offentlige Blade fremstille nu Sigholt som et uskyldigt <lb/>
+Offer, der er falden for en uretfærdig Forfølgelse og den ved hans <lb/>
+Jordefærd viiste Deeltagelse viser at denne Mening har vunden Indgang <lb/>
+hos den store Mængde. Det er et vor Tids characteristisk Træk at Enhver, <lb/>
+som har trodset foresatte Love, Domme, vinder Deeltagelse og Medhold <lb/>
+i Pressen og hos Mængden. Saaledes er Tilfældet her med Sigholt, <lb/>
+i Sverige med Zachrissen, i Tydskland med Blum, Kossuth, Kinckel etc. <lb/>
+thi Listen af deslige er desværre meget lang. Saadant characteriserer <lb/>
+Tidens fordærvede Aand.</p>
+               <p>	Jeg tillader mig underdanigst at anbefale Regjeringens Indstilling <lb/>
+om :"at et af de nu byggende Buxer-Dampfartøi maa vorde construeret  <lb/>
+saaledes, at det kan bruges til Post og Passageerfartøi, til Deres <lb/>
+Majestæts naadige Bifald, fordi det er den eneste mulige Maade at erstatte <lb/>
+Savnet af de 2de for dette Brug aldeles utjenlige Dampskibe "Gyller" og <lb/>
+"Gleer", for et vigtigt Statsøiemeed.</p>
+               <p>	I en Tid, der saa sjelden giver Anledning til at indberette noget <lb/>
+behageligt, er det mig dobbelt kjært at kunne underdanigst vedlægge <lb/>
+en saare tilfredsstillende Meddelelse om Rigets Toldintrader i dette Aar, <lb/>
+som overgaae al rimelig Forventning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23die Novbr. 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 23. november 1849</supplied>
+               </head>
+               <p>Toldintrader ved Rigets Toldsteder med Undtagelse af de i Nordland <lb/>
+og Finmarken beliggende. <lb/>
+               </p>
+               <table>
+                  <row>
+                     <cell>I Oktober Maaned		</cell>
+                     <cell>1849 – </cell>
+                     <cell>426,776 Spd.  86 1/2</cell>
+                  </row>
+                  <row>
+                     <cell>				</cell>
+                     <cell>1848 –</cell>
+                     <cell>
+                        <hi rend="underline">  372,331  "  116  </hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Mere i Oktober 1849		 </cell>
+                     <cell>.............</cell>
+                     <cell>54,444  "  90 1/2</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>			  -------</cell>
+                     <cell> </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>I Aarets 10 første Maaneder		</cell>
+                     <cell>1849 – </cell>
+                     <cell>1,868,943 " 40</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> 				</cell>
+                     <cell>1848 –</cell>
+                     <cell>
+                        <hi rend="underline">  1,754,412 " 50</hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Mere i 1849		 </cell>
+                     <cell>............. </cell>
+                     <cell>114,530 "110</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>			  -------</cell>
+                     <cell> </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>I de 10 første Maaneder 1849, sammenført:</cell>
+                     <cell> </cell>
+                     <cell>1,868,943 – 40</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Antages Intraderne for de 2  <lb/>
+tilbagestaaende Maaneder at ville udgjøre <lb/>
+    det samme Beløb som i 1848 nemlig:</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>November	</cell>
+                     <cell>61,320 – 66 1/2</cell>
+                     <cell> </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Debr		1	</cell>
+                     <cell>
+                        <hi rend="underline">44,111 – 12</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="underline">105,431 – 78 1/2</hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>saa ville de for hele Aaret udgjøre</cell>
+                     <cell>		</cell>
+                     <cell>1,974,374 – 118 1/2</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>I Budgette er paaregnet</cell>
+                     <cell>			</cell>
+                     <cell>
+                        <hi rend="underline">1,750,000 –</hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>			</cell>
+                     <cell>Overskud		</cell>
+                     <cell>224,374 – 118 1/2</cell>
+                  </row>
+                  <lb/>
+               </table>
+               <p>Med Hensyn til Intraderne i Oktober Maaned 1849, som anført, <lb/>
+426,776 Spd. 86 1/2 (hvoraf falder paa Bergens Toldsted 105,306 – 83 1/2 <lb/>
+og paa Christiania Toldsted 103,859 – 69) mærkes, at i intet foregaaende <lb/>
+Aars Oktober Maaned have Intraderne udgjort et saa stort Beløb. <lb/>
+Nærmest kommer Oktober Maaned 1846 med 405,476 – 60 1/2. <lb/>
+               </p>
+               <closer>
+                  <dateline>Finantsdepartementets Toldkontor <date>21 November 1849</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>P. Stub</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

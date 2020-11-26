@@ -1,0 +1,267 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 6. oktober 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 22de forrige Maaned.</p>
+               <p>	Upasselighed forhindrede mig fra at skrive med sidste Post. Mere <lb/>
+eller mindre Ildebefindende har under den skrækkelige Epidemie været <lb/>
+almindelig, uden at være bleven Sygdom, naar fra første Øieblik <lb/>
+alvorlige Midler ere blevne anvendte. Næsten i ethvert Statsraad <lb/>
+har en eller anden Statsraad ved Upasselighed været forhindret fra <lb/>
+at møde, saaledes i Gaar Statsraaderne Krog, Stang, Bretteville. <lb/>
+Iøvrigt har Sygdommen i den seneste Tid, Gud være loved! saa betydelig <lb/>
+aftaget i Christiania Bye, at den forhaabentlig snart vil ganske <lb/>
+ophøre der, efterladende smertelige Erindringer og haarde Efterveer.</p>
+               <p>	Jeg erindrer jevnligen om Behandlingen af den i Deres Majestæts <lb/>
+naadige Skrivelse af 12te forrige Maaned Regjeringen anbefalede <lb/>
+Sag og haaber, at den snart vil blive færdig til underdanigst  <lb/>
+Indstilling, stemmende med Deres Majestæts Anskuelse. Sagens Vigtighed, <lb/>
+dens tidligere Behandling i Regjeringen, – og unægtelige Vanskeligheder, <lb/>
+kræve Tid at behandle og overvinde; men jeg haaber, at det <lb/>
+vil lykkes til Deres Majestæts Tilfredshed.</p>
+               <p>	Statsraad Sylow indseer med Bekymring, at denne Sags Resultat maa <lb/>
+blive ødelæggende for hans nærværende Stilling, som jeg oprigtig  <lb/>
+beklager; thi medens han ikke mangler Dygtighed for det Hverv, <hi rend="underline">hvortil</hi>
+                  <lb/>
+                  <hi rend="underline">han kaldtes</hi>, nemlig Bestyrelsen af Armee Departementets oeconomiske <lb/>
+Anliggender, er han ikke passende for Commandoen, som den Gang ikke <lb/>
+paatænktes. Han vil saaledes blive et uskyldigt Offer for en gavnlig <lb/>
+Sag, hvorfor jeg maa ønske ham den muligste Erstatning. For det Første <lb/>
+kan han faae et Statsraadsaar i Stockholm. Den norske Regjering <lb/>
+har beklagelig ikke som den svenske, passende Poster for afgaaende <lb/>
+Statsraader til Disposition.</p>
+               <p>	Statsraad Sylow erfarer derhos Sandheden af det gamle Ordsprog: <lb/>
+"En Ulykke kommer ikke alene". Han forfølges nemlig af den nederdrægtige <lb/>
+forrige Depotforvalter Gløersen, med skammelige Beskyldninger <lb/>
+og Injurier i det gemene Arbeiderblad, som redigeres af den sit <lb/>
+Embede fradømte Ritmester Poulsen. Statsraad Sylow har indstævnet <lb/>
+Injurianten for Domstolene; men den Retfærdiggjørelse, som han derved <lb/>
+forhaabentlig vil opnaae, kan ikke befrie ham fra Sindskrænkelser. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 6te October 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 6. oktober 1853</supplied>
+               </head>
+               <head type="sub2">			Underdanigst Indberetning <lb/>
+    				  om <lb/>
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25de Julii til  23de September</cell>
+                     <cell>  2191 Angrebne,</cell>
+                     <cell> hvoraf 1405 Døde.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  23de Septbr. til 24de September</cell>
+                     <cell>	  28	  do	</cell>
+                     <cell>  do  18  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  24de Septbr. til 25de September</cell>
+                     <cell>	  30	  do	</cell>
+                     <cell>  do  18  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  25de Septbr. til 26de September</cell>
+                     <cell>  25  do </cell>
+                     <cell> do  17  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="underline">i det Hele til den 26de Septbr</hi>.</cell>
+                     <cell>	  2274 Angrebne,</cell>
+                     <cell> hvoraf 1458 Døde.</cell>
+                  </row>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26de September 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Chr.Holst</persName>.</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 6. oktober 1853</supplied>
+               </head>
+               <head type="sub2">				Underdanigst Indberetning <lb/>
+    					  om <lb/>
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25de Julii  til  26de September:</cell>
+                     <cell> 2274 Angrebne,</cell>
+                     <cell> hvoraf 1458 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  26de Septbr. til 27de September</cell>
+                     <cell>	  24	  do	</cell>
+                     <cell>  do  23  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  27de Septbr. til 28de September</cell>
+                     <cell>	  10	  do	</cell>
+                     <cell>  do  16  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  28de Septbr. til 29de September	</cell>
+                     <cell>  10	  do	</cell>
+                     <cell>  do	9  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  29de Septbr. til 30te September</cell>
+                     <cell>  15  do </cell>
+                     <cell> do  8  do </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell> i det Hele til den 30te Septbr.</cell>
+                     <cell>  2333 Angrebne,</cell>
+                     <cell> hvoraf 1514 Døde.</cell>
+                  </row>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30te September 1853</date>.</dateline>
+                  <lb/>
+    	  Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Chr.Holst</persName>.</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 6. oktober 1853</supplied>
+               </head>
+               <head type="sub2">				Underdanigst Indberetning <lb/>
+    					  om <lb/>
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25de  Julii til 30te September:</cell>
+                     <cell> 2333 Angrebne,</cell>
+                     <cell> hvoraf 1514 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  30te Septbr.til 1ste October:</cell>
+                     <cell>	  3  do	</cell>
+                     <cell>  do	  5 do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  1ste October til 2den October:</cell>
+                     <cell>	15  do	</cell>
+                     <cell>  do	  7 do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  2den October til 3die October:</cell>
+                     <cell>  6  do </cell>
+                     <cell> do  7 do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>i det hele til 3die October:</cell>
+                     <cell>	  2357 Angrebne,</cell>
+                     <cell> hvoraf 1533 Døde.</cell>
+                  </row>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die October 1853</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Chr.Holst</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

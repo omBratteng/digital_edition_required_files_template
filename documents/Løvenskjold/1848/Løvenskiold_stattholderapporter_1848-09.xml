@@ -1,0 +1,68 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 21. februar 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Som jeg i min underdanigste Rapport af Gaars Dato meldte, kunde <lb/>
+Budgettet ikke blive færdigt til Expedition ved Dagsposten, og for ikke <lb/>
+at opholde det til næste Fredagspost, sender jeg det ved Kammerjunker <lb/>
+Rustad som Coureer, der vil agfaae herfra i Morgen tidlig den <lb/>
+22de. Da herved vindes 4 Dage, smiggrer jeg mig med at Deres Majestæt <lb/>
+naadigst vil bifalde denne min Foranstaltning.</p>
+               <p>	Af Expeditions Secretairen i Finants Departementet har jeg ladet <lb/>
+udfærdige en summarisk Oversigt over det nu gjeldende Budget og over <lb/>
+det for de 3 anstundende Aar foreslaaende, som jeg tillader mig  <lb/>
+underdanigst at vedlægge og hvorved min foregaaende Bemærkning om  <lb/>
+sidstnævntes tilfredsstillende Resultat stadfæstes. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de Februar 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

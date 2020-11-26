@@ -1,0 +1,106 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 30. juni 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 24de denne Maaned er <lb/>
+indtruffet et beklageligt Dødsfald, idet Chefen for Justits Departementet, <lb/>
+Statsraad Sørenssen, efter nogle Timers Sygdom, døde Natten <lb/>
+til Tirsdag den 28de dennes.</p>
+               <p>	Samme Dags Formiddag sammenkaldte jeg Regjeringens Medlemmer til <lb/>
+et extraordinairt Møde, hvor, i Forventning af Deres Majestæts naadigste <lb/>
+Approbation, blev besluttet: <lb/>
+                  <list>
+                     <label>
+                        <hi rend="underline">a </hi>, </label>
+                     <item>at Statsraad Petersen overtager indtil Videre Bestyrelsen af  <lb/>
+ Justits- og Politie-Departementet;</item>
+                     <lb/>
+                     <label>
+                        <hi rend="underline">b</hi>  , </label>
+                     <item>at Chefen for Kirke- og Underviisnings Departementet, Statsraad <lb/>
+Riddervold, indtil videre og saa længe Statsraad Vogt med naadigst <lb/>
+Tilladelse er fraværende, tillige overtager Bestyrelsen af Finants- <lb/>
+og Told Departementet; og</item>
+                     <lb/>
+                     <label>
+                        <hi rend="underline">c</hi>  , </label>
+                     <item>at Chefen for Armee Departementet, Statsraad Sylow, indtil Videre <lb/>
+tillige overtager Bestyrelsen af Marine Departementet.</item>
+                  </list>
+               </p>
+               <p>	Da Statsraad Vogt har erholdt Deres Majestæts naadige Tilladelse <lb/>
+til at benytte Badet i Sandefjord, bestaaer den Norske Regjering for <lb/>
+Tiden kun af 5 Medlemmer, og man vil saaledes blive nødt til at tilkalde <lb/>
+et extraordinairt Medlem, ifald Forfald skulde hindre Nogen af <lb/>
+Statsraaderne fra at møde. For at være forberedt paa dette mulige  <lb/>
+Tilfælde, har jeg underhaanden talt med Byfoged Thrap, der paa Opfordring <lb/>
+er villig til at tiltræde Regjeringen, forsaavidt det, paa Grund af  <lb/>
+nogen Statsraads Forfald, maatte blive nødvendigt.</p>
+               <p>	Deres Majestæt har hidtil havt den Naade at høre den Norske <lb/>
+Regjerings confidentielle Betænkning med Hensyn til Valget af Statsraader, <lb/>
+og jeg vover derfor underdanigst at henstille, om Deres Majestæt <lb/>
+ogsaa denne Gang naadigst vil tillade, at Regjeringens Medlemmer gives <lb/>
+Adgang til underhaanden gjennem mig at yttre deres underdanige <lb/>
+Formening om Statsraad Sørenssens Eftermand.</p>
+               <p>	En velgjørende Regn har siden Midsommer forfrisket den tørre Jord <lb/>
+og lover om muligt at rette paa de mislige Følger af den langvarige <lb/>
+Tørke.</p>
+               <p>	Dampskibet har bragt Efterretning om, at den asiatiske Cholera <lb/>
+er udbrudt i Kjøbenhavn, og som Følge heraf er Dampskibet her lagt i <lb/>
+Quarantaine. Saavidt jeg hidtil har kunnet erfare, har der i Kjøbenhavn <lb/>
+i det Hele været 50 Angrebne hvoraf 25 Døde. Ifølge mundtlige <lb/>
+Meddelelser gik imidlertid Alt i Kjøbenhavn endnu sin jevne Gang, uden <lb/>
+at Sygdommen der hidtil havde foranlediget nogen Standsning i den <lb/>
+almindelige Rørelse. Dampskibet "Nordcap" medbragte denne Gang 36 <lb/>
+Passagerer, men Alt er frisk ombord. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30te Junii 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

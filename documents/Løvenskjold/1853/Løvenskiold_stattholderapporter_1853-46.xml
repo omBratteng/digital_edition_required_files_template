@@ -1,0 +1,212 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 20. oktober 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 13de denne Maaned, har <lb/>
+jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af 13de, <lb/>
+hvoraf jeg med inderlig Glæde erfarer, at den i Tullgarn indtrufne <lb/>
+Ildsvaade ikke nødsager Deres Majestæter til at forlade dette Slot.</p>
+               <p>	Jeg tillader mig underdanigst at gjentage mit Ønske, at Deres <lb/>
+Majestæter ikke maa flytte til Stockholm, før saa længe efter  <lb/>
+Sygdommens Ophør, at al Smittestof der maa kunne paaregnes udryddet.</p>
+               <p>	Erfaring her viser, som sagt, at de, som have været fraværende, <lb/>
+ere meest udsatte for Smitte, naar de indfinde sig forinden Sygdommens <lb/>
+Ophør. En anden Erfaring, som jeg daglig selv gjør, er den, at <lb/>
+næsten Alle uden Undtagelse under Sygdomsperioden føele et eller andet <lb/>
+Ildebefindende, som med god Grund maa kaldes Choleraforbud. Denne <lb/>
+Landeplage og Potatessygen ere endnu uudgrundede nye Onder.</p>
+               <p>	Generalinde Wedel har i de sidste Dage været haardt angrebet af <lb/>
+Cholerine, for ikke at sige Cholera, og er endnu ikke uden Fare.</p>
+               <p>	En anden Landeplage, som trykker os, er nær uoverkommelige høie <lb/>
+Priser for Livets første Nødvendigheder: Kornvarer og Brændsel. En <lb/>
+Tønde Ruug koster 6 Speciedaler, en Tønde Byg 4 Speciedaler, en Favn  <lb/>
+Granveed 14 Mark, en Favn Birkeveed 19 Mark à 4 Speciedaler. Landets egen  <lb/>
+Kornavling har, Gud være loved! været saa god, at Landbefolkningen  <lb/>
+forhaabentlig ikke i Almindelighed vil blive meget lidende; men for  <lb/>
+Kjøbstædsboere, Strandsiddere og Fabrikarbeidere seer det sørgeligt ud;  <lb/>
+deres Brød bliver hver Dag mindre. Med Hensyn paa Kornavlingen i det øvrige  <lb/>
+Europa, antager jeg, at de høie Kornpriser maa tilskrives kunstige Maneuvre, <lb/>
+som i Tidningspressen (som saa meget andet Ondt) have funden villig  <lb/>
+Understøttelse. I sidste Statsraad bragte jeg Brændeviins Brændingen under  <lb/>
+nærværende trykkende Omstændigheder paa Bane; men den er hjemlet ved en  <lb/>
+Storthingslov, som desværre ikke kan modificeres, mindre forandres ved <lb/>
+nogen Kongelig provisorisk Anordning. Storthinget vil snarere forøge <lb/>
+end formindske Dyrtiden i Christiania.</p>
+               <p>	Justits Departementets Indstilling om Commandoens Forening med <lb/>
+de militaire Departementer, er fremdeles under Circulation og endnu <lb/>
+ikke kommet til mig, hvoraf jeg slutter, at jeg vil faae meget at <lb/>
+læse.</p>
+               <p>	Med Deres Majestæts naadige Tilladelse har jeg meddeelt Statsraad <lb/>
+Erichsen Indholdet af Deres Majestæts sidste naadige Skrivelse. Han <lb/>
+som jeg apprecierer de Grunde, som lede Deres Majestæt ved Valget af <lb/>
+en Admiral i den norske Marine; men han deeler derhos mine under  <lb/>
+22de forrige Maaned underdanigst yttrede Anskuelser. Statsraad Erichsen <lb/>
+deler Deres Majestæts Formening om Capitaine Valeurs fortrinlige <lb/>
+Dygtighed; men han formener derhos Commandeur Capitaine Bendtz,  <lb/>
+Capitaine Hesselberg eller Capitaine Konow qualificerede og vel skikkede <lb/>
+til at opfylde Deres Majestæts Fordringer paa den udnævnende  <lb/>
+Admiral, og at det under denne Forudsætning vil være mere stemmende med <lb/>
+Marinens Tarv at vælge en af de nævnte ældre værdige Officierer,  <lb/>
+fremfor den yngste Capitaine. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 20 October 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 20. oktober 1853</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25de Julii  til 10de October:</cell>
+                     <cell> 2406 Angrebne,</cell>
+                     <cell> hvoraf 1563 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  10de October til 11te October</cell>
+                     <cell> Ingen  do  ,</cell>
+                     <cell>  do  2  Do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  11te October til 12te October</cell>
+                     <cell>	3  do  ,</cell>
+                     <cell>  do  5  Do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  12te October til 13de October</cell>
+                     <cell>	1  do  ,</cell>
+                     <cell>  do  2  Do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  13de October til 14de October</cell>
+                     <cell>  2*  do  ,</cell>
+                     <cell>  do  2  Do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>i det Hele til 14de October:</cell>
+                     <cell>	  2412 Angrebne,</cell>
+                     <cell> hvoraf 1574 Døde.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell rend="botBorder"/>
+                  </row>
+               </table>
+               <p>* hvoraf dog Ingen i Christiania Bye.</p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 20. oktober 1853</supplied>
+               </head>
+               <head type="sub2">Underdanigst Indberetning <lb/>
+    					om <lb/>
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>.</head>
+               <table rend="noBorder">
+                  <row>
+                     <cell>Fra 25de  Julii  til 14de October:</cell>
+                     <cell> 2412 Angrebne,</cell>
+                     <cell> hvoraf 1574 Døde.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  14de October til 15de October:</cell>
+                     <cell>	9  do	</cell>
+                     <cell>  do 	  1  do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  15de October til 16de October:</cell>
+                     <cell>	2  do	</cell>
+                     <cell> do	  4  do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  16de October til 17de October:</cell>
+                     <cell>  3  do </cell>
+                     <cell> do  1  do; </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>i det Hele til 17de October:</cell>
+                     <cell>	  2426 Angrebne,</cell>
+                     <cell> hvoraf 1580 Døde.</cell>
+                  </row>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17de October 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Chr.Holst</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

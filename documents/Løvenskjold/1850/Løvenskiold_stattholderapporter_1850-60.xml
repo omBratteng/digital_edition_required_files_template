@@ -1,0 +1,132 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 19. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p>	Efter Amtmand Mantheys mig tilhændekomne Indberetning af 14de <lb/>
+denne Maaned var Orden og Rolighed ikke videre bleven forstyrret paa <lb/>
+Hedemarken, og han yttrer det Haab, at de Misledede ville bringes  <lb/>
+tilbage til Lovlydighed uden militair Assistence, hvorom han imidlertid <lb/>
+har truffet Aftale med Cheferne for det Hedemarkske Musqueteercorps <lb/>
+og det Oplandske ridende Jægercorps. Udspredte Rygter om at ville <lb/>
+med Magt udtage af Arresten den fængslede Hovedmand for Voldsgjerningen <lb/>
+i Tomter ere ikke gaaede i Opfyldelse og den Tomter tilgrændsende <lb/>
+Arbeiderforening i Stange Sogn skal have tabt al Lyst til at <lb/>
+gjøre fælles Sag med hiin. Imidlertid fortsættes Forhørerne, men <lb/>
+vil ikke ganske hurtig kunne tilendebringes, da der skal være en 80 <lb/>
+Personer indviklede i Optøierne og mange udenfor Sagen staaende Personers <lb/>
+Forklaringer maa indhentes.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge en Copie af det ommeldte <lb/>
+anonyme Trudselsbrev til Høiesteret. Forfatterskabet af dette og flere <lb/>
+lignende til Politiemesteren tiltroes Marcus Thranes Hustrue, som <lb/>
+skal være en fanatisk blodtørstig Quinde.</p>
+               <p>	Det er et characteristisk Tidens Tegn, at Oppostition og <lb/>
+Insubordination finde Sympathie, og jeg omtvivler ikke, at en saadan vil <lb/>
+blive yttret i visse Blade og paa andre Maader i Anledning af Bergmester <lb/>
+Sexes Entledigelse; men jeg har med Tilfredsstellelse bemærket, at <lb/>
+Deres Majestæts naadige Beslutning i denne Begivenhed har gjort et <lb/>
+særdeles godt Indtryk, paa det sindige endnu talrige Publicum og jeg <lb/>
+holder mig overbeviist om, at det samme vil blive Tilfældet med en <lb/>
+Beslutning i Anledning af Cavallerie Brigadens Chefsposts Besættelse <lb/>
+hvorved unge Officierer's i offentlige Blade fremførte Fordringer <lb/>
+ville blive tilbageviiste.</p>
+               <p>	I Anledning af den her i flere Retninger herskende Gjæring byder <lb/>
+min Samvittighed mig at fremføre 2de underdanige Ønsker <lb/>
+                  <list>
+                     <label>1o </label>
+                     <item>at Deres Majestæt vil have den Naade i Egen høie Person at aabne næste Storthing </item>
+                     <lb/>
+                     <label>2o </label>
+                     <item>at Deres Majestæt naadigst vil bemyndige Sin Norske Regjering <lb/>
+til under visse Eventualiteter at opløse Storthinget.</item>
+                  </list>
+               </p>
+               <p>	Deres Majestæts høie Nærværelse om end kortvarig vil have en <lb/>
+uberegnelig velgjørende Indflydelse, som vil forøges, om den kommer <lb/>
+uventet og om dette maatte behage Deres Majestæt, for et kort Besøg, <lb/>
+at residere i det Kongelige Palai i Byen, skulde jeg kunne gjøre de <lb/>
+hertil nødvendige Forberedelser, uden at Hensigten gjættedes. Af et <lb/>
+Storthing, sammensat som det anstundende, kan Skandaler befrygtes, <lb/>
+som i Deres Majestæts Fraværelse allene vil kunne afværges ved en <lb/>
+øieblikkelig Beslutning, hvortil den underdanigst foreslaaede  <lb/>
+Bemyndigelse udfordres.</p>
+               <p>	Statsraad Stang har under Forbeholdenhed af Deres Majestæts <lb/>
+naadige Approbation og Storthingets Pengebevilling, afsluttet Contract <lb/>
+om det projecterede Jernbaneanlæg med den engelske Commissionair <lb/>
+Bidder, som allerede har tiltraadt sin Tilbagereise. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19 December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 19. desember 1850</supplied>
+               </head>
+               <head type="sub2">
+                  <hi rend="underline">Copie</hi>.</head>
+               <lb/>
+               <opener>Til Høiesteret!</opener>
+               <p>	Da Høiesteret i en lang Tid har dømt meget uretfærdigt og forkeert, <lb/>
+mere taget Hensyn til uredelige Procuratorers Paastand end til <lb/>
+Sagens sande Tilstand saa vil vi anmode Høiesteret om at dømme  <lb/>
+retfærdigt mod Thrane. Det maatte være Bispen og Præsterne, som  <lb/>
+skulle straffes, fordi de ikke svarte, men ikke Spørgeren. Dømmes de  <lb/>
+retfærdigt i denne Sag, saa vil store Ulykker spares. Tranefolket har  <lb/>
+valgt 12 Comiteer; hver Comité er paa 16 Mand og har hver 2 Formænd; <lb/>
+alle disse Formænd, som er 32, have været samlet længe og <lb/>
+har dømt Dommerne, som dømte Uret mod Trane. Dommen skal fuldbyrdes <lb/>
+i Løbet af 2 Aar; den er skrækkelig. De ville ikke gaae frem med <lb/>
+Vold men ville med Leilighed lure paa hver sin, efter Overlæg. Dommen <lb/>
+er skrækkelig men retfærdig; nogle skulle miste Tungen, Øinene <lb/>
+og Hænderne, for at gjøre dem uskadelige for den ujuristiske Menneskehed. <lb/>
+Bliver Trane fri, er alt forbi. –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

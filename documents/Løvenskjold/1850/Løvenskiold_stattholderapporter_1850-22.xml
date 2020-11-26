@@ -1,0 +1,106 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 23. mai 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p>	Jeg agter i morgen med min Søn Otto at reise til Fossum, hvor jeg <lb/>
+vil forefinde mine andre 3 Sønner og hvorfra jeg haaber at være her <lb/>
+tilbage den 30te.</p>
+               <p>	Om der under min Fraværelse skulde blive Anledning til nogen <lb/>
+underdanigst Indberetning, vil den blive afgivet at Statsraad Krog.</p>
+               <p>	Efter Overlæg med mig har Stiftamtmand Sem taget Initiativet i <lb/>
+den Harringske Sag og indstillet til Justits Departementet, at Harring <lb/>
+for den forbryderiske Maade, hvormed han i et nu her trykt Skrift, kaldt <lb/>
+”Testamentet fra Amerika”, omtaler den norske Kongemagt og  <lb/>
+Kongeværdighed, maa blive bortviist fra Landet.</p>
+               <p>	Sagen behandledes igaar confidentielt i Statsraadet, hvis samtlige <lb/>
+Medlemmer tiltraadte Stiftamtmandens Indstilling, med Undtagelse af <lb/>
+Statsraad Stang, der som en Advocat i Skranken plaiderede for den Mening, <lb/>
+at omendskjønt de i Skriftet udtrykte politiske Anskuelser maa erkjendes  <lb/>
+daddelværdige, ere de dog ikke criminella eller strafskyldige og <lb/>
+kunne saaledes ikke give tilstrækkelig Anledning til Forfatterens  <lb/>
+Landsforviisning. Uden denne Opposition vilde Beslutning om H. Harrings  <lb/>
+Bortviisning i Gaar have været <lb/>
+fattet, hvorimod den endelige Beslutning udsattes til Løverdag efter <lb/>
+Stangs Ønske, da jeg formoder, at han vil forene sig med de Andre.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge et Exemplar af Skriftet <lb/>
+og at henlede Deres Majestæts naadige Opmærksomhed blant Andet paa <lb/>
+Pagina 88, 90, 91, 92, 95, 96, 102.</p>
+               <p>	Af de senest fra Horten tilbagekomne Søe Officierer har jeg med <lb/>
+Glæde erfaret, at Hans Kongelige Høihed Prinds Oscar, under de heldigste  <lb/>
+Auspicier og med Sine Undergivnes almindelige Anerkjendelse har  <lb/>
+tiltraadt Sit Søetogt.</p>
+               <p>	Jeg nødsages til underdanigst og tillidsfuldt for Deres Majestæt <lb/>
+at andrage et privat Anliggende med underdanigst Bøn om naadig Tilgivelse  <lb/>
+for denne Frihed, fordi jeg kun hos Deres Majestæt tør haabe at  <lb/>
+finde hjelp.</p>
+               <p>	Jeg troer at kunne antage, at Deres Majestæt naadigst vil befale <lb/>
+min Søn Ernst at indfinde sig i Stockholm i Juny Maaned. Det vil  <lb/>
+forhaabentlig blive Adam naadigst tilladt at følge mig paa min Reise, Otto <lb/>
+er ved sin Tjeneste bunden her, Herman er saaledes den eneste for mig <lb/>
+disponible til under min og Ernsts Fraværelse at assistere min  <lb/>
+Forvalter, Lieutenant Hals, til hvem jeg finder det saameget betænkeligere at <lb/>
+overlade Styrelsen, under vanskelige Conjuncturer, alene, som han  <lb/>
+sædvanlig bliver beordret til Exercering, i hvilket Tilfælde Fossum vilde <lb/>
+staae uden Styrelse. Jeg tør ikke udsætte min Velfærd for denne Fare <lb/>
+og min Reise dependerer saaledes af, om jeg maa beholde Herman hjemme.</p>
+               <p>	Jeg vover derfor underdanigst at udbede, at min Søn Herman ikke <lb/>
+maa blive befalet til Stockholm eller om det allerede skulde være skeet <lb/>
+at han i Betragtning af Omstændighederne maa blive naadigst fritaget <lb/>
+for at indfinde sig, hvorom jeg, da her er periculum in mora, tør  <lb/>
+udbede en naadig foreløpig Meddelelse af Grev Lewenhaupt.</p>
+               <p>	Jeg beder Deres Majestæt naadigst tilgive min vidtløftige <lb/>
+Behandling af dette private Anliggende, men det er af saa stor Vigtighed for <lb/>
+mig og mine, at jeg tør vove at stole paa Deres Majestæts naadige  <lb/>
+Overbærelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23 Mai 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>Løvenskiold</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

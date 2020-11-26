@@ -1,0 +1,94 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 4. mars 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p>	Den deri omnævnte Regjeringens yderligere underdanigste Indstilling betræffende den forestaaende Underhandling med Frankrige, vil afgaae med Morgenposten.</p>
+               <p>	Regjeringen har deri underdanigst foreslaaet, om det skulde behøves at renoncere paa Nedsættelse af Told for norsk Jern, om en saadan end skulde blive bevilget for det svenske.</p>
+               <p>	Ved et saadant Spørgsmaals officielle Behandling, maa jeg naturligviis altid føele mig generet ved min Stilling som Værkseier, men for Deres Majestæt tør jeg pligtmæssig underdanigst yttre mig uforbeholden, uden Frygt for at blive mistydet.</p>
+               <p>	Paa Grund af en meget høiere, næsten dobbelt Productions Priis, kan det norske Jern paa intet Sted i Priis concurrere med det svenske, fordi dette kan sælges for en Priis, som for hiint ikke kan modtages uden Tab. Det norske Jern er saaledes indskrænket til færre, tiltrænger mere nye Markeder, end det svenske. Jeg kjender for Tiden intet europæisk Marked, hvor norsk Jern kan sælges med Fordeel, og den desværre bebudede Forhøielse af den amerikanske Jerntold truer med snart ogsaa at lukke dette eneste Marked for norsk Jern.</p>
+               <p>	Under disse Omstændigheder tiltrænger det norske Jern maaskee end mere et nyt Marked i Frankrige end det svenske, og jeg maatte høieligen beklage, om det skulde blive udelukked fra de Fordele, som maatte kunne opnaaes for det svenske, som visselig vilde opvække megen og velgrundet Utilfredshed.</p>
+               <p>	Hr Stephanson har, efter nogle Dages Ophold her, idag tiltraadt sin Reise til Paris, med min Anbefaling til Hans Excellence Løwenhjelm. Han har Ord for at være en retsindig og forstandig Mand, i Besiddelse af den i denne Begivenhed udfordrende Sagkundskab, som han har erhvervet under sin tidligere Stilling som Skibsfører og sin senere som Skibsrehder, og dette Rygte har jeg under hans korte personlige Bekjendtskab fundet stadfæstet.</p>
+               <p>	Efterat jeg har meddeelt General Wedel Deres Majestæts naadige Skrivelse af 25de forrige Maaned, har han givet mig vedlagte underdanigste Svar-Skrivelse, med hvis Indhold han har gjort mig bekjendt. Jeg kan kun beklage de gyldige Grunde, som have forhindret Deres Majestæt fra, fra første Færd at overdrage Generalen den hele Bestyrelse, og jeg maa finde det betænkeligt for ham at overtage den nu, efter at den er saa vidt fremskreden.</p>
+               <p>	Det turde saaledes være rigtigst, at lade den nuværende Bestyrelse fuldføre hvad den har begyndt. Imidlertid er det magtpaaliggende, at Hof Kammereer Bäkstrøm i Tide faaer Alt færdig i Stockholm til Slottets store Vaaning, og personlig indfinder sig her, for at ordne det Fornødne. Jeg tillader mig at benytte Leiligheden til underdanigst at bede Deres Majestæt at ville snart naadigst give General Wedel Befaling til at indgive underdanigst Forslag til Kronings Ceremoniellet og hvad dermed staaer i Forbindelse, og mig naadigst Underretning om den Vei, som Deres Majestæt befaler at vælge fra Trondhjem til Christiania.</p>
+               <p>	Jeg antager, at Deres Majestæt vedbliver den Beslutning at reise gjennem det nordlige Sverige ad Jemtelands Veien til Trondhjem og derfra over Dovre til Christiania, som efter min egen Erfaring er interessantere og bedre end gjennem Østerdalen.</p>
+               <p>	For mit eget Vedkommende tillader jeg mig underdanigst at udbede Deres Majestæts naadige Befaling, om jeg skal fungere ved Kroningen eller forblive her. Ved Kroningen 1818 vare 4 Statsraader befalede til forskjellige Functioner, den daværende Statsminister Anker, satte assisteret af Biskoppen i Christiania, Kronen paa Kongens Hoved og forelæste Hans Majestæt Eden; Rigs Statholderen forblev her.</p>
+               <p>	Denne udelukkedes formodentlig fra Function ved denne Leilighed, fordi han var svensk Mand; men – om, som jeg haaber (hvorom jeg tør forbeholde mig nærmere) Regjeringen skal vedblive sin Virksomhed indtil Deres Majestæts Ankomst hertil, saa kunde der være Anledning til at lade dens Chef forblive her.</p>
+               <p>	Hvorledes i denne Henseende skal forholdes, henstilles til Deres Majestæts naadigste Bestemmelse, den jeg tør bede mig naadigst meddeelt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Marts 1847</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 4. mars 1847</supplied>
+               </head>
+               <opener>Naadigste Konge!</opener>
+               <p>	Hans Excellence Rigs-Statholderen har meddeelt mig Indholdet af Deres Majestæts Naadige Skrivelse til ham af 25de f. M., betræffende herværende Slots Meublering.</p>
+               <p>	Fortrøstende mig paa at Deres Majestæt er fuldkommen overbeviist om min underdanige og pligtskyldige Redebonhed til stedse efter Evne at imødegaae ethvert af Deres Majestæts Ønsker, samt derhos, at jeg aldrig skyer, eller har skytt, nogensomhelst Umage, naar derved kan opnaaes et heldigt Resultat, – vover jeg, i Anledning af det mig naadigst tiltænkte Hverv, i dybeste Underdanighed til Deres Majestæts nærmere Høie Bedømmelse, at fremsætte efterstaaende Bemærkninger. –</p>
+               <p>	Da der, for nogle Aar siden, for første Gang var Spørgsmaal om det herværende Kongelige Slots Meublering, havde Deres Majestæt den Naade at billige min Anskuelse, "at Udførelsen af dette Hverv, der foretages for offentlig Bekostning, og saaledes kan blive Gjenstand for fremtidig Grandsken og muelig Dadel,<hi rend="underline">indtil Slottets fuldstændige Overleverelse</hi>  forblev Deres Majestæt <hi rend="underline">directe</hi>  uvedkommende, og derfor ei heller overdroges mig, eller nogen Anden til Deres Majestæts Hof henhørende Person, der kunde ansees at modtage <hi rend="underline">directe</hi>  Naadigst Befaling i sagde Henseende."</p>
+               <p>	Deres Majestæt befalede derhos, at den allerede Naadigst anordnede Commission for Slottets Opbyggelse, tillige skulle overdrages Hvervet af Sammes Meublering og Decorering. –</p>
+               <p>	I Henhold til denne Naadigste Resolution, og med stadigt Hensyn til de af Storthinget til ovenomhandlede Øiemed bevilgede 60,000 Specier, har Slots-Commissionen<hi rend="underline">allerede</hi>  udført det Meeste af det den paadragne Hverv og det Tilbagestaaende er af forholdsmæssig ringe Betydenhed. – Den har nemlig i <hi rend="underline">Udlandet</hi>  foranstaltet Opkjøb af den største Deel af de fornødne Taffel-Uhre, Lysekroner, Bronzer, Gulvtepper, Gardiner etc. – Fra <hi rend="underline">Stockholm</hi>  er endvidere, under Herr Kammereraren Bäckstrøms kyndige Vejledning, bestilt hvad som udfordres til de Kongelige Gemakker, samt Representations-Localerne. –. Endelig er hos <hi rend="underline">herværende Haandværksfolk</hi>  skeet diverse Bestillinger af Mahagoni og andre Meubler. –</p>
+               <p>	Under saadanne Omstændigheder, – da det Meeste allerede er anskaffet eller bestilt, – da den største Deel af de fra Udlandet hjemkomne Bronzer etc. hverken af<hi rend="underline">Bonitét</hi>  eller <hi rend="underline">Udseende</hi>  ere saadanne, som det, efter min ringe Formening, kunde ansees ønskeligt og passende for et endog med stor Tarvelighed og Oeconomie indrettet <hi rend="underline">Kongeligt Slot</hi>, – og da jeg saaledes, med den bedste Villie af Verden, ei indseer hvorledes der, formedelst <hi rend="underline">min nuværende</hi>  Mellemkomst, skulle kunne tilveiebringes en ønskværdig større Harmonie i det Heele, eller i hvilken Retning <hi rend="underline">min</hi>  Hielp egentlig <hi rend="underline">nu</hi>  skulle kunne bidrage til et heldigere Resultat, – saa vover jeg herved for Deres Majestæt at fremføre mit paa ovenanførte factiske Omstændigheder grundede underdanigste Ønske, at vorde fritaget for nogen <hi rend="underline">directere</hi>  Befatning med det herværende Kongelige Slots Meublering; – hvorimod jeg, – i Henhold til Deres Majestæts tidligere Naadigste Bemyndigelse, og Kiendskab til Deres Majestæts Høie Villie betræffende Slottets Meublering, – nu som hidtil, aldrig skal forsømme, <hi rend="underline">naar og hvorsomhelst det forlanges</hi>, at med Raad og Veiledning bistaae den Kongelige Slots-Commission, Herr Hofkamereraren Bäckstrøm, naar han hidkommer, eller hvilkensomhelst anden Person, som Deres Majestæt maatte Naadigst befale at befatte sig med denne Gjenstand. –</p>
+               <p>	Jeg nærer det glade Haab at Deres Majestæt ei vil mistyde Hensigten med mine her i Underdanighed fremsatte ærbødighedsfulde Bemærkninger, og deraf flydende lige underdanigst yttrede Ønske, – og det er i Fortrøstning hertil jeg i dybeste undersaatlige Underdanighed har tilladt mig i ovenstaaende Henseende directe og uforbeholden at henvende mig til Deres Majestæt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Marts 1847</date>.</dateline>
+                  <lb/>
+                  <salute>Underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J. Wedel Jarlsberg.</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

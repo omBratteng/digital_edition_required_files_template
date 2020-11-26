@@ -1,0 +1,78 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 11. november 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p>	Anledningen til denne er Chefens for Ingenieur-Brigaden, Generalmajor <lb/>
+Wetlesens den 9de dennes pludselig indtrufne Dødsfald, som jeg <lb/>
+anseer for min Skyldighed underdanigst at indberette.</p>
+               <p>	Generalen havde faa Dage forud feiret en Datters Bryllup med Baron <lb/>
+Emil Wedel-Jarlsberg, Søn af Kammerherre Baron Christian Wedel- <lb/>
+Jarlsberg, og begav sig den 9de om Aftenen, tilsyneladende frisk, til <lb/>
+Commando-Contoiret, hvor han i en Samling med Officierer i Tjenestforretninger <lb/>
+blev truffet af Apoplexie, som endte hans Liv. Han efterlader <lb/>
+foruden den gifte, en ugift Datter og en Søn.</p>
+               <p>	Paa Grund af vore Avisers totale Taushed om den 8de Novembers <lb/>
+Feiring hersteds, finder jeg mig foranlediget til underdanigst at bemærke, <lb/>
+at ligesom jeg feirede den 4de ved en Bal for omtrent 250 <lb/>
+Personer, saa havde jeg den 8de indbuden til Middag 40 Damer og Herrer <lb/>
+hvorved jeg havde den Ære at udbringe Hendes Majestæts Enke- <lb/>
+Dronningens Skaal under Kongelig Salut fra Fæstningen, en Skyldighed, <lb/>
+som jeg aldrig har forsømt og som jeg nu mindre end nogensinde vilde  <lb/>
+undlade at opfylde. Jeg tillader mig underdanigst at henlede Deres <lb/>
+Majestæts naadigste Opmærksomhed paa et dissenterende Votum af <lb/>
+Statsraaderne Krog, Fleischer og mig for en Søecadet Grøntvedt, hvis hele <lb/>
+timelige Tilværelse vil dependere af Deres Majestæts naadigste Decision. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11 November 1844. </date>
+                  </dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

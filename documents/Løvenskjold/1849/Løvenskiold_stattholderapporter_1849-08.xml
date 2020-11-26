@@ -1,0 +1,107 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 16. februar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p>	Efter sidste Indberetning fra Bergen af 12te d. M. vare fra den <lb/>
+9. til den 12 Februar angrebne af Cholera i Byen 34, døde 37 Personer, <lb/>
+i det hele angrebne 769 døde 472. Stadsphysicus antager fremdeles, at <lb/>
+Sygdommen er i Aftagende.</p>
+               <p>	Fra Landdistricterne er det umuligt at erholde nøiagtige Opgaver; <lb/>
+men Sygdommen synes der snarere at være tiltagende end aftagende.  <lb/>
+Ogsaa blandt den fiskende Almue har destoværre flere Cholera Tilfælde <lb/>
+viist sig. Lazaretter med Læger ere anbragte paa flere Steder af Kysten.</p>
+               <p>	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse af <lb/>
+8de. I Anledning af de deri berørte Gjenstande, tillader jeg mig <lb/>
+underdanigst gjentagende at yttre, at den physiske Cholera visselig er en <lb/>
+haard Landeplage, men at den i en stor Deel af Europa herskende moralske <lb/>
+og politiske Cholera medfører end større Ulykker. Jeg kjender intet <lb/>
+Middel til at afværge og underkue denne største Ulykke, som kan ramme <lb/>
+et Folk end det af Deres Majestæt paapegede: Kraft hos Regjeringen og <lb/>
+paalidelige Soldater. I Mangel af disse Elementer, og af <hi rend="underline">deres Anvendelse</hi>
+                  <lb/>
+vil den europæiske Samfunds Orden snart blive opløst og Europas <lb/>
+Folkeslag mod al deres saakaldte maaskee overdrevne Oplysning, gaae <lb/>
+tilbage til Barbarie.</p>
+               <p>	Lykkeligviis er den seneste i Paris forberedede Explosion afværget! <lb/>
+Men – for hvor mange Dage eller Uger? Ulykkeligviis ere de Mænd, <lb/>
+som nu indehave Statens høieste Embeder i moralsk Henseende ikke stort <lb/>
+bedre end Pakket, hvorfra de have sit Udspring. Barrot forfulgte og <lb/>
+anklagede Guizot, Ledru-Rollin anklager nu Barrot! Mennesker uden <lb/>
+Religion og Moralitet ere de vildeste og fordærveligste Dyr, som Gud har <lb/>
+skabt.</p>
+               <p>	Den samme Menneskerace styrer og regjerer i en stor Deel af <lb/>
+Tydskland og Italien. Det var grusomt at ødelægge den Muur, hvormed <lb/>
+Chineserne havde afspærret sig mod Europæerne.</p>
+               <p>	Greve Plessen agter om faae Dage at afreise til Kjøbenhavn; hans <lb/>
+Broder har meddeelt ham fra Berlin, at Kongen af Preussen har yttret sig <lb/>
+forsonlig mod ham og at ingen Tilbøielighed til Krigens Fornyelse spores <lb/>
+i Berlin.</p>
+               <p>	Kongen af Preussen har handlet uklogt og haardt mod Danmark. Ludvig <lb/>
+den 16des Alliance med Englands den Gang oprøreriske amerikanske <lb/>
+Undersaatter, befordrede den Revolution, hvoraf hans og hans Dynasties  <lb/>
+Fald blev en Følge.</p>
+               <p>	Louis Blanc yttrer i denne Anledning: "Par quel vertige les <lb/>
+Conseillers du Roi l'avaient ils poussé à tendre la main a des insurgents! <lb/>
+Jeg lægger til: Helas! ce vertige a couté chèr à Sa dynastie, à la France, <lb/>
+à l'Europe! Kongen af Preussen burde have erindret dette og tænkt: <lb/>
+vestogia me terrent<note xml:id="ftn5" place="foot" n="5">
+                     <hi rend="italic">vestogia me terrent</hi>: uttrykket er "vestigia me terrent", sporene skremmer meg (Horats)</note>.</p>
+               <p>	Dronningen af Englands Throntale giver et for mig uventet Haab om, <lb/>
+at Hovedvanskelighederne mod Fred imellem Tydskland og Danmark allerede <lb/>
+skulle være hævede.</p>
+               <p>	Greve Plessen, (lige meget Holstener som Dansk) vil vide, at <lb/>
+Stemningen i Hertugdømmerne ingenlunde er saa krigerisk, som de der raadende <lb/>
+Demagogers terroristiske Presse lyder. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 16 Februar 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

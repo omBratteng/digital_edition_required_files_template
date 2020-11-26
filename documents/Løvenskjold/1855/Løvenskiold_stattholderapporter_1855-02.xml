@@ -1,0 +1,71 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 25. januar 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p>	Mine rheumatiske Lidelser eller rettere den derimod anvendte <lb/>
+Cuur af spanske Fluer med mere, har forhindret mig fra at deeltage i <lb/>
+de seneste Statsraads Samlinger hvori, saavidt mig bekjendt, – ikkun <lb/>
+courante Sager have været behandlede. Uden at mit Onde er hævet eller <lb/>
+formindsket, haaber jeg dog om nogle Dage at kunne forlade mine Værelser.</p>
+               <p>	Da Indstillingen om den af Storthinget besluttede Lovcommission <lb/>
+ikke blev behandlet i sidste Statsraad, takker jeg underdanigst for <lb/>
+den mig ved Grev E. Lewenhaupt naadigst givne Beroligelse, at Deres <lb/>
+Majestæt naadigst bifalder den i mine underdanigste Rapporter af 28de <lb/>
+og 31te forrige Maaned om denne Gjenstand yttrede Anskuelser. Deres <lb/>
+Majestæts naadige Beslutning i denne Begivenhed vil i mærkelig Grad <lb/>
+styrke eller svække den den norske Kongemagt og derfor er jeg enig <lb/>
+med Statsraad Vogt om, at tillægge den den største Betydenhed.</p>
+               <p>	Efterretningerne om Sildefiskeriet ere hidindtil gode og lovende. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de Januar 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

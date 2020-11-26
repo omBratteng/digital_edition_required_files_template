@@ -1,0 +1,110 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 12. april 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 1ste og en min <lb/>
+underdanigste privat Skrivelse af 8de denne Maaned.</p>
+               <p>	I Henseende til Uelands og Sverdrups Stilling og Virksomhed i <lb/>
+Storthingets Jury Commission, ere vi idag ikke kommet et Skridt  <lb/>
+videre, end vi vare ved min sidste underdanige Rapports Afgang den <lb/>
+1ste April, og dette stadfæster mig i min Mistanke om mala fides <lb/>
+hos visse Authoriteter og Embedsmænd, som jeg ikke kan eller vil <lb/>
+troe saa udygtige, at de jo <hi rend="underline">med god Villie</hi>  forlængst burde have  <lb/>
+kunnet bragt Deres Majestæts naadige Resolution af 1ste Februar til <lb/>
+Udførelse. Det er klart, at ifølge denne naadige Resolution Uelands <lb/>
+og Sverdrups Fraværelse fra deres offentlige Bestillinger, for her <lb/>
+at fungere i Jurycommissionen, ikke bør taales, og denne <hi rend="underline">Deres</hi>
+                  <lb/>
+                  <hi rend="underline">Majestæts Anskuelse</hi>, meddeelt mig i naadigst Skrivelse af 5te Marts, <lb/>
+har jeg til Overflod meddeelt Statsraad Petersen. Ikke desto mindre <lb/>
+arbeide de nævnte Mænd her fremdeles uantastede og til mine ofte <lb/>
+gjentagne Erindringer hos Statsraad Petersen betræffende Sverdrup, <lb/>
+faaer jeg stedse kun det Svar: "at man maa oppebie Svar fra vedkommende <lb/>
+Amtmand, forinden man kan foretage noget afgjørende.</p>
+               <p>	Statsraad Vogt paaminder Sagen postdaglig hos Amtmand Harris <lb/>
+for Uelands Vedkommende og denne vil uden Tvivl <hi rend="underline">tilsyneladende</hi>  kunne <lb/>
+oplyse, at han Intet har forsømt; men dette bliver dog kun  <lb/>
+tilsyneladende, naar han til Exempel den 6te April tilskriver Finants- <lb/>
+Departementet, at han ikke kan besvare dets Skrivelse af 29de Marts <lb/>
+forinden han har modtaget en Fogden den 4de April affordret Oplysning <lb/>
+medens han den samme Dag, i al Fald mundtlig, kunde have indhentet <lb/>
+denne hos Fogden, <hi rend="underline">der</hi>, <hi rend="underline">som han</hi>, <hi rend="underline">boer i Stavanger Bye</hi>. Paa <lb/>
+saadan Maade kan en Sag udhales i Mangel af Nidkjærhed, medens den <lb/>
+                  <hi rend="underline">tilsyneladende</hi>  er behandlet forsvarlig.</p>
+               <p>	Om Statsraad Petersens Correspondance med Amtmanden i Laurvig, <lb/>
+veed jeg Intet, uden hvad han mundtlig meddeler, og det er mig  <lb/>
+paafaldende, at medens Vogt stedse meddeler Petersen, hvad han <lb/>
+tilskriver Amtmand Harris betræffende Ueland, gjengjælder Petersen ikke  <lb/>
+denne Fortroelighed for Sverdrups Vedkommende.</p>
+               <p>	Denne Sags Behandling forekommer mig at være et Sidestykke til <lb/>
+Begivenheden i 1836, da Statsraad Collett, i Stedet for, efter Hans <lb/>
+Majestæts Befaling at opløse Storthinget uden foregaaende Meddelelse <lb/>
+eller Forberedelser, henvendte sin hele Fortroelighed til Storthingets <lb/>
+Præsident, og derved bevirkede en ganske anden Effect end den af <lb/>
+Hans Majestæt tilsigtede.</p>
+               <p>	Deslige Erfaringer foranledige min nylig underdanigst yttrede <lb/>
+Overbeviisning, at den norske Regjerings Chefspost ikke kan henstaae <lb/>
+vacant uden Fare.</p>
+               <p>	Deres Majestæts norske Statsraad har, efter min underdanige <lb/>
+Formodning, gjort en særdeles heldig Acquisition i Statsraaderne Lange <lb/>
+og Møinichen. Det er paafaldende, at medens Kirke-Departementets <lb/>
+Chef Statsraad Riddervold, eenviist paastod Nødvendigheden af i <lb/>
+Institut-Bestyrer Nissen at erholde en af Deres Majestæt beskikket fast <lb/>
+Consulent med aarlig Gage 1050 Speciedaler, som Storthinget havde <lb/>
+bevilget, fordi Riddervold havde foreslaaet den, hjelper Statsraad  <lb/>
+Lange sig ganske godt <hi rend="underline">uden Consulent</hi>. Denne Gage bespares saaledes, og <lb/>
+dette er ikke den største Fordeel; men den største Fordeel er  <lb/>
+formeentlig den, at Nissen (Riddervolds Favorit) kom ud af Kirke- <lb/>
+Departementet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te April 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

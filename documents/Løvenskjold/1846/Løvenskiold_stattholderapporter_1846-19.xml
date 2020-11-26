@@ -1,0 +1,88 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 4. juni 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>Min sidste underdanigste Rapport var af 24de forrige Maaned.</p>
+               <p>	Jeg tillader mig underdanigst at vedlægge den af vedkommende Interessentskab afgivne originale Declaration betræffende Anvendelsen af det Fru Grüning afkjøbte Grundstykke, som bedes naadigst remitteret, med naadigst Bemyndigelse for mig til at lade Documentet thinglæse og derefter anvise til Udtælling anstundende 1ste Julii de af Deres Majestæt naadigst skjænkede 4,000 Spdl. Interessentskabet lader nu forfærdige en Plan for Grundstykkets Beplantning og Bebygning som det ønsker underdanigst at forelægge Deres Majestæt under Deres Majestæts personlige Høie Nærværelse.</p>
+               <p>	Under 22de forrige Maaned har Generalconsul Crowe meddeelt Consul Faye, at den berømte engelske Ingenieur, Robert Stephenson, vil blive hidsendt i anstundende August Maaned, for at undersøge og afgive Rapport om vor paatænkte Jernbanes Udførbarhed, hvorom Crowe gjør sig den bedste Forventning.</p>
+               <p>	Jeg troer at burde underdanigst gjøre opmærksom paa en med x betegnet Artikel i hosfølgende Morgenblad, betræffende en tydsk Georg Fein, som i nogle Aar har opholdt sig her paa Stedet som Sproglærer, som herfra begav sig til Schweitz, hvorfra han, som Deeltager i politiske Uroligheder, blev transporteret til Wien, hvor han skal have yttret Ønske om at maatte vende tilbage til Norge, hvilket af Hans Excellence Udenrigsministeren skal være bleven ham nægtet. Tabet af denne Statsborger er i alle Fald ikke stort for Norge men da Klagen over vor Diplomatie i denne Begivenhed neppe er grundet, henstiller jeg underdanigst, om jeg maa blive sat i Stand til at berigtige det uden Tvivl factisk Urigtige, hvorved hosfølgende Morgenblad i saa Fald ønskes remitteret.</p>
+               <p>	Med Dampskibet "Christiania" vil jeg tillade mig den 6te at afsende til Deres Majestæt tre Casser, som jeg anbefaler til Landshøvding Grev Løwenhjelms videre Befordring.</p>
+               <p>	Den ene indeholder en Medaillon, hvori Deres Majestæts Brystbillede er udarbeidet i Marmor, hvorom Amtmand Bloms hosfølgende Brev giver nærmere Underretning. Det er en ung Begynders Arbeide som anbefales til Deres Majestæts naadige Overbærelse. Modellen til Portraittet har han taget af et Markstykke. Thorvaldsen har viist mig sit<hi rend="underline">første</hi>  Arbeide. Det var neppe bedre end dette, men gav dog Anledning til, at han fik et Reisestipendium til Rom, hvor han uddannede sit store Talent og vandt sit store Kunstner Navn.</p>
+               <p>	De 2de andre Casser indeholde 2de ved Fossum støbte Jernborde, som jeg ønsker maa findes værdige til en Plads i en af de Kongelige Parke.</p>
+               <p>	Jeg erfarer nu, at Polakken Dzwonkowski, som har forvoldt mig og andre meget Skriverie, er ankommet hertil med det idag fra Kjøbenhavn ankomne Dampskib Christiania.</p>
+               <p>	Saavidt skrevet har jeg havt den Lykke at modtage Deres Majestæts naadige Skrivelse af 1te denne Maaned, som var mig dobbelt kjærkommen, fordi et langvarigt Savn af directe eller indirecte naadige Meddelelser fra Deres Majestæt begyndte at bekymre mig.</p>
+               <p>	Efter den mig naadigst anbefalede Conference med Vedkommende, vil jeg underdanigst yttre mig om de naadigst paapegede Gjenstande.</p>
+               <p>	Om Deres Majestæts Reiseplaner for sommeren er jeg fremdeles i samme Uvidenhed.</p>
+               <p>	General og Generalinde Mansbach ventes i Morgen tilbage til Frederikssteen fra deres udenrigske Reise. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Junii 1846</date>.</dateline>
+                  <lb/>
+        Til <lb/>
+        Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 4. juni 1846.</supplied>
+               </head>
+               <opener>Deres Majestæt!</opener>
+               <p>	En ung Mand fra Drammen, der i Professor Bissens Aand og under hans Veiledning har opofret sig til Billedhuggerkunsten, ønsker at forelægge Deres Majestæt en liden Prøve hvad han nu kan prestere. Hans Navn er C. Borch og han arbeider nu i Professor Bissens Artellier i Kjøbenhavn. Han udbeder sig underdanigst den Naade, at Deres Majestæt ville behage at modtage medfølgende Medaillon. Han beklager at den eneste Veiledning med Hensyn til Ligheden er Deres Majestæts Brystbillede paa de norske Ortstykker, og den Erindring han har af en Audience han havde den Lykke at bleve bestaaet under Deres Majestæts sidste Ophold i Christiania. To andre Byster han har pousiert af mig bekjendte Mænd i Kjøbenhavn har jeg seet i Gibsafstøbninger  De bevise at han i høi Grad besidder den Gave at træffe Ligheden. –</p>
+               <p>	I det jeg ikke har troet at burde denne fremstræbende unge Kunstner at befordre dette hans Ønske, beder jeg underdanigst denne min Dristighed undskyldt.</p>
+               <closer>
+                  <salute>Deres Majestæts<lb/>
+                        underdanigste Tjener<lb/>
+                  </salute>
+                  <signed>
+                     <persName>G.P. Blom.</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Drammen</placeName>
+                     <date>d. 16de Mai 1846</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

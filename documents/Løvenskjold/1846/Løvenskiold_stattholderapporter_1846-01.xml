@@ -1,0 +1,65 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 9. januar 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 29de forrige Maaned.</p>
+               <p>	Gaarsposten bragte mig Deres Majestæts naadige Skrivelse af 5te denne Maaned, og takker jeg underdanigst for de naadige Yttringer for mig og mine, som den indeholder.</p>
+               <p>	Deres Majestæts naadige Stadfæstelse af det naadigst genereuse Bidrag til Indkjøb af Fru Grünings Løkke, hvorom jeg havde modtaget foreløbig Meddelelse af Greve Lewenhaupt, vil blive modtaget med skyldig underdanigst Taknemmelighed af Vedkommende, det er: Christiania Bye.</p>
+               <p>	I min underdanigste Rapport af 28de November forrige Aar, bemærkede jeg, at efter sædvanlig Forbrug af Rug i Christiania, 4,000 Tønder maanedlig, manglede dengang til Byens Forsyning med denne Kornsort til 1ste Mai, 8,000 Tønder. Det er mig saaledes tilfredsstillende at kunne underdanigst indberette, at senere hertil er bleven indført 9,698 Tønder Rug, 9,547 Tønder Byg og 1695 Tønder Hvede.</p>
+               <p>	Lieutenant Liedholm reiste, efter sin Tilbagekomst fra Drammen, den 6te til Hafslund, hvor heldigviis Saugerne ere i Gang og hvorfra han, efterat have seet hvad som kan interessere ham, vil retournere til Stockholm. Jeg tør haabe, at han vil være tilfreds med de Mænd, til hvem jeg har adresseret ham. Stadshauptmand Thorne har viist ham alle for ham interessante Gjenstande i Drammen og Omegn og fulgt ham til Kongsberg, hvor han har Sauge, – og Consul Faye har selv fulgt ham den lange Vei til Hafslund.</p>
+               <p>	Deres Majestæts naadige Yttring betræffende min Søn Adam vil for ham være en Befaling, i hvis Følge han vil blive staaende i Cavallerie Brigaden som Surnumerair. Jeg troede det ikke passende at deeltage i en nylig afgivet underdanigst Indstilling om den Lieutenants Gage som han og Baron F. Wedel hidindtil have beholdt; men jeg beder mig naadigst tilladt derom at meddele nogle Oplysninger. Efterat de 2de benævnte Officierer i Følge Høistsalig Kongens naadige Opfordring 1828 vare indtraadte i den diplomatiske Carrière, befalede Hans Majestæt under 25 Mai og 19 Juli 1829, "at de skulde ansættes surnummeraire med Behold af deres havende Officiers Anciennetet og<hi rend="underline">med Behold af den for deres indehavende Chargé reglementerede oprindelige Løn</hi>."</p>
+               <p>	Da min Søn, efter i nogle Aar at have været Attaché ved Missionen i Paris, naadigst blev udnævnt til Legations-Secretair i Berlin, yttrede jeg underdanigst, at hans militaire Gage formeentlig maatte bortfalde; men Hans Majestæt svarede, at det var almindelig Vedtægt, at militaire Diplomater beholdt Deres militaire Gage, anførte 2de svenske høie Militaire og 2de fremmede Ministre i Stockholm, som vare i dette Tilfælde; at Hans Majestæt ikke vilde høre tale om disse Lieutenants-Gager og herved er det senere forbleven. –</p>
+               <p>	At den lille militaire Gage nu bortfalder for min Søn, efterat Deres Majestæt naadigst har anbetroet ham et selvstændigt diplomatisk Embede, kan være i sin Orden; men saadan Grund til Forandring for Baron Wedel, er endnu ikke tilstede. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Januar 1846 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

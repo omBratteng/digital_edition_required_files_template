@@ -1,0 +1,66 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 25. februar 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p>	Efterat have tilbragt 14 lykkelige Dage paa Fossum, som lægges for Deres Majestæts Fødder, tiltraadte jeg den 22de Tilbagereisen, opholdt mig en Dag paa Jarlsberg, for derfra at besøge Marine-Etablissementet paa Horten, og kom her tilbage i Gaar Aftes.</p>
+               <p>	Strax efter min Tiltrædelse af Statholderembedet 1841 gjorde jeg mig nøie bekjendt med dette Hovedetablissement for vort Søeforsvar og jeg bør ikke skjule<hi rend="underline">for Deres Majestæt</hi>, at jeg nu efter 6 Aars Forløb, gjensaae det med vemodige Følelser.</p>
+               <p>	Vistnok er der i dette Tidsrum anvendt store Summer paa nødvendige og hensigtsmæssige Landbygninger, til Anskaffelse af Materialier, af Maskiner og Bygninger, for et mechanisk Værksted, i en stor Scala; men det væsentligste, det nødvendigste Requisit for Norges Søforsvar, den seilbare Styrke, er i disse 6 Aar ikke bleven forøget, tvertimod formindsket ved 2de nu casserede Skibe Corvetten "Ørnen" og Briggen "Lolland", af de for en tilkommende Flaades og Værftets Beskyttelse nødvendige Befæstningsværker, er endnu Lidet eller Intet synlig.</p>
+               <p>	Jeg kjender og er fuldt overbeviist om den nærværende Bestyrelses Nidkjærhed og Dygtighed; men den Omstændighed, at Rigets mobile Søforsvar 1814 bestod af 7 gode Brigge; nu efter 33 Aars Forløb kun af en god Corvet "Nordstjernen", en gammel Fregat og en gammel Brig, forvolder mig en stor Bekymring som jeg ikke bør tilbageholde for Deres Majestæt. Denne Bekymring kan ikke hæves ved Roflottillens betydelige Forøgelse, thi denne afgiver neppe tilstrækkeligt Søforsvar for noget Land, mindst for Norge, som for at brødfødes, ikke kan undvære Forbindelse med andre Lande, og til at vedligeholde denne, behøves Damp- og Seil-Skibe.</p>
+               <p>	Med Morgenposten afgaaer Regjeringens underdanigste Indstilling om Afslag paa en Ansøgning fra en Deel Brugseiere, om Ophævelse af Korntolden. Det er mig kjært, at denne Indstilling var behandlet og besluttet før min Tilbagekomst, uden min Deeltagelse. Jeg har derved kunnet undgaae en Dissents, som min Samvittighed ellers maatte have paalagt mig; men som sædvanlig gives en slet Løn, hvorom jeg har bittre Erindringer fra 1833.</p>
+               <p>	Det er et Guds Under, at Norge, det Land, der oftest har været udsat for Mangel paa Fødemidler, forhaabentlig har disse endnu for et Par Maaneder, medens i mange andre Lande allerede er Hungersnød og Død; men just denne temmelig almindelige europæiske Calamitet, de store Anstrængelser og Offere, som de mægtigste Stater gjøre, for at tilvinde sig Tilførsel, levne mig ikke Haab om, at Norge vil kunne faae det uundværlige Brødkorn anstundende Foraar og Sommer. Under saadanne Omstændigheder maatte jeg have tilraadet Korntoldens Ophævelse, fordi Erfaring har viist, at den virker hensigtsmæssig paa Tilførselen fra Udlandet, trøstende og beroeligende paa Opinionen, indenrigs. Jeg befrygter, at man gjør sig Illusioner over Folkets Stilling og Trang; at man bygger formeget paa theoretiske Sætninger, hvormed ikke<hi rend="underline">en</hi>  hungrig Mave kan mættes.</p>
+               <p>	Mine Collegers eenstemmige modsatte Anskuelse giver mig det Haab, som det oprigtige Ønske, at min maa vise sig feilagtig og jeg vover saaledes ingenlunde at anbefale den til naadigst Bifald.</p>
+               <p>	Hr Stephanson i Arendal er bleven anmodet om at indfinde sig i Paris, ved den Tid, hvortil Hr Schwans Ankomst er opgivet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25 Februar 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

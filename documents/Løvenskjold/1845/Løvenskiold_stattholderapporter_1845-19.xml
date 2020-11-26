@@ -1,0 +1,101 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 12. oktober 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden Deres Majestæts Afreise er Intet indtruffet, som fortjener <lb/>
+nogen særdeles Opmærksomhed.</p>
+               <p>	Med mine Tanker og hjertelige Ønsker har jeg fulgt Deres Majestæt <lb/>
+paa Reisen og haaber med Dagsposten at erfare Deres Majestæts lykkelige <lb/>
+Gjensamling med Deres Majestæts høie Hjemmeværende. Lykkelige <lb/>
+ere De! lykkelig er Sverige, som principaliter har den Lykke at besidde <lb/>
+Deres Majestæt! Med fuld Overbeviisning erkjender jeg denne Lykke <lb/>
+at være stor og desto større føler jeg Norges Savn og mit i Særdeleshed, <lb/>
+under Deres Majestæts Fraværelse. Ved Siden af dette tunge <lb/>
+Savn føler jeg mig gjennemtrængt af oprigtig Taknemmelighed, for den <lb/>
+Tid den naadige Opmærksomhed, som Deres Majestæt under Løbet af dette <lb/>
+Aar har skjænket Sit trofaste norske Folk. Dette Folks Taknemmelighed <lb/>
+og Kjærlighed være og blive Deres Majestæts Løn! Min personlige <lb/>
+Taknemmelighed tillader jeg mig underdanigst at fremføre for Deres <lb/>
+Majestæts mig og mine beviiste Kongelige Naade, for Ridtet gjennem <lb/>
+Langerudsdalen, for de naadige Besøg i Sophiesminde, Fossum og  <lb/>
+Holgerslyst, for de naadige Beviis paa Tillid, hvormed Deres Majestæt <lb/>
+har behaget at hædre mig, Denne Deres Majestæts Naade og Tillid er <lb/>
+min bedste, min eneste Løn, for min lange og troe Tjeneste og jeg kan <lb/>
+i Sandhed sige, que cette grace Royale fait le charme de mon service <lb/>
+et de ma vieillesse. For ogsaa at gjøre Andre lykkelige vover jeg at <lb/>
+bringe i naadigst Erindring de mine Leilændinge Rasmus Johnsøn Baestul <lb/>
+og Halvor Halvorsen Fjeldet naadigst tiltænkte Medailler. Deres <lb/>
+Majestæt havde den Naade at besøge den Førstnævntes Huus og den  <lb/>
+Sidstnævnte havde den Ære at være Deres Majestæts Vaabendrager gjennem <lb/>
+Langerudsdalen, som han var det Aar 1813 for Dannemarks nuværende  <lb/>
+Konge.</p>
+               <p>	Strax efter Deres Majestæts Afreise besøgte Professor Schweigaard <lb/>
+mig for at bevidne mig sin Fortrydelse over Morgenbladets Yttringer <lb/>
+om hans Sindelag mod mig, og tillader jeg mig underdanigst at vedlægge <lb/>
+den i denne Anledning afgivne Replique. Schweigaard lovede mig <lb/>
+at omhandle med Consul Crowe den af Deres Majestæt anbefalede Gjenstand <lb/>
+og at meddele mig Resultatet. - Jeg benyttede Leiligheden til atter med <lb/>
+ham at omhandle Deres Majestæts ham gjorte naadige Tilbud, og være <lb/>
+Deres Majestæt overbeviist om, at denne vigtige Sag vedbliver at være <lb/>
+Gjenstand for min uafladelige Omtanke og Overveielse, indtil jeg seer  <lb/>
+mig istand til at fremføre noget antageligt Forslag. Under Deres <lb/>
+Majestæts Reise havde vi et for Aarstiden godt Veir, men neppe kunde den <lb/>
+antages fuldført før det blev ubehageligt. Thermometret viser daglig <lb/>
+kun 2 à 3 Grader over Frysepunkten og jeg maa gaae eller ride for ikke <lb/>
+at fryse.</p>
+               <p>	Kornpriserne stige betydeligt, men under Misvæxt i mange Lande <lb/>
+maa vi takke Gud for en god Korn og Høe Høst. Poteteshøsten  <lb/>
+(Potatisskørden) er meget forskjellig, men vil forhaabentlig i det Hele <lb/>
+dog blive upaaklagelig. Vore Potates ville forhaabentlig være bjergede, <lb/>
+forinden de naaes af den saakaldte Potatischolera.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>d. 12 October 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

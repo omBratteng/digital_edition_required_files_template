@@ -1,0 +1,86 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 18. mai 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p>	Gaarsdagen feiredes her aldeles som forrige Aar overeensstemmende <lb/>
+med underdanigst vedlagte Program og Udfaldet viiste atter, at de <lb/>
+Uordener og Ubehageligheder som i en Række af Aar have været uadskillelige <lb/>
+fra Dagen, ere ophørte med Oppositionen mod dens Feiring. Styrelsen  <lb/>
+har ved sin tidligere Opposition foranlediget og vedligeholdt <lb/>
+Feiringen, som nu har antaget en anden og bedre Character, siden hiin <lb/>
+har ophørt.</p>
+               <p>	Storthingets samtlige Medlemmer vare forsamlede til en Middag i <lb/>
+Hôtel du Nord, hvorved Skaaler for Deres Majestæter og det Kongl. <lb/>
+Huus udbragtes. Iøvrigt feiredes Gaarsdagen her omtrent som den 1ste <lb/>
+Mai aarlig feires i Stockholm. Ifølge Politiemesterens mundtlige  <lb/>
+Rapport har ingensomhelst Uorden funden Sted.</p>
+               <p>	Hendes Majestæt Dronningen og den Kongelige Familie have ogsaa <lb/>
+ved denne Leilighed modtaget umiskjendelige Beviis paa Almenhedens  <lb/>
+oprigtige Høiagtelse og varme Hengivenhed.</p>
+               <p>	Hendes Majestæt Dronningen og Deres Kongelige Høiheder havde den <lb/>
+Naade at skjænke mig nogle Eftermiddags Timer den 16de paa mit lille <lb/>
+Landsted Holgerslyst, som vil blive uforglemmelige for mig og mine.</p>
+               <p>	Mine Bestræbelser for Deres Majestæts naadige Anskuelser om <lb/>
+Toldsatserne for visse engelske Producter, har ikke været uden al <lb/>
+Virkning. Af vedkommende Comitées 7 Medlemmer ere 6 blevne enige om <lb/>
+at foreslaae Tolden for engelske Bomuldsvarer til 30 Skilling pr Pund, <lb/>
+hvorimod en Bonde, <hi rend="underline">hvis Stemme Intet betyder</hi>, ikke vil gaae lavere end <lb/>
+36 Skilling. Regjeringen har foreslaaet 25 Skilling, men ifølge  <lb/>
+Comiteens Indstilling vil dog en betydelig Nedsættelse opnaaes.</p>
+               <p>	Da Hendes Majestæt Dronningen desværre vil forlade os i Morgen, <lb/>
+agter jeg at give mig den Ære at geleide Hendes Majestæt til Grændsen <lb/>
+hvor for jeg venter at være her tilbage Onsdag den 21de. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de Mai 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

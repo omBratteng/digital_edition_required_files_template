@@ -1,0 +1,61 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 20. februar 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 5te denne Maaned, har jeg iværksat de deri underdanigst nævnte Besøg paa Fossum og Berg, hvorfra jeg kom hertilbage om Aftenen den 18de. –</p>
+               <p>	Hvor jeg færdedes, fandt jeg Spoer af de senere gode Aar, som Forsynet har forundt vort Land. Efterretningerne om de vigtige vest- og nordlandske Fiskerier ere hidindtil gunstige.</p>
+               <p>	Under min Fraværelse vides her Intet indtruffet, som fortjener Deres Majestæts naadige Opmærksomhed.</p>
+               <p>	Jeg tillader mig underdanigst at nævne, at min Søn Adam har betinget Passage for sig og Familie med et norsk Skib, som formodentlig vil seile i Løbet af April Maaned til Havre, hvorfra han agter at tiltræde den lange Reise med et fransk Paquetskib; Han vil saaledes gjennem Hs Excellence Udenrigsministeren underdanigst udbede sig Deres Majestæts naadige Instructioner og Befalinger. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 Februar 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

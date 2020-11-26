@@ -1,0 +1,77 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 13. januar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p>	Jeg har senere havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af samme Dato og det er kun Trangen til derfor at bevidne <lb/>
+min skyldige underdanige Taknemmelighed, som foranlediger mig til i <lb/>
+Dag at besvære Deres Majestæt med disse underdanige Linier, da jeg <lb/>
+for øvrigt Intet har at indberette.</p>
+               <p>	Vi have Gud skee Tak! en for den indre Rørelse gunstig, men <lb/>
+stræng Vinter. Allerede før Juul havde vi 16 Grader Reaumur Kulde, <lb/>
+med godt Slædeføre, som imidlertid forsvandt under Julefesten, men <lb/>
+som Vor Herre snart gjengav os og have vi i de sidste Dage atter <lb/>
+havt 16 à 18 Grader Kulde, som er mere end behagelig.</p>
+               <p>	Uagtet det gode Slædeføre foranlediger en rundelig Tilførsel <lb/>
+af Landproducter til Byerne, vedligeholdes dog enorme Priser for alle <lb/>
+Nødvendighedsartikler, hvilket trykker Alle og forvolder stor Nød <lb/>
+for den store Mængde, som ikke kan præstere Nutidens Priser. Vi havde <lb/>
+forrige Aar et godt Høeaar, men ikke desto mindre koster i Vinter <lb/>
+1 Skippund Høe paa Christiania Torv, som forrige Vinter kjøbtes for <lb/>
+8 à 9 Mark, nu indtil 4 Spdl. og alle andre Nødvendighedsartikler <lb/>
+ere stegne i Priis i samme Forhold.</p>
+               <p>	Dette er en svær europæisk Calamitet, som indgriber dybt i alle <lb/>
+offentlige og private Forholde og som kan have betænkelige Følger. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13de Januar 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

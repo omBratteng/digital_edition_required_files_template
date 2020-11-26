@@ -1,0 +1,98 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 16. februar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p>	I et den 13de afholdt overordentligt Statsraad indfandt en <lb/>
+Storthings Deputation, hvis Ordfører var Biskop v. d. Lippe, sig, for <lb/>
+at overbringe en underdanigst Adresse til Deres Majestæt, hvori <lb/>
+Storthinget bevidner sin Deeltagelse i de i den Kongelige Familie senest <lb/>
+indtrufne sørgelige og glædelige Begivenheder og fremfører sine <lb/>
+underdanige Ønsker for Deres Majestæt og det Kongelige Huus.</p>
+               <p>	Da denne Adresse, dateret den 11te, overbragtes den 13de, efter <lb/>
+Postens Afgang, troede jeg, med Hensyn paa dens Indhold, at burde <lb/>
+befordre den ved en Coureer, som afgik herfra den 13de om Aftenen.</p>
+               <p>	Den 12te modtog jeg Deres Majestæts naadige Skrivelse af 9de <lb/>
+og en Statsraads-Protocol af 8de, i hvis Følge jeg har indbuden et <lb/>
+Udvalg af Storthinget, bestaaende af 12 Thingmænd, til et fortroeligt <lb/>
+Møde hos mig i Morgen Aften. Det har ikke været muligt at beramme  <lb/>
+dette Møde tidligere, fordi jeg til Oversættelse af de mangfoldige  <lb/>
+Aktstykker kun tør bruge een Mand, nemlig Kammerherre Holst, som uagtet <lb/>
+al anvendt Fliid, først dermed kan blive færdig i Morgen Formiddag. <lb/>
+Den 13de meddeelte jeg Regjeringens Medlemmer hvad Deres Majestæt <lb/>
+har befalet, og medens jeg samme Dags Aften var beskjæftiget med at <lb/>
+ordne de mange Aktstykker, modtog jeg ved Coureer Deres Majestæts <lb/>
+naadige Skrivelse af 10de, som jeg pligtskyldigst vil tage til Følge.</p>
+               <p>	Jeg beklager, at Harbitz ved Sygdom forhindres fra at fungere <lb/>
+som Storthingets Præsident. Vice Præsidenten, Amtmand Aall, fungerer <lb/>
+i hans Sted og med ham har jeg idag havt en forberedende Samtale, for <lb/>
+det fortroelige Møde i Morgen Aften.</p>
+               <p>	I Statsraadet i Gaar havde vi Spørgsmaalet om Penge Bevilgning <lb/>
+til Udrustningerne under Behandling. Jeg var glad ved, at Deres Majestæt  <lb/>
+i naadig Skrivelse til mig af 9de har overladt til Regjeringen, at yttre  <lb/>
+sig alternativt om strax at begjære 500,000 Specier eller at begynde med  <lb/>
+300,000 Specier. Jeg stemmer for den mindre Sum, 1o fordi den forskrækker  <lb/>
+mindre end den større; 2o fordi her for de første 3 Maaneder ikke vil  <lb/>
+behøves mere; og 3o fordi den mindre Sum, m<hi rend="underline">en ikke den større</hi>, vil kunne  <lb/>
+tilveiebringes, uden at forvanske det møisommelig opgjorte Budget og uden <lb/>
+strax at inddrage Capitaler, som private Næringsveie ikke uden Savn <lb/>
+og Ødelæggelse kan undvære. Denne Mening vil i alle Fald vinde  <lb/>
+Pluralitet i Statsraadet den 18de og en hermed stemmende underdanigst <lb/>
+Indstilling afgaae med Posten den 20de.</p>
+               <p>	Om det til i Morgen Aften hos mig berammede fortroelige Møde <lb/>
+forbeholder jeg mig, at afgive min underdanige Indberetning snarest <lb/>
+mulig.</p>
+               <p>	Gud forlade de Souverainer og Statsmænd, som frækt afbryde den <lb/>
+Fred og det Velvære, som Forsynet havde forundt Europa! </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16de Februar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Holgerslyst 21. juni 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p>	I den Forudsætning, at Deres Majestæt forinden Ankomsten til <lb/>
+Norge, maatte ville naadigst skjænke Frederikshalds Bye den samme for <lb/>
+længere Tid tilbage tiltænkte nye Fane, tillader jeg mig underdanigst <lb/>
+at tilbagekalde denne Gjenstand i naadigst Erindring og derom at <lb/>
+referere til min underdanigste Rapport af 1ste Juli 1847.</p>
+               <p>	De Anskuelser om Epidemiens Ikke Smitte, som General Sundheds <lb/>
+Collegiet i London søger at gjøre gjeldende og som vor Controlcomitté har <lb/>
+adopteret, forundrer mig meest hos et Folk, der i alle andre Begivenheder <lb/>
+er saa praktisk som Englænderne. Ikke nok med, at benævnte engelske <lb/>
+Sundheds Collegium har foreslaaet alle Quarantaine Foranstaltninger <lb/>
+ophævede det tænker endog <hi rend="underline">alvorlig</hi>  paa, at foreslaae, at enhver Skipper <lb/>
+skal gjøres ansvarlig for Sundheds Tilstanden ombord i hans Skib, <lb/>
+enhver Commune Bestyrelse ansvarlig for Sundheds Tilstanden i Communen, <lb/>
+saaledes at i Tilfælde af en udbrydende Epidemie skal Skipperen eller <lb/>
+Communen bære Omkostningerne og bøde (plikte) fra den Synspunct, at <lb/>
+Epidemien <hi rend="underline">Ene</hi>  er en Følge af manglende sanitaire Forholdsregler, især <lb/>
+af Reenlighed. Det kan man kalde fixe Ideer og Radicalismus! hvorimod <lb/>
+den prosaiske Erfaring Intet maa betyde.</p>
+               <p>	Vort demokratiske Selskabs nylig i Morgenbladet publicerede Program <lb/>
+lyder 1o  Almindelig Værnpligt, 2o  Ligeligere Beskatning, hvormed <lb/>
+menes ingen Indførselstold paa de Artikler, som Proletairerne behøve,  <lb/>
+3o  almindelig Stemmeret, 4o  Jury Institution 5o  Politiske <lb/>
+Folkeskrifters Udbredelse. Hvo som ikke ubetinget erkjender disse  <lb/>
+Troesartiklers saliggjørende Rigtighed, erklæres for en Dumrian eller en slet <lb/>
+Patriot. Programmet forundrede mig mindre end (sous le sceaux du secret) <lb/>
+at jeg nylig hørte det ivrig forsvaret af en geistlig Statsraad.</p>
+               <p>	Luften er destoværre fremdeles saa kold, at jeg jevnlig maa lægge <lb/>
+i Kakkelovnen.</p>
+               <p>	Med fuld Overbeviisning om Sandheden af Alt hvad min lærde Landsmand, <lb/>
+Justitiarius Berg, i underdanigst vedlagte Brev har anført om den <lb/>
+berømte danske Lærde Historiker, Conferentsraad Werlauff, troer jeg mig <lb/>
+forpligtet til underdanigst at anbefale denne værdige Veteran til at <lb/>
+vorde naadigst udnævnt til Ridder af St Olafs Ordenen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 21de Juni 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

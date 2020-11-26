@@ -1,0 +1,82 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 18. mars 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 16de dennes, er her <lb/>
+Intet indtruffet, som fortjener Deres Kongelige Majestæts naadige <lb/>
+Opmærksomhed.</p>
+               <p>	Alle Sinde ere optagne af vort store Tab, men derhos ogsaa af <lb/>
+den Erstatning, som det Algode Forsyn har skjænket os i Deres Kongelige <lb/>
+Majestæt.</p>
+               <p>	Den Høisalige Konge var oprigtig og hjertelig elsket af Sit <lb/>
+norske Folk og derfor begrædes Hans Bortgang oprigtig, ikke allene <lb/>
+af dem, der havde den Lykke at staae i nærmere Forholde til den <lb/>
+Høistsalige og af de Mangfoldige, hvis pecuniaire Velgjører Han var; <lb/>
+men i Sandhed af det ganske Klippefolk. Deres Kongelige Majestæt <lb/>
+arver denne Folkets Kjærlighed og vil vide at vedligeholde den. Dertil <lb/>
+nedbeder jeg den Almægtiges Velsignelse. Stemningen er her venlig <lb/>
+og kjærlig for Deres Majestæt og Folkets Forventninger ere ikke <lb/>
+saa overdrevne, som vore Dages umættelige Avisskriveres.</p>
+               <p>	Den Kongelige Beslutning om den forandrede Titulatur i norske <lb/>
+Documenter, har gjort en særdeles god Effect, og jeg holder mig overbeviist <lb/>
+om, at enhver lignende Anerkjendelse af billige Ønsker vil <lb/>
+vinde trofaste Normænd, for Deres Majestæt, for Broderfolket, for <lb/>
+Foreningen.</p>
+               <p>	Ved Dagsposten indstiller Den Norske Regjering underdanigst, at <lb/>
+det naadigst maa bestemmes, at fra 8de Marts dette Aar og indtil  <lb/>
+Storthinget har fattet Beslutning angaaende den Norske Statscasses Bidrag <lb/>
+til Hofholdningen, blive de til saadant Øiemed hidtil bevilgede 96,000 <lb/>
+Spd. aarlig at stille som en samlet Sum til Deres Majestæts Disposition <lb/>
+og i Overensstemmelse hermed af Statscassen at udrede.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de Marts 1844.</date>
+                  </dateline>
+                  <lb/>
+Til 
+Hans Majestæt Kongen
+<salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

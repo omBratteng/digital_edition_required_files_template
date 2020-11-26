@@ -1,0 +1,121 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 16. februar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p>	Jeg vilde ikke i Dag have besværet Deres Majestæt med disse <lb/>
+underdanige Linier, ifald jeg ikke kort før Postens Afgang havde modtaget <lb/>
+vedlagte Copie af en Skrivelse fra Hertugen af Nemours og Prindsen <lb/>
+af Joinville, som fra et anseet Handelshuus i London, (formeentlig <lb/>
+DHrr Coutts &amp; Co) er bleven tilstillet nogle af vore første Handlende <lb/>
+hersteds. Som jeg erfarer, vil en Copie af dette Brev med Dagsposten <lb/>
+blive tilstillet den i Stockholm værende franske Légation, uden <lb/>
+at jeg dog tør indestaae for Documentets Ægthed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16 Februar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg">
+                  <supplied resp="editor">Tillegg til rapport av 16. februar 1852</supplied>
+               </head>
+               <opener>A Messieurs les Exécuteurs testamentaires du Roi Louis-Philippe. <lb/>
+    			(La lettre est Lithographiée) <lb/>
+                  <dateline>
+                     <placeName>Claremont</placeName>, <date>le 29 Janvier 1852</date>.</dateline>
+               </opener>
+               <p>	Messieurs, Nous avons reçu la protestation que vous avez rédigée <lb/>
+contre les décrets de confiscation rendus contre nous et nous <lb/>
+vous remercions bien sincèrement de vos efforts pour résister à <lb/>
+l'injustice et à la violence.</p>
+               <p>	Nous avons trouvé tout simple que vous vous soyez occupés <lb/>
+spécialement de la question de droit sans faire ressortir ce que les <lb/>
+considérans de ces décrets ont d'injurieux pour la mémoire du Roi notre <lb/>
+père.</p>
+               <p>	Un moment nous avons songé à sortir de la réserve que l'exil <lb/>
+nous impose et à repousser nous-mêmes les attaques si indignement  <lb/>
+dirigées contre le meilleur des pères et nous ne craignons pas d'ajouter <lb/>
+contre le meilleur des Rois.</p>
+               <p>	Mais en y pensant plus mûrement, il nous a paru qu'à de semblables <lb/>
+imputations, le silence du dédain était la meilleure réponse.</p>
+               <p>	Nous ne nous abaisserons donc pas à relever ce que ces calomnies <lb/>
+ont de particulièrement odieux à être reproduites par celui qui a pu <lb/>
+deux fois apprécier la magnanimité du Roi Louis Philippe et dont la <lb/>
+famille n'a jamais reçu de lui que des bienfaits. <lb/>
+Nous laissons à l'opinion publique le soin de faire justice des <lb/>
+paroles aussi bien que de l'acte qu'elles accompagnent, et si nous en <lb/>
+croyons les témoignages de sympathie que nous recevons de toutes parts, <lb/>
+nous sommes bien suffisamment vengés.</p>
+               <p>	Pour l'honneur d'un pays à qui le Roi notre pére a donné dixhuit <lb/>
+années de paix, de prospérité et de dignité, d'un pays que nous, ses <lb/>
+fils, avons loyalement servi, pour l'honneur de cette France qui est <lb/>
+toujours la patrie que nous aimons, nous sommes heureux de constater <lb/>
+que ces honteux décrets et leurs considérans, plus honteux encore, n'ont <lb/>
+osé se produire que sous le régime de l'état de siège et après la <lb/>
+suppression de toutes les garanties protectrices des libertés de la <lb/>
+nation.</p>
+               <p>	Nous vous prions en finissant, Messieurs, d'exprimer notre vive <lb/>
+reconnaissance aux hommes éminens de tous les partis qui sont venus <lb/>
+vous offrir le concours de leur talent et de leur courage. Nous acceptons <lb/>
+ce concours de grand coeur, persuadés qu'en défendant aujourd'hui <lb/>
+notre course ils défendent les droits de la société française toute <lb/>
+entiere.</p>
+               <p>	Recevez, Messieurs, l'assurance de nos sentimens affectueux pour <lb/>
+vous.</p>
+               <closer>
+                  <signed>
+                     <persName>Louis d'Orléans</persName>	} <lb/>
+    							(Duc de Nemours)	}  <lb/>
+    										  Fac simile <lb/>
+                     <persName>F. d'Orléans</persName>	} <lb/>
+    						  (Prince de Joinville)	}</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

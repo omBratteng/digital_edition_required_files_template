@@ -1,0 +1,63 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 11. desember 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanige Rapport var af 4de denne Maaned.</p>
+               <p>	Jeg har idag Intet at indberette, som fortjener Deres Majestæts naadige Opmærksomhed; men jeg har en kjær Pligt at opfylde, ved at nedlægge min underdanigste Taknemmelighed for Deres Majestæts naadige Skrivelse af 3die denne Maaned, for det deri naadigst meddeelte Beviis paa Deres Majestæters Naade mod min Svigerdatter Fanny, for de særdeles naadige Udtryk, hvormed Deres Majestæt i denne Anledning har havt den Naade at beære mig. Jeg beder mig naadigst tilladt at meddele hende disse naadige Udtryk, fordi de give den naadige Udnævnelse den samme Relief, som en Juvel-Indfatning giver et dyrebart Portrait.</p>
+               <p>	Jeg kjender min Svigerdatters fra fælles Fædreneland nedarvede i det nye bestyrkede varme Hengivenhed for Hendes Majestæt Dronningen, og jeg tør derhos tiltroe hende Evner til at vise sig den høie Naade værdig, hvormed Deres Majestæter naadigst have behaget at beære hende. For saa vidt jeg i denne for min Familie smigrende Udnævnelse ogsaa tør see et Beviis paa Kongelig Naade mod mig, beder jeg Deres Majestæter derfor naadigst at modtage min underdanigste hjertelige Taksigelse.</p>
+               <p>	Deres Majestæts Besøg i Fredrikstad paaskyndte den gamle hæderlige, men ved Alderdom sløvede Oberstlieutenant Nissens Afskeed af Tjenesten, og at hans Chefspost kan blive besat med en vel qualificeret yngre Mand, hvortil Major Michelet af Commandoen og Regjeringen underdanigst vil blive indstillet, hvilket jeg tør haabe vil vinde Deres Majestæts naadige Bifald.</p>
+               <p>	Vore Dage ere mørke. Vi leve i en vedvarende Taage ("Dimma"). Vi have ikke Vinter, men endnu mindre Sommer.</p>
+               <p>	Jeg lever i et dagligt saa at sige permanent Statsraad om hvilket jeg ikke engang kan sige: "toujours perdrix". <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te December 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

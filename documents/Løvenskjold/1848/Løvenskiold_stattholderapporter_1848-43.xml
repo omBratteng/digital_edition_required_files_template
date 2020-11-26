@@ -1,0 +1,81 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 9. november 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p>	Efterat jeg havde meddeelt Ritmester Sylow Deres Majestæts <lb/>
+Betænkeligheder mod Opfyldelsen af hans fremførte Ønsker ved hans <lb/>
+Indtrædelse i Statsraadet og Deres Majestæts naadige Tilsagn om en anden <lb/>
+passende Ansættelse i Tilfælde af hans Afgang derfra, har han frafaldt <lb/>
+enhver Betingelse og erklæret sig villig til med underdanigst  <lb/>
+Taknemmelighed at modtage Deres Majestæts naadige Udnævnelse, som saaledes <lb/>
+kan iværksættes efter Deres Majestæts naadige Forgodtbefindende.</p>
+               <p>	Statsraad Erichsen, som kom til Byen i Gaar, agter jeg at introducere <lb/>
+i Statsraadet i Morgen.</p>
+               <p>	Statssecretair Schouboe har bedet mig fremføre hans underdanigste <lb/>
+og hjerteligste Taknemmelighed for Deres Majestæts naadige Skrivelse <lb/>
+og Tilsagn.</p>
+               <p>	Med Dags Posten tilsender jeg Statsminister Due de begjærte <lb/>
+Oplysninger for Expeditionen af de af Deres Majestæts naadigst befalede  <lb/>
+Ordens Diplomer.</p>
+               <p>	General Wedel har viist mig Deres Majestæts naadige og særdeles <lb/>
+vakkre Skrivelse, som har givet ham en stor Glæde, den jeg oprigtig deler. <lb/>
+En Kongelig Skrivelse som denne vilde have samme Værd som en Orden, <lb/>
+om den hos os, som i Rusland, kom til offentlig Kundskab.</p>
+               <p>	Jeg havde den Ære at feire Hendes Majestæts Enke-Dronningens <lb/>
+Fødselsdag afvigte Nat ved en Bal. Ved denne gode Leilighed var den gamle <lb/>
+Stiftsgaards ydre Side første Gang i dens Liv oplyst af en Mængde  <lb/>
+Gasblus, som formørkede Maanens Skin og tiltrak sig en Mængde Tilskuere. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de November 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

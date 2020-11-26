@@ -1,0 +1,167 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 9. august 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 2de denne Maaned.</p>
+               <p>	Med Dagens Post afgaaer Regjeringens underdanigste Indberetning om <lb/>
+Kongsbergs Sølvværks Bestyrelse og Udbytte Aar 1843. Heraf vil naadigst <lb/>
+erfares: at Sølvværket i benævnte Aar har produceret 17,322 Mark gediegent <lb/>
+Sølv, at fra Hytten, inclusive Beholdning fra forrige Aar, er <lb/>
+leveret 20,456 Mark, som solgt for . . . . . . . . . . . 		  186,920 Spd. <lb/>
+at Sølvværket af Statscassen har oppebaaret 89,411 Spd <lb/>
+hvoraf vedkommer det gamle Værks Pensioner  3,105 Spd  <hi rend="underline"> 86,261 Spd.</hi>
+               </p>
+               <p>					Netto Revenue	  100,659 Spd. <lb/>
+At Sølvværkets Krudtmølle har afgivet			  5,665 Spd. <lb/>
+Dets Forstvæsen . . . . . . . . . . . . . . . . . . . . .		  <hi rend="underline"> 2,267 Spd.</hi>
+                  <lb/>
+Sølvværket med underliggende Etablissements <lb/>
+har saaledes 1843 givet reen Revenue . . . . . . . . . . 	  108,591 Spd. <lb/>
+(434,400 Rigsdaler Rigsgjeld:) som bør paaskjønnes som en Guds Gave <lb/>
+til den norske Stat. Ved Opgravning af den gamle Smeltehyttes Fundament <lb/>
+er desuden funden Sølv for over 6,000 Spd. –</p>
+               <p>	Med Dagens Post afgaaer Regjeringens underdanigste Indberetning om <lb/>
+        Kongsbergs Sølvværks Bestyrelse og Udbytte Aar 1843. Heraf vil naadigst <lb/>
+        erfares: <lb/>
+                  <table rend="noBorder">
+                     <row>
+                        <cell>at Sølvværket i benævnte Aar har produceret 17,322 Mark gediegent <lb/>Sølv, at fra Hytten, inclusive Beholdning fra forrige Aar, er <lb/>leveret 20,456 Mark,</cell>
+                        <cell/>
+                        <cell/>
+                     </row>
+                     <row>
+                        <cell>som solgt for . . . . . . . . . . .</cell>
+                        <cell/>
+                        <cell>186,920 Spd.</cell>
+                     </row>
+                     <row>
+                        <cell>at Sølvværket af Statscassen har oppebaaret</cell>
+                        <cell> 89,411 Spd</cell>
+                        <cell/>
+                     </row>
+                     <row>
+                        <cell>hvoraf vedkommer det gamle Værks Pensioner</cell>
+                        <cell> 3,105 Spd</cell>
+                        <cell>
+                           <hi rend="underline"> 86,261 Spd.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>					Netto Revenue</cell>
+                        <cell/>
+                        <cell> 100,659 Spd.</cell>
+                     </row>
+                     <row>
+                        <cell>At Sølvværkets Krudtmølle har afgivet</cell>
+                        <cell/>
+                        <cell> 5,665 Spd.</cell>
+                     </row>
+                     <row>
+                        <cell>Dets Forstvæsen . . . . . . . . . . . . . . . . . . . . .</cell>
+                        <cell/>
+                        <cell>
+                           <hi rend="underline"> 2,267 Spd.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Sølvværket med underliggende Etablissements <lb/>har saaledes 1843 givet reen Revenue . . . . . . . . . .</cell>
+                        <cell/>
+                        <cell> 108,591 Spd.</cell>
+                     </row>
+                  </table>
+        (434,400 Rigsdaler Rigsgjeld:) som bør paaskjønnes som en Guds Gave <lb/>
+        til den norske Stat. Ved Opgravning af den gamle Smeltehyttes Fundament <lb/>
+        er desuden funden Sølv for over 6,000 Spd. –</p>
+               <p>	Sidste Stokholms Post bragte mig de af Deres Majestæt naadigst <lb/>
+approberede Tegninger til det nye Unionsflag og Unionsvaaben, og det <lb/>
+er en Trang for mit Hjerte, at gjentage min underdanigste Taksigelse <lb/>
+for disse vakkre Kongelige Gaver. Det er nu en Række af Aar siden <lb/>
+Høistsalig Kongen bifaldt dette, af Salig Hans Exelence Grev Wetterstedt <lb/>
+og mig projecterede, Unionsvaaben. Han levnede Deres Majestæt <lb/>
+den vakkre Arv at realisere det, og derfor være han og Deres Majestæt <lb/>
+priset og takket.</p>
+               <p>	Medens Glæden og Taknemmeligheden over Unionsflagget og Vaabenet <lb/>
+er almindelig og national, har en liden Omstændighed krænket den <lb/>
+ømme norske Nationalfølelse, hvorpaa jeg anseer det for min Skyldighed <lb/>
+underdanigst at henlede Deres Majestæts naadigste Opmærksomhed.</p>
+               <p>	Under 22de Juni dette Aar har Deres Majestæt naadigst resolveret: <lb/>
+"At det paa Officierernes Pompons nuhavende Kongelige Navneziffer skal <lb/>
+ombyttes med det bestemte nye Kongelige Navneziffer etc." – I denne <lb/>
+Resolution er Intet bestemt om Pomponens Farver, men i en medfulgt <lb/>
+Tegning og Model befindes den af Høistsalig Kongen for Pomponen bestemte <lb/>
+norske røde Nationalfarve ombyttet mod den svenske blaa Farve. Det  <lb/>
+er denne Forandring som har opvakt norsk Bekymring.</p>
+               <p>	Jeg holder mig overbeviist om at Deres Majestæts naadigste Hensigt <lb/>
+med høistbemeldte Resolution kun har været at ville forandre det <lb/>
+Kongelige Navneziffer, at det har lagt uden for Deres Majestæts Hensigt <lb/>
+at forandre Pomponens Farve fra norsk til svensk, og at den afgivne <lb/>
+Approbation til saadan Forandring er foranlediget ved en mindre nøiagtig <lb/>
+Foredragning eller Expedition; thi jeg kan umulig antage, at Deres <lb/>
+Majestæt, som nylig har saa meget glædet det norske Folk, ved <lb/>
+at forandre dets Unionsflags Farver fra svenske til norske, skulde have <lb/>
+en modsat Anskuelse om en mindre betydende Gjenstand. Armeens  <lb/>
+Høistbefalende deler denne Anskuelse, men har anseet det mindre passende i <lb/>
+sin militaire Stilling at remonstrere mod en in optima forma expederet <lb/>
+Ordre. Jeg derimod anseer det i den Stilling, som Deres Majestæt har <lb/>
+havt den Naade at anbetroe mig, for min Pligt, underdanigst at henlede <lb/>
+Deres Majestæts naadige Opmærksomhed paa Alt, som jeg formener stemmende <lb/>
+med Deres Majestæts og Rigets Tarv, og tillader mig saaledes <lb/>
+underdanigst at indstille: at Deres Majestæt naadigst vil indhente den <lb/>
+høistbefalende Generals Erklæring om Gjenstanden, og derefter afgive <lb/>
+den naadigste Resolution, hvortil denne maatte give Anledning. –</p>
+               <p>	Veiret vedbliver under Sommerens Løb at være høist ubehageligt <lb/>
+og den rige Grøde, som pryder Ager og Eng, lider under en overflødig,  <lb/>
+næsten daglig, Regn. – <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de August 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

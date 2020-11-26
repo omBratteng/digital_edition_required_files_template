@@ -1,0 +1,69 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 10. november 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p>	Til Følge Deres Majestæts naadige Befaling ved Greve Lewenhaupt <lb/>
+har jeg anmodet Politiemesteren, Kammerherre Morgenstjerne om under <lb/>
+Haanden at undersøge hvorvidt det i Tidningen "den Radicale" anførte <lb/>
+Rygte om Markus Thranes Besøg i Carlstad maatte være grundet. Jeg <lb/>
+har endnu ikke modtaget Rapport herom, men tillader mig foreløbig  <lb/>
+underdanigst at yttre, at jeg anseer Rygtet ugrundet, fordi Thrane har <lb/>
+tilstrækkelig Terrain for sin Virksomhed her og neppe vil vove sig <lb/>
+ud paa noget fremmed.</p>
+               <p>	Han havde i Gaar indbuden til Subscription-Middag à 30 Skilling <lb/>
+pr Couvert, for at høitideligholde Robert Blums Dødsdag, uden at det <lb/>
+endnu er mig bekjendt, hvilken Fremgang Indbydelsen har havt.</p>
+               <p>	Efter underdanigst vedlagte Rapporters Udvisende ere i de sidste <lb/>
+forløbne 3de Døgn, 12 Angrebne, 4 Døde, 5 Helbredede af Cholera. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <persName>Christiania</persName>
+                     <date>den 10de November 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>Løvenskiold</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

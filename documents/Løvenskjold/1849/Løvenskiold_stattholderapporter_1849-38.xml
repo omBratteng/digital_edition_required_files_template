@@ -1,0 +1,105 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 9. desember 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden min sidste underdanigste Rapport af 23die forrige Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+29de November, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p>	De naadigst givne politiske Meddelelser havde for mig en stor <lb/>
+Interesse. De europæiske Anliggender ere geraadede i en ulykkelig  <lb/>
+Confussion, som ved ukloge Forholdsregler daglig forøges. De nu i de  <lb/>
+største tydske Stater styrende Statsmænd synes at mangle Evner til at  <lb/>
+hæve Confussionen, – de forøge den Tvertimod ved ukloge Forholdsregler, <lb/>
+som jeg befrygter vil foranledige store Ulykker og mange Lidelser.</p>
+               <p>	I vort Statsraad igaar behandledes blandt Andet Gjenbesættelsen <lb/>
+af de 2de vacante Corpschefs-Poster i Cavallerie-Brigaden, hvortil <lb/>
+Commandoen og Armee Departementet har indstillet Brigadens 2de Majorer <lb/>
+Schjellerup og Seyersted, som er tiltraadt af Regjeringens Medlemmer, <lb/>
+med Undtagelse af Statsraad Vogt og mig, som have stemt for Capitaine <lb/>
+Vagtmesteren ved Agershuus Fæstning, Oberstlieutenant Glad. Jeg har <lb/>
+i denne Begivenhed været i megen Tvivl om, hvad der er det Rette og <lb/>
+det er først efter at have consuleret Mænd af Faget, at jeg har givet <lb/>
+Glad min Stemme. Det er af dobbelt Vigtighed, at Chefsposten for det <lb/>
+agershusiske ridende Jægercorps besættes med en særdeles dygtig Mand, <lb/>
+efterat denne Post i en Række af Aar har været beklædt af en Mand, <lb/>
+som selv ikke hyldede militair Disciplin og Aand og end mindre vilde <lb/>
+give sine Underordnede disse nødvendige Egenskaber. I denne Post maa <lb/>
+man ønske en Mand med de fornødne Egenskaber for en tilkommende Commandant <lb/>
+for Agershuus Fæstning og Chef for Cavallerie Brigaden, Egenskaber, <lb/>
+som Glad formeentlig har i høiere Grad end nogen af de Indstillede. Hertil <lb/>
+kommer, at Glad i en Række af Aar har tjent i Cavallerie Brigaden <lb/>
+og derunder har været anseet for en udmærket Esquadronschef og jeg <lb/>
+kjender ingen gyldig Grund for at udelukke en Fæstnings Officier fra <lb/>
+en militair Befordring, hvortil han utvivlsom maa ansees særdeles dygtig. <lb/>
+Disse Grunde for min Stemmegivning undergives Deres Majestæts naadige og <lb/>
+sagkyndige Bedømmelse.</p>
+               <p>	Ved denne Leilighed vil jeg tillade mig underdanigst at berøre en <lb/>
+anden militair Gjenstand, uagtet disse ikke henhøre til min Ressort, <lb/>
+undtagen forsaavidt at Deres Majestæt naadigst har tilladt mig dertil at <lb/>
+henregne Alt hvad der kan ansees gavnlig for Deres Majestæts Tjeneste.</p>
+               <p>	Fra denne Synspunkt vover jeg underdanigst at foreslaae Deres <lb/>
+Majestæts 2de vacante Adjutants Poster naadigst tildeelte Artillerie <lb/>
+Capitain Storm-Wergeland og Ingenieur Lieutenant G. Ræder, som vilde <lb/>
+paaskiønnes som en Kongl. Anerkjendelse af disse yngre Officierers  <lb/>
+udmærkede Talenter.</p>
+               <p>	Vi savne her fremdeles Snee og behagelig og gavnlig Vinter. Det lange <lb/>
+Døgns Mørke afbrydes kun ved nogle Timers mindre Mørke. Bjørnen, som <lb/>
+sover i denne Aarets lange ubehagelige Tid, er den klogeste og lykkeligste <lb/>
+Normand.</p>
+               <p>	En af vore for sit Talent vel bekjendte Malere Eckersberg, har viist <lb/>
+mig et vakkert Malerie af Moe-Fossen, som han har forfærdiget efter Grev <lb/>
+Ehrensvärds Bestilling, som er et tro Portrait af Naturen. Beklagelig har <lb/>
+dog Vandmassen været noget mindre end da Deres Majestæt saae Fossen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de December 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

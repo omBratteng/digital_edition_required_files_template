@@ -1,0 +1,68 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <editor>Mette Ekker</editor>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="rapport">
+            <head>
+               <supplied resp="editor">Christiania 28. september 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub">Underdanigst Rapport!</head>
+               <p>	Siden Deres Majestæts Afreise har Veiret begunstiget Indhøstningen <lb/>
+og dersom man i saa Henseende tør regne paa nogen Varighed, er det <lb/>
+antageligt, at Aaret vil blive at henregne blandt de bedre. I det Hele <lb/>
+tegner ogsaa Potetes Avlen sig godt, og den saakaldte Potetes Sygdom <lb/>
+har, efter hvad der hidtil er oplyst, kun viist sig paa enkelte Steder <lb/>
+og ikke i betydelig Grad.</p>
+               <p>	Det har vakt almindelig Glæde at erfare, at Deres Majestæters <lb/>
+Reise fremdeles som den første Dag har været heldig og favoriseret af <lb/>
+Veiret, som ogsaa, at Deres Majestæter og Deres Kongelige Høiheder <lb/>
+have befundet sig vel, og det er et almindeligt Ønske, at den øvrige <lb/>
+Deel af Reisen maa fuldføres ligesaa lykkelig, hvorom man med Længsel <lb/>
+imødeseer Efterretninger. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 September 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>N.J.Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
