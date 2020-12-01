@@ -3,9 +3,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Løvenskiold_stattholderrapporter_1844-1856</title>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
             <editor>Mette Ekker</editor>
-            <author/>
+            <author>Severin Løvenskiold</author>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -32,7 +32,7 @@
       <body>
          <div type="rapport">
             <head>
-               <supplied resp="editor">Christiania 24. april 1876</supplied>
+               <supplied resp="editor">Christiania 24. april 1846</supplied>
             </head>
             <div type="hoveddel">
                <head type="sub">Underdanigst Rapport!</head>

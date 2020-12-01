@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Løvenskiold</title>
-                <author>Odd Arvid Storsveen ??</author>
+                <author>Odd Arvid Storsveen</author>
             </titleStmt>
             <editionStmt>
                 <edition>
@@ -32,7 +32,6 @@
         <body>
             <div type="div1" rend="P4">
                 <head>Hermelinspels eller kattemusikk?</head>
-                <div type="div2">
                     <head>Severin Løvenskiolds stattholderskap</head>
 
                     <div type="div2">
@@ -420,6 +419,7 @@
                                     lenge som mulig. </p>
 
                             </div>
+                    </div>
                         
                         <div type="div2">
                             <head>Severin Løvenskiold – en kort biografi</head>
@@ -1056,7 +1056,6 @@
                                     europeisk politikk. </p>
                             </div>
                         </div>
-                    </div>
 
                     <div type="div2">
                         <head>Trekk av det politiske liv 1841-1856</head>
@@ -1301,7 +1300,7 @@
                             </p>
 
                         </div>
-                        <div type="div2">
+                        <div type="div3">
                             <head>Forholdet til statsrådene</head>
 
 
@@ -1655,7 +1654,7 @@
 
 
                         </div>
-                        <div type="div2">
+                        <div type="div3">
                             <head>Storting og opposisjon</head>
 
 
@@ -2054,7 +2053,7 @@
 
 
                         </div>
-                        <div type="div2">
+                        <div type="div3">
                             <head>En person ved navn Thrane</head>
 
 
@@ -2444,7 +2443,7 @@
                                 </note> Slik ble Hattematerkrigen på Ringerike utløst, og for Thrane
                                 og Abildgaard begynte fire lange år i varetekt.</p>
                         </div>
-                        <div type="div2">
+                        <div type="div3">
                             <head>Samer og jøder</head>
 
 
@@ -2704,7 +2703,7 @@
                                 tiden ikke bare kunne påvirke beslutninger i Stortinget. Det kunne
                                 faktisk også påvirke en konservativ regjering. </p>
                         </div>
-                        <div type="div2">
+                        <div type="div3">
                             <head>Union og skandinavisme</head>
 
 
@@ -2974,7 +2973,7 @@
                                 </note>
                             </p>
                         </div>
-                        <div type="div2">
+                        <div type="div3">
                             <head>Krimkrigen og Novembertraktaten</head>
 
 
@@ -3418,13 +3417,12 @@
                                 rett.</p>
 
 
-                            <p>Odd Arvid Storsveen </p>
+                            <p>Odd Arvid Storsveen, 11.11.2005 </p>
                             <pb/>
                         </div>
                     </div>
-                </div>
                 <div type="div2" rend="P3">
-                    <head>APPENDIX</head>
+                    <head>APPENDIX</head><note resp="editor">Det har i ettertid vist seg at Storsveen hadde tilgang til en ikke komplett kopi av Løvenskiolds rapporter da han skrev sin innledning i 2005. Det er ikke sammenhengende lakune i periodene april–juli 1847 eller mai–juli 1850 slik det framgår av denne oversikten. (Red. anm.)</note>
                     <head>Opplysninger om stattholderens rapporter</head>
 
                     <list>
@@ -3437,22 +3435,22 @@
                         <item><label> september</label> Oscar I i Norge, ingen rapporter</item>
                         <item><label>1846 juli</label> Løvenskiold på Fossum. Rapporter mangler</item>
                         <item><label> september-oktober</label> Oscar I i Norge, ingen rapporter</item>
-                        <item><label>1847 april-juli</label> <hi rend="underline">Rapporter mangler ???</hi>
+                        <item><label>1847 april-juli</label> <hi rend="underline">Rapporter mangler?</hi>
                         </item>
                         <item><label> august-september</label> Oscar I i Norge, ingen rapporter</item>
                         <item><label>1848 juni-september</label> Løvenskiold i Malmö og Danmark. Rapporter mangler
-                                <hi rend="underline">(men fra Vogt ??+)</hi>
+                                <hi rend="underline">(men fra Vogt?)</hi>
                         </item>
                         <item><label>1849 juli-september</label> Oscar I i Norge, ingen rapporter</item>
                         <item><label> september-oktober</label> Løvenskiold på Fossum, rapport fra Krog</item>
-                        <item><label>1850 mai-juli</label> <hi rend="underline">Rapporter mangler ???</hi>
+                        <item><label>1850 mai-juli</label> <hi rend="underline">Rapporter mangler?</hi>
                         </item>
                         <item><label> juli-september</label> Oscar I i Norge, ingen rapporter</item>
                         <item><label>1851 februar-mars</label> Oscar I i Norge, ingen rapporter</item>
                         <item> <label>juni</label> Løvenskiold på Fossum, rapporter fra Vogt</item>
                         <item><label>1852 juli-august</label> Oscar I på utenlandsreise, ingen rapporter</item>
                         <item><label> september-oktober</label> Oscar I i Norge, ingen rapporter</item>
-                        <item><label>1853 16. januar </label><hi rend="underline">Rapport mangler ???</hi>
+                        <item><label>1853 16. januar </label><hi rend="underline">Rapport mangler?</hi>
                         </item>
                         <item><label> juni-august</label> Løvenskiold på kurreise og på Fossum, rapporter fra
                             Krog</item>
@@ -3463,6 +3461,7 @@
 
                     </list>
                 </div>
+            
             </div>
         </body>
     </text>
