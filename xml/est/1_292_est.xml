@@ -1,0 +1,119 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>292</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. mai 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 27de har jeg havt den <lb/>
+Ære at modtage Deres Majestæts naadige Skrivelse af 20de forrige <lb/>
+Maaned.</p>
+               <p xml:id="p2">	Hr Stabells Bestræbelser for at opvække Storthingets Fortrydelse <lb/>
+over Deres Majestæts Resolution om dets Prolongation, ere aldeles <lb/>
+feilslaaede og have kun bevirket hans eget Nederlag. Efterat man, som <lb/>
+jeg i min sidste underdanigste Rapport antydede, havde overbeviist sig <lb/>
+om, at Statsraadets Protocol ikke kunde give Anledning til Rigsret, <lb/>
+forsøgte Stabell at tilfredsstille sin Harme ved at foreslaae en Adresse <lb/>
+til Deres Majestæt, hvori han yttrede, at der laae en "dyb politisk <lb/>
+Betydning"; – men ogsaa denne blev forkastet og Storthinget som gjør <lb/>
+en Dyd af Nødvendighed, finder sig med christelig Taalmodighed i Deres <lb/>
+Majestæts grundlovmæssige Resolution, der bifaldes af alle fornuftige <lb/>
+Mennesker i <hi rend="underline">og udenfor</hi>  Storthinget.</p>
+               <p xml:id="p3">	Heldigere var Stabell ej<hi rend="underline">med vedkommende Comitées Indstilling</hi>, at <lb/>
+foranledige Odelsthinget til at decretere Statsraad Petersen til Ansvar <lb/>
+for 2,170 Speciedaler, som han "som Justits Departementets Chef i <lb/>
+Marts Maaned 1847, havde indstillet til Udbetaling af Statscassen, for <lb/>
+et nyt Inventarium for Høiesterets nye Locale.</p>
+               <p xml:id="p4">	Da ved Rettens Flytning fra dens gamle til dens nye Locale det <lb/>
+gamle Inventarium af Stole, af Borde m.m. som daterede fra 1814, befandtes <lb/>
+aldeles forslidt og ubrugbart, – lod Retten ved sine 2de Assessorer <lb/>
+Smitt og Hjelm anskaffe et nyt Inventarium for 2,170 Speciedaler <lb/>
+som Retten, efterat Inventariet var anskaffet, i Skrivelse til Justits <lb/>
+Departementet erklærede "nødvendigt, passende og hensigtsmæssigt", en <lb/>
+Anskuelse, som Statsraad Petersen og jeg, efterat have taget Inventariet <lb/>
+i Øiesyn, maatte deele. Anskaffelse og Udgift var af Høiesteret  <lb/>
+foranstaltet uden Justits Departementets Vidende og Betaling kunde ikke <lb/>
+nægtes uden at prostituere Retten, hvorom Regjeringen gjorde underdanigst <lb/>
+Indstilling, som af Deres Majestæt blev naadigst bifaldt. Beklageligt <lb/>
+er det, at Assessor Smith, nu Medlem af Statsrevisionen og forrige <lb/>
+Høiesterets Assessor nu Storthingsmand, Sorenskriver Motzfeldt, som <lb/>
+begge have deeltaget i det paaankede Inventariums Anskaffelse, ikke have <lb/>
+kunnet, eller rettere ikke villet oplyse Omstændighederne og derved <lb/>
+afværge en saa uretfærdig Beslutning mod Statsraad Petersen.</p>
+               <p xml:id="p5">	Storthinget har havt flere Møder for lukkede Dørre, i Anledning <lb/>
+af Hr Heines Laane Tilbud og formoder jeg, at man vil blive enig om et <lb/>
+Laan stort 1,200,00 Speciedl. paa Vilkaar som ville blive indstillede <lb/>
+til Deres Majestæts naadige Approbation.</p>
+               <p xml:id="p6">	Forleden Dag tog jeg med Statsraad Petersen det nye Bodsfængsel <lb/>
+i Øiesyn. Det er nu færdig til at modtage sin nye Befolkning den 5te <lb/>
+denne Maaned. Jeg nævner intet videre om denne Pragt-Bygning, som vil <lb/>
+koste mod 200,000 Speciedaler, da det er Deres Majestæt tilstrækkelig <lb/>
+bekjendt.</p>
+               <p xml:id="p7">	Da Hans Excellence Udenrigs Ministeren efter Deres Majestæts <lb/>
+naadige Befaling har meddeelt mig Deres Majestæts naadige Beslutning <lb/>
+at min Søn Adam snart skal tiltræde den ham naadigst bestemte Post i <lb/>
+Haag, tillader jeg mig at gjentage min underdanigste Taknemmelighed for <lb/>
+denne Deres Majestæts Naade.</p>
+               <p xml:id="p8">	Til Følge Deres Majestæts naadige Befaling har jeg foranstaltet <lb/>
+den mig naadigst tilstillede interessante Sammenligning imellem Tilstanden <lb/>
+i Sverige 1813 og 1848 indført i Christiania-Posten. Denne Sammenligning  <lb/>
+er forbausende tilfredsstillende og om en lignende Sammenligning  <lb/>
+for Norges Vedkommende om end i en mindre Skala, ogsaa maatte befindes  <lb/>
+tilfredsstillende, saa kan jeg dog ikke tilbageholde den nedslaaende  <lb/>
+Bemærkning at før vor constitutionelle Tilstand vare Menneskene nøisomme, <lb/>
+ – taknemmelige tilfredse, hvorimod vore constitutionelle Statsborgeres <lb/>
+Fordringer ere extravagante og umulig at tilfredsstille, hvoraf følger <lb/>
+almindelig Utilfredshed. I hiin unægtelig lykkeligere Tid vare Stabler, <lb/>
+Lercher, Holster, Jaabækker etc. indskrænkede til deres rette <lb/>
+Pladse, hvorimod de nu ville styre og regjere, men deres Regjeren <lb/>
+bringer ikke Velsignelse for Rige og Folk. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste Mai 1851. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

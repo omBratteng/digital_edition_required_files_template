@@ -1,0 +1,102 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>395</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. august 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 5te denne Maaned har <lb/>
+jeg havt den Ære at høitideligholde Hendes Kongelige Høihed  <lb/>
+Kronprindsessens høie Fødselsdag ved en Souper paa mit Landsted udenfor <lb/>
+Christiania.</p>
+               <p xml:id="p2">	I de 3de sidste Døgn ere atter 5 Cholera Tilfælde indtrufne <lb/>
+saaledes, at her nu i det Hele, fra 26de Juli til 8de Augusti Klokken <lb/>
+9 Formiddag, har været 16 Angrebne, hvoraf 12 Døde og 4 under Behandling. <lb/>
+Christiania Commune har taget virksomme Forholdsregler mod  <lb/>
+Epidemien og jeg tillader mig underdanigst at vedlægge de af Stadens <lb/>
+Sundhedscommission afgivne preventive Bestemmelser, hvoraf den første <lb/>
+om Visitation ved ambulante Læger, allerede er traadt i Virksomhed.</p>
+               <p xml:id="p3">	Ifølge Meddelelse fra Laurvig har der i denne Bye, fra den 24de <lb/>
+Julii til den 4de August, viist sig 5 mistænkelige Tilfælde, hvoraf <lb/>
+dog Stedets Læge kun har villet anerkjende eet for at være virkelig <lb/>
+Cholera. Fire af de Angrebne ere imidlertid døde. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Augusti 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 8. august 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">			Preventive Foranstaltninger.</head>
+               <list xml:id="list4">
+                  <label>1o </label>
+                  <item>Paa Communens Regning er engageret 10 (Ti) Læger, hvoraf 2de <lb/>
+fungere som Chefer, som ved daglige Besøg i Husene skulle undersøge <lb/>
+Sundheds Tilstanden og strax imødegaae ethvert mistænkeligt Sygdoms <lb/>
+Symptom, ligesom de skulle bistaae Politiet ved Forføininger til <lb/>
+stræng Overholdelse af Reenlighed i alle Retninger.</item>
+                  <lb/>
+                  <label>2o </label>
+                  <item>Politiemesteren er bemyndiget til at antage det Antal Extra <lb/>
+Betjente som han maatte finde fornødne, for kraftigere at kunne  <lb/>
+understøtte Lægerne.</item>
+                  <lb/>
+                  <label>3o </label>
+                  <item>det er besluttet at ryddiggjøre ethvert Huus, hvor Cholera <lb/>
+maatte yttre sig og som Lægerne finde det tjenligt at evacuere.  <lb/>
+Sundheds Commissionen har leiet Huse, som kunne anvises til midlertidig <lb/>
+Bopæl for de saaledes Udflyttede.</item>
+                  <lb/>
+                  <label>4o </label>
+                  <item>Fattigforstanderen er bemyndiget til med fornøden <lb/>
+Understøttelse at bortrydde enhver Hindring for Iværksættelsen af de  <lb/>
+Forføininger i hygieniske Øiemeed, som de under 1ste Post omhandlede <lb/>
+Læger anordne.</item>
+               </list>
+               <lb/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

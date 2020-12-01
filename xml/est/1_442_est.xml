@@ -1,0 +1,80 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>442</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. april 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. april 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Med Morgenposten vil Regjeringens underdanigste Indstilling i <lb/>
+Anledning af Storthingets Prolongations Ansøgning afgaae. Vi vogte <lb/>
+os vel for at anbefale Prolongationen <hi rend="underline">til nogen bestemt Tid</hi>, men kun <lb/>
+saa længe som Deres Majestæt <hi rend="underline">kan finde det tjenligt</hi>; som jeg indstændig <lb/>
+beder naadigst bifaldt. Naar Storthinget har været samlet i 3 Maaneder, <lb/>
+bør Kongens Ret til dets Opløsning forblive uindskrænket. Dette <lb/>
+er stemmende med Grundlovens Bogstav, Aand og Statens Tarv, og derfor <lb/>
+bør dette Kongelige Prærogativ ikke indskrænkes.</p>
+               <p xml:id="p3">	En skrækkelig Ulykke har rammet Skiens Bye. Under en Storm, som <lb/>
+vi i den senere Tid daglig have, udbrød Ild den 5te, som ødelagde de <lb/>
+Byen omgivende Forstæder, næsten alle ved Byen liggende Saugbrug og <lb/>
+Søboder, det er Magazinhuse med deri værende Forraad af Korn og andre <lb/>
+Varer, – et stort paa Stabelen staaende næsten færdigt Skib, med mere.</p>
+               <p xml:id="p4">	De nedbrændte Huse vare assurerede for 80,000 Speciedaler, og <lb/>
+man anslaaer de af Ilden fortærede Varer til 100,000 Species.</p>
+               <p xml:id="p5">	Vor infame Avis Presse lever nu af den meget omtalte og omskrevne <lb/>
+beklagelige Ordre til Commandanterne, om ikke at tilstede flere <lb/>
+end 4 Skibe Adgang til befæstede Havne. Morgenbladet for idag  <lb/>
+(Professor Munch) gjør i denne Anledning Regjeringen de skamløseste  <lb/>
+Beskyldninger og gjentager, at Ordren allene er givet for at føie  <lb/>
+Rusland og for at bevirke denne Magts Anerkjendelse af Neutraliteten. <lb/>
+Det er piinlig for mig at maatte være en taus Tilskuer til dette <lb/>
+afskyelige Uvæsen, i Mangel af Oplysning om Sagens rette Sammenhang. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de April 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

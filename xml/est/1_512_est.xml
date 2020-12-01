@@ -1,0 +1,270 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>512</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. oktober 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. oktober 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 11te denne Maaned, <lb/>
+hvorefter jeg ikke har havt Anledning til nogensomhelst underdanigst <lb/>
+Indberetning.</p>
+               <p xml:id="p2">	Senere har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 18de, hvoraf jeg med sand Glæde erfarer Hendes Majestæt <lb/>
+Enke-Dronningens vedvarende Bedring.</p>
+               <p xml:id="p3">	Den 19de denne Maaned flyttede jeg fra Holgerslyst ind i mit <lb/>
+gamle Vinterqvarteer i Stiftsgaarden, uagtet Veir og Temperatur  <lb/>
+vedblive at være behagelig.</p>
+               <p xml:id="p4">	Med Undtagelse af nogle faae Cholera Tilfælde i Byen Tønsberg, <lb/>
+høres i det øvrige Land Gud skee Tak! Intet til Sygdommen.</p>
+               <p xml:id="p5">	I den sædvanlige Forretningsgang er Intet indtruffet, som fortjener <lb/>
+Deres Majestæts særdeles Opmærksomhed.</p>
+               <p xml:id="p6">	Vi beskjæftigede os i Statsraadet i Gaar blandt Andet med <lb/>
+Foranstaltninger, for at afværge den beklagelige <hi rend="underline">utidige</hi>  Offentliggjørelse <lb/>
+af Alt hvad som forhandles i Statsraadet, og dernæst med at bestemme <lb/>
+et Ziffersprog for visse officielle Meddelelser pr Tellegraph mellem <lb/>
+Stockholm og Christiania, og forbeholder jeg mig om begge disse Gjenstande <lb/>
+nærmere underdanigst Indberetning.</p>
+               <p xml:id="p7">	I Anledning af Deres Majestæts tjenstgjørende norske Hofmarschalks <lb/>
+fremførte underdanige Ønske om at maatte næste Vinter 1856 <lb/>
+til 1857 beboe en Deel af Stiftsgaarden befalede Deres Majestæt mig, <lb/>
+saavel som denne, som om de flere Bygninger, hvorover Hans Majestæt <lb/>
+Kongen siden Foreningen har disponeret, at indhente Oplysninger, som <lb/>
+jeg herved tillader mig underdanigst at fremlægge, med Tilføiende af <lb/>
+hvad jeg endvidere herom har kunnet erfare.</p>
+               <p xml:id="p8">	Stiftsgaarden beboedes af de 3 første Rigs Statholdere<hi rend="underline">kun under</hi>
+                  <lb/>
+                  <hi rend="underline">den Kongelige Families Ophold her</hi>, da de i øvrigt beboede det <lb/>
+Kongelige Palai; men af de 3 sidste Rigs Statholdere har den stadig <lb/>
+været beboet til denne Tid. Under den Tid, da Rigs Statholderne  <lb/>
+tidligere ikke beboede Stiftsgaarden, havde Hofmarschalken Baron Wedel <lb/>
+Jarlsberg, med Hans Majestæts Tilladelse, i en Række af Aar Bolig deri <lb/>
+                  <hi rend="underline">som Hofmarschalk</hi>; indtil Hans Majestæt senere anviiste ham, i Egenskab <lb/>
+                  <hi rend="underline">af Hofchef</hi>, fri Bolig i den saa kaldte Fideicommisgaard.</p>
+               <p xml:id="p9">	Vist er det, at Kongens norske Hofmarschalk stedse har havt <lb/>
+frie Bolig i Stiftsgaarden, naar denne ikke beboedes af Statholderen, <lb/>
+– og Deres Majestæts Hofchef i Fideicommisgaarden. Jeg tillader mig <lb/>
+underdanigst at tilraade, at Deres Majestæt fremdeles, som hidindtil, <lb/>
+vil forbeholde Sig Dispositionen over de nævnte Bygninger, – dog  <lb/>
+saaledes at naar Statholder Embedet er besat, Stiftsgaarden overlades <lb/>
+til Statholderen. Jeg maa i øvrigt bemærke, at Stiftsgaardens  <lb/>
+                  <hi rend="underline">Meublement</hi>  tilhører Staten, til Brug <hi rend="underline">for Statholderen</hi>, og ikke kan  <lb/>
+overlades til nogen Anden end denne.</p>
+               <p xml:id="p10">	Den Kongelige Hofintendent har stedse havt fri Bolig i <lb/>
+Glasmagazingaarden, og bør, efterat denne er overladt til Jernbanen, <lb/>
+anvises fri Bolig i nogen anden offentlig Bygning, eller for Afsavn af <lb/>
+frie Bolig, gives en modsvarende Erstatning i Penge.</p>
+               <p xml:id="p11">	Om Eiendomsretten til det Kongelige Palai har her tidligere været <lb/>
+nogen Tvivl indtil det for nogle Aar siden lykkedes mig i  <lb/>
+Bythingsprotocollen at finde det Document, hvorved Palaiets forrige Eier, <lb/>
+Kammerherre Bernt Anker, for stedse har testamenteret dette Palai til <lb/>
+Rigets regjerende Konge. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de October 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 25. oktober 1855</supplied>
+               </head>
+               <p xml:id="p12">					Oplysninger <lb/>
+betræffende Palaiets nuværende Anvendelse. Statholderens Bolig i <lb/>
+Stiftsgaarden, Hofchefens Bolig i Fideicommisgaarden og  <lb/>
+Hofintendantens Bolig forhen i Glasmagazingaarden og nu i den saakaldte  <lb/>
+Maribogaard. <lb/>
+               </p>
+               <p xml:id="p13">
+                  <hi rend="underline">Stiftsgaarden</hi>  var i den første Tid efter Regjeringsformens <lb/>
+Forandring beboet af Stiftamtmanden i Agershuus Stift, og afgav  <lb/>
+desuden Locale for Høiesteret. Ved Besættelsen af Stiftamtmandsembedet <lb/>
+i 1815 blev det imidlertid gjort til Betingelse for den nye Stiftamtmand, <lb/>
+at renucere paa denne fri Bolig mod at erholde Godtgjørelse <lb/>
+for Afsavnet af samme. – Siden blev Stiftsgaarden, naar noget af de <lb/>
+Kongelige Herskaber opholdt sig i Byen, benyttet som Locale for  <lb/>
+Statholderen, der ellers beboede Palaiet, ligesom daværende Hofmarskalk, <lb/>
+Baron Wedel-Jarlsberg sees deri at have havt fri Bolig. – Stiftsgaarden <lb/>
+blev indtil Vaaren 1821 benyttet som Locale for Høiesteret, der <lb/>
+da blev flyttet over i en anden Gaard, efterat Finants-Departementet, <lb/>
+i Henhold til en Forestilling fra Hofmarskalk Baron Wedel- <lb/>
+Jarlsberg af 14de December 1820, hvori denne gjorde opmærksom paa at <lb/>
+Høiesteretslocalet nødvendigt behøvedes til Afbenyttelse for Hans <lb/>
+Excellence Rigsstatholderen under Hans Majestæt Kongens Nærværelse her <lb/>
+i Christiania, især naar Storthinget var samlet, og at det vel ikke <lb/>
+var aldeles passende, at Høiesteret udflyttede hver Gang, ved Høieste <lb/>
+Resolution af 19de December 1820 var bemyndiget til at leie Værelser <lb/>
+til Brug for Høiesteret.</p>
+               <p xml:id="p14">	I en i Aarene 1825 og 1826 forfattet Beskrivelse over Statens <lb/>
+Eiendomme hedder det; "Stiftsgaarden med Tilhørende benyttes af <lb/>
+Statholderen, naar nogen af de Kongelige Herskaber benytter Palaiet.  <lb/>
+Ellers benyttes for en Deel den underste Etage af Hofmarskalken, Baron <lb/>
+Wedel-Jarlsberg, og et Par Værelser bruges som Locale for Statsraadet."</p>
+               <p xml:id="p15">	Naar Statholderen har faaet stadigt Ophold i Stiftsgaarden, <lb/>
+kan ikke sees af Finants-Departementets Archiv, og den fornødne <lb/>
+Bestemmelse desangaaende er rimeligviis afgiven underhaanden. – Vistnok <lb/>
+har Hofmarskalken under 21de Mai 1828 tilskrevet Departementet  <lb/>
+angaaende endeel Forandringer og Reparationer, som i Anledning af Hans <lb/>
+Excellence Grev Platens Indflytning i den saakaldte Stiftsretsgaard <lb/>
+ansees fornødne at foretage med bemeldte Gaard, men det kan ikke med <lb/>
+Bestemthed sees, om dennes Ophold <hi rend="underline">der</hi>  var tænkt siden at skulle være <lb/>
+stadigt. – Sandsynligviis har dette været Tilfældet. – Saavidt man har <lb/>
+kunnet erfare, beboede Grev Platen siden, saalænge han var Indehaver <lb/>
+af Statholderposten (indtil December 1829), ligesom hans i 1836  <lb/>
+udnævnte Eftermand i dette Embede, stadigt Stiftsgaarden, hvorhos,  <lb/>
+saavidt vides, Statsraad Collett i Mellemtiden, medens Statholderposten <lb/>
+var ubesat, lod de Fester, han istedetfor Statholderen som første <lb/>
+Medlem af Regjeringen her havde at foranstalte, afholde i Stiftsgaarden.</p>
+               <p xml:id="p16">	I Indstilling fra den Committe, der for Storthinget i 1830 havde <lb/>
+at gjennemgaae og forfatte Udkast til Decisioner til Antegnelserne <lb/>
+i Statsregnskaberne, hedder det vistnok, forsaavidt den angaaer Decision <lb/>
+til Antegnelserne til Udgiftsbogen for 1821, 29de Post, Nr 1, <lb/>
+1ste Deel, efterat deri er omhandlet Høiesterets Udflytning af  <lb/>
+Stiftsgaarden: "og siden den Tid har Gaarden staaet til de Kongelige <lb/>
+Herskabers Disposition". Men i denne Anledning maa det bemærkes, at i <lb/>
+Vedtegningerne til samme Antegnelsespost, der omhandler, hvorvidt <lb/>
+Beboerne af de offentlige Bygninger i Christiania bør udrede de paa disse <lb/>
+Bygninger faldende Skatter og Afgifter, yttrer Statsrevisionen, "at <lb/>
+man antager, for det Tilfælde, at Stiftsoverretsgaarden i Christiania <lb/>
+og Ladegaardsøen skulle<hi rend="underline">  ansees som tilliggende Statholder-Embedet</hi>, at <lb/>
+denne Embedsmand i Lighed med andre Embedsmænd bør bære de paa disse <lb/>
+Eiendomme hvilende Byrder som et Vederlag for Brugen" o. s. v. – </p>
+               <p xml:id="p17">
+                  <hi rend="underline">Palaiet med Hauge</hi>  blev overeensstemmende med Bernt Ankers  <lb/>
+Testamente ved Gavebrev af 26de October 1806 af Administrationen for det <lb/>
+Ankerske Fideicommis overdraget Hans Majestæt Kongen til Beboelse for <lb/>
+den Kongelige Familie, naar Nogen af Kongehuset maatte opholde sig i <lb/>
+Norge, hvorhos dog Christianias Cathedralskole i Overeensstemmelse <lb/>
+med bemeldte Testamente og Hans Kongelige Majestæts allernaadigste <lb/>
+Tilladelse forbeholdes Ret til at benytte sig af bemeldte Hauge til <lb/>
+botanisk Brug, og til deri at gjøre saadanne Anlæg, som i Hensyn hertil <lb/>
+maatte ansees fornødne.</p>
+               <p xml:id="p18">	I Overeensstemmelse hermed har denne Bygning senere været <lb/>
+benyttet af de Kongelige Herskaber under Deres Ophold her i Riget, og <lb/>
+under den Kongelige Families Fraværelse fra Byen tjente den til Bolig <lb/>
+for Rigets Statholder, indtil denne flyttede ind i Stiftsgaarden, <lb/>
+hvilket formeentlig, som foran anført, fandt Sted i Aaret 1828. I <lb/>
+Departementets Archiv findes der imidlertid ligesaalidt nogen Oplysning <lb/>
+om hvorledes det er tilgaaet med Indrømmelse af fri Bolig for <lb/>
+Statholderen i Palaiet som senere i Stiftsgaarden. – Det bemærkes dog, <lb/>
+at Grev Sandels i en Forestilling til Departementet om Istandsættelse <lb/>
+af Bygningerne paa Ladegaardsøen har bemærket, at Palaiet "ved Hans  <lb/>
+Majestæts særskilte naadigste Tilladelse" beboedes af Statholderen <lb/>
+i den Kongelige Families Fraværelse.</p>
+               <p xml:id="p19">	Men Hensyn til Palaishaugens Benyttelse blev det ved Kongelig <lb/>
+Resolution af 3die August 1815 naadigst bestemt: "at den ved afgangne <lb/>
+Kammerherre Bernt Ankers Testamente til Christianias Cathedralskole <lb/>
+skjænkede Hauge maa følge den Staten overdragne og bemeldte Kammerherre <lb/>
+Anker forhen tilhørende Gaard i Christiania imod en aarlig Godtgjørelse <lb/>
+til Skolen af 300 Sbdlr rede Sølv, som af Statskassen udredes". </p>
+               <p xml:id="p20">
+                  <hi rend="underline">Fideicommisgaarden</hi>  blev indkjøbt for Statskassens Regning ved <lb/>
+en under 15de Juli 1824 afholdt Auction. Denne Gaard var allerede <lb/>
+forhen bleven leiet af Statskassen og benyttedes til Bolig for en <lb/>
+Deel af det Kongelige Herskabs Svite. – Den blev indkjøbt, da man <lb/>
+fandt, at den ikke uden største Ubekvemmelighed kunde undværes, naar <lb/>
+noget af de Kongelige Herskaber opholdt sig her. –</p>
+               <p xml:id="p21">	Under 26de October 1825 tilskrev Hofchefen Finants-Departementet, <lb/>
+at det formeentlig maatte ansees rigtigst, at samtlige til Hans <lb/>
+Majestæt Kongens Disposition arrangerede Localer overleveredes ham <lb/>
+som Chef for Hans Majestæt Kongens Norske Hofstat, hvorfor han <lb/>
+indstillede, at den saakaldte Fideicommisgaard samt de i og ved  <lb/>
+Glasmagazinbygningen under Hans Majestæts sidste Ophold afbenyttede og til <lb/>
+Høistsammes Disposition arrangerede Localer maatte efter Inventarium <lb/>
+blive afleverede til ham. Denne Skrivelse, der først under 12te Mai <lb/>
+1826 er indkommen til Departementet, er i Journalen afskreven "afgjordt <lb/>
+mundtlig".</p>
+               <p xml:id="p22">	Der findes i Departementets Archiv ingen Oplysning om, naar <lb/>
+Hofchefen erholdt fri Bolig i Fideicommisgaarden, men formeentlig er <lb/>
+dette skeet paa samme Tid, som Statholderen tog stadigt Ophold i <lb/>
+Stiftsgaarden og strax efterat Palaiet, Fideicommisgaarden og <lb/>
+Glasmagazingaarden med Tilbehør i Begyndelsen af Aaret 1828 vare  <lb/>
+overleverede til Hofmarskalkens Tilsyn. – Under 23de Januar 1828 tilskrev <lb/>
+nemlig Finants-Departementet Hofmarskalken, at da saavel Palaiet som <lb/>
+Fideicommisgaarden og Glasmagasingaarden da vare satte i behørig Stand <lb/>
+til Afbenyttelse af de Kongelige Herskaber og deres Svite, ansaae <lb/>
+Departementet det rigtigst, at disse Bygninger, der hidtil havde staaet <lb/>
+under specielt Opsyn deels af Bergraad Collett deels af Bureauchef <lb/>
+Kraft paa samme Departements Vegne, formeligt overleveredes til <lb/>
+Hofmarskalks-Embedet, for at deres Tilsyn og Vedligeholdelse fremtidigt <lb/>
+kunde af samme foranstaltes udført, hvorfor man anmodede Bergraad <lb/>
+Collett og Bureauchef Kraft om at foranstalte det Fornødne til denne <lb/>
+Overleverelse. – Det maa derhos bemærkes, at i den i 1825 og 1826  <lb/>
+forfattede Beskrivelse over Statens Eiendomme hedder det angaaende  <lb/>
+Palaiet: "naar nogen af de Kongelige Herskaber her opholde sig, beboes <lb/>
+Gaarden af Hofpersonalet. – Ellers opbevares deri de bedste Meubler, <lb/>
+som indflyttes i Palaiet, naar nogen af de Kongelige Herskaber kommer". </p>
+               <p xml:id="p23">
+                  <hi rend="underline">Glasmagasingaarden</hi>. Ved den forhen nævnte Skrivelse af 26de <lb/>
+October 1825 meddeelte Hofchefen at Hofintendanten ifølge Hans Majestæts  <lb/>
+Bestemmelse skulde erholde fri Bolig i denne Gaard, for at føre <lb/>
+Tilsyn med saavel Hans Majestæts egen som de til Kongens Disposition <lb/>
+satte Bygninger. Efterat denne Gaard er afgiven til Benyttelse for <lb/>
+Jernbanen, har Hofintendanten efter mundtligt Tilsagn erholdt Bolig i <lb/>
+den gamle Universitetsgaard. –</p>
+               <p xml:id="p24">	Ovennævnte Skrivelse af 26de October 1825 er saalydende: <lb/>
+"Ved Hans Majestæt Kongens sidste Nærværelse her er Premierlieutenant <lb/>
+Heidemark naadigst bleven udnævnt til Intendant ved Høistsammes Norske <lb/>
+Hof og i denne Egenskab paalagt, at have det specielle Tilsyn <lb/>
+med saavel Hans Majestæts egen som de til Kongens Disposition satte <lb/>
+Bygninger, Localer og Inventarier overeensstemmende med den Instrux, <lb/>
+som ham af Undertegnede meddeles, samt tillige naadigst bleven tilsagt <lb/>
+frit Qvarteer for sig og Familie. Ligeledes har Hans Majestæt <lb/>
+naadigst paalagt mig, at sørge for, at et saadant passende Qvarteer <lb/>
+blev anviist Intendanten i Glasmagasinbygningen.</p>
+               <p xml:id="p25">	Foranlediget heraf saavel som paa Grund af at det maaskee vil <lb/>
+findes rigtigst, at samtlige til Hans Majestæt Kongens Disposition <lb/>
+arrangerede Localer overleveres mig som Chef for Hans Majestæt Kongens <lb/>
+Norske Hofstat, saa giver jeg mig den Ære, til det ærede Departements <lb/>
+nærmere Resolution og videre eragtende Forføining tjenstærbødigst <lb/>
+at indstille: <lb/>
+at den saakaldte Fideicommisgaard samt de i og ved Glasmagasinbygningen <lb/>
+under Hans Majestæts sidste Ophold afbenyttede og til <lb/>
+Høistsammes Disposition arrangerede Localer maa efter Inventarium <lb/>
+blive afleverede til Undertegnede".</p>
+               <p xml:id="p26">	Denne Skrivelse er, som foran bemærket, i Journalen afskrevet <lb/>
+"mundtlig afgjort". –</p>
+               <p xml:id="p27">	Forøvrigt henvises til hvad der er anført under Fideicommisgaarden. –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

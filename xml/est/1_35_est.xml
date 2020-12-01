@@ -1,0 +1,117 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>35</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 3. juli 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 3. juli 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport af 29de forrige Maaned haabes <lb/>
+modtaget idag. Alle mine Folk ere sendte til Byen, for at forberede <lb/>
+Morgendagens Feiring i Stiftsgaarden. Jeg er alene tilbage med min <lb/>
+Kammertjener og kjører ind i Morgen tidlig, for at bivære Dagens <lb/>
+Feiring i Universitets-Localet ved en latinsk Tale og for senere at  <lb/>
+modtage 40 Storthingsmænd og 30 andre Honoratiores til Middag. Det af <lb/>
+Deres Majestæt naadigst bestemte Gratiale for Dagen til Garnisonen og <lb/>
+Fattige har jeg foranstaltet udbetalt.</p>
+               <p xml:id="p2">	Med Henhold til min underdanigste Rapport af 6te forrige Maaned, <lb/>
+tillader jeg mig underdanigst at meddele, at Finants-Departementet, <lb/>
+efter given Anledning af Storthingets Budgetcomitée, har ladet forfatte <lb/>
+Calculer over de til Slottets Meublering og Forsyning med Sølv, Linned <lb/>
+med mere udfordrende Summer, som ere beregnede, for Meubler til 57,232 <lb/>
+Speciedaler, og for Sølv, Bord- og Senge-Linned, Porcellain, Bordserviser, <lb/>
+Glas, Kobber, med mere til 57,389 Speciedaler. Disse Calculer, som <lb/>
+ville blive afsendte med næste Post, tillader jeg mig underdanigst at <lb/>
+anbefale til Deres Majestæts Høistegne naadige Undersøgelse og <lb/>
+Bedømmelse.</p>
+               <p xml:id="p3">	Da jeg mere og mere bemærker, at saavel Storthinget som Publicum <lb/>
+saare meget ønske Slottets store Spisesal conserveret, anvendte jeg <lb/>
+forleden Dag nogle Timer paa at undersøge Localet og med Slots-Intendanten <lb/>
+at overveie, hvorledes det uundværlige Rum maatte kunne tilveiebringes <lb/>
+uden at opoffre Spisesalen. I denne Hensigt gives 2de Alternativer: <lb/>
+1o i Tilbygning af 2de Fløie; 2o En Deel Tjenerskabs Indqvartering <lb/>
+i flere Slottet tilhørende, samme meget nær beliggende Bygninger, <lb/>
+indtil de omnævnte Fløie kunne blive byggede.</p>
+               <p xml:id="p4">	Da det første Alternativ neppe strax vil kunne iværksættes, fordi <lb/>
+det fordrer for megen Tid og ved Siden af Meubleringen for betydelige <lb/>
+Udgifter, troer jeg at burde underdanigst anbefale det andet, indtil <lb/>
+Omstændighederne kunne tillade at iværksætte det førstnævnte. Om <lb/>
+denne Gjenstand vil Regjeringen tillade sig med det Første at indkomme <lb/>
+med en underdanigst Indstilling, fordi Penge behøves bevilgede til det <lb/>
+Ene eller til det Andet.</p>
+               <p xml:id="p5">	Odelsthinget har besluttet at Deres Majestæts naadige Resolution <lb/>
+betræffende Pensionslisterne, skal vedlægges Protocollen, med Forbehold <lb/>
+af næste Storthings Ret, til desangaaende at beslutte. Jeg tillader <lb/>
+mig underdanigst at henlede Deres Majestæts Opmærksomhed paa den <lb/>
+med Dags Posten afgaaende Anne Sæters underdanigste Ansøgning om licentia <lb/>
+praticandi, som Statsraadets Pluralitet har indstillet til Afslag; <lb/>
+Statsraad Fleischer og jeg derimod til naadigst Indvilgelse. Visse ydre <lb/>
+Omstændigheder ere ugunstige for Supplicantinden. Hun har samtlige Læger <lb/>
+imod sig, hos hvem hendes blotte Navn opvækker Spasmer. Disse have <lb/>
+Pressen til Disposition og staae i Venskabs- og Slægtskabs-Forbindelser <lb/>
+med indflydelsesrige Mænd. Jeg ventede saaledes, at skulle staae <lb/>
+ene blandt Deres Majestæts Raadgivere, som Supplicantindens Talsmand, <lb/>
+men ligesom Statsraad Fleischer har forenet sig med mig, saa havde og <lb/>
+Statsraad Foss, forinden sin Afreise, skrevet sit Votum i hendes Faveur, <lb/>
+som jeg har tilsendt Hans Excellence Statsministeren, med Anmodning, at <lb/>
+det maa blive Deres Majestæt underdanigst forelagt. Har Supplicantinden <lb/>
+end samtlige Læger og Statsraadets Majoritet imod sig, saa har hun dog <lb/>
+den store Almeenhed og mange oplyste og agtværdige Mænd for sig,blandt <lb/>
+hvilke jeg blot exempelviis vil nævne Justitiarius Bull, Stiftamtmand <lb/>
+Riis, Sørenssen, Stang, hendes Sjælesørger Hofpredikant Lieungh. Om <lb/>
+den Tillid hun nyder i Christiania vidne de hende af mange agtværdige <lb/>
+Mænd, Borgere, givne Attester, som Foss i sit Votum har releveret.</p>
+               <p xml:id="p6">	Jeg har fuld Grund til at ansee Supplicantindens Praxis gavnlig og <lb/>
+om den end ikke var det, vilde den ikke kunne forhindres, fordi den har <lb/>
+Medhold i den store Folke Opinion. At forunde Supplicantinden licentia <lb/>
+practicandi formener jeg stemmende med den Kongelige Forordning af 5te <lb/>
+September 1794; men i det modsatte, af Statsraadets Pluralitet antagne <lb/>
+Fald, kan Kongen dog efter almindelig vedtaget Grundlovs-Fortolkning <lb/>
+        dispensere fra Love af Beskaffenhed som denne.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 3die Julii 1845</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

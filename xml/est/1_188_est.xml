@@ -1,0 +1,143 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>188</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 22. april 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 22. april 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p xml:id="p2">	Med dyb Bekymring har jeg havt den Ære at modtage Deres Majestæts <lb/>
+naadige Meddelelse af 16de, om vore nordiske diplomatiske Forholdes <lb/>
+sørgelige og foruroligende Stilling.</p>
+               <p xml:id="p3">	Jeg tillader mig at bruge Udtrykket "<hi rend="underline">vore</hi>" nordiske Forholde, fordi <lb/>
+disse efter min Anskuelse ikke alene ere i høi Grad foruroligende for <lb/>
+Dannemark, men ogsaa for Deres Majestæts forenede Riger og det er fra <lb/>
+denne Synspunct og med Hensyn paa Gjenstandens Vigtighed, at min Samvittighed <lb/>
+opfordrer mig til i Underdanighed at fremføre mine Betragtninger <lb/>
+over de nordiske Rigers Stilling, som jeg underdanigst anbefaler til <lb/>
+Deres Majestæts naadige overbærende Bedømmelse.</p>
+               <p xml:id="p4">	For mig er det klart, at Naboerigets eller blot den danske Halvøes <lb/>
+Erobring og Underkuelse av Tydskerne, den eneste Gjenstand hvorom disse <lb/>
+under deres Revolution hidindtil ere blevne enige, vil medføre den <lb/>
+største Fare for de forenede Rigers Uafhængeghed og Tilværelse.</p>
+               <p xml:id="p5">	Det var denne Anskuelse, som Deres Majestæt i afvigte Aar udtalte <lb/>
+for Europa, for begge Rigers Folkerepresentationer, hvis Redebonhed til <lb/>
+at bevilge Midler til dens Iværksættelse, viiste, at de deelte den, <lb/>
+og om denne Anskuelse var vel begrundet i afvigte Aar, saa er den det <lb/>
+ikke mindre nu, thi om man end vil misbillige Dannemark Opsigelse af <lb/>
+Vaabenstilstanden, saa blive dog Følgerne heraf ikke mindre; men snarere <lb/>
+mere farlige for de forenede Riger. Denne Fare bevægede Deres Majestæt <lb/>
+forrige Aar til at erklære, at Deres Majestæt med væbnet Magt vilde <lb/>
+bistaae Dannemark til at afværge Tydskernes Indrykken i Jylland eller <lb/>
+i de danske Øer. Denne Erklæring indeholder Deres Majestæts politiske <lb/>
+System med Hensyn paa Striden imellem Dannemark og Tydskland og jeg <lb/>
+formener ikke i de senere Begivenheder at finde nogen tilstrækkelig <lb/>
+Grund til at forandre eller fravige dette System. Motiverne: Afværgelse <lb/>
+af den Fare for Deres Majestæts Riger, som opstaaer ved en bunds- <lb/>
+og stammebeslægtet Naboes Underkuelse er under alle Omstændigheder lige <lb/>
+Statsklogt og derfor uforanderligt. Dette Motiv dicterede Deres Majestæts <lb/>
+politiske System forrige Aar, det opvakte Agtelse i Europa, det <lb/>
+respecteredes af Fienden, fordi det var understøttet af en slagfærdig <lb/>
+væbnet Magt, og jeg formener underdanigst, at det samme politiske  <lb/>
+System fremdeles bør befølges, til Nordens Frelse fra fremmed Vold og <lb/>
+Underkuelse.</p>
+               <p xml:id="p6">	Jeg befrygter imidlertid, at de Udenrigsministre, til hvem Circulair- <lb/>
+Noten af 11te denne Maaned bliver meddeelt, heri ville finde en Forandring, <lb/>
+i Deres Majestæts politiske System, som i høi Grad vil svække og  <lb/>
+skade de nordiske Interesser. De vil af denne Meddelelse uddrage den <lb/>
+Slutning, at Deres Majestæt har opgivet al activ Deeltagelse i Kampen, <lb/>
+som det i al Fald var unødvendigt at sige dem, og Tydskerne ville med <lb/>
+Tilfredshed bemærke: "Der Kønig von Schweden ist es schon satt!"</p>
+               <p xml:id="p7">	Den Omstændighed, at Fiendtlighedernes Fornyelse er skeet fra dansk <lb/>
+Side, formindsker ikke Faren for Deres Majestæts Riger. Man kan ikke <lb/>
+med Ret bebreide en angreben Stat at forsøge at uddrive en uprovoceret <lb/>
+Fiende af dens Omraade; thi dette er kun Selvforsvar mod den angribende <lb/>
+Fiende, hvis Færd var og er offensiv. Ikke heller kan jeg dele den i <lb/>
+Noten udtrykte Anskuelse, at Tydskland Intet har at vinde ved denne Krig; <lb/>
+thi dets Magt vilde vinde meget ved den danske Halvøes Besiddelse. Denne <lb/>
+og Englands leilighedsvise Ibesiddelsestagelse af de danske Øer, kan  <lb/>
+blive Krigens Resultat, og da vil Europas øvrige Stater, isærdeleshed <lb/>
+Rusland, angre deres Passivitet.</p>
+               <p xml:id="p8">	Gjentagende udbeder jeg Deres Majestæts naadige Overbærelse, for <lb/>
+disse mine underdanige Bemærkninger, som om de end ikke maatte have <lb/>
+nogen Værd, dog ere dicterede af mit for Deres Majestæt og de forenede <lb/>
+Riger varmt slaaende Hjerte.</p>
+               <p xml:id="p9">	Vore Efterkommere ville velsigne Deres Majestæts Navn og vor Færd, <lb/>
+om vi afværge Fare og Underkuelse fra dem; de ville i modsat Fald  <lb/>
+fordømme vor Færd. Det ene eller det andet beroer paa vort – Forhold, <lb/>
+under de nærværende alvorlige og farlige Omstændigheder.</p>
+               <p xml:id="p10">	I Sagernes nærværende Stilling formener jeg underdanigst, at Deres <lb/>
+Majestæts directe confidentielle Meddelelse til Hans Preussiske Majestæt <lb/>
+om Hans Fuldkomne Vildfarelse om Oprøret i de danske Hertugdømmer, <lb/>
+om den der herskende politiske Aand og Tendents, om Kongen af Dannemarks <lb/>
+oprøreriske Undersaatters provocerende scandaleuse Færd, mod deres <lb/>
+Landsherre under Vaabenstilstanden, Deres Majestæts broderlige Appel <lb/>
+til Kongens Hjerte og ridderlige Sind, turde virke mere til Nordens <lb/>
+Pacification, end alle diplomatiske Noter, helst naar Meddelelsen derhos <lb/>
+viiste, hvormeget Deres Majestæt vilde beklage, om Omstændighederne <lb/>
+skulde tvinge Deres Majestæt ifølge Sit uforanderlige politiske System, <lb/>
+at deeltage i Kampen. Min Formening om et saadant Skridts Indflydelse er <lb/>
+grundet paa mit tidligere Bekjendtskab til Hans Preussiske Majestæt. <lb/>
+Denne Monarch er intet Hverdags Menneske; men tvertimod, som Deres <lb/>
+Majestæt bekjendt, en meget genial Mand, der ikke bør behandles efter <lb/>
+sædvanlige Former.</p>
+               <p xml:id="p11">	Jeg tillader mig ved denne Leilighed underdanigst at bemærke, at <lb/>
+efter 7 Maaneders Forløb er endnu intet Regnskab fremlagt for vor Land- <lb/>
+og Søe Expeditioner forrige Aar. Da mine gjentagne Erindringer herom  <lb/>
+have været forgjæves, udbeder jeg mig naadigst paalagt, derom at give <lb/>
+vedkommende Departementschefer Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p12">	Til det meget Deres Majestæt uden Tvivl allerede har læst om <lb/>
+Slesvig, tillader jeg mig underdanigst at vedlægge en af vor Historiker <lb/>
+Justitiarius Berg nylig udgiven Afhandling, som viser, at dette  <lb/>
+Hertugdømme stedse har udgjort en Deel af det danske Rige, men aldrig har <lb/>
+været statsretlig forenet med Holsteen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22 April 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

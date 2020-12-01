@@ -1,0 +1,94 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>482</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. desember 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. desember 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efterat min underdanigste Rapport af 28de denne Maaned, <lb/>
+betræffende de af Storthinget besluttede og anordnede Lovcommission <lb/>
+var skreven og afsendt, erindrer jeg, at Statsraad Stang som et  <lb/>
+Argument for dens Bifald anførte: "at Storthingets Beslutning vil blive <lb/>
+iværksat, enten Kongen sanctionnerer den eller ikke".</p>
+               <p xml:id="p2">	Dette Argument er blændende, men savner i sig selv al Gyldighed. <lb/>
+Forholdt det sig virkelig saa, at Sagen var den samme, enten Kongen <lb/>
+meddeelte Sanction eller ikke, da indsees ikke, hvorfor der opkastes <lb/>
+Spørgsmaal om Sanction; thi Sanctions Meddelelse var da en unødvendig <lb/>
+og unyttig Gjerning og Kongen ikkun figurerende. Men seet bort <lb/>
+fra denne formelle Omstændighed, er det ganske uvist, om de valgte <lb/>
+Commissarier, Alle eller nogle – ville befatte sig med Sagen, medmindre <lb/>
+Kongen, ved at sanctionnere Beslutningen, tager med Storthinget <lb/>
+Deel i deres Beskikkelse. Uden saadan Deeltagelse have de desforuden <lb/>
+ikke Sikkerhed for, af Statscassen at erholde Udgifter erstattede og <lb/>
+Honorarium tilstaaet eller Tilsagn om at fritages saa vidt fornødiges, <lb/>
+for at bestyre Embeder, hvori de maatte være beskikkede.</p>
+               <p xml:id="p3">	Men om det endog forudsættes, at Commissarierne ville og kunne <lb/>
+overtage Arbeidet, uden at Beslutninge er bleven sanctionneret, noget, <lb/>
+som Ingen vil forhindre dem i, saavidt de ikke derved tilsidesætte <lb/>
+dem paaliggende Pligter, saa som ved ikke at forvalte deres Embeder, <lb/>
+saa er dog <hi rend="underline">Udarbeidelsen et privat Foretagende</hi>, der ikke kan <lb/>
+tillægges eller vil blive tillagt den Betydning, som om Commissionen <lb/>
+var bleven anordnet og Grundvolden lagt ved fælleds Beslutning <hi rend="underline">af</hi>
+                  <lb/>
+                  <hi rend="underline">Kongen</hi>  og Storthinget.</p>
+               <p xml:id="p4">	Forøvrigt maa jeg benytte Leiligheden til at opkaste et Spørgsmaal, <lb/>
+som er af den Beskaffenhed, at det ikke letteligen kan fremsættes <lb/>
+i et embedsmæssigt Foredrag.</p>
+               <p xml:id="p5">	Om Sveriges Riges Stænder i et Anliggende som det nærværende <lb/>
+og medens samme havde været og var under Regjeringens Behandling ei <lb/>
+tilfredsstillet med denne, nedsat til samme Sags Behandling en  <lb/>
+Commission, som den her omhandlede, vilde da Kongen sanctionnere <lb/>
+Beslutningen og derved fra Sin Side bevirke dens Iværksættelse? Jeg <lb/>
+betvivler dette og jeg tilføier, at det ikke kan være tilraadeligt, enten <lb/>
+at forflere Forskjellighederne mellem de forenede Rigers Styrelsesmaade, <lb/>
+eller mindre at bevare Kongemagtens Anseelse i det ene end i <lb/>
+det andet Rige. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

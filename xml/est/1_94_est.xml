@@ -1,0 +1,78 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>94</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. mars 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. mars 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p xml:id="p2">	Hendes Majestæt Dronningens høie Fødselsdag har jeg havt den Ære at feire paa den Maade, hvorved det talrigste Selskab kunde indbydes, nemlig ved en Bal for saa mange Gjæster, som Stiftsgaarden kunde rumme.	Herved har jeg kun opfyldt min Skyldighed som Rigs-Statholder; men i mit stille Sind feirede jeg Dagen med de hjerteligste Ønsker for vor naadige elskede Dronnings Velvære, over Hvem jeg beder det algode Forsyn holde Sin beskyttende Faderhaand, til Lykke for Deres Majestæt, den Kongelige Familie og de forenede Riger.</p>
+               <p xml:id="p3">	Jeg vil tillade mig underdanigst at meddele hvad jeg deels af mundtlige Oplysninger, deels af hvad som findes skrevet, har kunnet erfare om afgivne Kongelige Resolutioner og Bestemmelser for den sidste Kongelige Kroning i 1818.</p>
+               <p xml:id="p4">	Under 7de Marts 1818 behagede Hans Majestæt ved Statsraads Protocol at tilkjendegive den norske Regjering: "at Høistsamme vilde lade Sig krone i Løbet af den anstundende Sommer, og nærmere bestemme Tiden og de dertil nødvendige Foranstaltninger."</p>
+               <p xml:id="p5">	Paa samme Maade behagede Hans Majestæt under 25de Mai at meddele Regjeringen: "at Høistsamme agtede i Begyndelsen af August Maaned at begive Sig til Trondhjem, for der at lade Sig krone, og at Hans Majestæt angaaende det videre dertil hørende vilde give Sin daværende Hofmarschalk Baron Wedel Jarlsberg de fornødne Befalinger.</p>
+               <p xml:id="p6">	Den 24de August befalede Hans Majestæt i et her afholdt Statsraad: "at Hans Excellence Rigets Statholder, tilligemed de Statsraader, der ei følge med Hans Majestæt til Trondhjem, skulde i Overeensstemmelse med Grundlovens 13de § fungere som Kongelig norsk Regjering under Hans Majestæts Fraværelse i Anledning af Kroningen, samt at foruden Statsministeren og de 2de Statsraader, som have ledsaget Hans Majestæt fra Stockholm (Hans Excellence Anker, Sommerhjelm, Fasting) Statsraaderne Collett og C. Krogh skulde udgjøre det norske Statsraad under Opholdet i Trondhjem.</p>
+               <p xml:id="p7">	Om Høiesterets, de fungerende Biskoppers og Storthings Deputationens Tilkaldelse findes ingen skriftlig Oplysning, men det formodes, at de i Følge Hans Majestæts Befalinger ere blevne tilkaldte af Hofchefen.</p>
+               <p xml:id="p8">	Efter saaledes at have gjort underdanig Rede for hvorledes i de omnævnte Henseender forholdtes ved sidste Kroning tillader jeg mig at fremstille mit underdanigste Forslag for den anstundende.</p>
+               <p xml:id="p9">	Statsraad Vogt's Aar i Stockholm vil være udrunden i anstundende Mai Maaned, da det efter Tour tilfalder Statsraad Petersen at afløse ham, og formoder jeg da, at Deres Majestæt vil lade Sig ledsage til Trondhjem af den norske Statsminister og de 2de i Stockholm værende Statsraader Fleischer og Petersen. Statsraad Holst beder sig paa Grund af sin endnu svage Helbred naadigst dispenseret fra at reise til Trondhjem; men da jeg hos samtlige øvrige Statsraader sporer megen Tilbøielighed til at bivaane den høitideligste Act i Norges Rige, tillader jeg mig underdanigst at foreslaae, at Ancienneteten maa tages til Følge:</p>
+               <p xml:id="p10">	Den lykkelige Lod vil derefter tilfalde Statsraaderne Krog og Vogt, i hvis Sted Statsraad Sibbern maatte overtage Revisions-Departementet ved Siden af Armee-Departementet, og Statsraad Holst Finants Departementet tillige med Kirke Departementet.</p>
+               <p xml:id="p11">	For Forretningerne maa jeg imidlertid ansee det hensigtsmæssigere, at Statsraad Vogt her kunde vedblive Finants Departementets Bestyrelse og at Statsraad Sibbern befaledes til Trondhjem, i hvilket Fald Vogt maatte overtage Revisions Departementet og Foss Armee-Departementet ved Siden af deres nu havende Departementer. At Statsraad Schmidt overtager Justits-Departementet, naar Petersen reiser til Stockholm, tillader jeg mig at forudsætte.</p>
+               <p xml:id="p12">	For mit eget Vedkommende tillader jeg mig, med Henhold til min underdanigste Rapport af 4de denne Maaned, at modsee Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p13">	For at Regjeringens Virksomhed ikke skal standse og Deres Majestæt ved Sin høie Ankomst hertil ikke skal blive besværet med en Masse uafgjorte Sager, formener jeg det ikke alene nødvendigt, at den nu som 1818 maa vedblive sin sædvanlige Virksomhed, men derhos gavnlig og ønskelig, at Deres Majestæt naadigst vil bemyndige Regjeringen til under Deres Majestæts Fraværelse i Anledning af Kroningen, endelig at afgjøre<hi rend="underline">alle</hi>  Regjeringssager med Undtagelse af Udnævnelser til Embeder, Ansøgninger om Benaadning og Sager, som Vedkommende udtrykkelig maatte forlange underdanigst foredragne for Deres Majestæt.</p>
+               <p xml:id="p14">	Ved sidste Kroning representeredes Høiesteret af Justitiarius og de 2de ældste Assessorer, og om end ikke Kroningen i æsthetisk Henseende vil vinde nogen Forherligelse ved at følge samme Regel, turde det dog være rigtigst at iagttage Retfærdighed mod Høiesteret, naar dens ældste Medlemmer, som Tilfældet skal være, endnu ønske at være med.</p>
+               <p xml:id="p15">	Biskoppen i Christiania er selvskreven til at udføre den første geistlige Function ved Kroningen og assisteredes ved den sidste af Biskoppen i Trondhjem. Da Biskop Riddervold efter eget Ønske er bleven naadigst dispenseret fra at fungere ved denne Leilighed, tillader jeg mig underdanigst at foreslaae, at Biskoppen i Bergen Dr Neumann, maa blive naadigst tilkaldt, for at fungere som anden Biskop, en Function, hvorpaa denne Rigets ældste hæderlige Biskop vil sætte megen Priis. Det samme veed jeg er Tilfældet med Biskop Kjerschow i Nordland.</p>
+               <p xml:id="p16">	Forestaaende Oplysninger antager jeg maa kunne tjene til Veiledning for de Befalinger, som Deres Majestæt naadigst maatte ville give for den forestaaende Kroning.</p>
+               <p xml:id="p17">	Byskriver Rye, som for sin Deeltagelse i den med Danmark sluttede Postconvention, af Hans Majestæt Kongen af Danmark, er bleven benaadet med Dannebrog Ordenen, har meddeelt mig, at man i Danmark smigrer sig med, at Deres Majestæt vil lade den tilforordnede danske Befuldmægtigede, Kammerjunker og Committeret i den danske General Post-Direction J.C.F. Wedel Heinen vederfares en lignende Naade. Da saadanne Naadesbeviisninger ere sædvanlige og da denne Sædvane fra dansk Side er bleven iagttaget, vover jeg underdanigst at bede Deres Majestæt at ville naadigst forunde benævnte Kammerjunker Wedel-Heinen den Kongelige Nordstjerneorden.</p>
+               <p xml:id="p18">	Fra flere Stæder og Landdistricter indkomme Klager over Mangel paa Kornvarer eller over meget høie Priser, hvorhos andrages paa Korntoldens Ophævelse og Pengelaan til Indkjøb. I førstnævnte Henseende tillader jeg mig underdanigst at referere til min Rapport af 25de forrige Maaned, men da Korntoldens Ophævelse nylig er afslaaet, kan der for Øieblikket neppe være Spørgsmaal om nogen Forandring i den den 4de denne Maaned afgivne Beslutning. Ved det andet Middel vil ikke vindes en Tønde Korns Inførsel til Landet, men da Adgang til Kjøb i Landet derved kan lettes, indstilles underdanigst ved Dagsposten, at Laan i denne Hensigt maa bevilges af Statscassen.</p>
+               <p xml:id="p19">	Tvende norske Notabiliteter ere uenige om Korntoldens Ophævelse. Hr Stabell pesterer derimod i sit Morgenblad; medens Klokker Ueland som sit Formandskabs Ordfører har indgivet Andragende derom.</p>
+               <p xml:id="p20">	Medens den norske Regjering skriver vidtløftige Indstillinger, for at bevise Uhensigtsmæssigheden af Korntoldens Ophævelse i vort Korntrængende Land, er den forlængst hævet i Europas fleste Lande.</p>
+               <p xml:id="p21">	Jeg tillader mig underdanigst at vedlægge en Opgave over Kornbeholdningen i Bergen i Januar Maaned dette og forrige Aar. Senere har Tilførselen været meget ubetydelig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 Marts 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

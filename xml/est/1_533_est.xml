@@ -1,0 +1,105 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>533</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. mars 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. mars 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Gaarsdagens Post bragte mig underdanigst vedlagte Svarskrivelse <lb/>
+fra Capitaine Hagerup, hvorved han med underdanig Taknemmelighed har <lb/>
+modtaget Deres Majestæts naadige Tilbud om at indtræde i den norske <lb/>
+Regjering som Statsraad Erichsens Eftermand.</p>
+               <p xml:id="p3">	Da det i den Kongelige Resolution af 3die December 1853 naadigst <lb/>
+er bestemt som Regel: at Marine Departementets Chef skal have <lb/>
+Commandoen over Søeforsvaret, naar Deres Majestæt ikke anderledes  <lb/>
+befaler, vil det være unødvendig herom at nævne noget ved Capitaine <lb/>
+Hagerups naadige Uenævnelse til Statsraad og Chef for Marine- <lb/>
+Departementet.</p>
+               <p xml:id="p4">	Jeg ansaae det unødvendig i min sidste underdanige Rapport at <lb/>
+yttre mig nærmere om den til Statsraad Stangs Eftermand underdanigst <lb/>
+foreslaaede Amtmand Manthey, fordi Deres Majestæt tilstrækkelig kjender <lb/>
+denne retsindige og dygtige Mand. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Marts 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 9. mars 1856</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <placeName>Carljohansværn</placeName>
+                     <date>den 6te Martz 1856</date>.</dateline>
+                  <lb/>
+Deres Excellence Statholder Løvenskiold <lb/>
+Ridder og Commandeur af Hans Majestæts Ordener <lb/>
+  				  etc. etc. etc.</opener>
+               <p xml:id="p5">	Med inderlig Paaskjønnelse af den Naade og Tillid Hans Majestæt <lb/>
+viser mig, har jeg modtaget det i Deres Excellence meget ærede <lb/>
+Skrivelse af 3die d.M. mig meddeelte Tilbud om at indtræde i den <lb/>
+Norske Regjering som Statsraad Erichsens Eftermand. –</p>
+               <p xml:id="p6">	Jeg anseer det for min Pligt at følge denne Hans Majestæts <lb/>
+naadigste Kaldelse, uanseet de store Betænkeligheder som fremstille <lb/>
+sig for mig naar jeg overveier hvorvidt mine Evner og Kræfter vil <lb/>
+formaae at fyldestgjøre de Krav som vil gjøres til mig, og jeg styrkes <lb/>
+til at vove dette Skridt ved Deres Excellences mig saa dyrebare <lb/>
+Forsikkring om at jeg vil være saavel Dem selv, som de øvrige Medlemmer <lb/>
+af Regjeringen velkommen.</p>
+               <p xml:id="p7">	I det jeg derfor herved erklærer mig villig til at indtræde i <lb/>
+den omhandlede Post, har jeg den Ære at tegne mig Deres Excellences <lb/>
+med særdeles Høiagtelse</p>
+               <closer>
+                  <salute>ærbødigste</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Hagerup</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

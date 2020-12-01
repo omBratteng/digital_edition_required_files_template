@@ -1,0 +1,109 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>197</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 28. juni 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 28. juni 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Af Deres Majestæts naadige Skrivelse af 18de erfarer jeg med <lb/>
+Glæde, at jeg tør vente den Lykke at modtage Deres Majestæter her i <lb/>
+næste Maaned og vil jeg gjøre mig en Glæde af, ifølge naadigst Befaling, <lb/>
+at møde Deres Majestæt med et norsk Dampskib, formodentlig "Christiania" <lb/>
+i Gothenborg den Dag, hvorom nærmere naadig Bestemmelse underdanigst <lb/>
+udbedes betimeligst muligt. Jeg maa herved tillade mig underdanigst <lb/>
+at bemærke, at det er høist magtpaaliggende, at Dampskibet kan <lb/>
+være her tilbage den 24de, <hi rend="underline">senest den 25de Julii</hi>  da endog kun een <lb/>
+Dags længere Forsinkelse vilde forvolde mange Ulemper.</p>
+               <p xml:id="p3">	Forinden Deres Majestæts Afreise fra Stockholm vover jeg at bede <lb/>
+mig naadigst underrettet om, Dagen for Deres Majestæts Ankomst til <lb/>
+Christiania, – om Deres Majestæt befaler at bestemme Ankomsten <hi rend="underline">før</hi>
+                  <lb/>
+Middagen og i saa Fald som sædvanlig vil bevise mig den Naade at indtage <lb/>
+samme Dag denne hos mig. I dette Fald tillader jeg mig efter Overlæg <lb/>
+med General Wedel, underdanigst at foreslaae, at Deres Majestæt og de <lb/>
+Kongelige Prindser ved Ankomsten vil aftræde i det Kongelige Palais i <lb/>
+Byen og efter Middagen naadigst tillade mig at geleide Høistsamme i min <lb/>
+Vogn til Slottet.</p>
+               <p xml:id="p4">	Saavel Deres Majestæts som Hendes Majestæt Dronningens Marschroute, <lb/>
+tillader jeg mig underdanigst at bede mig naadigst tilstillet.</p>
+               <p xml:id="p5">	Da disse underdanige Linier ville indløbe et Par Dage før Deres <lb/>
+Majestæts høie Fødselsdag, tillader jeg mig dertil at fremsende min <lb/>
+underdanigste Lykønskning, med den hjertelige Bøn til Gud, at Han vil  <lb/>
+holde Sin beskyttende Haand over Deres Majestæt og det Kongelige Huus. <lb/>
+Jeg agter at flytte ind til Byen for der at feire Dagen ved en saa stor <lb/>
+Middag som Rummet vil tillade.</p>
+               <p xml:id="p6">	Vi havde nylig, under Behandling i Regjeringen det svenske <lb/>
+Postvæsens gamle Fordring paa det norske, for circa 18,000 Rdl. Svensk <lb/>
+Banco, som i samfulde 27 Aar har været Gjenstand for Discussioner i <lb/>
+combinerede, som i særskilte Statsraad. Det er 14 Aar siden Salig Hans <lb/>
+Excellence Wetterstedt og jeg, efter Høistsalig Kongens Befaling, afgav <lb/>
+den Betænkning, at Fordringen ikke kan gives Medhold fra den juridiske <lb/>
+Synspunct, og at den, om den ikke frafaldtes, maatte afgjøres ved  <lb/>
+Domstolene. Denne min Anskuelse er uforandret; men da jeg ved fornyet <lb/>
+Overveielse fandt det upassende for de forenede Riger, at procedere om en <lb/>
+Sum af ikke større Betydenhed, foreslog jeg at dele Tabet imellem dem, <lb/>
+under Iagttagelse af de constitutionelle Former, hvilket af den Norske <lb/>
+Regjering eenstemmig underdanigst indstilles til Deres Majestæts naadige <lb/>
+Bifald.</p>
+               <p xml:id="p7">	Efter de sidste Indberetninger fra Stavanger, har intet Cholera <lb/>
+Tilfælde der viist sig i de sidste 20 Dage, hvorefter saavel dette <lb/>
+District, som det hele øvrige Rige, Gud være lovet, har kunnet erklæres <lb/>
+frit for Sygdommen.</p>
+               <p xml:id="p8">	Den 25de skeede Grevinde Wedels Jordpaakastelsesact paa Bogstad <lb/>
+i Overvær af en talrig Forsamling, som havde indfunden sig af egen <lb/>
+Drift. Samme Aften nedførtes Liget i Stilhed, ikkun geleidet af den <lb/>
+Afdødes Sønner, Svigersøn og Datterbørn, til Vækkerød, hvorfra det førtes <lb/>
+til Søes til Gravcapellet ved Jarlsberg.</p>
+               <p xml:id="p9">	Den 23de, 24de og 25de havde vi skjønne varme Sommerdage, <lb/>
+hvorefter destoværre Luften igjen er bleven kold og ugunstig for <lb/>
+Vegetationen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 28 Junii 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

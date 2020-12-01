@@ -1,0 +1,82 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>300</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 29. mai 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 29. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 25de denne Maaned.</p>
+               <p xml:id="p2">	Med Deres Majestæts naadige Tilladelse agter jeg i Morgen tidlig <lb/>
+at tiltræde en Reise til Fossum, hvorfra jeg haaber at komme her <lb/>
+tilbage den 11te eller 12te Junii, og har jeg til Statsraad Vogt som <lb/>
+Regjeringens ældste Medlem overdraget mine Vices under min Fraværelse.</p>
+               <p xml:id="p3">	De danske og Lundensiske Studentere ventes den 7de eller 8de <lb/>
+Juny. Da de norske Indbydere Intet have at tilbyde deres Gjæster uden <lb/>
+Velvillie, var det at forudsee, at de for Qvarteer, Beværtning, <lb/>
+Befordring, Morskab, maatte søge Hjelp hos Byens bosatte Indvaanere, som <lb/>
+ikke ville slippe dette Besøg under 5000 Speciedaler i Penge og andre <lb/>
+Præstationer. En lignende Tribut kan ventes næste Aar til Upsalas <lb/>
+Studenters lovede Besøg. Paa de just i denne Tid forhaanden værende <lb/>
+akademiske Examina, vil dette Studenter Besøg have en forstyrrende <lb/>
+Indflydelse; men i vor forstyrrede Tid ansees Examina for en Bisag, <lb/>
+Morskab for en Hovedsag.</p>
+               <p xml:id="p4">	Da jeg i Statsraadet i Gaar bragte Budgettets Behandling i <lb/>
+Storthinget paa Bane, undslap Statsraad Riddervold den Yttring, at <lb/>
+Storthinget kan behøve at forblive samlet til October Maaned og Stang <lb/>
+meente endnu længere. Dette viser, hvad af disse Statsraader kan ventes, <lb/>
+om, som jeg haaber, her bliver Spørgsmaal om en tidligere Opløsning. <lb/>
+Imidlertid har Storthingets Præsident, Pastor Harbitz, i Dag for mig <lb/>
+yttret det Haab, at det nye Budget maa kunne blive færdigt til 1ste <lb/>
+July, da det nu gjældende udløber. Jeg ønsker det, men betvivler det.</p>
+               <p xml:id="p5">	Sluttelig anbefaler jeg mig underdanigst indtil videre Deres <lb/>
+Majestæts Naade og Bevaagenhed. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de Mai 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

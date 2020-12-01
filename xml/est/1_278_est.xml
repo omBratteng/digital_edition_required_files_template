@@ -1,0 +1,171 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>278</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 13. mars 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 13. mars 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Atter reduceret til Pennen, lader jeg den tilfredsstille mit <lb/>
+Hjertes Trang, vet at gjentage min underdanige Taksigelse for Deres <lb/>
+Majestæts naadige Besøg, som har været saa velgjørende, at Deres <lb/>
+Majestæt tør føele fuld Tilfredsstillelse for de dermed forbundne <lb/>
+Opoffrelser og Besværligheder.</p>
+               <p xml:id="p2">	Deres Majestæt har Selv kunnet overbevise Sig om Nødvendigheden <lb/>
+af den Kongelige Nærværelse ved Storthinget her, som ved Rigsdagen <lb/>
+der, hvilket forhaabentlig vil foranledige Deres Majestæt til <lb/>
+at bestemme disse Forsamlinger fremtidig afholdte til forskjellige <lb/>
+Tider, hvorved begges Trang til Deres Majestæts høie Nærværelse <lb/>
+maa kunne blive tilfredsstillet.</p>
+               <p xml:id="p3">	Alle vore Ønsker forene sig for Deres Majestæts lykkelige <lb/>
+Reise og Hjemkomst den Dag, der ikke alene er en Fest- og Glædesdag <lb/>
+i den Kongelige Familie; men i 2de Riger, som jeg imorgen vil feire <lb/>
+med mine hjertelige Ønsker og ved en større Middag.</p>
+               <p xml:id="p4">	Dagen efter Deres Majestæts Afreise modtog jeg underdanigst <lb/>
+i Copie vedlagte Rapport fra Amtmanden i Nordre Trondhjems Amt. Det <lb/>
+glæder mig, at denne brave Embedsmand har funden en om end ubehagelig <lb/>
+Anledning til at vise sin udmærkede praktiske Dygtighed, hvorfor <lb/>
+jeg tillader mig underdanigst at anbefale ham til Deres Majestæts <lb/>
+naadige Paaskjønnelse. Med Hensyn til, at Grev Trampe i en <lb/>
+lang Række af Aar har været Amtmand, at han længe har været Ridder <lb/>
+af Nordstjerne Ordenen, at de 2de yngste Amtmænd i Riget ere <lb/>
+benaadede med Ridderkorset af Sanct Olofs Ordenen, vover jeg <lb/>
+underdanigst at udbede ham benaadet med Commandeur Korset af sidstnævnte <lb/>
+Orden, som et vel fortjent Beviis paa Deres Majestæts Naade. Samtidig <lb/>
+tillader jeg mig underdanigst at anbefale Statsraaderne Erichsen <lb/>
+og Sylow til en lige Kongelig Naade, da de begge vare benaadede <lb/>
+med Ridderkorset, forinden de indtraadte i deres nærværende høie <lb/>
+Embedsstilling, hvori de have viist sig Deres Majestæts Naade værdige.</p>
+               <p xml:id="p5">	Naar Deres Majestæt vil give General Bloch et vel fortjent <lb/>
+Beviis paa Kongelig Naade formoder jeg at Storkorset af Sværdordenen, <lb/>
+hvis Commandeur han længe har havt den Ære at være, vil være ham <lb/>
+behageligst.</p>
+               <p xml:id="p6">	Siden Deres Majestæts Afreise er Alt gaaet her i sin sædvanlige <lb/>
+Gang. Vi havde Statsraad Tirsdag og Onsdag, og det samme forestaaer <lb/>
+i Morgen og i Overmorgen. Har det end langt Udseende med den <lb/>
+i Grundlovens § 94 bebudede nye civile Lovbog, skal dog Ingen kunne <lb/>
+beskylde vore Departements Chefer for Ladhed i den partielle Lovgivning, <lb/>
+hvori vi have en virkelig Manie, men til at forfatte en Lovbog, <lb/>
+en Côde, udfordres en anden Statsmandsdygtighed, end til at skrive <lb/>
+partielle Lovstumper, hvis Redaction som oftest hos os medtage flere <lb/>
+Statsraads-Sessioner.</p>
+               <p xml:id="p7">	Efterat Harbitz i Gaar havde frabedet sig gjentaget Præsident <lb/>
+Valg, blev Amtmand Aall valgt med 73 Stemmer, Jaabæk og Ueland  <lb/>
+anstrængede sig for Valg af Directeur Holst og det caracteriserer dette <lb/>
+Storthing, at denne radicale Person kunde faae 23 Stemmer. Idag <lb/>
+diskuteres og disputeres i Storthinget om Jernbanen.</p>
+               <p xml:id="p8">	Efterat jeg havde gjort Justitiarius Arntzen opmærksom paa <lb/>
+Uelands og Lerches hinterlistige Forslag om Jernbane-Directionen, <lb/>
+sigtende til ogsaa ved denne Leilighed at udvide Storthingets og <lb/>
+berøve Kongemagtens Myndighed, har han i Christiania Posten No 893 <lb/>
+skrevet en fortrinlig Artikel om denne Gjenstand, hvorfor jeg udbeder <lb/>
+Deres Majestæts særdeles naadige Opmærksomhed. Jeg smigrer <lb/>
+mig med, at Deres Majestæt naadigst vil bifalde min confidentielle <lb/>
+Meddelelse i denne Anledning til Storthingets Præsident: "at Sanction <lb/>
+ikke kan ventes til nogen Beslutning for Jernbanen, der maatte <lb/>
+være knyttet til Betingelser,som maatte ansees præjudiceerlig for <lb/>
+Kongelige Prærogativer og at hvor megen Interesse end Deres Majestæt <lb/>
+har for Jernbanen, maatte Deres Majestæt dog heller opoffre <lb/>
+denne end noget Kronens Prærogativ. Disse kan ikke opoffres uden at <lb/>
+opoffre vor allerede noksom svage monarchiske Forfatning.</p>
+               <p xml:id="p9">	Jeg vover ved denne Leilighed at yttre den underdanige Formening, <lb/>
+at Justitiarius Arntzen visselig maa ansees høist værdig til <lb/>
+at benaades med Ridderkorset af Sanct Olafs Ordenen saavel ved sin <lb/>
+udmærkede offentlige Virksomhed som ved sin Embedsstilling.</p>
+               <p xml:id="p10">	Saavidt skreven meddeler Statsraad Stang mig, at Dagens <lb/>
+Discussioner i Storthinget om Jernbanen give ham godt Haab om den  <lb/>
+Kongelige Propositions Antagelse. Da flere Talere havde anmeldt sig, <lb/>
+sluttedes Forhandlingerne i Eftermiddag Kl.3 for at fortsættes imorgen.</p>
+               <p xml:id="p11">	Af nu fra Amtmand Manthey modtagen Skrivelse erfarer jeg, at <lb/>
+han først efter Deres Majestæts Gjennemreise modtog Communication <lb/>
+herom, fordi denne ved en Feiltagelse var kommet til et urigtigt <lb/>
+Postcontoir. Han beklager saare meget derved at være berøvet den <lb/>
+Lykke at opvarte Deres Majestæt ved Reisen gjennem Hedemarkens Amt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 Marts 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 13. mars 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Gjenpart</hi>
+                  <lb/>
+af en Skrivelse fra Amtmanden i Nordre Throndhjems Amt til den Kongelige Norske Regjering, dateret Throndhjem den 7de Marts 1851.</head>
+               <p xml:id="p12">	Efter Amtmandens Ankomst til Levanger den 2den d.M. har Alt <lb/>
+dersteds været roligt. − Forhørene continuere saavel over Urostifterne <lb/>
+dersteds, hvorunder omtrent 200 Personer ville blive afhørte, <lb/>
+som i Størdalen, hvor ligesaa et Hundrede Mennesker ville blive <lb/>
+afhørte. − Til Tirsdag Aften var Alt roligt i Størdalen og det  <lb/>
+paabegyndte Levanger Marked har været besøgt af en Mængde Mennesker  <lb/>
+især Onsdagen, hvorimod igaar og idag har været mindre. − Omsætningen <lb/>
+har været liden og Pengemangel har viist sig i al Handel, <lb/>
+idet Priserne have været billige, men faae Kjøbere. − Ingen Uordener <lb/>
+have fundet Sted. Da Forholdene saaledes lade haabe, at den samlede <lb/>
+militaire Styrke uden Fare kan formindskes, har Amtmanden idag <lb/>
+begivet sig hid for at afhandle det Fornødne med Brigadechefen og <lb/>
+vender han imorgen om Størdalen tilbage til Levanger, hvor han vil <lb/>
+indtræffe Søndag Aften. En Afdeling Infanterie bør imidlertid blive <lb/>
+staaende paa begge Steder og maaskee noget Cavallerie ved Levanger, <lb/>
+hvor en Deel navngivne Personer i et Andragende til Fattigcommissionen <lb/>
+til Slutning have ytret:</p>
+               <p xml:id="p13">	"maae vi ønske, at vedkommende Øvrighed ville gaae varlig og <lb/>
+med Lemfældighed tilværks mod de formeentlige Oprørere og ikke være <lb/>
+alt for dristige til at arrestere hele Skarer af dem, thi paa denne <lb/>
+Maade kan det frygtes det maaskee kunde bryde løs til et større <lb/>
+Oprør, da Misfornøielse ytres trindtomkring i denne betænkelige og <lb/>
+bevægelige Tid."</p>
+               <p xml:id="p14">	Den formeentlige Concipist af dette Andragende har Amtmanden <lb/>
+varslet at møde sig Mandagen den 10de førstkommende.</p>
+               <closer>Gjenpartens Rigtighed bekræfter <lb/>
+                  <signed>
+                     <persName>Otto Dahl</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>79</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. november 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. november 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de og 16de denne Maaned.</p>
+               <p xml:id="p2">	Hr Thornes Yttring om en Drammens Formandskab herfra givet Meddelelse om Discussionen i Statsraadet betræffende Drammens Marked, frapperede mig ubehagelig. Jeg yttrede underdanigst i mit sidste, at denne Meddelelse vilde blive Gjenstand for min Undersøgelse, og forbeholdt mig Indberetning herom, som jeg anseer mig forpligtet til underdanigst at afgive.</p>
+               <p xml:id="p3">	Paa min Opfordring om Oplysning om den givne Meddelelse, erklærede Statsraad Stang ærlig og uforbeholden: "at han efter Discussionen i Statsraadet om Drammens Marked den 11te denne Maaned, havde meddeelt sin Ven, – Formandskabets Ordfører sammesteds, – Procurator Middelfart, Underretning om Sagens Stilling, for at foranledige Vedkommende til personlig directe at kunne henvende sig til Deres Majestæt.</p>
+               <p xml:id="p4">	Saa overbeviist som jeg er om, at Statsraad Stang i denne som i enhver anden Begivenhed, har handlet bona fide, og efter sin Anskuelse om det Rigtige, kan jeg dog ingenlunde billige, at noget Statsraadets Medlem giver Meddelelse om, hvad i Statsraadet er bleven forhandlet, mindst om en af Deres Majestæt endnu uafgjort Sag. Saadan Meddelelse er formeentlig urigtig, upassende, utidig og kan foraarsage mangehaande Ubehageligheder og Ulemper.</p>
+               <p xml:id="p5">	Denne min Anskuelse har jeg uforbeholden meddeelt Statsraad Stang og gjort ham opmærksom paa den store Forskjel mellem hans offentlige Stilling som Statsraad og som Advocat. – Den sidstnævnte er Part i enhver Sag, hvorfor han plaiderer; hvorimod Statsraaden ingenlunde bør ansee sig som Part; men bestræbe sig for at være upartisk Dommer.</p>
+               <p xml:id="p6">	Om Deres Majestæt billiger disse mine Anskuelser, som det maaskee kan være gavnligt for den yngre brave dygtige Mand at have erfaret, beder jeg underdanigst, at Deres Majestæt naadigst vil ignorere det Passerede og at det ikke maa blive omtalt.</p>
+               <p xml:id="p7">	Jeg har ikke været uden Bekymring for Christiania Byes Forsyning under Vintermaanederne med den første Nødvendighedsartikel, Ruug; men denne Bekymring er ved nu anstillet Undersøgelse, Gudskee Lov! hævet.</p>
+               <p xml:id="p8">	Det her sædvanlige Forbrug af Ruug er 4,100 Tønder maanedlig, hvorefter i 5 Vintermaaneder, til 1ste Mai, vil behøves 20,500 Tønder. Den nærværende Ruug-Beholdning udgjør 18,100 Tønder, og har Tilførselen fra 1ste December til 1ste Mai i de sidste 3 Aar i Gjennemsnit beløbet 15 à 16,000 Tønder.</p>
+               <p xml:id="p9">	Siden min Indflytning til Byen, har jeg jevnlig taget de under sidste Sommers Løb iværksatte Bygningsarbeider i Øiesyn og om de daglige Fremskridt ere i Øine faldende, saa maa jeg derhos beklage, at Plan savnes i Mangel af nogen ledende Haand.</p>
+               <p xml:id="p10">	Dette Savn er blandt Andet paafaldende i Slotsparken, som ved Beliggenhed og Arreal burde blive en Prydelse for det Kongelige Slot og Christiania Bye, samt en velgjørende Ressource for dets Indbyggere. Imidlertid ligger dette ikke ubetydelige Terrain, efter en lang Række af Aar, endnu som et Chaos, comme une terre en friche, og vil i Mangel af en Impuls, uden Tvivl endnu længe blive liggende i samme Forfatning. Jeg tillader mig derfor underdanigst at bede Deres Majestæt at ville naadigst tage Initiativet ved i Statsraads Protocol at befale Finants-Departementet at opfordre Slots-Commissionen til at fremkomme med en Plan til Slotsparkens Anlæg og Cultur.</p>
+               <p xml:id="p11">	Jeg betvivler, at vi i eget Land kunne finde den fornødne Sagkundskab og Smag for en saadan Plan; men en Mand i Besiddelse af disse Egenskaber vilde neppe blive vanskelig at finde i Kjøbenhavn, Stockholm eller Hamburg.</p>
+               <p xml:id="p12">	Vi have her endnu ikke seet Snee. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 November 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

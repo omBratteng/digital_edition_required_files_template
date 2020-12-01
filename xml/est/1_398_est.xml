@@ -1,0 +1,69 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>398</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 15. august 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 15. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 12te denne Maaned, er <lb/>
+der indtruffen 4 Choleratilfælde, Fredag den 12te var der intet; men <lb/>
+Løverdag 1 og Søndag 3. Saaledes i det Hele fra 26de Julii til 15 <lb/>
+August: 25 Angrebne, hvoraf 18 Døde, 1 Helbredet og 6 under Behandling.</p>
+               <p xml:id="p2">	I Laurvig har der indtil den 11te August i det Hele været 13 <lb/>
+Angrebne, hvoraf 9 Døde.</p>
+               <p xml:id="p3">	Efter Meddelelse fra et Medlem af Medicinal Commmittéen, vil denne <lb/>
+idag, i Skrivelse til Indre Departementet, henstille til dette <lb/>
+Departement at bevirke Christiania med Forstæder erklæret angreben <lb/>
+af epidemisk ondartet Cholera.</p>
+               <p xml:id="p4">	Naar denne Erklæring indløber, vil det Fornødne blive iagttaget <lb/>
+af vedkommende Departementer, – ligesom Regjeringen, med Hensyn til <lb/>
+de fornødne Quarantaine Foranstaltninger, vil indkomme med underdanigst <lb/>
+Indberetning og Indstilling. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 August 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

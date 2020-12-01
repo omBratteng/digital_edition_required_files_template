@@ -1,0 +1,124 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>44</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. november 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. november 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Af min sidste underdanigste Rapport af 14de denne Maaned vil Deres <lb/>
+Majestæt naadigst have erfaret, at medens Regjeringen troede sig  <lb/>
+forpligtet til uden Ophold at gjøre en foreløbig Indberetning om den  <lb/>
+afsagte Rigsretsdom, forbeholdt den sig herom at indgive sin underdanigste <lb/>
+Indstilling.</p>
+               <p xml:id="p2">	Af denne, som afsendes med Dagsposten, tillader jeg mig underdanigst <lb/>
+at vedlægge en Copie, hvoraf naadigst vil erfares, at Regjeringens øvrige <lb/>
+Medlemmer ere enige med mig om at betragte Rigsretsdommmen fra den <lb/>
+i min underdanigste sidste Rapport angivne Synspunkt, det er, som non  <lb/>
+avenu og som uden nogensomhelst Virkning eller Indflydelse for  <lb/>
+Regjeringen. – Denne Synspunkt ønske Regjeringens Medlemmer, at Deres <lb/>
+Majestæt naadigst vil bifalde ved i Statsraads-Protocollen at afgive en <lb/>
+saalydende naadigst Resolution:</p>
+               <p xml:id="p3">	– "Hans Majestæt betragter den afsagte Rigsretsdom fra samme <lb/>
+Synspunkt, som den Norske Regjering. Hans Majestæt forbeholder Sig, i  <lb/>
+overordentlige Tilfælde, da det almindelige Vel maatte kræve det, at <lb/>
+benytte den Myndighed, som Grundloven hjemler Høistsamme, til ligesaavel <lb/>
+provisorisk at paabyde Told som i andre Retninger at give provisoriske <lb/>
+Anordninger angaaende Told." – </p>
+               <p xml:id="p4">	En saa kort og bestemt Erklæring vil blive modtaget med almindeligt <lb/>
+Bifald, tjene til Tilretteviisning for tilkommende Odelsthing og <lb/>
+Rigsretter og forhaabentlig gjøre Ende paa Striden.</p>
+               <p xml:id="p5">	Jeg havde tænkt det hensigtmæssigt, at Indstillingen og den <lb/>
+Kongelige Resolution befaledes meddeelt førstkommende Odelsthing, men <lb/>
+jeg har efter nøiere Overveielse frafaldt denne Mening, blandt Andet  <lb/>
+fordi saadan Meddelelse kunde faae Udseende af en Udfordring til Strid. <lb/>
+Det samme, som derved vilde opnaaes, vil opnaaes ved at offentliggjøre <lb/>
+Indstillingen og Deres Majestæts naadige Resolution jo før desto bedre. <lb/>
+Alt Forestaaende er Resultatet af de Overlægninger som jeg til Følge <lb/>
+Deres Majestæts naadige Skrivelse af 13de denne Maaned har pleiet <lb/>
+med Statsraadets øvrige Medlemmer, paa hvem denne naadige Skrivelses <lb/>
+Indhold gjorde et særdeles godt Indtryk, som den opvakte Statsraad <lb/>
+Vogt's underdanigste Taknemmelighed.</p>
+               <p xml:id="p6">	Sidstleden Søndag gaves et Festmaaltid for Statsraad Vogt i Hôtel <lb/>
+du Nord. Selskabet bestod af 100 Christiania Byes agtværdigste Borgere <lb/>
+og Rummet tillod ikke Fleres Deeltagelse. Underhaanden underrettet om, <lb/>
+at Man agtede at indbyde mig og Regjeringens øvrige Medlemmer, og at <lb/>
+Demonstrationen skulde være for os Alle, troede jeg at burde venskabelig <lb/>
+afværge dette, fordi man vanskelig kunde have undgaaet at yttre <lb/>
+sig offentlig om den Sag, som egentlig var Gjenstand for Feiringen,hvilket <lb/>
+jeg fandt upassende, forinden Regjeringen for Deres Majestæt havde <lb/>
+fremført sin Anskuelse og denne er bleven naadigst bifaldt. Imidlertid <lb/>
+er det tilfredsstillende ogsaa ved denne Leilighed at have erfaret <lb/>
+Christiania Byes gode Stemning. Til næste Søndag Middag har jeg indbuden <lb/>
+Festmaaltidets Forstandere og en Deel af Gjæsterne.</p>
+               <p xml:id="p7">	Med Dagsposten afsendes Regjeringens underdanigste Indstilling om <lb/>
+Jernbaneanlægget som desværre ikke stemmer med mit Ønske og tidligere <lb/>
+Forventning. Den gaaer nemlig ud paa, at Deres Majestæt, saafremt det <lb/>
+engelske Interessentskab inden 6 Maaneder har præsteret Garantie for <lb/>
+at kunne iværksætte Anlægget, vil sammenkalde et overordentligt Storthing <lb/>
+for at dette i Forening med Deres Majestæt maa kunne give  <lb/>
+Interessentskabet de nødvendige Concessioner. Meningerne vare i Statsraadet <lb/>
+deelte, om Kongemagtens Ret til at bevilge Expropriation og exclusivt <lb/>
+Monopol, hvilket Juristen Stang benægter og hvorom Schweigaard omsider <lb/>
+blev tvivlsom. Jeg troer i denne Stund Deres Majestæt berettiget til <lb/>
+i de benævnte Henseender at bevilge det Fornødne; men en anden upaatænkt, <lb/>
+uovervindelig Vanskelighed møder. Efter almindelige Love vilde <lb/>
+Interessentskabet blive forpligtet til at deeltage i alle offentlige <lb/>
+Udgifter og Byrder i enhver Commune, hvorigjennem Jernbanen passerer. <lb/>
+Herfor bør Interessentskabet fritages, hvilket kun kan skee ved Lov, <lb/>
+hvortil desværre Storthingets Medvirkning behøves.</p>
+               <p xml:id="p8">	Efterat jeg igaar har meddeelt Generalconsul Crowe Forestaaende, <lb/>
+har han idag tiltraadt Reisen til England, i Haab om at faae det Fornødne <lb/>
+arrangeret. Hans Iver for Sagen er lige stor. Give Gud, at vore <lb/>
+ofte beklagelige Former ikke maa afskrække hans Medinteressentere.</p>
+               <p xml:id="p9">	Vi have daglig et høist ubehageligt Veir, med Regn, Storm og usund <lb/>
+Luft-Temperatur. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de November 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

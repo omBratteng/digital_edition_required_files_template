@@ -1,0 +1,198 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>183</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. mars 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. mars 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	Paa Grund af Deres Majestæts mig vel bekjendte ved Erfaring <lb/>
+stadfæstede Anskuelse om Nytten og Nødvendigheden af  <lb/>
+Quarantaineforanstaltninger, var jeg saa forvisset om Deres Majestæts <lb/>
+naadige Bifald til de af Marine Departementet dertil sigtende fremsatte <lb/>
+Forslag, at Statsraad Erichsen kun oppebiede Deres Majestæts naadige <lb/>
+Beslutning, for at begive sig til Horten, for at føie de nødvendige <lb/>
+Foranstaltninger til sammes Iværksættelse. I denne Forventning bestyrkedes <lb/>
+jeg ved et Brev fra Statsministeren af den 5te, hvori ingensomhelst <lb/>
+Betænkelighed mod det Foreslaaede yttredes, hvorimod jeg af et senere <lb/>
+af 8de og medfølgende Protocol erfarede den i Stockholm opkastede  <lb/>
+juridiske Betænkelighed.</p>
+               <p xml:id="p3">	I denne som i en hver anden Begivenhed anseer jeg mig<hi rend="underline">forpligtet</hi>
+                  <lb/>
+til at yttre mig aldeles uforbeholdent for Deres Majestæt under den <lb/>
+Forudsætning at det er alene for Deres Majestæt, og fra denne Synspunkt <lb/>
+bør jeg ikke tilbageholde den Formening, at Nogen i Stockholm har <lb/>
+foranlediget Betænkelighederne for ved et juridisk Maneuvre at forhindre <lb/>
+en Foranstaltning, som han ikke ynder.</p>
+               <p xml:id="p4">	2de Betænkeligheder ere opkastede: 1o at Statsraadets Pluralitet <lb/>
+ikke har afgivet Betænkning om det subsidiaire Forslag; 2o at dette <lb/>
+ansees stridende mod Quarantaine Lovens 14de §. Dertil tillader jeg <lb/>
+mig underdanigst at bemærke at naar et alternativt Forslag fremstilles <lb/>
+for Deres Majestæt, bør de Statsraader, som erklære sig for det Ene, <lb/>
+ikke destomindre tænke sig Muligheden af at Deres Majestæt vil bifalde <lb/>
+det andet, og følgelig være forpligtede til ogsaa at yttre sig over dette. <lb/>
+I Mangel heraf, som in casu, maatte man i Stockholm have været beføiet  <lb/>
+til at ansee deres Taushed som Bifald, om man ikke, ved at fordre <lb/>
+ny Betænkning havde tilsigtet at foranledige Vanskeligheder og derved <lb/>
+at forhindre det subsidiaire Forslags Antagelse.</p>
+               <p xml:id="p5">	I Anledning af Deres Majestæts naadige Befaling til den norske <lb/>
+Regjering om at afgive Betænkning om det Kongelige Marine-Departements <lb/>
+subsidiaire Forslag i underdanigst Indstilling af 28de Febr. sidstl. <lb/>
+betræffende Quarantaine Foranstaltninger for Kystfarten, kan ansees <lb/>
+stemmende med de i Lov af 12te Juli f. A. givne Bestemmelser om  <lb/>
+Quarantainevæsenet, tillader jeg mig underdanigst at yttre Følgende:</p>
+               <p xml:id="p6">	Benævnte Lov giver i dens 13 første §er Quarantaine Forskrifter <lb/>
+mod den orientaliske Pest. Først i dens 14de § omhandles den ondartede <lb/>
+Choleraepidemie og gives deri Forskrifter mod den sammes Smitte, som kan <lb/>
+føres til Riget ved Fartøier, der komme fra noget smittet Sted i Europa <lb/>
+paa denne Side af Cap Finistærræ, d. e. <hi rend="underline">fra Steder udenfor Riget</hi>. Derimod <lb/>
+giver Loven ingensomhelst Forskrift mod den ondartede Choleraepidemies <lb/>
+Udbrydelse ved Smitte, fra det ene Sted i Riget til det andet, uagtet <lb/>
+det maa erkjendes, at denne Smitte ved den lettere og hyppigere <lb/>
+commenication snarere kan indtræffe, naar Sygdommen allerede er i Landet <lb/>
+og at Ulykken for det endnu usmittede Sted, bliver lige stor, om det <lb/>
+modtager Smitten fra et inden eller fra et udenrigsk Sted.</p>
+               <p xml:id="p7">	Naar dette erkjendes, kan det ikke antages, at Lovgiveren har villet <lb/>
+vise mindre Omhue for at afværge den lettere og lige farlige Smitte fra <lb/>
+det ene Sted i Riget til det andet, som fra udenrigs Sted, hvorimod jeg <lb/>
+antager, at han med velberaad Hu har undladt at give Forskrifter for  <lb/>
+dette Tilfælde med Hensyn paa den Foranderlighed, som de paa Grund af <lb/>
+uforudseelige afvexlende Omstændigheder og locale Forholde kan kræve og at <lb/>
+han derfor har villet overlade til Kongen at give Forskrifter mod Smittens <lb/>
+Udbredelse indenrigs.</p>
+               <p xml:id="p8">	Loven viser Lovgiverens Anskuelse om at Choleraepidemien kan <lb/>
+forplantes ved Smitte, thi i modsat Fald behøvedes ingen Forskrifter  <lb/>
+derimod, og at han derfor anseer Forskrifter mod Smittens Udbredelse  <lb/>
+hensigtsmæssige. Deslige Forskrifter har Loven givet mod den Smitte, som kan <lb/>
+komme fra udenrigsk Sted, men ikke mod den som, naar Sygdommen er i Landet, <lb/>
+lettere og oftere kan komme fra indenrigsk Sted. Jeg antager saaledes, <lb/>
+at Lovgiveren med velberaad Hu har undladt at give Forskrifter for <lb/>
+dette Tilfælde, at det følgelig ligger i Sagens Natur, at Kongen maa <lb/>
+kunne give dem og at Lovgiveren har villet antyde denne Mening ved <lb/>
+Udtrykkene i 14de § in fine.</p>
+               <p xml:id="p9">	Som et hensigtsmæssigt Middel mod Smittens Udbredelse ved Kystfarten <lb/>
+har det Kongl. Marine Departement underdanigst foreslaaet: Oprettelse <lb/>
+af Quarantaine Stationer ved Grændsepunkterne af den allerede smittede <lb/>
+Kyststrækning, hvor alle derfra kommende Fartøier skulle undergives <lb/>
+Observationsquarantaine, forinden det tillades dem at fortsætte <lb/>
+Reisen videre langs Kysten.</p>
+               <p xml:id="p10">	Jeg anseer dette Forslag ikke alene hensigtsmæssigt, med dets <lb/>
+Iværksættelse uundgaaelig nødvendig, for at afværge Smittens videre <lb/>
+Udbredelse til Rigets hele øvrige endnu usmittede Kyststrækning og <lb/>
+jeg formaaer ikke at indsee, at den foreslaaede dertil sigtende  <lb/>
+Foranstaltning skulde være stridende mod den Adgang, som Loven af 12te <lb/>
+Juli 1848 i 14de § giver de <hi rend="underline">fra udenrigske Steder</hi>  kommende Skibsførere til <lb/>
+at udholde Observationsquarantaine paa ethvert Sted, hvor der er oprettet <lb/>
+Quarantaine Commission medens Loven ingen Bestemmelse i denne Henseende <lb/>
+har givet for Fartøier, kommende fra indenrigsk smittet Sted, <lb/>
+fordi den formeentlig har villet overlade til Kongen, for disse at give <lb/>
+de fornødne Forskrifter, som Omstændigheder, som de nærværende maatte <lb/>
+kræve. Man er ikke beføiet til at anvende paa Fartøier, kommende fra <lb/>
+indenrigsk Sted, Forskrifter, som udtrykkelig allene ere givne for <lb/>
+Fartøier, kommende fra udenrigsk Sted. Lovens Forskrift for de fra  <lb/>
+udenrigske Steder kommende Fartøier kan være hensigtssvarende for disse, <lb/>
+men den vilde paa de af Marine Departementet anførte Grunde aldeles <lb/>
+ikke være det for Fartøier i Kystfarten.</p>
+               <p xml:id="p11">	Fra de anførte Synspuncte tillader jeg mig underdanigst at indstille, <lb/>
+at det naadigst maa behage Deres Majestæt at bifalde Marine Departementets <lb/>
+subsidiaire Forslag i dets underdanigste Indstilling af 28de Febr. <lb/>
+sidstl. og naadigst at bemyndige den Norske Regjering til paa Deres <lb/>
+Majestæts høie Vegne, ved en provisorisk Anordning at paabyde de hermed <lb/>
+overeensstemmende nødvendige Forskrifter og øvrige Foranstaltninger, <lb/>
+som maatte ansees hensigtsmæssige og nødvendige i Anledning af det nu <lb/>
+indtrufne Tilfælde, at Choleraepidemien er udbrudt i en Deel af Riget.</p>
+               <p xml:id="p12">	Betræffende dettes Lovmedholdighed tillader jeg mig underdanigst <lb/>
+at referere til mit vedlagte Votum, hvori jeg har søgt at bevise, at den <lb/>
+foreslaaede Foranstaltning for Kystfarten ikke strider mod Quarantainelovens <lb/>
+14de § , fordi dennes Forskrifter alene ere givne for Fartøier, <lb/>
+der komme fra <hi rend="underline">udenrigske</hi>  Steder. Denne min juridiske Anskuelse, som <lb/>
+Statsraad Erichsen oprindelig har deelt, er tiltraadt af Statsraaderne <lb/>
+Vogt og Sibbern, hvorimod de øvrige 4 Statsraader dele Stangs Mening, <lb/>
+som mindre forundrer mig, naar det betænkes, at denne har taget juridisk <lb/>
+Embeds Examen 35 Aar senere end jeg. Iøvrigt ere, med Undtagelse <lb/>
+af Erichsen og jeg, alle enige om, underdanigst at indstille, at Deres <lb/>
+Majestæt ikke vil bifalde det subsidiaire Forslag, hvoraf vil følge, <lb/>
+at Alt vil blive in statu quo, det er, at vi aldeles mangle Quarantaine <lb/>
+Foreskrifter for Smittens Udbredelse inden Riget, da Lovens Forskrifter <lb/>
+ikkun gjælder Smitte fra udenrigsk Sted.</p>
+               <p xml:id="p13">	Denne Mangel kan kun afhjelpes ved en provisorisk Anordning, hvortil <lb/>
+Omstændighederne give Anledning og Grundlovens 17de § Hjemmel, ligesom <lb/>
+det formenes, at den vil kunne redigeres paa Deres Majestæts høie <lb/>
+Vegne, hensigtsmæssigere her end i Stockholm.</p>
+               <p xml:id="p14">	Jeg har nu tilladt mig at udtale mig efter Pligt og Samvittighed <lb/>
+om denne vigtige Gjenstand, og jeg kan i Sandhed sige: "dixi et liberavi <lb/>
+animam meam". –</p>
+               <p xml:id="p15">	Derefter bør jeg ikke tillade mig udenfor min officielle Stemme, <lb/>
+underdanigst at tilraade Deres Majestæt at bifalde det Ene eller det <lb/>
+Andet Forslag; jeg kan jo mulig mistage mig, men Pligt mod Deres Majestæt <lb/>
+og mod Fædrelandet byder mig indstændigst at bede, underdanigst <lb/>
+at raade, at Deres Majestæt ikke vil bifalde det principale Forslag <lb/>
+om nu at ophæve al Quarantaine i det hele Rige. Redactionen af Deres <lb/>
+Majestæts seneste naadige Resolution har levnet Antagonisterne Haab <lb/>
+herom, fordi Afslaget ikke er bestemt; men kun yttrer Betænkelighed, <lb/>
+som man ved Ihærdighed haaber at kunne overvinde.</p>
+               <p xml:id="p16">	Jeg vil underdanigst tillade mig at nævne en Episode i denne <lb/>
+Begivenhed. Amtmanden i Finmarken, Harris, for hvis Characteer jeg ikke <lb/>
+har synderlig Agtelse, men hvis Dygtighed jeg erkjender, har indberettet, <lb/>
+at han, befrygtende, at Cholera kan udbryde blandt den fiskende <lb/>
+Almue i Lofoten, som derfra kan bringe Sygdommen til Hjemstederne, og <lb/>
+da Tid og Omstændigheder ikke tillade ham at oppebie Forholdsordres, <lb/>
+har anordnet Quarantaine- og Lægetilsyn paa de Puncte, som Fiskerne <lb/>
+paa Hjemreisen maa passere og at han personlig har begivet sig til disse <lb/>
+langt bortfjernede Steder for at anordne det Fornødne. Denne Amtmand har <lb/>
+saaledes propria auctoritate iværksat, hvad Regjeringen finder saa <lb/>
+betænkeligt at tilraade. Hans Foranstaltning mødte ikke Bifald hos <lb/>
+Regjeringen, og jeg bevirkede med Møie, at den maatte ignoreres, medens jeg <lb/>
+mener, at Amtmand Harris' Færd i denne Begivenhed, characteriserer den <lb/>
+dygtige Embedsmand.</p>
+               <p xml:id="p17">	Siden mit underdanigste sidste have vi ikke modtaget Posten, som <lb/>
+kunde bringe Efterretning om Choleraepidemien. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>då 18de Marts 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

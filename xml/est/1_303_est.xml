@@ -1,0 +1,78 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>303</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 13. juni 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 13. juni 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 9de denne Maaned er <lb/>
+intet Mærkeligt forefaldet.</p>
+               <p xml:id="p2">	Studentermødets Program er i de foregaaende Dage nogenlunde bleven <lb/>
+begunstiget af Veiret, saaledes at saavel den smukke Fest, som Deres <lb/>
+Majestæt havde den Naade i Tirsdags at lade arrangere ved Oscarshall, <lb/>
+som Ringerigs Touren heldigen ere fuldførte. Igaar Aftes efter  <lb/>
+Hjemkomsten fra Ringeriget blev 400 Fribilletter til Theatret uddeelte  <lb/>
+iblandt de Fremmede og i Aften give et Afskedsselskab paa Klingenberg, <lb/>
+beregnet paa 3000 Deeltagere. Løverdag Morgen Klokken 9 foregaar <lb/>
+Afreisen.</p>
+               <p xml:id="p3">	I Storthingets sidste Møde blev Storthingsarchivar Daa gjenvalgt <lb/>
+med 64 Stemmer, hvilket ikke er uden Betydning med Hensyn til  <lb/>
+Bestræbelserne for at henlede Valget paa visse Andre.</p>
+               <p xml:id="p4">	Idag foretages i Storthinget Grundlovsforslaget om Jødernes Adgang <lb/>
+til Riget, og dette Forslags Skjæbne synes denne Gang at være nærmere <lb/>
+en gunstig Afgjørelse end nogensinde før.</p>
+               <p xml:id="p5">	Arbeidernes Centralmøde samledes som bestemt i Tirsdags i en Gaard <lb/>
+her i Byen. Der mødte kun 69, alle fra Christiania Stift; formodentlig <lb/>
+vil denne Forsamling allerede om nogle Dage opløse sig, medens Resultatet <lb/>
+af dens Discussioner uden Tvivl ville blive ligesaa betydningsløst <lb/>
+som Forsamlingen selv. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 Junii 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

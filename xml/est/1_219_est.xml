@@ -1,0 +1,178 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>219</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. mars 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. mars 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p xml:id="p2">	Senere har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af samme Dato.</p>
+               <p xml:id="p3">	Den af Deres Majestæt omnævnte Harro Harring ankom hertil i de <lb/>
+sidste Dage i afvigte December eller de første Dage i Januar Maaned og <lb/>
+opholder sig fremdeles her. Jeg vidste om ham, at han er en fød Holstener, <lb/>
+at han har drevet om i Tydskland og som saa mange andre saa kaldte <lb/>
+tydske Literater, deeltaget i politiske Bevægelser; at han er en af <lb/>
+Stifterne af den politiske Association "das junge Europa"; at han forfulgt <lb/>
+af tydsk Politie, flygtede til Helgeland, England og Amerika, hvor <lb/>
+han i længere Tid har opholdt sig; at han har skrevet flere Brochürer <lb/>
+og Romaner i samme Tendents som Eugène Sue. Jeg var saaledes fra hans <lb/>
+Ankomst opmærksom paa hans Besøg her, hvorom jeg underrettede den fungerende <lb/>
+Politiemester, Kammerherre Morgenstjerne. Forinden jeg herom vilde <lb/>
+melde noget til Deres Majestæt, ønskede jeg nærmere Oplysning om hans <lb/>
+Virksomhed her; men i Mangel heraf, er det senere gaaet mig af Erindring, <lb/>
+som jeg beder naadigst tilgivet.</p>
+               <p xml:id="p4">	Harro Harring var ved sin Ankomst hertil syg og lod strax hente en <lb/>
+Læge, til hvem han medbragte en Adresse fra en Læge i Hamburg. Af den <lb/>
+norske Læge erfarede jeg, at han var meget ordknap, men at han havde <lb/>
+yttret, at han som dansk sindet var udsat for Forfølgelse i sit Fødeland <lb/>
+Holsten og derfor vilde søge et Asyl i det fredelige Norge. Jeg <lb/>
+har tvertimod hørt, at han har stillet sig som Candidat til den holstenske <lb/>
+"Landesversamlung", men var falden igjennem.</p>
+               <p xml:id="p5">	I Begyndelsen af hans Ophold her, var jeg meget opmærksom paa hans <lb/>
+Forholde, men kunde ikke erfare, at han havde Forbindelse eller Omgang <lb/>
+med Nogensomhelst. Han tilbringer, saavidt jeg veed, sine Dage i Eensomhed <lb/>
+i sit Logis i et privat Huus, beskjæftiget med at skrive og male.</p>
+               <p xml:id="p6">	Deres Majestæts naadige Meddelelser har fornyet og skjærpet saavel <lb/>
+min som Morgenstjernes Opmærksomhed, for hvem Deres Majestæts naadige <lb/>
+Yttringer om ham have været særdeles opmuntrende. Vi ville end <lb/>
+yderligere søge at komme til Kundskab om den mysterieuse Persons  <lb/>
+Hensigt og mulige Virksomhed her, hvorom jeg forbeholder mig at afgive <lb/>
+nærmere underdanigst Rapport.</p>
+               <p xml:id="p7">	Deres Majestæts vise Bemærkninger og Anskuelse, som jeg har tilladt <lb/>
+mig at meddele Regjeringens Medlemmer om den her paagaaende Agitation <lb/>
+blandt Samfundets laveste Classer, deler jeg i Eet og Alt. Jeg har <lb/>
+aldrig betragtet den med Ligegyldighed; men fra første Øieblik med saa <lb/>
+meget mere Bekymring, som Regjeringen mangler Myndighed til at standse <lb/>
+det Onde i sin Oprindelse. Jeg nærer imidlertid det Haab, at Agitationen, <lb/>
+paa Grund af dette Lands locale Forholde og Folkets i det hele sindige <lb/>
+Characteer, vil behøve saa lang Tid til sin Udvikling, at Regjeringen <lb/>
+forinden vil vinde Tid til at tilfredsstille den arbeidende Classes <lb/>
+billige Fordringer. Til disse regner jeg i Særdeleshed Toldmoderation <lb/>
+for Livets første Nødvendighedsartikler, og herpaa bør og vil Regjeringen <lb/>
+være betænkt til næste Storthing. Denne Fordring er billig, og <lb/>
+foruden at dens Opfyldelse i sig selv er retfærdig, saa vil enhver  <lb/>
+Regjeringens Bestræbelse i denne Retning i Ordets egentligste Betydning <lb/>
+være populair. <lb/>
+                  <hi rend="underline">Et</hi>  Gode venter jeg af denne Agitation. Den er in specie rettet mod <lb/>
+den nu herskende Storthingsmajoritet, der er baseret paa Bondearistocratiet, <lb/>
+som med Forskrækkelse betragter Agitationen og som i sin Forskrækkelse <lb/>
+forhaabentlig vil slutte sig til Regjeringen, for at finde <lb/>
+Redning hos den, hvortil kræves mere Myndighed end denne nu har. <hi rend="underline">Da</hi>
+                  <lb/>
+vil det blive Regjeringens kloge og værdige Rolle, at mægle imellem <lb/>
+Partierne.</p>
+               <p xml:id="p8">	Det Farligste vilde blive, om Agitationen skulde vinde fremmed <lb/>
+Understøttelse! herom har jeg ikke havt nogen Formodning, – forinden <lb/>
+Deres Majestæt har havt den Naade at henlede min Opmærksomhed derpaa, <lb/>
+hvorefter jeg vil bestræbe mig for at komme til Kundskab herom.</p>
+               <p xml:id="p9">	Af vedlagte Meddelelse fra den commanderende General vil Deres <lb/>
+Majestæt naadigst erfare, at af den herværende Garnison var til den <lb/>
+15de denne Maaned kun 11 Mandskaber indtraadte i Arbeiderforeningen, <lb/>
+og at det har lykkedes at maneuvrere disse ud igjen. Jeg bruger dette <lb/>
+Udtryk, fordi vor militaire Styrelse desværre mangler legal Myndighed <lb/>
+til at forbyde Officierer eller Mandskaber at deeltage i deslige <lb/>
+Associationer. Anderledes forholder det sig i Frankrige og Tydskland, fordi <lb/>
+man der har gjort dyrkjøbte Erfaringer, hvorfor Gud maa ville forskaane os! <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 Marts 1850. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 21. mars 1850</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15de Marts 1850</date>.</dateline>
+                  <lb/>
+Fra <lb/>
+den kongelige norske <lb/>
+ARMEECOMMANDO. <lb/>
+No 358.</opener>
+               <p xml:id="p10">	Efter Modtagelsen af Deres Excellences Skrivelse til Armeens <lb/>
+høistbefalende General, dateret 1ste f. Md., og hvori Armee- <lb/>
+Commandoens Opmærksomhed henledes paa den Omstændighed, at flere af  <lb/>
+Garnisonens Mandskaber, ifølge medfulgte Avskrift af Politiemesterens <lb/>
+Rapport af 28de Januar d.å., maatte antages at være indtraadte som <lb/>
+Medlemmer af Arbeiderforeningen hersteds, søgte Armeens høistbefalende <lb/>
+General strax, gjennem og efter Overeenskomst med de her stationerede <lb/>
+Brigade- og Bataillons- samt Corps-Chefer at komme til sikker <lb/>
+Kundskab om Forholdene samt de indtraadte Mandskabers Antal. Ifølge <lb/>
+de hertil indkomne Rapporter viser det sig: <lb/>
+at af Artilleriet kun 1 Artillerist, Maler af Profession, havde indmeldt <lb/>
+sig i Foreningen, men som strax ved Tilraadning igjen udtraadte; <lb/>
+af Cavaleriet har Ingen været eller er i bemeldte Forening, og af <lb/>
+Infanteriet have vel 3 geworbne og 7 nationale Soldater været indtraadte <lb/>
+i Foreningen, dog de sidstnævnte ei her i Christiania, men i den <lb/>
+i Krydsherred stiftede Arbeiderforening. Imidlertid ere samtlige saavel <lb/>
+gevorbne som nationale igjen udtraadte eller have erklæret sig <lb/>
+villige til at udtræde.</p>
+               <p xml:id="p11">	Armeens høistbefalende General, som med Erkjendtlighed modtog Deres <lb/>
+Excellences Hentydning, finder det nu passende at underrette Deres <lb/>
+Excellence om foranstaaende Resultat, idet ArmeeCommandoen derhos med <lb/>
+Hensyn til given Antydning i Politiemesterens ommeldte Rapport tilføier, <lb/>
+at ligesom Armeecommandoen ikke hertil har havt ringeste Aarsag <lb/>
+til at paatvivle Garnisonens Paalidelighed ved enhver forefaldende <lb/>
+tjenstlig Leilighed, saaledes anseer det Passerede eiheller i nogen <lb/>
+Henseende at kunne svække denne Tiltroe. – <lb/>
+               </p>
+               <closer>Til <lb/>
+Hans Excellence, <lb/>	
+Rigets Statholder.<lb/>
+                  <signed>
+                     <persName>F. Wedel Jarlsberg</persName>
+                  </signed>
+                  <lb/>
+                  <signed>
+                     <persName>Sparre</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

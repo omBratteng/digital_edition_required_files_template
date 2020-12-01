@@ -1,0 +1,95 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>509</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 20. september 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 20. september 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p xml:id="p2">	Da Forhøret i Anledning af de 2de Bergenske Dampskibes ulykkelige <lb/>
+Sammenstød endnu ikke er sluttet, seer jeg mig for Tiden ikke istand <lb/>
+til herom at meddele nøiere Oplysning.</p>
+               <p xml:id="p3">	Professor Conradi, som efter Statsraad Stangs Ønske har besøgt <lb/>
+ham i Interlaken, er kommet tilbage og erklærer ham for Tiden ude af <lb/>
+Stand til at beskjæftige sig med Forretninger. Han har derfor medbragt <lb/>
+Stangs underdanige Ansøgning om yderligere 6 Maaneders Tjenstledighed, <lb/>
+i Haab om, under Løbet af disse, at gjenvinde sin Helbred i Udlandet. <lb/>
+Regjeringens underdanige Indstilling i denne Anledning vil afgaae med <lb/>
+Morgenposten.</p>
+               <p xml:id="p4">	Conradi antager Statsraad Stangs Sygdom for at være en nerveus <lb/>
+Svækkelse, medens Professor Malmsteen anseer den for en Hjerne Affection.</p>
+               <p xml:id="p5">	Jeg beklager det frie Løb, som man i Stockholm giver sine politiske <lb/>
+Sympathier og Antipathier, ret som om Deres Majestæts Riger vare <lb/>
+i en aaben Krig, hvorfor Deres Majestæts Viisdom dog Gud skee Tak, <lb/>
+endnu har bevaret os.</p>
+               <p xml:id="p6">	Man kan af menneskelig Skrøbelighed hade sin Naboe; men det synes <lb/>
+uchristelig, usædelig, ja canibalisk, at jubilere og illuminere, <lb/>
+fordi hans Huus er nedbrendt. Saadant kan kun opægge til bitter <lb/>
+Gjengjæld og perpetuere et gammelt Nationalhad, som Høisalig Kong Carl <lb/>
+Johan i sin Tid trodsede med Sin Mandoms Kraft, og uden Hensyn til  <lb/>
+dette, valgte det politiske System, som Han med Sin Skarpsindighed  <lb/>
+ansaae ene stemmende med Sveriges Tarv, og hvilket hidindtil befulgt, <lb/>
+har viist sig stemmende med begge de forenede Rigers Velvære. – <lb/>
+Høisalig Kongens Anskuelse i denne Henseeende, – man kan sige: Hans  <lb/>
+politiske Testament, – findes bedst udtrykt under en Samtale med Keiser <lb/>
+Alexander, citeret i Schinkels Memoirer Pagina 258. Jeg har ofte havt <lb/>
+den Lykke at høre lignende Yttringer af Hans Majestæts egen Mund.</p>
+               <p xml:id="p7">	Jeg takker underdanigst for de naadige Meddelelser, som Deres <lb/>
+ Majestæt under 13de har befalet at give mig ved Grev Løvenhjelm;<note xml:id="ftn17" place="foot" n="17">
+                     <hi rend="italic">Rettet med blyant i originalen til</hi>  Lewenhaupt.</note>
+                  <lb/>
+J'en suis toujours avide.</p>
+               <p xml:id="p8">	Jeg har havt den Ære, for mange Aar tilbage, at kjende Faderen <lb/>
+til den Prinds af Hessen-Philipsthal-Barchfeldt, som nylig har <lb/>
+besøgt Stockholm. Jeg ahnede den Gang ikke, at en hans Søn skulde blive <lb/>
+Chef for en preussisk Fregat; – thi paa den Tid eiede Preussen endnu <lb/>
+ingen Fregat, – ikke engang en Amazone. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 20de September 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

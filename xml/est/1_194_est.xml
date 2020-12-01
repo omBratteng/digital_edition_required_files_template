@@ -1,0 +1,132 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>194</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 17. juni 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 17. juni 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p xml:id="p2">	Deres Majestæts sidste naadige Skrivelse af samme Dato giver mig <lb/>
+Haab om den Lykke at see Deres Majestæt og den Høikongelige Familie her <lb/>
+under Sommerens Løb, hvorom jeg under de nuværende usikkre Omstændigheder <lb/>
+aldrig har villet tillade mig at spørge. Naar disse ville tillade <lb/>
+at tage en endelig Bestemmelse tør jeg modsee naadigst Meddelelse om <lb/>
+den for Reisen bestemte Tid og Route.</p>
+               <p xml:id="p3">	Jeg har meddeelt Statsraad Riddervold Deres Majestæts naadige <lb/>
+Beslutning betræffende hans senere forestaaende Reise til Stockholm, som <lb/>
+han nu anseer for en afgjort Sag, hvorpaa han vil være forberedet.  <lb/>
+Jeg ønskede kun Sagen afgjort nu, for at skaane Deres Majestæt for den <lb/>
+Ubehagelighed mundtlig at nægte Statsraad Riddervold hans Ønskes  <lb/>
+Opfyldelse, som jeg derfor foretrak at paabyrde mig selv.</p>
+               <p xml:id="p4">	Saasnart jeg havde modtaget Deres Majestæts naadige Befaling <lb/>
+betræffende Quarantainetiden, foranledigede jeg den uden Ophold taget <lb/>
+under Behandling. Det første Skridt var at indhente Centralcomiteens <lb/>
+Betænkning, hvis Anskuelse om Unødvendigheden af al Quarantaine er Deres <lb/>
+Majestæt bekjendt, hvormed den er mere skikket til at befordre end til <lb/>
+at afværge Epidemien.</p>
+               <p xml:id="p5">	Imidlertid er dens Anskuelse ikke uden Indflydelse paa den norske <lb/>
+Regjering, hvis Indstilling, efter Sagens Behandling i Statsraad i Gaar, <lb/>
+vil afgaae med Morgenposten, gaaende ud paa at forlænge Quarantainetiden <lb/>
+til 8 Dage for de Fartøier, der have havt eller have Cholera syge eller <lb/>
+Døde ombord, hvorimod den foreslaaes at skulle vedblive kun 5 Dage for <lb/>
+de Skibe, som komme fra Cholera smittede Steder, hvis Antal desværre <lb/>
+daglig forøges. Det sidste synes inconsequent, hvorfor jeg bebreider mig <lb/>
+at jeg ikke stemte derimod og derfor tillader mig underdanigst at  <lb/>
+tilraade, at Deres Majestæt ifølge Sin grundlovmæssige Ret (§ 30)  <lb/>
+naadigst vil bestemme Quarantainen til 8 Dage, ogsaa for de Fartøier, som <lb/>
+ere i sidstnævnte Tilfælde.</p>
+               <p xml:id="p6">	Kammerherre Hesselberg, som i Morgen begiver sig til Horten, bad <lb/>
+mig i Gaar underdanigst forsikkre Deres Majestæt, at han vil anvende <lb/>
+muligst Anstrængelse, for at kunne snarest mulig gaae til Søes med den ham <lb/>
+naadigst betroede Fregat Freia, som kun venter paa Mandskab, til hvis <lb/>
+Udskrivning strax blev givet Ordres, saa snart Deres Majestæts naadige <lb/>
+Befaling var modtaget.</p>
+               <p xml:id="p7">	Det preussiske Kystfyr ved Greifsvald er befalet slukket, som uden <lb/>
+Tvivl vil blive Tilfældet med alle Fyre ved de østersøiske tydske Havne. <lb/>
+Preussens ubeføiede Indblanding i det holsteenske Oprør har bragt Ulykker <lb/>
+over det selv og Andre! den var lige saa uklog som den bekjendte Toast i <lb/>
+Cøln: "Kein Preussen, kein Österreich, nur ein einiges Deutschland"! – <lb/>
+En behagelig Poesie; men i Prosa viser Eenheden og Enigheden sig ikke <lb/>
+vakker.</p>
+               <p xml:id="p8">	Idag afsløres paa vor Frelsers Kirkegaard i Christiania Wergelands <lb/>
+jødiske Monument, til hvis Overværelse efter Indbydelse af  <lb/>
+Studentersamfundet 5 notable Stockholms Jøder have faaet Kongeligt Leidebrev.</p>
+               <p xml:id="p9">	Commandanten paa Kongsvinger, Oberste Anker, som nylig besøgte mig <lb/>
+ved god Helbred, er pludselig ved Døden afgaaet. Det er godt at have deslige <lb/>
+Poster for gamle vel tjente Militaire, og formoder jeg, at Generalmajor <lb/>
+Anker, hvis svækkede Syn vanskeliggjør ham den aktive Tjeneste, <lb/>
+underdanigst vil ansøge Deres Majestæt om denne, hvortil jeg tillader  <lb/>
+mig underdanigst at anbefale ham.</p>
+               <p xml:id="p10">	Min Søn Adam med Hustrue og 5 Børn er efter 29 Dages Seilads og efter <lb/>
+mere end 3 Aars Fraværelse, lykkelig ankommet fra New York til Helsingøer. <lb/>
+Skibet seilede Nord om Skotland og var under svære Storme 2de <lb/>
+Gange nær Undergang. Give Gud at Adam ved Deres Majestæts Naade maa erholde <lb/>
+en Ansættelse i Europa og derved undgaae oftere at seile over Atlanter <lb/>
+Havet! Jeg venter mig den Glæde at modtage ham med Dampskibet fra <lb/>
+Kjøbenhavn i Overmorgen den 19de, som just indtræffer paa hans 45de <lb/>
+Fødselsdag.</p>
+               <p xml:id="p11">	Min Søn Ernst, som har besøgt mig nogle Dage, reiste med sidste <lb/>
+Dampskib til Kjøbenhavn for derfra at hente sin Hustrue, som er der, for <lb/>
+at consulere Lægen, for hendes under sidste Vinter ret mislige Helbred. <lb/>
+Imidlertid er det nu 2 1/2 siden jeg havde den Glæde at besøge mit <lb/>
+kjære Fossum.</p>
+               <p xml:id="p12">	I morgen Middag agter jeg her med et lidet Selskab, men med et <lb/>
+oprigtigt Hjerte, at feire Hans Kongelige Høihed, Prinds Gustav's  <lb/>
+Fødselsdag, hvortil jeg tillader mig at fremsende min underdanigste og  <lb/>
+hjerteligste Lykønskning.</p>
+               <p xml:id="p13">	Vi have i den senere Tid fremdeles kun havt en grøn Vinter, og <lb/>
+trænge høielig til Regn og Varme.</p>
+               <p xml:id="p14">	Efter Hjemkomsten fra et Besøg hos mig sidste Onsdag Eftermiddag, <lb/>
+følte Grevinde Wedel sig ildebefindende. Lægen erklærede den følgende <lb/>
+Dag hendes Sygdom for en Brystinflammation, som senere er gaaet over til  <lb/>
+en Hjerne Inflammation, og hendes Tilstand er idag desværre meget <lb/>
+betænkelig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 17de Junii 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

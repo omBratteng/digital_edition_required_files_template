@@ -1,0 +1,102 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>488</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. februar 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. februar 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efter min sidste underdanigste Rapport af 8de og 9de denne <lb/>
+Maaned, har jeg havt den Ære at modtage Deres Majestæts naadige  <lb/>
+Skrivelse af 12te, hvis Indhold jeg meddeelte Statsraadet i Gaar.</p>
+               <p xml:id="p2">	Saasnart Armee Departementet har angivet den Sum, som udfordres <lb/>
+til Anskaffelse af Armeens meest paatrængende Fornødenheder, vil  <lb/>
+Regjeringen afgive sin underdanige Betænkning om, hvorledes denne Sum <lb/>
+vil kunne tilveiebringes.</p>
+               <p xml:id="p3">	Vi indsee Alle, hvor magtpaaliggende det er, at de nødvendige <lb/>
+Midler anskaffes, og vi have Alle den bedste Villie dertil at bidrage <lb/>
+med samme Redebonhed, som Deres Majestæts svenske Raadgivere have <lb/>
+gjort det for den svenske Armee; men i denne Henseende er Deres  <lb/>
+Majestæts norske Statsraad i en meget vanskeligere Stilling end det  <lb/>
+svenske.</p>
+               <p xml:id="p4">	Deres Majestæt har, udenfor den svenske Armees almindelige Behov, <lb/>
+af de svenske Stænder fordret, betydelige Creditiver for overordentlige <lb/>
+Rustninger, som Stænderne have bevilget, og Spørgsmaalet er <lb/>
+der kun, om Tiden for de bevilgede Summer's Anvendelse; hvorimod ingen <lb/>
+saadan Fordring er bleven fremsat for det sidst forsamlede Norske <lb/>
+Storthing, som derfor Intet dertil har kundet bevilge.</p>
+               <p xml:id="p5">	Deres Majestæts norske Statsraad er saaledes i den piinlige <lb/>
+Stilling at maatte vælge imellem 2de Onder: enten at tilraade, uden <lb/>
+constitutionel Hjemmel, og altsaa under det dermed forbundne Ansvar, <lb/>
+– at anvende betydelige Summer, eller at sammenkalde et overordentligt <lb/>
+Storthing, for af dette at begjære de nødvendige Midler.</p>
+               <p xml:id="p6">	Jeg formener underdanigst, at et overordentligt Storthings <lb/>
+Sammenkaldelse i den angivne Hensigt, – <hi rend="underline">nu</hi>  under de forviklede europæiske <lb/>
+Forholde, kunde udsætte de forenede Riger for de alvorligste Farer, <lb/>
+– og jeg vil derfor stemme for det mindre Onde. Det første kunde <lb/>
+blive farlig for Deres Majestæts Riger; det andet i værste Fald kun <lb/>
+for Deres Majestæts norske Statsraad. Denne Anskuelse har jeg foreløbig <lb/>
+yttret og jeg tør haabe, at den vil vinde Medhold.</p>
+               <p xml:id="p7">	Gaardagen bragte os 2de udenrigske Poster. Af disse venter jeg <lb/>
+herefter saa lidet Godt, at jeg ønsker de maatte udeblive saa længe <lb/>
+Lord Palmerston styrer Europas Skjæbne.</p>
+               <p xml:id="p8">	Jeg har ikke kunnet nægte mig den Fornøielse, at meddele <lb/>
+Sorenskriver Lasson Deres Majestæts naadige Yttring om ham, som rørte ham <lb/>
+til underdanigst Taknemmelighed. Jeg anseer det for en Lykke, at man <lb/>
+for det vigtige Justitiarius Embede har en saa dygtig og paalidelig <lb/>
+Mand som han.</p>
+               <p xml:id="p9">	Generalen, Baron Wedel-Jarlsberg, vil ved Morgenposten underdanigst <lb/>
+anmelde for Deres Majestæt, sin eneste Broders, min Søn Adams <lb/>
+Svigerfaders, Baron Wilhelm Wedel-Jarlsbergs dødelige Afgang. Han var <lb/>
+en retsindig, sin Konge og sit Fædreland troe hengiven Mand, som <lb/>
+begrædes af en kjærlig Enke og kjærlige Børn.</p>
+               <p xml:id="p10">	Vi have i en uendelig lang Tid havt en stræng tør Kulde fra 15 <lb/>
+til 20 Grader Reaumur, hvorefter vi maa vente et seent Foraar. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de Februar 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>469</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 5. oktober 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 5. oktober 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p xml:id="p2">	Siden 28de August er jeg fremdeles uden nogen naadig Meddelelse <lb/>
+fra Deres Majestæt.</p>
+               <p xml:id="p3">	Sidste Stockholms Post bragte Sylows Udnævnelse til Toldcasserer <lb/>
+i Laurvig uden at bringe Langes forventede Udnævnelse til Statsraad, <lb/>
+– og da dette maa være sidstnævnte, som imidlertid er reist tilbage <lb/>
+til Arendal, høist paafaldende, tilskrev jeg ham, at hans Udnævnelses <lb/>
+Udeblivelse ogsaa var mig uventet; men at jeg fremdeles venter den med hver <lb/>
+Post.</p>
+               <p xml:id="p4">	Jeg føler mig forpligtet til underdanigst at udbede Sanct Olafs <lb/>
+Ordenens Ridderkors for 2de værdige Embedsmænd:  1o Stiftsprovst <lb/>
+ved Trondhjems Domkirke Lorentz Angell, og  2o Assessor i Høiesteret <lb/>
+Eskild Bruun. Den forstnævnte har været geistlig Embedsmand i 50 Aar <lb/>
+og i denne lange Aarrække udmærket sig ved en dygtig og hæderlig  <lb/>
+Embedsførelse. Han feirer i Aar sit Guldbryllup og er til den for ham <lb/>
+nu udbedede Kongelige Naade varmt anbefalet af hans Biskop og af  <lb/>
+Statsraad Riddervold.</p>
+               <p xml:id="p5">	Eskild Bruun er den 3die Assessor i Høiesteret og formeentlig <lb/>
+                  <hi rend="underline">Rettens dygtigste Medlem,</hi>  som jeg derhos personlig nøie kjender som <lb/>
+en udmærket hæderlig Mand. Høiesterets første Assessor Lange er af  <lb/>
+Deres Majestæt tidligere benaadet med Sanct Olafs Ordenens Commandeurkors; <lb/>
+anden Assessor Hjelm med Ordenens Ridderkors. En lignende Kongelig <lb/>
+Naade har Høiesterets Justitiarius forlængst anmodet mig om at udbede <lb/>
+for Assessor Bruun, hvortil jeg ikke alene føler mig forpligtet; <lb/>
+men hvortil jeg tillader mig underdanigst varmt at anbefale ham.</p>
+               <p xml:id="p6">	Dampskibet "Lübeck" paa 160 Hestes Kraft er for Statscassens <lb/>
+Regning blevet kjøbt for 100,000 Mark Hamborger Banco, omtrent 33,000 <lb/>
+Species, hvortil sidste Storthing har bevilget 50,000 Spd, og ventes <lb/>
+med det Første hertil fra Lübeck, hvor det er kjøbt.</p>
+               <p xml:id="p7">	Min Søn Adam er med Deres Majestæts naadige Tilladelse i disse <lb/>
+Dage kommet til sin Eiendom Næs ved Tønsberg, for at bivaane sin ældste <lb/>
+Datters Confirmation den 8de, og agter jeg i samme Anledning at <lb/>
+begive mig did med Dampskib den 7de og komme her tilbage den 11te.</p>
+               <p xml:id="p8">	Om mod Formodning noget skulde være at indberette med Posten <lb/>
+den 9de, vil Statsraad Krog derom afgive underdanigst Rapport. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 5te October 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

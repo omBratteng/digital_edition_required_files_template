@@ -1,0 +1,217 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>160</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 26. oktober 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 26. oktober 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Med underdanigst Henhold til min sidste underdanigste Rapport af <lb/>
+22de, skal jeg nu tillade mig underdanigst at indberette Udfaldet af <lb/>
+min Underhandling med Ritmester Sylow.</p>
+               <p xml:id="p2">	Til Følge Deres Majestæts naadige Befaling af 16de meddeelte jeg <lb/>
+i Statsraadet den 24de fortroelig Deres Majestæts naadige Beslutning <lb/>
+at ville udnævne Ritmester Sylow til Statsraad og Chef for Armee- <lb/>
+Departementet, saafremt Statsraadets Medlemmer ikke havde Betænkeligheder <lb/>
+derimod at anføre.</p>
+               <p xml:id="p3">	Paa min Opfordring yttrede Statsraad Fleischer sig paa den <lb/>
+fordeelagtigste Maade om Sylows Dygtighed til Armee-Departementets  <lb/>
+Bestyrelse og Ingen havde nogen Betænkelighed mod hans Udnævnelse at anføre, <lb/>
+hvorhos dog Statsraad Sørenssen meget bestemt yttrede sig for Krigscommissair <lb/>
+Brochs Valg, en Mening, for hvilken ogsaa Statsraaderne Krog og Riddervold  <lb/>
+erklærede sig. Da imidlertid Deres Majestæts Spørgsmaal ene og <lb/>
+alene gaaer ud paa, om nogen Betænkelighed haves mod Sylows Udnævnelse <lb/>
+og ingen saadan yttredes, ansaae jeg mig i Følge Deres Majestæts naadige <lb/>
+Befaling forpligtet til i Gaar at henvende mig til ham.</p>
+               <p xml:id="p4">	Ritmester Sylow syntes virkelig overrasket ved Deres Majestæts <lb/>
+naadige Tilbud, som han, efter yttret beskeden Tvivl om sin Dygtighed,  <lb/>
+erklærede sig villig til med underdanigst Taknemmelighed at modtage, om <lb/>
+han kunde forbeholdes Adgang til, i Tilfælde af Afgang fra Statsraads- <lb/>
+Embedet, at maatte træde tilbage i sin nuværende Stilling som Inspecteur <lb/>
+for Armeens Værksteder og Bestyrer af det militaire Expeditionsbureau <lb/>
+under Armee-Departementet saaledes som han i vedlagte underdanigste <lb/>
+skriftlige Erklæring har angivet.</p>
+               <p xml:id="p5">	Denne Betingelse fandt jeg af Tidsomstændighederne foranlediget og <lb/>
+derhos saa beskeden, at jeg i første Øieblik ikke tog i Betænkning at <lb/>
+love min underdanige Anbefaling til sammes naadige Opfyldelse, hvortil <lb/>
+ogsaa min Kundskab om Regjeringens Forlegenhed kan have bidraget.</p>
+               <p xml:id="p6">	Nærmere Overveielse har dog opvakt nogle mine Betænkeligheder som <lb/>
+jeg føler mig forpligtet til underdanigst at fremstille.</p>
+               <p xml:id="p7">	Ritmester Sylows nærværende Bestillinger ere saa underordnede at <lb/>
+det, hvor ulige i vor Tid end Begreberne om Decorum ere, dog kunde erkjendes <lb/>
+mindre passende for en Mand, der har indehavt et Statsraads Embede, <lb/>
+at gaae tilbage til en saa underordnet Stilling og for Regjeringen maaskee <lb/>
+infra dignitatem udtrykkelig at forbeholde ham en saadan Tilbagegang. <lb/>
+Saadant synes derhos i oeconomisk Henseende mindre nødvendigt, da det <lb/>
+altid vil staae i Deres Majestæts Magt at forunde Sylow et mere passende <lb/>
+Embede til Erstatning for hans nu havende Embedsindtægt, 1300 Speciedaler.</p>
+               <p xml:id="p8">	Om Deres Majestæt deler denne Anskuelse og naadigst vil befale mig <lb/>
+at meddele Sylow den, haaber jeg, at han vil frafalde den fremsatte <lb/>
+Betingelse, hvilket dog maa være bragt paa det Rene, forinden hans <lb/>
+Udnævnelse kan finde Sted.</p>
+               <p xml:id="p9">	Statsraad Erichsen har bedet mig at nedlægge for Deres Majestæt <lb/>
+hans underdanigste Taknemmelighed for det ham givne høie Beviis paa Deres <lb/>
+Majestæts naadige Tillid. Han er vendt tilbage til Horten, for at ordne <lb/>
+sine Anliggender der, hvortil han har udbedet sig 14 Dage, forinden han <lb/>
+kan modtage Marine-Departementets Bestyrelse.</p>
+               <p xml:id="p10">	En norsk Maler Balchen, som for sin Kunst har mere Iver og Flid end <lb/>
+han maaskee har Talent, havde havt den Lykke at erhverve sig Kong Louis <lb/>
+Philips Beskyttelse og betydelige Bestillinger; men hvoraf Frugten ogsaa <lb/>
+blev ham berøvet ved den ulykkelige Februar Revolution. Han er derved <lb/>
+kommet i en høist trængende Stilling og er nu paa Veien <hi rend="underline">over Stockholm</hi>  til <lb/>
+Dresden hvor han har Kone og Børn. Da han er en lige saa værdig som <lb/>
+trængende Mand, vover jeg underdanigst at anbefale ham til den Kongelige <lb/>
+Naade, at Deres Majestæt vil forunde ham nogen Fortjeneste.</p>
+               <p xml:id="p11">	Generalconsul Faye og Borgemester Bretteville, som ere tilbagekomne <lb/>
+fra deres udenlandske Reise, have saa vel udrettet deres offentlige Ærende,  <lb/>
+at jeg underdanigst udbeder mig Tilladelse til derfor at bevidne dem <lb/>
+Deres Majestæts naadige Tilfredshed. De kunne ikke noksom rose sig af <lb/>
+Baron Rhehausens ivrige og dygtige Bistand og yttre sig med megen <lb/>
+Tilfredshed om Generalconsul Tottie, hvilke begge jeg gjerne ved Leilighed <lb/>
+skulde unde Sanct Olofs Ordenen.</p>
+               <p xml:id="p12">	Den i mit sidste omklagede Frost, forsvandt Gud skee Tak snart, dog <lb/>
+ikke uden at have gjort Skade. Istedetfor 7 Grader Kulde, have vi senere <lb/>
+havt 7 Grader Varme. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 26 Oct. 1848</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 26. oktober 1848</supplied>
+               </head>
+               <p xml:id="p13">	Det mig saa hædrende Tilbud modtages med taknemmelig Underdanighed, <lb/>
+naar det maatte behage Hs Majestæt at tilføie Resolutionen om <lb/>
+bemeldte min Udnævnelse: At det naadigst skal være mig forbeholdt, <lb/>
+ved min eventuelle Afgang fra Statsraadsembedet, igjen at kunne indtræde <lb/>
+i de Poster jeg ved Armeens Depat.bestyrelse og i Armeedepartementet  <lb/>
+nu indhaver.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de October 1848</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Th. Sylow</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h4">
+                  <supplied resp="editor">Tillegg til rapport av 26. oktober 1848</supplied>
+               </head>
+               <opener>Naadigste Konge!</opener>
+               <p xml:id="p14">	Det er med tillidsfuld Forhaabning om ei at paadrage mig Deres <lb/>
+Majestæts Mishag, at jeg herved i dybeste Underdanighed vover at henvænde <lb/>
+mig til Høistsamme med en Fremstilling af nogle Forhold, der ei allene <lb/>
+for mit Vedkommende ere af Vigtighed, men som ogsaa fra ei høiere og <lb/>
+almenere Synspunkt betragtede turde findes værdige til Deres Kongelige <lb/>
+Majestæts naadige Opmærksomhed.</p>
+               <p xml:id="p15">	Det har under 26de April d. A., i Anledning af min frembragte <lb/>
+underdanigste Ansøgning om Afsked i Naade fra mit indehavende Embede, <lb/>
+naadigst behaget Deres Majestæt at resolvere – "denne Sag udsættes".</p>
+               <p xml:id="p16">	Vel har jeg maattet betragte denne Kongelige Resolution som <lb/>
+fornemmeligen begrundet i Vanskeligheder der kunne have mødt ved Valget af <lb/>
+en, til at beklæde den Plads i Deres Majestæts Statsraad der ved min Afgang <lb/>
+skulde vorde ledig, disponibel og fuldkommen skikket Personlighed; men <lb/>
+jeg har dog ogsaa i den naadigst besluttede Henstand med min Entledigelse <lb/>
+troet at finde et lige naadigt Udtryk af Deres Majestæts Kongelige  <lb/>
+Bevaagenhed for mig, og Høistsammes hædrende Bifald til den Nidkjærhed <lb/>
+hvormed jeg har stræbt at virke i mit Kald: – Jeg skal, naadigste Konge! <lb/>
+ei tillade mig noget Forsøg paa at tolke Deres Majestæt hvad jeg i denne <lb/>
+Troe har følt.</p>
+               <p xml:id="p17">	De samme Omstændigheder der i sin Tid bevægede mig til underdanigst <lb/>
+at anholde om naadigst Afskedigelse ere forøvrigt dog endnu tilstede; – <lb/>
+de opfordre mig endog med forøget Styrke til, i Underdanighed at nedlægge <lb/>
+den samme Bøn for Deres Majestæts og Thronens Fod! I saa Henseende <lb/>
+være det mig naadigst tilladt, blot at fremhæve den vigtige og indviklede <lb/>
+Opgave som Udarbeidelsen af et nyt Forslag til Lov om Værnepligten <lb/>
+opstiller og som hovedsagelig af Armeedepartementet vil blive, i  <lb/>
+underdanigst Foredrag at behandle. Det er, naadigste Konge! tilvisse ei med <lb/>
+Alderdommens svækkede Kræfter man tør tiltroe sig at kunne fremvirke <lb/>
+noget tilfredsstillende Resultat i en, af saa høist forskiællige Interesser <lb/>
+og Meninger gjennemkrydset Sag. Sees derhos hen til, at Deres Majestæt <lb/>
+naadigst har behaget at bestemme Udgangen af indeværende Aar <lb/>
+som den yderste Termine for underdanigst Indstilling om de, tildeels nye, <lb/>
+Principer hvorpaa saadan Lov er formeent at burde bygges, og at i  <lb/>
+underdanigst Følge deraf, Tiden til at bearbeide denne vanskeligste Deel af <lb/>
+Opgaven, meget snart vil være udrenden, saa turde Udnævnelsen af den <lb/>
+Departementschef – Armeedepartementets nemlig – hvem hiin underdanigste <lb/>
+Indstillings Foredrag paahviler, vel og tiltrænge den snarest muelige <lb/>
+naadigste Afgjørelse.</p>
+               <p xml:id="p18">	Vistnok er i bemeldte Departement Intet bleven forsømt af hvad i <lb/>
+Mellemtiden kunde foretages til Sagens Fremme; men det vil naadigst  <lb/>
+findes af sig selv indlysende, at man hermed dog ei skulde være kommet <lb/>
+Endemaalet synderlig nærmere, hvis det senere maatte vise sig at de <lb/>
+militaire Departementers nye Chefer ikke troede underdanigst at kunne <lb/>
+indstille de foreløbig vundne Resultater til Deres Majestæts naadigste <lb/>
+Bifald.</p>
+               <p xml:id="p19">	At Deres Kongelige Majestæt i de her forklarede Omstændigheder <lb/>
+maatte finde en yderligere og afgjørende Bevæggrund til, uden forøget <lb/>
+Henstand naadigst at indvilge min underdanigste og her gjentagne Bøn om <lb/>
+naadigst Afløsning fra min indehavende, og eminentere Gaver end mine <lb/>
+tiltrængende, Embedsstilling, er hvad jeg underdanigst fordrister mig til <lb/>
+at haabe.</p>
+               <closer>
+                  <salute>Dyb er den Følelse af Ærefrygt, Taknemmelighed og undersaatelig <lb/>
+Hengivenhed, hvormed jeg har den Ære at være,<lb/>
+    				Naadigste Konge,<lb/>
+    			  Deres Majestæts <lb/>
+        troefaste og underdanigste<lb/>
+                    					  Tjener</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Fleischer</persName>
+                  </signed>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28de September <lb/>
+        	  1848</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

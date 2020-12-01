@@ -1,0 +1,80 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>516</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 22. november 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 22. november 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	De sidste Efterretninger fra Statsraad Stang ere meget nedslaaende. <lb/>
+Han opholder sig fremdeles i Thun i Schweitz, uden Udsigt til <lb/>
+at kunne komme derfra. Han pleies der af en meget duelig ung norsk <lb/>
+Læge ved Navn Budde, Professor Conradis Amanuensis, af sin Hustru og <lb/>
+Søn. – Lægen har lidet Haab om Stangs Restitution og yttrer den  <lb/>
+Formening, at om han end maatte kunne blive noget bedre, vil han dog <lb/>
+ikke blive forretningsdygtig i flere Aar. I denne sørgelige Stilling er <lb/>
+Statsraad Stang, som hans Frue melder, tilbøielig til underdanigst at <lb/>
+bede om Afskeed med Pension eller Vartpenge.</p>
+               <p xml:id="p3">	De norske Medlemmer af den Commission, som efter Deres Majestæts <lb/>
+naadige Befaling, i Forening med svenske skal tage Handelsforholdene <lb/>
+m.m. mellem de forenede Riger under Overveielse, vil ikke <lb/>
+kunne indfinde sig i Stockholm før strax efter Juul, fordi Commissionens <lb/>
+Medlem fra Bergen, Faye, ikke kan komme tidligere. Denne var et <lb/>
+forstandigt Medlem af sidste Storthing, som anbefaler sig ved et  <lb/>
+tækkeligt Ydre. Den i Trondhjem valgte Mand Consul Lorch, er mig <lb/>
+ubekjendt. De norske Commissariers Formand, min Søn Otto, Assessor i <lb/>
+Høiesteret, har kun af Pligtfølelse modtaget det paa ham faldne Valg, <lb/>
+og jeg har fra samme Synspunct ikke villet fraraade ham, uagtet jeg <lb/>
+vil savne ham meget og uagtet jeg befrygter, at Commissionen, med den <lb/>
+bedste Villie, neppe vil kunne tilfredsstille begge Partier.</p>
+               <p xml:id="p4">	Mange norske Skibe ere under de sidste Storme, forliste.</p>
+               <p xml:id="p5">	Iøvrigt veed jeg Intet af Interesse herfra at melde. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 22de November 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

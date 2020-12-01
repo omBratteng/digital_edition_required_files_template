@@ -1,0 +1,79 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>459</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. august 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. august 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Da Hans Excellence Statholderen Fredag den 28de forrige Maaned <lb/>
+har begivet sig til Fossum, tillader jeg mig, i Hans Excellences Fraværelse, <lb/>
+underdanigst at indberette, at Posten idag medbringer Storthingets  <lb/>
+Beslutning til Lov om Ophævelse af Hemmeligholdelsen af Høiesterets <lb/>
+Votering. Denne Beslutning er af Regjeringen underdanigst <lb/>
+indstillet til <hi rend="underline">ikke</hi>  at sanctionneres, – hvori Høiesterets samtlige <lb/>
+Medlemmer, i sin derom afgivne Betænkning, have været enige. Da det <lb/>
+imidlertid er <hi rend="underline">2den Gang</hi>, at denne Beslutning uforandret fremkommer <lb/>
+og det kan være at befrygte, at den af et kommende Storthing kan blive <lb/>
+gjentaget uden Forandring, vil det formeentlig være tilraadeligt, <lb/>
+overeensstemmende med Høiesterets Pluralitets Anskuelse, – senere at <lb/>
+lade det komme under Overveielse, hvilke Forandringer i den i  <lb/>
+Beslutningen ommeldte Lovgivning der maatte være at foreslaae for næste <lb/>
+Storthing.</p>
+               <p xml:id="p2">	Storthinget fortsætter forøvrigt med megen Virksomhed sine <lb/>
+Forhandlinger og man nærer fremdeles Haab om, at dets Opløsning skal  <lb/>
+kunne finde Sted henimod Slutningen af August Maaned, ifald ingen  <lb/>
+Hindring vil indtræffe med Hensyn til Sager, der fra Regjeringen endnu <lb/>
+skulle forelægges Thinget til Behandling.</p>
+               <p xml:id="p3">	Uagtet den langvarige Tørke lyde dog alle Indberetninger fra hele <lb/>
+Riget særdeles gunstige om Høsten, og det tør antages, at ogsaa  <lb/>
+Potates Avlingen ikke vil slaae feil, efterat der i de sidste Dage er <lb/>
+kommet noget Regn. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4e August 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

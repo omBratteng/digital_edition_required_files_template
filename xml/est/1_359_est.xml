@@ -1,0 +1,75 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>359</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 18. juni 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 18. juni 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Naar jeg ikke siden den 28de forrige Maaned har villet besvære <lb/>
+Deres Majestæt med nogen underdanigst Rapport, saa er det, fordi jeg <lb/>
+Intet har havt at indberette, og det samme er Tilfældet i Dag.</p>
+               <p xml:id="p2">	Jeg kan saaledes indskrænke mig til at nedlægge min underdanige <lb/>
+Lykønskning til Hans Kongelige Høihed Prinds Gustavs høie Fødselsdag, <lb/>
+som jeg vil have den Ære at feire ved en Middag, hvortil her dog haves <lb/>
+mindre Huusrum end Hjerterum.</p>
+               <p xml:id="p3">	Siden min sidste underdanigste Rapport have vi havt overordentlige <lb/>
+og pludselige Temperaturforandringer, fra Hede til Kulde og omvendt. <lb/>
+Imidlertid har afvexlende Varme og Regn været særdeles gunstig <lb/>
+for Aarsvæxten og giver til denne Tid den ønskeligste Udsigt for Ager <lb/>
+og Eng.</p>
+               <p xml:id="p4">	De af Deres Majestæt Statsraaderne Erichsen og Bretteville samt <lb/>
+Generalconsul Faye naadigst forundte Ordens Decorationer, som jeg <lb/>
+har overleveret dem, paa den i St Olafs Ordenens Statuter foreskrevne <lb/>
+Maade, modtoges med underdanigst Taknemmelighed. Faye er, ledsaget <lb/>
+af en Læge, afreist til Badet i Homburg; men saa svag, at der haves <lb/>
+lidet Haab om at see ham levende tilbage. Paa samme Tid afreiste <lb/>
+Statsraad Krog og Stiftamtmand Sem til Badet i Teplitz. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 18 Junii 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

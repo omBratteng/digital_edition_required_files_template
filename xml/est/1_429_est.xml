@@ -1,0 +1,88 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>429</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. februar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. februar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p xml:id="p2">	Efterat Storthinget i Mandags havde constitueret sig og samme dag <lb/>
+ved en Deputation derom havde underrettet mig og den Norske Regjering, <lb/>
+besluttede jeg at lade den høitidelige Aabning foregaae idag Klokken <lb/>
+1 Eftermiddag. Til den bestemte Tid indfandt jeg mig i Storthinget, <lb/>
+hvor jeg oplæste Deres Majestæts naadige Bemyndigelse for mig til at <lb/>
+aabne Thingets Forhandlinger og Deres Majestæts vakkre Tale, og  <lb/>
+erklærede paa Deres Majestæts høie Vegne Norges 14de ordentlige  <lb/>
+Storthing aabnet. Efterat Beretningen om Rigets Tilstand var oplæst og <lb/>
+tilligemed Talen overleveret til Storthingets President, Amtmand Aall, <lb/>
+udbragte denne et "Gud bevare Kongen" der hjertelig blev gjentaget <lb/>
+af Forsamlingen. En Deputation af Storthinget complimenterede derpaa <lb/>
+den norske Regjering, der var samlet i det Kongelige Palais. Ordføreren, <lb/>
+Professor Schweigaard, fremførte i faae men kjærlige Udtryk <lb/>
+Storthingets Beklagelse over ved denne Høitidelige Anledning at maatte <lb/>
+savne Deres Majestæts høie Nærværelse, idet han udtalte Storthingets <lb/>
+hjertelige Taknemmelighed og dets varme Ønsker for Deres Majestæt. <lb/>
+En Middag for samtlige Storthings Representanter samt for de <lb/>
+fornemste Autoriteter, til et Antal af 150 Personer, – var derefter <lb/>
+arrangeret i Stiftsgaarden, hvorved jeg havde den Ære at udbringe <lb/>
+Skaaler for Deres Majestæt, for Storthinget og for de forenede Riger, <lb/>
+hvilke besvaredes af Storthingets President med en Skaal for den Norske <lb/>
+Regjering.</p>
+               <p xml:id="p3">	Imorgen begynder Storthinget sin Virksomhed, som dog i den første <lb/>
+Tid fornemmelig vil være indskrænket til Comité-Arbeider. Saavidt <lb/>
+man forud kan skjønne, synes Thingets Sammensætning denne Gang at være <lb/>
+heldigere end flere foregaaende Storthing.</p>
+               <p xml:id="p4">	I Tirsdags blev Regjeringen færdig med Behandlingen af Budgettet, <lb/>
+som snarest mulig vil blive fremsendt, for underdanigst at forelægges <lb/>
+Deres Majestæt.</p>
+               <p xml:id="p5">	Nærværende underdanigste Rapport expederes med Lieutenant Due <lb/>
+som Coureer. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Februar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

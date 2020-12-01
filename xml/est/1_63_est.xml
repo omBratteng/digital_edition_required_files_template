@@ -1,0 +1,65 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>63</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 17. april 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 17. april 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	I Anledning af en Artikel i Bladet "den Constitutionelle", som bebuder, at engelske Civilingenieurer snart ville hidkomme, for at undersøge den her paatænkte Jernbanelinie, lod jeg kalde Generalconsul Crowes herværende Søn, af hvem jeg formodede benævnte Artikel indsendt, for af ham at erfare Sagens Stilling i London.</p>
+               <p xml:id="p3">	Den unge Crowe meddeelte mig, at hans Fader fremdeles har godt Haab om med Tid og Stunder at faae tilveiebragt et Interessentskab i London for vor Jernbane, at de Mænd, som interessere sig for Sagen, have besluttet at hidsende Civil-ingenieurer, for at undersøge og opmaale Jernbanelinien, og at han (den unge Crowe) af dem er engageret som Secretair for den tilkommende Jernbane-Direction fra den 1ste i denne Maaned med aarlig Løn 150 £ St. Neppe havde jeg modtaget disse meget lovende Meddelelser, før Statsraad Stang bragte mig hosfølgende med Gaarsposten fra Generalconsul Tottie modtagne Brev, som desværre lidet harmonerer med Crowes gunstige Meddelelser. Jeg veed saaledes virkelig ikke hvad man skal troe og hvad vi tør haabe.</p>
+               <p xml:id="p4">	Hofkammerer Bäkstrøm siger sig nu færdig med det ham her overdragne Hverv og agter i Morgen at tiltræde Tilbagereisen til Stockholm. Jeg tilbragte i Gaar flere Timer med ham paa Slottet, for at blive orienteret, hvorefter jeg har Anledning til at haabe, at Deres Majestæt vil blive tilfreds med og naadigst bifalde den af ham foreslaaede Disposition, af det Indre. Dette Indre er nu engang "im Zuschnit verdorben!" Det gjælder om at drage bedst mulig Partie af<hi rend="underline">hvad der er</hi>, og dette troer jeg Hr Bäckstrøm har forstaaet. Jeg seer aldrig dette Slot, uden at harmes over, at man for saa store Summer, ikke har faaet noget Bedre!</p>
+               <p xml:id="p5">	Efter Hofkammerer Bäckstrøms Calcul, vil de bevilgede 60,000 Speciedaler medgaae til Slottets complette Meublering og til Batterie de cuisine. Tilbagestaaer i Sølv, Linned, Porcellain, Glas etc.</p>
+               <p xml:id="p6">	Jeg tillader mig underdanigst at foreslaae, at Deres Majestæt naadigst vil overdrage til den samme Mand, som med Sagkundskab og Smag har lagt Planen til Meubleringen, at exequere den.</p>
+               <p xml:id="p7">	Jeg tillader mig underdanigst at henlede Deres Majestæts Opmærksomhed paa mit Votum betræffende Besættelsen af en saakaldet Bergmesterpost ved Kongsbergs Sølvværk, hvorom Indstilling vil afgaae med næste Post, men hvorom jeg ikke kan dele mine Collegers Anskuelse. Personlige Hensyn foranledigede for flere Aar tilbage Sølvværksdirectionen til at foreslaae denne Post og personlige Hensyn (ingenlunde Interesse for Sagen!) bevægede Storthinget til, mod al Sædvane, at bevilge den foreslaaede<hi rend="underline">høieste</hi>  Løn. Jeg beklager at være for seent kommet til den Erkjendelse, at man har ansat den omhandlede Betjening for høit i Løn og i Rang; men det er ikke for seent at moderere Følgerne af denne Feiltagelse, ved, saa længe Omstændighederne <hi rend="underline">som nu</hi>, tillader det, at udsætte den tagne Beslutnings Iværksættelse.</p>
+               <p xml:id="p8">	Jeg beklager, at jeg endnu ikke har faaet de fornødne Oplysninger om Lector Scheerers Sag, for derom idag at kunne gjøre underdanigst Indberetning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17 April 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

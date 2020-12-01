@@ -1,0 +1,59 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>65</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. april 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. april 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Uagtet jeg gav mig den Ære med sidste Post, den 24de denne Maaned, underdanigst at tilskrive Deres Majestæt, anseer jeg mig dog forpligtet til i Dag underdanigst at indberette at en høist beklagelig Ildsvaade Natten imellem den 17de og 18de denne Maaned har ødelagt 110 Huse for en Assurance Sum af 58,000 Speciedaler i den lille Kjøbstad Levanger i Nordre Trondhjems Amt, hvoraf ikkun Kirken og 19 Huse staae tilbage. Vedkommende Embedsmænds detaillerede Beretninger om denne Ulykkelige Begivenhed, ere indførte i Morgenbladet No 116.</p>
+               <p xml:id="p2">	Med underdanigst Henhold til mit sidste, tillader jeg mig underdanigst at gjentage, at om Deres Majestæt tillader Statsraad Schmidt at forlade Stockholm, forinden Statsministerens Tilbagekomst, vil Deres Majestæt under Løbet af 3 Uger ikke kunne holde hverken norsk eller combineret Statsraad hvilket synes saa betænkeligt, saavel for de løbende Sager, som for uforudseede, men ikke umulig overordentlige Tilfælde, at en saadan Stilling ikke bør finde Sted, naar den kan forebygges. Jeg vilde have tilladt mig tidligere at henlede Deres Majestæts naadige Opmærksomhed paa denne Gjenstand, om jeg ikke havde antaget det skeet, af DeHerrer Statsraader i Stockholm, for hvem det ikke kan være ubekjendt, at 3 Uger maa paaregnes mellem Statsraad Schmidts Afreise og Statsraad Vogts Ankomst. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de April 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

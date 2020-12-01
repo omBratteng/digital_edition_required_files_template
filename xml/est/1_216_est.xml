@@ -1,0 +1,202 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>216</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. februar 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. februar 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p xml:id="p2">	Deres Majestæts naadige Meddelelse af 11te har jeg havt den <lb/>
+Ære at modtage med underdanigst Taknemmelighed og hjertelig Deeltagelse. <lb/>
+I Anledning af den modtagne combinerede Statsraads Protocol betræffende <lb/>
+Hans Kongelige Høihed Kronprindsens Forlovelse, vil den Norske <lb/>
+Regjering ved Morgenposten anmode Statsraads Afdelingen i Stockholm <lb/>
+om at fremføre dens underdanigste Lykønskning for Deres Majestæter, <lb/>
+Hans Kongelige Høihed Kronprindsen, og det Kongelige Huses øvrige <lb/>
+høie Medlemmer.</p>
+               <p xml:id="p3">	Saaledes forholdtes ved Deres Majestæts Egen høie Forlovelse 1823 <lb/>
+og i Almindelighed er det formeentlig rigtigst at følge Antecedentser, <lb/>
+naar der ikke er skjællig Grund til at fravige dem.</p>
+               <p xml:id="p4">	Jeg agter imorgen høitidelig at feire Hans Kongelige Høiheds høie <lb/>
+Forlovelse ved en stor Middag hvori blandt Andre General Tolddirecteuren <lb/>
+Baron Gyllenhaal vil deeltage.</p>
+               <p xml:id="p5">	Sognepræst til Sælbo, Tybrings, underdanigste Taksigelse for <lb/>
+Deres Majestæts velgjørende Naadegave tillader jeg mig underdanigst <lb/>
+at vedlægge.</p>
+               <p xml:id="p6">	Jeg finder mig nu opfordret og forpligtet til underdanigst at <lb/>
+omhandle Generaladjutant Embedets Besættelse.</p>
+               <p xml:id="p7">	I denne Henseende troer jeg at burde underdanigst tilbagekalde i <lb/>
+Deres Majestæts naadige Erindring hvorledes denne Sag har været behandlet <lb/>
+fra sin første Oprindelse.</p>
+               <p xml:id="p8">	Efterat Deres Majestæt under 29de Januar 1849 havde befalet, at <lb/>
+Forslag til Embedets Besættelse skulde indgives saa betimelig, at <lb/>
+Functionen kunde overtages <hi rend="underline">inden Marts Maaneds Udgang</hi>  samme Aar foreslog <lb/>
+den commanderende General Oberstlieutenant Sørenssen, hvorhos Generalmajor <lb/>
+Meydell havde meldt sig.</p>
+               <p xml:id="p9">	Regjeringen troede at burde give den sidstnævnte Fortrinet, men <lb/>
+bemyndigede mig dog eenstemmig til at foreslaa Oberstlieutenant Mansbach, <lb/>
+som den formeentlig meest qvalificerede; men som frabad sig at <lb/>
+blive indstillet uden Deres Majestæts naadige Bifald. Om dette var <lb/>
+bleven givet og Mansbach var bleven naadigst udnævnt, vilde man have <lb/>
+undgaaet det nu daglige Skraal i Aviserne om Embedets Ikke-Besættelse, <lb/>
+thi man kunde ikke have bebreidet Regjeringen, at den udnævnte  <lb/>
+Generaladjutant var bleven syg.</p>
+               <p xml:id="p10">	I Mangel af Deres Majestæts naadige Bifald til Mansbachs <lb/>
+Udnævnelse, indstillede Regjeringen Generalmajor Meydell, og saaledes er <lb/>
+fremdeles Sagens officielle Stilling.</p>
+               <p xml:id="p11">	Efter de Deres Majestæt bekjente senere<hi rend="underline">forgjæves</hi>  Underhandlinger <lb/>
+for at bringe Sagen til et ønskeligt Resultat, formeentes det klogest <lb/>
+at udsætte Embedets Besættelse, i Paavente af mulige Eventualiteter <lb/>
+som derpaa kunde faae Indflydelse. Jeg tænkte mig saaledes Mansbachs <lb/>
+mulige Helbredelse, hvorved al Forlegenhed vilde være bleven hævet, <lb/>
+eller en Forandring med Commandoen som kunde overdrages til General <lb/>
+Bloch som Generaladjutant; men for disse Eventualiteters Indtræffen <lb/>
+er der nu ingen Sandsynlighed og General Bloch vil under ingen  <lb/>
+Omstændigheder modtage Generaladjutantsposten under General Wedel og heller <lb/>
+ikke uden i Forbindelse med en Brigades Commando <hi rend="underline">og Løn</hi>, som ikke vil <lb/>
+kunne forenes med constitutionelle Former. Bloch og Mansbach maa saaledes <lb/>
+desværre sættes ud af Betragtnig, uden at nogen af dem har kunnet <lb/>
+paavise Nogen for Embedet ønskelig Person.</p>
+               <p xml:id="p12">	Imidlertid bør Generaladjutants Embedets Besættelse formeentlig <lb/>
+ikke længer udsættes. Denne Anskuelse har Deres Majestæt allerede <lb/>
+udtalt i den Kongl. Resolution af 29de Januar 1849, hvis Iværksættelse <lb/>
+nu, i det mindste med Skin af Grund, daglig fordres i offentlige Blade, <lb/>
+i hvilke Commandoen er bleven fralagt al Skyld for Udsættelsen. <lb/>
+At Regjeringens underdanigste Indstilling om Embedets Besættelse  <lb/>
+forlængst er bleven Deres Majestæt underdanigst forelagt, er neppe  <lb/>
+ubekjendt og Utilfredsheden over IkkeBesættelsen rammer saaledes Deres <lb/>
+Majestæts høie Person, om det end ikke udtales; men Deres Majestæts Egen <lb/>
+Allerhøieste Person; den Kongelige Majestæt, bør ikke være udsat for <lb/>
+Daddel, og det er denne Betragtnig, som paalægger mig den Pligt at <lb/>
+fremføre denne underdanigste Forestilling.</p>
+               <p xml:id="p13">	Deres Majestæt har saavidt jeg veed, kun Valget mellem <lb/>
+Oberstlieutenant Sørenssen, Generalmajor Meydell og de yngre Officierer, <lb/>
+Capitainerne Wergeland, Irgens og Ingenieurlieutenant Ræder. Med Hensyn <lb/>
+paa de 3 sidstnævnte bør jeg med al Anerkjendelse af disse unge <lb/>
+Mænds Dygtighed, underdanigst bemærke, at den udnævnende Generaladjutant <lb/>
+i en neppe fjern Fremtid er bestemt til at overtage Armeens <lb/>
+Overcommando; men det ligger i den menneskelige, i Særdeleshed i den <lb/>
+militaire Natur, at det opvækker Uvillie, at blive undergivet en Yngres, <lb/>
+en nylig Inferieurs Commando, og at denne Uvillie ved en af disses <lb/>
+Udnævnelse vilde opvækkes i den Norske Armée, have ældre Officierer, <lb/>
+blandt Andre General Bloch, erklæret mig, og det er denne Omstændighed, <lb/>
+som forbyder mig at tilraade en saadan Udnævnelse.</p>
+               <p xml:id="p14">	Om end ikke General Meydell besidder alle de Egenskaber, som i denne <lb/>
+Begivenhed maa ønskes saa kan det dog ikke nægtes, at han er i  <lb/>
+Besiddelse af mere end almindelig militairisk Videnskabelighed, og at <lb/>
+han under Commandoen af et af Armeens vigtigste Vaaben og Materiel, <lb/>
+har viist practisk Dygtighed. Hans Stilling i Armeen bortfjerner derhos <lb/>
+al Jalousie og kan ikke saare nogen Ømfindtlighed.</p>
+               <p xml:id="p15">	Med Hensyn paa alle Omstændigheder tillader jeg mig saaledes <lb/>
+underdanigst at tilraade <hi rend="underline">den af Regjeringen indstillede</hi>  Generalmajor <lb/>
+Meydells <hi rend="underline">snarlige</hi>  naadigste Udnævnelse til Generaladjutant; thi jeg veed <lb/>
+intet bedre Forslag at gjøre! I alle Fald maa jeg ansee <hi rend="underline">En snarlig</hi>
+                  <lb/>
+naadigste Udnævnelse bedre end ingen.</p>
+               <p xml:id="p16">	Jeg har ikke undladt i denne Begivenhed at søge Oplysning og Raad, <lb/>
+omendskjønt til liden Nytte!</p>
+               <p xml:id="p17">	Oberste Garben, med hvem jeg i disse Dage har confereret, har <lb/>
+tilladt mig at yttre, at han aldeles deler mine her fremførte underdanigste <lb/>
+Anskuelser og at om der desuagtet skulde blive Spørgsmaal om at <lb/>
+vælge En af de yngre Officierer, vilde han sætte disse i saadan Orden: <lb/>
+1o Ræder, 2o Wergeland og 3o Irgens.</p>
+               <p xml:id="p18">	I Forbindelse med denne Gjenstand tillader jeg mig at berøre en <lb/>
+beslægtet, idet jeg vover at gjentage mit underdanigste Forslag om at <lb/>
+Deres Majestæt naadigst vil udnævne Capitaine Wergeland og Lieutenant <lb/>
+Ræder til tjenstgjørende Adjutanter. Denne Udnævnelse vilde visselig <lb/>
+nu af Arméen og af Publicum blive modtaget med megen Sympathie. Om Deres <lb/>
+Majestæt naadigst bifalder dette underdanige Forslag,vil Intet vindes <lb/>
+ved at udsætte dets Iværksættelse, men den deraf forventende gode <lb/>
+Effect kunde ved Udsættelse svækkes eller fortabes. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 Februar 1850</date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 21. februar 1850</supplied>
+               </head>
+               <opener>Til <lb/>
+Hans Excellence Statholder Løvenskjold<lb/>
+    		Ridd. og Command. af H. M. Orden.</opener>
+               <p xml:id="p19">	Ved underdanigst at erkjende Modtagelsen af den, ved Deres Excell. <lb/>
+fra Hans Majestæt Kongen til de Trængende i Selbo-Præstegjeld  <lb/>
+naadigst skjænkede Gave af 100 Spdlr, skal jeg næst at bede, paa <lb/>
+de Trængendes og min Menigheds Vegne, Hans Majestæt frembragt vor  <lb/>
+underdanigste og hjerteligste Taksigelse, efter Deres Excellences Paalæg <lb/>
+lige underdanig tillade mig at tilføie:</p>
+               <p xml:id="p20">	Almindelig Nød og Uformuenhed til at afhjælpe samme har i dette <lb/>
+Præstegjeld været større end man i almindelighed kan f[ore]<note xml:id="ftn7" place="foot" n="7"> Et stykke av papiret er revet bort.</note>stille sig, <lb/>
+        og med bogstavelig Sandhed kan jeg sige, her gjælder [det]<note xml:id="ftn8" place="foot" n="8"> Et stykke av papiret er revet bort.</note> om at redde <lb/>
+        Mennesker fra at omkomme af Hunger, men [lovet]<note xml:id="ftn9" place="foot" n="9"> Et stykke av papiret er revet bort.</note> være Gud! fra fjærnt og <lb/>
+nær have vi modtaget hæderlige Vidnesbyrd om at Herrens Bud: "elsker <lb/>
+hverandre" end lever i Manges Hjerter, og med Glæde kan jeg berette at <lb/>
+Øieblikkets Nød eller Fare ansees paa nogenlunde beroligende Maade <lb/>
+at være afhjulpet, saa jeg tør antage at Hans Majestæts naadigste Gave <lb/>
+maa kunne anvendes til Sædekorn, som dernæst maa være os det vigtigste.</p>
+               <p xml:id="p21">	Hvis man tør forvente at de Angellske Stiftelsers Leilændinger, <lb/>
+Forpagtere og Husmænd, hvoraf her ere saare mange, kunne forhjælpes <lb/>
+med Laan eller Gave af Stiftelsernes Midler – hvorom underdanig  <lb/>
+Andragende er indgivet – da tør vi næst Guds Bistand! nære det Haab, at <lb/>
+Fattigmands Ager ei heller dette Aar skal ligge utilsaaet.</p>
+               <p xml:id="p22">	Vi alle nedbede Herrens bedste Velsignelse og Varetægt over <lb/>
+Hans Majestæt vor folkekjære Konge! <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Selbo-Præstegaard</placeName>
+                     <date>den 11te Februar 1850</date>.</dateline>
+                  <lb/>
+                  <salute>Underdanig</salute>
+                  <lb/>
+                  <signed>H.H. <persName>Emil Tybring</persName>
+                     <lb/>
+    					Sognepræst.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

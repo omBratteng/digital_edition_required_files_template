@@ -1,0 +1,131 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>148</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 14. mai 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 14. mai 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 11te, have Regjeringens <lb/>
+Medlemmer havt jevnlige Samlinger i Anledning af Krigs Spørgsmaalet – <lb/>
+og medens vi deliberere kunde Tydskerne mange Gange opsluge og <lb/>
+tilintetgjøre Dannemark!</p>
+               <p xml:id="p2">	Statsraadet var samlet igaar Formiddag og i Gaar Eftermiddag fra <lb/>
+Klokken 5 til 9 med det beklagelige Resultat, at Stang, Riddervold, <lb/>
+Sørensen fraraade enhver Deeltagelse i den dansk tydske Krig, altsaa ogsaa <lb/>
+enhver Udgift derfor; – Vogt tilraader, at optræde strax, uden Hensyn <lb/>
+til andre Staters Sindelag eller Deeltagelse, Fleischer vover ikke at <lb/>
+tilraade at yde Dannemark en Hjelp, som vilde være forgjæves mod den <lb/>
+tydske Overmagt, hvorfor han raader, at indskrænke sig til moralsk <lb/>
+Understøttelse. Jeg, Krog, Foss, tilraade underdanigst at hjelpe Dannemark <lb/>
+til at opretholde sin Tilværelse og afholde den tydske Overmagts  <lb/>
+Fremtrængen mod vore Grændser, under den Forudsætning, at denne Deres <lb/>
+Majestæts active Optræden ikke vil forstyrre vort venskabelige og  <lb/>
+fredelige Forhold til Rusland og England. Statsraad Foss har paataget sig <lb/>
+idag at ordne de forskjellige Vota, hvorefter det vidtløftige Opus <lb/>
+forhaabentlig vil kunne blive reenskrevet, for at afsendes med Morgenposten.</p>
+               <p xml:id="p3">	Jeg beklager høieligen disse Conferencers Resultat,  1o fordi det <lb/>
+viser Uenighed i Regjeringen om et saa vigtigt Spørgsmaal, og  2o meest <lb/>
+fordi 3de Statsraaders bestemte Fraraaden vil bestyrke Storthingets <lb/>
+revolutionaire Parties Uvillie mod enhver norsk Opoffrelse i denne <lb/>
+Begivenhed.</p>
+               <p xml:id="p4">	Jeg føler mig overbeviist om, at det ene og alene er Stang, som har <lb/>
+bevirket denne Opposition i Regjeringen, at den uden ham aldrig vilde <lb/>
+have existeret . Han bestræber sig for i enhver vigtig Begivenhed at <lb/>
+splitte Regjeringen, saaledes at hans og Collegers Meninger skulle finde <lb/>
+Medhold hos Storthingets revolutionaire Partie og vise sig som <lb/>
+Capaciteternes i Modsætning til de øvrige Statsraaders Udygtighed. Hans <lb/>
+Grundsætning er: divide et impera, – hans Bestræbelse at udtrætte og <lb/>
+uddrive af Regjeringen alle, som ikke kunne dele hans Anskuelser, som ikke <lb/>
+blindt ville underkaste sig hans lidenskabelige Villie.</p>
+               <p xml:id="p5">	Iøvrigt vil Deres Majestæt af Beretningen naadigst erfare, at Norge <lb/>
+ingenlunde mangler disponible Ressourcer til at udruste og holde i Feldten <lb/>
+3000 Mand. I modsat Fald maatte jo dette Rige opgive enhver Tanke om at <lb/>
+ville være en selvstændig Stat og snart vente at blive begravet under <lb/>
+sine egne Ruiner med Stabell, Ueland Fouchald, Christensen og Harbitz med <lb/>
+flere.</p>
+               <p xml:id="p6">	Jeg har meddeelt Oberste Garben Deres Majestæts naadige Tilbud, <lb/>
+hvorfor han nedlægger sin underdanigste Taksigelse, men derhos paa det <lb/>
+Bestemteste erklærer, at han ikke vover at antage det, fordi han ikke anseer <lb/>
+sig qualificeret til at opfylde de dermed forbundne Pligter. Ved Siden <lb/>
+heraf undslap ham den Yttring, at han føler sig utilbøielig til at <lb/>
+indtræde ved Siden af Anskuelser (Stangs) som i den senere Tid, især om <lb/>
+militaire Gjenstande have gjort sig gjeldende i Statsraadet. Denne <lb/>
+Anskuelse befrygter jeg flere dele, som kunne være en Følge af Stangs egen <lb/>
+Uforsigtighed og Indiscretion.</p>
+               <p xml:id="p7">	Derefter tillader jeg mig underdanigst at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa Ingenieur-capitaine Irgens, General Meydell, <lb/>
+Krigscommissair Broch; den førstnævnte anbefaler Garben særdeles, som <lb/>
+en lige hæderlig og dygtig Mand, et Vidnesbyrd, som ogsaa General Wedel <lb/>
+giver ham. Som Medlem af Christiania Formandskab har han her vunden  <lb/>
+almindelig Agtelse for Dygtighed og Retsind. – General Meydell kjender Deres <lb/>
+Majestæt. Om Broch yttre alle, som kjende ham, at han er en retskaffen,  <lb/>
+dygtig, characteerfast Mand, som nyder almindelig Agtelse i Storthinget,  <lb/>
+men med hans Talelyst ved Siden af Stangs, befrygter jeg man aldrig vilde <lb/>
+blive færdig, om man end holdt Statsraad Dag og Nat. Jeg modseer  <lb/>
+underdanigst Deres Majestæts naadigste Befaling.</p>
+               <p xml:id="p8">	Deres Majestæts naadige Befaling om Statsraad Stangs Forflyttelse <lb/>
+til Stockholm var en sand Trøst og Glæde for mig og Colleger, hvorefter <lb/>
+jeg haaber, at Fred og Enighed vil vende tilbage i den norske Regjering.</p>
+               <p xml:id="p9">	Det erfares nu hvorlidet praktisk anvendelig den norske Grundlov er <lb/>
+for Krigs Tilfælde, endog naar Storthinget er samlet! Hvorledes vilde det <lb/>
+gaae, naar et Storthing skulde sammenkaldes for at bevilge eller nægte? <lb/>
+Jeg troer hverken bedre eller værre end nu; men om Storthinget nu vilde <lb/>
+nægte at deeltage med Broderfolket, da forudseer jeg en haard Ydmygelse <lb/>
+for det norske Folk, hvorfor jeg fraskriver mig al Skyld. Jeg vil dog <lb/>
+ikke tænke mig et saadant Tilfældes Mulighed.</p>
+               <p xml:id="p10">	Som et Beviis paa, at Kampen i Storthinget betræffende Adressen <lb/>
+har havt Indflydelse, kan jeg underdanigst meddele, at de 14 Vise, som <lb/>
+nu have Sagen under Behandling, have besluttet at henlægge den indtil <lb/>
+Protocolcomitéen har afgivet Beretning og sit Testimonium.</p>
+               <p xml:id="p11">	Jeg takker underdanigst for Deres Majestæts naadige og behagelige <lb/>
+Meddelelse af 11te ved Hr Greve Lewenhaupt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14de Mai 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

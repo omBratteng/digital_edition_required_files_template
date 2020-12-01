@@ -1,0 +1,123 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>178</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. februar 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. februar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 16de, have vi ikke <lb/>
+kunnet have senere Efterretninger fra Bergen.</p>
+               <p xml:id="p2">	Hensigten med disse underdanigste Linier er, at henlede Deres <lb/>
+Majestæts naadige Opmærksomhed paa nogle i de senere Dage i Statsraadet <lb/>
+omhandlede Embeds-Indstillinger hvori jeg ikke har kunnet være enig <lb/>
+med Pluraliteten:</p>
+               <list xml:id="list3">
+                  <label> 	1o</label>
+                  <item> Til Byfoged i Bergen er indstillet Sorenskriver Vangensteen, <lb/>
+medens jeg alene har stemt for Politiemester sammesteds Hansson; hertil <lb/>
+foranlediges jeg ved det særdeles anbefalende Vidnesbyrd, som Stiftamtmand <lb/>
+Hagerup har givet Hansson for hans udmærkede Embedsvirksomhed, <lb/>
+som Politiemester i Bergen, hvor han saaledes allerede er vel kjendt <lb/>
+og vel orienteret, medens begge i formel Qualification ere temmelig lige.</item>
+                  <lb/>
+                  <label>	2o</label>
+                  <item> Til Brigadsauditeur i Bergen har Pluraliteten indstillet Baron <lb/>
+C. Wedel Jarlsberg, medens Statsraadene Sibbern, Pettersen og jeg  <lb/>
+underdanigst indstille Candidat P.M. Smith. Wedel er en særdeles dygtig <lb/>
+ung Mand, som jeg holder meget af, min Søn Adams Svoger, og jeg opoffrer <lb/>
+mine personlige Følelser ved at give den mig ubekjendte Smith Fortrinet <lb/>
+hvortil jeg, paa de i Protocollen anførte Grunde, anseer mig forpligtet <lb/>
+og hvis Vægt forøges ved den varme Interesse, som Stiftamtmand Hagerup <lb/>
+nærer for ham, som i 12 Aar har været hans Fuldmægtig. En saa udmærket <lb/>
+Embedsmand som Hagerup's billige Ønske fortjener under en temmelig <lb/>
+lige Qualification at komme i megen Betragtning, hvortil jeg tillader <lb/>
+mig underdanigst at anbefale det. For denne Anskuelse skulde jeg mundtlig <lb/>
+kunne anføre mere.</item>
+                  <lb/>
+                  <label>	3o</label>
+                  <item> Til det af Statsraad Sylow forhen indehavte Embede, som Inspecteur <lb/>
+ved de militaire Værksteder, er indstillet en Capitain Finckenhagen,  <lb/>
+medens jeg har stemt for Capitaine Anker. At denne er klippet og  <lb/>
+skaaren for dette Embede, erkjendes af alle Statsraadets Medlemmer, som <lb/>
+kjender ham; men Statsraad Sylow har indstillet Finckenhagen, og Collegerne <lb/>
+ere i Almindelighed lige saa tilbøielige til at stemme med den <lb/>
+foredragende Departements Chef, som de af ham fordre samme Føielighed <lb/>
+for deres Foredrag. Dette ligger i Sagens som i vor Forretnings  <lb/>
+Organisation's Natur, medens Rigs Statholderen staaer udenfor dette <lb/>
+indbyrdes Forhold imellem Departements-Cheferne.</item>
+                  <lb/>
+                  <label>	4o</label>
+                  <item> Til den ledige Assessorpost i Høiesteret er indstillet <lb/>
+Stiftsoverrets Assessor Manthey, som med sædvanlig Varme vil blive  <lb/>
+forsvaret af Statsraad Stang, hvorimod jeg stemmer for Høieste Rets <lb/>
+Advocat Andresen.</item>
+               </list>
+               <p xml:id="p4">	Jeg ledes hertil ved de Oplysninger, som jeg har indhentet af <lb/>
+competente Dommere inden- og udenfor Høiesteret, som nøie kjende begge <lb/>
+Ansøgere, og som alle ere enige i at give Andresen Fortrin. Naar hertil <lb/>
+kommer, at af Høiesterets 10 Medlemmer have 8 officielt erklæret sig <lb/>
+for denne Mening, at hele Høiesteret har givet Andresen et høist  <lb/>
+anbefalende Testimonium <hi rend="underline">som ønskes Deres Majestæt forelagt</hi>, at jeg i <lb/>
+                  <hi rend="underline">denne Begivenhed</hi>  maa tillægge 8 Høiesterets Medlemmer vel saa megen <lb/>
+Competence, som 7 Regjerings Medlemmer, saa vilde Deres Majestæt ved ikke <lb/>
+at tage Hensyn paa Rettens Anskuelse og Ønske formeentlig røbe en Ringeagt <lb/>
+for denne, som jeg anseer utilraadelig. Under vore offentlige Forholde er <lb/>
+en god Forstaaelse imellem Deres Majestæts Regjering og Høiesteret vigtig <lb/>
+og ønskelig.</p>
+               <p xml:id="p5">	Jeg udbeder Deres Majestæts naadige Overbærelse for den Vidtløftighed, <lb/>
+hvormed jeg har tilladt mig at gjøre Rede for mine Anskuelser. <lb/>
+Jeg har hertil føelt mig saa meget mere opfordret, som min Stemmegivning <lb/>
+under Dissents sjelden eller aldrig har den Lykke at vinde Medhold i det <lb/>
+norske Statsraad i Stockholm, hvorfor det er mig magtpaaliggende at motivere <lb/>
+min Dissents, underdanigst henstillende til Deres Majestæts naadige <lb/>
+Bedømmelse hvad Hensyn den kan fortjene. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 Februar 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

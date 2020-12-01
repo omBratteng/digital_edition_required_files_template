@@ -1,0 +1,96 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>364</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. oktober 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. oktober 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 28de denne Maaned.</p>
+               <p xml:id="p2">	Da Statsraad Sibberns Helbred ikke tillod ham at modtage det ham <lb/>
+af Deres Majestæt naadigst tiltænkte Hverv, som Medlem af en ny Interims <lb/>
+Regjering, har den norske Regjering, med Hjemmel af Deres Majestæts <lb/>
+naadige Bemyndigelse, i hans Sted udnævnt Stiftamtmand Sem til <lb/>
+som tilforordnet Statsraad at tiltræde denne Interimsregjering.</p>
+               <p xml:id="p3">	Alle de øvrige naadigst udnævnte Medlemmer have skyldigst modtaget <lb/>
+den naadige Kaldelse, nemlig: Statsraaderne Krog, Petersen, Sørenssen, <lb/>
+Amtmand Blom, Biskop Arup, Generalmajor Garben.</p>
+               <p xml:id="p4">	Statsraaderne Petersen og Sørenssen tiltraadte i Gaar Morges Reisen <lb/>
+til Stockholm, og de øvrige ville uopholdelig følge dem.</p>
+               <p xml:id="p5">	Derefter er den herværende Norske Regjering sammensat som følger:</p>
+               <list xml:id="list6">
+                  <item>Kirke-Departement: Statsraad Riddervold;</item>
+                  <lb/>
+                  <item>Finants Departemt: Statsraad Vogt;</item>
+                  <lb/>
+                  <item>Indre Departemt: Statsraad Stang;</item>
+                  <lb/>
+                  <item>Armee Departemt: Statsraad Sylow;</item>
+                  <lb/>
+                  <item>Revisions Departemt: tilforordnet Statsraad forhenværende <lb/>
+    				  Statsraad Holst;</item>
+                  <lb/>
+                  <item>Marine Departemt: tilforordnet Statsraad Byfoged Thrap;</item>
+                  <lb/>
+                  <item>Justits Departemt: tilforordnet Statsraad Sorenskriver Lasson;</item>
+               </list>
+               <lb/>
+               <p xml:id="p7">	Vinteren er pludselig indtraadt med en for denne Aarstid usædvanlig <lb/>
+Kulde. -</p>
+               <p xml:id="p8">	Sidstafvigte Uges stormende Veir har forsinket vore 2de paa <lb/>
+Udlandet farende Dampskibe under deres sidste Reise, saaledes, at <lb/>
+"Nordcap", som skulde have bragt Posten fra Kjøbenhavn Fredag Formiddag, <lb/>
+først ankom idag Morges; – og "Christiania", som i Morgen skulde komme <lb/>
+fra Kiel, vil først kunne komme nogle Dage senere.</p>
+               <p xml:id="p9">	Jeg imødeseer den i Dag fra Stockholm forventende Post med <lb/>
+Efterretning om Deres Majestæts Befindende, med urolig Længsel. Savnet af <lb/>
+en tellegraphisk Forbindelse imellem de 2de Hovedstæder føeles nu  <lb/>
+bitterlig. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te October 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>317</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 10. august 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 10. august 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3dje denne Maaned.</p>
+               <p xml:id="p2">	Kammerherre Brandt har i Dag meldt mig, at paa Ringeriget er alt <lb/>
+roligt og i lovlig Orden. Som Følge heraf vil den sidste Deel af de <lb/>
+did detacherede Tropper komme tilbage til Christiania i Dag.</p>
+               <p xml:id="p3">	Et behageligt Veir begunstigede min Feiring af Hendes Kongelige <lb/>
+Høihed Kronprindsessens Fødselsdag, hvori flere hertil samme Dag for <lb/>
+Jernbanens Aabning ankomne Medlemmer af det engelske Over- og Underhuus <lb/>
+deeltog.</p>
+               <p xml:id="p4">	Jorden for Jernbanen aabnedes paa Deres Majestæts høie Vegne <lb/>
+af mig Fredag den 8de og tør jeg troe, at den høitidelige Act er  <lb/>
+bleven paa en værdig Maade feiret. I Processionen saaes Hr Pethe, en <lb/>
+meget riig Parlamentsmedlem, en af Jernbane Contrahenterne, bærende <lb/>
+paa sin Skulder en engelsk Sølvspade, som han efter Taler af mig og <lb/>
+Hr Stephenson, samt en Bøn af Biskoppen, overleverede mig til Jordens <lb/>
+Aabning, hvorefter jeg udbragte et Leve for Deres Majestæt som gjentoges <lb/>
+af de mange Tusinde Tilskuere, med Fanfarer og Kongelig Salut.</p>
+               <p xml:id="p5">	Spaden med et her forarbeidet elegant Trillebaar, hvori jeg havde <lb/>
+lagt den optagne Jord, bad Hr Pethe mig beholde som en Erindring. <lb/>
+Den samme Hr Pethe havde til Christal-Paladset subscriberet 50,000 £ st.</p>
+               <p xml:id="p6">	Det var mig særdeles interessant at bemærke, hvorledes Englændernes <lb/>
+Gudsfrygt og loyale Royalisme yttrede sig under den høitidelige <lb/>
+Act.</p>
+               <p xml:id="p7">	Blandt de flere Fremmede, som ved denne Leilighed presenteredes, <lb/>
+var en saa kaldt General Jochmus, c.d. Rigs-Krigsminister i Frankfurth <lb/>
+1848, decoreret med flere Ordener fra hiin berømmelige Tid. Han  <lb/>
+gjenkjendtes her som en forhenværende Commis paa et hamborgsk Handels <lb/>
+Comptoir, i hvilken Stilling han har reist her som Probenreuter.</p>
+               <p xml:id="p8">	Storthingets afvexlende Præsidenter, Aall og Harbitz, have for <lb/>
+mig yttret den Formodning, at Storthingets Forhandlinger ville kunne <lb/>
+sluttes den 13 September, om de ikke modtage flere Kongelige  <lb/>
+Propositioner.</p>
+               <p xml:id="p9">	I Anledning af Deres Majestæts Bemærkninger betræffende det <lb/>
+forestaaende Statsraadsombytte tillader jeg mig underdanigst at yttre <lb/>
+Følgende:</p>
+               <p xml:id="p10">	Grundlovens uheldige Bud om det aarlige Statsraads Ombytte, <lb/>
+medfører hvert Aar store Ulemper for vedkommende Statsraader og for den <lb/>
+høieste Forretningsadministration; men Budet maa, saalænge det ikke <lb/>
+er hævet, opfyldes og det paaligger Statholderen hvert Aar at gjøre <lb/>
+et dertil sigtende underdanigst Forslag for Deres Majestæt.</p>
+               <p xml:id="p11">	Efterat jeg under min bedste Overveielse var kommet til den <lb/>
+Deres Majestæt underdanigst forelagte Anskuelse, meddeelte jeg den til <lb/>
+de nærmest vedkommende Statsraader Vogt, Petersen og Sylow, De 2 de  <lb/>
+Førstnævnte bifaldt mit Forslag ubetinget, hvorimod Sylow, paa Grund <lb/>
+af private Omstændigheder (blandt Andet en Datters Confirmation) <lb/>
+ønskede sin Stockholms Reise udsat. Derefter bragte jeg Gjenstanden <lb/>
+under en confidentiel Behandling i Statsraadet, hvor, efterat alle  <lb/>
+Tjenesten vedkommende Omstændigheder vare overveide, Alle tiltraadte mit <lb/>
+Forslag og derom paa min udtrykkelige Opfordring erklærede sig enige.</p>
+               <p xml:id="p12">	Først derefter tillod jeg mig under 17de forrige Maaned at <lb/>
+fremføre mit underdanigste Forslag, som Deres Majestæt under 24de samme <lb/>
+Maaned naadigst bifaldt, hvilket jeg i det først paafulgte Statsraad <lb/>
+til Efterretning for Vedkommende pligtmæssig meddeelte.</p>
+               <p xml:id="p13">	Det vil heraf naadigst erfares, at jeg, forinden jeg fremsatte <lb/>
+mit underdanige Forslag, omhyggelig har overveiet det og ved nu senere <lb/>
+atter at begrunde det, har jeg ikke kunnet komme til noget andet <lb/>
+Resultat. Det samme er Tilfældet med Statsraaderne Vogt og Petersen, <lb/>
+hvem jeg har meddeelt Deres Majestæts senere Betænkeligheder, og af <lb/>
+en fornyet Conference i Statsraadet, burde jeg ikke kunne vente noget <lb/>
+andet Resultat end af den foregaaende, hvor alle Omstændigheder blev <lb/>
+tagne i Betragtning.</p>
+               <p xml:id="p14">	Efter alt Foranførte ønsker jeg mig naadigst fritaget for atter <lb/>
+at omhandle Sagen i Statsraadet, fordi det ikke synes passende og  <lb/>
+kunde føre til fordærvelige Følger at tage en Sag under fornyet  <lb/>
+Discussion, som efter i Statsraadet at være overveiet, af Deres  <lb/>
+Majestæt allerede er endelig afgjort.</p>
+               <p xml:id="p15">	Af Deres Majestæts naadige Skrivelse seer jeg, at det er <lb/>
+Statsraads-Afdelingens Medlemmer, som have foranlediget Deres Majestæts <lb/>
+senere Betænkeligheder, nemlig at Statsraad Sylows Nærværelse her <lb/>
+skulde være nødvendig før Behandlingen af Værnepligtsloven og  <lb/>
+Depôtsagen, samt, at Armeen nu ugjerne skulde see Armee Departementet <lb/>
+anbetroet til en civil Mand.</p>
+               <p xml:id="p16">	Hertil tillader jeg mig underdanigst at svare:<lb/>
+                  <list xml:id="list17">
+                     <label>1o  </label>
+                     <item>Naar lige vigtige militaire Gjenstande, ja selve Værnepligtsloven, under <lb/>
+Departementschefens Fraværelse i Stockholm forhen have været behandlede <lb/>
+af en civil Statsraad, saa er saadant lettere nu, med den sagkyndige <lb/>
+Hjelp, som nu er tilforordnet Armee Departementets Chef,</item>
+                     <lb/>
+                     <label>2o  </label>
+                     <item>Depôtsagens juridiske Deel kan formeentlig hensigtsmæssigst <lb/>
+behandles af en juridisk Chef og turde det med Hensyn paa Statsraad <lb/>
+Sylows foregaaende Forhold til Depôet, endog være mindre passende, <lb/>
+at denne Sag behandles af ham. Depoets midlertidige Bestyrelse er <lb/>
+ordnet og om den fremtidige vil her neppe blive Spørgsmaal før efter <lb/>
+Sylows Tilbagekomst,</item>
+                     <lb/>
+                     <label>3o  </label>
+                     <item>Armeen er siden 1814 vandt til, at det militaire Departement, under Chefens Fraværelse i Stockholm, bestyres <lb/>
+af en civil Statsraad, som er en Følge af Grundlovens Bud, og <lb/>
+man vogte sig for at forstyrre denne Vane! Ikke desto mindre har <lb/>
+jeg, i Anledning af den gjorte Bemærkning uden at meddele den,  <lb/>
+sonderet Armeens nu høist Befalende Oberst Garben, som fandt Statsraad <lb/>
+Sylows Forflyttelse til Stockholm i sin Orden og yttrede sin Tilfredshed, <lb/>
+som han formeente, deeltes af Armeens Officierer, over at Departementet <lb/>
+vilde blive anbetroet Statsraad Petersen.</item>
+                  </list>
+               </p>
+               <p xml:id="p18">	De 2de militaire Departements Chefer kunne ligesaa lidt nu som <lb/>
+tilforn, fritages for at deeltage i Statsraadsombyttet, uden ubilligen <lb/>
+at forøge Byrden for deres Colleger, og det er i de 2de første <lb/>
+Aar efter et Storthing at <hi rend="underline">de</hi>  maa gaae til Stockholm, da deres <lb/>
+Nærværelse hjemme er end nødvendigere i det 3die Aar før et nyt <lb/>
+Storthing.</p>
+               <p xml:id="p19">	Om Deres Majestæt efter Alt hvad jeg nu har anseet mig forpligtet <lb/>
+til underdanigst at oplyse, ikke desto mindre maatte bestemme, <lb/>
+at Statsraad Petersen skal gaae til Stockholm, og Sylow forblive her, <lb/>
+tør jeg derom modsee Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p20">	Under Høistsalig Kongens Regjering confereredes aldrig med <lb/>
+Statsraaderne her eller i Stockholm om Statsraadsombyttet. Statholderen <lb/>
+foreslog, Kongen befalede, og Ingen tillod sig at opponere. Nu  <lb/>
+opponeres bestandig! Deres Majestæt gjorde den naadige Concession, at <lb/>
+jeg hver Gang skulde conferere med de herværende Statsraader og denne <lb/>
+Concession har havt den i vor Tid sædvanlige Følge, <hi rend="underline">at mere fordres</hi>, <lb/>
+nemlig, som jeg seer af Statsministerens Brev, Conference med <lb/>
+Statsraaderne i Stockholm, og som det synes ogsaa med Armée Commandoen, <lb/>
+en Forretningsgang, som jeg umulig kan ansee hensigtsmæssig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 10 August 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>357</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 13. mai 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 13. mai 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanige Rapport var af 29de forrige Maaned.</p>
+               <p xml:id="p2">	Den deri ommeldte Regn gik over til et stærkt Sneefald, hvorefter <lb/>
+igjen tørt Veir indtraadte, som dog i den seneste Tid har været <lb/>
+afbrudt af velgjørende Regn. Imidlertid er Vegetationen og Jordarbeidet <lb/>
+endnu meget langt tilbage for Aarstiden.</p>
+               <p xml:id="p3">	De svenske Eiere af Sukker-Raffinaderiet paa Frederikshald, ere <lb/>
+nu atter indkomne med en Klage over det Tab de lide ved den i Sverige <lb/>
+under 30te September 1851 besluttede Toldforhøielse for Deres <lb/>
+Product, i hvilken Anledning de fordre Forandringer i den med den <lb/>
+norske Stat sluttede Contract om deres Privilegiums Begrændsning.</p>
+               <p xml:id="p4">	Medens vi maa erkjende, at Klagerne ved den for Sverige besluttede <lb/>
+Toldforhøielse for deres Product, lide et stort og uforudseet <lb/>
+Tab, staaer det ikke i den norske Statsstyrelses Magt at indvilge <lb/>
+Forandring til Tab for Statscassen i den <hi rend="underline">med Storthingets Samtykke</hi>
+                  <lb/>
+sluttede Contract, hvorimod Regjeringen underdanigst indstiller til <lb/>
+Deres Majestæts naadige Bifald Sukker Raffinadeurernes subsidiaire <lb/>
+Forslag om at renoncere paa den dem ved Contracten bevilgede Udførsels <lb/>
+Præmie for Sukker til Sverige, mod at den i denne Anledning derfor <lb/>
+besluttede svenske Toldforhøielse maa bortfalde, hvorefter den <lb/>
+ved provisorisk Anordning af 20de Februar 1852 bestemte Toldforhøielse <lb/>
+for svensk Sukker, som indføres til Norge, samtidig maatte <lb/>
+tilbagekaldes. Om dette underdanigste Forslag vinder Deres Majestæts <lb/>
+naadige Bifald, maa den norske Statscasse overtage Resicoen for det <lb/>
+Søgsmaal som Sukker-Raffinadeurerne derhos vil have sig forbeholdt <lb/>
+mod denne.</p>
+               <p xml:id="p5">	Stiftsgaardens Meublement, hvoraf endeel er anskaffet i 1814 for <lb/>
+Høistsalig Kongens Regning, er nu i en yderst mislig Forfatning, der <lb/>
+vil foranledige Spørgsmaal om dets Vedligeholdelse og Complettering. <lb/>
+Hvad det Deres Majestæt tilhørende Meublement angaaer, kan imidlertid <lb/>
+det Offentlige ikke overtage Reparationen, med mindre Deres Majestæt <lb/>
+naadigst vil renoncere paa Eiendomsretten dertil, dog under Forbehold <lb/>
+af, at det Offentlige overtager Forpligtelsen til dets Vedligeholdelse <lb/>
+og Complettering. Ifald Deres Majestæt naadigst vil give Sit Samtykke <lb/>
+hertil, udbeder jeg dette meddeelt i en saadan Form, at det paa <lb/>
+officiel Maade kan benyttes. Det omhandlede Meublement er forøvrigt <lb/>
+i sin nærværende Tilstand af megen liden Værdie.</p>
+               <p xml:id="p6">	Ved Deres Majestæts forestaaende Afreise fra Stockholm tillader <lb/>
+jeg mig at udbede naadigst Underretning om Deres Majestæts Reiseroute, <lb/>
+for at jeg deraf kan erfare, hvorhen jeg skal adressere mine  <lb/>
+underdanigste Rapporter under Deres Majestæts Fraværelse fra Stockholm.</p>
+               <p xml:id="p7">	I Forbindelse med mine nylige underdanigste Bemærkninger om vor <lb/>
+Tids Trykkefrihed, tillader jeg mig underdanigst at citere Grev  <lb/>
+Ficquelemonts Yttring om samme Gjenstand i et nylig udgivet politisk <lb/>
+Skrift:</p>
+               <p xml:id="p8">	"Si je m'élève ainsi contre la presse périodique, c'est parce <lb/>
+que j'ai l'intime conviction, que sa forme actuelle, l'extension qu' <lb/>
+elle a prise, et la liberté, qui lui est laissée, en font l'instrument <lb/>
+le plus puissant de troubles et d'anarchie, sans qu'elle puisse <lb/>
+jamais offrir la possibilite de devenir aussi utile qu'elle s'est <lb/>
+déjà montré dangereuse".</p>
+               <p xml:id="p9">	Dette stemmer med Prinds Louis Napoleons Anskuelse: "L'ordre et <lb/>
+la liberté de la presse ne peuvent coexister".</p>
+               <p xml:id="p10">	Efter de mange forgjæves Forsøg paa at forene begge Dele ved en <lb/>
+liberal og viis Lovgivning, maa jeg dele denne Mening. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 Mai 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

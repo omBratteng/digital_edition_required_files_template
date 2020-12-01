@@ -1,0 +1,102 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>536</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. mars 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. mars 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	I Henhold til min underdanige Rapport af 23de denne Maaned <lb/>
+giver jeg mig den Ære at fremsende underdanigst vedlagte Svarskrivelse <lb/>
+fra Amtmand Manthey som jeg modtog igaar og hvoraf Deres Majestæt <lb/>
+naadigst vil erfare, at han med underdanig Taknemmelighed <lb/>
+modtager Deres Majestæts naadige Tilbud om at indtræde i Statsraadet <lb/>
+som Statsraad Stangs Efterfølger; – hvorom jeg idag har underrettet <lb/>
+Statsraad Petersen. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30te Marts 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 30. mars 1856</supplied>
+               </head>
+               <opener>Til  <lb/>
+Det Kongelige Statholderskab <lb/>
+		  i Norge</opener>
+               <p xml:id="p2">	Som Svar paa Deres Excellences Skrivelse af 22de d.M., hvori <lb/>
+jeg opfordres til at indtræde i den Norske Regjering som Statsraad <lb/>
+Stangs Efterfølger, giver jeg mig den Ære at meddele, at Tanken om <lb/>
+at skulle overtage Forretninger, der have været ledede af Statsraad <lb/>
+Stang, hvis Talenter og ualmindelige Dygtighed Faa have havt bedre <lb/>
+Anledning til at skatte end mig, vistnok burde afholde mig fra at <lb/>
+modtage den tilbudte Hæder, da jeg imidlertid tør forudsætte at ingen <lb/>
+Anden af mere fremragende Dygtighed har været fundet villig til <lb/>
+at overtage dette Hverv, og da jeg altid er gaaet ud ifra at Hensynet <lb/>
+til min egen Personlighed burde sættes tilside, naar det antoges <lb/>
+at jeg ved min Tjeneste kunde gjøre Kongen og Fædrelandet noget Gavn, <lb/>
+troer jeg ikke at burde vægre mig for at forsøge, hvorvidt mine  <lb/>
+Kræfter her kunne strække til. For det Tilfælde at disse maatte  <lb/>
+befindes at have været overvurderede, saavel af Andre som af mig selv, <lb/>
+holder jeg mig forvisset om at Hans Majestæt Kongen naadigst vil <lb/>
+tilstede mig at træde tilbage i en lignende Embedsstilling som den jeg <lb/>
+nu indehaver eller i en anden Post, hvortil jeg maatte findes skikket.</p>
+               <p xml:id="p3">	Med ærbødigst Tak for de smigrende Yttringer af Velvillie for <lb/>
+mig, som Deres Excellences Skrivelse udtaler, er jeg</p>
+               <closer>
+                  <salute>med uskrømtet Højagtelse Deres <lb/>
+    								Excellences ærbødigste</salute>
+                  <lb/>
+                  <dateline>
+                     <placeName>Kjonerud Gaard</placeName>
+                     <date>den 27de Marts <lb/>
+    		  1856</date>.	</dateline>
+                  <signed>
+                     <persName>A. Manthey</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

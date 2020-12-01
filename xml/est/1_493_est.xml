@@ -1,0 +1,168 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>493</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. mars 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	Samme Dags Aften havde jeg den Ære at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 12te, hvis naadige Indhold jeg skyndede mig at <lb/>
+meddele de 2de gjenlevende Sødskende Mansbach. Efter deres Anmodning, <lb/>
+tillader jeg mig underdanigst at bevidne den dybe og hjertelige  <lb/>
+Taknemmelighed, hvormed de og deres Nærmeste have modtaget dette nye  <lb/>
+Beviis paa Deres Majestæts Naade, som i Størrelse overgik deres  <lb/>
+Forventning og hvorved det vil blive muligt for den ulykkelige Blinde at <lb/>
+beholde sin Søsters Pleie. Sandelig! Deres Majestæt har ogsaa i denne <lb/>
+Begivenhed viist lige megen Generositet i Gjerning som i Sindelag.</p>
+               <p xml:id="p3">	Det var mig en sand Glæde i Statsraadet i Gaar at meddele <lb/>
+Regjeringens Medlemmer Deres Majestæts naadige Tilfredshed med deres <lb/>
+Forhold i en nylig vigtig Begivenhed. De bad mig fremføre deres <lb/>
+underdanige Taknemmelighed for de naadige Udtryk, hvormed det naadigst <lb/>
+har behaget Deres Majestæt at yttre denne Kongelige Tilfredshed, med <lb/>
+den underdanige Forsikkring, at de i enhver Begivenhed ønske at kunne <lb/>
+opnaae denne, ved Opfyldelse af deres Pligt mod Konge og Fædreneland.</p>
+               <p xml:id="p4">	Den i min sidste underdanige Rapport omnævnte Amtmanden i <lb/>
+Stavanger Amt, Harris affordrede Erklæring er senere indkommet. <lb/>
+Amtmanden yttrer deri, at han ikke troede at burde nægte Lensmand Ueland <lb/>
+den i sin Tid begjærte Permission, for at deeltage i Lovcommissionen <lb/>
+og at han ikke i den Kongelige Resolution af 1ste Februar har funden <lb/>
+tilstrækkelig Anledning til at rappellere ham. Imidlertid har Finants <lb/>
+Departementet med omgaaende Post paalagt ham uden Ophold at rappellere <lb/>
+Ueland. Amtmand Harris har i denne Begivenhed viist mere Respect <lb/>
+for Storthingets Beslutning end for Deres Majestæts Resolution og <lb/>
+stadfæstet mig i den Formening, som jeg stedse har havt om ham: at <lb/>
+han er en dygtig, – men upaalidelig Embedsmand.</p>
+               <p xml:id="p5">	Enroulleringschef Constantius Rasch er i disse Dage afgaaet ved <lb/>
+Døden 78 Aar gammel. Han var, som Deres Majestæt naadigst vil erindre, <lb/>
+en original gammel Sømand, og var derhos en hæderlig og i sin  <lb/>
+underordnede Stilling nidkjær og gavnlig Embedsmand.</p>
+               <p xml:id="p6">	Naar Deres Majestæt har den Naade at berøre vor ydre Politik <lb/>
+vover jeg at ansee det som en naadig Tilladelse til at yttre mine  <lb/>
+Anskuelser, uden at ville tillægge dem nogensomhelst Værd eller <lb/>
+Interesse.</p>
+               <p xml:id="p7">	Jeg tilstaaer uforbeholdent, at Keiser Alexanders Manifest ikke <lb/>
+hos mig har opvakt nogen Mistanke eller Uro for hans Naboer. Keiseren <lb/>
+erklærer at ville <hi rend="underline">opretholde</hi>, (<hi rend="underline">ikke forøge</hi>) Ruslands Magt, paa den <lb/>
+Høide, som den efter hans Forgjængeres Ønsker har opnaaet. Dette  <lb/>
+Forsæt er en hver russisk Keisers naturlige Kald og Nutidens  <lb/>
+Omstændigheder give Keiser Alexander Anledning til "von vorn hinein" at  <lb/>
+proclamere dette Forsæt, for sine Undersaatter, og for Europa. Jeg øiner <lb/>
+ikke i dette Program nogen Provocation, det er puurt og bart conservativt, <lb/>
+– og om Ruslands Fiender vare lige conservative istedetfor at <lb/>
+være revolutionaire, kunde Verden faae Fred. Siden vort nuværende  <lb/>
+Dynastie besidder de forenede Rigers Throner, har Ruslands Magt været <lb/>
+paa samme Høide, som nu, uden at den har været misbrugt mod os og jeg <lb/>
+har den urokkelige Troe, at dette heller ikke fremtidig vil skee, om <lb/>
+vi ikke selv foranledige det. England har i det sidste halve Seculum <lb/>
+ganske anderledes misbrugt sin Overmagt mod de mindre Stater end <lb/>
+Rusland; men Englands Overgreb kaldes civiliserede; de Overgreb, som <hi rend="underline">man</hi>
+                  <lb/>
+                  <hi rend="underline">tillægger</hi>  Rusland, barbariske.</p>
+               <p xml:id="p8">	Keiser Nicolai Død kunde visselig betydelig bidrage til en <lb/>
+europæisk Fred; men jeg vover ikke at haabe den, fordi Englands Mob og <lb/>
+dennes Representanter, visse Herligheder, ikke ville have Fred.</p>
+               <p xml:id="p9">	I denne Sagernes farlige Stilling levnes mig kun det varme Ønske, <lb/>
+den Bøn til Forsynet: "at Deres Majestæts Dynastie, Deres Majestæts <lb/>
+Riger maa blive udenfor Striden!"</p>
+               <p xml:id="p10">	I denne Henseende foruroliges jeg meest ved Civilisationens <lb/>
+infernale Presse, naar jeg daglig læser, hvorledes den i alle Verdens <lb/>
+Tungemaal forvandsker Sandheden, søger at forlede Fyrster og Folk, <lb/>
+drister sig til at trykke, at Deres Majestæt snart vil følge Piemonts <lb/>
+ynkelige Exempel, og saa videre.</p>
+               <p xml:id="p11">	Rusland kan under en vedvarende Krig lide store Tab, det kan <lb/>
+maaskee for en Tid ligge under; men jeg spaaer: det vil reise sig <lb/>
+igjen og – opgjøre Regning med sine Fiender og Venner.</p>
+               <p xml:id="p12">	Gud holde Sin Haand over Deres Majestæt og Deres Majestæts Riger!</p>
+               <p xml:id="p13">	Efterat Forestaaende var skrevet, modtog jeg vedlagte Brev fra <lb/>
+Kabinets Kammerherre Oberste v. Mansbach som jeg tillader mig <lb/>
+underdanigst at fremsende. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 18. mars 1855</supplied>
+               </head>
+               <opener>
+                  <salute>Deres Excellence!</salute>
+               </opener>
+               <p xml:id="p14">	Den Communication som Deres Excellence har haft den Bevaagenhed <lb/>
+at sende mig, betræffende en Pension af tre Hundrede Species, <lb/>
+som Hans Majestæt Kongen naadigst har bevilget min Søster og mig, <lb/>
+har jeg haft den Ære at modtage.</p>
+               <p xml:id="p15">	Det er naturligtviis, for hende og mig, en Trang at bevidne <lb/>
+Hans Majestæt vor inderligste Taknemmelighed for den, i Sandhed, <lb/>
+Kongelige Générosité, – men, skulde Kongen besværes med Taksigelsesbreve <lb/>
+hver Gang hans ædle Hjerte uddeler Naade og Velgjerninger, vilde <lb/>
+saadant for Høistsamme blive særdeles byrdefuldt.</p>
+               <p xml:id="p16">	Uendelig taknemmelig vilde jeg derfor blive, om Deres Excellence <lb/>
+beviiste mig den Yndest at benytte den første passende Anledning <lb/>
+til at bevidne Hans Majestæt min Søsters og min underdanigste og <lb/>
+hjerteligste Taknemmelighed for den naadige og betydelige Pension  <lb/>
+Høistsamme har tildeelt os, og som sætter os istand til fremdeles at <lb/>
+forblive samlede her i Christiania, og forenede nedbede Guds Velsignelse <lb/>
+over vor naadige Konge og Velgjører.</p>
+               <closer>
+                  <salute>Med uindskrænket Høiagtelse har jeg den Ære at undertegne mig <lb/>
+    							Deres Excellences <lb/>
+    					  ærbødigst meget forbundne Tjener</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J. v. Mansbach</persName>
+                     <lb/>
+						    ( <hi rend="underline">dicteret Brev</hi>.)</signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>d. 18de Marts 1855</date>.</dateline>
+                  <lb/>
+Til Hans Excellence Norges Riges Statholder.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

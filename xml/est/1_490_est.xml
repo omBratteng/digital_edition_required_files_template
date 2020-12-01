@@ -1,0 +1,107 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>490</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. mars 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	I Henhold til min sidste underdanigste Rapport af 1ste denne <lb/>
+Maaned, hvori jeg underdanigst anmeldte Generalinde Mansbachs dødelige <lb/>
+Afgang, vover jeg, i Tillid til Deres Majestæts naadige Overbærelse, <lb/>
+i Underdanighed at fremstille hendes efterladte Families Stilling.</p>
+               <p xml:id="p2">	2de Døttre ere Stiftsdamer i det adelige Stift Wimmeltofte i <lb/>
+Sjælland, hvoraf de, naar de ere fraværende, have en aarlig Indtægt, <lb/>
+men som, naar de ville tilflytte Klosteret, vil yde dem alle Livets <lb/>
+Fornødenheder, og ikke allene en sorgfrie, men derhos en behagelig <lb/>
+Tilværelse. Paa dette store Gode have de hidindtil renonceret, for at <lb/>
+kunne pleie deres værdige gamle Moder og over Forventning ere de nu <lb/>
+redebonde til at bringe deres blinde Broder, som forladt af dem, vil <lb/>
+være aldeles hjelpeløs, det samme store Offer, om det i oeconomisk <lb/>
+Henseende kan blive dem muligt at forblive hos og med denne ulykkelige <lb/>
+Broder, hvilket dog kun kan skee, om Deres Majestæt vil have den <lb/>
+store Naade at lade dem beholde nogen liden Deel af de 450 Speciedaler <lb/>
+som Deres Majestæt i en lang Aarrække naadigst har forundt deres <lb/>
+afdøde Moder. Med en saadan naadig Understøttelse, saa længe Broderen <lb/>
+lever <hi rend="underline">eller de ikke tilflytte Wemmeltofte Kloster</hi>, med Tilskud af hvad <lb/>
+de nu nyde af Klosteret, og hvad Broderens Creditorer levne ham, af hans  <lb/>
+Pension og Deres Majestæts Naadegave, haabe Frøknerne Mansbach at kunne  <lb/>
+opretholde Deres ulykkelige Broders Tilværelse.</p>
+               <p xml:id="p3">	Jeg beder naadigst tilgivet, at jeg vover at udbede denne Naade.</p>
+               <p xml:id="p4">	Efterat Statsraad Bloch i Gaar har erklæret, at han i Overmorgen <lb/>
+vil kunne afgive de ham affordrede Oplysninger betræffende de paapegede  <lb/>
+Armeens Fornødenheder, har jeg samme Dag berammet et overordentligt  <lb/>
+Statsraad til sammes Modtagelse. Finants Departementet vil da <lb/>
+have at yttre sig om de havende Pengeresourcer, og Regjeringen  <lb/>
+derefter afgive sin underdanigste Betænkning om, hvorledes disse kunne <lb/>
+tilveiebringes.</p>
+               <p xml:id="p5">	Jeg vil i Overmorgen søge at gjøre min Anskuelse herom gjældende, <lb/>
+hvorfor jeg tør haabe at vinde, om ikke Eenstemmighed, saa dog <lb/>
+en afgjørende Majoritet, den jeg i Mellemtiden har bestræbet mig for <lb/>
+at tilveiebringe, og hvortil Betænkningstid har været gavnlig.</p>
+               <p xml:id="p6">	Efterat her har været yttret Formodning om, at Statsraad Stang <lb/>
+vil ansøge om Deres Majestæts naadige Tilladelse til at besøge et  <lb/>
+udenrigs Bad næste Foraar, have flere af mine Colleger yttret  <lb/>
+Betænkelighed over at Deres Majestæt, efter hans Afreise, kun skulde have <lb/>
+2de norske Raadgivere til Disposition i Stockholm, og altsaa, naar <lb/>
+en af disse havde Forfald, ikke kunde holde norsk Statsraad.</p>
+               <p xml:id="p7">	Jeg deler denne Betænkelighed, især med Hensyn paa Nutidens <lb/>
+mangehaande vanskelige Omstændigheder og indstiller derfor underdanigst, <lb/>
+at Deres Majestæt, for det Tilfælde, at Statsraad Stang (hvis <lb/>
+Aar i Stockholm vil udløbe i Julii Maaned) ønsker at reise tidligere, <lb/>
+naadigst vil bestemme, at Statsraad Møinichen skal afløse ham fra den <lb/>
+Tid, han forlader Stockholm. Dette vil være hensigtsmæssigst for  <lb/>
+Departementsbestyrelsen her og Deres Majestæt vil i Møinichen finde en <lb/>
+dygtig og behagelig Forretningsmand.</p>
+               <p xml:id="p8">	Om dette underdanige Forslag naadigst bifaldes, tør jeg derom <lb/>
+bede mig naadigst betimelig <hi rend="underline">foreløbig</hi>  underrettet, for at avertere <lb/>
+Statsraad Møinichen, paa det han derefter maae kunne indrette sig <lb/>
+for Sommeren. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

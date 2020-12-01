@@ -1,0 +1,126 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>144</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. april 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. april 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de denne Maaned.</p>
+               <p xml:id="p2">	Senere har jeg læst, gjenlæst, overveiet den i Morgenbladet <lb/>
+offentliggjorte foreslaaede Adresse med dens Præmisser, som nu fortrinlig <lb/>
+beskjæftiger den offentlig Opmærksomhed.</p>
+               <p xml:id="p3">	Dens Tendents er efter Præmisserne aabenbar: at nedsætte den norske <lb/>
+Kongemagt til et villieløst Redskab for Storthinget, med an arvelig <lb/>
+Præsident, betitlet Majestæt i Spidsen, – men en saa magtløs Konge vil <lb/>
+hverken Norges Grundlov eller Folk have! Grundloven har etableret 3 <lb/>
+Statsmagter, – Kongemagten, Folkemagten, den dømmende Magt; den har sat <lb/>
+Kongemagten øverst, for at betegne Monarkiet; den har givet enhver af de <lb/>
+nævnte Statsmagter lige hellige Prærogativer og nu vil en Fraction af <lb/>
+Storthinget berøve Kongemagten et væsentlig Prærogativ og har den Frækhed <lb/>
+at erklære de 2de andre Statsmagters Tilværelse afhængig af Storthingets <lb/>
+gode Villie og Forgodtbefindende!!! En saadan Tendents er et aabenbart <lb/>
+Attentat mod Grundloven, som ikke kan, ikke bør tilstædes.</p>
+               <p xml:id="p4">	Saaledes opfattes og betragtes, saavidt jeg har kunnet erfare, <lb/>
+Productet af alle Veltænkende her, og det har derfor opvakt almindelig <lb/>
+Uvillie. Denne har blandt andet yttret sig i en Skrivelse, som  <lb/>
+Studentersamfundet i Gaar Aftes besluttede at tilstille Hr Stabell. I <lb/>
+samme Møde besluttede Studenterne at forene sine Vaabenøvelser med Andres, <lb/>
+for at blive stærkere om ikke mod ydre Fiender, som vi endnu ikke have, <hi rend="underline">saa</hi>
+                  <lb/>
+                  <hi rend="underline">dog mod indre Fiender, som vi allerede have</hi>.</p>
+               <p xml:id="p5">	Ikke mindre Uvillie yttres mod Præsten Harbitz, i Anledning af hans <lb/>
+troløse Forhold mod mig i denne Begivenhed. Aldeles uopfordret meddeelte <lb/>
+han mig, at det Parti, hvortil han i denne Begivenhed ugjerne sagde at <lb/>
+henhøre, havde besluttet,at cassere alle Deres Majestæts Raadgivere <lb/>
+undtagen Stang og mig, – og nu har Partiet casseret mig og derimod benaadet <lb/>
+2de Andre, – <hi rend="underline">for hvilke jeg forgjæves plaiderede</hi>. Aabenbar har Partiet <lb/>
+villet friste mig til nogen Concession, i Mangel af hvilken det har  <lb/>
+casseret mig ligesaa godt først som sidst. Da jeg ikke kan antage Harbitz  <lb/>
+for saa eenfoldig, at han har villet gaae Andres Ærender, uden at kjende <lb/>
+Ærendets Beskaffenhed, levnes mig kun den sørgelige Formening, at han, <lb/>
+under Velvillies Maske, har henvendt sig til mig, som en troløs Forræder. <lb/>
+Derfor har hans Partie lønnet ham med Vicepræsidenturen, som vil føre ham <lb/>
+til Præsidentstolen – og til en Statsrevisorpost!</p>
+               <p xml:id="p6">	I Mangel af Statsraadernes Adgang til at forsvare sig selv i <lb/>
+Storthinget, har jeg overtalt den retsindige og dygtige Justitiarius Arntzen <lb/>
+til at overtage dette Hverv i Trykken og til at oplyse de af Adresseskriverne <lb/>
+anførte factiske Urigtigheder.</p>
+               <p xml:id="p7">	Anstundende Onsdag vil Sagen komme under Discussion i Storthinget. En <lb/>
+talrig og dygtig Minoritet vil opponere, men jeg befrygter forgjæves, <lb/>
+fordi Majoriteten ikke er modtagelig for Argumenter, neppe besvarer dem, <lb/>
+men blot voterer.</p>
+               <p xml:id="p8">	Det er mig bekjendt, at den kloge, skarpsindige Statsraad Holst har <lb/>
+meddeelt Hans Excellence Due sin Anskuelse om Gjenstanden.</p>
+               <p xml:id="p9">	Deres Majestæts naadige Skrivelse af 24de og den deri udtalte <lb/>
+Kongelige Anskuelse og bestemte Villie, er den væsentligste Trøst for mig og <lb/>
+andre Fædrelandsvenner. Dette har jeg erfaret under sammes aldeles  <lb/>
+confidentielle Meddelelse til enkelte Storthingsmænd og i Gaar i Regjeringen, <lb/>
+hvorved det dog var mig paafaldende, at Stang, som ellers ikke sparer Ord, <lb/>
+forholdt sig aldeles taus. Naar man har spurgt mig, om vi tør stole paa <lb/>
+Kongens Urokkelighed, har jeg svaret: "<hi rend="underline">som paa Klippen</hi>!" – Denne Kongelige <lb/>
+Urokkelighed vil alene kunne rædde Fædrelandet fra den truende Fare.</p>
+               <p xml:id="p10">	Efter min confidentielle Conference i Statsraadet i Gaar, om Statsraad <lb/>
+Fleischers Efterfølger, er jeg desværre ikke klogere, end jeg var.  <lb/>
+Vanskeligheden forøges derved, at man i vor Tid nødsages til at tage Hensyn <lb/>
+paa en vis Opinion, som kan være den dygtigste stik imod. Jeg maa underdanigst <lb/>
+bede Deres Majestæt naadigst tilgive, at jeg endnu ikke formaaer at  <lb/>
+fremsætte et forsvarligt Forslag, hvorefter jeg fremdeles stræber.</p>
+               <p xml:id="p11">	De militaire Departementers yderligere Indstilling om Forsvarsvæsenet, <lb/>
+er mig lovet til næste Statsraad.</p>
+               <p xml:id="p12">	En liden Snev af Nutidens moralske Cholera har viist sig i Urskoug <lb/>
+Præstegjeld, Agershuus Amt. Sognets Huusmænd (Torpare) havde besluttet i <lb/>
+Masse at tilintetgjøre Gaardmændenes Træskemaskiner, og tilkjæmpe sig <lb/>
+bedre Vilkaar. Militair Hjelp var bered, men det lykkedes en dygtig <lb/>
+Lensmand at afværge Udbruddet mod Bondearistocratiet.</p>
+               <p xml:id="p13">	Hans Kongelige Høihed Kronprindsens Fødselsdag agter jeg at feire <lb/>
+ved en stor Middag. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30 April 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

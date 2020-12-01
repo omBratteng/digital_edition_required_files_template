@@ -1,0 +1,164 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>131</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. mars 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. mars 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Da franske politiske Begivenheder desto værre mere eller mindre <lb/>
+ere europæiske og udøve en ulykkelig Indflydelse paa en hver europæisk <lb/>
+Stat, beder jeg mig naadigst tilladt, at berøre disse seneste Begivenheder <lb/>
+fremfor de speciellere norske.</p>
+               <p xml:id="p3">	Udenrigsposten bragte os den 7de Efterretningen om de skrækkelige <lb/>
+Pariser Begivenheder, de skrækkeligste, de sørgeligste, som kunde <lb/>
+ramme Europa, Menneskeheden. Min første Følelse var Forbauselse, dernæst <lb/>
+dyb Bekymring over denne Begivenheds forudseelige Følger. Under <lb/>
+mit sidste Ophold i Paris, Aar 1837, kom jeg til den Overbeviisning, <lb/>
+at Verden ikke faaer Roe og Fred, saa længe Paris staaer, og derfor <lb/>
+tænker jeg om Paris som Cicero om Carthago: "delenda est!"</p>
+               <p xml:id="p4">	Pariser-Begivenhederne har her, med faae Undtagelser, vakt almindelig <lb/>
+Afskye. Til disse Undtagelser hører Morgenbladets Redaktion, som i <lb/>
+vedlagte Nummer uforblommet bevidner sit Bifald og udtaler sig for lignende <lb/>
+Optrin hos os. Jeg tillader mig underdanigst at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa en Artikkel i denne Anledning i Rigstidenden <lb/>
+No 72. At den uforskammede Morgenblads Artikel vilde opvække <lb/>
+Uvillie, var mig ikke uventet, men jeg ventede ikke, at den vilde  <lb/>
+opvække en saa høi Grad af Uvillie som skeet, hos vor studerende Ungdom, <lb/>
+og heri seer jeg et godt Tidens Tegn blandt de mange onde.</p>
+               <p xml:id="p5">	Fredag Aften, samme Dag, som Artikkelen var læst, bragte nogle <lb/>
+100 Studenter Morgenbladets Hovedredacteur, Stabell, (hvis Bopæl ligger <lb/>
+udenfor Byens Politie-jurisdiction) et fuldstændigt Charivari og Pereat, <lb/>
+hvorefter de bragte Statsraad Vogt, som en Levning af sidste Rigsret et <lb/>
+Hurra dernæst et end stærkere for Professor Schweigaard og endelig <lb/>
+sluttede Toget med et 9 gange gjentaget Hurra paa Torvet for Deres <lb/>
+Majestæt. Jeg vilde ønske, man havde ladet det beroe ved denne  <lb/>
+Opinionsyttring, men Toget gjentoges igaar Aftes af over 2000 Mennesker, som <lb/>
+gjentog samme Mishagsyttringer udenfor Stabells Bolig og derefter udbragte <lb/>
+Hurras for hans bittreste Fiende Daae, for Schweigaard, og udenfor <lb/>
+Stiftsgaarden. Jeg agter og deler de Følelser, der have opvakt saa megen <lb/>
+Indignation, men troede det dog rigtigst at moderere den. Jeg har  <lb/>
+derfor anvendt al min moralske Indflydelse for at afværge en i Aften <lb/>
+paatænkt 3die Akt.</p>
+               <p xml:id="p6">	Forslaget om Hans Kongelige Høihed Kronprindsens Appanage staaer <lb/>
+for Tiden saaledes i Budget Comitéen, at 6 af dens Medlemmer votere for <lb/>
+de foreslaaede 20,000 Speciedaler uden nogensomhelst Betingelse; Stabell <lb/>
+og 2de Bønder, Stamsøe og Hollan, for 16,000 Speciedaler. Jeg har <lb/>
+raadet Pluraliteten at temporisere i Haab om, at faae Dissentsen hævet og <lb/>
+har Præsten Harbitz endnu i Dag lovet mig at ville i denne Hensigt anvende <lb/>
+sin Indflydelse paa Stabell.</p>
+               <p xml:id="p7">	Storthingspræsidenten Biskop Riddervold, har anmodet mig om, at <lb/>
+forsikkre Deres Majestæt om, at Stabells Valg til Odelsthingets  <lb/>
+Vicepræsident, ingenlunde er nogen Opinions-yttring fra Storthingets Side <lb/>
+men alene en Følge af tilfældige Omstændigheder, saasom, at de ældre <lb/>
+Odelsthingspræsidenter, Aall og Daae, ikke ere der, og at Stemmerne for <lb/>
+dem, om hvem der nu kunde være Spørgsmaal, vare deelte. Riddervold yttrede <lb/>
+sig saa indigneret over Stabells Valg, at han, naar denne, som er <lb/>
+at forudsee, bliver virkelig Odelsthingspræsident, erklærede sig  <lb/>
+tilbøielig til at frasige sig Storthingets Præsidium, som jeg dog  <lb/>
+indstændig bad ham frafalde, fordi jeg dertil anseer ham for at være den <lb/>
+dygtigste.</p>
+               <p xml:id="p8">	Constitutionscomitéen skal være enig om at ville anbefale Forslaget <lb/>
+om Statsraadernes Deeltagelse i Storthingets Forhandlinger.</p>
+               <p xml:id="p9">	Jeg har bedet Statsraad Vogt om ved Hans Excellence Due at lade <lb/>
+foredrage det af ham vakte Spørgsmaal om Kronings medailler, fordi denne <lb/>
+lille Sag bedst egner sig til mundtlig Behandling. Iøvrigt tillader jeg <lb/>
+mig den underdanigste Bemærkning, at om end de sidste franske Begivenheder <lb/>
+kan formindske Lysten til Kroning, bør de dog visselig ikke have <lb/>
+den ringeste Indflydelse paa Deres Majestæts Beslutning i denne Henseende. <lb/>
+Tvertimod! Man bør holde god Ballance, for ikke at komme paa Ballancen. <lb/>
+Mit Valgsprog var stedse: "Thue recht und scheue den Teufel nicht."</p>
+               <p xml:id="p10">	Med mine hjerteligste underdanigste Ønsker agter jeg at feire den <lb/>
+14de ved et stort Bal. Jeg tillader mig underdanigst at vedlægge et <lb/>
+min Svigerdatter Fanny fra München tilsendt Blad, som maaskee turde  <lb/>
+have nogen Interesse for Hendes Majestæt Dronningen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12 Marts 1848 </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="sub2" xml:id="h3">Underdanigst Postscriptum!</head>
+               <p xml:id="p11">	Efterat hosfølgende min underdanigste Rapport var skrevet i Gaar, <lb/>
+bragte Gaarsposten mig Deres Majestæts naadige Skrivelse af 9de,  <lb/>
+hvorfor jeg underdanigst takker. Under nærværende Omstændigheder længes <lb/>
+jeg dobbelt efter Deres Majestæts naadige Meddelelser og vil med dobbelt <lb/>
+Taknemmelighed paaskjønne dem.</p>
+               <p xml:id="p12">	Gaarsaftenen blev desværre ikke frie for forargelige Gadeoptrin, <lb/>
+hvori Studenterne dog aldeles ikke deeltoge; men hvad disse under de <lb/>
+foregaaende 2de Aftener havde paabegyndt fortsattes i Gaar Aftes af <lb/>
+Haandværkssvende, Drenge og anden Pøbel. En stor Masse af disse samledes <lb/>
+i Gaar Aftes Klokken 9 paa Byens Torv, hvorfra den begav sig til <lb/>
+Stabells Bopæl og ved Piben og Skrigen tilkjendegav ham Misnøie og <lb/>
+Uvillie. Derfra drog Folkemassen under Hurraskrig gjennem flere Gader. <lb/>
+Politiets ufortrødne Bestræbelser for Massens Adspredelse var forgjæves <lb/>
+indtil den befandtes samlet og sammenpakked i Kirkegaden, hvis Til- <lb/>
+og Udgange spærredes af et Compagnie Musqueterer, hvorefter Folkemassen <lb/>
+bad om at slippe ud, som bevilgedes efterat 53 af de værste Skrigere <lb/>
+vare arresterede. Politiemesteren og flere Politiebetjente have faaet <lb/>
+Contusioner af kastede Iisstykker. Jeg har anmodet Statsraadets Medlemmer <lb/>
+om at samles hos mig for at tage Forholdsregler for denne Dags Aften. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 Marts 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

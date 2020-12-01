@@ -1,0 +1,98 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>199</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Fossum 30. september 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Fossum 30. september 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>
+                  <dateline>
+                     <placeName>Fossum</placeName>
+                     <date>den 30de September 1849</date>. </dateline>
+                  <lb/>
+Naadigste Konge og Herre.</opener>
+               <p xml:id="p1">	Det er idag 8 Dage siden Deres Majestæter hædrede Fossum med <lb/>
+Deres naadige Besøg og som jeg heller dvæler ved Ankomsten end ved <lb/>
+Afreisen, griber jeg Pennen idag, for at gjentage min og Mines underdanige <lb/>
+Tak for dette naadige Besøg, som skjænkede os en ubeskrivelig Glæde <lb/>
+og som gjøre en lys Epoque i Fossums beskedne Annaler.</p>
+               <p xml:id="p2">	Jeg takker Gud, som begunstigede Deres Majestæters Ophold hos os <lb/>
+med det dejligste Høstveir og udbeder naadig Overbærelse for hvad, der <lb/>
+mod vor Vilje, kan have manglet fra vor Side, paa Grund af at  <lb/>
+Tjenesteforretninger ikke levnede mig og mine Børn tilstrækkelig Tid til at <lb/>
+forberede os paa det kjære Kongelige Besøg. Maatte vi opleve den Lykke <lb/>
+af dets Gjentagelse, saa ville vi bestræbe os for at erstatte, hvad <lb/>
+der nu kan have manglet.</p>
+               <p xml:id="p3">	Efter at have bragt Deres Majestæter vore underdanige Afskedshyldning <lb/>
+paa Nordrup, vendte vi vemodige tilbage til vort kjære Fossum, <lb/>
+hvor jeg faa Timer senere havde den Trøst, at modtage mine Sønner Adam <lb/>
+og Otto, og, da Herman tilbagekom fra sin udenrigs Reise den paafølgende <lb/>
+Fredag, saa nød jeg den for mig saa sjældne Glæde, at have alle mine <lb/>
+Sønner nogle Dage samlede med mig i deres Fædrenehuus. –</p>
+               <p xml:id="p4">	Herman kan ikke noksom prise Hans Kongelige Høihed Kronprindsens <lb/>
+Naade og Godhed, og alle hans Meddelelser om denne interessante Reise, <lb/>
+glæde mig ubeskrivelig. Som en smigrende Erindring deraf, medbringer <lb/>
+han Ridderkorsene af den Kongl. Hannoverske Guelfe og den Nederlandske <lb/>
+Løveorden, til hvis Anlæggelse jeg tillader mig for ham at udbede <lb/>
+Deres Majestæts naadigste Tilladelse. Mit inderlige Ønske er, at Hans <lb/>
+Kongelige Høihed maa finde ham værdig til Sin Tjeneste. –</p>
+               <p xml:id="p5">	Jeg kan ikke modstaae min Trang til at bevidne min underdanigste <lb/>
+Taknemmelighed for det sidste Beviis paa Kongelig Naade, som Deres <lb/>
+Majestæt behagede at give mig ved Afskeden, ved at forsikre mig om <lb/>
+Deres Majestæts naadige Sindelag for min kjære Søn Adam.</p>
+               <p xml:id="p6">	At see ham før min Død ansat i en hæderlig selvstændig Stilling <lb/>
+i Europa, i den Carrière hvori han med Held har arbeidet 21 Aar i <lb/>
+underordnede Stillinger, er et af mine ivrigste Ønsker, hvorfor jeg vil <lb/>
+takke min Gud og velsigne min naadigste Konge.</p>
+               <p xml:id="p7">	Om Deres Majestæt imidlertid maatte have Brug for ham i nogen <lb/>
+overordentlig Mission, i Anledning af den lykkelige Begivenhed i Haag, <lb/>
+tillader jeg mig dertil underdanigst at anbefale ham.</p>
+               <p xml:id="p8">	Med underdanigst Bøn om naadigst Tilgivelse for den Vidtløftighed, <lb/>
+hvormed jeg har vovet at behandle Smaating, tillader jeg mig at anbefale <lb/>
+Fossum og dets Beboere til Deres Majestæters naadige Erindring, <lb/>
+undertegnende mig med dyb Ærefrygt<lb/>
+               </p>
+               <closer>
+                  <salute>Deres Majestæts<lb/>
+    					underdanigste Undersaat<lb/>
+    					  og troe Tiener</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

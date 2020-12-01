@@ -1,0 +1,93 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>10</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. juni 1844</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. juni 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p xml:id="p2">	Under min Fraværelse i Wennersborg feiredes paa herværende Theater <lb/>
+den 3die denne Maaned den af Deres Majestæt naadigst bifaldte <lb/>
+musikalske Mindefest for Høistsalig Kongen, forbunden med en Hyldnings- <lb/>
+Sang for Deres Majestæt, og erfarede jeg ved min Tilbagekomst, at saavel <lb/>
+Text som Musik og Udførelse havde vunden almindeligt Bifald. Efter <lb/>
+Digterens og Componistens Ønske tillader jeg mig underdanigst at <lb/>
+fremsende Texten og Musikken til denne høitidelige Fest, og derhos <lb/>
+ifølge Deres Majestæts naadigste Befaling af 1te April, underdanigst <lb/>
+at yttre mig om den naadige Anerkjendelse, hvormed Deres Majestæt <lb/>
+naadigst maatte ville hædre dem.</p>
+               <p xml:id="p3">	Componisten, Baron Løvenskiold af min Families danske Linie og <lb/>
+min Søstersøn, er en fremmed Magts Undersaat. Han har leveret et ikke <lb/>
+ubetydeligt, og jeg tør troe, fortjenstligt musikalsk Arbeide; han <lb/>
+reiste personlig hertil, rigtignok for min Regning, men som jeg tør <lb/>
+bede maa komme <hi rend="underline">ham</hi>  tilgode, for at veilede ved Musikkens Indstudering <lb/>
+og Udførelse. Jeg veed, at han vilde sætte størst Priis paa en Orden, <lb/>
+hvortil jeg vover underdanigst at anbefale ham og tillader mig underdanigst <lb/>
+Exempelviis at anføre, at Høistsalig Kongen beærede en norsk <lb/>
+Artist, Ole Bull med Wasa-Ordenen i Brillanter.</p>
+               <p xml:id="p4">	Digterens Text er noget af det Vakkreste blandt det meget Vakkre, <lb/>
+skrevet i Anledning af Høistsalig Kongens dødelige Afgang, og han fortjener <lb/>
+vist saa megen Anerkjendelse som Componisten; men da en Orden <lb/>
+for ham, som een af vore yngre Universitetslærere, kun vilde opvække <lb/>
+megen Misundelse, tillader jeg mig for ham underdanigst at udbede en <lb/>
+Brystnaal som et synligt Beviis paa Deres Majestæts Naade, hvortil <lb/>
+han er fuldkommen værdig.</p>
+               <p xml:id="p5">	Ved denne Leilighed tillader jeg mig underdanigst at bringe i <lb/>
+naadigst Erindring den for den gamle Veteran, Doctor Munck, udbedede <lb/>
+Nordstjerne-Orden.</p>
+               <p xml:id="p6">	Den 18de denne Maaned havde jeg den Ære at feire Hans Kongl. <lb/>
+Høihed Prinds Gustavs Fødselsdag ved en Middag paa 60 Couverts. Den <lb/>
+hertil udnævnte russiske General-Consul Hr von Tscheffkine Keiserlig <lb/>
+Hofraad og Ridder af flere Ordener, er nylig ankommet hertil.</p>
+               <p xml:id="p7">	Vi have i den senere Tid havt en velgjørende Regn, som giver <lb/>
+Haab om en god Aarsvæxt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 Juni 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

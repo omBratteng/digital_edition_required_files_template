@@ -1,0 +1,64 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>369</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. desember 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. desember 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p xml:id="p2">	Jeg tillader mig herved at fremsende min underdanigste Lykønskning <lb/>
+i Anledning af Aarets Omvexling, med det hjertelige Ønske, at <lb/>
+det kommende Aar maa kunne læge de uventede Haarde Saar, som det <lb/>
+hensvundne bragte, og at det maa vorde rigt paa Velsignelse for <lb/>
+Deres Majestæt, det Kongelige Huus, og de forenede Riger, hvorhos <lb/>
+jeg tillader mig underdanigst at anbefale mig og mine til Deres <lb/>
+Majestæts vedvarende Kongelige Naade og Bevaagenhed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30te December 1852</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>165</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. november 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. november 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p xml:id="p2">	Den 24de indførte jeg Sylow i Deres Majestæts herværende Statsraad. <lb/>
+Dette bestaaer saaledes nu af 4 ældre og 4 nye Medlemmer, som i <lb/>
+Nutidens Sprog kaldes "de friskere Villier". Jeg formener denne Blanding <lb/>
+af ældre og nye Elementer gavnlig og i alle Fald, at om en Overgang fra <lb/>
+gamle til nye Ideer er nyttig, denne gavnligere iværksættes successive <lb/>
+end hovedkulds.</p>
+               <p xml:id="p3">	Denne Anskuelse finder ogsaa Medhold i oeconomiske Omstændigheder, <lb/>
+da Pensionerne for de nu levende forafskedigede Statsraader efter vedlagte <lb/>
+Fortegnelse beløbe 14,500 Speciedaler aarlig.</p>
+               <p xml:id="p4">	Det gamle Statsraads System bestaaer i: at adlyde Grundlovens Bogstav <lb/>
+og Aand og i enhver Begivenhed at raade til og øve Ret og Retfærdighed, <lb/>
+efter bedste Overbeviisning og Evne. Dette System er tiltraadt <lb/>
+af de nye Medlemmer; men imellem dem som imellem de gamle, kunne  <lb/>
+Anskuelserne om Grundlovens Mening som om Ret og Retfærdighed i enkelte <lb/>
+Tilfælde være forskjellige og herved foranlediges Dissentser.</p>
+               <p xml:id="p5">	Statsraad Sylow foredrog i sidste Statsraad, at den af Deres <lb/>
+Majestæt for Indstillingen om nye Principer for Værnepligten bestemte <lb/>
+Termin, hvis Udsættelse efter Omstændighederne er uundgaaelig, maa blive <lb/>
+naadigst forlænget til August Maaneds Udgang, som jeg efter de oplyste <lb/>
+Omstændigheder underdanigst tør anbefale.</p>
+               <p xml:id="p6">	Sylows Principer for Værnepligten, skal siger man, aldeles <lb/>
+overeensstemme med Brochs.</p>
+               <p xml:id="p7">	Disse Principer ville da komme under Regjeringens Bedømmelse, <lb/>
+hvorefter jeg formoder, at Deres Majestæt vil befale dem undergiven  <lb/>
+sagkyndig militair Bedømmelse. Jeg vover paa Forhaand at yttre, at Armeen  <lb/>
+neppe vil vinde ved de nye Elementer, som man vil indpode i den. Saadanne <lb/>
+Elementer ere i Tilfælde, som i vor Tid desværre ikke sjelden indtræffe, <lb/>
+gjerne disponerede til at gaae over til Insurgenter, en Omstændighed, <lb/>
+som derfor ikke bør lades ude af Betragtning.</p>
+               <p xml:id="p8">	Jeg kan ikke modstaae Fristelsen at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa et Opraab fra slesvig-holsteenske Soldater, som <hi rend="underline">commanderes</hi>
+                  <lb/>
+                  <hi rend="underline">af en preussisk General</hi>, til den preussiske Hær, som findes i hosfølgende <lb/>
+danske Blad. Det hører til vor Tids mange Afskyeligheder, at en <lb/>
+Armee offentlig opfordrer en anden til Foræderie og at en saa skandaløs <lb/>
+Opfordring tillades optaget i den holsteenske Regjerings officielle Blad.</p>
+               <p xml:id="p9">	Jeg tillod mig i Sommer den Bemærkning, at det var gal Mands Arbeide <lb/>
+af Konger og Fyrster, at tage oprøreriske Undersaatters Parti mod deres <lb/>
+lovlige Regjering. Kongen af Preussen høster allerede nu Sin Løn herfor <lb/>
+saavel af dem, han har hjulpet, som af Sine egne oprøreriske Undersaatter. <lb/>
+Disse gjøre nu mod ham, hvad Kongen af Danmarks slesvig-holsteenske <lb/>
+Undersaatter, beskyttede af Preussens Konge, have gjort mod hiin deres <lb/>
+retmæssige Landsherre.</p>
+               <p xml:id="p10">	Under en foreløbig discursiv Samtale i Statsraadet i Anledning af <lb/>
+den danske Note betræffende slesvigske Skibe, hørte jeg blandt andet den <lb/>
+Yttring: "Kongen af Danmark har ved Sine despotiske Undertrykkelser  <lb/>
+foranlediget Oprøret og fortjener derfor ikke Medhold". En saadan Yttring <lb/>
+vilde i en Spidsborgerklub ikke have været mig uventet, men frapperede <lb/>
+mig ubehagelig der, hvor den blev udtalt, thi den røbede Uvidenhed om de <lb/>
+sande Forholde, og Mangel paa Begreb om hvad den ene Stat skylder den <lb/>
+anden.</p>
+               <p xml:id="p11">	Den store Mængdes Sympathie for politiske Omvæltninger, for Oprør <lb/>
+og Oprørere, er desværre i Øine faldende. En ulykkelig Minister som  <lb/>
+Latour, myrdes paa den meest barbariske Maade, og Mængden under ham knapt <lb/>
+et Axeldrag; en Robert Blum gribes i et Oprør med Vaaben i Haand, mod den <lb/>
+lovlige Regjering og faaer sin vel fortjente Straf, "et tout le monde crit <lb/>
+aux armes!" Mængdens Sympathier opvækkkes og vedligeholdes ved dens eneste <lb/>
+Læsning, vore saa kaldte Oppositionsblade, til Exempel ved en Artikel  <lb/>
+i Morgenbladet No 333 "om Tidsaandens Indflydelse paa Politiken".</p>
+               <p xml:id="p12">	Generalconsul Crowe har bedet mig nedlægge for Deres Majestæt sin <lb/>
+underdanigste Taknemmelighed for den ham beviiste Kongelige Naade,  <lb/>
+hvorpaa han synes at sætte stor Priis. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30 Novbr. 1848</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 30. november 1848</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Regjeringens og Statsraadets Medlemmer den 26 Novbr. 1848</hi>.</head>
+               <table xml:id="table1">
+                  <row>
+                     <cell> Statholder</cell>
+                     <cell> S. Løvenskiold</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Statsraader</cell>
+                     <cell> 	1 Vogt		</cell>
+                     <cell>
+                        <hi rend="underline">Pensionerede Statsraader</hi>:</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>		</cell>
+                     <cell>2 Sibbern		</cell>
+                     <cell>Collett:	</cell>
+                     <cell>3000 Spd.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>		3 Petersen		</cell>
+                     <cell>Motzfeldt	</cell>
+                     <cell>2500 Spd</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>4 Riddervold		</cell>
+                     <cell>Holst		</cell>
+                     <cell>3000 Spd</cell>
+                  </row>
+                  <row>
+                     <cell>		</cell>
+                     <cell>5 Sørenssen		</cell>
+                     <cell>Schmidt	</cell>
+                     <cell>2000 Spd</cell>
+                  </row>
+                  <row>
+                     <cell>		</cell>
+                     <cell>6 Erichsen		</cell>
+                     <cell>Foss		</cell>
+                     <cell>2000 Spd</cell>
+                  </row>
+                  <row>
+                     <cell>		</cell>
+                     <cell>7 Sylow		</cell>
+                     <cell>Fleischer   </cell>
+                     <cell>
+                        <hi rend="underline">2000 Spd</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>	</cell>
+                     <cell>			  </cell>
+                     <cell>S.ma  </cell>
+                     <cell>14,500 Spd</cell>
+                  </row>
+               </table>
+               <table xml:id="table2">
+                  <head type="sub3" xml:id="h5">
+                     <hi rend="underline">I Stockholm</hi>:</head>
+                  <row>
+                     <cell>		Statsminister</cell>
+                     <cell> Due</cell>
+                  </row>
+                  <row>
+                     <cell>		Statsraader</cell>
+                     <cell>	Krog</cell>
+                  </row>
+                  <row>
+                     <cell>	</cell>
+                     <cell>		Stang</cell>
+                  </row>
+               </table>
+               <p xml:id="p13">		  --------oOo--------</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

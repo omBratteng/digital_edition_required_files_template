@@ -1,0 +1,288 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>237</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 17. juni 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 17. juni 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 10 denne Maaned.</p>
+               <p xml:id="p2">	Efterat jeg havde meddeelt Deres Majestæts naadige Skrivelse <lb/>
+af 6te dennes betræffende Candidat Majors mislige Forhold, til  <lb/>
+Chefen for Departemantet for det Indre, Statsraad Stang, har denne til <lb/>
+mig overleveret underdanigst vedlagte Skrivelse.</p>
+               <p xml:id="p3">	Deres Majestæt vil deraf naadigst erfare, at Statsraad Stang, <lb/>
+paa de deri anførte Grunde, troer at burde fraraade, at Candidat  <lb/>
+Major removeres fra det ham naadigst anbetroende vigtige Hverv, –  <lb/>
+hvilken Anskuelse, efter en confidentiel Conference med mine Colleger, – <lb/>
+Statsraadets samtlige Medlemmer synes at dele. Ihvorvel der i  <lb/>
+Statsraadet kun hærskede een Mening om det Uværdige i Candidat Majors <lb/>
+Forhold, – fandt man det dog betænkeligt at bortfjerne Candidat <lb/>
+Major, forinden man, ved fornyet Anvendelse af Tid og Midler, kunde <lb/>
+finde Garantie for en hensigtsmæssing Udførelse af det ham overdragne  <lb/>
+Arbeide; man befrygtede, at Sindsvageanstalten, – denne af Deres <lb/>
+Majestæt med naadigst Interesse omfattede og med Held fremmede Sag, – vilde lide og standses i sin Udvikling ifald Candidat Major for  <lb/>
+Tiden udtraadte af den forberedende Virksomhed, der endnu vil medtage <lb/>
+flere Aar. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17 Junii 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h2">
+                  <supplied resp="editor">Tillegg til rapport av 17. juni 1850</supplied>
+               </head>
+               <p xml:id="p4">	Herr Statsraaden har tilstillet mig Hs. Majestæts naadigste <lb/>
+Skrivelse til Dem af 6te d. M., hvori Hs. Majestæt i Naade yttrer, <lb/>
+at Høistsamme i Betragtning af den Excentricitet og Mangel paa sundt <lb/>
+Omdømme, Candidatus medicinae Major har lagt for Dagen ved at  <lb/>
+deeltage i den saakaldte Protest i Anledning af Harro Harrings  <lb/>
+Forviisning fra Riget, ikke findes at kunne, i sin Tid naadigst betroe  <lb/>
+bemeldte Major Lægeposten ved det Sindssygeasyl, som nu er under  <lb/>
+Bygning, og derfor befaler Herr Statsraaden herom at underrette  <lb/>
+vedkommende Departementschef, for at man i Tiden kan være betænkt paa <lb/>
+nogen Anden, hvormed den nævnte Lægepost i sin Tid kan blive at  <lb/>
+besætte. Som Chef for Departementet for det Indre, under hvilket <lb/>
+denne Sag henhører, anseer jeg det pligtmæssigt betimeligen i  <lb/>
+Underdanighed at meddele de Oplysninger og Bemærkninger, hvortil Sagen <lb/>
+giver Anledning, og har jeg troet at burde fremsætte disse i en  <lb/>
+Skrivelse til Herr Statsraaden, der kunde vedlægges næste underdanigste Rapport til Hs. Majestæt Kongen.</p>
+               <p xml:id="p5">	Betræffende Herr Majors offentlige Stilling for Tiden, da <lb/>
+oppebærer han ialt 500 Spdl. aarlig af Statskassen, nemlig 300 <lb/>
+Spdl. for at bistaae det Offentlige med Veiledning ved  <lb/>
+Foranstaltninger i Henseende til Sindssygevæsenet og 200 Spdl. som <lb/>
+Medlem af den for det nye Sindssygeasyl i Næheden af  <lb/>
+Christiania anordnede Bygningscommission. Dette Asyl, hvis Bygninger <lb/>
+ere beregnede at ville koste omtrent 152,000 Spdl., og hvis  <lb/>
+Opførelse er paabegyndt i indeværende Aar, kan i det Tidligste <lb/>
+ventes at blive fuldførte ved Udgangen af næstkommende  <lb/>
+Budget-termin, eller i Aaret 1854, og først henimod den Tid vil der <lb/>
+altsaa blive Spørgsmaal om at besætte Lægeposten ved samme. <lb/>
+Skulde det imidlertid uigienkaldelig være Hs. Majestæts  <lb/>
+naadigste Villie, at denne Post i sin Tid ikke skal betroes Herr <lb/>
+Major, saa vilde det formeentlig ikke være billig at opsætte <lb/>
+med herom at tilkjendegive ham det Fornødne, da hans Livsplan <lb/>
+i en Række af Aar har været og fremdeles er beregnet paa at <lb/>
+opnaae denne Ansættelse. Naar hans Forhold i Anledning af H. <lb/>
+Harrings Landsfordiisning skulde drage efter sig den Følge, som <lb/>
+af Hs Majestæt er betegnet, vilde det vel og fra andet Synspunkt <lb/>
+være fornødent, at Misbilligelsen af dette Forhold strax blev lagt <lb/>
+for Dagen, og da Herr Major desuden allerede i sin nuværende  <lb/>
+Stilling indehaver en Art af Tillidspost, hvilken derhos altid har  <lb/>
+været betragtet som en Overgangspost til Lægeposten ved det  <lb/>
+vordende almindelige Sindssygeasyl, vilde Conseqventse formeentligen  <lb/>
+fordre at fjerne ham strax fra den første, naar han i sin Tid skulde <lb/>
+ansees udelukket fra den sidste.</p>
+               <p xml:id="p6">	Da det imidlertid er min Overbeviisning, at det ikke vilde <lb/>
+være tilraadeligt at tillægge Herr Majors udviste Ubesindighed <lb/>
+det at deeltage i den saakaldte Protest i Anledning af H. Harrings <lb/>
+Landsforviisning den Følge, at han derfor blev fjærnet fra den <lb/>
+Virksomhedsbane, for hvilken han paa offentlig Bekostning har  <lb/>
+uddannet sig, troer jeg saa meget mere at burde her uforbeholdent og <lb/>
+fuldstændigt udvikle min Overbeviisning herom, som jeg, om Hs. <lb/>
+Majestæt naadigst maatte befale Sagen officielt behandlet, efter <lb/>
+Pligt vilde have at yttre mig i samme Retning.</p>
+               <p xml:id="p7">	Mine Grunde ere følgende: <lb/>
+               </p>
+               <list xml:id="list8">
+                  <label>1. </label>
+                  <item>Uden at kjende Herr Majors politiske Tænkemaade i  <lb/>
+Almindelighed, troer jeg dog med Sikkerhed at kunne antage, at han som saa <lb/>
+Mange andre er bleven forledet til at med underskrive den <lb/>
+ovenberørte saakaldte Protest ved den Forestilling, som strax efter  <lb/>
+Harro Harrings Paagribelse blev sat i Omløb her i Byen, nemlig at <lb/>
+Hensigten var at efterkomme en Begiæring fra den Russiske Regjering <lb/>
+om hans Udlevering. Ikkun saare Faa kjendte H. Harrings ligesaa <lb/>
+aandløse som forargelige Skrift, førend Regjeringens Indstilling <lb/>
+blev offentliggjort, og da den trufne Regjeringsforanstaltning <lb/>
+var den første i sit Slags her i Landet, er det forklarligt, at <lb/>
+man ubekjendt med den sande Grund ledte efter en overordentlig <lb/>
+Forklaringsmaade, hvorved bevidnedes, at det ildesindede  <lb/>
+Foregivende om Udlevering til Russland fandt en øieblikkelig Tiltroe selv <lb/>
+hos sundere tænkende og agtværdige Mænd, hvorom jeg havde  <lb/>
+Anledning til personligen at overtyde mig. Hs. Majestæt turde med  <lb/>
+mildere Øine betragte det Skrift, hvorom her handles, naar denne  <lb/>
+Bevæggrund dertil tages i naadigst Overveielse.</item>
+                  <lb/>
+                  <label>2. </label>
+                  <item>Da vor Tids Historie desværre noksom godtgjør, at Ubesindighed  <lb/>
+og Excentricitet i Opfatningen af politiske Gjenstande kun er <lb/>
+altfor forenelig med et for Resten sundt og klart Omdømme, saa <lb/>
+turde der ikke kunne sluttes fra Herr Majors her omhandlede  <lb/>
+Forhold til Mangel paa fornøden Besindighed og Aandsmodenhed for den <lb/>
+ham tiltænkte fremtidige Virksomhed. I de mange Overveielser, <lb/>
+hvori jeg har deeltaget med ham om Foranstaltninger til  <lb/>
+Sindssygepleiens Fremskridt i Norge, har han stedse viist sig som den sundt <lb/>
+tænkende, alsidig prøvende Mand med en dyb Opfatning af sit Kald.</item>
+                  <lb/>
+                  <label>3. </label>
+                  <item>Paa Herr Majors Uddannelse for den ham tiltænkte fremtidige <lb/>
+Virksomhed er af det Offentlige anvendt følgende Summer: <lb/>
+                     <table xml:id="table1">
+                        <row>
+                           <cell>	Ved naadigst Resolution af 14de Junii 1844 blev der tilstaaet <lb/>
+ham som Bidrag til en Reise i Udlandet for at studere  <lb/>
+Sindssygdomme og deres Behandling ………………</cell>
+                           <cell>  500 Spdl.</cell>
+                        </row>
+                        <lb/>
+                        <row>
+                           <cell>I Budgetterminen 1845–1848 oppebær han aarlig <lb/>
+300 Spdlr., eller til sammen …………………………</cell>
+                           <cell>  900  ” </cell>
+                        </row>
+                     </table>
+                     <lb/>
+                     <p xml:id="p9">hvilken Sum af Storthinget var bevilget til fortsatte <lb/>
+Undersøgelser og forberedende Arbeider for et vordende <lb/>
+Asyl for Sindssyge, og ved naadigst Resolution af 10de <lb/>
+Januar 1846 blev tilstaaet Herr Major, væsentlig for at <lb/>
+sætte ham i stand til at fortsætte sine Studier i  <lb/>
+Psychiatrien.</p>
+                     <table xml:id="table2">
+                        <row>
+                           <cell>	I de forløbne circa 2 Aar af indeværende <lb/>
+Budgetterin har han, i Henhold til en lignende, men noget  <lb/>
+rundeligere Bevilling af sidste Storthing, overeensstemmende <lb/>
+med naadigst Resolution af 2den Decbr. 1848, aarlig  <lb/>
+oppebaaret 500 Spdl. eller til sammen ………………</cell>
+                           <cell> 1000  ” </cell>
+                        </row>
+                        <lb/>
+                        <row>
+                           <cell>for hvilken Løn han vel har været pligtig at bistaae <lb/>
+ved Behandling af Syge, vedkommende Sindssygevæsenet, <lb/>
+men ved hvilken der dog væsentligen har været  <lb/>
+tilsigtet at sætte ham i stand til yderligere at uddanne sig  <lb/>
+i sit Fag.</cell>
+                           <cell>_________</cell>
+                        </row>
+                        <lb/>
+                        <row>
+                           <cell>Det er saaledes en Sum af …………………................</cell>
+                           <cell> 2400 Spdlr.</cell>
+                        </row>
+                        <lb/>
+                     </table>
+der hidtil er anvendt paa ham, og af hvilken Straten ikke vil høste <lb/>
+den tilsigtede Nytte, om hans Virksomhed for det Offentlige i den <lb/>
+        paabegyndte Retning for Fremtiden skal ophøre.</item>
+                  <lb/>
+                  <label>4.</label>
+                  <item> Herr Majors Tab vil være saare vanskeligt at erstatte. For <lb/>
+Øieblikket vil det endog være umuligt, da Ingen her i Landet paa <lb/>
+langt nær har den Uddannelse i Psychiatrien, som han nu har  <lb/>
+erhvervet sig. Man maatte formeentlig, om man skulde skille sig ved <lb/>
+Herr Major, strax sætte nogen anden ung Læge med Kald for Sagen <lb/>
+istand til med Udenlandsreiser og Studier at forberede sig til den <lb/>
+Stilling, som hidtil har været Herr Major tiltænkt, men ligesom <lb/>
+Styrelsen vil sættes i en midlertidig Forlegenhed med at <lb/>
+undvære speciel sagkyndig Bistand i Behandlingen af Sager,  <lb/>
+vedkommende Sindssygevæsenet, indtil en anden Mand faaer uddannet sig i Faget, <lb/>
+saaledes er man lettelig udsat for et mindre heldig Valg, naar <lb/>
+der spørges om et Subject for et Fag, der i Almindelighed er saa <lb/>
+lidet dyrket og kræver saa særegne Anlæg som det omhandlede.</item>
+                  <lb/>
+                  <label>5. </label>
+                  <item>I den almindelige Mening nyder udentvivl Herr Major  <lb/>
+Anerkjendelse for Dygtighed og Virksomhed i sit Fag. I dette har han  <lb/>
+desuden allerede udrettet ganske Betragteligt. Den paa sidste Storthing <lb/>
+udkomne almindelig Lov om Sindssygevæsenet er i oprindeligt  <lb/>
+Udkast med Motiver forfattet af ham. Planen til det nye,  <lb/>
+betydelige Asyl for Sindssyge i Nærheden af Christiania har han  <lb/>
+udarbeidet. Ved disse Arbeider og ved en grundig og detailleret  <lb/>
+Beskrivelse af Sindssygevæsenets Tilstand i Norge, hvorved han tilvandt  <lb/>
+Sagen almindelig Opmærksomhed og Interesse, maa han betragtes som <lb/>
+den, der allervæsentligst har bidraget til den Reform, Sindssygepleien  <lb/>
+her i Riget deels allerede har undergaaet deels er i Begreb <lb/>
+med yderligere at undergaae. Han har jevnlig tilkaldt i vedkommende  <lb/>
+Committeer paa sidste Storthing, der havde at behandle Loven om <lb/>
+Sindsygevæsenet og Spørgsmaalet om Bevilgning til det nye  <lb/>
+Mentalsygehuus ved Christiania, og udøvede uden Tvivl en velgjørende  <lb/>
+Indflydelse paa begge Sagers Gang. Jeg anseer det rimeligt, at hans <lb/>
+Bortfjernelse fra den Virksomhed hvormed han hidtil har bistaaet <lb/>
+Sindssygesagen, vil kunne virke Skadeligt for dennes Fremme.</item>
+               </list>
+               <p xml:id="p10">	Jeg holder mig forvisset om, at Hs. Majestæt ikke med Unaade <lb/>
+vil betragte, at jeg frimodigen har fremsat ovenanførte Grunde mod <lb/>
+at lade Herr Majors vistnok utilbørlige og daddelværdige Forhold <lb/>
+i et politisk Spørgsmaal drage til Følge for hans offentlige Stilling.  <lb/>
+Man vilde derved give Agitationen et kjærkomment og ikke <lb/>
+ubeqvemt Vaaben ihænde, og det er i mine Tanker, saare tvivlsomt, <lb/>
+om man turde giøre Regning paa Medhold selv hos den sindige Opinion.</p>
+               <p xml:id="p11">	Da Candidat Major ikke staaer i noget saadant Forhold til <lb/>
+Departementet for det Indre som de deri ansatte Embedsmænd og  <lb/>
+Betjente, har jeg ikke kunnet ansee det hensigtsmæssigt, eller mig <lb/>
+kaldet til, at foretage noget Skridt som Departementschef i  <lb/>
+Anledning af hans her omhandlede Forhold. Det var imidlertid min Tanke <lb/>
+ved indtræffende passende Leilighed at foreholde ham, hvor langt <lb/>
+et saadant Forhold afviger fra hvad Styrelsen med Billighed af ham  <lb/>
+kunde vente, og den Indflydelse, som et saadant Forhold, om det <lb/>
+gientages, kunde komme til med Nødvendighed at udøve paa hans  <lb/>
+Fremtid. Efterat være meddeelt Hs. Majestæts naadigste Skrivelse <lb/>
+til Herr Statsraaden, har jeg imidlertid anseet det pligtmessigt <lb/>
+at afholde mig fra enhver Meddelelse til Herr Major, indtil Hs. <lb/>
+Majestæts nærmere naadigste Bestemmelse maatte vorde afgiven. <lb/>
+               </p>
+               <closer>
+                  <salute>Jeg har den Ære at undertegne mig med Høiagtelse Herr <lb/>
+Statsraadens <lb/>
+    ærbødigste</salute>
+                  <lb/>
+                  <signed>
+                     <persName>F. Stang</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den <lb/>
+15de Junii 1850</date>.</dateline>
+                  <lb/>					
+Høivelbaarne <lb/>
+Herr Statsraad Krog, Ridder og <lb/>
+Commandeur af Hs. Majestæts Ordener.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

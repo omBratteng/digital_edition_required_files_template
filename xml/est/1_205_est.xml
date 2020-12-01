@@ -1,0 +1,86 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>205</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 16. november 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 16. november 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p xml:id="p2">	Med Henhold til denne tillader jeg mig underdanigst at indberette <lb/>
+at Capitaine Lieutenant Sigholt ved et Skud har sluttet sit sørgelige <lb/>
+jordiske Liv.</p>
+               <p xml:id="p3">	Samme Dag, som Høiesteret havde afsagt sin Dom, begav en hans <lb/>
+herværende Slægtning sig til Frederiksværn, for at give Sigholt Meddelelse <lb/>
+og bragte ham derhos den fornødne pecuniaire Hjelp, for at kunne <lb/>
+ved Flugt unddrage sig den idømte Strafs Fuldbyrdelse. Sigholt modtog <lb/>
+Meddelelsen med tilsyneladende Rolighed; men da den Reisende efter nogle <lb/>
+Timers Hvile kom tilbage, fandt han hans afsjelede Legeme. Tvende <lb/>
+hans Brødre have tidligere ved Selvmord endt deres Liv.</p>
+               <p xml:id="p4">	Sigholts Evner anvendte i en god Retning, maatte kunne have udrettet <lb/>
+meget godt; men da de kun brugtes til det Onde, have de forvoldt megen <lb/>
+uforskyldt Bekymring og Skade og sluttelig hans egen Ulykke.</p>
+               <p xml:id="p5">	For sine mange trykte Producter kunde han i den seneste Tid kun <lb/>
+finde Plads i Thranes Arbeiderblad og vor Presse er ved hans Bortgang <lb/>
+bleven fri for et farligt og giftigt Ukrud.</p>
+               <p xml:id="p6">	Endnu nogle Dage før Dommen afsagdes modtog Regjeringen under et <lb/>
+pseudonymt Navn, men kjendelig fra Sigholt, en ligesaa løgnagtig som <lb/>
+infernal Anklage mod næsten alle hans Cammerader.</p>
+               <p xml:id="p7">	Han var Ridder af den Keiserlige Russiske St Stanislaus Ordens <lb/>
+3die Classe og af den franske Æreslegion.</p>
+               <p xml:id="p8">	Sidste Post bragte mig Deres Majestæts naadige Skrivelse af 8de <lb/>
+hvorfor jeg nedlægger min underdanigste Taksigelse. Den var høieligen <lb/>
+efterlængtet og glædede mig derfor dobbelt. Deres Majestæts naadige <lb/>
+Meddelelser udgjøre min eneste, i alle Fald min bedste Trøst, under et <lb/>
+uafbrudt mindre behageligt Forretningsliv. Aarstiden er mørk som Livets <lb/>
+Aften, Veiret er afskyeligt, Veiene næsten ufremkommelige og som Følge <lb/>
+af denne triste Omgivelse, Sindet nedtrykt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16 November 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

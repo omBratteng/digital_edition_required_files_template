@@ -1,0 +1,183 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>257</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 7. november 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 7. november 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Af vedfølgende Skrivelse fra det akademiske Collegium vil Deres <lb/>
+Majestæt naadigst erfare at en russisk Fyrste Michel Baratayeff har <lb/>
+tilstillet det herværende Universitet en ganske dyrbar Gave, hvorover <lb/>
+Professor Holmboe har afgivet underdanigst vedlagte Beskrivelse. Da <lb/>
+jeg af hosfølgende Copie af Udenrigsministerens Skrivelse til benævnte <lb/>
+Fyrste erfarer, at han i Aaret 1846 har tilstillet Deres Majestæt <lb/>
+et lærd Værk, tillader jeg mig underdanigst at henstille til Deres <lb/>
+Majestæt at lade Fyrst Baratayeff tilkjendegive naadigst Anerkjendelse <lb/>
+af hans nu mod det Norske Universitet viiste Opmærksomhed, hvorpaa <lb/>
+han vil sætte større Priis end paa en Takskrivelse fra nogen <lb/>
+underordnet Authoritet.</p>
+               <p xml:id="p3">	Under nærværende Sygdoms Forhold har jeg ikke troet det passende, <lb/>
+ja ikke engang rigtigt, som sædvanlig at feire Hendes Majestæt <lb/>
+Enke-Dronningens høie Fødselsedag ved en Bal, hvorimod jeg i Morgen <lb/>
+agter at feire Dagen ved en Middag paa 60 Couverts.</p>
+               <p xml:id="p4">	Underdanigst vedlagte Rapporter vise, i de 4 sidste Døgn, 16 <lb/>
+Mennesker angrebne, 4 Døde, 7 helbredede af Cholera Sygdommen. <lb/>
+               </p>
+               <closer>
+                  <dateline>Christiania den 7de November 1850.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 7. november 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">748.</head>
+               <lb/>
+               <opener>Fra  <lb/>
+det akademiske Collegium <lb/>
+ved det Kongelig Frederiks <lb/>
+ Universitet.</opener>
+               <p xml:id="p5">	Ifølge Indberetning fra Professor C. Holmboe har den Russiske <lb/>
+Fyrste Michel Baratayeff som Gave til Universitetets Myntcabinet  <lb/>
+indsendt et af ham forfattet numismatisk og historisk, smukt udstyret <lb/>
+Verk i 4to, med Titel, " Documens numismatiques du Royaume de Géorgie", <lb/>
+ledsaget af mange Plancher, fremstillende georgiske Mynter, samt <lb/>
+endelig en meget sjelden kufisk Mynt, den ældste bekjendte i Armenien <lb/>
+prægede.</p>
+               <p xml:id="p6">	Foranlediget af denne Opmærksomhed for vort Universitet skulde <lb/>
+Collegiet tjenstligt henstille til det Kongelige Departements gunstige <lb/>
+Medvirkning, at foranledige Fyrst Baratayeff tilstillet en Takskrivelse <lb/>
+som Anerkjendelse for denne værdiefulde Gave, hvormed han har <lb/>
+betænkt det Norske Universitet.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29 October 1850</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>A. Conradi.</persName>
+                     <persName>J. Kaurin.</persName>
+                     <persName>J. Collet.</persName>
+                     <persName>J. Welhaven.</persName>
+                     <persName>Munch.</persName>
+                     <persName>Blytt.</persName>
+                     <lb/>
+                     <persName>Thaulow</persName>
+                  </signed>
+                  <lb/>
+Til <lb/>
+det Kongelige Kirkedepartement.</closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 7. november 1850</supplied>
+               </head>
+               <head type="sub2" rend="right" xml:id="h6">JNo 748 / <lb/>
+    					1850.</head>
+               <p xml:id="p7">	Fyrst Baratayeffs Gave til Universitetet bestaaer i et af ham <lb/>
+forfattet numismatisk og historisk smukt udstyret Værk i 4o med <lb/>
+Titel <hi rend="underline">Documens numismatiques du Royaume de Géorgie,</hi>  ledsaget med <lb/>
+mange Plancher, fremstillende georgiske Mynter. Texten er ikke blot <lb/>
+paa Fransk men ogsaa paa Russisk og Georgisk. Bogen ledsages ogsaa <lb/>
+af 26 Stykken udmærket vellykkede Aftryk i Sølv- og Kobberfolium af <lb/>
+georgiske Mynter. Endelig sendte han ogsaa et Expl. af den ældste <lb/>
+kufiske Sølvmynt, som blev præget i Armenien, hvilken er saa sjelden, <lb/>
+at den ikke fandtes i St. Petersburg, da Catalogen over den keiserl. <lb/>
+Samling af orientaliske Mynter udkom. <lb/>
+               </p>
+               <closer>
+                  <signed>
+                     <persName>C. A. Holmboe</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h7">
+                  <supplied resp="editor">Tillegg til rapport av 7. november 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h8">
+                  <hi rend="underline">Copie.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <placeName>Stockholm</placeName>
+                     <date>le 18 Mai 1846</date>.</dateline>
+                  <lb/>
+                  <salute>Mon Prince!</salute>
+               </opener>
+               <lb/>
+               <p xml:id="p8">Le Roi, mon Auguste Souverain, vient de recevoir par l'intermédiaire <lb/>
+de la Mission de Russie la lettre, que Vous aviez adressée <lb/>
+en date du <hi rend="underline">6 Mars</hi>  / <hi rend="underline">22 Février</hi>  dernier, à Sa Majesté, pour Lui faire  <lb/>
+hommage de l'ouvrage, que Vous avez publié sur l'histoire du Royaume de  <lb/>
+Géorgie, fondée sur les monumens numismatiques. <lb/>
+Cet ouvrage témoigne de recherches laborieuses et impossibles à <lb/>
+tous ceux, qui ne réunissent point comme Vous, Mon Prince! la connaissance <lb/>
+des différentes langues orientales, indispensables pour approfondir <lb/>
+cette matière; il parait offrir un intérêt majeur, tant sous <lb/>
+le rapport des faits nouveaux qu'il contient sur un Royaume, dont les <lb/>
+fastes étaient restés jusqu'ici fermés, que sous celui de la science <lb/>
+numismatique et les empreintes, qui s'y trouvaient jointes ajoute <lb/>
+encore à son prix.</p>
+               <p xml:id="p9">	Le Roi a daigné me charger de Vous faire parvenir Ses remercimens <lb/>
+de cet envoi et de Vous exprimer de Sa part, Mon Prince, la satisfaction <lb/>
+beinveillante avec laquelle Sa Majesté accepte Votre ouvrage, <lb/>
+qu'Elle a bien voulu faire remettre à l'académie des inscriptions  <lb/>
+et belles lettres, afin de mettre les savans et antiquaires à <lb/>
+même de profiter des données scientifiques qui s'y trouvent renfermées. <lb/>
+En m'acquittant de ces ordres j'éprouve un véritable plaisir de <lb/>
+trouver une occasion pour Vous offrir, Mon Prince! les assurances de <lb/>
+ma considération très distinguée.</p>
+               <closer>
+                  <signed>Le ministre d'Etat et des affaires Etrangères <lb/>
+                     <persName>d'Ihre.</persName>
+                  </signed>
+                  <lb/>
+A Monsieur le Prince Michel Baratayeff <lb/>
+Conseiller d'Etat actuel au Service de S.M. l'Empereur <lb/>
+    	  de toutes les Russies.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

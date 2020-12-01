@@ -1,0 +1,131 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>185</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. april 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. april 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p xml:id="p2">	Jeg har havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 26de Marts, hvorfor min underdanigste Taksigelse nedlægges.</p>
+               <p xml:id="p3">	Cholera-Epidemien er Gud være lovet i Aftagende saavel i Bergens <lb/>
+Bye som i de angrebne Landdistrikter, og Omstændighederne have tilladt <lb/>
+at erklære Kyststrækningen fra Lindesnæs vest til Grændsen af Stavanger <lb/>
+Amt fri for Smitte. Efter de sidste Indberetninger fra Bergen var <lb/>
+der i Ugen, 16de til 24de Marts, kun 14 nye Cholera Tilfælde og 8 Døde. <lb/>
+I det Hele er Antallet af Angrebne siden Epidemiens Udbrud 1039, hvoraf <lb/>
+599 døde og 395 helbredede.</p>
+               <p xml:id="p4">	I Stavanger var til 24de Marts ialt Angrebne 58, hvoraf 25 døde. <lb/>
+I Landdistricterne er Sygdommen deels i Aftagende, deels aldeles ophørt. <lb/>
+Heller ikke har den senere udbredt sig videre end til Egersund.</p>
+               <p xml:id="p5">	Christiania Byes store Trang til en ny Kirke og den gamle, "Vor <lb/>
+Frelsers" Kirkes værdige Restauration vil forhaabentlig i den nærmeste <lb/>
+Fremtid blive afhjulpen. Til det sidste Øiemed, efter en særdeles vakker <lb/>
+Tegning af den hamburgske Architect, Chateauneuf, vil Byens Sparebank <lb/>
+skjænke 25000 Speciedaler af sin beholdne Formue 97,000 Spdl. paa Vilkaar, <lb/>
+at Communen bevilger 70,000 Spcdl. til en anden nye Kirkes Bygning, <lb/>
+som forhaabentlig vil kunne tilveiebringes ved et Laan mod Tilbagebetaling <lb/>
+i 28 Aar.</p>
+               <p xml:id="p6">	Dette er et vakkert og værdigt Foretagende, som vil bidrage til <lb/>
+Gudstjenestens Fremme og til Byens Forskjønnelse fra Søsiden ved 2de <lb/>
+nye Taarne af 100 Alens Høide.</p>
+               <p xml:id="p7">	Man har valgt denne Tid med Hensyn paa Bygningsmaterialiers billige <lb/>
+Priser og Arbeideres Trang til Beskjæftigelse, under standset privat <lb/>
+Virksomhed, som Alt er en Følge af vor beklagelig standsede Træ Export <lb/>
+til Frankrige, det sydlige Norges Hovedkilde til Virksomhed, Næring og <lb/>
+Velstand.</p>
+               <p xml:id="p8">	Den 29de Marts blev for mig anmeldt, at en Person, ved Navn Thrane, <lb/>
+den foregaaende Aften havde holdt en socialistisk Forelæsning for en <lb/>
+30 Sjouere i en Kippe paa Grønland, og samme Dags Morgen fandtes ved <lb/>
+Fiskebryggen opslaaet Placater, hvoraf Copie underdanigst vedlægges. <lb/>
+Paa Tilkaldelse af Politiemesteren nægtede Thrane al Kundskab om Placaterne; <lb/>
+men holdt samme Dags Aften atter en Forelæsning for en 120 Tilhørere  <lb/>
+af den laveste Klasse, hos hvilke han imidlertid ikke mødte Sympathie; <lb/>
+men tvertimod blev insulteret paa Grund af sit slette Rygte. Den <lb/>
+30te om Morgenen forlod han Byen, formodentlig efter Opfordring af <lb/>
+Statsraad Riddervold, med hvem han er beslægtet, og den 30te hengik <lb/>
+uden Tegn til nogensomhelst Uorden.</p>
+               <p xml:id="p9">	Denne Thrane, – man siger med et godt Hoved, – er en homme perdu, <lb/>
+her ilde kjendt fra sin tidlige Ungdom; har senere drevet om i Tydskland <lb/>
+og Frankrige og derefter udgivet en Avis i Drammen, som nylig maatte <lb/>
+standse i Mangel af Abonnenter. Jeg vilde anseet hans fortsatte Virksomhed <lb/>
+her mindre fordærvelig end i de mindre Byer.</p>
+               <p xml:id="p10">	En Broder af Kammerherrinde Morgenstjerne, fød Soltikof, er nylig <lb/>
+død i Moscau og har testamenteret hende en betydelig Formue, man siger <lb/>
+80,000 Species. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste April 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 1. april 1849</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h4">Op Nordmænd</head>
+               <p xml:id="p11">	Op til Barikaderne, op for at rive Masken af en intriguant <lb/>
+Regjering, lader eder ikke længer bedrage af de mod Folkefriheden  <lb/>
+sammensvorne Embedsmænd. Mægter i ikke at, at see igjennem Maskerne paa <lb/>
+den af Embedsmændene fiint spundne Wev af de snedigt anlagte Planer <lb/>
+for at bringe Kjernen af det norske Folk under sit Aag. Skal den <lb/>
+norske Nation atter synke ned i den Sløvhedsdvale hvoraf den nylig <lb/>
+efter flere Seklers Trældom atter er vaagnet. Nei Nordmænd Ætlinge <lb/>
+Normannen og Væregen, hør i phantasien den norske Løves Brølen see hvor <lb/>
+den rasende ryster sin Manke den vil i Kamp med Fædrelandsforæderne. <lb/>
+– Op Normænd, følger din Gud; Frihed og Fædreneland være deres Løsen. <lb/>
+Lad Betingelserne være Reform, Republik, eller Kongedømme og nye <lb/>
+af Folket indsatte Embedsmænd.  Lad os vælge den 30te Marts d. A. <lb/>
+til vort store Foretagende. Stræb til det store Maal Folkefrihedens <lb/>
+sag, saa at vore Efterkommere Hundredeaarsdagen efter kan sige i Dag <lb/>
+for hundrede Aar siden vandt vore Forfædre sin største Seier. Endnu <lb/>
+engang Normænd op til Kamp for Gud, Frihed og Fædreneland.  Hura!</p>
+               <p xml:id="p12">	Til Vaaben Normænd den 30te Marts Embedsmændene krænker <lb/>
+Folkefriheden  til Barikaderne.</p>
+               <p xml:id="p13">	Op til Kamp Normænd Embedsmandsanarkiet maa styrtes  Folkefriheden <lb/>
+undertrykkes til Barikaderne til Vaaben den 30te Mars. –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

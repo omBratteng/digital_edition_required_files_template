@@ -1,0 +1,70 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>402</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 26. august 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 26. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 22de denne Maaned ere <lb/>
+95 Angrebne af Cholera; i det Hele er der saaledes siden 26de Juli <lb/>
+186 Angrebne, hvoraf 127 Døde.</p>
+               <p xml:id="p2">	Ifølge de seneste Meddelelser fra Laurvig har der indtil den 23de <lb/>
+denne Maaned i det Hele været 77 Angrebne, hvoraf 50 Døde.</p>
+               <p xml:id="p3">	Hans Kongelige Høihed Prinds Augusts Fødselsdag den 24de dennes <lb/>
+var det min Hensigt paa sædvanlig Maade at høitideligholde. Da <lb/>
+imidlertid den Epidemie, hvoraf Christiania for Tiden er hjemsøgt, i de <lb/>
+senere Dage syntes at være noget i Tiltagende, har jeg ladet Christiania <lb/>
+Fattigforstander tilstille et Beløb af 100 Speciedaler med Antydning <lb/>
+af Anledningen til denne Gave og med Anmodning om at uddele den <lb/>
+til de meest trængende blandt dem, som ved Epidemien have mistet sine <lb/>
+Forsørgere. Denne Undladelse af at opfylde en mig paahvilende kjær <lb/>
+Pligt, som jeg under andre Omstændigheder ikke vilde have tilladt mig, <lb/>
+vover jeg at haabe, at Deres Majestæt vil skjænke naadigst Bifald. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 August 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

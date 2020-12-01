@@ -1,0 +1,89 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>161</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 5. november 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 5. november 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Uagtet jeg idag Intet har at indberette, troer jeg dog, med Hensyn <lb/>
+paa, at min sidste underdanigste Rapport er af 26de forrige Maaned, at <lb/>
+burde underdanigst meddele, at saavidt mig bekjendt, Alt er her ved det <lb/>
+Gamle, det er, Gud skee Lov, taalelig vel, ja bedre end i de fleste  <lb/>
+fremmede Lande.</p>
+               <p xml:id="p2">	Den 1ste denne Maaned flyttede jeg ugjerne til Byen, fordi det er <lb/>
+min Skyldighed at see Gjæster, hvortil Holgerslyst i denne Aarstid ikke <lb/>
+er skikket. Den 3die gav jeg en Middag og den 8de haaber jeg at kunne <lb/>
+feire Hendes Majestæt Enke-Dronningens Fødselsdag ved en Bal.</p>
+               <p xml:id="p3">	Jeg tillader mig underdanigst at lykønske Deres Majestæt til at have <lb/>
+vel sluttet den langvarige Rigsdag. Plutôt seul que mal accompagné: men <lb/>
+vi bør dog erkjende, at vort Selskab ikke endnu paa langt nær er saa <lb/>
+slet som Nutidens tydske Rigsassembléer.</p>
+               <p xml:id="p4">	Da jeg ugjerne har savnet Prinds Gustav i Processionerne, befrygter <lb/>
+jeg, at Hans Kongelige Høihed endnu ikke er helbredet af sit Beensaar, og <lb/>
+vil derfor, om dette ikke snart skulde kunne lykkes for de lærde Herrer <lb/>
+Livlæger, udbede mig naadigst Tilladelse til at sende dem den uexaminerede <lb/>
+Moer Sæther til Hjelp.</p>
+               <p xml:id="p5">	Jeg tillader mig underdanigst at vedlægge en Fortegnelse, som viser, <lb/>
+hvorledes de paagrebne Deeltagere i Gadeuordnerne hersteds i afvigte  <lb/>
+Foraar ere blevne dømte ved Underretten. Alle disse Domme ere appellerede <lb/>
+til Overretten, hvor de neppe ville blive formildede.</p>
+               <p xml:id="p6">	Statsraad Sibbern med Familie er lykkelig arriveret; men da den <lb/>
+Statens Færge, hvori de ere reiste, har lidt betydelig Haverie under Reisen, <lb/>
+maa Statsraad Krog, som skal benytte den samme Statsvogn, til Stockholm, <lb/>
+udsætte sin Afreise en 8 Dage indtil den kan blive repareret.</p>
+               <p xml:id="p7">	Den danske Minister i Berlin, Grev Plessen, har valgt Christiania <lb/>
+til sin Vinterresidents. Samme Smag har Fru Rehbinder, som foretrækker <lb/>
+at boe her fremfor hos sin rette Mand i Trondhjem.</p>
+               <p xml:id="p8">	Deres Majestæts naadige Skrivelse af 2den November ihændekom mig <lb/>
+nys før Postens Afgang, og tør jeg forbeholde mig min underdanigste <lb/>
+Rapport i Anledning af dens Indhold til næste Post. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te November 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

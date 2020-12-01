@@ -1,0 +1,358 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>116</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 5. november 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 5. november 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de forrige Maaned.</p>
+               <p xml:id="p2">	Sidste Post bragte mig Deres Majestæts naadigste Meddelelse af <lb/>
+28de forrige Maaned ved Greve Lewenhaupt, hvorfor jeg underdanigst <lb/>
+takker.</p>
+               <p xml:id="p3">	Medens Veiret i September Maaned var meget ubehageligt har det <lb/>
+senere været saare behageligt, saa at jeg uagtet Forretningerne nødsagede <lb/>
+mig til næsten daglig at besøge Byen, dog med Savn den 3die denne <lb/>
+Maaned fraflyttede Landet, for at feire Hendes Majestæt Enke-Dronningens <lb/>
+Fødselsdag ved en Bal den 8de.</p>
+               <p xml:id="p4">	Regjeringens næsten daglige Samlinger i den senere Tid, har <lb/>
+beklageligviis icke levnet de Herrer Departementschefer den fornødne Tid, til <lb/>
+Storthings-Sagers Behandling, saaledes, at disses større Deel skulde  <lb/>
+kunne blive færdig til at forelægges Deres Majestæt ved denne Maaneds <lb/>
+Udgang. De have derfor omanmodet mig, at fremføre deres underdanigste Bøn <lb/>
+om, at Deres Majestæt naadigst vil forlænge den dertil bestemte Tid til <lb/>
+December Maaneds Udgang, en Bøn som jeg efter Omstændighederne finder <lb/>
+mig forpligtet til underdanigst at anbefale og til hvis Opfyldelse jeg <lb/>
+tillader mig at udbede Deres Majestæts naadigste Bifald.</p>
+               <p xml:id="p5">	Da Hr Stephanson paa Grund af Upasselighed ikke for Tiden kan <lb/>
+opfylde Regjeringens Anmodning om, at begive sig til Paris, faaer det  <lb/>
+derved beroe, saameget mere; som hans Nærværelse der, neppe skulde kunne <lb/>
+medføre nogen væsentlig Nytte i Traktatsagens nuværende Stilling.</p>
+               <p xml:id="p6">	Man forundrer sig her over at Deres Majestæts norske Statsminister <lb/>
+har villet <hi rend="underline">offentlig</hi>  udtale sig om den norske Jødesag, som over Maaden, <lb/>
+hvorpaa han har udtalt sig, og Ingen forundrer sig herover mere end jeg, <lb/>
+som af en nylig naadigst Meddelelse kjender Deres Majestæts modsatte <lb/>
+Anskuelse om denne Gjenstand. Det værste ved Sagen er, at Statsministeren <lb/>
+antages ikke at kunne have tilladt sig, at yttre sig offentlig i denne <lb/>
+Begivenhed, uden med Deres Majestæts naadigste Biefald, og at det <lb/>
+saaledes almindelig antages, at det er Deres Majestæts Anskuelse som <lb/>
+han offentlig har udtalt.</p>
+               <p xml:id="p7">	Indberetning om de anstillede Undersøgelser om en beqvem Communication <lb/>
+imellem Nordsøevandet i Bratsberg Amt og Skiens Bye, hvis Localitet <lb/>
+Deres Majestæt for 2 Aar siden havde den Naade at tage i Øiesyn, vil nu <lb/>
+blive Deres Majestæt underdanigst forelagt. Resultatet er: at denne <lb/>
+Communications Iværksættelse paa den af Walligorsky foreslaaede Maade <lb/>
+vilde blive ligesaa almeengavnlig som interessant; men at man for Tiden ikke <lb/>
+kan tillvejebringe den dertil calculerede Sum 125,000 Speciedaler. Jeg <lb/>
+trøster mig imidlertid ved, at en beleiligere Tid tidlig eller seent vil <lb/>
+komme og da vil de nu anstillede Undersøgelser ikke være spildte, men <lb/>
+tjene til god Vejledning.</p>
+               <p xml:id="p8">	Tvende Høiesterets-Assessorer have i eget og Collegers Navn <lb/>
+overleveret mig underdanigst, vedlagte Pro memoria, sous le sceau du secret, <lb/>
+og med Forsikring om at Ingen uden de selv derom er vidende, med Anmodning, <lb/>
+at udvirke Deres Majestæts naadigste Beskyttelse for deres Ønske <lb/>
+om en liden Forbedring i deres Gage. Høiesterets Personale bestod oprindelig <lb/>
+foruden Justitiarius med Gage 2700 Speciedaler, af 8 Assessorer, <lb/>
+hvoraf de 2 ældste med 2000 Speciedaler hver og de 6 yngre med 1800 <lb/>
+Speciedaler hver. Dette Personale kunde med den yderste Anstrængelse omsider <lb/>
+ikke holde Forretningerne à jour og Retten paadrog sig med hvert Aar <lb/>
+flere Restancer, hvorfor ved Kongelig Resolution af 10de November 1842 <lb/>
+besluttedes Oprettelse af tvende nye Assessorsembeder, hvortil Storthinget <lb/>
+bevilgede 1800 Speciedaler aarlig Gage for hvert. Fra denne Tid bestod <lb/>
+Retten, foruden Justitiarius af 10 Assessorer, indtil Assessor Rye <lb/>
+1844 afgik til Byeskriverembedet i Christiania, hvorefter Retten kun har <lb/>
+havt 9 Assessorer, 2 med 2000 Speciedaler og 7 med 1800 Speciedaler Gage, <lb/>
+hvorimod den 10de Assessorgage er bleven besparet og fremdeles vil blive <lb/>
+besparet, og det er denne besparede Gage 1800 Speciedaler aarlig som de <lb/>
+tilbageværende 9 Assessorer ønske sig tillagte med 200 Speciedaler hver, <lb/>
+som Gageforbedring; men hvorom de ikke ønske at henvende sig til Nogen, <lb/>
+end til Deres Majestæts Naade, gjennem mig.</p>
+               <p xml:id="p9">	Med Hensyn paa de Høiesteretsassessorerne paahvilende Forretningers <lb/>
+Vigtighed og Mængde, paa den særdeles Dygtighed disse kræve, endelig  <lb/>
+pss Embedets Anseelse, maae jeg erkjende den dem tillagte Gage,  <lb/>
+forholdsmæssig mod andre Gager, for lav, hvilket stadfæstes derved at 2de <lb/>
+Høiesterets Assessorer i et kort Tidsrum have ansøgt om underordnede, bedre <lb/>
+lønnede juridiske Embeder og at der i Vacance tilfælde, sædvanlig kun <lb/>
+melde sig faa Adspiranter til Høieste-Rets Assessorembeder. Jeg maae  <lb/>
+saaledes ansee det stemmende med det Offentliges eget vel forstaaede Tarv, <lb/>
+at Høiesterets Assessorernes Gage forbedres, ligesom jeg formener den af <lb/>
+dem foreslaaede Forbedring meget moderat og beskeden (modeste)</p>
+               <p xml:id="p10">	Med denne vel overveiede Anskuelse, tillader jeg mig underdanigst <lb/>
+at indstille, at Deres Majestæt naadigst vil benytte Leiligheden til at <lb/>
+vise Høiesteret en retfærdig Naade, ved proprio motu i Statsraadets <lb/>
+Protocol at tilkjendegive:  "At det har været Deres Majestæt paafaldende, <lb/>
+at tvende Høiesterets Assessorer i den senere Tid have ansøgt om <lb/>
+underordnede Embeder og at Deres Majestæt, om dette maatte være en Følge af, <lb/>
+at de deres Embeder tillagte Gager ikke staae i et passende Forhold til <lb/>
+disse Embeders Vigtighed og Anseelse, naadigst befaler den Norske Regjering <lb/>
+om denne Gjenstand at afgive underdanigst Betænkning og Indstilling, <lb/>
+hvorefter Deres Majestæt vil tage samme under nærmere naadigst  <lb/>
+Overvejelse."</p>
+               <p xml:id="p11">	Jeg formener underdanigst at det forønskede Iniativ fra Deres <lb/>
+Majestæts Side, vil være retfærdigt og klogt og blive meget paaskjønnet <lb/>
+af Rigets høieste Tribunal.</p>
+               <p xml:id="p12">	Efter mange og langvarige Diskussioner er Regjeringen omsider <lb/>
+kommen til et Resultat, betræffende det vakte Spørgsmaal om Foreningen af <lb/>
+den militaire Commando og den militaire Departementsstyrelse i een Person. <lb/>
+Indstillingen, som afgaaer med Dagens Post gaaer ud paa, at vi underdanigst <lb/>
+maae fraraade Deres Majestæt at fatte nogen almindelig Bestemmelse om  <lb/>
+denne Gjenstand.</p>
+               <p xml:id="p13">	Det erkjendes at den foreslaaede Forening kunde medføre Gavn, men <lb/>
+negtes kan det neppe, at den under vore Forholde i Almindelighed vilde være <lb/>
+forbunden med store formeentlig overveiende Ulemper. De grundlovsmæssige <lb/>
+Stockholms-Reiser, tilfalde i Regelen alle Statsraader; med det skjønnes <lb/>
+ikke, at den Comanderende oftere og aarslang skulde kunne være fraværende, <lb/>
+uden store Ulemper for denne Deel af hans Embedsvirksomhed. For de <lb/>
+Høistcomanderende i begge Etater, især i Landetaten, maae hyppige ofte <lb/>
+lange Inspectionsreiser ansees hensigtsmæssige og gavnlige; men de dermed <lb/>
+forbundne hyppige og lange Fraværelser, ere vanskelig forenelige med <lb/>
+Departementschefens Functioner. Det er saare vanskeligt hos os, at finde <lb/>
+Mænd, udrustede med de for en Statsraad ønskelige Egenskaber; men end <lb/>
+vanskeligere at finde disse forenede med dem, som saavel i formel som  <lb/>
+reel Henseende udfordres, for at være Høistcommanderende. Deres Majestæt <lb/>
+skjænkede til Exempel Regjeringen et saare værdigt og dygtigt Medlem i <lb/>
+Statsraad Foss, men Valget skulde ikke have kunnet falde paa ham, om han <lb/>
+som Chef for Marinedepartementet, tillige nødvændig skulde have været <lb/>
+Høistcommanderende for Søe-Etaten.</p>
+               <p xml:id="p14">	Om og naar Mænd kan findes, hos hvem de for begge Functioner ønskelige <lb/>
+Egenskaber ere forenede, er der i Sagens nærværende Stilling, Intet <lb/>
+til Hinder for begge Functioners Forening, var det endog kun til et Forsøg, <lb/>
+uden at Deres Majestæt ved en afgiven almindelig Bestemmelse behøver <lb/>
+at gjøre den til en Nødvendighed, og derved i Virkeligheden indskrænke <lb/>
+Kongemagtens nu aldeles frie Valg, og hvorfor, jeg vover at spørge, uden <lb/>
+Nødvændighed binde sig selv Hænderne?</p>
+               <p xml:id="p15">	Mere end alle andre Grunde, som kan anføres mod at gjøre den <lb/>
+omhandlede Forening til en almindelig Regel og deraf flydende Nødvændighed,  <lb/>
+taler dog den af Statsraad Stang releverede constitutionelle Betænkelighed. <lb/>
+Han har for mig gjort det anskueligt, at en afgiven Beslutning om Forening <lb/>
+af Commando og Departementsstyrelse, tidlig eller seent vil lede til samme <lb/>
+Revision af, og Ansvarlighed for Commandosager, som for de øvrige militaire  <lb/>
+Sager; men jeg beder Gud bevare os for Storthingets Indblanding i den <lb/>
+militaire Commando, som Grundloven har villet have forbeholdt Kongen  <lb/>
+allene. Ansvarlighed for et svenskt Constitutions-Utskott er ikke det samme, <lb/>
+som for et norsk Odelsthing, som udøver Revisionsretten med Smaalighed og <lb/>
+til Yderlighed, og Elementerne i det svenske Tribunal, under hvilket de <lb/>
+kongelige Raadgivere sortere, ere ikke saa farlige, som de modsvarende  <lb/>
+norske. Man har i det af mig tiltraadte Votum, paapeget den constitutionelle <lb/>
+Betænkelighed, uden at man derom har villet udtale sig, fordi det ikke <lb/>
+ved denne Leilighed behøvedes og parcequ'il ne faut pas eveiller le diable <lb/>
+qui dort. Under de forskjællige Nuancer af Anskuelser, som under  <lb/>
+Diskussionerne i Regjeringen yttredes, syntes alle at samstemme i denne: At <lb/>
+Forening af Commando og Departementsstyrelse kan medføre Gavn, og altsaa <lb/>
+være et Forsøg værd, naar dertil kan findes Mænd, som forene de til denne <lb/>
+dobbelte Embedsvirksomhed nødvændige Egenskaber; men at, da i Sagens  <lb/>
+nærværende Stilling, Intet hindrer Deres Majestæt fra at iværksætte denne <lb/>
+Forening, det synes aldeles utilraadeligt, at gjøre den under alle <lb/>
+Omstændigheder til en Regel og altsaa til en Nødvændighed.</p>
+               <p xml:id="p16">	Iøverigt tillader jeg mig underdanigst at bemærke, at de Conflicter <lb/>
+og deraf følgende Ulemper som i den senere Tid have fundet Sted, imellem <lb/>
+Commandoen og Armeedepartementet, mere have deres Udspring fra de respective <lb/>
+Chefers Personlighed og personlige Forholde end fra Forretningsorganisationen. <lb/>
+For Søe-Forsvaret arbeede Marinedepartementets nærværende <lb/>
+Chef og den Commanderende i den ønskeligste Harmonie til et og samme Maal, <lb/>
+Marinens Tarv.</p>
+               <p xml:id="p17">	Jeg beklager at Statsraad Foss ved Upasselighed har været forhindret <lb/>
+fra, at deeltage i Regjeringens Diskussioner om denne Gjenstand; men <lb/>
+jeg tillader mig at henlede Deres Majestæts naadigste Opmærksomhed, paa <lb/>
+hans skriftlige Betænkning, som findes blandt Sagens Documenter og som <lb/>
+jeg anseer for det Bedste, som om denne Sag har været skrevet.</p>
+               <p xml:id="p18">	Sluttelig beder jeg Deres Majestæt naadigst tilgive den Vidtløftighed, <lb/>
+hvormed jeg har troet at burde omhandle denne Sag, ønskende at min <lb/>
+Fremstilling, maae kunne tjene til nogen Vejledning, under dens Bedømmelse <lb/>
+og endelige naadigste Afgjørelse.</p>
+               <p xml:id="p19">	Jeg frygter allerede at have trættet Deres Majestæt saa meget,at <lb/>
+det vilde være ubeskedent at begynde paa et andet ubehageligt Capittel <lb/>
+om den mislykkede Værnepligtlov, som jeg derfor tillader mig at forbeholde, <lb/>
+for min næste underdanigste Rapport.</p>
+               <p xml:id="p20">	Pengemangel bliver ogsaa her med hver Dag mere trykkende. Man skulde <lb/>
+ikke ahne den, naar man seer denne Byes til Forbauselse fremskridende <lb/>
+Bygningsvæsen; men det hender da heller ikke sjælden at de byggende <lb/>
+blive før færdige med deres Casser, end med deres Huuse.</p>
+               <p xml:id="p21">	Jeg har en Grund mere, til underdanigst at bede Deres Majestæt om, <lb/>
+at ville have min Søn Adam i naadigst Erindring, ved nogensomhelst <lb/>
+indtræffende diplomatisk Vacance i Europa. Hans Øine ere nemlig under <lb/>
+Opholdet i America blevne saa svækkede, at hans og min alvorlige <lb/>
+Bekymring for hans Syn opvækkes. De americanske Læger tilskrive denne <lb/>
+Svækkelse den stærke Hede og klare Luft i America. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te November 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 5. november 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <p xml:id="p22">	Allerede i Høiesterets tidligere Historie er det ikke uden Exempel <lb/>
+at en Assessor som endnu var i sin fulde Vigueur ansøgte Ansættelse i <lb/>
+en underordnet juridisk Stilling, der gav ham større Indtægt eller dog <lb/>
+mere Otium og Adgang til anden Fortjeneste, end for Dommere i Høiesteret <lb/>
+er mulig. Flere vare, efterat Gagen var reguleret som nu, sindede at gaae <lb/>
+samme Vei, og tilbageholdtes maaskee alene ved Vanskelighederne for den <lb/>
+ældre Mand i at forandre Embedsstilling og ved givet Haab om paa anden <lb/>
+Maade at erholde Forbedring i deres Kaar. Senere ere Omstændighederne <lb/>
+ikke blevne gunstigere for Høiesterets Tilforordnede. Tvertimod have de <lb/>
+snarere forværret sig, deels derved, at Christiania, hvor Retten skal <lb/>
+holdes, forholdsviis er blevet et langt kostbarere Levetsted end forhen, <lb/>
+deels ved at Arbeidet, paa Grund af Sagernes forøgede Antal i ikke  <lb/>
+ubetydelig Grad er tiltaget.</p>
+               <p xml:id="p23">	Det er saaledes ikke at undres over, at det ovennævnte Phænomen <lb/>
+i den sidste Tid har gjentaget sig,idet tvende af Høiesterets Assessorer <lb/>
+have søgt Forflyttelse, den ene til Christiania Byskriverembede (Rye), <lb/>
+hvortil fra først af endog tvende af Rettens Medlemmer havde meldt sig <lb/>
+som Ansøgere, og den anden, (Motzfeldt) til Rakkestads Sorenskriverie. <lb/>
+Disse Forflyttelser ville, hvis ingen Forandring i Forholdene kommer til <lb/>
+at foregaae, sikkerlig heller ikke blive de sidste af dette Slags.  <lb/>
+Imidlertid er det unægteligt fra flere Sider betragtet beklageligt at Mænd, <lb/>
+der have uddannet sig for og opnaaet saa vigtige Embedsposter, som <lb/>
+Assessoraterne i Høiesteret, deri skulle finde sig saa knapt aflagte, at de, <lb/>
+uagtet de ellers kunne have baade Lyst og Kræfter til vedblivende at  <lb/>
+beklæde dem, maae fristes til at gaae ned til lavere Embeder for der at <lb/>
+søge bedre Kaar, hvortil Assessoraterne bleve at ansee som Promotionsposter, <lb/>
+i Stedet for, at de vel burde være de dygtigste og mest kyndige <lb/>
+Juristers høieste Stræben. Ligesom den ubetydelige Concurrence, der finder <lb/>
+Sted ved ledige Assessoraters Besættelse, tyder hen paa at man finder Gagen <lb/>
+kun lidet tillokkende i Forhold til Arbeidet, saaledes kunne de ovenfor <lb/>
+paapegede Facta ikke andet end opfordre til alvorlig Prøvelse af det <lb/>
+Spørgsmaal: om Høiesteretsassessorernes Løn staaer i passende Forhold til <lb/>
+deres Stilling, deres Forretningers Vanskelighed, Mængde og Besværlighed, <lb/>
+samt endelig til deres formodede Behov, forsaavidt de ikke have Andet <lb/>
+at leve af, end Gagen, hvilket Sidste i Regelen maae forudsættes.</p>
+               <p xml:id="p24">	Dette Spørgsmaal kan neppe fra nogen af Siderne betragtet blive at <lb/>
+besvare bekræftende.</p>
+               <p xml:id="p25">	Om man end ikke vil tage noget væsentligt Hensyn til Forholdet <lb/>
+mellem Assessorernes Gager og den, der er bestemt for Regjeringens  <lb/>
+Medlemmer og Høiesterets Justitiarius, næst hvilke Rettens Tilforordnede jo <lb/>
+indtage de vigtigste civile Embedsstillinger, skal det dog ikke kunne <lb/>
+nægtes at Afstanden er større end man af Embedernes Forskjællighed i <lb/>
+Øverigt skulde formode. I Særdeleshed synes Misforholdet mellem den Gage, <lb/>
+der er tilstaaet Justitiarius og Assessorernes att maatte erkjendes, naar <lb/>
+Hensyn tages til den Maade, hvorpaa Høiesterets Forretninger, især ved <lb/>
+de seneste Love ere fordeelte; skjønt hiin Gage visselig ikke er for høi <lb/>
+enten i og for sig eller i Forhold til Statsraadernes.</p>
+               <p xml:id="p26">	Endnu større er Misforholdet mellem Assessorernes Gage og flere af <lb/>
+de lavere, saavel i Christiania, som paa andre Steder ansatte juridiske <lb/>
+Embedsmænds Lønning, hvorved det maae komme i Betragtning, at intet andet <lb/>
+juridisk Embede kan sammenlignes med Høiesteretsmedlemmernes i Henseende <lb/>
+til den Uddannelse, det fordrer, eller den daglige og vedholdende <lb/>
+Aandsanstrængelse, det kræver. Man maae herved have for Øie, at Retstiden <lb/>
+de fem Dage ugentlig, da Retten holdes er fem Timer, og at Dommerne, <lb/>
+naar Sagerne ikke ere saa korte og simple, at de kunne afgjøres uden <lb/>
+Afbrydelse, om Eftermiddagene have Arbeide med, paa nyt at gjennemgaae <lb/>
+Udtogene. Eftermiddagene ere derfor ikke tilstrækkelige til Expedition <lb/>
+af skriftelige Sager med mere, og man vilde saaledes ikke faae Tid nok <lb/>
+dertil, dersom ikke et Par af Rettens Medlemmer skifteviis fritages fra <lb/>
+Deeltagelse i de mundtlig behandlede Sager, for ved Siden af Votas <lb/>
+Forfattelse i de skriftlige Justitssager, hvori de votere først at oparbeide <lb/>
+den Restance af ældre Sager som er paadragen. Kommer nu hertil at de  <lb/>
+skriftlige Sager circulere ligesaavel i de saa kaldte Retsferier, som <lb/>
+ellers, vil det indsees, at Høiesterets Medlemmer kun sjelden have Hvile, <lb/>
+og Arbeidet bliver saameget besværligere derved, at Alt, lige indtil <lb/>
+Afskrevningen af Vota maae udføres af enhver Assessor personlig, uden at <lb/>
+Noget, saaledes som til Exempel med Sorenskrivere er Tilfældet, kan <lb/>
+overlades til Andre, ligesom ogsaa Arbeidet maae udføres uden Hensyn til <lb/>
+om man dertil er meer eller mindre oplagt, naar kun ikke Sygdom eller <lb/>
+andet saadant Forfald kan gjøres gjældende.</p>
+               <p xml:id="p27">	Om at Gagen saaledes som den for Tiden er bestemt ikke svarer til <lb/>
+Behovet i en saadan Embedsstilling og paa et saa kostbart Levested, er <lb/>
+det ufornødent her at føre noget Beviis. Det maae være nok, at bringe <lb/>
+det Factum i Erindring, at manglende Tilstrækkeligt Udkomme er bleven <lb/>
+anført som det bestemmende Motiv ved Ansøgning om Forflyttelse fra  <lb/>
+Høiesteret samt at gjøre opmærksom paa, at Ansættelse i det høieste Dommer- <lb/>
+Embede, paa Grund af den Forberedelse, det udfordrer almindeligviis <lb/>
+ikke kan naaes af Nogen, førend han er i en Alder af 40 Aar eller derover, <lb/>
+i hvilken han allerede maae formodes at være Forsørger af en mere <lb/>
+eller mindre talrig Familie, hvis stedse tiltagende Udgifter skulle  <lb/>
+dækkes med den samme Gage som han faaer ved Ansættelsen, medmindre han <lb/>
+bliver en af de to ældste Assessorer der have 200 Spdlrs Tillæg, men <lb/>
+hvilket er for ubetydeligt og uvist at naae til at en Assessor, som føler <lb/>
+Misnøie med sin Stilling, ved Haabet derom skulde kunne afholdes fra <lb/>
+i Tide at søge anden saadan Ansættelse, som man i Betragtning af hans <lb/>
+indehavende Stilling ikke billigen vel kunne nægte ham. I sidste  <lb/>
+Henseende ere de yngre Assessorer forsaavidt bedre farne end de ældre, at <lb/>
+disse med Aarene bleve mindre oplagte til at overtage en anden Syssel, <lb/>
+skjønt de med Hensyn til Forbedring i deres oeconomiske Stilling og <lb/>
+Lettelse i Arbeide vistnok kunne nære samme Ønske som hine.</p>
+               <p xml:id="p28">	Det formenes af de ovenfor gjorte Antydninger klart, at det maae <lb/>
+være i det Offentliges vel forstaaede Interesse at Høiesteretsassessorernes <lb/>
+Kaar søges forbedrede, og at Staten, hvis saadant ikke skeer, <lb/>
+riskerer enten den Skade, som nødvændigen flyder af, at saa vigtige <lb/>
+Forretninger som Høiesterets pleies under de Tilforordnedes Misnøie med <lb/>
+deres Stilling og under det derved nedtrykte Sind, eller at  <lb/>
+Høietsteretsassessoraterne blive betragtede som Promotionsposter, fra hvilke <lb/>
+Vedkommende igjen søge bort til mindre byrdefulde og idetmindste forholdsviis <lb/>
+bedre aflagte Embeder, efterat have vundet den Øvelse ov Erfaring, som, <lb/>
+foruden gode og vel vedligeholdte theoretiske Kundskaber, ere væsentlige <lb/>
+nødvendige Betingelser for et heldigt Resultat; hvorfor ogsaa de, der <lb/>
+maatte søge Ansættelse i de saaledes Forflyttedes Sted, hvor udmærkede <lb/>
+Egenskaber de end for Øvrigt maatte have, først efter flere Aars Forløb <lb/>
+kunne siges at erstatte Savnet af de bortgaaede.</p>
+               <p xml:id="p29">	Hvorledes den omhandlede Gageforbedring rettest bør skee er et <lb/>
+Spørgsmaal som lettelig lader sig besvare, naar Grundene for Gagernes <lb/>
+Forøgelse først erkjendes. Der frembyder sig tvende Alternativer, nemlig: <lb/>
+enten at bestemme flere forskjellige Forbedringsgager for de ældre <lb/>
+Assessorer, elle ved et lige Beløb at forøge samtlige Assessorers Løn. <lb/>
+Ligesom det første Alternativ, hvis Maalet skal naaes, forudsætter, at <lb/>
+Forbedringsgagerne komme til at række langt nok ned, for at afholde den <lb/>
+yngre Mand fra at søge bort, forinden han naaer høiere Gage, saaledes er <lb/>
+det indlysende at man ved at bringe det andet Alternativ i Anvendelse <lb/>
+ikke maatte tabe af Sigte noget af de Hensyn, der ovenfor i Almindelighed <lb/>
+ere fremhævede i Henseende til Høiesteretsassessorernes Gagering. <lb/>
+Den Udgift, som vil udfordres til Forbedringer, kan hellerikke i det <lb/>
+Hele ansees som ny, da der tidligere har været opført Gage for en tiende <lb/>
+Assessor. Der var meget som talte mod Inddragelsen af denne Gage og  <lb/>
+i Særdeleshed Forretningernes Mængde. Da nu et af de væsentligste Hensyn, <lb/>
+der bestemte Høiesteret til at erklære sig for Postens Inddragelse <lb/>
+var Uleilighederne for Retspleien ved en altfor stor Omvæxling af de <lb/>
+Voterende, synes det ikke ubilligt at det Beløb som derved indvandtes <lb/>
+kommer de Mænd tilgode der maae bære Byrden af Inddragelsen. I Øverigt <lb/>
+er det kjendeligt at det saaledes paapegede Forbedringsmiddel er under, <lb/>
+hvad der af Hensyn til det Offentliges Tarv var ønskeligt og hvortil der <lb/>
+vel neppe vil mangle Udveie, da Udgiften altid bliver ubetydelig i Forhold <lb/>
+til de Besparelser, en god og hurtig Retspleie har til Følge.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

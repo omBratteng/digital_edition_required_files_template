@@ -1,0 +1,90 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>5</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 19. april 1844</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 19. april 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Stormægtigste Naadigste Konge!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	Hvor oprigtig jeg end beklager ikke at kunne have den Ære at <lb/>
+bivære den Kongelige Begravelses Act, i Stockholm, den 26de denne <lb/>
+Maaned, er det mig dog ikke ukjært ved min Nærværelse at kunne  <lb/>
+bidrage til Dagens værdige Feiring her, hvorved jeg ligesaa sikkert <lb/>
+tør haabe at opfylde Deres Majestæts naadige Villie, som mine  <lb/>
+Medborgeres Ønske.</p>
+               <p xml:id="p3">	I denne Hensigt agter jeg at indbyde herværende Authoriteter, <lb/>
+Kongelige Embedsmænd, Medborgere, til samlede med mig at begive sig <lb/>
+i Procession til Vor Frelsers Kirke, der vil blive passende udsmykket <lb/>
+og hvor Biskoppen i Christiania Stift vil holde Sørgeprædiken.</p>
+               <p xml:id="p4">	Jeg har anmodet General-Commandoen om, at lade give Salut <lb/>
+overeensstemmende med Salut-Reglementets 78de og 84de §§.</p>
+               <p xml:id="p5">	Disse tiltænkte Foranstaltninger tillader jeg mig underdanigst <lb/>
+at anbefale til Deres Majestæts naadigste Bifald.</p>
+               <p xml:id="p6">	Da jeg forudseer, at Processionen vil blive saa talrig, at den <lb/>
+ikke vil kunne rummes i Stiftsgaarden, vil jeg tillade mig at beramme <lb/>
+Samlingen i det Kongelige Palaies store Sal. Jeg har herfor ingen <lb/>
+anden Hjemmel end Hans Høistsalige Majestæts mundtlige Autorisation <lb/>
+til at turde i enkelte Tilfælde afbenytte det Kongelige Palais, og <lb/>
+jeg vover at haabe Deres Majestæts naadigste Bifald til, at jeg ved <lb/>
+denne sørgelige Leilighed for første Gang benytter den. Mod den  <lb/>
+requirerede Salut har Man fra militair Side yttret den Betænkelighed, <lb/>
+at en Armee-Befaling af 15de Marts dette Aar bestemmer: "at indtil <lb/>
+efter Hans Høistsalige Majestæts Begravelse, skal ingen Salut gives <lb/>
+fra Rigets Fæstninger". Denne Betænkelighed kan jeg imidlertid ikke <lb/>
+dele, fordi jeg antager det upaatvivlelig, at Meningen kun kan være,  <lb/>
+at der ikke skal gives Salut for nogen Anden; men ikke at nægte den <lb/>
+forevigede Konge den sidste Salut af de Kanoner, der saa ofte have <lb/>
+hilset Ham glædelig.</p>
+               <p xml:id="p7">	Stemningen er derhos nu her saa loyal og vakker, at jeg troer <lb/>
+at burde benytte endog smaa Ressourcer til at tilfredsstille og  <lb/>
+vedligeholde den.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <lb/>
+                     <date>den 19 April 1844</date>.</dateline>
+                  <lb/>
+                  <salute>Med dybeste Ærefrygt har jeg den Ære at undertegne mig <lb/>
+		Deres Kongelige Majestæts <lb/>
+        underdanigste troe Tiener og Undersaat</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

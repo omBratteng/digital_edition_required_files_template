@@ -1,0 +1,96 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>343</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. januar 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. januar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p xml:id="p2">	I Anledning af et Rygte om at Arbeiderne ved Kongsbergs Vaaben- <lb/>
+Fabrik, en 150 Mand, havde forenet sig om at anlægge en militair <lb/>
+Uniform, forlangte Artillerie Brigaden Oplysning herom af Fabrikens <lb/>
+Directeur, den fra Storthinget bekjendte Capitaine Holst, som svarede, <lb/>
+at Rygtet var sandt, og at han ikke havde formaaet at bevæge Arbeiderne <lb/>
+til at frafalde den fattede Beslutning.</p>
+               <p xml:id="p3">	Armee Departementet anmodede derefter Feldtøimesteren, <lb/>
+Oberstlieutenant Meyn, som tidligere har været Vaabenfabrikens Directeur, <lb/>
+om at begive sig til Kongsberg, for at undersøge Forholdene, – hvorom <lb/>
+han har indberettet: "at Klæde med alt Tilbehør til den paatænkte <lb/>
+Uniform er anskaffet, at den er anlagt af 9 Mand og har megen Lighed <lb/>
+med den for vore ridende Jægere reglementerede Uniform. <lb/>
+Confidentielt har Oberstlieutenant Meyn for mig yttret, "at Directeur <lb/>
+Holst, efter hans Formening, har bidraget mere til at tilveiebringe <lb/>
+end til at afværge Uniformen, at Fleertallet af Arbeiderne uden Tvivl <lb/>
+vil frafalde Uniformen, om den forbydes, og at dette bør skee, om end <lb/>
+Fabrikens temporaire Standsning mod Formodning maatte blive Følgen".</p>
+               <p xml:id="p4">	Dette var fra første Øieblik min Formening, og overeensstemmende <lb/>
+hermed har Armee-Departementet, gjennem Artillerie Brigaden, ladet <lb/>
+paalægge Directeur Holst, at forbyde Arbeiderne at bruge den ommeldte <lb/>
+Uniform, og at opsige af Arbeidet dem som maatte handle mod Forbudet. <lb/>
+Formodentlig vil det store Fleertal heller frafalde Uniformen <lb/>
+end Arbeidet; men i modsat Fald vilde de Vaaben, som nu forfærdiges, <lb/>
+ved Fabriken kunne erholdes lige saa gode og billige fra tydske <lb/>
+Fabriker. Om Hr Holst først havde faaet sit Regiment uniformeret, vilde det <lb/>
+for ham have været let at give dem Vaaben.</p>
+               <p xml:id="p5">	I Aaret 1851 er til Christiania bleven indført 30,225 Tønder <lb/>
+mere af forskjellige Kornvarer end i Aaret 1850 . – Ved Christiania <lb/>
+Toldsted have Toldintraderne i Aaret 1851 beløbet over 518,000 Species, <lb/>
+som er det høieste Beløb, som nogensinde er indkommet.</p>
+               <p xml:id="p6">	Vi have, Gud skee Tak! nu et godt Slædeføre og en nordisk Vinter <lb/>
+med en maadelig Kulde.</p>
+               <p xml:id="p7">	Da jeg ikke siden i afvigte Juny Maaned har besøgt Fossum udbeder <lb/>
+jeg Deres Majestæts naadige Tilladelse til at begive mig did den <lb/>
+23de Februar hvor jeg ønsker at bivaane min ældste Søns Sølvbryllup, <lb/>
+som indtræffer den 26de Februar.</p>
+               <p xml:id="p8">	Hans Kongelige Høihed Prinds Oscars Fødselsdag, den 21de denne <lb/>
+Maaned, hvortil min underdanigste Lykønskning nedlægges, agter jeg at <lb/>
+feire ved en Bal. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de Januar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

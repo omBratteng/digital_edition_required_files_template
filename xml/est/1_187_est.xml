@@ -1,0 +1,214 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>187</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 19. april 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 19. april 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 12te har jeg modtaget <lb/>
+Greve Levenhaupts, efter Deres Majestæts naadige Befaling mig givne <lb/>
+Meddelelse af samme Dato.</p>
+               <p xml:id="p2">	Den danske Ulykke i Eckernførde er høist beklagelig. Jeg begriber <lb/>
+ikke denne Expeditions Formaal og lige saa lidt dens Udførelse. Det <lb/>
+materielle Tab er stort og det moralske end større.</p>
+               <p xml:id="p3">	Jeg har ved denne Leilighed erfaret, at man nolens volens maa <lb/>
+erkjende <hi rend="underline">et</hi>  Stammeslægtskab imellem de nordiske Nationer i Forhold til <lb/>
+andre; thi den danske Ulykke har gjort et lige saa sørgeligt og stærkt <lb/>
+Indtryk paa Almeenheden, som om den havde været norsk.</p>
+               <p xml:id="p4">	Oprøret i de danske Hertugdømmer, foranlediget af Kieler-Demagoger, <lb/>
+understøttet af kortsynede holsteenske Prindser, beskyttet af tydske <lb/>
+Fyrster, er en af Februar Revolutionens ulykkelige Følger, som kan bringe <lb/>
+det hele, desuden noksom ulykkelige Europa i lys Lue. Kongen af <lb/>
+Preussen troede at beskytte en tydsk Nationalitet; men det er en  <lb/>
+Vildfarelse! Han beskytter det samme revolutionaire Oprør i Holsteen, som <lb/>
+han bekjæmper i sit eget Land. Statsmænd af den ældre Skole, som  <lb/>
+Hardenberg og Bernstorff, skulde ikke have tilraadet en saa uklog og slet  <lb/>
+Færd! Den er en Forbrydelse mod det monarchiske Princip! "Helas! notre <lb/>
+siècle est le siècle des crimes politiques des princes et des peuples." <lb/>
+Flere Symptomer lade mig formode, at Kongen af Preussen begynder <lb/>
+at indsee sin Vildfarelse, hvorom det maaskee turde lykkes Deres Majestæt <lb/>
+mere end nogen Anden nu at overbevise ham ved en confidentiel  <lb/>
+uforbeholden hjertelig Meddelelse, hvorfor jeg troer ham modtagelig. Deres <lb/>
+Majestæt vilde derved afværge store Ulykker. Uden Kongen af Preussens <lb/>
+Hjelp vilde Dannemarks Konge have dæmpet Oprøret, som kun ved <lb/>
+hiin Hjelp har naaet sin Høide. Det paaligger nu hiin Konge at godtgjøre <lb/>
+sin Vildfarelse og jeg troer, at Deres Majestæts directe Appel til <lb/>
+hans ridderlige Sind vilde virke mere end alle diplomatiske Noter. I <lb/>
+Mangel heraf øiner jeg kun Redning for Danmark, for de nordiske Rigers <lb/>
+fremtidige Uafhængighed, i en eller anden Evenement, til Exempel, en <lb/>
+tydsk Borgerkrig, som ikke er usandsynlig, eller et Ministerskifte i <lb/>
+England.</p>
+               <p xml:id="p5">	Kan i alle Fald Keiser Nicolaus, som ikke generes af Storthing <lb/>
+eller Rigsdag, rolig see paa, at den sidste Rest af et gammelt europæisk <lb/>
+Kongerige, en af Nordens Folkestammer, bliver tilintetgjort af tydske <lb/>
+Voldsmænd? At Tydskland bliver en farlig Magt for Østersøen og for <lb/>
+Norden? Hvor længe kan Deres Majestæt blive Tilskuer? Hvor velsignelsesrigt <lb/>
+og herligt, om Deres Majestæt ved Sin moralske Indflydelse paa <lb/>
+Kongen af Preussen kunde afværge større Ulykker fra Norden?</p>
+               <p xml:id="p6">	De sidste Efterretninger fra Bergen ere fremdeles gunstige, skjønt <lb/>
+Choleraen endnu vedbliver med enkelte Tilfælde nu og da. Saaledes var <lb/>
+der mellem 29de Marts og 4de April intet nyt Tilfælde, den 4de, 5te <lb/>
+og 6te April var der daglig eet Tilfælde; den 7de og 8de intet; den <lb/>
+9de 10de og 11te eet daglig; den 12te 13de og 14de intet. Total <lb/>
+Antallet fra 10de December 1848 til 14de April dette Aar er 1046  <lb/>
+angrebne, 617 døde og 421 helbredede. Kun 5 Patienter ligge endnu under <lb/>
+Behandling paa det offentlige Lazareth.</p>
+               <p xml:id="p7">	Den i Grundloven paabudne aarlige Statsraads Ombytning i Stockholm <lb/>
+er lige uheldig for Forretningerne, som for Statsraaderne. Disse eller <lb/>
+dog flere af dem vilde Intet have imod et længere Ophold i Stockholm; <lb/>
+men at afbryde huuslige og Familie Forholde for et Aar, er for enhver <lb/>
+forbunden med ubehagelige Offere, som kun kan formindskes ved en betimelig <lb/>
+Underretning om den forestaaende Flytning og Forberedelse dertil.</p>
+               <p xml:id="p8">	Fra denne Synspunct troer jeg allerede nu efter Overlæg med nogle <lb/>
+af mine herværende ældre Colleger, at burde underdanigst foreslaae, at <lb/>
+Statsraad Riddervold i anstundende August Maaned maa afløse Statsraad <lb/>
+Stang, og Statsraad Petersen, som for Tiden intet fast Departement har, <lb/>
+Statsraad Krog.</p>
+               <p xml:id="p9">	Vogt bør under nærværende indviklede vanskelige financielle <lb/>
+Omstændigheder, visselig ikke bortkaldes fra Finantsernes Bestyrelse, og <lb/>
+efter moden Overveielse finde vi flere Betænkeligheder mod nogen af <lb/>
+de andre Departements Chefers Bortfjernelse før næste Storthing, end <lb/>
+mod Riddervolds, som vil kunne være her tilbage 1/2 Aar før det samles.</p>
+               <p xml:id="p10">	Statsraad Petersen gjør ingen Indvending mod den ham tiltænkte <lb/>
+Flytning, hvorimod Riddervold, som af hosfølgende hans Skrivelse naadig <lb/>
+vil erfares, ønsker sig forskaanet. Jeg bør og kan ikke anbefale dette <lb/>
+hans Ønske, fordi det efter nøie Overveielse er mere stemmende med <lb/>
+Forretningernes Tarv, at han end at nogen anden Departementschef reiser <lb/>
+først. De andre vilde kunne gjøre mindst lige saa gyldige Indvendinger <lb/>
+og det gaaer derfor ikke an, at tage udelukkende Hensyn paa Vedkommendes <lb/>
+private Bequemmelighed, som aldrig er skeet og senest ikke mod <lb/>
+Statsraadets ældste Medlem Krog, som reiste høist ugjerne.</p>
+               <p xml:id="p11">	Jeg udbeder mig saaledes, naadigst autoriseret til at meddele <lb/>
+Statsraad Riddervold, at Omstændighederne ikke tillade at tage Hensyn <lb/>
+paa hans for Deres Majestæt fremførte Ønske; men at han vil blive befalet <lb/>
+at afløse Stang, efter i sin Tid afgivende naadigst Resolution, <lb/>
+hvormed det endnu ikke haster. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19 April 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 19. april 1849</supplied>
+               </head>
+               <p xml:id="p12">	Efter den med Deres Excellence trufne Aftale tillader jeg mig her <lb/>
+at berøre de Omstændigheder, der formenes at kunne gjøre det mindre <lb/>
+tilraadeligt, at jeg ved et af de iaar indtræffende Statsraadsskifter <lb/>
+kaldes til Stockholm. <lb/>
+               </p>
+               <list xml:id="list13">
+                  <label>1.</label>
+                  <item> Foruden enkelte Love af mindre Betydenhed, hvortil Udkast <lb/>
+sandsynlig vil komme til at udgaae fra Kirkedepartementet inden næste <lb/>
+Storthing, ville de tvende ved sidste Storthing udfærdigede Beslutninger <lb/>
+til Lov, hvilke nægtedes naadigst Sanction, nemlig angaaende Kirkens <lb/>
+Udvidelse og Almenskolevæsenet paa Landet, kræve fornyet omhyggelig <lb/>
+Drøftelse. Det første har været behandlet paa flere Storthing, og <lb/>
+forskjellige Principer ere blevne lagte til Grund, saa at det maa ansees <lb/>
+af megen Vigtighed at faae istandbragt et Forslag, der muligens kan bringe <lb/>
+denne Sag tilende, og det saameget mere, som de kirkelige Forholde <lb/>
+lide meget under Mangelen paa Bestemmelser i denne Retning. Med disse <lb/>
+Sager har jeg baade som Medlem af Storthinget og som Biskop havt at  <lb/>
+gjøre, og jeg vover at antage, at deres Behandling rettest bør udgaae fra <lb/>
+mig, hvilket ikke vel vil kunne skee, hvis jeg kaldes til Stockholm, i <lb/>
+hvilken Anledning bemærkes, at disse Sager nu ere sendte Stiftsdirectionerne <lb/>
+og andre Autoriteter til Erklæring.</item>
+                  <lb/>
+                  <label>2.</label>
+                  <item>  Der har i længere Tid været ventileret om at istandbringe geistlige <lb/>
+Conventer, og en Indstilling herom, som Departementet har under <lb/>
+Arbeide, vil forhaabentlig om nogen Tid kunne afgives, men jeg antager, <lb/>
+at Sagens videre Ordning, navnligen Anvendelsen i de specielle Tilfælde <lb/>
+af den Resolution, som tør forventes naadigst afgiven efter Indstillingen, <lb/>
+vil kræve en fortsat Virksomhed fra Departementets Side i samme <lb/>
+Retning, hvilken synes rettest at burde overdrages mig.</item>
+                  <lb/>
+                  <label>3.</label>
+                  <item>  Det maa være af Vigtighed for mig til det første Storthing efter <lb/>
+min naadigste Ansættelse som Statsraad ogsaa at forberede de Sager, <lb/>
+der foruden Lovforslag ere af Betydenhed, saasom Anvendelsen af de  <lb/>
+betydelige Summer, der forvaltes under Kirkedepartementet, hvorved jeg vil <lb/>
+faae Anledning til nærmere at udvikle de Principer, som jeg finder at <lb/>
+burde derved lægges til Grund, og som udentvivl ville blive noget <lb/>
+forskjellige fra de hidtil befulgte.</item>
+               </list>
+               <p xml:id="p14">	Private Forhold lader jeg uberørte, da de formeentlig ikke i <lb/>
+Almindelighed kunne ventes medtagne som Momenter ved Overveielsen. Det er <lb/>
+desuden Deres Excellence tilfulde bekjendt, hvorledes Familie- og andre <lb/>
+Forhold gjøre det især for mig ønskeligt og vigtigt at kunne opholde <lb/>
+mig her i Løbet af dette og næste Aar. Jeg troer ogsaa her at burde <lb/>
+afholde mig fra at berøre de Forslag, der kunne fremsættes til Sagens <lb/>
+Ordning saaledes, at ikke jeg kaldes til Stockholm i det omhandlede <lb/>
+Tidsrum, saavelsom til Forretningernes Fordeling, forsaavidt det uagtet <lb/>
+det Ovenanførte naadigst maatte behage Hans Majestæt at bestemme, at <lb/>
+jeg skal være den første, der kaldes. Jeg tillader mig dog at bemærke <lb/>
+i Anledning af det af Deres Excellence for mig i saa Henseende omhandlede <lb/>
+Forslag, at jeg aldeles ikke med Hensyn til den midlertidige Bestyrelse, <lb/>
+Kirkedepartementet i saa Fald antages at ville faae, har nogensomhelst <lb/>
+Grund til at ønske Forandring i Forslaget; kun antager jeg, at <lb/>
+hvis ovenanførte Omstændigheder befindes at have nogen Vægt, hvis der, <lb/>
+naar Kirkedepartementet overdrages en Statsraad, der i den Anledning maa <lb/>
+fratræde sit eget Departement, kunne gjøres den Bemærkning, at han da <lb/>
+ogsaa med mindre Ulempe for det Offentlige maatte kunne have i den Tid <lb/>
+opholdt sig i Stockholm. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 7de April 1849</date>.</dateline>
+                  <lb/>
+                  <salute>Ærbødigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Riddervold</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Norges Statholder!</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,297 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>39</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 16. oktober 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 16. oktober 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p xml:id="p2">	Strax efter dens Afsendelse havde jeg den Lykke at modtage Deres <lb/>
+Majestæts naadige Skrivelse af 9de, hvorfor min hjertelige og  <lb/>
+underdanigste Taksigelse nedlægges. Den glædede mig saameget mere som jeg <lb/>
+modtog den paa Bogstad, omgivet af Venner, som deelte min Glæde over <lb/>
+Deres Majestæts lykkelige Reise. Grevinde Wedel bad sig ved denne <lb/>
+Leilighed lagt for Deres Majestæts Fødder.</p>
+               <p xml:id="p3">	Den i mit sidste ommeldte Kornprisernes pludselige Stigen, (Rug <lb/>
+fra 3 1/5 Spdl til 4 1/2 Spdl. eller 18 Rdl Rigsgeld pr Tønde)  <lb/>
+foranledigede mig til at lade Korn-Beholdningerne i Christiania Bye <lb/>
+undersøge. Uagtet disse endnu ikke ere nøiagtig opgivne, uagtet de neppe <lb/>
+ere store og Byen ikke antages at være forsynet med Rug længer end <lb/>
+een Maaned, antager dog Magistraten at kunne paaregne saa megen Tilførsel, <lb/>
+at Byens og Forstædernes Indvaanere ikke ville blive udsatte for <lb/>
+Mangel. Give Gud! at dette Haab maa vorde opfyldt.</p>
+               <p xml:id="p4">	Af en den 13de fra Amtmand Blom modtagen Rapport erfares, at der <lb/>
+i Drammen havde dannet sig Forsamlinger blandt Arbeidsclassen, som have <lb/>
+beklaget sig over, at alle Potatis opkjøbes til Brændeviinsbrænden <lb/>
+og Udførsel og som have forlangt Forbud mod disse Bedrifter, der <lb/>
+berøve Almuen en af Livets første Nødvendigheds Artikler. Herom afgiver <lb/>
+Regjeringen ved Morgenposten underdanigst Indberetning, og derhos <lb/>
+om, at den har begjært Underretninger fra flere af Rigets Egne, om <lb/>
+der paatænkes nogen saa betydelig Potates-Export, at den kunde bevirke <lb/>
+Mangel anstundende Vinter. Om dette maatte erfares at være Tilfældet, <lb/>
+antages det for Regjeringens Pligt, <hi rend="underline">saa vidt den formaaer</hi>, at afværge <lb/>
+en saa stor Calamitet. De 2de virksomste Midler: Forbud mod <lb/>
+Brændeviins-Brænden og mod Export, kan Regjeringen ifølge Grundloven's <lb/>
+17de § desværre ikke anvende, fordi begge Bedrifter ere tilladte <lb/>
+                  <hi rend="underline">ved Love</hi>, som Kongen ikke kan sætte ud af Kraft. I Belgien kan Kammerne <lb/>
+sammenkaldes i 2de Dage; medens her til et overordentligt Storthings <lb/>
+Sammenkaldelse behøves 2 Maaneder. Det eneste Middel, som levnes <lb/>
+Regjeringen mod Exporten, (medens den ikke kan forbyde <lb/>
+Brændeviinsbrænden) bliver saaledes Ophævelse af den nugjeldende <lb/>
+Indførselstold, 12 Skilling pr Tønde, og Paabud af en tilstrækkelig <lb/>
+Udførselstold. Til dette Middels Anvendelse haves formeentlig Hjemmel i <lb/>
+Grundlovens 17de § og alle Regjeringens Medlemmer ere enige om at det <hi rend="underline">bør</hi>
+                  <lb/>
+anvendes, saafremt de forventende Oplysninger maatte overbevise os om: at  <lb/>
+ikkun derved vil kunne afværges Onder, som ere større end Rigsrets <lb/>
+Domme. Først naar de forlangte Underretninger ere modtagne, vil Regjeringen <lb/>
+kunne have en bestemt Mening, men <hi rend="underline">da hver Dag er kostbar</hi>, udbeder <lb/>
+den sig, om dens ommeldte Anskuelse naadigst bifaldes, naadigst <lb/>
+bemyndiget til, paa Deres Majestæts høie Vegne, at beslutte hvad den <lb/>
+efter Omstændighederne maatte ansee nødvendigt. Ogsaa i denne Begivenhed <lb/>
+erfares det, hvor vanskeligt det er at regjere med vore constitutionelle <lb/>
+Former.</p>
+               <p xml:id="p5">	Ved Morgenposten vil afgaae underdanigst Indstilling om den bevidste <lb/>
+provisoriske Anordning betræffende Toldforholdene med Rusland. <lb/>
+Med Hensyn paa den nu forhaanden værende Rigsret paa den ene Side og <lb/>
+paa betimelig Communication til Finmarken paa den anden, udbedes <lb/>
+underdanigst at denne provisoriske Anordning ikke maa ankomme tidligere <lb/>
+og ikke sildigere hertil end med Posten den 2den November.</p>
+               <p xml:id="p6">	Jeg tillader mig nu underdanigst at vedlægge en Gjenpart af den <lb/>
+Aar 1835 af salig Hans Excellence Wetterstedt og mig afgivne Betænkning <lb/>
+over det svenske Postvæsens Fordring paa det norske, hvoraf Deres <lb/>
+Majestæt naadigst vil erfare Sagens Oprindelse og Sammenhæng.</p>
+               <p xml:id="p7">	Ligeledes tillader jeg mig underdanigst at vedlægge de Nummere <lb/>
+af Bladet "den Constitutionelle", som oplyse, hvorfor Skyds- og Vei- <lb/>
+Lovene ikke blev naadigst sanctionerede.</p>
+               <p xml:id="p8">	I mit næste haaber jeg at kunne underdanigst yttre mig om den <lb/>
+paatænkte Jernbaneforbindelse mellem Mjøsen og Christiania. <lb/>
+Imidlertid har Regjeringen ikke villet tilbageholde sin underdanigste <lb/>
+Indstilling om foreløbige Undersøgelser, som ville afgaae med  <lb/>
+Morgenposten.</p>
+               <p xml:id="p9">	En underdanigst Taksigelse vover jeg endnu at fremføre for Deres <lb/>
+Majestæt. Det Haab, som Deres Majestæt har havt den Naade at give <lb/>
+min Søn Adam, om igjen at komme i Virksomhed, har allerede oplivet <lb/>
+hans forstemte Sind og svækkede Helbred, og for denne Velgjerning <lb/>
+fremfører mit faderlige Hjerte sin underdanigste Tak.</p>
+               <p xml:id="p10">	Temperaturen er igjen bleven mildere, 7 à 10 Grader Réaumur, og <lb/>
+her er i Dag endnu saa vakkert, at om jeg var saa lykkelig at have  <lb/>
+Deres Majestæt her, vilde Holgerslyst idag være deiligt.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 16 October 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 16. oktober 1845.</supplied>
+               </head>
+               <p xml:id="p11">	Imellem det Norske og Svenske Postvæsen er opstaaet Tvist om den <lb/>
+Sum Svensk Bco. 12,648 Rd 41 Sk. som det Norske Finants Departement  <lb/>
+paastaaer, at det Svenske Postvæsen har feilagtig beregnet formeget for <lb/>
+fra Norge til Altona gjennem Sverige i Aarene 1818, 1819, 1820 og 1821 <lb/>
+befordrede Breve, hvilken Sum med Tillæg af Renter, 1/2 p.C. maanedlig <lb/>
+                  <table xml:id="table1">
+                     <row>
+                        <cell>beløbende i Sv. Banco . . . . . . . . . . . . . . . . .</cell>
+                        <cell>
+                           <hi rend="underline"> 2,726 Rd. 5 Rst.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>		  Tilsammen</cell>
+                        <cell>
+                           <hi rend="underline">15,375 Rd.10. 5. </hi>
+                        </cell>
+                     </row>
+                  </table>
+det Norske Finants-Departement har debiteret det Svenske Postvæsen i <lb/>
+Mellemregning, men hvorimod dette protesterer. Anledningen til denne <lb/>
+Tvist er efter hosfølgende Documenters Indhold følgende: Den 16de Februar <lb/>
+1815 meddeelte den Svenske Overpostdirection, at Portoen for et <lb/>
+Brev til Städerne i Danmark (altsaa Altona indbegrebet) skulde erlægges <lb/>
+med 9 1/2 Skilling Svensk Banco pr Lod og den 3die September 1821, <lb/>
+at denne Porto fra 1ste October s. A. var forhøiet til 13 Sk. Sv. Bco <lb/>
+pr Lod, hvorimod Portoen for et enkelt Brev til <hi rend="underline">Hamburg</hi>  skulde betales <lb/>
+med 1 Rd. Bco pr Lod. Ikkedestomindre har Postcontoiret i Strømstad fra <lb/>
+Begyndelsen af Aar 1818 og under Løbet af Aarene 1818, 1819, 1820 og <lb/>
+1821 debiteret det Norske Postvæsen 1 Rd Bco pr Lod for alle til Altona <lb/>
+lige med de til Hamburg adresserede Breve, hvilken feilagtige Anførsel, <lb/>
+mod hvad der efter ovennævnte den Svenske Overpostdirections <lb/>
+egne Bestemmelser skulde have været anførte, skal udgjøre en Differents <lb/>
+af ovenanførte 12,648 Rd. 41 Sk. Bco, som det Norske Postvæsen <lb/>
+har efter modtagne Regninger udbetalt til det Svenske, forinden den <lb/>
+feilagtige Anførsel var bemærket, og hvorfor, saasnart denne under <lb/>
+Regningernes endelige Revision Aar 1822 observeredes, fordredes Refusion <lb/>
+tilligemed Renter, 2,726 Rd. 17 Sk. 5.Rst. fra 1ste Januar <lb/>
+1819 til 13 October 1823.</p>
+               <p xml:id="p12">	Som meldt bemærkede Finants Departementet først under Post <lb/>
+Regnskabernes endelige Revision Aar 1822 den af Postcontoiret i Strømstad <lb/>
+ begaaede Feil, hvorom det den 11te September s. A. underrettede <lb/>
+Overpostdirectionen med Forbehold nærmere at formere Beregning <lb/>
+over den Porto, som er debiteret det Norske Postvæsen formeget for de <lb/>
+imellem Norge og Altona befordrede Breve til Liquidation i Mellemregning. <lb/>
+Under 4de October 1822 meddeelte Overpost Directionen Finants- <lb/>
+Departementet, at den efter indhentet Oplysning havde erfaret, at de <lb/>
+fra Norge over Strømstad til Altona afsendte Breve vare <hi rend="underline">af Strømstads</hi>
+                  <lb/>
+                  <hi rend="underline">Postcontoir blevne carterede til Hamburg</hi>  og at Overpostdirectionen til <lb/>
+Forebyggende <hi rend="underline">af saadan Feiltagelse</hi>  (slike misstag) havde givet  <lb/>
+Postcontoiret i Strømstad den fornødne Forskrift for Eftertiden.</p>
+               <p xml:id="p13">	Efterat Overpostdirectionen havde modtaget Beregning over det Beløb, <lb/>
+som er debiteret det Norske Postvæsen mere end den bestemte Porto, <lb/>
+har den protesteret mod dette Beløbs Erstatning paa Grund af: <lb/>
+                  <list xml:id="list14">
+                     <label>
+                        <hi rend="underline">a</hi>
+                     </label>
+                     <item>at de norske til Altona adresserede Breve ere i Strømstad blevne <lb/>
+    carterede til og sendte over Hamburg, for at blive hurtigere befordrede. <lb/>
+                     </item>
+                     <label>
+                        <hi rend="underline">b</hi>
+                     </label>
+                     <item>at Finants Departementet, uagtet det af de maanedlige Beregninger <lb/>
+har erfaret, hvad Porto der har været beregnet for Brevene til Altona, <lb/>
+ikke betimelig har gjort nogen Anmærkning derom. <lb/>
+                     </item>
+                     <label>
+                        <hi rend="underline">c</hi>
+                     </label>
+                     <item>at Tilbagebetalingen vilde foranledige Tab for det Svenske Postvæsen, <lb/>
+som i denne Begivenhed kun kan betragtes som Commissionair for det  <lb/>
+Norske.</item>
+                  </list>
+               </p>
+               <p xml:id="p15">	Mod disse Grunde har den Norske Regjering anført: <lb/>
+                  <list xml:id="list16">
+                     <label>
+                        <hi rend="underline">a</hi>
+                     </label>
+                     <item>at den Svenske Overpost Direction ikke har givet Underretning om nogen <lb/>
+truffet Foranstaltning, hvorefter Norske Breve, adresserede til Altona, <lb/>
+skulde befordres over Hamburg, en Expeditionsmaade, som Strømstads <lb/>
+Post-Contoir, propria autoritate, Overpostdirectionen og Finants <lb/>
+Departementet uafvidende, har iværksat, og som Overpostdirectionen selv i <lb/>
+Brev af 4de October 1822 har erklæret feilagtig, og at saaledes Finants <lb/>
+Departementet ikke har havt Anledning til, af Norske Correspondenter <lb/>
+at fordre anden eller større Porto for Breve til Altona end den som <lb/>
+er bestemt i Overpostdirectionens Skrivelser af 16de Februar 1815 og <lb/>
+3die Septbr. 1821. <lb/>
+                     </item>
+                     <label>
+                        <hi rend="underline">b</hi>
+                     </label>
+                     <item>at det Norske Postvæsen ikke kan have tabt Ret til Erstatning for <lb/>
+hvad der er beregnet feilagtig, fordi Feilen først efter længere Tids <lb/>
+Forløb er opdaget, da saadant er stridende mod almindeligt Regnskabs <lb/>
+Brug. <lb/>
+                     </item>
+                     <label>
+                        <hi rend="underline">c</hi>
+                     </label>
+                     <item>at det Svenske Postvæsen ikke i denne Begivenhed kan betragtes som <lb/>
+Commissionær for det Norske, men at om end saadant var Tilfældet, vilde <lb/>
+det dog ingen Indflydelse have paa Sagens Afgjørelse, saasom en <lb/>
+Commissionair ingenlunde er fritagen for at tilsvare begaaede Feil; –  <lb/>
+endelig, at om det Svenske Postvæsen har udbetalt en større Porto end <lb/>
+den i dets Skrivelser af 1815 og 1821 bestemte, bør samme falde dette <lb/>
+og ikke det Norske Postvæsen til Last.</item>
+                  </list>
+               </p>
+               <p xml:id="p17">	Af Forestaaende er det in confesso: at Finants-Departementet ved <lb/>
+Beregningen af Breve fra Norge til Altona har holdt sig nøiagtig de af <lb/>
+Overpostdirectionen givne Forskrifter efterrettelig; at Postcontoiret i <lb/>
+Strømstad ikke har fulgt disse Forskrifter, men istedetfor, i <lb/>
+Overeensstemmelse med disse, at skulle have sendt Norske til Altona  <lb/>
+adresserede Breve directe did, og derfor beregnet respective 9 1/2 og  <lb/>
+13 Skil. Svensk Banco pr Lod, har carteret dem til Hamburg og derfor  <lb/>
+beregnet 1 Rd. Banco pr Lod, ved hvilken feilagtige Expeditions- og <lb/>
+Beregningsmaade hiint Postcontoir har debiteret det Norske Postvæsen <lb/>
+12,648 Rd. 41 Skil. mere end efter Overpostdirectionens Forskrifter burde <lb/>
+været skeet; at Finants Departementet har anmeldt oftnævnte Postcontoirs <lb/>
+feilagtige Expeditions- og Beregningsmaade, saasnart den opdagedes, <lb/>
+hvilket først kunde skee med Post Regnskabernes endelige Revision, saasom <lb/>
+det først af de derved fremlagte Karter kunde erfares, at de omhandlede <lb/>
+Breve <hi rend="underline">vare adresserede til Altona</hi>  og <hi rend="underline">saaledes</hi>  urigtigen karterede <lb/>
+over Hamburg; og endelig, at Overpost-Directionen selv i Brev af 4de <lb/>
+October 1822 har erkjendt denne Expeditions og Beregningsmaade for en <lb/>
+Feil (Et misstag).</p>
+               <p xml:id="p18">	Vel havde det været ønskeligt, at Finants Departementet tidligere <lb/>
+havde opdaget og anmeldt den begaaede Feil; men dette kunde neppe skee <lb/>
+før ved Regnskabernes endelige Revision, som maa dependere af  <lb/>
+Omstændighederne og hvorfor ingen Tid er foreskrevet. Overpost Directionen <lb/>
+kunde maaskee snarere havt Anledning til betimelig at have opdaget den <lb/>
+af det samme underordnede Postcontoir iværksatte feilagtige Expeditions- <lb/>
+og Beregningsmaade. I alle Fald kan en tidligere eller sildigere Opdagelse <lb/>
+af en begaaet Regnskabsfeil ikke formindske eller tilintetgjøre <lb/>
+den Forurettedes Ret til Erstatning. Den ene Part har ikke erkjendt <lb/>
+Rigtigheden af den Andens Beregning ved foreløbige Udtællinger. Saadan <lb/>
+Erkjendelse kan først afgives, efterat den anden Parts givne Mellemregning <lb/>
+(som imellem Mand og Mand sædvanlig afgives med den paategnede Reservation <lb/>
+S. E.&amp; O.) med dertil hørende Bilage er bleven revideret.</p>
+               <p xml:id="p19">	Følgelig den Norske Regjerings Indstilling af 16de Januar 1824, <lb/>
+har Finants Departementet beregnet Renter af den formeget udbetalte Sum, <lb/>
+efter de samme Regler, hvorefter det norske Postvæsen har betalt Renter <lb/>
+for dets Gjæld til det Svenske, og denne Beregning kan ikke skjønnes <lb/>
+ubeføiet.</p>
+               <p xml:id="p20">	Under disse Omstændigheder indsees ikke, at nogen, være sig <lb/>
+svensk eller norsk Domstol vil kunne frakjende det norske Postvæsen <lb/>
+Erstatning af den Sum, som dette ifølge en uhjemlet Expedition og der <lb/>
+deraf følgende feilagtig Porto-Beregning, har betalt for Befordring af <lb/>
+Norske Breve til Altona i Aarene 1818,1819,1820 og 1821, mere end <lb/>
+bestemt var ved Overpostdirectionens Skrivelser af 16de Februar 1815 <lb/>
+og 3die September 1821, med Renter af denne Sum fra den Tid den har <lb/>
+været udbetalt og indtil den i Mellemregning er bleven liquideret, <lb/>
+efter samme Regler, som det Norske Postvæsen har betalt til det Svenske, <lb/>
+naar dette har staaet i Forskud for hiint; men om dette mod Formodning <lb/>
+ikke skulde kunne erkjendes og naadigst Resolution til Bifald <lb/>
+af den Norske Regjerings Paastand ikke kunne afgives, da skjønnes intet <lb/>
+andet Middel til at faae Ende paa Tvisten end at den svenske  <lb/>
+Overpostdirection autoriseres til at sagsøge det Norske Finants <lb/>
+Departement for dettes Værnething for den omtvistede Sum og derfor <lb/>
+beregnede Renter.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

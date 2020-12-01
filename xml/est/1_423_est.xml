@@ -1,0 +1,117 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>423</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. januar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. januar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Af min sidste underdanigste Rapport vil Deres Majestæt naadigst <lb/>
+have erfaret, at jeg ikke tidligere kunde have den Ære at afgive de <lb/>
+i Deres Majestæts naadige Skrivelse af 19de befalede Oplysninger.</p>
+               <p xml:id="p2">	Jeg takker underdanigst for Deres Majestæts naadige Meddelelse <lb/>
+af 2den denne Maaned om Øieblikkets politiske Forholde, som var mig <lb/>
+ligesaa uventede som de ere nedslaaende. Jeg formener nemlig at  <lb/>
+Fortsættelsen af den udbrudte Krig og dens deraf følgende Omsiggriben, <lb/>
+under de nærværende politiske Stillinger er i høi Grad beklagelig og <lb/>
+faretruende; beklagelig for den blomstrende industrielle Virksomheds <lb/>
+Udvikling, faretruende fordi den kalder de kuede revolutionnaire  <lb/>
+Elementer tilbage til nye Virksomhed. Jeg frygter mindre de Ulykker, som <lb/>
+en Krig imellem Stater kan medføre end Følgerne af en ny Krig mellem <lb/>
+Stater, Regjeringer og infernale revolutionaire Partiemænd og de <lb/>
+revolutionaire Masser, som disse ville sætte i ny Bevægelse. Denne Fare <lb/>
+truer mere eller mindre alle Stater, den kan for Alle bringe de <lb/>
+ulykkeligste Følger, og i Betragtning heraf, haabede jeg at Alle vilde <lb/>
+bringe store Offere, for at afværge den, at de nye Anstrængelser <lb/>
+i denne Retning vare ærlige og vilde blive kronede med Held. Jeg <lb/>
+beklager meget, at mit Haab sandsynlig vil blive skuffet!</p>
+               <p xml:id="p3">	Fra disse politiske Betragtninger, som jeg underdanigst anbefaler <lb/>
+til naadig Overbærelse, tillader jeg mig at gaae over til vore Gud <lb/>
+skee Lov! smaa norske Anliggender.</p>
+               <p xml:id="p4">	Med Morgenposten afgaaer underdanigst Indstilling om Besættelsen <lb/>
+af Generalauditeur Embedet, hvortil Armee Departementet har indstillet <lb/>
+Auditeur ved første Brigade, Dahl, – Regjeringen derimod Justitiarius <lb/>
+i Agershuus Stiftsoverret, Diriks. Til dette vigtige, det høieste <lb/>
+militaire Dommer Embede, udkræves udmærkede juridiske Kundskaber, <lb/>
+især i den militaire Ret og en <hi rend="underline">paalidelig</hi>  Characteer. Det erkjendes, <lb/>
+at begge de nævnte Mænd have den første Egenskab, maaskee Diriks i noget <lb/>
+høiere Grad, paa Grund af, at han har fungeret saavel i militaire <lb/>
+som civile Dommer Embeder, og almindelig tillægges Diriks en  <lb/>
+paalideligere støere Caracteer end Dahl. Jeg tillader mig underdanigst at <lb/>
+yttre, at Diriks formeentlig vil være det bedste Valg.</p>
+               <p xml:id="p5">	Da det uforskammede Morgenblad i denne Anledning beretter, at <lb/>
+Statsraad Bloch har debuteret slet, tillader jeg mig underdanigst at <lb/>
+bemærke, at der oftere indtræffer Dissents i Regjeringen om Udnævnelser <lb/>
+til Embeder og at General Bloch har debuteret ganske godt som Statsraad.</p>
+               <p xml:id="p6">	Armee-Departementets Chef har ved at foredrage et Avancement i <lb/>
+Cavallerie Brigaden indstillet, at en Esquadrons Chef, Ritmester Schyren <lb/>
+naadigst maa blive udnævnt til Major i Armeen, hvilket (jeg siger <lb/>
+det med Undseelse) har været omdiscutteret i 2de Statsraads-Sessioner.</p>
+               <p xml:id="p7">	Manden er 66 Aar gammel, har tidligere afslaaet at blive Corpschef <lb/>
+og har de hæderligste Vidnesbyrd; men jeg har forgjæves kjæmpet <lb/>
+for dette uskyldige Avancement. Jeg opnaaede sluttelig, at Ingen vilde <lb/>
+erklære saadan Udnævnelse til en høiere Grad i Armeen grundlovstridig, <lb/>
+og at Alle bleve enige om, at ville tiltræde Indstillingen, saafremt <lb/>
+                  <hi rend="underline">Ingen</hi>  vilde dissentere; men dette kunde ikke bevæge vor haardhjertede <lb/>
+geistlige Statsraad. Regjeringens deraf følgende Indstilling <lb/>
+mod Armee Departementets, er dog saa svag og mat, at den ikke bør  <lb/>
+kunne hindre Deres Majestæt fra naadigst at bifalde den sidstnævnte.</p>
+               <p xml:id="p8">	Jeg takker underdanigst for den mig ved Grev Lewenhaupt naadigst <lb/>
+tilsendte interessante Brochure, betræffende Spærring mod Cholera.</p>
+               <p xml:id="p9">	Sluttelig tillader jeg mig underdanigst at tilbagekalde i Deres <lb/>
+Majestæts naadige Erindring, mit underdanige Forslag af 19de Mai  <lb/>
+forrige Aar om Spærring mod tilkommende Interims-Regjeringer, som ogsaa <lb/>
+ere en Landeplage.</p>
+               <p xml:id="p10">	I Dag feires i Stadens og Omegnens Kirker en Takkefest for <lb/>
+Choleraplagens Ophør.</p>
+               <p xml:id="p11">	Vi have siden Nyaar faaet en tilstrækkelig Mængde Snee og er Kulden, <lb/>
+som hidindtil i Vinter har været meget moderat, i Dag steget til <lb/>
+13 à 14 Grader Reaumur. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Januar 1854. </date>
+                  </dateline>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute> underdanigst						</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

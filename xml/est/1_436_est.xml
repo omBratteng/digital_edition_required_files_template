@@ -1,0 +1,110 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>436</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 5. mars 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 5. mars 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efterat jeg ved sidste Post har besværet Deres Majestæt med <lb/>
+2de underdanige Rapporter, af 2den og en Ditto af 3die denne Maaned, <lb/>
+er jeg undseelig over atter i Dag at fornye dette Besvær.</p>
+               <p xml:id="p2">	Anledningen hertil er et Andragende af IndreDepartementets Chef, <lb/>
+Statsraad Stang, efter Overlæg med mig, til Hs. Excellence  <lb/>
+Udenrigsministeren, betræffende den Trafik, som siden ældgammel Tid finder <lb/>
+Sted imellem Finmarkens Kystbeboere og russiske Undersaatter i  <lb/>
+Gouvernementet Archangel og som har funden Beskyttelse ved vor Lovgivning.</p>
+               <p xml:id="p3">	Denne Trafik bestaaer i, at russiske Bønder fra Districterne <lb/>
+omkring det hvide Hav, i deres egne smaa Fartøier, kalded "Lodjer", <lb/>
+bringe deres Producter, hovedsagelig bestaaende i Ruugmeel, i Fisketiden <lb/>
+til Finmarken, og omtuske disse mod Fisk, som Russerne selv <lb/>
+salte og føre tilbage. Denne simple Tusk Handel er som Handels Gjenstand <lb/>
+vist nok meget ubetydelig; men af saa stor Betydenhed for Finmarkens <lb/>
+fattige Kystbeboere, at deres Existence beroer paa deres uforstyrrede  <lb/>
+Vedligeholdelse, da den byder dem det eneste Middel til at <lb/>
+kunne afsætte deres Fisk mod Vederlag i Livets Nødvendigheds Artikler: <lb/>
+Korn og Meel.</p>
+               <p xml:id="p4">	Fra denne Synspunkt turde de Krigførende Magter ville betragte <lb/>
+det som en christelig Humanitetssag, at lade denne Tuskhandel være <lb/>
+uforstyrret, og det er i denne Retning man underdanigst vover at udbede <lb/>
+Deres Majestæts naadige Intervention hos de krigførende Magters <lb/>
+Regjeringer.</p>
+               <p xml:id="p5">	Regjeringens officielle underdanigste Indberetning om Storthingets <lb/>
+Bifald til den foreslaaede Pengebevilgning, vil afgaae med Morgenposten. <lb/>
+Denne Bevilgning er clausuleret "til <hi rend="underline">uomgjængelig nødvendige</hi>
+                  <lb/>
+Udgifter til Neutralitetens Opretholdelse".</p>
+               <p xml:id="p6">	Denne samme Anskuelse har Deres Majestæt meddeelt det hemmelige <lb/>
+Utskott, og jeg har derfor ogsaa yttret den for det norske hemmelige <lb/>
+Udvalg.</p>
+               <p xml:id="p7">	Derefter er det dobbelt nødvendigt, at Udgifterne for Udrustningerne <lb/>
+indskrænkes meest muligt, til de <hi rend="underline">uomgjængelig nødvendige</hi>.</p>
+               <p xml:id="p8">	Det var med Hensyn herpaa, at jeg i min sidste underdanigste <lb/>
+Rapport tillod mig den underdanige Bemærkning, at det formeentlig <lb/>
+haster mindre, med at mobilisere vor lille norske Armee, som vilde <lb/>
+kræve Summer, hvorimod den nu begjærte og bevilgede Sum maatte ansees <lb/>
+som en Draabe i Havet. Blot at gjøre 3,000 Mand <hi rend="underline">marschfærdige</hi>, vil <lb/>
+efter Statsraad Blochs Sigende, koste 150,000 Species!</p>
+               <p xml:id="p9">	Den eneste Fare, mod hvilken den mobile norske Armee skulde <lb/>
+bruges, kan jeg kun tænke mig fra Rusland; men det vil forhaabentlig <lb/>
+stride mod Keiserens Interesse at forøge sine Fienders Antal, som er <lb/>
+stort nok. Jeg formener derfor, at man bør udsætte med at anvende <lb/>
+store Summer til Armeens Equipering, indtil de ydre Forholde maatte <lb/>
+vise det mere nødvendigt end Øieblikkets Omstændigheder nu synes at <lb/>
+fordre.</p>
+               <p xml:id="p10">	For Tiden har Deres Majestæts Færd og Holdning Folkets hele <lb/>
+Sympathie; men den kunde svækkes, tabes, om Udgifter gjordes tidligere <lb/>
+end nødvendig, hvis Hensigtsmæssighed og Nødvendighed ikke kunde <lb/>
+erkjendes.</p>
+               <p xml:id="p11">	Det ligger mig paa Hjertet, paa Samvittigheden, at fremføre <lb/>
+disse underdanige Bemærkninger, som jeg tør haabe naadigst modtagne, <lb/>
+da Deres Majestæt siden en lang Aarrække kjender det trofast <lb/>
+hengivne Hjerte, hvorfra de have sit Udspring. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te Marts 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

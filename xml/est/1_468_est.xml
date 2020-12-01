@@ -1,0 +1,101 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>468</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. september 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. september 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	I min sidste underdanigste Rapport af 21de denne Maaned yttrede <lb/>
+jeg Haab om, at Toldcasserer Lange nu strax maatte blive naadigst <lb/>
+udnævnt til Statsraad og jeg vil tillade mig at tilbagekalde de <lb/>
+Omstændigheder, som berettigede mig til dette Haab.</p>
+               <p xml:id="p2">	Erindrende de Vanskeligheder og ubehagelige Forviklinger, som <lb/>
+foranledigedes ved, at Deres Majestæt forrige Aar lod affordre det <lb/>
+samtlige Statsraad en confidentiel Betænkning, ved Besættelse af en <lb/>
+da ledig Statsraadspost, troede jeg at burde søge saadanne Ubehageligheder <lb/>
+afværgede i lignende Begivenhed nu. Fra denne Synspunkt indskrænkede  <lb/>
+jeg mig til at conferere med Statsraaderne Vogt, Bretteville <lb/>
+og senere Krog om Besættelse af en ledigblivende Statsraadspost <lb/>
+og tillod mig efter Overlæg med dem, dertil underdanigst at foreslaae <lb/>
+Toldcasserer Lange.</p>
+               <p xml:id="p3">	Dette mit underdanigste Forslag behagede Deres Majestæt under <lb/>
+12te Julii naadigst at bifalde, med naadigst Bemyndigelse til derom <lb/>
+at gjøre Lange confidentielt Tilbud hvilket af ham, efter en længere <lb/>
+Underhandling blev antaget i en Skrivelse, som jeg gav mig den Ære <lb/>
+underdanigst at tilsende Deres Majestæt, og som Deres Majestæt i en <lb/>
+naadig Skrivelse til mig af 14de August i Eet og Alt naadigst bifaldt.</p>
+               <p xml:id="p4">	Derefter troede jeg at kunne ansee denne Sag afgjort og tog ikke <lb/>
+i Betænkning, <hi rend="underline">som saadan</hi>  at meddele den til Lange, hvem det var <lb/>
+magtpaaliggende at kunne tage nødvendige Forholdsregler for sin nye <lb/>
+Bestemmelse.</p>
+               <p xml:id="p5">	Under 24de August udbad jeg underdanigst, at Deres Majestæt, <lb/>
+                  <hi rend="underline">paa samme Tid</hi>  naadigst vilde udnævne Lange til Statsraad og Sylow  <lb/>
+til Toldcasserer, hvilket Deres Majestæt i en naadigst Skrivelse til <lb/>
+mig af 28de August naadigst behagede at bifalde, med Tilføiende herom <lb/>
+at ville afgive naadig Beslutning, naar Regjeringens Indstilling <lb/>
+om Besættelsen af Toldcasserer Embedet i Laurvig blev foredraget.</p>
+               <p xml:id="p6">	Da denne Indstiling blev afsendt til Stockholm den 13de denne <lb/>
+Maaned, ved Coureer, var jeg efter det Passerede beføiet til, ved den <lb/>
+i Gaar Aftes fra Stockholm ankomne Post at vente Langes Udnævnelse, <lb/>
+men modtog, i Stedet for den forventede Udnævnelse, en Protocol, hvori <lb/>
+gives Statsraad Sylow Reise Tilladelse og Statsraad Vogt Befales, ved <lb/>
+Riddervolds Afreise, at overtage Kirke-Departementet, som var bestemt <lb/>
+for Lange.</p>
+               <p xml:id="p7">	Lange er i Forventning af sin Udnævnelse forblevet her og har <lb/>
+gjort de nødvendige Forberedelser for sit Etablissement her; – han <lb/>
+som jeg er nu compromitteret, og det vil ikke forundre mig, om han <lb/>
+tilbagekalder sit Engagement, hvorfra han, ved den nu trufne  <lb/>
+Foranstaltning synes degageret. Jeg vil imidlertid, i Forventning af  <lb/>
+nærmere Oplysning, søge at berolige Lange.</p>
+               <p xml:id="p8">	Den igaar modtagne Statsraads Protocol, er dateret Drotningholm <lb/>
+                  <hi rend="underline">den 7de September</hi>; men efter Stockholms Post Stempel, først afsendt <lb/>
+derfra <hi rend="underline">den 21de September</hi>. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de September 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

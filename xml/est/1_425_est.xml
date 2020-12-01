@@ -1,0 +1,92 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>425</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 19. januar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 19. januar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p xml:id="p2">	Anledningen til, at jeg idag maa tillade mig at besvære Deres <lb/>
+Majestæt, er Marine Commandoens store Trang til at vide, hvorledes den <lb/>
+maa kunne disponere over Søofficiererne til Tjenstgjøring, i forskjellige <lb/>
+Retninger næste Foraar.</p>
+               <p xml:id="p3">	Det er magtpaaliggende for Commandoen at kunne i Tide bestemme, <lb/>
+hvilke Officierer der ville behøves til Tjenstgjøring paa de udrustende <lb/>
+Krigsskibe og dernæst om de for Statens Dampskibe nødvendige <lb/>
+Søofficierer under nærværende Omstændigheder maa som sædvanlig kunne <lb/>
+permitteres til denne Tjenstgjøring.</p>
+               <p xml:id="p4">	Statens Dampskibe have stedse havt Premier Lieutenanter til Førere <lb/>
+og Second Lieutenanter til Styrmænd, hvilket har givet disse Officierer <lb/>
+en gavnlig Beskjæfigtelse, forbunden med en god Fortjeneste og <lb/>
+væsentlig bidraget til disse kostbare Dampskibes heldige Fart. Det <lb/>
+er saaledes saavel for Statens som Søetatens Tarv høist ønskelig at <lb/>
+dette Forhold maa kunne vedvare, men herom maa Beslutning <hi rend="underline">nu</hi>  afgives <lb/>
+og <hi rend="underline">kan ikke udsættes</hi>, fordi Indre-Departementets Chef, i Mangel af <lb/>
+Sikkerhed for at kunne som sædvanlig faae Søofficierer til Dampskibene, <lb/>
+ikke tør udsætte med at engagere Coffardi Capitainer og Styrmænd, <lb/>
+som senere neppe vilde kunne findes.</p>
+               <p xml:id="p5">	I Hensigt at kunne i disse Henseender tage de nødvendige <lb/>
+Bestemmelser, udbeder Statsraad Erichsen underdanigst, at Deres Majestæt, <lb/>
+om ikke strax officielt, saa dog confidentielt gjennem mig, vil foreløbig <lb/>
+give ham naadig Meddelelse, om den Norske Søstyrke, som paatænkes <lb/>
+udrustet, hvorefter han vil kunne bestemme de dertil behøvende <lb/>
+Officierer, og hvorvidt andre maa kunne permitteres til Statens <lb/>
+Dampskibe.</p>
+               <p xml:id="p6">	Med Henhold til min sidste underdanige Rapport, tillader jeg mig <lb/>
+underdanigst at bemærke, hvad jeg senere har erfaret, at 3 norske <lb/>
+Søofficierer for Tiden ere ansatte og tjenstgjørende paa den franske <lb/>
+Flaade i det sorte Hav, af hvem vel de væsentligste Oplysninger maa <lb/>
+kunne ventes, som attraaedes erhvervede ved andre særlig sendte  <lb/>
+Officierer.</p>
+               <p xml:id="p7">	Da vore Politielove forbyde Dands Løverdag, agter jeg ved en Bal <lb/>
+Søndag den 22de at feire Hans Kongelige Høihed Prinds Oscars høie <lb/>
+Fødselsdag, hvortil min underdanigste Lykønskning nedlægges. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19de Januar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

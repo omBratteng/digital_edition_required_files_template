@@ -1,0 +1,101 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>377</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. mars 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. mars 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Den 21de om Aftenen blev jeg haardt angrebet af Steensmerter, som <lb/>
+i de senere Aar oftere har forvoldt mig Lidelser. Sygdommen vedvarede <lb/>
+uafbrudt den hele forrige Uge, indtil den 27de, da den culminerede <lb/>
+og jeg ved Lægehjelp, Gud skee Tak! blev befriet fra mine svære Lidelser, <lb/>
+hvoraf jeg nu kun føler Efterveer.</p>
+               <p xml:id="p3">	Jeg tillader mig underdanigst at berøre denne Ubetydelighed, fordi <lb/>
+den forhindrede mig fra med sidste Post at bevidne min underdanige <lb/>
+Taknemmelighed for Deres Majestæts naadige Skrivelse af 21de, som <lb/>
+glædede mig dobbelt, fordi den, Gud skee Tak! bærer Præget af en god <lb/>
+Helbredelse. Jeg smigrer mig med det kjære Haab, at denne vil opnaaes <lb/>
+fuldkommen i den blide Aarstid og ved Hjelp af nervestyrkende Søebad, <lb/>
+som jeg indstændigen vover at anbefale <hi rend="underline">med Tilsidesættelse af alle</hi>
+                  <lb/>
+                  <hi rend="underline">andre Hensyn</hi>.</p>
+               <p xml:id="p4">	Vinteren synes, Gud skee Tak! nu at lakke til Ende. Den har været <lb/>
+meget ustadig; men gunstig for Rørelsen og Næringsveiene paa Landjorden <lb/>
+og paa Havet. Foraarsrørelsen begynder under gunstige Aspecter.  <lb/>
+Gud holde Sin beskyttende Haand over Keiser Napoleon og de Flere <lb/>
+for Verdens Fred dyrebare Liv, hvortil jeg ikke kan henregne Lord <lb/>
+Palmerstone.</p>
+               <p xml:id="p5">	Statsraad Motzfeldt, som i de senere Aar har havt flere apoplectiske <lb/>
+Tilfælde, der have nødsaget ham til at bruge Stok i Værelset, <lb/>
+har havt den Ulykke at falde paa Gulvet og brække et Laarbeen, som <lb/>
+ansees livsfarlig.</p>
+               <p xml:id="p6">	Handelshuset Heine, der, ifølge min tidligere underdanige Indberetning, <lb/>
+allerede før har optaget 100,000 Spdr. af den ved Statslaanet <lb/>
+af 1851 stipulerede Optionssum, har nu paa de samme for den norske <lb/>
+Statscasse fordeelagtige Vilkaar som forhen, atter optaget 100,000 <lb/>
+Speciedaler.</p>
+               <p xml:id="p7">	Den norske dramatiske Skoles Theater gav den 29de denne Maaned <lb/>
+en Fest Forestilling i Anledning af Deres Majestæts lykkelige Helbredelse, <lb/>
+hvortil Ordene vare forfattede af Pastor Jensen. Forestillingen, <lb/>
+som blev givet for fuldt Huus, blev optaget med stor Enthousiasme, – <lb/>
+ligesom den blev overværet af flere af Regjeringens Medlemmer <lb/>
+og Hoffets Personale, som vare Indbudne.</p>
+               <p xml:id="p8">	I Forbindelse med min tidligere underdanige Correspondance om <lb/>
+vort herværende offentlige Theater, troer jeg at burde føre Anke over <lb/>
+en i den Svenske Post- och Inrikes Tidning No 71 indtagen Meddelelse <lb/>
+om Opførelsen af Don Juan. Det er en Usandhed, at denne Opera blev <lb/>
+givet paa en elendig Maade; det er en Usandhed, at Publicum udpeb <lb/>
+Stykket; Sandheden er den, at denne Opera laae over vor Scenes Kræfter, <lb/>
+hvilket man forud burde have betænkt, og at den derfor blev givet <lb/>
+mat; men Publicum hverken tabte Taalmodigheden eller udpeb  <lb/>
+Forestillingen. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te Marts 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>345</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. februar 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. februar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efter min sidste underdanigste Rapport af 1ste denne Maaned, har <lb/>
+jeg modtaget Grev Lewenhaupts Brev af 2den, som foranlediger mig til  <lb/>
+underdanigst at bemærke, at Aarsagen til min Taushed fra den 18de <lb/>
+Januar til den 1ste Februar, var deels, at jeg, uden at være syg, var <lb/>
+mindre vel og lidende, deels, at jeg daglig ventede at kunne underdanigst <lb/>
+melde Noget om Lappesagens Behandling, som af Indre Departementet <lb/>
+blev udsat fra det ene Statsraad til det andet.</p>
+               <p xml:id="p2">	I Anledning af den mig sendte Skrivelse fra H. Harring, tillader <lb/>
+jeg mig underdanigst at vedlægge den Oplysning om Personen, som <lb/>
+Politiemesteren, Kammerherre Morgenstjerne, har kunnet give. Han, som jeg, <lb/>
+formodede Brevet bestemt for en her bosat Tømmermester Struck, men som <lb/>
+ikke vil vedkjende sig det. Denne Struck, tydsk af Fødsel, var som <lb/>
+Tømmersvend i Warschau under Revolutionen 1830, gjennemgik der den <lb/>
+revolutionnaire Lære, har i en Deel Aar været bosat her, og er Formand <lb/>
+i den her for flere Aar tilbage af G. Fein stiftede Forening under <lb/>
+Benævnelsen "Germania".</p>
+               <p xml:id="p3">	Jeg beklager, at Grev Wrangel ikke har meddeelt, til hvem Harrings <lb/>
+Brev er adresseret, som formeentlig ikke kan være vanskelig for <lb/>
+ham at erfare og som vilde give Lys i Sagen.</p>
+               <p xml:id="p4">	Jeg vil nu tillade mig underdanigst at berøre 2de Gjenstande, <lb/>
+med underdanigst Bøn om, at de maa forblive for Deres Majestæt alene.</p>
+               <p xml:id="p5">	Det er i de senere Aar bleven en Vedtægt, at et Par Avisredactioner <lb/>
+i Statssecretariatet have faaet Meddelelse om Regjeringens Indstillinger <lb/>
+til Embeders Besættelse, saa snart de ere afgaaede til <lb/>
+Stockholm, – <hi rend="underline">som de da strax publicere</hi>.</p>
+               <p xml:id="p6">	Denne Vedtægt er, saavidt jeg har kunnet erfare, foranlediget <lb/>
+af Statsraad Vogt, som har en overdreven Tilbøielighed for Publicitet <lb/>
+i alle Begivenheder; – men som i denne, som i flere Begivenheder medfører <lb/>
+mangehaande Ulemper. Meddelelsen til 2de Avisredactioner foranlediger <lb/>
+Jalousie hos og lige Fordring af de andre, som nu ere saa mange, <lb/>
+at det vilde blive besværligt for Statssecretariatet at tilfredsstille <lb/>
+dem alle. Den utidige Publication foranlediger utidig Raisonnement i <lb/>
+Aviserne, forinden Deres Majestæt har afgivet Resolution. Vi finde <lb/>
+det mindre passende, at Sager, som foredrages Deres Majestæt til  <lb/>
+Afgjørelse, meddeles Publicum, forinden de af Deres Majestæt ere afgjorte, <lb/>
+og endelig releverer Statsraad Riddervold den mislige Indflydelse, <lb/>
+som det har paa Forholdet imellem Præster og Menigheder, at disse erfare, <lb/>
+at hine have søgt Forflyttelse, uden at opnaae den, som dog kun <lb/>
+kan blive Tilfældet for een af de 3de Indstillede.</p>
+               <p xml:id="p7">	Alle Regjeringens Medlemmer ere derfor enige om, at den utidige <lb/>
+Publication er en Uskik, som bør afskaffes og reduceres til at meddele, <lb/>
+hvem Deres Majestæt naadigst har udnævnt til et Embede, uden at <lb/>
+publicere de øvrige af Regjeringen nævnte Candidater.</p>
+               <p xml:id="p8">	Vi troe imidlertid ikke at burde forandre den ommeldte indførte <lb/>
+Uskik uden Deres Majestæts Vidende og naadigste Bifald, som jeg efter <lb/>
+Regjeringens eenstemmige Ønske tillader mig underdanigst at udbede mig <lb/>
+naadigst meddeelt.</p>
+               <p xml:id="p9">	De fra de Kongelige Regjerings Departementer udgaaende Skrivelser <lb/>
+have alle en trykt Overskrift, lydende til Exempel: "Det <hi rend="underline">Kongelige</hi>
+                  <lb/>
+Kirke Departement". Denne Form er stedse befulgt og bliver fremdeles <lb/>
+befulgt af alle Regjerings Departementer, undtagen af Justits- og Armee- <lb/>
+Departementerne, i hvis Overskrifter Ordet "<hi rend="underline">Kongelig</hi>" i den senere <lb/>
+Tid er udeladt, saa at Skrivelsen lige vel kan antages udgivet af den <lb/>
+Norske Republik som af den <hi rend="underline">Kongelig</hi>  Norske Regjerings Justits-Departement.</p>
+               <p xml:id="p10">	Herpaa gjort opmærksom, omtalede jeg Sagen med vedkommende Departements <lb/>
+Chefer, Statsraaderne Petersen og Sørenssen, som begge erklærede, <lb/>
+at den skeede Udeladelse af Ordet "Kongelig" er undgaaet Deres <lb/>
+Opmærksomhed, og at det igjen vil blive indtaget i nye Blanquetter, <lb/>
+naar de nu havende ere forbrugte; hvorimod jeg formener, at de  <lb/>
+paaankede Blanquetter strax bør casseres; thi Formforandringen maa <lb/>
+Departements-Cheferne uafvidende være iværksat af Underordnede, og disse <lb/>
+bør strax erfare, at Misbrug ikke taales, naar de ere bemærkede.</p>
+               <p xml:id="p11">	For Tiden udbeder jeg underdanigst, at Deres Majestæt naadigst <lb/>
+vil ignorere denne Sag, som jeg blot har troet at burde underdanigst <lb/>
+meddele, for at forvisse mig om, at Deres Majestæt naadigst vil bifalde <lb/>
+min Anskuelse, forinden jeg gjør den gjældende, som derefter ikke <lb/>
+vil møde nogen Vanskelighed.</p>
+               <p xml:id="p12">	Jeg vover at modsee den i min underdanigste Rapport af 18de <lb/>
+forrige Maaned udbedede naadige Reisepermission, hvortil Tiden nærmer <lb/>
+sig. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12 Februar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 12. februar 1852</supplied>
+               </head>
+               <opener>CHRISTIANIA POLITIKAMMER. <lb/>
+                  <salute>Deres Excellence</salute>
+               </opener>
+               <p xml:id="p13">	Saavidt jeg har kunnet erfare, har Haro Harring siden hans Udviisning <lb/>
+i 1850 kun staaet i Correspondance her i Landet, med Bygmester <lb/>
+Struck, Musiklærer Neupert, Prokurator Gaarder og en Skibscapitain <lb/>
+Hjorth, hvilken sidste, der med sit Skib farer paa Hull, flere Gange <lb/>
+har besøgt ham paa sidstnævnte Sted. De tre førstnævnte Mænd havde <lb/>
+paataget sig at sælge Haro Harrings efterladte Effekter, fornemmmelig <lb/>
+bestaaende i Malerier, for hvilke, 16 i Tallet, han forlangte 160 Spd. <lb/>
+De bleve imidlertid kun udbragte til 6 Spd. og da Capitaine Hjorth  <lb/>
+overbragte ham dette Beløb og fandt ham i den elendigste Forfatning paatog  <lb/>
+han sig ved sin Hjemkomst at aabne en Subscription, hvilket han ogsaa  <lb/>
+gjorde, og hvorved der kom ind 32 Spd der igjennem Vice Consul Crowes  <lb/>
+Forsorg bleve Harring tilstillede i engelsk Mynt. Bygmester Struck, med  <lb/>
+hvem jeg igaar har talt om denne Sag og som jeg har Anledning til at troe, <lb/>
+at jeg tør stole paa, især i nærværende Øieblik, forsikkrede mig at saavidt <lb/>
+ham bekjendt har Ingen her i Landet hørt noget fra Harring senere end  <lb/>
+August Maaned f. A. med Undtagelse af Capitaine Hjorth; der paa hver Reise  <lb/>
+til Hull besøgte ham. Betræffende Haro Harrings Skrivelse dateret London den <lb/>
+14de December 1851, saa fandt han sig overbeviist om at den ikke er <lb/>
+stilet til Nogen her i Landet, men til en Mand i Hamburg. Med Undtagelse <lb/>
+af "Nothmann", som er bosat i sidstnævnte Stad, kjendte han ikke  <lb/>
+et eneste af de i Skrivelsen anførte Navne.</p>
+               <p xml:id="p14">	Harring blev i Høst nødsaget til at forlade Hull da han paa Grund <lb/>
+af en mod sin Vært begaaet Skjændselsgjerning havde udsat sig for <lb/>
+at lide corporlig Molest af bemeldte Værts mange Venner. Historien <lb/>
+der ikke er interressant nok til at jeg tør tillade mig dermed at  <lb/>
+opholde Deres Excellence, er af lumpneste og gemeneste Sort og har, <lb/>
+efter Bygmester Strucks Sigende, vendt al Sympathie fra ham, selv hos <lb/>
+de først, i nærværende Skrivelse nævnte Personer.</p>
+               <p xml:id="p15">	Til Capitaine Hjorth skal forøvrigt Haro Harring have yttret <lb/>
+at han vilde gjøre sig al Umage for at formaae politiske Flygtninge <lb/>
+til at bosætte sig i Sverrig og i Norge, hvorved han i det mindste <lb/>
+opnaaede at forskaffe Regjeringen og Politiet Bryderie. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <lb/>
+                     <date>den 12te Febr 1852</date>
+                  </dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+ m.m. v. Løvenskiold</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

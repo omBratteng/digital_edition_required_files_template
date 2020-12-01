@@ -1,0 +1,211 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>117</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 19. november 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 19. november 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 5te denne Maaned har jeg <lb/>
+havt den Ære at modtage Deres Majestæts naadigste Meddelelse ved Greve <lb/>
+Lewenhaupt af 8de og naadigste Skrivelse af 11te, hvorfor jeg nedlægger <lb/>
+min underdanigste Taksigelse.</p>
+               <p xml:id="p2">	Deres Majestæts Anskuelser, om Nytten og Hensigtsmæssigheden af <lb/>
+Foranstaltninger mod Cholera Sygdommens Indtrængen i Landet, har jeg <lb/>
+uden Ophold pligtskyldigst meddelt Regjeringens øvrige Medlemmer. Efterat <lb/>
+de tidligere befalede Kundgjørelser med mere, om for Cholera mistænkte <lb/>
+eller deraf smittede Steder ere ophævede ved Kongelige Resolutioner <lb/>
+af 1835 og 1846, gjælde vore Quarantaine-Forholdsregler mod Cholera, nu <lb/>
+allene mod Skibe, som i kortere Tid end 5 Dage ankomme fra Cholerasmittet <lb/>
+Sted, eller som have havt eller have Sygdommen ombord. Ikkun deslige  <lb/>
+Skibe lægges under kortere eller længere Quarantaine.</p>
+               <p xml:id="p3">	Man har troet at kunne og burde oppebie den under 27de forrige <lb/>
+Maaned udbedede naadigste Bemyndigelse til at iværksætte hensigtsmæssige <lb/>
+Foranstaltninger efter Omstændighederne; men efter Modtagelse af Deres <lb/>
+Majestæts naadigste Skrivelse af 8de, efterat St. Petersborg og Kronstad <lb/>
+ere erklærede smittede i Sverige, har jeg gjort den Anskuelse gjeldende, <lb/>
+at Regjeringen uden Ophold strax bør tage Sagen under nøie Overveielse, <lb/>
+var det endog kun af skyldig Respect for Deres Majestæts mig <lb/>
+naadigst meddelte Anskuelse. I Følge heraf besluttede Regjeringen igaar <lb/>
+i Anledning af den nu udbrudte Cholera Sygdom: <lb/>
+                  <list xml:id="list4">
+                     <label>1.</label>
+                     <item>Oprettelse af en Centralcommittee i Christiania for heele Riget, <lb/>
+ bestaaende af 2 Læger, een juridisk Embedsmand, nemlig Stiftamtmanden <lb/>
+ i Christiania, een Handlende og een Søekyndig.</item>
+                     <lb/>
+                     <label>2.</label>
+                     <item>at Departementscheferne for Marinen og for det Indre, idag skal conferere <lb/>
+ med de designerede Medlemmer af denne Committee, om Alt, hvad der <lb/>
+kan formenes hensigtsmæssigt, til at afværge Sygdommens Indtrængen i <lb/>
+Landet med mere og imorgen meddele Regjeringen Resultatet af denne  <lb/>
+Conference.</item>
+                  </list> Jeg ønsker at disse foreløbige Beslutninger, maae vinde Deres <lb/>
+Majestæts naadigste Biefald.</p>
+               <p xml:id="p5">	Deres Majestæts naadigste Befaling om Storthingssagernes snarlige <lb/>
+Behandling, har jeg meddelt de Herrer Departementschefer, som ville lade <lb/>
+sig sammes Opfyldelse være angelegen.</p>
+               <p xml:id="p6">	Det er iøvrigt paafaldende, hvor meget mere Tid Regjeringssagernes <lb/>
+Behandling kræver nu mod før. De courante Sager kunde før almindelig <lb/>
+expederes i tvende Statsraadssessioner ugentlig, hvortil nu jevnlig <lb/>
+udfordres fire, ja undertiden dagelige . Dette maae jeg for en stor Deel <lb/>
+tilskrive et nyt Element i Statsraadet, som med et udmærket Talent,  <lb/>
+forener en uendelig Vidtløftighed, og en lidenskabelig Paastaaelighed paa <lb/>
+egne Meninger, hvorved Discussionerne uden Nødvændighed eller Nytte <lb/>
+forlænges.</p>
+               <p xml:id="p7">	Om det naadigst maatte behage Deres Majestæt, at biefalde min nyelige <lb/>
+underdanigste Indstilling, i Faveur af Høiesterets Assessorer, vil <lb/>
+dertil snarlig gives en Anledning ved Besættelsen af Assessorembedet, <lb/>
+efter den til Sorenskriver udnævnte Assessor Motzfeldt.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at henlede Deres Majestæts naadigste <lb/>
+Opmærksomhed paa Indstillingen om at bevirke de manglende Boliger <lb/>
+ved Hortens Værft tilveiebragte ved Laan af Statscassen, til Folk som <lb/>
+maatte ville bygge for egen Regning. Værftschefen Capitain Erichsen, <lb/>
+har paa det bestemteste erklæret sig imod denne Idee og jeg maae være <lb/>
+enig med ham om, at det vilde være den uhensigtsmæssigste Maade, at <lb/>
+tilveiebringe Boliger for Værftets Betjente og Mandskaber, som da vilde <lb/>
+blive Proprietairer inden for et Etablissement, hvor Styrelsen til <lb/>
+enhver Tid, og under alle Omstændigheder bør have frie Raadighed. Man <lb/>
+vilde visselig komme til, at betale dyrt den muelige øienblikkelige <lb/>
+Besparelse.</p>
+               <p xml:id="p9">	Ved Indstillingen om Besættelsen af Maaler og Vragertjenesten i <lb/>
+Christiania, ere Regjeringens Stemmer delte i tre Fractioner. Statsraaderne <lb/>
+Krog, Fleischer og jeg have stemt for Consul Duborgh, for hvem <lb/>
+jeg tillader mig underdanigst at supplicere. Han har formentlig den Lykke, <lb/>
+at være kjendt af Deres Majestæt, og han er den eneste af Adspiranterne, <lb/>
+som er nævnt af alle iøvrigt ulige Meningsfractioner. Forinden <lb/>
+jeg gav Duborgh min Stemme consulerede jeg respectable Borgere,Stiftamtmanden, <lb/>
+Borgermesteren, som jeg erfarede Alle stemte for ham.</p>
+               <p xml:id="p10">	Jeg har i Tankerne med mine hjertelige Ønsker fulgt Hans Kongelige <lb/>
+Høihed Prinds Augusts Confirmation, i hvilken Anledning jeg tillader <lb/>
+mig at fremsende min underdanigste Lykønskning.</p>
+               <p xml:id="p11">	Give Gud at Resultatet af den nu begyndte Rigsdag, hvorom jeg venter <lb/>
+Underretning med Dagsposten, maae blive tilfredsstillende, for Deres <lb/>
+Majestæt, for Sverige, for de forenede Riger!</p>
+               <p xml:id="p12">	Uagtet jeg begriber at det for Deres Majestæt kun kan være <lb/>
+kjedsømmeligt, at høre en norsk Værnepligtslov omtale, især efter det <lb/>
+Udfald det seneste Project til en saadan, har faaet i Regjeringen, maae <lb/>
+jeg dog ansee det for min Pligt, underdanigst at yttre mig om denne <lb/>
+Gjenstand, saa godt, jeg formaaer.</p>
+               <p xml:id="p13">	Allerede ved Rigsforsamlingen paa Eidsvold Aar 1814 bragtes <lb/>
+naturligviis denne Gjenstand paa Bane. Jeg siger naturligviis, fordi det <lb/>
+tilhører den moderne Natur, at ville nedrive alle gamle Institutioner uden <lb/>
+Evne til at angive bedre. Sidstnævnte Mangel, har især i denne Begivenhed <lb/>
+viist sig.</p>
+               <p xml:id="p14">	Under den Utolmodighed efter en nye Organisation af Forsvarsvæsenet, <lb/>
+som allerede yttrede sig i Rigsforsamlingen, foreslog jeg som Medlem <lb/>
+af denne principaliter mit Ideal for en saadan, nemlig Kong Carl den <lb/>
+11tes herlige Organisation af en inddelt Armee. Den norske Armee kunde <lb/>
+have faaet en saadan, som den svenske har, og om Forslaget var blevet <lb/>
+antaget, vilde vi have sparet ikke ubetydelige Summer, senere bortkastede <lb/>
+paa umodne Projecter, vilde vi, i Stedet for Recrutter, efter 33 Aars <lb/>
+Forløb, havt en vel øvet Armee, bestaaende af frivillige Veteraner, lig <lb/>
+dem de svenske inddelte Regementer fremvise, fremfor nogen anden Armee.</p>
+               <p xml:id="p15">	Forslaget forkastedes, hovedsagelig fordi man dengang ikke vilde <lb/>
+have Nogetsomhelst efter svensk Mønster. Rigsforsamlingen besluttede  <lb/>
+derimod Grundlovens § 109, i hvis Følge Forslag til en nye Værnepligtslov, <lb/>
+skulde forelægges første Storthing. 33 Aar ere derefter forløbne, 11 <lb/>
+Storthing ere afholdte og – vi ere ikke nærmere Maalet, end 1814!</p>
+               <p xml:id="p16">	Jeg tillader mig underdanigst at vedlægge en kort Oversigt, over det <lb/>
+siden 1814 passerede, betræffende en Værnepligtslov, og en Fortegnelse <lb/>
+over de fremsatte Forslage til en saadan.</p>
+               <p xml:id="p17">	Heraf vil naadigst erfares at det ikke har manglet paa Forslage, at <lb/>
+hvad Kongen har foreslaaet, have Storthingene afslaaet, og hvad disse <lb/>
+have antaget har Hans Majestæt ikke sanctioneret.</p>
+               <p xml:id="p18">	Blandt alle fremkomne Forslage, synes dog Intet saa upractisk, saa <lb/>
+uiværksætteligt, som det senest, af en Commission der har kostet Staten <lb/>
+nær 14,000 Spd, fremsatte Forslag til en Lov om Værnepligten. <lb/>
+Efter den modneste Overveielse, har Regjeringens store Pluralitet funden <lb/>
+sig forpligtet til, underdanigst at fraraade Deres Majestæt at lade <lb/>
+dette Lovforslag fremlægge for Storthinget, endog uden Hensyn til <lb/>
+den Overbeviisning, at Storthinget vilde findes mindre tilbøielig, til <lb/>
+at antage dette, end noget af de foregaaende Lovforslage.</p>
+               <p xml:id="p19">	Om Deres Majestæt naadigst biefalder denne Anskuelse, skulde jeg <lb/>
+underdanigst tilraade, naadigst at befale Armee og Marinedepartementets <lb/>
+Chefer snarest mueligt at fremlægge Forslag til en Lov om Værnepligt <lb/>
+og Sessionsvæsenet, i det væsentlige Stemmende, med det af Hans Majestæt <lb/>
+for 9de ordentlig Storthing fremlagte Forslag. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19de November 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 19. november 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">		Kort Oversigt<lb/>
+    	  over<lb/>
+    	  det Passerede betræffende en Værnepligtslov.</head>
+               <p xml:id="p20">	Paa Storthinget i 1816 blev fremsat Forslag om Værnepligten, <lb/>
+hvilket bliv sanctioneret som Lov under 5 Juli 1816.</p>
+               <p xml:id="p21">	Paa Storthinget i 1818 blev fremsat Forslag til Lov om Værnepligten, <lb/>
+hvilket af Storthinget blev bifaldt, men af Kongen <hi rend="underline">ikke</hi>  naadigst  <lb/>
+sanctioneredes.</p>
+               <p xml:id="p22">	Paa Storthinget i 1821 blev det udarbeidede Forslag til Lov om <lb/>
+Værnepligten <hi rend="underline">ikke</hi>  fremsat, og det af Storthinget besluttede Udkast blev <lb/>
+                  <hi rend="underline">ikke</hi>  naadigst sanctioneret.</p>
+               <p xml:id="p23">	Paa Storthinget i 1824 blev fremsat Forslag om de hvervede Troppers <lb/>
+Ophævelse, men Forslaget kom <hi rend="underline">ikke</hi>  under Behandling.</p>
+               <p xml:id="p24">	Paa Storthinget i 1827 blev fremsat Forslag til Lov om Værnepligten <lb/>
+men kom <hi rend="underline">ikke</hi>  til Afgjørelse.</p>
+               <p xml:id="p25">	Paa Storthinget i 1828 blev atter fremsat Forslag til Lov om <lb/>
+Værnepligten, men kom <hi rend="underline">ikke</hi>  under Behandling.</p>
+               <p xml:id="p26">	Paa Storthinget i 1830 blev atter fremsat Forslag til Lov om <lb/>
+Værnepligten, men da Storthingets Beslutning derom afveeg fra den Kongelige <lb/>
+Proposition, blev den ikke naadigst sanctioneret.</p>
+               <p xml:id="p27">	Paa Storthinget i 1833 blev fremsat Forslag til Lov om Værnepligten, <lb/>
+men kom <hi rend="underline">ikke</hi>  under Storthingets Afgjørelse.</p>
+               <p xml:id="p28">	Paa Storthinget i 1836 blev fremsat Forslag til Lov om Værnepligten, <lb/>
+men kom <hi rend="underline">ikke</hi>  under Storthingets Behandling.</p>
+               <p xml:id="p29">	Paa det overordentlige Storthing fra 1836 – 1837 blev intet Forslag <lb/>
+fremsat.</p>
+               <p xml:id="p30">	Paa Storthinget i 1839 blev fremsat Forslag til Lov om Værnepligten, <lb/>
+men kom <hi rend="underline">ikke</hi>  under Storthingets Behandling.</p>
+               <p xml:id="p31">	Paa Storthingene i 1842 og 1845 blev intet Forslag til Lov om <lb/>
+Værnepligten fremsat.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

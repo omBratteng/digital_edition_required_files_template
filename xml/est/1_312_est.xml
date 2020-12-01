@@ -1,0 +1,135 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>312</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 20. juli 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 20. juli 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 17de har jeg havt den <lb/>
+Ære at modtage Deres Majestæts Naadige Skrivelse af 14de denne Maaned.</p>
+               <p xml:id="p2">	Vedlagt giver jeg mig den Ære at fremsende en Udskrift af <lb/>
+Christiania Arbeiderforenings Centralbestyrelses Protocol og en ditto af <lb/>
+den Protocol, som har været ført under det her i Junii Maaned afholdte <lb/>
+Central Møde for alle Foreninger i Landet, begge fundne blandt <lb/>
+Thranes Papirer.</p>
+               <p xml:id="p3">	Disse Documenter vise: 1o hvilken Tankeforvirring og Galenskab <lb/>
+det har lykket Agitationens Ledere at opvække hos den laveste Folkeclasse <lb/>
+2o hvorledes disse Ledere have forstaaet at opnaae sit egentlige <lb/>
+Formaal, nemlig <hi rend="underline">Levebrød</hi>, idet de under sidste Centralmøde have <lb/>
+bevirket en Beslutning, hvorefter Thrane fra 1ste Januar dette Aar <lb/>
+skal have aarlig 600 Speciedaler, fast Løn; Abildgaard 400 Spdl, B. <lb/>
+Hansen 200 Spdl, som skal udredes af de Bidrag som de fattige Medlemmer <lb/>
+yde til deres formeentlige Velgjørere, aldeles som det gik til for <lb/>
+O'Connell i Irland, for Beseler i Holsteen.</p>
+               <p xml:id="p4">	Iøvrigt drager jeg af disse Protocoller den Slutning, at den <lb/>
+sociale og politiske Brand har taget stærk Overhaand, og at Huset  <lb/>
+staaer i Fare for Ødelæggelse, om det ikke <hi rend="underline">nu</hi>  kan lykkes at slukke Ilden <lb/>
+forinden Flammen staaer ud igjennem Taget. Huset er ikke assureret!</p>
+               <p xml:id="p5">	Det har forlængst været bekjendt at enkelte Storthingsmænd, <lb/>
+som Ueland, Holst, Olsen, Sverdrup, Jaabæk, med Flere, have havt  <lb/>
+intime, tildeels natlige Conferencer med Thrane, Abildgaard og Consorter, <lb/>
+og det var saaledes ikke uventet, at de nu paagaaende Undersøgelser <lb/>
+kunde give Anledning til at ville indhente Oplysninger af dem. Imidlertid <lb/>
+har Politiets høflige Kaldelse opvakt de benævnte Storthingsmænds <lb/>
+store Forbittrelse og de have henskudt sig under Storthingets Beskyttelse, <lb/>
+som imidlertid ikke i denne Begivenhed har stort at betyde.</p>
+               <p xml:id="p6">	Af underdanigst vedlagte Politiemester Morgenstjernes Skrivelse, <lb/>
+vil naadigst erfares, at hans Helbred har nødsaget ham til at ansøge <lb/>
+om nogle Ugers Tjenestefrihed, hvorunder Politie Adjutant Steen er <lb/>
+constitueret.</p>
+               <p xml:id="p7">	For at undersøge de paaankede mislige Depôt-Forholde vil en <lb/>
+Undersøgelsescommission blive beskikket, bestaaende af Generaladjutant <lb/>
+Krogh, Oberstlieutenant Birch og constitueret Politiemester Steen.</p>
+               <p xml:id="p8">	At Storthinget i sin første Forskrækkelse over den Thraneske <lb/>
+Agitation, er bleven spagere, har viist sig ved Behandlingen af  <lb/>
+Lensmandsloven. Mod Stabells, Holst's og Consorters ivrige Bestræbelser <lb/>
+for at bringe Denne Sag under Behandling og faae Lovforslaget anden <lb/>
+Gang gjentaget, fremsatte en ganske Fornuftig Bonde, Valstad, det <lb/>
+Forslag, at Sagen skulde udsættes, som blev antaget med en stor  <lb/>
+Pluralitet, og formeentlig kan ansees som Henlæggelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 20 Julii 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 20. juli 1851</supplied>
+               </head>
+               <opener>CHRISTIANIA POLITIEKAMMER. <lb/>
+                  <salute>Deres Excellence!</salute>
+               </opener>
+               <p xml:id="p9">	Min i de sidste Uger forværrede Helbredstilstand har tvunget <lb/>
+mig til at følge min Huuslæge Doctor Steffen's gjentagne Opfordring <lb/>
+til mig, at søge nogle Ugers Tjenestefrihed fra Politiforretningerne.</p>
+               <p xml:id="p10">	Det Kongl. Justitsdepartements energiske Optræden i Arbeidersagen <lb/>
+har, i det mindste for en længre Fremtid, quælt ethvert Forsøg <lb/>
+paa Anstiftelse af Uroligheder, saa at jeg fra denne Side betragtet <lb/>
+har havt mindre Betænkelighed ved den omhandlede Tjenestefrihed, <lb/>
+under hvilken jeg forøvrigt forbliver her i Staden, saa at jeg ved <lb/>
+mindste Tegn paa at noget Usædvanligt er i Gjære strax kan overtage <lb/>
+det Embede, som jeg skylder Hans Majestæt Kongens naadige Tillid <lb/>
+til mig, og hvilken naadige Tillid jeg med Guds Magt aldrig skal <lb/>
+svigte. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 Juli <lb/>
+    	  1851</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder m.m. <lb/>
+    	  v. Løvenskiold.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

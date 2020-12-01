@@ -1,0 +1,80 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>358</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 28. mai 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 28. mai 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p xml:id="p2">	Forrige Post bragte mig Deres Majestæts naadige Skrivelse af 20e <lb/>
+Mai, hvorfor jeg underdanigst takker.</p>
+               <p xml:id="p3">	Jeg tillader mig at frembære mit underdanige Ønske for Deres <lb/>
+Majestæts lykkelige Reise og behagelige Ophold i Skaane, ligesom jeg <lb/>
+hjertelig lykønsker Hendes Majestæt Dronningen til Gjensamlingen med Sin <lb/>
+Høie Frue Søster, hvis Hr Svigerfader jeg for mange Aar tilbage har <lb/>
+havt den Ære at kjende som Gouverneur i Kjøbenhavn.</p>
+               <p xml:id="p4">	Statsraaderne Erichsens og Brettevilles samt Generalconsul Fayes <lb/>
+naadige Udnævnelse til Commandeur af Sanct Olafs Ordenen glæder mig, <lb/>
+fordi de alle fortjene denne Deres Majestæts naadige Anerkjendelse i <lb/>
+Deres offentlige Virksomhed. Faye har for denne opoffret sin Helbred <lb/>
+og er nu saa svag, at hans Læge er tvivlraadig, om han tør tilraade <lb/>
+en Reise til et udenrigs Bad, som han høielig tiltrænger.</p>
+               <p xml:id="p5">	Foraaret, som udeblev længe, har i den seneste Tid udviklet sig <lb/>
+med Kjæmpeskridt. Denne Naturens pludselige skjønne Udvikling har <lb/>
+lokket den norske Biørn ud af sit Hie, og lokker mig ud af <lb/>
+Stiftsgaarden, som jeg i Morgen agter at ombytte med Holgerslyst.</p>
+               <p xml:id="p6">	Jeg vover at udbede Deres Majestæts naadige Tilladelse til at <lb/>
+turde dette Aar, som forrige Aar, feire Deres Majestæts høie Fødselsdag  <lb/>
+paa det vakkre Ladegaardsøen, og derefter at besøge Fossum for <lb/>
+2 à 4 Uger.</p>
+               <p xml:id="p7">	Iøvrigt har jeg Intet underdanigst at indberette, da Alt her <lb/>
+gaaer i sin sædvanlige jevne Gang. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 Mai 1852</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

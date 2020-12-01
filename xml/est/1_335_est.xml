@@ -1,0 +1,91 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>335</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. november 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. november 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p xml:id="p2">	Generalconsul Faye, som idag er kommet tilbage, har været <lb/>
+særdeles heldig i sine Bestræbelser for den paatænkte Hypotheque-Bank, <lb/>
+idet han har bragt dens Obligationer, endog før de ere udgivne, paa <lb/>
+Hamburgs Børs i en Cours af 95 pro Cent, for hvilken Priis Heine i  <lb/>
+Hamburg og Donner i Altona allerede have forsikkret sig Kjøbere.</p>
+               <p xml:id="p3">	Finants Departementet og Regjeringen vil derefter snarest mulig <lb/>
+indkomme med underdanigst Indstilling om Indretningens Organisation og <lb/>
+Virksomhed.</p>
+               <p xml:id="p4">	Her er megen Glæde over Resultatet af Fayes Virksomhed, men medens <lb/>
+jeg erkjender, at dette er meget bedre end det kunde ventes, er <lb/>
+min Tilfredshed ikke ublandet, thi uagtet Hypothek-Banken derved vil <lb/>
+kunne afhjelpe Øieblikkets Trang, til Laan, befrygter jeg dog, at det <lb/>
+kun vil kunne skee med en Rente, der overstiger Laantagernes Evner, <lb/>
+hvilket under en trykkende Trang ikke tages i tilbørlig Betragtning. <lb/>
+Hypothekbanken vil blive nødsaget til at tage en høi Rente, for at <lb/>
+dække de Udgifter, den maa anvende, for at tilveiebringe en større <lb/>
+Capital end sin egen, (500,000 Spdl.), og hverken Jordbrug eller nogen <lb/>
+anden Bedrift i dette Land taaler i Længden at bære en høiere Rente <lb/>
+end 4 pro Cent. Trang og Nød vil skaffe Laantagere for en høiere Rente, <lb/>
+men den vil ikke kunne bæres i Længden.</p>
+               <p xml:id="p5">	Efterat vore Radicale længe have tragtet efter at forskaffe sig <lb/>
+Selvstyrelse i alle andre Retninger, kastede de under sidste Storthing <lb/>
+i samme Hensigt sit Blik paa Kirken, som de ogsaa vil have underlagt <lb/>
+Communalstyrelsen. De vilde strax have sammenkaldt en Synode, bestaaende <lb/>
+af geistlige og verdslige Medlemmer, for at iværksætte radicale <lb/>
+Reformer i vore kirkelige Institutioner. Dette blev dog afværget og <lb/>
+sindige Mænd ledede Bevægelsen til den Beslutning at Regjeringen <lb/>
+skulde anmodes om at forelægge næste Storthing Forslag til de  <lb/>
+efterlængtede Reformer.</p>
+               <p xml:id="p6">	Denne Storthingets Beslutning har foranlediget en underdanigst <lb/>
+Indstilling af Kirke Departementet, som vil afgaae med Morgenposten og <lb/>
+hvis væsentlige Formaal er at vinde Tid i Haab om en sindigere Fremtid. <lb/>
+Give Gud! at dette Haab maa gaae i Opfyldelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de November 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>441</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. april 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. april 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 2den denne Maaned.</p>
+               <p xml:id="p2">	Den deri ommeldte Discussion i Storthinget, i Anledning af den <lb/>
+Fæstnings Commandanterne given Instruction, fandt Sted inden lukkede <lb/>
+Døre den 3die; den var lang og hæftig, og endte med, at det med 54 <lb/>
+mod 52 Stemmer besluttedes, at udsætte at tage nogen endelig Beslutning <lb/>
+til Onsdag den 19de, i Forventning af, at den af mig den 2den <lb/>
+underdanigst udbedede Oplysning til den Tid vil være indløben.</p>
+               <p xml:id="p3">	Den ringe Pluralitet, som bevirkede Sagens<hi rend="underline">Udsættelse</hi>, viser <lb/>
+hvor varmt man tager sig denne Sag nær i Storthinget.</p>
+               <p xml:id="p4">	  Jeg tillader mig underdanigst at vedlægge et Nummer af Bladet <lb/>
+"Krydseren", som indeholder en sandfærdig Beretning om Sagens Behandling <lb/>
+i Storthinget. Det viser derhos, hvorledes vor infernale Presse <lb/>
+benytter enhver Anledning til at opægge og vildlede den almindelige <lb/>
+Mening, og hvor vidt en Gjenstand, som behandles hemmelig for 107 <lb/>
+Mennesker, kan holdes hemmelig.</p>
+               <p xml:id="p5">	Det er ikke sandt, at Præsidenten Harbitz har henvendt sig til <lb/>
+flere Regjeringens Medlemmer; men <hi rend="underline">han benyttede en Leilighed</hi>  til at <lb/>
+henvende sig til Statsraad Erichsen, hvorom denne underrettede mig og <lb/>
+hvem jeg derefter bad sige Harbitz, at jeg vilde indhente nærmere  <lb/>
+Oplysning.</p>
+               <p xml:id="p6">	Jeg antager, at det i Krydseren ommeldte, enten dumme eller <lb/>
+ondskabsfulde, Rygte om, at Ordren til Commandanterne skal være givet i <lb/>
+Ruslands Interesse, er Hovedanledningen til Storthingets lidenskabelige <lb/>
+Iver; thi Antipathien mod Rusland er her lige saa stærk som i <lb/>
+det øvrige Europa.</p>
+               <p xml:id="p7">	I Nummer 77 Hamburger Correspondent læses fra Christiania: at <lb/>
+Rusland kun har bifaldt Neutraliteten, under Betingelse af, at den <lb/>
+paaankede Ordre blev givet til Commandanterne. Dette troes fuldt og <lb/>
+fast, og sætter ondt Blod.</p>
+               <p xml:id="p8">	Jeg længes ivrig efter en betimelig, for Storthinget <lb/>
+tilfredsstillende Oplysning i denne ubehagelige Begivenhed, som truer med at <lb/>
+forstyrre det hidindtil bestaaende gode Forhold, som jeg saa omhyggelig <lb/>
+har søgt at vedligeholde.</p>
+               <p xml:id="p9">	En Storthings Deputation indfandt sig i Gaar i Statsraadet for <lb/>
+at afgive underdanigst Ansøgning om Prolongation til July Maaneds  <lb/>
+Udgang, som vil blive Deres Majestæt underdanigst forelagt.</p>
+               <p xml:id="p10">	Statsraad Stang har underdanigst ansøgt sin Tjenstledighed <lb/>
+forlænget til Juny Maaneds Udgang og derhos ansøgte om naadigst <lb/>
+Tilladelse til en Udenlands Reise over Berlin og Hamburg til Paris, som  <lb/>
+Regjeringen har tilladt sig at indvilge, da Reisen ikke uden Skade for <lb/>
+hans svage Helbred kunde udsættes. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te April 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>530</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 17. februar 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 17. februar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 8de denne Maaned har <lb/>
+jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af 7de <lb/>
+hvorfor jeg underdanigst takker, ligesom jeg gjentager min underdanige <lb/>
+Tak for den deri omnævnte vigtige naadige Udnævnelse, hvoraf jeg <lb/>
+ønsker Deres Majestæt saa megen Tilfredsstillelse, som den Kongelige <lb/>
+og faderlige Opoffrelse fortjene og derhos Hans Kongelige Høihed  <lb/>
+Kronprindsen og det Norske Folk Hæder og Held.</p>
+               <p xml:id="p2">	Jeg har meddeelt Statsraad Erichsen Deres Majestæts foreløbige <lb/>
+Ytring ham betræffende, hvorom han modseer Deres Majestæts naadige <lb/>
+Beslutning, ligesom <hi rend="underline">jeg</hi>  Deres Majestæts naadige Befaling betræffende <lb/>
+hans Eftermand.</p>
+               <p xml:id="p3">	Denne Vinter vedbliver at være behagelig og gunstig for den indre <lb/>
+Rørelse, hvilket dog endnu ikke har havt den forhaabede Indflydelse paa <lb/>
+Levnetsmidlernes Dyrhed.</p>
+               <p xml:id="p4">	De seneste Efterretninger om det store Silde-Fiskerie, ere bedre <lb/>
+end de første, saa at, om man end ikke tør vente nogen riig Fangst, <lb/>
+man dog tør nære Haab om et taalelig godt Fiskerie. Dettes <hi rend="underline">sildige</hi>
+                  <lb/>
+Begyndelse er imidlertid beklagelig for de meget talrigt forsamlede <lb/>
+Almuer, som have fortæret sin Proviant paa Fiskepladsene, forinden <lb/>
+det egentlige Fiskerie kunde begynde.</p>
+               <p xml:id="p5">	Morgenen den 13de denne Maaned døde høist uventet Grosserer Jacob <lb/>
+Meyer, 75 Aar gammel, Christiania Byes ældste og rigeste Borger, <lb/>
+efterladende en meget betydelig Formue, fra 1 til 1 1/2 Million <lb/>
+Species, som han ved Flid, Orden og en sjelden praktisk Dygtighed havde <lb/>
+erhvervet. Han var en meget stærk Mand, kun 2 Dage sængeliggende af en <lb/>
+Forkjølelse, som slog sig paa Hjernen. Han var i sin Tid Chef for den <lb/>
+ridende gule Garde i hvilken Egenskab som i andre Henseender, Høisalig <lb/>
+Kongen sat Priis paa ham og virkelig holdt af ham. Jeg taber i ham en <lb/>
+af mine ældste kjære Venner hersteds.</p>
+               <p xml:id="p6">	J. Meyer efterlader, foruden 5 gifte Døttre, 2de hæderlige Sønner, <lb/>
+den ældste, Lorentz Meyer, belgisk Viceconsul, den 2den Thorvald <lb/>
+Meyer, Chef efter Faderen for den gule Garde, <hi rend="underline">betalende</hi>  (ikke <lb/>
+betalt) Directeur for Christiania Theater, til hvis Opkomst og Udvikling  <lb/>
+han har bidraget betydeligt med Penge og ved Forretningsdygtighed, <lb/>
+Egenskaber, hvormed han som oftest afhjelper offentlig og privat <lb/>
+Trang. Denne unge Mand, en sand Gentleman af Characteer, har erhvervet <lb/>
+sine Medborgeres Agtelse, Tillid og Hengivenhed i den Grad, at Deres <lb/>
+Majestæt opaatvivlelig vilde glæde dem ved at forunde ham noget Beviis <lb/>
+paa Deres Majestæts Kongelige Naade, i hvilken Henseende jeg tillader <lb/>
+mig underdanigst at foreslaae, at Deres Majestæt naadigst vil <lb/>
+udnævne ham til Ridder af Wasa Ordenen for communale Fortjenester, med <lb/>
+Tillæg, at ham skal overdrages <hi rend="underline">det samme Ordenstegn</hi>, som hans nu afdøde  <lb/>
+Fader i 34 Aar hæderlig har baaret, paa hvilken naadige Anerkjendelse,  <lb/>
+paa en Gang af en værdig Fader og en værdig Søn, denne uden <lb/>
+Tvivl vil sætte end høiere Priis end paa selve Ordenen.</p>
+               <p xml:id="p7">	Vi have her 2de foregaaende Exempler paa, at en Faderen tiltænkt <lb/>
+eller allerede givet offentlig Udmærkelse er gaaet over til værdige <lb/>
+Sønner. Kong Carl den 10de af Frankrige havde givet en Skibsreder <lb/>
+Kiær af Drammen, som selv førte sit Skib, Æreslegionens Ridderkors, <lb/>
+for med Opoffrelse at have reddet et fransk Skib med Besætning; <lb/>
+men han døde, forinden han modtog Ordenen, som Kong Louis Philippe <lb/>
+overdrog til hans værdige Søn, nu den rigeste Borger i Drammen. Da <lb/>
+Statsraad Aall for et Aar tilbage var afgaaet ved Døden, overdrog Kong <lb/>
+Frederik den 7de af Danmark det Dannebrog Ordenens Ridderkors, som <lb/>
+den værdige Mand i en lang Aarrække havde baaret, til hans værdige <lb/>
+Søn, Kammerherre Aall, som blev almindelig paaskjønnet som en vakker Idé.</p>
+               <p xml:id="p8">	Statsraad Bretteville og Stiftamtmand Sem, som jeg under et Besøg <lb/>
+i Dag, meddeelte mit underdanige Forslag for Ritmester Thorvald <lb/>
+Meyer, forene sit Ønske med mit, hvis naadige Opfyldelse jeg holder <lb/>
+mig overbeviist om, vil vinde almindelig Sympathie.</p>
+               <p xml:id="p9">	Vi have i Dag 16 Grader Reaumur Kulde. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17de Februar 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

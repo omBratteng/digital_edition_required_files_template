@@ -1,0 +1,93 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>542</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 16. mai 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 16. mai 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanige Rapport var af 11te denne Maaned.</p>
+               <p xml:id="p2">	Der paaligger mig en kjær Pligt, forinden min nu forestaaende <lb/>
+Afgang fra Rigsstatholder-Embedet for Deres Majestæt underdanigst at <lb/>
+fremstille Kammerherre C. Holsts Forhold som Secretair ved dette <lb/>
+Embede.</p>
+               <p xml:id="p3">	Indtil Greve Sandels afgik, havde Rigsstatholderen, foruden sin <lb/>
+Gage, 5,000 Spd. aarlig til Disposition, for dermed at lønne sine <lb/>
+Adjutanter og Secretairer. Disse 5,000 Spd. udrededes med det Halve <lb/>
+af Convoikassen og med det Halve af Ministerkassen. Ved Greve Platens <lb/>
+Død i 1829 blev Convoikassens Bidrag inddraget, hvorimod Cabinetskassens <lb/>
+Bidrag vedblev, indtil ogsaa dette i 1833 blev inddraget paa <lb/>
+500 Spd. nær, som ifølge Kongelig Resolution og Greve Wetterstedts <lb/>
+Meddelelse til Finantsdepartementet af 11te Juni 1834 afholdes i <lb/>
+Norges Bidrag til Ministerkassen som Løn for Statholderskabets <lb/>
+Secretair, Kammerherre Holst.</p>
+               <p xml:id="p4">	I Tidsrummet fra 1814 til 1829 have successive Regjeringsraad <lb/>
+Wahlstrøm, Cancellieraad Hartmansdorff, Baron Albedyhl, Generalconsul <lb/>
+Ewerløf været ansatte som Rigsstatholderskabets Secretairer, hvortil <lb/>
+Kammerherre Holst af daværende Rigsstatholder Greve Platen blev <lb/>
+indstillet, og af Hans Majestæt Kongen udnævnt ved et af Hans Majestæt i <lb/>
+Juli Maaned 1829 underskrevet Document, med aarlig Løn af 300 Spd, <lb/>
+indtil han i 1833 af Høisalig Kong Carl Johan blev udnævnt til <hi rend="underline">Første</hi>
+                  <lb/>
+                  <hi rend="underline">og eneste Secretair</hi>  ved Rigsstatholderskabet med 500 Spd. aarlig Løn, <lb/>
+som fremdeles udredes ved Afdrag i Norges Bidrag til Ministerkassen, <lb/>
+hvorhos han modtog Tilsagn om, at denne hans Stilling ved fremtidig <lb/>
+Befordring skulde komme i Betragtning, som om han var ansat i lige <lb/>
+Egenskab i Departements Tjeneste.</p>
+               <p xml:id="p5">	Siden den Tid, altsaa siden 1829, har Kammerherre Holst fungeret <lb/>
+som Rigsstatholderskabets Secretair, og i de 15 Aar, jeg har indehavt <lb/>
+Embedet, staaet mig bi med en Flid, Orden, Forretningsdygtighed <lb/>
+og Nidkjærhed, som Intet har levnet mig at ønske.</p>
+               <p xml:id="p6">	I 1833 gjorde Kammerherre Holst Tjeneste som Secretair hos Deres <lb/>
+Majestæt som Norges Vicekonge.</p>
+               <p xml:id="p7">	Kammerherre Holst er mit Ideal som Geheime-Secretair, og jeg <lb/>
+opfylder kun en kjær Pligt, ved nu ved min Afgang paa det Bedste at <lb/>
+anbefale ham til Deres Majestæts Beskyttelse og Naade. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16de Mai 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

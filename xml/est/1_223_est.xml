@@ -1,0 +1,225 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>223</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. april 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. april 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 7de denne Maaned har <lb/>
+jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af 4de.</p>
+               <p xml:id="p2">	Jeg iler at nedlægge min underdanige Taksigelse for Deres Majestæts <lb/>
+naadige Indbydelse til den forestaaende Høitidelighed, der for <lb/>
+de forenede Riger og alle troe Undersaatter har en saa stor Betydning. <lb/>
+Saasandt Gud forunder mig Liv og Helbred, vil jeg have den Ære at opfylde <lb/>
+Deres Majestæts naadige Befaling, med det hjertelige Ønske, at den <lb/>
+19de Juni 1850 maa vorde saa lykkelig i sine Følger som den samme Dag, <lb/>
+den jeg havde den Lykke at bivære for 27 Aar, har været det.</p>
+               <p xml:id="p3">	Markus Thrane, som jeg ikke før havde seet, fremstillede sig for <lb/>
+mig i Gaar, for at spørge mig om jeg vilde modtage og befordre en <lb/>
+underdanigst Petition til Deres Majestæt, hvortil jeg erklærede mig villig <lb/>
+som skyldig, men paa mit Spørgsmaal om Petitionen, erklærede han, at <lb/>
+den formedelst endnu manglende Underskrifter, ikke vil kunne blive  <lb/>
+afgivet før i Mai Maaned, hvortil jeg formoder den 17de bestemt, hvilken <lb/>
+Dag jeg dog vil søge undgaaet. Thranes Ydre har mere Udseende af en <lb/>
+Dreng end af en Mand, uagtet han er 34 Aar og har en temmelig talrig <lb/>
+Familie. Han syntes meget frygtsom og lidet skikket til at være nogen <lb/>
+farlig Partihøvding. Jeg indbilder mig, at det kunde være muligt at faae <lb/>
+ham bortfjernet, men jeg troer ikke, det vilde være tilraadeligt, fordi <lb/>
+da uden Tvivl nogen farligere Mand vilde sætte sig i Spidsen for den <lb/>
+Sag, som han har bragt i Gang, oprindelig neppe uden andet Formaal, end <lb/>
+at faae Anledning til at udgive et Blad og derved fortjene Penge. Hans <lb/>
+Uroe efter Samtalen med mig, hvorom Morgenstjernes underdanigste  <lb/>
+vedlagte Brev vidner, turde være en Følge af mine alvorlige Bemærkninger <lb/>
+over det store Ansvar, som han paadrager sig ved hans nærværende  <lb/>
+Virksomhed. Benævnte Brev viser, at Thrane har modtaget Breve fra en Borg <lb/>
+og en Pehrson i Stockholm.</p>
+               <p xml:id="p4">	Med Henhold til min underdanige Rapport af 7de betræffende H. <lb/>
+Harring, tillader jeg mig underdanigst at vedlægge et Udtog af dennes <lb/>
+Dagbog, som Morgenstjerne har vidst at forskaffe sig uden hans Vidende <lb/>
+og som caracteriserer ham som en ganske anden Mand end Markus Thrane.</p>
+               <p xml:id="p5">	Jeg tillader mig underdanigst at vedlægge det sidst udkomne Nummer <lb/>
+af Thranes Blad. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12 April 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 12. april 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Copie.</head>
+               <p xml:id="p6">Il y a par delà des mers un pays, où les droits de l’homme sont <lb/>
+respectés, ou l’homme est ”homme est ”homme” enfin. La Norvège ressemble à ce <lb/>
+pays comme le chien ressemble au chasseur, comme le bouvreuil, qui <lb/>
+siffle dans une cage; ressemble au colibri, qui chante dans un bois <lb/>
+d’oliviers.</p>
+               <p rend="center" xml:id="p7">----------</p>
+               <div>
+                  <head type="sub3" xml:id="h5">						8 Février.</head>
+                  <p xml:id="p8">J’ai froid. Je suis malade de corps et d’âme; nèanmois je suis <lb/>
+obligé de travailler comme un mulet pour vivotter, en tirant le  <lb/>
+diable par la queue.</p>
+                  <p rend="center" xml:id="p9">------------</p>
+                  <p xml:id="p10">	La gazette de Soleure à fait plus de mal à la bonne cause que <lb/>
+toutes les bajonettes de la réaction. Sans cette maudite gazette on <lb/>
+serait parvenu à entrainer la Suisse, malgré elle, dans une guerre <lb/>
+avec l’étranger, la démocratie européenne n’a plus d’espoir que dans <lb/>
+un conflit général, et la Suisse lui offre par sa position centrale <lb/>
+une excellente base d’opération.</p>
+                  <p rend="center" xml:id="p11">------------ </p>
+                  <p xml:id="p12">Voila cette pauvre association d’ouvriers allemands de nouveau <lb/>
+en déroute – elle eut la destinée commune, elle fut infectée des  <lb/>
+délateurs et pénétré par les espions. L’on accuse les Rois et les  <lb/>
+gouvernements d’être sourds, quand il s’agit de tirer profit des leçons <lb/>
+de l’histoire; mais à plus forte raison on pourrait accuser les  <lb/>
+peuples des mêmes fautes; si l’association avait voulu se rappeler la  <lb/>
+triste affaire du bon Schuler en 1836 à Brienne; si elle avait eu  <lb/>
+présents à sa mémoire des noms comme le mien, comme celui de deux nobles <lb/>
+Ruffini, comme celui de Rauchenplatt et d’autres, rien de tout cela <lb/>
+ne serais arrivé.</p>
+                  <p rend="center" xml:id="p13">------------</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h6">					10 Mars.</head>
+                  <p xml:id="p14">J’ai rêvé toute la nuit à plusiurs réprises, de Weilling. Je <lb/>
+me trouvais au milieu de la ”confraternité des justes” et c’était  <lb/>
+encore en 1843, qui à mon avis valait bien 1850.</p>
+                  <p rend="center" xml:id="p15">------------</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h7">				12 Mars.</head>
+                  <p xml:id="p16">Dieu n’existe que parceque la fourberie l’a inventé, et la  <lb/>
+superstition le maintient. Il faudrait démasquer la première et anéantir <lb/>
+la seconde! Commet faire comprendre à l’homme qu’il n y a pas d’autre <lb/>
+Dieu que lui-même, qu’il est l’alpha et l’oméga de toutes choses, l’être <lb/>
+supérieure et la réalité la plus réelle?</p>
+                  <p rend="center" xml:id="p17">------------ </p>
+                  <p xml:id="p18">Markus Thrane pourra peutêtre devenir quelque chose le jour, où <lb/>
+il aura fixé son choix et lorsqu’il aura opté entre les mille choses <lb/>
+qu’il veut faire et les personnes qu’il veut représenter; il ne sait <lb/>
+encore s’il veut être Voltaire ou Mirabeau, Diderot ou Sieyés; en  <lb/>
+attendant il a l’esprit enivré de rêves de Titan.</p>
+                  <p rend="center" xml:id="p19">------------</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h8">						28 Mars.</head>
+                  <p xml:id="p20">	Quel drôle de pays! moitié bête et moitié homme égoïste – il est <lb/>
+l’image de Centaure, seulement il ne marche pas.</p>
+                  <p rend="center" xml:id="p21">------------</p>
+                  <p xml:id="p22">	Décidement Thrane est peu de choses – il est à la hauteur du taux, <lb/>
+qu’il a fixé lui-même – 2 sous!</p>
+                  <p rend="center" xml:id="p23">------------</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h9">						4 Avril</head>
+                  <lg xml:id="lg24">
+                     <l>Travaillez les peuples, faites crouler les empires,</l>
+                     <l>Harcellez les tyrans, de Ravaillac faites Vous un point de mire,</l>
+                     <l>Rançonnez les riches, qu’ils payent notre pain</l>
+                     <l>Abandonnez l’esclavage, qui ne fournit que la faim.</l>
+                     <l>Ne parlez pas aux bêtes, ne remuez pas les fous,</l>
+                     <l>Et, au nom du diable, ne pensez pas aux ”deux sous”.</l>
+                  </lg>
+                  <p rend="center" xml:id="p25">------------</p>
+                  <p xml:id="p26">	Les hommes à courte vue comparent entre elles les situations <lb/>
+historiques, non d’apres leur analogie philosophique mais d’après la  <lb/>
+ressemblence de certains faits. Ce qui constitue la véritable ressemblence <lb/>
+entre les divers gouvernements c’est une même origine, un même mobile, <lb/>
+un même but et non l’accident passager de certaines circonstances  <lb/>
+secondaires qui se reproduisent dans leur marche.</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h10">					8 Avril</head>
+                  <lg xml:id="lg27">
+                     <l>O peuple stupide</l>
+                     <l>Au meneur perfide,</l>
+                     <l>Qui parle aux fous</l>
+                     <l>Et ne reve que ”Deux sous”!</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h11">
+                  <supplied resp="editor">Tillegg til rapport av 12. april 1850</supplied>
+               </head>
+               <opener>Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+v. Løvenskiold <lb/>
+Ridder og Commandør af H.Mts Ordener <lb/>
+Storkors af St Olafsordenen, <lb/>
+Ridder af Elephanten.</opener>
+               <lb/>
+               <p xml:id="p28">	Thrane omtalte ikke med et Ord, sit Besøg hos Deres Excellence, <lb/>
+uagtet den for Deres Excellence før omtalte Mand, der nu staaer paa <lb/>
+en høist intim Fod med ham, tilbragte den hele Aften med ham. Thrane <lb/>
+forekom ham imidlertid at være i en nerveus Tilstand, thi Blodet <lb/>
+steeg ham hvert Øieblik til Hovedet og det var ham umueligt at  <lb/>
+forblive rolig paa noget Sted eller at føre nogen ordentlig Samtale. Han har <lb/>
+ogsaa faa et Breve fra to Personer i Stockholm ved Navn Borg og  <lb/>
+Pehrson, men han yttrede intet om disses Indhold, kun udraabte han engang: <lb/>
+”Dig troer jeg, men jeg troer ellers ikke nogen Svenske, jeg tænker <lb/>
+at baade Borg og Pehrson og kanskee Michaelson med ere nogle Skøiere <lb/>
+naar det kommer til Stykket”. Under Beklagelse over Arbeidernes Utak- <lb/>
+nemmelighed og sin egen kummerlige Stilling udbrød han pludselig med <lb/>
+det Spørgsmaal: ”Hvad troer De Folk vilde sige om jeg blev Toldbetjent?” <lb/>
+og senere lod han falde den Yttring at hans høieste Ønske var at blive <lb/>
+Underbetjent i Finmarken, thi han var nu kommen til den Overbeviisning <lb/>
+at man kun levede vel, naar man levede skjult. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te April 1850</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstjerne</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>180</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 2. mars 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 2. mars 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de forrige Maaned.</p>
+               <p xml:id="p2">	Den sidste Indberetning fra Bergen af 27de Februar anmelder i de <lb/>
+næst foregaaende 4 Døgn angrebne af Cholera 49 Personer, i det Hele <lb/>
+angrebne 902, døde 537. Den fra Fiskerierne hjemkommende Almue medbringer <lb/>
+Sygdommen til Landsbygderne, hvor den mere og mere udbreder sig. I <lb/>
+en liden Havn Tananger udbrød Cholera, hvorefter de der forsamlede 3000 <lb/>
+Fiskere efterladende Baade og Fartøier, flygtede over Land hjem, hver <lb/>
+til sin Bygd. Til Stavanger ankom nylig en Fisker og besøgte en der <lb/>
+boende Slagter, som strax angrebes af Cholera og døde efter faae Timers <lb/>
+Forløb. Sygdommen maa saaledes ogsaa ansees udbrudt i den folkerige <lb/>
+Bye Stavanger, hvorhen flere Læger afsendtes herfra i Gaar.</p>
+               <p xml:id="p3">	Under den daglige Erfaring om hvor let og hastig Sygdommen forplantes <lb/>
+ved Smitte, om den Jammer, Elendighed og Ødelæggelse den medfører, <lb/>
+var det mig dobbelt uventet at høre Statsraad Erichsen foredrage i <lb/>
+Statsraadet igaar et Andragende fra den herværende Central Commission om <lb/>
+at ophæve alle Quarantaine Foranstaltninger i hele Riget medens  <lb/>
+Omstændighederne formeentlig opfordre til al mulig Anstrængelse, for at  <lb/>
+redde hvad endnu reddes kan.</p>
+               <p xml:id="p4">	I Central Commissionen raader Lægen, Professor Holst, en ellers <lb/>
+forstandig Mand; men som behærskes af den fixe Idée, at Cholera mindst <lb/>
+foranlediges ved Smitte, og at alle Foranstaltninger mod dens Udbredelse <lb/>
+ere unyttige og spildte.</p>
+               <p xml:id="p5">	End mere forbausedes jeg over, at Statsraad Erichsen har ladet sig <lb/>
+forlede til principaliter at indstille til Deres Majestæt's naadige <lb/>
+Bifald, at al Quarantaine maa ophæves og – at de 6 øvrige Statsraader <lb/>
+tiltræde denne Indstilling. Jeg kan ikke hjelpe det! I mit stille Sind <lb/>
+tænkte jeg paa en Flok Faar, som følger Et, der springer over Gjerdet. <lb/>
+Jeg er nysgjerrig efter at erfare, om nogen af de norske Statsraader i <lb/>
+Stockholm vil springe med. Det vilde stride mod min Overbeviisning og <lb/>
+Samvittighed at tiltræde denne Indstilling, hvorimod jeg, som underdanigst <lb/>
+vedlagte Votum viser, stemmer for dens subsidiaire Deel, nemlig <lb/>
+at der ved Grændsepunkterne af det nærværende Cholera District, Stat <lb/>
+og Lindesnæs, skal etableres Quarantaine Indretninger under Commando <lb/>
+af Søofficierer, hvor alle fra Districtet kommende Fartøier skulle  <lb/>
+undergives Quarantaine, forinden de maa begive sig til andre Havne i Riget.</p>
+               <p xml:id="p6">	Et af Central Commissionens Argumenter, som gjorde meest Indtryk <lb/>
+paa Statsraadet, var dens Fortælling om, at saasnart Cholera havde viist <lb/>
+sig i Rusland, Preussen, England, skal al Quarantaine i disse Lande være <lb/>
+ophævet. Paa min Anskuelse vilde saadant ikke have Indflydelse, men <lb/>
+jeg udbeder underdanigst Oplysning om, hvor vidt det anførte forholder <lb/>
+sig rigtig?</p>
+               <p xml:id="p7">	Jeg kan indrømme, at Ophævelse af al Quarantaine og dermed <lb/>
+forbundne Udgifter og Gene for Skibsfart og Handel kunde være populair, <lb/>
+hvor Sygdommen for Tiden <hi rend="underline">ikke er</hi>, <hi rend="underline">ikke kjendes</hi>; men Populariteten vilde <lb/>
+visselig snart ophøre, naar og hvor den som Følge heraf indfandt sig. <lb/>
+Da skulde Regjeringen med Ret faae Bebreidelser!</p>
+               <p xml:id="p8">	Efterat jeg i den senere Tid har havt Anledning til at see Georg <lb/>
+Feins Haandskrift, i Breve til hans herværende Venner, holder jeg mig <lb/>
+overbeviist om, at han og Ingen Anden har skrevet det her den 3die <lb/>
+December forrige Aar fundne Brev, hvorimod jeg ikke har kunnet opdage <lb/>
+Adressaten. Iøvrigt har jeg om ham erfaret Følgende: Han er fød i Brunsvig <lb/>
+hvor han har en Broder, der er Kammerraad. Han har opholdt sig her <lb/>
+som Sprogmester fra 1840 til Foraaret 1844 og stiftede her et politisk <lb/>
+Selskab "Germania" kaldet. I 1844 og 1845 deeltog han som Freischärler <lb/>
+i Urolighederne i Schweitz, blev tagen til Fange i Luzern og derfra <lb/>
+udleveret til Wien, hvor han, efterat de flere Hjemsteder, han havde <lb/>
+opgivet (inclusive Norge), ikke vilde reclamere ham, blev løsladt af <lb/>
+Fængselet under Betingelse at opholde sig i 3 Aar fra 1846 i Amerika. Der <lb/>
+fandt han sig ikke tilfreds i den store Republik og yttrer i et Brev <lb/>
+megen Uvillie mod "Pengearistocratiet" som han beskriver værre end <lb/>
+Adelsaristocratiet. Da 1848 de europæiske Omstændigheder blev saa gunstige <lb/>
+for hans Agitator Metier, vendte han, mod givet Løfte, tilbage til Europa <lb/>
+og fungerede efter Aviserne som Præsident i den demokratiske Klub i <lb/>
+Berlin, hvorfra han i sidste December Maaned begav sig til Basel.</p>
+               <p xml:id="p9">	Siden 1847 har jeg ikke kunnet opdage noget hertil fra ham hidkommet <lb/>
+Brev. I sit sidste meddeler han at ville komme her tilbage i Foraaret <lb/>
+1849. Ved Afreisen herfra efterlod han under Venners Tilsyn en  <lb/>
+Bogsamling, en Deel Huusgeraad, og 3000 Spdl. i Penge. Den Ømhed, som i  <lb/>
+Brevet af 3die December yttres for Prindsesse Elisabeth i Darmstadt, <lb/>
+kan have sin Oprindelse fra den Beskyttelse, som hun forundte en for <lb/>
+formeentlig politisk Forbrydelse forfulgt Præst Weidig, med hvem Fein stod <lb/>
+i nøie Forbindelse. Fein er maaskee nu ude paa nye Eventyr im Badischen <lb/>
+Oberlande. Det geraader ikke de tydske Functionairer til Ære, at de med <lb/>
+den herfra modtagne Veiledning, ikke have kunnet opdage noget i Anledning <lb/>
+af det her fundne Brev.</p>
+               <p xml:id="p10">	Jeg takker Deres Majestæt underdanigst for den mig ved Greve Lewenhaupt <lb/>
+naadigst meddeelte piquante lille Stump af Parises lange Chronique <lb/>
+scandaleuse og modseer med Længsel de mig naadigst tilsagte Handlinger <lb/>
+om de dansk-tydske Forholde.</p>
+               <p xml:id="p11">	Beklageligviis udgjør flere europæiske Landes nyeste Historie en <lb/>
+fortsat Chronique scandaleuse!</p>
+               <p xml:id="p12">	I min næste underdanigste Rapport tør jeg forbeholde mig Meddelelse <lb/>
+om en nu her stiftet demokratisk Forening.</p>
+               <p xml:id="p13">	Jeg tillader mig underdanigst at vedlægge Høiesterets Dom over <lb/>
+Deeltagerne i de Gade Uordener der fandt Sted her i Marts Maaned forrige <lb/>
+Aar.</p>
+               <p xml:id="p14">	Efterat dette var skrevet, havde jeg den Lykke at modtage Deres <lb/>
+Majestæts naadige Skrivelse af 26de forrige Maaned med interessante  <lb/>
+politiske Handlinger, hvorfor jeg underdanigst takker.</p>
+               <p xml:id="p15">	Je fais mes voeux pour l'empire, pour le repos de la France, de <lb/>
+l'Europe, de l'humanité."</p>
+               <p xml:id="p16">	Saare tilfredsstillende for mig, som her staaer alene mod det <lb/>
+extravagante Quarantaine Forslag var det paa Forhaand at erfare Deres <lb/>
+Majestæts Anskuelser, som forhaabentlig ville blive stadfæstede ved den <lb/>
+afgivende naadigste Resolution.</p>
+               <p xml:id="p17">	Den i dette Øieblik modtagne Post fra Bergen meddeler, at i de 3 <lb/>
+Døgn fra 23 til 26 Februar vare ialt angrebne 19, hvoraf 10 vare indførte <lb/>
+fra Landdistrictet, – følgelig i 3 Døgn kun 9 for Bergens Bye! <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2 Marts 1849</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 2. mars 1849</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Votum</hi>.</head>
+               <p xml:id="p18">	Jeg Statholder Løvenskiold kan ikke tiltræde denne Marine <lb/>
+Departementets principale Indstilling. Erfaring har altfor ofte og senest <lb/>
+inden vort eget Lands Grændser viist, at Cholera Sygdommen let og hastig <lb/>
+forplantes ved Smitte, hvorfor de endnu fra Landsplagen befriede <lb/>
+Rigets Egne, ere saa meget mere udsatte jo nærmere Sygdommen findes, – <lb/>
+medens Ulykken for disse vilde blive lige stor, om Smitten bragtes dem <lb/>
+fra inden eller udenrigsk Sted.</p>
+               <p xml:id="p19">	Naar en smitsom Sygdom er udbrudt i et Huus vil en fornuftig og <lb/>
+samvittighedsfuld Huusbestyrelse søge at afværge alt Samqvem udenfor <lb/>
+Sygepleien, imellem Husets syge og endnu friske Beboere. Saaledes bør <lb/>
+Statsstyrelsen anvende alle mulige Midler, for at afværge Samqvem <lb/>
+imellem de Egne, hvor Sygdommen allerede hersker og de endnu usmittede, <lb/>
+og kun derved vil den opfylde den den paahvilende Pligt at iværksætte <lb/>
+hvad der staaer i menneskelig Magt mod Landeplagens Udbredelse over det <lb/>
+ganske Land. Som foreskrivende dertil sigtende Midler, stemmer jeg <lb/>
+underd. for Indstillingens subsidiaire Deel.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

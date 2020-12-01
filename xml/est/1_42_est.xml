@@ -1,0 +1,113 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>42</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 7. november 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 7. november 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Formiddagen den 4de sluttede Advocat Stang sit Forsvar for Rigsretten, <lb/>
+hvorefter Statsraad Vogt, som havde biværet den hele Procedur,yttrede:  <lb/>
+at da han er overbeviist om, at da hans underdanigste Raad, hvorfor  <lb/>
+han tiltales, ere stemmende med Grundloven og Rigets Tarv, saa modser  <lb/>
+han med Rolighed Rettens Dom. Presidenten, Amtmand Schydtz, erklærede <lb/>
+derpaa Proceduren sluttet og Sagen optaget til Doms, som ifølge  <lb/>
+Reglementet vil blive afsagt i Morgen den 8de. – </p>
+               <p xml:id="p3">	Under Stangs Procedur var Galleriet og tilstødende Værelser <lb/>
+opfyldte af Tilhørere af alle Classer. Byens eleganteste Damer indfandt <lb/>
+sig i den tilstødende Lafthingssal daglig Klokken 9 om Morgenen og forlod <lb/>
+ikke deres Pladse før Retten blev hævet Klokken 2 Eftermiddag. Regjeringens <lb/>
+Medlemmer vare Tilhørere i den for dem indrettede Tribune.</p>
+               <p xml:id="p4">	Stangs Grundlovsfortolkning var saa skarpsindig, talentfuld, klar, <lb/>
+lærerig, at Mange med mig ønskede, at han kunde og vilde holde  <lb/>
+Forelæsninger over denne vigtige Gjenstand. Hvad Indflydelse den har havt <lb/>
+paa Rettens Medlemmer vil Dommen vise. Erindres maa det, at Rigsrettens <lb/>
+Pluralitet bestaaer af Lagthings-Medlemmer, og at Odelsthinget, som  <lb/>
+anklager og Lagthinget, som dømmer, ere 2de Alen af eet Stykke. Ikke  <lb/>
+destomindre venter jeg Frifindelse, fordi neppe nogen vil den eneste Straf, <lb/>
+som Ansvarligheds-Loven i denne Begivenhed levner: Embeds-Forbrydelse.</p>
+               <p xml:id="p5">	I Anledning af at en hollandsk Skipper, som havde lodset sin Ladning <lb/>
+i Laurvig, indtog en Deel Poteter til Retour, yttrede 100 à 150 <lb/>
+Personer af Arbeidsclassen den 30te forrige Maaned Misnøie herover som <lb/>
+over Brændeviins-Brænden, for Stedets Politiemester, ved hvis Tiltale <lb/>
+de dog snart beroligedes. Amtmanden yttrer i sin Indberetning herom, at <lb/>
+der ikke er Mangel paa Poteter, som daglig sælges endog i smaa Partier <lb/>
+for den upaaklagelige Priis af 4 Mark pr Tønde.</p>
+               <p xml:id="p6">	Jernbane-Forslaget er for Tiden i Justits-Departementet for at erfare <lb/>
+dets Formening om, hvorvidt Deres Majestæt kan give Interessentskabet <lb/>
+Expropriationsret og privilegium exclusivum for 50 Aar.</p>
+               <p xml:id="p7">	Da jeg i denne Henseende sporede megen Meningsforskjel indhentede <lb/>
+jeg Professor Schweigaards skriftlige stadfæstende Mening herom, som <lb/>
+foreløbig er tiltraadt af Statsraaderne Vogt, Petersen og mig. Jeg har <lb/>
+imidlertid bedet Sidstnævnte at behandle Gjenstanden med megen  <lb/>
+Omhyggelighed og Forsigtighed.</p>
+               <p xml:id="p8">	Hendes Majestæt Enke-Dronningens Fødselsdag agter jeg at feire ved <lb/>
+en Bal; men da vore Politilove forbyde Dands efter Klokken 9 paa en Sabbat- <lb/>
+Aften, har jeg troet at burde udsætte Feiringen til den 9de, som <lb/>
+jeg haaber Deres Majestæt naadigst vil bifalde, saavel paa Grund af den <lb/>
+anførte, som andre samme Dags Omstændigheder.</p>
+               <p xml:id="p9">	I Anledning af Deres Majestæts naadige Meddelelse betræffende min <lb/>
+Søn Adam, vover jeg underdanigst at oplyse, at det naadigst ommeldte <lb/>
+for ham bestemte Brev, som ankommet hertil den 30te forrige Maaned, ikke <lb/>
+har kunnet været afsent herfra før den 3die denne Maaned, og da jeg <lb/>
+Intet senere har hørt fra Adam, – befrygter jeg, at han ved Brevets  <lb/>
+Ankomst til Berg har været fraværende paa Fossum eller Ellinggaard. Jeg <lb/>
+har imidlertid ved Dagsposten averteret ham og vover at udbede naadigst <lb/>
+Overbærelse for hans underdanigste Svars Forsinkelse paa Grund af <lb/>
+Omstændighederne.</p>
+               <p xml:id="p10">	Gaarsposten bragte Statsraads Protocollen af 30te forrige Maaned <lb/>
+med den naadigste provisoriske Anordning af samme Dato.</p>
+               <p xml:id="p11">	Efter at Ovenstaaende var skrevet modtager jeg i dette Øieblik et <lb/>
+Brev fra Adam, dateret Ellinggaard den 5te, hvoraf sees, at han i Gaar <lb/>
+den 6te vilde vende tilbage til Berg, hvor han forhaabentlig vil have <lb/>
+forefundet Hans Excellence Udenrigs Ministerens Brev. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7 November 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

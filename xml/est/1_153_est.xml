@@ -1,0 +1,98 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>153</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. mai 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. mai 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 28de denne Maaned.</p>
+               <p xml:id="p2">	I Haab om, at Overbringeren heraf Candidatus juris, Politiefuldmægtig <lb/>
+Meltzer, vil kunne naae Stockholm forinden Deres Majestæts Afreise <lb/>
+den 1ste Juni, iler jeg underdanigst at indberette, at Storthinget efter <lb/>
+langvarige Discussioner i afvigte Nat Klokken 12 1/2 eenstemmig har  <lb/>
+bevilget den af Deres Majestæt naadigst foreslaaede Anvendelse af norske <lb/>
+Tropper og Roflottille, samt den dertil calculerede Pengesum.</p>
+               <p xml:id="p3">	Antagende, at den Norske Statsraads Afdelings Medlemmer, ved <lb/>
+Courerens Ankomst, allerede vil have forladt Stockholm, tillader jeg mig <lb/>
+underdanigst at tilstille Deres Majestæt directe, Storthingets ovennævnte <lb/>
+Beslutning med Bilag, samt Regjeringens derom afgivne underdanigste <lb/>
+Indstilling, som Deres Majestæt, naar Omstændighederne tillade, vil <lb/>
+have den Naade at lade Sig in optima forma foredrage, for derefter at <lb/>
+blive protocolleret.</p>
+               <p xml:id="p4">	I Anledning af denne Sag oplevede jeg i Gaar en bekymret Dag. <lb/>
+Efterat Aspecterne i Comiteen i Søndag vare meget gunstige, meddeelte dens <lb/>
+Formand, Borgemester Bretteville, mig i Gaar Formiddag, at det  <lb/>
+revolutionaire Parti med Stabell i Spidsen, anstrængede alle Kræfter mod  <lb/>
+Deres Majestæts naadige Proposition, som de kun vilde bevilge under den <lb/>
+Betingelse, at Deres Majestæt tillige vilde indrømme den i den paatænkte <lb/>
+Adresse begjærte Statsraadsforandring.</p>
+               <p xml:id="p5">	Indigneret svarede jeg: at Deres Majestæt ikke vil lade Sig aftvinge <lb/>
+Concessioner, at Deres Majestæt ikke fordrer nogen Pengebevilgning <lb/>
+for Sig; men for at opretholde Rigets Selvstændighed og Ære, og at jeg <lb/>
+maatte overlade til dem, om de vilde opoffre disse dyrebare Gjenstande, <lb/>
+om de turde vove at udsætte sig og Storthinget for det frygtelige Nederlag, <lb/>
+som vilde overgaae dem, for saadan deres Færd. Den sidste Trudsel <lb/>
+virkede meest og derefter meldte Bretteville mig, at Partiet vilde  <lb/>
+frafalde enhver Betingelse; men at en <hi rend="underline">eenstemmig</hi>  Beslutning, som jeg saa <lb/>
+meget ønskede, ikke vilde kunne opnaaes, uden mit Samtykke til at Comiteens <lb/>
+Indstilling maatte medfølge Beslutningen. Jeg fandt dette vistnok <lb/>
+ganske overflødig, men ogsaa uskadelig, og jeg samtykkede, for at opnaae <lb/>
+Eenstemmighed.</p>
+               <p xml:id="p6">	Jeg kan ikke noksom prise den Klogskab og Nidkjærhed, hvormed <lb/>
+Bretteville har ledet og behandlet denne vigtige Sag.</p>
+               <p xml:id="p7">	Jeg anseer nu min danske Campagne sluttet, og som jeg ikke faaer <lb/>
+Tilladelse til at gaae med i Feldten, som jeg helst ønskede, agter jeg i <lb/>
+Morgen at flytte til Holgerslyst.</p>
+               <p xml:id="p8">	Enhver Anstrængelse vil nu skee for at faae Tropperne snarest mulig <lb/>
+afskibet, og en Contraordre vilde blive et Sørgebudskab for dem som for <lb/>
+det norske Folk. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30te Mai 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

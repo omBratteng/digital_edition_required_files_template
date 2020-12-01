@@ -1,0 +1,89 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>378</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 17. april 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 17. april 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 31te forrige Maaned.</p>
+               <p xml:id="p2">	Af Deres Majestæts med sidste Post modtagne naadige Skrivelse <lb/>
+af 11te, hvorfor jeg nedlægger min underdanige Taksigelse, erfarede <lb/>
+jeg med usigelig Glæde, at Deres Majestæts Helbred har tilladt Deres <lb/>
+Majestæt at overtage Regjeringen, hvortil jeg tillader mig underdanigst <lb/>
+at lykønske. Denne glædelige Efterretning stadfæstedes ved en <lb/>
+Fredag Aften fra Stockholm ankommet Coureer, hvorefter jeg i Gaar føiede <lb/>
+de nødvendige Foranstaltninger til den i Dag i denne Byes Kirker <lb/>
+feirede Takkefest, som vil blive gjentaget i alle Landets Kirker af <lb/>
+det ganske Folk. Jeg kommer nu fra "Vor Frelsers Kirke, hvor Pastor <lb/>
+Bruun i Anledning af den lykkelige Begivenhed holdt en meget opbyggelig <lb/>
+Prædiken for den talrige Forsamling, hvis Deeltagelse var synlig. <lb/>
+Under Lovsangen gaves den befalede Salut.</p>
+               <p xml:id="p3">	Vore Regjerings Anliggender gaae sin sædvanlige jevne Gang, uden at jeg <lb/>
+for Øieblikket har Anledning til derom noget særdeles at indberette.</p>
+               <p xml:id="p4">	Vinteren har fattet en overdreven Godhed for os og vil endnu ikke <lb/>
+forlade os.</p>
+               <p xml:id="p5">	Isen er aabnet for ind- og udgaaende Skibe; men ved Siden deraf <lb/>
+kjøres den endnu. Om Nætterne fryser det 6 a 9 Grader, om Dagen have <lb/>
+vi Solen paa Hovedet, men gaae endnu paa Snee og Iis.</p>
+               <p xml:id="p6">	Statsraad Motzfeldt synes ikke at lide svære Smerter, men hans <lb/>
+Forfatning er saa mislig, at Lægerne ikke have Haab om hans Helbredelse.</p>
+               <p xml:id="p7">	Med min egen Helbredelse gaaer det meget langsomt. Jeg kan ikke <lb/>
+sige mig syg; men jeg føler mig heller ikke frisk. Min Læge, Professor <lb/>
+Holst, vil have mig til Marienbad, hvorefter jeg for 3 Aar føelte <lb/>
+mig særdeles vel; men jeg har ondt for at komme over Dørtærsken, jeg <lb/>
+vil ugjerne bortfjerne mig i vor korte vakkre Aarstid og det synes <lb/>
+lidet Umagen værd at lappe paa den gamle Maskine. Om jeg imidlertid <lb/>
+skulde blive nødsaget til at følge min Læges Raad, vover jeg foreløbig <lb/>
+underdanigst at spørge, om Deres Majestæt naadigst vil tillade <lb/>
+mig at ansøge om den dertil nødvendige Tjenstledighed.</p>
+               <p xml:id="p8">	Jeg vover ikke at haabe, at Deres Majestæt vil kunne beære Norge <lb/>
+med Sin høie Nærværelse i Løbet af dette Aar. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17de April 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

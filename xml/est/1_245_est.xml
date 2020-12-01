@@ -1,0 +1,94 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>245</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 24. september 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 24. september 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p xml:id="p2">	Sidste Stockholms Postbragte mig Deres Majestæts naadige <lb/>
+Skrivelse af 19de, hvorfor jeg nedlægger min underdanigste  <lb/>
+Taksigelse.</p>
+               <p xml:id="p3">	Jeg beklager, at jeg ikke idag kan angive de for Christiania <lb/>
+valgte Valgmænd, fordi Valgforretningen, som begyndte i Gaar, ikke <lb/>
+vil blive sluttet før end i Morgen. Imidlertid vil en Liste over de <lb/>
+udkaarede Valgmænd, blive denne underdanigste Rapport vedlagt.</p>
+               <p xml:id="p4">	Man haaber Pluralitet for en omforenet Liste over Valgmænd af <lb/>
+hvem Schweigaard, Daae, Kjøbmand Houge og Garver Ytteborg, kunne  <lb/>
+ventes valgte til Storthings Representanter, – et Valg, som maatte  <lb/>
+ansees for det Bedste, der efter Omstændighederne kan ventes opnaaet.</p>
+               <p xml:id="p5">	Privat Deeltagelse i vor paatænkte Jernbane kan neppe ventes <lb/>
+af nogen afgjørende Betydenhed, deels fordi den ikke byder <hi rend="underline">Nytte for</hi>
+                  <lb/>
+                  <hi rend="underline">Alle</hi>, dels fordi Mange, som uden Hensyn til Fordeel, interessere sig <lb/>
+derfor, som et Nationalanliggende for Tiden mangle Evne til at bringe <lb/>
+Offer, og saaledes maa med faae Undtagelser, Actie-tegning til den <lb/>
+norske Jernbane ansees. Jeg er desværre selv i dette Tilfælde,  <lb/>
+uagtet ingen Normand kan føle en varmere Interesse for Sagen end jeg; <lb/>
+men i Mangel af Afsætning for mine Jern- og Træ Producter, mangler <lb/>
+jeg for Tiden Evne. Vort Stangjern mangler en lønnende Afsætning, <lb/>
+fordi det ikke kan concurrere i Priis med svenske; vort andet  <lb/>
+Hovedproduct ”Støbegods” (Gjutgods) er usælgeligt, fordi de mange i  <lb/>
+den senere Tid anlagte Kuppelovne, som arbeide med engelsk Raajern og <lb/>
+Steenkul, kan levere et billigere Product end Jernværkerne, der  <lb/>
+producere af norske Raamaterialier, – og endelig fordi det nye store  <lb/>
+Smede- og Støbeanlæg paa Horten nu vil afgive de Statens Jernbehov, som <lb/>
+de private Værker hidindtil have leveret.</p>
+               <p xml:id="p6">	I de svenske Jernbaner kan formodentlig tages Actier med Udsigt <lb/>
+til Erstatning eller Fordeel, hvorom den norske Jernbane kun kan give <lb/>
+enkelte Træexporteurer og Producenter Haab eller Vished.</p>
+               <p xml:id="p7">	Jeg agter i Morgen at begive mig for en kort Tid til Fossum i <lb/>
+Velfærdsanliggender, og under min Fraværelse at overdrage mine  <lb/>
+Vices til Regjeringens herværende ældste Medlem, Statsraad Vogt, som <lb/>
+vil fremføre Deres Majestæts naadige Hilsen, der vil blive modtaget <lb/>
+med underdanigst Taknemmelighed. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24de September 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

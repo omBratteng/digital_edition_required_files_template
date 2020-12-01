@@ -1,0 +1,112 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>291</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. april 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. april 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 24de denne Maaned.</p>
+               <p xml:id="p2">	Statsraad Vogt overbragte Storthinget i Gaar Morges Deres <lb/>
+Majestæts naadige Resolution om dets Prolongation, saaledes betinget, <lb/>
+som Klogskab under nærværende Omstændigheder med Nødvendighed bød <lb/>
+det. Imidlertid erfarede jeg allerede i Statsraadet i Gaar, at denne <lb/>
+Resolution har opvakt visse Storthingsmænds Uvillie; jeg hørte senere, <lb/>
+at Lerche havde foreslaaet Statsraadets Protocol indhentet, for <lb/>
+at erfare hvilken Synder, der kan have tilraadet en saa formastelig <lb/>
+Resolution, for at bevirke lignende Optrin som 1836 og Christiania <lb/>
+Posten for idag No 938 viser den Bitterhed, hvormed Resolutionen er <lb/>
+bleven omtalt af Stabell, Lerche, Holst Harbitz.</p>
+               <p xml:id="p3">	Jeg troer ikke, at Protocollen vil blive forlangt, fordi man <lb/>
+uden Tvivl af Fortroelige vil blive underrettet om, at Protocollen <lb/>
+er meget uskyldig og intet Udbytte kan give; men hvilke Galskaber <lb/>
+Ildsken iøvrigt kan foranledige kan ikke forudsees.</p>
+               <p xml:id="p4">	Imidlertid afgive de citerede Yttringer et eclatant Beviis paa <lb/>
+den Aand, som raader i Storthinget, paa Arrogants, Uforskammenhed og <lb/>
+Dumdristighed! Deres Majestæt har bevilget Storthingets Ønske under <lb/>
+Reservation af Sit Kongelige Prærogativ, og blot denne kloge  <lb/>
+nødvendige Reservation, foranlediger de høie Herrers impertinente <lb/>
+Fortrydelse!</p>
+               <p xml:id="p5">	Denne Begivenhed godtgjør end yderligere, at Regjeringen ikke <lb/>
+uden yderste Nødvendighed bør optage dette Storthings Tid med nye <lb/>
+Forslag, om den ikke vil paadrage sig den grundede Bebreidelse, at den <lb/>
+selv foranlediger Storthingets Forlængelse. Herom ere alle Regjeringens <lb/>
+Medlemmer i Almindelighed enige, men det hindrer ikke, at jo flere <lb/>
+Departementschefer daglig fremkomme med nye endog Budgetforslag, <lb/>
+som nødvendig maa forsinke Storthingets nødvendigste Gjerning, nemlig <lb/>
+Budgettet.</p>
+               <p xml:id="p6">	Det holder meget vanskeligt at bevæge DeHerrer Departementschefer <lb/>
+til at fremkomme med deres Forslag i rette Tid, det er før  <lb/>
+Storthingets Aabning; men naar Munden først er kommen paa Gang, er det <lb/>
+vanskelig at standse dem! Saaledes fremlagde Statsraad Erichsen i <lb/>
+Gaar en Proposition om en yderligere Bevilgning af 1000 Spdl til <lb/>
+Sømandsskoler med mere, som alle Regjeringens Medlemmer, underdanigst <lb/>
+fraraade at fremsætte, undtagen Stang, – fordi han selv endnu agter <lb/>
+at fremkomme med Forslag, som vilde medføre betydelige Udgifter. Jeg <lb/>
+erindrer, at Høistsalig Kongen fra den angivne Synspunct afslog at <lb/>
+fremsætte 5 for sildig fremkomne Lovforslag, og jeg tør underdanigst <lb/>
+tilraade, at sætte en lignende Grændse for Forslagslysten.</p>
+               <p xml:id="p7">	Jeg har mod al Forventning erfaret, at vedkommende Commitée vil <lb/>
+fraraade Storthinget at antage Hr Heines Laanetilbud. Dette meddeelte <lb/>
+Hr Stabell, der som Odelsthingets Præsident var indbuden til min <lb/>
+Bal den 24de paa en plump Maade Hr Heine, som svarede roligt: "Dann <lb/>
+behalte ich meine Millionen", – og derefter yttrede for min Søn Otto: <lb/>
+Das ist ein mahl ein arroganter ungezogener Kerl! " </p>
+               <p xml:id="p8">	Forhenværende Fahnjunker, nuværende Undertoldbetjent Falkenstrøm <lb/>
+har bedet mig anbefale ham til Deres Majestæts Naade, hvortil <lb/>
+han er værdig og hvorpaa han har modtaget tidligere Beviis.</p>
+               <p xml:id="p9">	Raadhuus og Kæmnerretten i Stockholm havde tilkjendt Falckenstrøm <lb/>
+med Flere en Arvecapital stor 197,366 Rdl Banco, som Hofretten <lb/>
+derimod nu har tilkjendt den svenske Krone. Han henflyer nu til  <lb/>
+Deres Majestæts Naade som Kronens Bærer og Høieste Overhoved og jeg <lb/>
+vover at anbefale denne værdige og trængende Mand til Deres Majestæts <lb/>
+naadige Beskyttelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de April 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

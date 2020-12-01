@@ -1,0 +1,67 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>204</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. november 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. november 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p xml:id="p2">	Jeg har ikke villet undlade underdanigst at indberette til Deres <lb/>
+Majestæt, at der igaar af Høiesteret blev afsagt følgende Dom:</p>
+               <p xml:id="p3">	"Capitaine-Lieutenant i Marinen, Johan Georg Sigholdt bør for <lb/>
+falske Angivelser og respectstridigt Forhold at hensættes til  <lb/>
+Strafarbeide i 6 Maaneder og afsættes fra sit Embede samt betale alle af <lb/>
+Sagen flydende Omkostninger, hvorunder i Sallarium til Actor i <lb/>
+Høiesteret, Advocat Lous, 150 Spdl."</p>
+               <p xml:id="p4">	Jeg havde igaar den Ære at feire Hendes Majestæt Enke Dronningens <lb/>
+høie Fødselsdag ved en større Bal. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de November 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

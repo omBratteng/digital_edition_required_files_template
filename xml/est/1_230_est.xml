@@ -1,0 +1,141 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>230</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 19. mai 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 19. mai 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p xml:id="p2">	Det er mig særdeles tilfredsstillende at kunne underdanigst <lb/>
+indberette, at dette Aars 17de Mai er hengaaet uden ringeste Forstyrrelse <lb/>
+af den offentlige Rolighed. Studenterne havde en Sexa, hvortil de  <lb/>
+havde udstedet en almindelig Indbydelse. Haandværkerne feirede Dagen i <lb/>
+deres forskjellige Foreninger og overalt tilgik det stille og  <lb/>
+anstændigt. Thrane havde efter min alvorlige Formaning anstrænget sig, for <lb/>
+at afholde sit talrige Regimente fra Uorden og Fredsforstyrrelse. I  <lb/>
+Gaderne saaes ikke et beskjænket Menneske; de havde sit daglige Udseende, <lb/>
+undtagen at Folk om Eftermiddagen vare Søndagsklædte.</p>
+               <p xml:id="p3">	I de første Aar af mit Ophold her modsaaes den 17de Mai stedse <lb/>
+med Uroe og Ængstelse af Byens fredelige Indvaanere og da Nutiden  <lb/>
+endog er mere urolig og bevæget er det dobbelt vel, at der ikke  <lb/>
+længere synes at være Anledning til denne Uroe.</p>
+               <p xml:id="p4">	Den 16de forespurgte Thrane, om jeg paa anden Pintsedag vilde <lb/>
+modtage hans længe omtalte Petition til Deres Majestæt; men da jeg ikke <lb/>
+vilde modtage den paa en Helligdag og heller ikke vilde levne flere  <lb/>
+Dage til Forberedelser, bestemte jeg den 18de til Modtagelse, da Thrane, <lb/>
+geleidet af 2de saakaldte Medbestyrere i al Stilhed leverede mig  <lb/>
+Petitionen. Mærkeligt var det, at disse Medbestyrere ikke vare indfødte <lb/>
+Norske, men den Ene, – en Skaaning, Kobberslagersvend Borgstrøm, den <lb/>
+anden en dansk Steenhuggersvend Svendsen, – som dog begge have opholdt <lb/>
+sig her i flere Aar.</p>
+               <p xml:id="p5">	Overbringerne gererede sig meget beskedne og jeg gav dem den <lb/>
+Forsikkring: at Regjeringen vil tage Petitionen under nøie Overveielse og <lb/>
+derefter med sin underdanigste Betænkning foredrage den for Deres  <lb/>
+Majestæt; men bemærkede derhos, at da Petitionen angaaer mange Gjenstande, <lb/>
+som sortere under forskjellige Administrationsgrene, vil dens Behandling  <lb/>
+medtage lang Tid. Alle Regjerings Departementer, undtagen  <lb/>
+RevisionsDepartementet, vil faae med den at bestille.</p>
+               <p xml:id="p6">	Da det turde være Deres Majestæt paafaldende, at Generalmajor <lb/>
+Anker ikke af Regjeringens Pluralitet er indstillet til Commandant Posten <lb/>
+i Frederikstad, tillader jeg mig til Oplysning underdanigst at vedlægge <lb/>
+mit Votum under Sagens Circulation. Heraf vil naadigst erfares, at Anker <lb/>
+oprindelig var indstillet af Arme-Departementet; men at dette senere <lb/>
+har forandret Mening paa Grund af Professor Heibergs Yttring om  <lb/>
+Generalens Øiensvaghed. Professoren har dog ikke erklæret, at General Anker <lb/>
+nu er blind; men at han sandsynlig kan blive det. Denne Sandsynlighed <lb/>
+kan dog ikke forandre min Anskuelse, da hans Syn for Tiden ikke gjør ham <lb/>
+uskikket for Posten.</p>
+               <p xml:id="p7">	Jeg kan ikke beskrive min Bekymring, min Sorg over, at see mig <lb/>
+berøvet den Lykke at opvarte Deres Majestæter den 19de Juny. Denne Sorg <lb/>
+angriber mit Hjerte, min Sjæl, min Helbred ubeskrivelig. Jeg bør <lb/>
+imidlertid finde mig i Guds Villie og beder underdanigst, at Deres Majestæt <lb/>
+vil skjænke mig naadig Deeltagelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19de Mai 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>Løvenskiold</signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 19. mai 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <p xml:id="p8">	Under denne Sags første Circulation var Generalmajor Anker <lb/>
+indstillet til Commandantposten i Frederikstad saavel af Armee-Commandoen <lb/>
+som af Arme-Departementet, og jeg tiltraadte denne Indstilling med <lb/>
+fuld Tillid til disse Autoriteters sagkyndige Bedømmelse, delende deres <lb/>
+Anskuelse, at General Anker maatte ansees for den meest qvalificerede <lb/>
+blant Aspiranterne og at han efter en vedlagt Lægeattest ikke kunde <lb/>
+ansees uskikket til det attraaede Embedes Bestyrelse.</p>
+               <p xml:id="p9">	Senere har Armee-Departementet fundet sig foranlediget til at <lb/>
+frafalde sin oprindelige Indstilling paa Grund af en Conference med  <lb/>
+Professor Heiberg, som paa Grund af ommeldte Lægeattest formener det  <lb/>
+sandsynligt, at General Ankers Øine lide af den saa kaldte grønne Star, der <lb/>
+ansees ulægelig og ledende til total Blindhed.</p>
+               <p xml:id="p10">	Paa Grund af denne Sandsynlighed om en Øiensvaghed<hi rend="underline">der kan lede til</hi>
+                  <lb/>
+                  <hi rend="underline">fremtidig Blindhed</hi>, finder jeg mig ikke beføiet, ja ikke berettiget til <lb/>
+at frafalde min oprindelige Anskuelse. Spørgsmaalet bør vel ikke være, <lb/>
+om General Anker risquerer <hi rend="underline">at blive</hi>  blind, som Professor Heiberg  <lb/>
+formener sandsynlig, men om hans Syn <hi rend="underline">for Tiden</hi>  gjør ham uskikket for det <lb/>
+omhandlede Embede, hvilket den commanderende General, som kjender ham <lb/>
+nøie, – ingenlunde antager. Selv har jeg i en lang Række af Aar kjendt <lb/>
+General Anker som nærsynt; men ligesom denne Øiensvaghed, efter den <lb/>
+commanderende Generals Vidnesbyrd, ikke har forhindret ham fra ' <lb/>
+forsvarlig at udføre sin active Cavallerie Officiers Tjeneste, saaledes har <lb/>
+jeg i denne lange Aarrække ikke bemærket nogen mærkelig Tiltagen af <lb/>
+hans Nærsynthed, som, om den tiltager, dog i alle Fald tiltager saa <lb/>
+langsomt, at man i en længere Fremtid tør haabe ham tjenstdygtig.</p>
+               <p xml:id="p11">	Jeg antager saaledes, at General Anker, uagtet han er nærsynt, <lb/>
+forsvarlig vil kunne bestyre Commandant-posten i Frederikstad, hvortil <lb/>
+jeg fremdeles anseer ham meest qvalificeret.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 10 Mai 1850</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

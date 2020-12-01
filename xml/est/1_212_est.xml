@@ -1,0 +1,82 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>212</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. januar 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. januar 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Værnepligtssagen var igaar igjen under saa kaldt Discussion i <lb/>
+Statsraadet, men som denne, efterat Regjeringens øvrige Medlemmer have <lb/>
+bestemt deres vist nok forskjellige Meninger, egentlig ikke bestaaer i <lb/>
+andet end at Statsraad Stang optager den ene Session efter den anden med <lb/>
+at docere og plaidere, saa kom vi ikke videre med Sagen, hvilket ikke <lb/>
+var mig uventet.</p>
+               <p xml:id="p3">	Igaar frafaldt Statsraad Stang igjen sit Forslag om at tilkalde <lb/>
+overordentlige Medlemmer til Statsraadet; men han erklærede sig  <lb/>
+foranlediget til at tilføre Protocollen saa meget, at han dertil behøvede <lb/>
+otte Dage, for hvilke han begjærede Sagens endelige Afgjørelse udsat.</p>
+               <p xml:id="p4">	Naar jeg anseer mig forpligtet til at trætte Deres Majestæt med <lb/>
+disse Detailler, da er det for underdanigst at vise, at det har været <lb/>
+mig umuligt at bidrage mere end skeet er, til Opfyldelse af Deres <lb/>
+Majestæts naadige Befaling af 19de October sidstleden.</p>
+               <p xml:id="p5">	Til Følge Hr Greve Lewenhaupts nu modtagne Skrivelse af 17de vil <lb/>
+jeg med Taknemmelighed tilsende Sælbo Præstegjeld Deres Majestæts <lb/>
+naadige Kongelige Gave 100 Speciedaler. Af Erfaring i en mindre Maalestok <lb/>
+kan jeg vide, hvor betynget Deres Majestæts Haandkasse maa være, og <lb/>
+jeg er derfor altid ængstelig for at forøge dens Byrde. Forrige Aar <lb/>
+blev jeg af min Gage 10,000 Speciedaler, ilignet Skatter til Christiania <lb/>
+Bye 335 Spdl.; dette Aar 600 Speciedaler, hvorefter rester til min store <lb/>
+Huusholdning 9,400 Speciedaler, hvormed man ikke i Christiania kan gjøre <lb/>
+noget stort Huus.</p>
+               <p xml:id="p6">	Vinteren er meget stræng; I Morges havde vi 15 Grader Reaumur Kulde. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 Januar 1850. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

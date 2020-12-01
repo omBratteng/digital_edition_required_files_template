@@ -1,0 +1,80 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>196</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 21. juli 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 21. juli 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Den Enkegrevinde Wedels betænkelige Helbredstilstand, som jeg i <lb/>
+min sidste underdanigste Rapport af 17de ommeldte, endte paa den  <lb/>
+sørgeligste Maade med hendes dødelige Afgang den 19de denne Maaned Klokken <lb/>
+9 Formiddag i hendes Alders 59 1/2 Aar.</p>
+               <p xml:id="p2">	Onsdag den 14de Eftermiddag, gjorde hun mig et venligt Besøg. <lb/>
+Hun klagede over at fryse, som jeg ansaa for en naturlig Følge af den <lb/>
+kolde vinterlige Temperatur og Intet lod ahne nogen Sygdom. Strax ved <lb/>
+Hjemkomsten lagde hun sig til Sængs, som hun aldrig mere forlod. Den <lb/>
+samme Sygdom, nemlig en voldsom Hjerne Inflammation, som forvoldte <lb/>
+hendes kjære Datter Carolines Død, – sluttede hendes Liv.</p>
+               <p xml:id="p3">	Den 16de indfandt sig paa Bogstad hendes Børn og Børnebørn fra <lb/>
+Jarlsberg samt Frue Ørtenblad, fød Sødermark fra Wärmeland, som hun <lb/>
+havde indbuden, for at see alle de Sine samlede, forinden hun i næste <lb/>
+Maaned vilde have tiltraadt en Badereise til Loka; men hun kjendte dem <lb/>
+neppe mere.</p>
+               <p xml:id="p4">	Den Naade, hvormed Deres Majestæter i en lang Række af Aar have <lb/>
+hædret vor salige Afdøde, tillader mig underdanigst at meddele disse <lb/>
+sørgelige Detailler, og jeg veed, at Deres Majestæter ville skjænke <lb/>
+hende en naadig, – ja Hendes Majestæt Dronningen, en kjærlig Erindring.</p>
+               <p xml:id="p5">	Grevinde Wedel har forladt denne Verden, beklaget og savnet af <lb/>
+Mange, ømt begrædt af os, hendes Nærmeste.</p>
+               <p xml:id="p6">	Efter 52 Aars Bekjændtskab, var hun een af mine kjæreste Veninder, <lb/>
+og jeg føler atter med dyb Smerte Alderdommens tunge Lod, at tabe <lb/>
+den ene kjære Ven efter den anden. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 21de Junii 1849</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

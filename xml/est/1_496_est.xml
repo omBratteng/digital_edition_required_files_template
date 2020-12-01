@@ -1,0 +1,110 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>496</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. april 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. april 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min underdanigste Rapport af 29de forrige Maaned, har <lb/>
+Amtmand Harris indberettet, at han har anmodet Lensmand Ueland om at <lb/>
+komme tilbage, for at overtage sin Function, – og Amtmand Cappelen, <lb/>
+at han ligeledes har anmodet Procurator Sverdrup om i samme Hensigt <lb/>
+at komme tilbage til Laurvig, hvor han ifølge sin Bestalling <hi rend="underline">skal</hi>
+                  <lb/>
+                  <hi rend="underline">have sin faste Bolig</hi>.</p>
+               <p xml:id="p2">	Saavidt ere vi kommet, 2 Maaneder, efterat Deres Majestæts naadige <lb/>
+Resolution af 1ste Februar er afgivet, medens vi kunde og burde <lb/>
+være kommet lige langt 2 Uger derefter, om alle Vedkommende  <lb/>
+pligtskyldigst vilde have bidraget til Sagens Fremme.</p>
+               <p xml:id="p3">	For mig er det nu klart, at man tvertimod fra Øverst til Nederst <lb/>
+søger at forhale Sagen, for at Deres Majestæts naadige Resolution <lb/>
+omsider maa blive uden Virkning, – og dette vil uden Tvivl blive <lb/>
+Tilfældet, om ikke Deres Majestæt nu Høist-Selv tager Initiativet og  <lb/>
+giver Sagen et uimodstaaeligt Stød fremad.</p>
+               <p xml:id="p4">	Jeg formoder, at Ueland og Sverdrup ikke ville overile sig med <lb/>
+at besvare deres Amtmænds Indbydelser, som disse, efter den hidtil <lb/>
+gjorte Erfaring, ikke ville overile sig med at gjentage. Derefter <lb/>
+tør Indberetninger og Correspondance medtage nogle Maaneder. Imidlertid <lb/>
+ville Ueland og Sverdrup vedblive deres Function i Storthingets <lb/>
+Jury Commission, og Deres Majestæts naadige Resolution af 1ste <lb/>
+Februar vil blive eluderet til Fryd og Gammen for alle Vedkommende. <lb/>
+For at tilintetgjøre denne stygge Plan, tillader jeg mig underdanigst <lb/>
+at foreslaae, at Deres Majestæt i første Statsraad naadigst <lb/>
+vil befale den norske Regjering at afgive og med dens Betænkning at <lb/>
+ledsage en nøiagtig underdanigst Forklaring om hvad der, for saa <lb/>
+vidt angaaer enhver af de af Storthinget til Medlemmer af den af samme <lb/>
+nedsatte Jury Commission valgte Medlemmer og Suppleanter for disse, <lb/>
+er fra enhver vedkommende Authoritets Side, enten forinden Hans <lb/>
+Majestæts naadige Resolution af 1ste Februar sidstleden eller senere, <lb/>
+meddeelt eller anordnet, med Hensyn til de valgte Mænds Deeltagelse  <lb/>
+i det dem tiltænkte Arbeide.</p>
+               <p xml:id="p5">	For at Deres Majestæt maa kunne bedømme dette mit underdanige <lb/>
+Forslag, hvori Statsraad Vogt er enig, vover jeg, i <hi rend="underline">Tillid til ubrødelig</hi>
+                  <lb/>
+                  <hi rend="underline">Taushed</hi>, underdanigst uforbeholden at fremstille min Anskuelse <lb/>
+om denne Sags Behandling og nærværende Stilling.</p>
+               <p xml:id="p6">	Jeg antager, at den oprindelige Plan til Pluralitetens Indstilling <lb/>
+er lagt i Stockholm, og at de samme Mænds senere Formaal har <lb/>
+været og er, at udhale Iværksættelsen af Deres Majestæts naadige  <lb/>
+Resolution af 1ste Februar saa længe, at den for Ueland og Sverdrup <lb/>
+maa blive ørkesløs. I Mangel heraf kunde og burde de have været  <lb/>
+hjemkaldte længe før 2 Maaneder! Den af mig paapegede Tendents vil  <lb/>
+formodentlig forraade sig under Sagens næste Behandling i Statsraadet i <lb/>
+Stockholm og her, og forøge vor Menneske-Kundskab. Mod Uelands  <lb/>
+Bortfjernelse fra Jury Commissionen vil man formodentlig nu indvende  <lb/>
+fingeret Klogskab, – mod Sverdrups, den juridiske Vanskelighed at faae <lb/>
+ham dømt fra sit Embede, en Vanskelighed, som jeg dog formener  <lb/>
+Statsraad Stang maatte kunne overvinde, om han vilde bruge sin juridiske <lb/>
+Kløgt til at opretholde sin Konges Ord, – hvilket for en Kongelig <lb/>
+Raadgiver er værdigere end at opponere derimod.</p>
+               <p xml:id="p7">	Jeg troer Stang endog modtagelig for denne Anskuelse, om den <lb/>
+meddeles ham directe af Deres Majestæt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste April 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

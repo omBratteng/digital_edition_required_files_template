@@ -1,0 +1,76 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>367</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. desember 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. desember 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Jeg vaagnede denne Dags Morgen ved det glade Budskab, som Deres <lb/>
+Majestæt under 14de denne Maaned har havt den Naade at meddele mig, <lb/>
+og min Glæde forøgedes saare meget ved, efter en lang og bekymringsfuld <lb/>
+Tid, at have den Lykke at gjensee Deres Majestæts egenhændige <lb/>
+høie Navnunderskrift aldeles uforandret.</p>
+               <p xml:id="p3">	Jeg takker underdanigst for denne Naade og iler med at fremsende <lb/>
+min underdanigste Lykønskning tilligemed Deres Majestæts norske  <lb/>
+Regjerings, i Anledning af den indtrufne lykkelige Begivenhed, og har jeg <lb/>
+til Overbringer heraf valgt Lieutenant Bloch, hvis Fader for 26 Aar <lb/>
+tilbage, i en lignende Anledning overbragte Høistsalig Kongen og Deres <lb/>
+Majestæt en underdanigst Lykønskning herfra.</p>
+               <p xml:id="p4">	Jeg lod strax den naadige Meddelelse forkynde den længtende Almeenhed <lb/>
+ved Fæstningnes Kanoner og Herolder, en Opmærksomhed, som <lb/>
+denne Almeenhed fortjener ved dens hjertelige Deeltagelse, før i <lb/>
+Sorg, nu i Glæde.</p>
+               <p xml:id="p5">	I Morgen ville vi i Herrens Huus fornye vor ydmyge Taksigelse <lb/>
+for Deres Majestæts Helbredelse og for den Kostelige Julegave, som <lb/>
+Han i sin Naade har forundt Deres Majestæt, det Kongelige Huus og de <lb/>
+forenede Riger. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de December 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>126</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 17. februar 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 17. februar 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 13de denne Maaned.</p>
+               <p xml:id="p2">	Storthingets samtlige Comitéer ere nu sysselsatte med de mange af <lb/>
+Regjeringen til Behandling afgivne Sager, som endnu i rum Tid ville give <lb/>
+dem Beskjæftigelse, forinden de kunne blive refererede i Storthinget, <lb/>
+som idag har havt den første Samling i denne Uge, hvori Præsidenten <lb/>
+som sædvanlig refererede de ham ved Storthingets Aabning overleverede <lb/>
+Documenter, nemlig Deres Majestæts naadige Befaling til mig om dets <lb/>
+Aabning, Throntalen og Beretningen om Rigets Tilstand.</p>
+               <p xml:id="p3">	Da disse Documenter besluttedes lagte ad acta, uden nogensomhelst <lb/>
+Bemærkning eller Motion, tør jeg haabe, at alle Forsøg paa at bevirke <lb/>
+nogen Adresse eller Svar i Anledning af Throntalen for stedse ere <lb/>
+frafaldte.</p>
+               <p xml:id="p4">	Storthingets først valgte Embedsmænd ere gjenvalgte for denne Uge. <lb/>
+Storthingets Præsidium vil formodentlig afvexle imellem Falsen og  <lb/>
+Riddervold, Lagthingets imellem Biskop v.d. Lippe og Amtmand Schydtz. Ved <lb/>
+Besættelsen af Odelsthingets Præsidium vandt det Stabelske Partie ved <lb/>
+det første Valg en beklagelig Seier, idet Byfoged Christensen valgtes <lb/>
+til President, Stabell til Vicepresident. Dette Valg var en Følge af <lb/>
+Partiets Enighed i at concentrere alle sine Stemmer paa de 2de nævnte; <lb/>
+hvorimod Modpartiet havde deelt sine, imellem Professor Schweigaard og <lb/>
+Borgemester Bretteville. Denne Erfaring vil forhaabentlig have  <lb/>
+overbeviist dette bedre Partie om Nødvendigheden af Eenstemmighed og  <lb/>
+Sammenhold.</p>
+               <p xml:id="p5">	I Statsraad igaar bleve vi færdige med Budgettet, som snarest <lb/>
+mulig vil blive expederet til underdanigst Foredrag for Deres Majestæt. <lb/>
+Forbeholdende mig min underdanigste foreløbige Indberetning om denne <lb/>
+vigtige Gjenstand, maa jeg idag indskrænke mig til underdanigst at <lb/>
+bemærke at vor Calcul over Rigets finantielle Forholde i de 3de  <lb/>
+kommende Aar, er meget tilfredsstillende, idet de paaregnelige Indtægter, <lb/>
+uden at kræve overordentlige Ressourcer, ikke allene ville være  <lb/>
+tilstrækkelige til at dække Statens sædvanlige nødvendige Udgifter, men <lb/>
+endog til at bestride betydelige og gavnlige Reformer. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 17 Februar 1848 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

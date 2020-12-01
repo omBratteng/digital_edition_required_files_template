@@ -1,0 +1,139 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>485</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. februar 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. februar 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p xml:id="p2">	Sidste Stockholms Post bragte mig Deres Majestæts naadige Skrivelse <lb/>
+af samme Dag, hvoraf jeg erfarer, at en ikke ubetydelig Indsmugling  <lb/>
+af norsk Brændeviin over den svenske Grændse har begyndt at vise  <lb/>
+sig.</p>
+               <p xml:id="p3">	Jeg har i denne Anledning anmodet det Kongelige Finants <lb/>
+Departement om ufortøvet at anstille de nødvendige Undersøgelser, hvis  <lb/>
+Resultat jeg tør forbeholde mig underdanigst at indberette med næste <lb/>
+Post.</p>
+               <p xml:id="p4">	Jeg tillader mig underdanigst at lykønske Deres Majestæt til <lb/>
+den i Anledning af Storthingets Lovcommission fattede naadige  <lb/>
+Beslutning, som kraftig vil styrke den norske Kongemagt.</p>
+               <p xml:id="p5">	For de mig ved Grev Lewenhaupt naadigst meddeelte politiske <lb/>
+Efterretninger takker jeg underdanigst. Ak! de kunne neppe ventes gode <lb/>
+fra Wien! Det troeløse Albion har forledet den ellers selvstændige <lb/>
+Herre, de Franskes Keiser, til at forlade sit fredelige Program, <hi rend="underline">til</hi>
+                  <lb/>
+                  <hi rend="underline">sin</hi>  og Europas Ulykke. Hans Credit (i Mangel af Penge: – "nervus rerum <lb/>
+gerendarum"), – er allerede sunket dybt, naar han, for at faae <lb/>
+500 Millioner, maa forskrive sig for 800 Millioner.</p>
+               <p xml:id="p6">	For Deres Majestæts Naadegave til Trængende sidste 26de Januar <lb/>
+tillader jeg mig at vedlægge vedkommendes underdanigste Taksigelse.</p>
+               <p xml:id="p7">	Jeg bivaanede i Gaar det sædvanlige Statsraad, som afholdtes <lb/>
+i mine Værelser. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste Februar 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 1. februar 1855</supplied>
+               </head>
+               <opener>Deres Excellence!</opener>
+               <p xml:id="p8">	I det undertegnede Bestyrelse har den Ære at erkjende Modtagelsen <lb/>
+af den Samme ved Deres Excellence tilstillede Kongelige Gave <lb/>
+af 100 Spd., vover den at anholde om, at Deres Excellence vil vise <lb/>
+Selskabet den Gunst for Hs Maj. Kongen at frembære Bestyrelsens  <lb/>
+underdanigste Tak for dette fornyede Beviis paa Hs. Majestæts  <lb/>
+Interesse for Selskabet. –</p>
+               <p xml:id="p9">	Den modtagne Gave er ved den idag stedfundne Fordeling anvendt <lb/>
+saaledes: </p>
+               <table rend="noBorder" xml:id="table1">
+                  <row>
+                     <cell>
+                        <hi rend="underline">a</hi>. </cell>
+                     <cell>Til Beklædning af 32 Børn . . . . . . . . . . . .</cell>
+                     <cell> Spd 56 </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>
+                        <hi rend="underline">b</hi>. </cell>
+                     <cell>Til Brænde til 22 Familier og enkelte Personer. .</cell>
+                     <cell>  "  40 </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>
+                        <hi rend="underline">c</hi>. </cell>
+                     <cell>Til Lemmerne paa Carl Johans Stiftelse . . . . . .</cell>
+                     <cell>
+                        <hi rend="underline">  "  4  </hi>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>  Spd.100.</cell>
+                  </row>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName> i Bestyrelsen for Understøttelsesselskabet <lb/>
+    			  for Huusarme <date>d: 26de Januar 1855</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Eugénie Anker</persName>
+                     <persName>Emilie Blich</persName>.  <persName>Elise Finne</persName>.  <persName>Frederikke Wedel Jarlsberg</persName>
+                     <lb/>
+                     <persName>Henriette Wegner</persName>.  <persName>H. Krog</persName>.  <persName>Peter Schreiner</persName>.  <persName>F.I. Haslund</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

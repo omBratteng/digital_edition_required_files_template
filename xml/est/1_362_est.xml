@@ -1,0 +1,130 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>362</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. september 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. september 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te forrige Maaned.</p>
+               <p xml:id="p2">	Jeg har med Forsæt ikke villet besvære Deres Majestæt med mine <lb/>
+underdanige Rapporter under Reisen hvortil jeg heldigviis heller ikke <lb/>
+har havt nogen særdeles Anledning.</p>
+               <p xml:id="p3">	Efterretningerne om Brøndeurens og Reisens heldige Indflydelse <lb/>
+paa Deres Majestæts dyrebare Helbred, har opvakt almindelig Deeltagelse <lb/>
+og Glæde, og vi længes hjertelig efter den Lykke at gjensee <lb/>
+Deres Majestæt frisk paa Sjæl og Legeme;</p>
+               <p xml:id="p4">	Her vil forhaabentlig Intet forstyrre Deres Majestæts Tilfredshed; <lb/>
+men jeg beklager, at Deres Majestæter efter en lys og behagelig <lb/>
+Sommer, her vil gaae den mørke mindre behagelige Høst i Møde.</p>
+               <p xml:id="p5">	Vi have havt en saare behagelig velsignet Sommer, som har givet <lb/>
+os en riig Høehøst og een god Kornhøst, medens Korn-speculanter postdaglig <lb/>
+udbasune, at Kornhøsten har aldeles slaaet Feil i Sverige og Norge som paa <lb/>
+Continenten. Trælast Exporten har dette Aar været særdeles heldig, i  <lb/>
+Særdeleshed til Frankrige. Den bedste Følge af disse Forsynets gode Gaver <lb/>
+er almindeligt Velvære og saa vidt jeg har erfaret, deraf følgende <lb/>
+Tilfredshed. Det eneste, hvorover her nu kan klages, er, at Potaterne <lb/>
+over det hele Land vil give et ringe Udbytte, og at Jernprisen ikke <lb/>
+svarer til vor høie Productionsomkostning, uagtet almindeligt norsk <lb/>
+Jern i Udlandet betales med 10 Speciedaler, medens det i Stockholm kun <lb/>
+gjælder 15 Rdr. Banco pr Skippund.</p>
+               <p xml:id="p6">	Den til at undersøge og paadømme den Thraniske Agitation anordnede <lb/>
+Commission har været meget flittig og virksom; men da den, for at  <lb/>
+faae de nødvendige Oplysninger, har maattet bereise den største Deel <lb/>
+af Landet, har den først nylig kunnet afgive sin Indberetning, som har <lb/>
+foranlediget Stiftamtmanden i Christiania til at decretere justitiel <lb/>
+Tiltale med 149 Individer. Flere af disse, deriblandt Thrane og  <lb/>
+Abildgaard, ville neppe undgaae at blive dømte til vel fortjent  <lb/>
+Fæstningsarbeide.</p>
+               <p xml:id="p7">	Det var kun under den Forudsætning, at Deres Majestæt ikke forinden <lb/>
+Afreisen fra Stockholm, havde fattet Beslutning om Interims Regjeringens <lb/>
+Opløsning, at jeg maatte ansee en Beslutning herom i combineret <lb/>
+Statsraad nødvendig. Da denne Sag heldigviis allerede er ordnet, <lb/>
+bortfalder mit hele Raisonnement, hvormed jeg ikke vilde have besværet <lb/>
+Deres Majestæt, om jeg havde havt Kundskab om den trufne Foranstaltning.</p>
+               <p xml:id="p8">	Jeg vil holde en Coureer færdig for, strax ved Deres Majestæts <lb/>
+Ankomst hertil, at bringe Interims Regjeringens Ordfører Meddelelse <lb/>
+herom.</p>
+               <p xml:id="p9">	Med det den 13de hertil forventende Dampskib fra Kiel tør jeg <lb/>
+modsee endelig Bestemmelse om Deres Majestæts høie Ankomst hertil.</p>
+               <p xml:id="p10">	Jeg formoder, at Deres Majestæter efter Landstigningen vil træde <lb/>
+ind i Palaiet og derfra begive Sig til Slottet, hvor Byens Formandskab <lb/>
+ved dets Ordfører ønsker at turde fremføre sin underdanigste  <lb/>
+Velkomsthilsen.</p>
+               <p xml:id="p11">	Hans Kongelige Høihed Kronprindsen har ikke beæret mig med <lb/>
+nogensomhelst Meddelelse om Sin Ankomst hertil; men da jeg af Andre har <lb/>
+erfaret, at denne kan ventes i Dag, har jeg begivet mig til Byen, for <lb/>
+at have den Ære at modtage og opvarte Hans Kongelige Høihed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 6 Septbr. 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 6. september 1852</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p12">	Jeg har i dette Øieblik havt den Lykke at modtage Hans Kongelige <lb/>
+Høihed Kronprindsen frisk og vel efter Reisen, som fra Stockholm hertil <lb/>
+er tilbagelagt i 3de Døgn.</p>
+               <p xml:id="p13">	Hans Kongelige Høihed vil idag indtage Middag hos General Baron <lb/>
+Wedel og imorgen hos mig paa Holgerslyst, hvorefter Hans Kongelige Høihed <lb/>
+paa Onsdag agter at begive Sig til Leiren paa Gardermoen. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te September 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

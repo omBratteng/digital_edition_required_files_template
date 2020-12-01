@@ -1,0 +1,110 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>510</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 27. september 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 27. september 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Den 23de denne Maaned ankom til Statsraad Erichsen en Tellegraph- <lb/>
+Depeche fra Stockholm, undertegnet Due, af Indhold: at Deres <lb/>
+Majestæt havde den 21de for Sveriges Vedkommende besluttet, at  <lb/>
+Quarantaine mod Cholera ophæves, samt, at Deres Majestæt bemyndigede den <lb/>
+Norske Regjering til strax for Norges Vedkommende at afgive en lignende <lb/>
+Bestemmelse.</p>
+               <p xml:id="p3">	Deres Majestæt kjender den Norske Regjerings Anskuelse om denne <lb/>
+Gjenstand, og det vil saaledes ikke forundre, at den med Begjærlighed <lb/>
+benyttede den ved Tellegraph Depechen givne Bemyndigelse. Regjeringen <lb/>
+samledes i denne Hensigt den 24de og besluttede, at Quarantaine mod <lb/>
+Cholera ophæves.</p>
+               <p xml:id="p4">	Jeg tog ikke Deel i denne Samling, fordi jeg ikke var i Byen og <lb/>
+jeg vilde havt megen Betænkelighed mod at tiltræde den fattede Beslutning <lb/>
+                  <hi rend="underline">med Mistanke om den ommeldte Tellegraph Depeches Ægthed</hi>, fordi <lb/>
+den ommeldte Beslutning er aldeles stridende mod Deres Majestæts <lb/>
+tidligere Anskuelse, hvori jeg ikke har sporet nogen Forandring og som <lb/>
+bevægede Deres Majestæt til i afvigte November Maaned at nægte Bifald <lb/>
+til en Regjerings Indstilling, hvis Formaal netop var at opnaae hvad <lb/>
+der nu skal være naadigst bifaldt.</p>
+               <p xml:id="p5">	Naar det derhos betænkes, at Enhver uden videre Legitimation <lb/>
+kan faae hvilkensomhelst Depeche befordret pr Tellegraph, og at det <lb/>
+er tænkelig, at Nogen kunde finde en Fornøielse i at fingere et <lb/>
+falsk Document just i denne Begivenhed, saa tør min Mistanke om  <lb/>
+oftnævnte Depeches Uægthed ikke findes ganske ugrundet; men selv, om <lb/>
+den virkelig er givet efter Deres Majestæts naadige Befaling, tillader <lb/>
+jeg mig at paapege, at det kunde have farlige Følger, om den norske <lb/>
+Regjering skulde i vigtige Begivenheder modtage Meddelelser fra <lb/>
+Stockholm pr Tellegraph, <hi rend="underline">uden Sikkerhed for, disses Ægthed</hi>. Jeg <lb/>
+tillader mig derfor underdanigst at foreslaae, at der maa bestemmes <lb/>
+et Chiffer <hi rend="underline">for vigtige Meddelelser</hi>  mellem Stockholm og Christiania, <lb/>
+hvorved Tvivl om disses Ægthed vil bortfalde og tillige afværges, at <lb/>
+disse ikke blive bekjendte ad den hele Tellegraph Linie.</p>
+               <p xml:id="p6">	Forhenværende Kabinets Kammerherre Oberste Mansbach er i forrige <lb/>
+Uge død paa Rigshospitalet i en Alder af 61 Aar. I hans sidste  <lb/>
+Levetimer lod han mig endnu ved en Ven anmode om for Deres Majestæt at <lb/>
+fremføre hans hjertelige Taknemmelighed for Deres Majestæts Velgjerninger <lb/>
+mod ham og hans Familie. Af denne er der saaledes alene den <lb/>
+Afdødes Tvillingsøster Frøken Ulrikke tilbage. Hun er vel indskreven <lb/>
+som Stiftsfrøken i det adelige Frøkenkloster Wemmeltofte i Danmark og  <lb/>
+kunde, ved at tage sit Ophold der, uden Tvivl finde en sorgfri Alderdom; <lb/>
+men hun kan ikke løsrive sig fra de tilvante Forholde, hvori hun her har <lb/>
+levet i saa mange Aar, og hun er lidet skikket til at være overladt til sig  <lb/>
+selv og bliver derfor fremdeles i Christiania i Haab om, at Deres <lb/>
+Majestæt vil have den Naade, at lade nogen Deel af den Understøttelse, <lb/>
+der har været tilstaaet hendes afdøde Moder og Sødskende, gaae over <lb/>
+paa hende. Generalinde Mansbach havde 450 Spdr., og Obersten 150 Spdl. <lb/>
+aarlig; ved Generalindens Død havde Deres Majestæt den Naade at bevilge <lb/>
+de 3de Sødskende 300 Speciedaler aarlig, hvilket Beløb fremdeles <lb/>
+blev tilstaaet de 2de gjenlevende Sødskende, Obersten og Frøken  <lb/>
+Ulrikke, da Frøken Marie kort efter døde; nu er kun Frøken Ulrikke <lb/>
+tilbage.</p>
+               <p xml:id="p7">	Statsraad Petersen agter næstkommende Løverdag at tiltræde Reisen <lb/>
+til Stockholm. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 27de September 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

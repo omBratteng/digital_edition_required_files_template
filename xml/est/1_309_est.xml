@@ -1,0 +1,242 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>309</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 10. juli 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 10. juli 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Som jeg i min sidste underdanige Rapport yttrede: foranledigede <lb/>
+det paa Kongsberg over Formanden for Arbeiderforeningen dersteds <lb/>
+optagne Forhør en lignende Foranstaltning i Christiania, hvortil <lb/>
+Justits-Departementet, efter Overlæg, i Statsraadet den 5te gav <lb/>
+Politiemesteren Ordre. For at forhindre en foregaaende Conference <lb/>
+imellem Foreningens Formænd, blev disse den 7de om Morgenen tidlig <lb/>
+arresterede, hvorom Deres Majestæt af Politiemesterens underdanigst <lb/>
+vedlagte Rapport naadigst vil erfare de nærmere Detailler. Forhørene <lb/>
+fortsættes og jeg ønsker inderlig, at de maa vise Hovedmanden Thranes <lb/>
+Forhold saa juridisk criminelt, at han maa kunne blive actionneret <lb/>
+og straffet for den store Ulykke, han har forvoldt.</p>
+               <p xml:id="p3">	Saa meget har man imidlertid ved denne Leilighed erfaret, at <lb/>
+Thrane og hans infernale Agitation har tabt alt Medhold i Christiania. <lb/>
+Alle – selv Morgenbladet, – bifalde hans Arrest. Maa den kun efter <lb/>
+vor Lovgivning kunne vedligeholdes og lede til hans exemplariske <lb/>
+Afstraffelse, saa vil hele hans Agitation derved faae et Dødsslag.</p>
+               <p xml:id="p4">	Thrane alene har foranlediget den Utilfredshed og Bevægelse, <lb/>
+i den talrige Huusmands Classe, som før hans Opæggelse ikke sporedes. <lb/>
+I Almindelighed forholder det sig med de norske Huusmænd, som med <lb/>
+Tjenestefolk. Deres større eller mindre Velvære, dependerer af deres <lb/>
+eget og deres Huusbønders Forhold, hvorpaa Styrelsen neppe bør <lb/>
+udøve en større directe Indflydelse uden at gaae Eiendomsret og <lb/>
+Contractsfrihed for nær, end foreslaat er, i det Udkast til en  <lb/>
+Huusmandslov, som nu vil blive Deres Majestæt underdanigst forelagt.</p>
+               <p xml:id="p5">	Storthingets Beslutning om Ophævelse af Grundlovens Forbud mod <lb/>
+Jøders Adgang til Riget har i Statsraadet faaet det i min underdanigste <lb/>
+Rapport af 15de forrige Maaned forudsagte Udfald. Alle Statsraadets <lb/>
+Medlemmer have tiltraadt Statsraad Petersens underdanige Indstilling <lb/>
+om Beslutningens naadige Sanction. Tvende af den Stockholmske <lb/>
+Statsraads Afdelnings Medlemmer, have længst paa Forhaand erklæret <lb/>
+sig, nemlig Statsraad Sørenssen som Storthings Representant, og <lb/>
+Statsminister Due i en offentlig Jøde-Forsamling i Stockholm, – hvori han <lb/>
+erklærede Grundlovens Forbud mod Jøder "for en Rustplet paa Norges <lb/>
+blanke Skjold". Jeg har dog ikke kunnet tiltræde denne Mening, fordi <lb/>
+jeg anseer Forbudets Ophævelse ligesaa grundlovstridig som utilraadelig, <lb/>
+og tillader jeg mig underdanigst at vedlægge mit derom <lb/>
+til: Protocollen afgivne Votum. Jeg forudseer, at jeg herved vil <lb/>
+paadrage mig den moderne Opinions bittre Daddel; men dette kan ikke <lb/>
+bevæge mig til at tilraade en Beslutning, som jeg anseer skadelig <lb/>
+og som uden Tvivl tidlig eller seent vil fortrydes. Maa Efterverdenen <lb/>
+i denne som i andre Begivenheder bedømme min Færd! Den dicteres <lb/>
+ikke af Øieblikkets foranderlige Opinion; men dette kan ikke af <lb/>
+min Overbeviisning om hvad der er stemmende med mit Fædrenelands <lb/>
+Tarv. Kan man bortraisonnere Grundlovens Bestemmelse om Jøder i 2den <lb/>
+§, som et uforanderligt Princip, vil Bestemmelsen om den monarchiske <lb/>
+Regjeringsform i 1ste Paragraph snart kunne bortraisonneres. L'appetit <lb/>
+vient en mangeant, og vi have allerede Storthingsmænd med stærk <lb/>
+Appetit paa Republik.</p>
+               <p xml:id="p6">	Ubehagelige Rygter om stedfundne Misligheder ved Armeens Depots <lb/>
+Bestyrelse, have foranlediget Undersøgelser, som jeg befrygter vil <lb/>
+lede til compromitterende Resultater for visse offentlige og private <lb/>
+Mænd.</p>
+               <p xml:id="p7">	Efter nogle velsignede varme Dage i forrige Uge, blev Temperaturen <lb/>
+snart atter kjølig. Den 8de fik vi en Storm, som Natten til <lb/>
+den 9de blev til en Orkan, geleidet af en styrtende kold Regn. Den <lb/>
+8de Juli faldt der Snee paa Krogskoven og det var nær derved paa <lb/>
+Holgerslyst. Reaumurs Thermometer viiste her kun 4 à 5 Grader, og <lb/>
+mine Kakkelovne maatte ildes noget, som jeg ikke tidligere kan mindes  <lb/>
+i denne Aarstid.</p>
+               <p xml:id="p8">	Mennesker og Vegetation tiltrænge høieligen Varme. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 10 Juli 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 10. juli 1851</supplied>
+               </head>
+               <opener>CHRISTIANIA POLITIKAMMER. <lb/>
+                  <salute>Deres Excellence</salute>
+               </opener>
+               <p xml:id="p9">	Som Deres Excellence bekjendt lod jeg igaar Morges DHrr M. Thrane, <lb/>
+Th Abildgaard, Bernhardt Hansen, Snedkersvend H. Olsen, Malersvend <lb/>
+C. Olsen samt Uhrmagersvend Quarme fra Skien arrestere i Anledning <lb/>
+af deres Yttringer under sidstafholdte Arbeidermøde, hvorhos samtlige, <lb/>
+saavel Christiania Forenings Protocoller og Documenter, som <lb/>
+de nævnte Personers egne private Papirer blev lagte under Forsegling <lb/>
+og afgivne til Politikammeret. Rygtet om at Medlemmerne af  <lb/>
+Arbeiderforeningen hersteds, skulde have til Hensigt at tage Thrane og <lb/>
+Abildgaard ud af Arresten havde samlet en stor Menneskemasse – jeg antager <lb/>
+henved et Par Tusinde Personer af begge Kjøn, en Mængde Børn  <lb/>
+deriblandt, – som fra Kl. omtr. 8 indtil Kl. henved 12 holdt sig udenfor <lb/>
+Raadstuen, dog uden Tegn paa Sympathie for de Arresterede, saa at <lb/>
+der ikke hørtes noget somhelst Skrig, Hurrahraab eller deslige. Kl. <lb/>
+noget før 10 gik jeg ud paa Gaden og erklærede for den forsamlede <lb/>
+Menneskemasse at der Kl. 10 skulde være stille udenfor Raadstuen, og <lb/>
+at de, der til denne Tid ikke havde fjernet sig maatte vente at blive <lb/>
+jaget bort af Cavalleriet, som jeg da vilde lade rykke ud. Herved <lb/>
+bevirkedes at en stor Deel gik bort; men deels kom de samme Personer <lb/>
+tilbage deels kom der nye til, saa at jeg paa sidstangivne Klokkeslet <lb/>
+lod Cavalleriet, saavidt jeg ved 24 Mand – rykke ind i Gaden, der <lb/>
+inden faae Minutter var aldeles frie for Mennesker. Jeg lod nu Gaden <lb/>
+spærre paa begge Udkanter af Raadstuebygningen, hvilket ikke <lb/>
+hindrede de Nysgjærrige for at blive staaende udenfor Cavalleriets <lb/>
+Geleider indtil Kl. 11 1/2. Da imidlertid Menneskemassen ved dette <lb/>
+Klokkeslet kun bestod af et Par Hundrede Personer af den laveste Pøbel, <lb/>
+saa lod jeg Cavalleriet rykke ind i Casernen, hvorpaa jeg paalagde <lb/>
+Enhver at gaae hjem til Sit. Dette hindrede imidlertid ikke <lb/>
+at disse Par Hundrede Mennesker atter samledes udenfor Raadstueporten, <lb/>
+hvorpaa jeg lod arrestere 30 Personer og de øvrige bleve af Politiets <lb/>
+Embedsmænd og Betjente jagede ud af Gaden med saadant Eftertryk at <lb/>
+Lysten til at komme tilbage forgik dem. Kl. 12 var Alt aldeles  <lb/>
+roeligt i Byen. Fra Kl. 8 om Aftenen havde jeg ladet den indvendige <lb/>
+Raadstuegrænd besætte med en Piquet af 25 Mand, der vare forsynede <lb/>
+med skarpe Patroner, og fra Kl. 10 blev denne Piquet forstræket med <lb/>
+endnu 25 Mand. – I Arbeiderforeningen hvor Hr Quarme havde anmeldt <lb/>
+Foredrag, blev Forslaget om at befrie Arrestanterne modtaget med  <lb/>
+Latter. – Forhøret, der paabegyndtes igaar fortsættes idag. Blandt <lb/>
+de fundne Papirer, have vi endnu intet mærkeligt opdaget med Undtagelse <lb/>
+af den i Arbeidermødet førte Protocol, der er et Mesterstykke <lb/>
+af Galskab og Barnagtighed. Correspondance med Personer udenlands <lb/>
+er endnu ikke opdaget med Undtagelse af et eneste insignifiant Brev, <lb/>
+fra den bortrømte Sandvall fra Gothenburg adresseret til Thrane. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <lb/>
+                     <date>den 8de Juli 1851</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+m.m. v. Løvenskiold. <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h4">
+                  <supplied resp="editor">Tillegg til rapport av 10. juli 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h5">
+                  <hi rend="underline">Votum til Protocollen om Jøder den 5te Juli 1851</hi>.</head>
+               <p xml:id="p10">	Undertegnede Statholder Løvenskiold kan ikke tiltræde Justits- <lb/>
+Departementets underdanigste Indstilling og tillader sig for denne <lb/>
+hans Anskuelse underdanigst at anføre følgende Grunde:</p>
+               <p xml:id="p11">	I den constituerende Rigsforsamling 1814 antog Constituenterne <lb/>
+foreløbig 11 Grundsætninger (Principper) som Grundvold for Norges <lb/>
+vordende Grundlov.</p>
+               <p xml:id="p12">	Blandt disse bestemte den 8de: "at alle Religionssecter <lb/>
+tilstedes fri Religionsøvelse, dog ere Jøder fremdeles udelukkede fra <lb/>
+Adgang til Riget". Den modsvarende Grundlovens 2den § bestemmer <lb/>
+udtrykkelig og særskilt: "Jøder ere fremdeles udelukkede fra  <lb/>
+Adgang til Riget". Om Tillægget betræffende Jøder til det f<hi rend="underline">oreløbig</hi>
+                  <lb/>
+antagne Princip, kunde fortolkes som en Modification af den almindelige <lb/>
+Bestemmelse om Religionsfrihed, kan dette formeentlig ikke anvendes <lb/>
+paa Udtrykkene i Grundlovens 2den §, hvor Bestemmelsen om <lb/>
+Jøderne staaer isoleret som et af Constituenterne antaget særskilt <lb/>
+Princip, der efter Grundlovens 112te § ikke <hi rend="underline">kan</hi>  forandres. Forbudets <lb/>
+Optagelse i Grundloven viser Constituenternes Mening, at de vilde <lb/>
+gjøre det gamle i den private Lovgivning foranderlige Forbud til <lb/>
+et uforanderligt Grundlovsprincip; thi uden denne Anskuelse var  <lb/>
+Forbudets Optagelse i Grundloven unødvendig og ørkesløs.</p>
+               <p xml:id="p13">	Om den her omhandlede Grundlovsbestemmelse kunde forandres, <lb/>
+maatte enhver af Constituenterne i Grundloven antaget Grundsætning kunne <lb/>
+forandres, hvilket efterhaanden kunde lede til hele Grundlovens  <lb/>
+Ophævelse; men det var ikke Constituenternes Mening og disse vare af <lb/>
+Folk og Regent bemyndigede til at forfatte Grundloven, medens de <lb/>
+efterfølgende Folke Representanter kun ere berettigede til deri at <lb/>
+gjøre Forandringer under de af Constituenterne foreskrevne Betingelser.</p>
+               <p xml:id="p14">	I Henseende til det meget omventilerede Ord "fremdeles", tillader <lb/>
+jeg mig underdanigst at bemærke, at dette efter min bedste Erindring <lb/>
+kun blev indført, for at vise, at Forbudet mod Jøder skulde <lb/>
+forstaaes fremdeles som didtil saaledes nemlig at Jøder i enkelte <lb/>
+Tilfælde af Kongen kan gives Adgang til Riget.</p>
+               <p xml:id="p15">	Det anførte turde tilstrækkelig begrunde min Anskuelse, om at <lb/>
+der ikke haves grundlovmæssig Adgang til at sætte Grundlovens <lb/>
+Bestemmelse i dens 2den § om Jøder ud af Kraft; men endog uden Hensyn <lb/>
+til den constitutionelle Hindring vilde jeg ikke kunne tilraade det, <lb/>
+fordi min Anskuelse om Gjenstanden nu er uforandret som den var i <lb/>
+Rigsforsamlingen 1814.</p>
+               <p xml:id="p16">	Jeg ansaae ikke den Gang Indlemmelsen af det fremmede jødiske <lb/>
+Element i vort Folk, i vor Stat, gavnlig; men tvertimod fra flere <lb/>
+Synspuncter betragtet utilraadelig. Denne min Anskuelse er ikke  <lb/>
+alene uforandret, men den er bestyrket under de senere 37 Aars  <lb/>
+mangehaande europæiske Begivenheder hvori mig vitterlig Jøder, især <lb/>
+Jøders Penge, have udøvet en væsentlig Indflydelse. Med denne <lb/>
+Anskuelse maatte jeg som Medlem af Rigsforsamlingn 1814 stemme for <lb/>
+Optagelse i Grundloven som Grundsætning, det Seklergamle Forbud mod <lb/>
+Jøders Adgang til Riget og med denne uforandrede Anskuelse vilde jeg <lb/>
+ikke nu kunne tilraade Grundlovsbudets Ophævelse, om end dertil <lb/>
+havdes grundlovmæssig Adgang.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

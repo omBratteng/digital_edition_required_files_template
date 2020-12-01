@@ -1,0 +1,113 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>424</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. januar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. januar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport af 8de denne Maaned var neppe <lb/>
+afgaaet den 9de, før jeg samme Dag havde den Ære at modtage Deres <lb/>
+Majestæts naadige Skrivelse af 5te, som jeg strax meddeelte Statsraad <lb/>
+Erichsen. Denne underrettede mig om, at Søsessionerne langs hele <lb/>
+Kysten var begyndt samme Dag den 9de, hvorved de for Fregatten  <lb/>
+Desideria og Corvetten Ellida nødvendige 350 Matroser var befalet  <lb/>
+udskrevne; at der til Bemanding af Fregatten Freja og Corvetterne  <lb/>
+Nordstjernen og Nidaros behøves 600 Matroser foruden 117 Søvante, hvilke <lb/>
+Matroser burde udskrives ved de nu paabegyndte Sessioner, hvorom Ordres <lb/>
+maatte gives ved <hi rend="underline">den samme Dags Aften den 9de afgaaende Vestre Post</hi>.</p>
+               <p xml:id="p2">	Da Statsraad Erichsen derhos meddeelte mig, at han ikke dristede <lb/>
+sig til at iværksætte en saa betydelig Udskrivning uden en i Regjeringen <lb/>
+afgivet Beslutning og her, under de overfor forklarede Omstændigheder, <lb/>
+intet Øieblik maatte spildes, sammenkaldte jeg strax Regjeringens <lb/>
+Medlemmer.</p>
+               <p xml:id="p3">	Meningerne vare som sædvanlig deelte, idet Nogle vilde have <lb/>
+Udskrivningen udsat, i Forventning af Deres Majestæts bestemte og  <lb/>
+                  <hi rend="underline">formenlige</hi>  Befaling, for at spare Udgifter, som ere en nødvendig Følge af <lb/>
+Udskrivningen, da enhver udskreven Matros er berettiget til halv Hyre, <lb/>
+fra den Dag, da han er udskrevet, indtil han kommer ombord.</p>
+               <p xml:id="p4">	Under et Par Timers ganske varme Discussioner lykkedes det omsider <lb/>
+Statsraad Erichsen og mig, at overbevise de Tvivlende om Nødvendigheden <lb/>
+af at udskrive de for de angivne Seilfartøier nødvendige Matroser, <lb/>
+ved de nu i Gang værende Søsessioner, om man vil forsikkre sig <lb/>
+deres Tilstedeværelse. Derefter afgaves en hertil sigtende  <lb/>
+Regjeringsbeslutning, hvorom underdanigst Indberetning til Deres Majestæt vil <lb/>
+afgaae med Morgenposten.</p>
+               <p xml:id="p5">	Efter Statsraad Erichsens Sigende haster det ikke med at faae <lb/>
+                  <hi rend="underline">officiel Befaling</hi>  om Fregatten Frejas og Corvetterne Nordstjernen og <lb/>
+Nidaros's Udrustning, forsaavidt Skibenes Klargjørelse dertil angaaer, <lb/>
+saasom de forberedende Anordninger i saa Henseende ogsaa uden officiel <lb/>
+Ordre kunne træffes ved Værftet. Derimod vil der til Anskaffelse af <lb/>
+Proviant m.m. udfordres mange Penge, som aldeles mangle, og jeg  <lb/>
+formoder saaledes, at Deres Majestæt strax ved Storthingets Sammenkomst <lb/>
+vil give samme den fornødne Meddelelse. I denne som i andre Henseender, <lb/>
+vilde Deres Majestæts høie personlige Nærværelse være lige saa <lb/>
+gavnlig <hi rend="underline">som den i modsat Fald</hi>  høielig vil savnes. Den kan ikke erstattes <lb/>
+af mig eller af Nogensomhelst.</p>
+               <p xml:id="p6">	Sluttelig beder jeg mig naadigst tilladt at fremføre et Statsraad <lb/>
+Erichsens underdanigste Ønske, som alle Regjeringens Medlemmer dele, <lb/>
+at det naadigst maatte behage Deres Majestæt, paa Grund af forandrede <lb/>
+Omstændigheder, at tilbagekalde Beslutningen om 2de norske <lb/>
+Søeofficierers Afsendelse til Constantinopel, da de seneste Begivenheder <lb/>
+desværre give Anledning til at troe, at fremmede Flaader kunne indfinde <lb/>
+sig i meget nærmere Farvande og der give vore Officierer en lettere <lb/>
+og mindre kostbar Adgang til at blive bekjendte med disse.</p>
+               <p xml:id="p7">	Man venter sig ikke noget stort Udbytte af Reisen til Constantinopel, <lb/>
+medens den vilde koste flere 1000de Specier, som neppe vilde <lb/>
+gjøre noget godt Indtryk paa Storthinget, af hvilket store Summer for <lb/>
+Rustningerne ønskes bevilgede. De forenede Flaader kunne ved Officierernes <lb/>
+Ankomst maaskee være langt inde i det sorte Hav, hvor Adgangen <lb/>
+til den, vil være end vanskeligere. Endelig vilde 2de dygtige  <lb/>
+Officierer, som maatte vælges til Reisen, følelig savnes for Betjeningen <lb/>
+af vore udrustede Fartøier, hvortil det nødvendige Antal Officierer <lb/>
+mangler. Jeg deler saa ganske disse Betænkeligheder, at jeg føler mig <lb/>
+forpligtet til underdanigst og indstændigst at foredrage dem for Deres <lb/>
+Majestæt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te Januar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

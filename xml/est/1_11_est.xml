@@ -1,0 +1,104 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>11</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 24. juni 1844</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 24. juni 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Jeg har havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 17de denne Maaned og dermed fulgte Statsraads-Protocol af <lb/>
+samme Dato, i hvis Følge Deres Majestæts nærmere naadige Bestemmelse <lb/>
+for Brændeviins-Commissionens Virksomhed vil blive denne meddeelt <lb/>
+og paa sædvanlig Maade offentliggjort.</p>
+               <p xml:id="p3">	Forslaget om Brændeviinsbrændens Ophør fremkom i sidste Storthing <lb/>
+aldeles uventet, og saavel dette som den tagne Beslutning syntes <lb/>
+mere at være en Følge af en øieblikkelig Begeistring end Resultatet <lb/>
+af en alsidig og moden Drøftning. Forslaget mødte en temmelig <lb/>
+alvorlig Modstand i selve Thinget, og oplyste Storthings-Mænd, som <lb/>
+under Øieblikkets aandelige Maadeholds-Ruus stemte derfor, frafaldt <lb/>
+det snart, efter modnere Overveielse. Uagtet Motivet til Forslaget <lb/>
+maatte erkjendes at være velmeent, lader det sig dog ikke nægte, <lb/>
+deels, at det var uafgjort, om den gode Hensigt paa denne Maade kunde <lb/>
+opnaas, deels, at mange Betænkeligheder fremstillede sig mod Anvendelse <lb/>
+af et Middel, der vilde gribe saa forstyrrende ind i Manges <lb/>
+vel erhvervede Ret. Her var saaledes visselig god Grund til i Sagens <lb/>
+daværende Stilling at nægte Sanction og til at søge muligst Forvisning <lb/>
+om hvorvidt den, næsten uden Overveielse, tagne Beslutning, hvorom <lb/>
+i og udenfor Storthinget saa forskjellige anskuelser yttredes, var <lb/>
+stemmende med Almeen-Ønske. Denne Hensigt er yttret i den Kongelige <lb/>
+Resolution af 8 September 1842 og den er gjentaget i det naadige <lb/>
+Commissorium af 23de Mai dette Aar, for Brændeviins-Commissionen. Maa <lb/>
+det end indrømmes, at Udtrykkene i sidstnævnte kunde have været bedre <lb/>
+valgte, saa vil dog neppe Nogen, som kjender den sædvanlige Form <lb/>
+i Commissorial-Befalinger, vor Cancellie-Stiil, i de brugte Udtryk <lb/>
+finde Hjemmel for Brændeviins-Commissionen til at anstille nogen anden <lb/>
+Undersøgelse i den angivne Hensigt end ved Hjelp af de paa anden <lb/>
+Maade allerede erhvervede Oplysninger, hvilket nu ved Deres Majestæts <lb/>
+naadige Resolution af 17de denne Maaned end tydeligere er bleven <lb/>
+udtrykkelig bestemt.</p>
+               <p xml:id="p4">	I Anledning af Deres Majestæts sig nærmende Høie Fødselsfest, <lb/>
+føler jeg mig forpligtet til underdanigst at gjøre opmærksom paa, at <lb/>
+den Høistsalige Konge i en Række af Aar havde den Naade paa Sin Fødselsdag <lb/>
+at skjænke 400 Speciedaler til Uddeling imellem herværende <lb/>
+Garnison og Byens Fattige. Ifølge Hans Majestæts Befaling blev benævnte <lb/>
+Sum ved Kammerherre Wejdemann stillet til Statholderens Disposition, <lb/>
+som deraf gjennem Commandanten lod tildele hver Underofficier <lb/>
+20 Skilling og hver Menig 12 Skilling, og det Overskydende gjennem Magistraten <lb/>
+til de Fattige. Forrige Aar beløb den naadige Gratification til Garnisonen 87 <lb/>
+Speciedaler, Fattig-Gaven 313 Spdl. – Jeg tillader mig i denne Henseende <lb/>
+at modsee Deres Majestæts naadige Befaling og kan kun beklage, <lb/>
+at den Kongelige Fødselsdag, hvorved saa Mange glædes, medfører Besvær <lb/>
+og Udgifter for Deres Majestæt.</p>
+               <p xml:id="p5">	Naturforsker-Selskabets Samling her er bestemt fra 11te til 18 <lb/>
+Julii. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 Junii 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

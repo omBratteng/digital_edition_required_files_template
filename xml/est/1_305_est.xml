@@ -1,0 +1,90 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>305</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 22. juni 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 22. juni 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	Storthinget har under den hele sidst afvigte Uge været beskjæftiget <lb/>
+med en nye Skydslov. Her troede Bønderne sig ret paa deres Feldt <lb/>
+og de vidtløftige Discussioner om denne Lov vil koste over et Par 1000 <lb/>
+Specier. Jeg formoder, at Resultatet vil blive en Lov, hvor efter de <lb/>
+Skydsende skal kjøre og de Reisende skal gaae.</p>
+               <p xml:id="p3">	De til det saakaldte Arbeidermøde hidkomne 80 Representantere <lb/>
+ere reiste hjem, hver til sit. Under Forhandlingerne, hvor især en <lb/>
+fordrukken Uhrmager fra Skien lod sig høre, taltes om Reformer i  <lb/>
+Statsstyrelsen, om den Riges Forpligtelse til at dele med den Fattige, om <lb/>
+Rettigheden for Enhver til at deeltage i Landets Bestyrelse m.m. Om <lb/>
+Anvendelse af voldsomme Midler taltes ikke under Forhandlingerne; men <lb/>
+vel udenom, hvorved yttredes at Vaaben kunde faaes paa Horten Kongsberg <lb/>
+og i Soldaterlægderne, – hvorom jeg i Morgen vil tale med Statsraaderne <lb/>
+Erichsen og Sylow.</p>
+               <p xml:id="p4">	Arbeider Forsamlingens Resultat var den i Arbeiderbladet for i <lb/>
+Gaar indtagne Adresse til Storthinget, som jeg mistænker dicteret af <lb/>
+Klokker Ueland. Thrane har ikke havt nogen Tiltroe i denne Forsamling; <lb/>
+men desto mere Abildgaard. Begge ere meget fattige.</p>
+               <p xml:id="p5">	Benævnelsen Arbeider Forsamling er meget urigtig; thi den <lb/>
+bestod hovedsagelig af usle Dagdrivere.</p>
+               <p xml:id="p6">	I Statsraad i Gaar begyndte Behandlingen af Statsraad Stangs <lb/>
+Forslag til en Huusmandslov, som vil continuere i Morgen. Da der ikke <lb/>
+hærsker mindre Vidtløftighed i Statsraadet end i Storthinget, blev i <lb/>
+ Gaar kun 6 §§ behandlede.</p>
+               <p xml:id="p7">	Den 18de havde jeg den Ære at feire Hans Kongelige Høihed <lb/>
+Prinds Gustavs Fødselsdag, hvortil jeg foruden Statsraaderne havde <lb/>
+indbuden saa mange udvalgte Storthingsmænd, som mit indskrænkede Rum <lb/>
+kunde tilstede.</p>
+               <p xml:id="p8">	Uagtet Temperaturen endnu er kjølig, har Veiret i den sidst <lb/>
+forløbne Uge været gunstigere for Vegetationen, som nu omsider trives  <lb/>
+godt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 22 Junii 1851</date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

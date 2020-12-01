@@ -1,0 +1,79 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>517</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. desember 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. desember 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanige Rapport af 22de forrige Maaned har <lb/>
+jeg Intet havt at indberette.</p>
+               <p xml:id="p2">	Vinteren synes nu at have indstillet sig i gammel nordisk Orden. <lb/>
+Efter en i den senere Tid maadelig Kuldegrad, have vi nu Gud skee <lb/>
+Tak! ogsaa faaet Snee, og det for den indre Rørelse saa nødvendige <lb/>
+Slædeføre, medens Indseilingen og Havnen endnu holdes aaben for <lb/>
+Skibsfarten.</p>
+               <p xml:id="p3">	Den Frygt, som man tidligere havde for en betydelig Formindskelse <lb/>
+i Toldintradene dette Aar mod forrige Aar, er nu hævet. Disse  <lb/>
+Intrader beløb til October Maaneds Udgang 1854 – 2,133,978 Speciedaler, <lb/>
+og i samme Tid 1855 2,110,986 Speciedaler, hvoraf Toldintraderne ved <lb/>
+Christiania Toldsted i samme Tid udgjorde 1854: 600,640 Spd og 1855: <lb/>
+545,740 Speciedaler.</p>
+               <p xml:id="p4">	General Meydel har, efter det ham naadigst givne Paalæg, indgivet <lb/>
+sin underdanige Ansøgning om Afskeed i Naade med Pension. Regjeringen <lb/>
+har, i Betragtning af hans lange Tjeneste og hans Fortjenester <lb/>
+for Artillerie Videnskaben underdanigst indstillet ham til naadigst <lb/>
+Afskeed med hans fulde Gage 1608 Spd i Pension, dog, at han skal <lb/>
+vedblive Commandoen over Artillerie Brigaden indtil hans Efterfølger er <lb/>
+bleven naadigst udnævnt. Hans Emolumenter som Brigadechef udgjøre <lb/>
+omtrent 400 Spd aarlig.</p>
+               <p xml:id="p5">	General Meydells beklagelige Blindhed gjør ham utjenstdygtig <lb/>
+medens hans Sjælsevner synes usvækkede. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

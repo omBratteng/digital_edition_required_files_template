@@ -1,0 +1,207 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>37</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 24. juli 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 24. juli 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Med underdanigst Henhold til mit sidste af 17de denne Maaned <lb/>
+tillader jeg mig at berøre Regjeringens underdanigste Indstilling om en <lb/>
+naadigst Proposition til Storthinget om forøget Bevilgning til det  <lb/>
+Kongelige Slots Fuldførelse for 1o at kunne tilbygge tvende Fløie paa <lb/>
+den mod Byen vendende Side 2o forholdsmæssig hertil at forlænge de 2de <lb/>
+Bagfløie og 3o at forandre de nu paa Hoved-Bygningen og Fløiene anbragte <lb/>
+spidse Tage til flade, saaledes som de medfølgende Tegninger udvise.</p>
+               <p xml:id="p2">	Slottet har allerede kostet meget betydelige Summer og det er <lb/>
+tilvisse beklageligt, at man for disse ikke har tilveiebragt en Bygning, <lb/>
+som i alle Henseender kan opfylde sin Bestemmelse. Saaledes er det  <lb/>
+imidlertid! – Slottet kan i dets nærværende Skikkelse ikke rumme den  <lb/>
+Kongelige Familie med hof og Tjenerskab, det byder end mindre Plads for <lb/>
+noget fremmed fyrsteligt Besøg, og dets Ydre opvækker mere Formodning om <lb/>
+en Caserne end om et Kongeligt Slot. De Summer, som nødvendig maatte  <lb/>
+anvendes, for at opnaae den uundværligste Plads, det være nu ved den store <lb/>
+Spisesals Omdannelse, eller til Afbenyttelse af nogle udenfor Slottet <lb/>
+liggende Bygninger, vilde kun tilveiebringe interimistiske Paillativer, <lb/>
+uden Indflydelse paa Slottets Ydre, og noget nær være spildte. Ved de <lb/>
+nu foreslaaede Tilbygninger og Forandringer vil tilstrækkelig Plads  <lb/>
+opnaaes og den hele Bygning faae Præg af et Kongeligt Slot. I denne Hensigt <lb/>
+udfordres en forøget Udgift af omtrent 50,000 Speciedaler, og Slottet <lb/>
+vil blive 3 Aar senere fuldfærdigt; men disse Offere ere formeentlig  <lb/>
+dog ikke for store, for omsider at opnaae et Resultat, som forhaabentlig <lb/>
+vil blive Norges Konge og Folk værdigt og som jeg derfor tillader <lb/>
+mig indstændig at bede naadigst bifaldt.</p>
+               <p xml:id="p3">	Jeg tillader mig dog ikke at bede Deres Majestæt om at fremsætte <lb/>
+den foreslaaede Proposition til Storthinget, men jeg beder Deres Majestæt <lb/>
+underdanigst om at befale Regjeringens Indstilling om Gjenstanden <lb/>
+Storthinget tilstillet og <hi rend="underline">naadigst at autorisere mig til at erklære</hi>, <lb/>
+at den vil blive bifaldt, om de fornødne Penge bevilges, hvortil jeg <lb/>
+formener Storthinget mere tilbøieligt end til at bevilge en mindre Sum <lb/>
+til andre Forandringer. Isaafald kan der ikke blive Spørgsmaal om <lb/>
+Bevilgning til Meubler og Huusgeraad i nærmeste Budget Termin, medens de <lb/>
+hertil af Deres Majestæt naadigst bestemte 18,000 Spd. kunde anvendes <lb/>
+til de Gjenstande, som Deres Majestæt maatte ansee meest pressante.</p>
+               <p xml:id="p4">	Tolden for de engelske Producter, nu 40 Skilling per Pund, som <lb/>
+Regjeringen havde foreslaaet nedsat til 25 Skilling, er nu af Storthinget <lb/>
+definitiv bestemt til 32 Skilling. At kun 10 Stemmer erklærede sig mod <lb/>
+enhver Nedsættelse, skyldes den Interesse, som Deres Majestæt har viist <lb/>
+denne Gjenstand.</p>
+               <p xml:id="p5">	I Anledning af at Odelsthinget har paalagt, det er befalet, Kirke- <lb/>
+Departementet at meddele Statsrevisionen visse Oplysninger, har Regjeringen <lb/>
+underdanigst indstillet, at dette Paalæg ikke maa tages til Følge, <lb/>
+som jeg haaber naadigst bifaldt, paa de i Indstillingen anførte <lb/>
+Grunde. Grundlovens § 75 litr f og h vise, hvorledes Storthinget kan <lb/>
+gjøre sine Fordringer paa Statsraadets Medlemmer eller paa andre Kongelige <lb/>
+Embedsmænd gjældende; men om det udenfor disse Bestemmelser har <lb/>
+noget af dem at fordre, bør det henvende sig til Hans Majestæt Kongen, <lb/>
+Hvem det Ene kan tilkomme at give dem Befalinger. </p>
+               <list xml:id="list6">
+                  <label>1.</label>
+                  <item>Procenterne for Laurvigs Told Inspecteur-Embede bestemtes ved Kongelig <lb/>
+Resolution af 22de April 1824 til 1 % af Trælast Tolden, og 4 % <lb/>
+af de øvrige. Intrader ved Laurvigs og Tønsbergs Toldsteder. <lb/>
+                  </item>
+                  <label>2.</label>
+                  <item>Ved Kongelig Resolution af 4de December 1843 bestemtes, at der for <lb/>
+førstkommende Storthing skulde <hi rend="underline">foreslaaes</hi>, at de for bemeldte Embede  <lb/>
+regulerede Procenter af andre Indtrader end Trælast Tolden skulde  <lb/>
+nedsættes fra 4 til <hi rend="underline">2</hi>  % fra 1ste Julii 1845 at regne. <lb/>
+                  </item>
+                  <label>3.</label>
+                  <item>I Anledning af dette Hans Majestæts Forslag besluttede Storthinget <lb/>
+en Nedsættelse til <hi rend="underline">1 2/3</hi>  % af de andre Indtrader end Trælast-Tolden. <lb/>
+                  </item>
+                  <label>4.</label>
+                  <item>Finants-Departementet indstiller, at denne Storthingets Beslutning <lb/>
+ikke naadigst sanctionneres, – forsaavidt den gaaer ud paa Nedsættelse <lb/>
+til 1 2/3 %, men at den derimod sanctionneres, forsaavidt den indeholder <lb/>
+en Nedsættelse til 2 %. <lb/>
+                  </item>
+               </list>
+               <list xml:id="list7">
+                  <label>1.</label>
+                  <item>Procenterne for Kragerøe Told Casserer-Embede ere ved Kongelig  <lb/>
+Resolution af 3die December 1819 bestemte til 1 1/4 % af Trælast-Tolden <lb/>
+og 7 % af de øvrige Indtrader ved Kragerøe Toldsted. <lb/>
+                  </item>
+                  <label>2.</label>
+                  <item>Ved Kongelig Resolution af 6te Mai 1844 bestemtes, at der for  <lb/>
+førstkommende Storthing skulde <hi rend="underline">foreslaaes</hi>, at de for bemeldte Embede <lb/>
+regulerede Procenter skulde nedsættes til respective 1 % og <hi rend="underline">6 1/4</hi>  % fra <lb/>
+1ste Julii 1845 at regne. <lb/>
+                  </item>
+                  <label>3.</label>
+                  <item>I Anledning af dette Hans Majestæts Forslag besluttede Storthinget, <lb/>
+at Procenterne for bemeldte Embede skulde ansættes til respective 1 % <lb/>
+og <hi rend="underline">5 %</hi>. <lb/>
+                  </item>
+                  <label>4.</label>
+                  <item>Finants Departementet indstiller, at denne Bestemmelse sanctionneres <lb/>
+forsaavidt angaaer Nedsættelse af Procenterne af Trælast Tolden, samt <lb/>
+forsaavidt der under samme er indbefattet en Nedsættelse i Procenterne <lb/>
+af andre Indtrader fra 7 til 6 1/4 % , men at derimod Beslutningen, <lb/>
+forsaavidt den gaaer ud paa en yderligere Nedsættelse, ikke naadigst  <lb/>
+sanctioneres.</item>
+               </list>
+               <p xml:id="p8">	Alle erkjende, at naar begge Statsmagter have været enige om at <lb/>
+bestemme en Gage (og som saadan maa Toldembedsmændenes Procenter betragtes) <lb/>
+kan denne ikke forandres eller ophæves af den Ene uden med den Andens <lb/>
+Samtykke, og det er dette Princip, som in casu bør anvendes. Regjeringen <lb/>
+har fundet, at de af begge Statsmagter for Told-Inspecteurerne i <lb/>
+Laurvig og Kragerøe bestemte 4 og 7 Procent bør af Indtraderne nedsættes <lb/>
+til <hi rend="underline">2</hi>  og <hi rend="underline">6 1/4</hi>  Procent, som foreslaaet for Storthinget, der har bestemt, <lb/>
+at disse Procenter skulle nedsættes til <hi rend="underline">1 2/3</hi>  og <hi rend="underline">5</hi>  Procent. En større <lb/>
+Nedsættelse end den af Regjeringen foreslaaede vilde ikke levne de <lb/>
+vedkommende vigtige Embedsmænd anstændigt og nødtørftigt Udkomme, og  <lb/>
+Regjeringen kan derfor ikke indstille den til naadigst Sanction. Under  <lb/>
+disse Omstændigheder kunde det synes principmæssigst at frafalde den af <lb/>
+Regjeringen foreslaaede Nedsættelse og gaae tilbage til de høiere Procenter, <lb/>
+hvorom begge Statsmagter have været enige; men da Storthinget vil have en  <lb/>
+end større Nedsættelse end foreslaaet, bør det dog finde sig mere <lb/>
+tilfredsstillet ved den af Regjeringen foreslaaede, end ved ingen.</p>
+               <p xml:id="p9">	Denne Synspunkt dele de Storthingsmænd, med hvem jeg har talt om <lb/>
+Gjenstanden. En anden Controvers foranlediges ved, at Storthinget, under <lb/>
+Bifald til Gageforslag for enkelte nye Toldembeder, har tilføiet Ordene <lb/>
+"<hi rend="underline">indtil videre</hi>", som ikke kan anbefales til Sanction, fordi Storthinget <lb/>
+derved vilde have sig forbeholdt Adgang til ensidige Forandringer, hvorved <lb/>
+den i og for Administrationen nødvendige Stabilitet vilde ophøre. <lb/>
+Lignende Beslutninger afgaves ogsaa af sidste Storthings Majoritet, medens <lb/>
+Minoriteten, da som nu, erklærede sig derimod og den daværende <lb/>
+President, Riddervold, yttrede i denne Anledning det Haab: "at Regjeringen <lb/>
+vilde vise Kraft og Klogskab nok til at tilbagevise Storthings- <lb/>
+Beslutninger, som stride mod Retfærdighed og mod Stabilitet i  <lb/>
+Administrationen." – Høistsalig Kongen opfyldte dette Haab og jeg trøster  <lb/>
+mig med, at det ogsaa nu vil blive opfyldt af Deres Majestæt. Den mit <lb/>
+seneste vedlagte Brochure angiver rigtigen Kilderne til Conflicter om saa <lb/>
+miserable Gjenstande og viser til hvilke Resultater de kan føre i Mangel <lb/>
+af mere Maadehold paa den ene Side og af Kraft paa den anden.</p>
+               <p xml:id="p10">	Jeg anseer mig forpligtet til underdanigst at tilstille Deres <lb/>
+Majestæt eet af vore nyprægede Markstykker, som dog endnu ikke ere satte <lb/>
+i Omløb. Brystbilledet ligner frappant Høistsalig Kong Frederik VI i den <lb/>
+Stilling, hvori han blev barberet (rakat) , hvilket dog ikke er stemmende <lb/>
+med Inscriptionen "Ret og Sandhed". – Jeg formener, at Stempelen  <lb/>
+saavelsom de derefter prægede Mynter burde casseres, forinden de sættes i <lb/>
+Omløb.</p>
+               <p xml:id="p11">	De senere Dages Veir og Temperatur har været meget gunstig for <lb/>
+Høe-Bjergningen og Korn-Vegetationen.</p>
+               <p xml:id="p12">	Efterat Sørenssen og Falsen have frabedet sig Valg til Storthings <lb/>
+President, er Sem bleven valgt. Efter ham havde Schweigaard de fleste <lb/>
+Stemmer.</p>
+               <p xml:id="p13">	I Medhold af Deres Majestæts naadige Skrivelse af 14de agter <lb/>
+jeg i Morgen at tiltræde en Reise til Fossum, efterat have overdraget <lb/>
+de mig naadigst anbetroede Functioner til Statsraadets ældste Medlem, <lb/>
+Hr Statsraad Krog.</p>
+               <p xml:id="p14">	Jeg agter ikke at reise den sædvanlige Landevei over Laurvig, <lb/>
+men over Kongsberg. De sidste fire Mile af denne Vei kan ikke kjøres, <lb/>
+man maa rides, og fører mig til en min egen Eiendom "Sophiesminde", <lb/>
+som man i Tydskland vilde kalde et lidet Jagtslot, hvor jeg agter at <lb/>
+tilbringe nogle Dage og derefter at komme til Fossum den 31te Julii. – <lb/>
+Imidlertid anbefaler jeg mig underdanigst til Deres Majestæts Naade <lb/>
+og Bevaagenhed.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 24 Julii 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>25</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. mai 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. mai 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p xml:id="p2">	Min idag om Hendes Majestæt Dronningens Befindende modtagne <lb/>
+Efterretning lyder meget godt, som forhaabentlig vil blive stadfæstet <lb/>
+ved Morgenposten, saavel af Hendes Majestæt Selv, som af Medicinal- <lb/>
+Raadet Thelning, hos hvem jeg jevnlig indhenter Underretning.</p>
+               <p xml:id="p3">	Hans Kongelige Høihed Prinds Gustav gjorde mig den Ære at bivære <lb/>
+en større Middag hos mig i Gaar, til Feiring af Hans Kongelige Høihed <lb/>
+Kronprindsens Fødselsdag. Hans Kongelige Høihed var frisk og rask og havde <lb/>
+den Naade, efter Aftale med mig, paa norsk at besvare min underdanigste <lb/>
+Skaal til Ham, paa en Maade, der, som Hans hele Holdning, vandt almindeligt <lb/>
+Bifald. Til denne Middag havde jeg, foruden andre Honoratiores, indbuden <lb/>
+en 30 Storthingsmænd. –</p>
+               <p xml:id="p4">	I Statsraadet den 30te forrige Maaned overbragte en Storthings- <lb/>
+Deputation nogle ubetydelige Lovforslag, som ville bleve Deres Majestæt <lb/>
+underdanigst forelagte.</p>
+               <p xml:id="p5">	Storthinget har i Gaar desværre forkastet saavel Regjeringens <lb/>
+som flere private Forslag om Forandring af Grundlovens 20de Paragraph, <lb/>
+ved hvis Antagelse betydelige Udgifter vilde have været sparede for <lb/>
+Statscassen, megen Tid og Arbeide for Regjeringen, Domstolene og  <lb/>
+Embedsmænd. Ryes og Sørenssens Yttringer i denne Begivenhed vare mig <lb/>
+paafaldende og have bidraget sit til det uventede Udfald. I mere end <lb/>
+een Begivenhed faaer man respectere den antagne Sætning: "sic volo, <lb/>
+sic jubeo, stat pro ratione voluntas."</p>
+               <p xml:id="p6">Til den i mit sidste underdanigst meddeelte Underretning om <lb/>
+Discussionerne betræffende Lensmænds Ansættelse, tillader jeg mig <lb/>
+underdanigst at tilføie følgende Yttring af Daa: "Grunden til, at han <lb/>
+ansaae Forslaget om Lensmændenes Valg af Formandskaberne <hi rend="underline">urimeligt</hi>
+                  <lb/>
+var fornemmelig, fordi det blandt Andet er Lensmændenes Pligt at  <lb/>
+controllere Statens Afgiftsvæsen, især Brændeviins Tilvirkningen, og <lb/>
+det maatte dog være vel galt at lade Brændeviinsbrænderne vælge <lb/>
+sine egne Controlleurer."</p>
+               <p xml:id="p7">	Min Formodning om, at en langsom og temporiserende Behandling i <lb/>
+Statsraadet af Storthingets splitternye Fordring paa senere Pensioners <lb/>
+Revision, vilde være hensigtsmæssig, vil forhaabentlig gaae i Opfyldelse <lb/>
+og er et nyt Beviis paa, hvorledes menneskelige Anskuelser ved <lb/>
+Tid og Overveielse kunne modificeres ja aldeles forandres.</p>
+               <p xml:id="p8">	Ved Sagens første Omhandling i forberedende Statsraad vare alle, <lb/>
+inclusive Statsministeren og Statsraad Schmidt, med Undtagelse af Statsraad <lb/>
+Vogt og jeg, af den Formening, at Regjeringen ikke kunde nægte at <lb/>
+opfylde Storthingets Fordring. Under Sagens senere mundtlige og skriftlige <lb/>
+Behandling bliver man mere og mere enig om den i hosfølgende mit <lb/>
+foreløbige Votum yttrede Formening. Sagen circulerer endnu og jeg troer <lb/>
+ikke at burde paaskynde den; "sat cito, si sat bene!"</p>
+               <p xml:id="p9">	I Anledning af de i Deres Majestæts naadige Skrivelse af 24de <lb/>
+forrige Maaned omnævnte Toldsatser, har jeg havt tilfredsstillende, <lb/>
+og jeg tør haabe, gavnlige Samtaler med Toldcomiteens Medlemmer. For <lb/>
+at faae en god Anledning til en saadan Samtale med Ueland, havde jeg <lb/>
+buden ham til Middag i Gaar, og, man sige hvad man vil! – "Middage ere <lb/>
+ikke uden al Nytte."</p>
+               <p xml:id="p10">	Jeg havde i Formiddag en lang Samtale med Ueland som i flere <lb/>
+Henseender var tilfredsstillende for mig og som jeg vover at troe, ikke <lb/>
+uden nogen gavnlig Indflydelse. Han yttrede sig særdeles tilfreds og <lb/>
+taknemmelig om sin Audients hos Deres Majestæt. Han syntes ogsaa tilfreds <lb/>
+med mig som jeg med ham. Enten er denne Mand meget ærlig, eller <lb/>
+– en stor Skjelm! De Fleste troe det Sidste, som <hi rend="underline">jeg</hi>  dog ugjerne vil <lb/>
+troe. –</p>
+               <p xml:id="p11">	Udenfor Stiftsgaarden, som jeg beboer, og hvori Regjeringens <lb/>
+Samlinger holdes, har til alle Tider været placeret en Post for Regjeringen <lb/>
+og een for Statholderen. Sidstnævnte Post er nu bleven inddraget, <lb/>
+og da den var det sidste levnede ydre Tegn for Statholderens Tilværelse, <lb/>
+vil Postens Inddragning uden Tvivl opvække Opmærksomhed og maaskee <lb/>
+give Anledning til ubehagelige Bemærkninger. Om Postens Inddragning, <lb/>
+som det siges, kun er interimistisk, vil det vel ikke uden Grund <lb/>
+blive bemærket, at den ligevel kan undværes for stedse, som for en <lb/>
+kortere Tid. Jeg indrømmer denne Bemærknings Rigtighed for min Person, <lb/>
+men jeg troer derhos, at ydre Tegn, et ydre tilvant Decorum, ere <lb/>
+nødvendige, ja uundværlige, for Flertallet af Mennesker, og det er fra <lb/>
+denne Synspunct, at jeg troer underdanigst at burde henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa denne ubetydelige Gjenstand. – I Paris <lb/>
+som flere Steder, findes en Post for ethvert Ministerhotel. Da den <lb/>
+paatænkte Inddragning blev mig meddeelt, udbad jeg den kun udsat indtil <lb/>
+efter Sir Thomas Carthwrigths Afreise fordi det var mig modbydelig at <lb/>
+en fremmed Minister maatte troe vor Armeé saa ilde organiseret, at den <lb/>
+i dybeste Fred ikke skulde kunne afgive de hos os meget faae saakaldte <lb/>
+Honneursposter.</p>
+               <p xml:id="p12">	Denne Mai Maaned er indtraadt med et koldt og ubehageligt Veir. <lb/>
+Man trøster sig med <lg xml:id="lg13">
+                     <l>"At Mai Kulde"</l>
+                     <l>"Gjør Bondens Lader fulde."</l>
+                  </lg> 
+        Gid de kunde blive fulde paa noget behageligere Sæt!</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d. 4de Mai 1845</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

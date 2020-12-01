@@ -1,0 +1,73 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>176</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. februar 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. februar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efter min sidste underdanigste Rapport af 1ste denne Maaned er <lb/>
+indløbet Indberetning fra Stadsphysicus i Bergen, af 29de forrige Maaned <lb/>
+som angiver i de sidste 4 Døgn angrebne af Cholera 64, i det Hele <lb/>
+angrebne 603, Døde 336 helbredede 92 Personer, med den Bemærkning, at <lb/>
+Sygdommens Intensitet synes i de sidste Døgn at have tabt sig. Fra <lb/>
+Landdistricterne bragte sidste Post ingen Indberetning. Derimod meldes fra <lb/>
+Stavanger, at ombord paa et dertil fra Bergen bestemt Fartøi, var en <lb/>
+Person angreben af Cholera 7 Døgn efter Afreisen fra Bergen, hvorefter <lb/>
+Fartøiet var vendt did tilbage med den Syge.</p>
+               <p xml:id="p2">	I dette Øieblik modtager jeg Efterretninger fra Bergen, daterede <lb/>
+4de Februar, hvorefter i de 3de sidste Døgn kun have været angrebne <lb/>
+33. Stadsphysicus gjør i sin Indberetning derhos den Bemærkning at Alt <lb/>
+tyder hen paa, at Epidemien nærmer sig sin Ende. I den nærmeste Omegn <lb/>
+af Bergen vedvarer vel Sygdommen fremdeles, dog anmeldes kun faae <lb/>
+Tilfælde. I Bergens Bye ere de angrebnes Antal fra 10 December til <lb/>
+4 Februar ialt 670, hvoraf 391 Døde og 152 Helbredede. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Februar 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

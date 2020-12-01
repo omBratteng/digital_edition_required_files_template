@@ -1,0 +1,163 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>114</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 7. oktober 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 7. oktober 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de forrige Maaned.</p>
+               <p xml:id="p2">	Senere har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Meddelelse af 27de forrige Maaned ved Greve Lewenhaupt, og Deres  <lb/>
+Majestæts naadige Skrivelse af 30te hvorfor min underdanigste  <lb/>
+Erkjendtlighed bevidnes.</p>
+               <p xml:id="p3">	Deres Majestæts førstnævnte medfulgte naadige Skrivelse til Biskop <lb/>
+Neumann har jeg tilstillet denne.</p>
+               <p xml:id="p4">	Jeg takker underdanigst for den naadige Meddelelse om Pastor Stabells <lb/>
+Udnævnelse til Sognepræst i Onsøe, som i denne Menighed vil foranledige <lb/>
+megen Glæde og Taknemmelighed. Denne Kongelige Naade vil især  <lb/>
+blive taknemmelig paaskjønnet, fordi den viser Vedkommende, at Kongen <lb/>
+kan og vil være naadigere end Hans Regjering, hvorved Hjerter vindes  <lb/>
+for Kongen.</p>
+               <p xml:id="p5">	Med Morgenposten afgaaer Regjeringens underdanigste Indstilling om <lb/>
+Besættelsen af Præste Embedet for Garnisons Menigheden i Christiania, <lb/>
+hvorom Meningerne ere saaledes deelte, at Statsraad Vogt som fungerende <lb/>
+Chef for Kirke-Departementet har indstillet en residerende Capellan  <lb/>
+Jensen, Statsraaderne Krog og Stang: Provst Bruun, og den øvrige svage  <lb/>
+Pluralitet: Pastor Harbitz.</p>
+               <p xml:id="p6">	Deres Majestæt kjender de Grunde, som efter Conference med Biskop <lb/>
+Arup forhindre mig fra at stemme for Provst Bruun. Residerende Capellan <lb/>
+Jensen anseer jeg for den talentfuldeste blandt alle Aspiranterne, hvem <lb/>
+jeg helst vilde have givet min Stemme; men han staaer i Alder, Examens <lb/>
+Anciennetet og Tjeneste Tid saa langt tilbage for Harbitz, der ogsaa skal <lb/>
+være en dygtig Mand og god Taler, at man formeentlig ikke uden  <lb/>
+Uretfærdighed kunde tilsidesætte denne. Deres Majestæt vil iøvrigt maaskee  <lb/>
+naadigst erindre, at samme Harbitz i Aaret 1836 gjerne vilde have taget <lb/>
+Livet af mig, og forunderlig nok! om dette var lykket ham vilde han nu have <lb/>
+savnet min Stemme. Jeg anseer ham ikke desto mindre for en brav Mand, og <lb/>
+in politicis fornuftigere nu end i 1836.</p>
+               <p xml:id="p7">	Generalconsul Crowe har viist mig et nylig modtaget Brev fra Hr <lb/>
+Stephenson, hvori denne, paa Grund af de ham fra Ingenieur England givne <lb/>
+Rapporter, vedvarende yttrer sit bedste Haab for vor Jernbanes Iværksættelse, <lb/>
+saa snart den nu i England trykkende Penge Crise vil være overstaaet.</p>
+               <p xml:id="p8">	Siden Deres Majestæts Afreise har jeg flere Gange besøgt den vel <lb/>
+valgte deilige Plet for en Pavillon paa Ladegaardsøen, og har jeg, vel <lb/>
+vidende om, hvor meget vore Architecter og Haandværkere tiltrænge  <lb/>
+Erindringer, tilladt mig jevnligen at anmode Hr Nebelong om at paabegynde <lb/>
+Arbeidet. Dette er nu skeet, idet Byggetomten er ryddiggjort og Gravning <lb/>
+til Grundmuren er paabegyndt. Denne Pavillon vil pryde een af de smukkeste <lb/>
+Plette i Christianias vakkre Omegn, og Foreningen af Ladegaardsøen,  <lb/>
+Dronningbjerget og Thulstrupløkken vil danne en udmærket Kongelig Park, <lb/>
+hvoraf jeg ønsker Deres Majestæt langvarig Nydelse, saa sandt som Deres <lb/>
+Majestæt ved dette Anlæg vil erhverve en ny og stor Fortjeneste af <lb/>
+Hovedstadens Indvaanere.</p>
+               <p xml:id="p9">	Statsraad Holst's Helbred er Gudskee Lov saa retableret, at han har <lb/>
+overtaget Kirke Departementets Bestyrelse og i Gaar bivaanede Statsraadet.</p>
+               <p xml:id="p10">	Statssecretair Schouboe afreiste i Dag med Dampskibet til Kjøbenhavn, <lb/>
+hvor han, med Deres Majestæts naadige Tilladelse vil tilbringe  <lb/>
+Vintermaanederne, for at gjenvinde sin svækkede Helbred. Han er en dygtig og <lb/>
+retskaffen Embedsmand, som jeg ugjerne seer forlade sin Post, for hvilken <lb/>
+han ved Orden og Paalidelighed er særdeles vel skikket.</p>
+               <p xml:id="p11">	I den sidste Uge af September indtraadte det for Indhøstning af Korn <lb/>
+og Potates ønskeligste Veirlig, som endnu vedvarer; men siden denne Uges <lb/>
+Begyndelse desværre med Frost. Nætterne imellem den 3die og 4de denne <lb/>
+Maaned frøs mine Georginer een Maaned tidligere end forrige Aar. I Morges <lb/>
+Klokken 6 1/2 stod Thermometeret 2 1/2 Grad under Frysepunktet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 7de October 1847</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+               <lb/>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 7. oktober 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Post Scriptum!</head>
+               <p xml:id="p12">	Min Søn Adam har efter sin og Hustrues Tilbagekomst til Newyork fra <lb/>
+deres lange Reise til de norske og svenske Udvandrere samt til Niagara <lb/>
+Vandfald, givet mig interessante Meddelelser, hvorom jeg antager, at han har <lb/>
+afgivet Rapport til Hans Excellence Udenrigs-Ministeren. <lb/>
+               </p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 7. oktober 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">Underdanigst Indberetning!</head>
+               <p xml:id="p13">	Overeensstemmende med Deres Majestæts naadige Befaling har jeg med <lb/>
+Architect Nebelong afsluttet i Gjenpart vedlagte Contract, betræffende <lb/>
+Opførelsen af den af Deres Majestæt naadigst approberede Bygning paa <lb/>
+Ladegaardsøen. Arbeidet paa Tomten med Rydning og Planering er derefter i <lb/>
+forrige Uge paabegyndt og tilsees med megen Iver af Architecten, saaledes <lb/>
+at det forhaabentlig vil blive færdigt til den i Contracten bestemte Tid. <lb/>
+Til Bestridelse af løbende Udgifter har Architect Nebelong af mig erholdt <lb/>
+anviist et Beløb af 200 Spd. hvilke af Kammerherre Holst ere ham udbetalte. <lb/>
+Naar Arbeidet i Høst sluttes,skal jeg tillade mig i Underdanighed at <lb/>
+indberette til Deres Majestæt hvor vidt Bygningens Fundament er <lb/>
+fremskredet.</p>
+               <p xml:id="p14">	Et Vei-Anlæg til den vordende Pavillon er af Kammerherre Holst <lb/>
+allerede paabegyndt, ligesom Gartneren paa Hovedgaarden forbereder det <lb/>
+Fornødne til Udførelsen af et de nye Bygninger omgivende Haveanlæg, til hvis <lb/>
+Udførelse Kammerherre Holst vil tillade sig i Underdanighed at forelægge <lb/>
+Deres Majestæt en Plan til naadigst Approbation.</p>
+               <p xml:id="p15">	Jeg vover at antage, at Deres Majestæt Intet har at erindre imod, <lb/>
+at Architect Nebelong til Sommeren maa tillades at benytte et Par  <lb/>
+Værelser paa Thulstrup Løkken, for derved at blive sat istand til desto <lb/>
+stadigere og nøiagtigere at føre Tilsyn med Byggearbeidet.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den  October 1847</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>F. Wedel Jarlsberg</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>3</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. april 1844</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. april 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p xml:id="p2">	Blandt de med Dags Posten afgaaende Regjerings Sager tillader <lb/>
+jeg mig underdanigst at henlede Deres Majestæts naadigste Opmærksomhed <lb/>
+paa Justitiarius Bergs underdanigste Ansøgning om Afsked i Naade <lb/>
+fra hans Embede som Justitiarius i Christianias Stifts Overret, med <lb/>
+Bibehold af sin fulde Gage, 1,400 Speciedaler, som Pension, hvilket <lb/>
+Regjeringen underdanigst har anbefalet.</p>
+               <p xml:id="p3">	Justitiarius Berg er 68 1/2 Aar gammel, har med Retskaffenhed og <lb/>
+Hæder tjent Staten nær et halvt Seculum og er en udmærket Videnskabsmand. <lb/>
+Følgerne af et ulykkeligt Fald denne Vinter, hvorved han <lb/>
+brak Hoftebenet, nødsage ham nu til at ansøge om Afsked. Han har ingen <lb/>
+Formue, men en Familie, som tiltrænger Understøttelse og derhos en <lb/>
+fraskilt Hustru, til hvem han maa afgive en betydelig Deel af sin knappe <lb/>
+Indtægt.</p>
+               <p xml:id="p4">	Ved underdanigst at anbefale Justitiarius Bergs Ansøgning til Deres <lb/>
+Majestæts naadigste Bifald, tillader jeg mig, efter Regjeringens <lb/>
+Ønske, lige underdanigst at udbede, at han ved Afskedens Meddelelse, <lb/>
+maa vorde tilkjendegivet Deres Majestæts naadigste Tilfredshed med  <lb/>
+hans lange og troe Tjeneste.</p>
+               <p xml:id="p5">	Kammerherre og HofIntendant Heidemark, Ritmester og Chef for her <lb/>
+garnisonerende Esqvadron ridende Jægere, tiltræder imorgen Reisen, <lb/>
+for at overbringe de norske KronRegalier til Stockholm, hvor han efter <lb/>
+Bestemmelsen skal indtræffe den 15de. Han veed god Beskeed om Deres <lb/>
+Majestæts faste og løse Eiendomme i Norge, og er en ligesaa brav som <lb/>
+tyk Mand, som jeg tillader mig underdanigst at anbefale. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8 April 1844.</date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

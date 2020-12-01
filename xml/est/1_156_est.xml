@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>156</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 1. oktober 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 1. oktober 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 24de forrige Maaned.</p>
+               <p xml:id="p2">	Capitaine Erichsen, der dybt paaskiønner Deres Majestæts naadige <lb/>
+Tillid, har nu erklæret sig redebond til at modtage Deres Majestæts naadige <lb/>
+Tilbud, under den underdanigste Betingelse, at Deres Majestæt naadigst <lb/>
+vil tilstede ham, at blive staaende à la suite i Søeetaten med sin <lb/>
+havende Anciennetet. Jeg tillader mig underdanigst at anbefale dette  <lb/>
+rimelige og billige Ønske, om hvis Opfyldelse Capitaine Erichsen, efterat <lb/>
+være bleven udnævnt til Statsraad, vil kunne indgive sit formelige <lb/>
+Andragende, om Deres Majestæt naadigst vil tillade mig foreløbig at <lb/>
+forsikkre ham om Deres Majestæts naadige Bifald. Jeg imødeseer daglig <lb/>
+Statsraad Foss officielle Afskedsansøgning, efter hvis Foredrag Intet vil <lb/>
+være i Veien for Erichsens Udnævnelse. Denne er en retsindig og i sit Fag <lb/>
+dygtig Mand, som er i Besiddelse af Kammeraders og Almeenhedens Agtelse <lb/>
+og Tillid.</p>
+               <p xml:id="p3">	Gid jeg vidste at gjøre et lige godt Forslag for Armeedepartementet! <lb/>
+Jeg søger fremdeles, men hidindtil forgjæves, efter en Mand <hi rend="underline">af Faget</hi>, <lb/>
+med Talent, Dygtighed og paalidelige politiske Grundsætninger. Deslige <lb/>
+Mænd blive med hver Dag vanskeligere at finde, medens man overalt bestræber <lb/>
+sig for at bortfjerne de i Embede værende Ministre. Selv Præsidenten <lb/>
+i den tydske Nationalforsamling erklærede nylig: "Det er let <lb/>
+at styrte et Ministerium men saare vanskeligt at finde Efterfølgere!"</p>
+               <p xml:id="p4">	Statsraad Foss har jeg funden physisk bedre; men hans Mund er skjæv <lb/>
+og han har vanskelig for at tale.</p>
+               <p xml:id="p5">	Med underdanigst Henhold til min sidste Yttring betræffende Pastor <lb/>
+Harbitz's nye Befordring, tillader jeg mig underdanigst at bemærke  <lb/>
+følgende. Deres Majestæt har stedse beviist denne Mand personlig Naade <lb/>
+og nylig udnævnt ham til Garnisonspræst i Christiania. Hos mig har han, <lb/>
+uden Hensyn til foregaaende Begivenheder, altid mødt personlig Velvillie. <lb/>
+Derefter var det saa meget mere uventet og upassende, at see denne Mand <lb/>
+yttre sig ivrig for den af en Storthingspluralitet <hi rend="underline">mod Deres Majestæts</hi>
+                  <lb/>
+                  <hi rend="underline">Regjering</hi>  tiltænkte Adresse og i denne Begivenhed at paatage sig en mindre <lb/>
+hæderlig Rolle, hvorfor han af denne samme Pluralitet belønnedes med <lb/>
+at udnævnes til Statsrevisor. Jeg bekjender, at det strider mod min <lb/>
+Følelse, mod min Anskuelse om det rigtige og det passende, at den samme <lb/>
+Mand, nu strax efter skal bevises en ny Kongelig Naade, som af hans Partie <lb/>
+formodentlig vil blive forklaret for en Regjerings Svaghed. Da imidlertid <lb/>
+Regjeringen eenstemmig har anbefalet hans Ønske til naadig Indvilgelse, <lb/>
+bør jeg ikke tillade mig at fraraade det.</p>
+               <p xml:id="p6">	Vort sidste Fredag fra Travemünde ankomne Dampskib ligger nu under <lb/>
+Quarantaine ved Hovedøen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 1 October 1848</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

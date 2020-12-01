@@ -1,0 +1,226 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>31</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. juni 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. juni 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 30te forrige Maaned.</p>
+               <p xml:id="p2">	Jeg nedlægger min underdanigste Taksigelse for den mig ved Hr <lb/>
+Greve E. Lewenhaupt foreløbig givne naadigste Meddelelse om  <lb/>
+Pensionslistesagens Behandling. Af Ingen modtager jeg saa gjerne Deres <lb/>
+Majestæts naadige Meddelelser som af Grev E. Lewenhaupt, der har min  <lb/>
+uindskrænkede Tillid og Fortroelighed, og er det mig meget tilfredsstillende, <lb/>
+at Deres Majestæt har villet have den Naade Selv og umiddelbar at gjøre <lb/>
+Sig bekjendt med den omnævnte Sag, hvis naadige Afgjørelse overeensstemmende <lb/>
+med Pluralitetens underdanigste Indstilling jeg anseer af høieste <lb/>
+Vigtighed, fordi denne Afgjørelse enten vil styrke eller svække <lb/>
+Regjeringens Anseelse i den almindelige Opinion.</p>
+               <p xml:id="p3">	Fra denne Synspunkt vover jeg underdanigst at udbede, at om under <lb/>
+Sagens Drøftning Betænkeligheder skulde opstaae, Deres Majestæt da vil <lb/>
+have den Naade, forinden en endelig Beslutning afgives, naadigst at  <lb/>
+meddele mig disse, for at de forhaabentlig maa kunne blive hævede.</p>
+               <p xml:id="p4">	En Storthings-Deputation overbragte i Statsraadet den 4de nogle <lb/>
+Lovbeslutninger, som ville blive Deres Majestæt underdanigst forelagt.</p>
+               <p xml:id="p5">	Daa's Forslag, sigtende til at standse den her paabegyndte nye <lb/>
+Fængsels-Bygning, er bleven forkastet mod 12 Stemmer.</p>
+               <p xml:id="p6">	I Anledning af den mig naadigst givne Meddelelse om en i Sverige <lb/>
+bestemt Communeskat af 12 Skilling pr Mand og 6 Skilling pr Qvinde, til <lb/>
+Almueskolevæsenet, tillader jeg mig underdanigst at vedlægge en af <lb/>
+Kammerherre Holst forfattet tabellarisk Opgave over hvad Communerne i <lb/>
+Norge bidrage til samme Formaal, visende, at Udgiften, reparteret paa <lb/>
+Rigets omtrent 1,200,000 Indvaanere beløber 18 Skilling Specie pr <lb/>
+Individ <hi rend="underline">af begge Kjøn</hi>. Skolelærer-Seminariernes Udgifter bestrides af <lb/>
+Oplysningsvæsenets Fond.</p>
+               <p xml:id="p7">	Da jeg veed Storthingets Budget-Comitee tilbøielig til at foreslaae <lb/>
+en forøget Bevilgelse til en Udvidelse af Slottet, hvorved den huuslige <lb/>
+Beqvemmelighed kunde blive forenet med ydre Skjønhed, <hi rend="underline">uden at opoffre</hi>
+                  <lb/>
+                  <hi rend="underline">den nuværende store Spise-Sal</hi>, har jeg herom confereret med Slots <lb/>
+Intendant Linstow, som har meddeelt mig følgende sin Anskuelse:</p>
+               <p xml:id="p8">	Den eneste Maade, hvorved den angivne Hensigt vilde kunne opnaaes, <lb/>
+er at tilbygge tvende Fløie med fladt Tag, paa den mod Byen vendende <lb/>
+Side, hvis Kostende Linstow anslaaer til 16,000 Species <hi rend="underline">for hver Fløi</hi>. <lb/>
+En nødvendig Følge af denne Tilbygning maatte blive, at anbringe flade <lb/>
+Tage, saavel paa Hovedbygningen, som paa de nu værende Fløie, hvis <lb/>
+Udgift anslaaes til 15 à 16,000 Sps, altsaa tilsammen en forøget Udgift <lb/>
+af omtrent 48,000 Speciedaler. Linstow formener det, for Slottets snarest <lb/>
+mulige Beboelse, hensigtsmæssigst at iværksætte Deres Majestæts <lb/>
+senest givne Befalinger og at lade den paatænkte Udvidelse dependere <lb/>
+af Fremtidens Omstændigheder, saameget mere som en fremtidig Udvidelse <lb/>
+ikke derved vil gjøres umulig men ikkun foranledige Opoffrelse af <lb/>
+de paa Spisesalens nu befalede Forandring og Restauration i sin Tid <lb/>
+anvendte Udgifter, som Linstow anslaaer til omtrent 4,500 Sps. Iøvrigt <lb/>
+indrømmer han, at de angivne Forandringer, stemmende med hans første <lb/>
+Plan, særdeles meget vilde bidrage til Slottets Forskjønnelse og <lb/>
+Beqvemmelighed. Jeg tillader mig om denne Gjenstand underdanigst at  <lb/>
+udbede mig Deres Majestæts naadige Anskuelse, til Efterretning for <lb/>
+Vedkommende.</p>
+               <p xml:id="p9">	Imidlertid bør jeg ikke tilbageholde en mig af Linstow ved denne <lb/>
+Leilighed given Meddelelse. Budgetcomiteen forlangte forleden Dag snarest <lb/>
+mulig Opgave over det Inventarium, som behøves til Slottets complette <lb/>
+Meublering og sammes detaillerede Kostende, af Slotscommissionen. <lb/>
+Denne Overdrog Arbeidet til Slots Intendant Linstow, som, efter  <lb/>
+Consultation med General Wedel, er kommet til det Resultat, at den  <lb/>
+complette Meublering, hvortil ikke er regnet Sølv, Linned, Glas Batterie <lb/>
+de cuisine, vil koste 55,000 Sps, et Resultat, som turde afkjøle <lb/>
+Tilbøieligheden til forøgede Bygningsudgifter. Linstow sagde mig, at <lb/>
+Deres Majestæters Sænge med Sængeklæder ere anslaaede til 500 Sps, de <lb/>
+Prindselige Sænge til 300 Sps, Domestique Sænge til 45 Species pr Stykke <lb/>
+og formodentlig Alt andet i samme Scala. En detailleret Specification <lb/>
+herover med Calcule vil bleve Deres Majestæt underdanigst tilstillet, <lb/>
+saasnart den er reenskrevet.</p>
+               <p xml:id="p10">	I de sidste Dage har Forsynet forundt os en høielig tiltrængende <lb/>
+velgjørende Regn, i Gaar ledsaget af stærkt Tordenveir, som i denne <lb/>
+tidlige Aarstid er sjelden. Temperaturen er meget kjølig.</p>
+               <p xml:id="p11">	Om Alt gaaer efter Ønske agter jeg i Ugen mellem den 15 og 22de <lb/>
+denne Maaned at lade iværksætte den mig af Deres Majestæt anbefalede <lb/>
+Afsløring af salig Hs. Excellence Grev Wedel Jarlsbergs Buste.</p>
+               <p xml:id="p12">	Gaarposten bragte mig den Efterretning, at Hans Majestæt Kongen <lb/>
+af Preussen, har anmeldt Sin Ankomst til Kjøbenhavn den 18de denne <lb/>
+Maaned, hvilket jeg tillader mig underdanigst at indberette uagtet jeg <lb/>
+kan antage Deres Majestæt herom underrettet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te Juni 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+               <lb/>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 6. juni 1845.</supplied>
+               </head>
+               <p xml:id="p13">
+                  <hi rend="underline">Elementair Undervisningen</hi>  henhører i Norge under Communal <lb/>
+Bestyrelsen og Udgifterne dertil udlignes som Commune-Skatter:</p>
+               <table rend="noBorder" xml:id="table1">
+                  <head xml:id="h4">
+                     <label>A. </label>
+                     <hi rend="underline">paa Landet</hi> fandtes med Udgangen af 1840:</head>
+                  <row>
+                     <cell>1904 Skoleholder Districter, hvis Lærere lønnedes med:</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell> " </cell>
+                     <cell>Pengeløn:</cell>
+                     <cell>36,423, Spd.</cell>
+                  </row>
+                  <row>
+                     <cell> " </cell>
+                     <cell>Klokkerløn:</cell>
+                     <cell>9,972  "</cell>
+                  </row>
+                  <row>
+                     <cell>Lærerne nyde Kosthold, Bolig m. m. in natura i 403,340 Dage à 24 Sk pr Døgn anslaaes til:</cell>
+                     <cell/>
+                     <cell>80,668  "</cell>
+                  </row>
+                  <row>
+                     <cell>222 faste Skoler, hvis Lærere lønnedes med</cell>
+                     <cell>Pengeløn:</cell>
+                     <cell>10,368  "</cell>
+                  </row>
+                  <row>
+                     <cell> " </cell>
+                     <cell>Klokkerløn:</cell>
+                     <cell>
+                        <hi rend="underline">8,888</hi> " </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="underline">altsaa koste Almueskolerne paa Landet aarlig</hi>:</cell>
+                     <cell/>
+                     <cell>
+                        <hi rend="underline">146,319</hi> "</cell>
+                  </row>
+               </table>
+               <table rend="noBorder" xml:id="table2">
+                  <head xml:id="h5">
+                     <label>B.</label>
+                     <hi rend="underline">i Byerne</hi>  fandtes ved Udgangen af 1840:</head>
+                  <row>
+                     <cell>89 faste Almueskoler hvis Lærere lønnedes med</cell>
+                     <cell>Pengeløn:</cell>
+                     <cell>13,513 Spd</cell>
+                  </row>
+                  <row>
+                     <cell> " </cell>
+                     <cell>Klokkerløn:</cell>
+                     <cell>8,128  "</cell>
+                  </row>
+                  <row>
+                     <cell>46 andre Smaabørns Skoler hvis Lærere lønnedes med</cell>
+                     <cell>Pengeløn:</cell>
+                     <cell>3,491  " </cell>
+                  </row>
+                  <row>
+                     <cell>20 Borger- og Realskoler, hvis Lærere lønnedes med</cell>
+                     <cell>Pengeløn:</cell>
+                     <cell>
+                        <hi rend="underline">13,755</hi> "</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="underline">altsaa koste Almueskolerne i Byerne aarlig</hi>:</cell>
+                     <cell/>
+                     <cell>
+                        <hi rend="underline">38,887</hi> "</cell>
+                  </row>
+               </table>
+               <table rend="noBorder" xml:id="table3">
+                  <head xml:id="h6">
+                     <label>C.</label>
+                     <hi rend="underline">af Skolelærer Seminiarier</hi>  fandtes</head>
+                  <row>
+                     <cell>8, hvilke modtog Understøttelse af Oplysningsvæsenets Fond hvilket<lb/>
+    ligeledes bestrider Udgifterne til Skoleholderes<hi rend="underline">Pensioner</hi>  og<lb/>
+    til enkelte fattige Præstegjelds Skolevæsen.</cell>
+                  </row>
+               </table>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

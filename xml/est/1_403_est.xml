@@ -1,0 +1,85 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>403</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 29. august 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 29. august 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 26de denne Maaned, er <lb/>
+intet mærkeligt indtruffen, der antages at burde bringes til Deres <lb/>
+Majestæts naadige Kundskab.</p>
+               <p xml:id="p2">	Cholera Epidemien vedbliver fremdeles, men uden at antage nogen <lb/>
+særdeles foruroligende Character. I de sidste 2de Døgn, indtil igaar <lb/>
+den 28de August, ere de Angrebnes Antal 60; saaledes at i det Hele <lb/>
+siden 26de Julii 246 ere Angrebne, hvoraf 170 Døde.</p>
+               <p xml:id="p3">	Indberetningerne om det sidste Døgn indkomme først senere paa <lb/>
+Dagen, paa Grund af, at Lazaretterne og Districterne ere saa vidt <lb/>
+adspredte. Der er imidlertid ingen Anledning til at antage, at  <lb/>
+Antallet af de Angrebne skulde betydelig afvige fra det sædvanlige <lb/>
+daglige Forhold </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de August 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 29. august 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p4">	I det Øieblik jeg skal afsende denne underdanigste Rapport, <lb/>
+modtager jeg Indberetning om, at Antallet af de i det sidste Døgn,  <lb/>
+indtil idag den 29de August, af Cholera Angrebne er 44, saaledes, at <lb/>
+Antallet i det Hele nu udgjør 285 Angrebne, hvoraf 200 Døde. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de August 1853</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

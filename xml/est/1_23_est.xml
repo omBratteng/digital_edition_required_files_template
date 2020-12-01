@@ -1,0 +1,95 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>23</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. april 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. april 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Uagtet Deres Majestæt ved Afreisen naadigst behagede at dispensere <lb/>
+mig fra at afgive nogen Rapport ved Dagens Post troer jeg dog at <lb/>
+burde underdanigst ommelde nogle Gjenstande.</p>
+               <p xml:id="p2">	Efter langvarige Discussioner har Storthinget den 16de dennes <lb/>
+fattet følgende Beslutning:</p>
+               <p xml:id="p3">	"Til Gage for en 9de Statsraad beviljes midlertidig 3,000 <lb/>
+"Speciedaler aarlig, indtil Omregulering med Departementerne vil kunne <lb/>
+"finde Sted."</p>
+               <p xml:id="p4">	Denne Beslutning tillraadtes af 51 Medlemmer, hvorimod 44 voterede <lb/>
+for følgende af en Capellan Bergh foreslaaede Tillæg: "saaledes <lb/>
+at disses Antal igjen indskrænkes til 6."</p>
+               <p xml:id="p5">	Da jeg til Dato kun har Kundskab om ovenstaaende af offentlige <lb/>
+Blade, maa jeg forbeholde mig nærmere underdanigst Meddelelse, efterat <lb/>
+Regjeringen har modtaget en saadan.</p>
+               <p xml:id="p6">	Dampskibet "Christiania", som den 12te denne Maaned fra Drøbak <lb/>
+tiltraadte sin første Reise dette Aar til Kjøbenhavn under Lieutenant <lb/>
+Fleischers Commando, har formedelst svære Masser af Driviis i Kattegattet <lb/>
+desværre maattet vende tilbage, uden at have naaet sin Bestemmelse. <lb/>
+Medhavende Post og de Passagerer som ønskede at forlade Skibet, <lb/>
+blev landsat ved Dyneholmen i Gøtheborgs Skjærgaard, for at befordres <lb/>
+videre landværts. Efter denne ubehagelige Erfaring har man troet at <lb/>
+burde udsætte Dampskibets næste Afreise indtil den 26de denne Maaned, <lb/>
+og vil indtil denne Tid den udenrigske Post blive befordret over <lb/>
+Land.</p>
+               <p xml:id="p7">	Jeg beklager meget, at den dygtige og paalidelige Politiemester <lb/>
+i Christiania, Fougner, i Gaar har forladt Staden, for at tiltræde <lb/>
+det ham naadigst forundte Sorenskriver Embede paa Ringerige. Imidlertid <lb/>
+er Politieadjutant Dass bleven constitueret til at iagttage  <lb/>
+Politiemesterens Functioner.</p>
+               <p xml:id="p8">		Deres Majestæts Afreise har naturligviis efterladt en uhyggelig <lb/>
+Tomhed. Under Deres Majestæts høie Nærværelse hensvandt Maaneder <lb/>
+og Uger som Dage og Timer, der for os vil blive uforglemmelige. Maatte <lb/>
+de hos Deres Majestæter og den Kongelige Familie have efterladt behagelige <lb/>
+og naadige Erindringer! Om min Stemme kunde høres vilde et <lb/>
+Echo fra alle Norges Fjelde give Gjenlyd af alle Nordmænds Ønske: <lb/>
+– "Velkommen snart tilbage!" – Om Hendes Majestæt Dronningens og <lb/>
+Hans Kongelige Høihed Prinds Gustavs Befindende vil Deres Majestæt <lb/>
+uden Tvivl modtage sikkrere Meddelelse, end jeg skulde kunne give. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 April 1845. </date>
+                  </dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

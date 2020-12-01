@@ -1,0 +1,118 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>409</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 12. september 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 12. september 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p xml:id="p2">	Da de daglige Indberetninger om Cholera Sygdommen i Christiania <lb/>
+og Omegn først indkomme langt ud paa Dagen, tillader jeg mig  <lb/>
+underdanigst at lade Kammerherre Holst paa Foden heraf meddele den <lb/>
+fornødne Oplysning om Tilstanden her ved Postens Afgang. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 12 September 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 12. september 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>
+               </head>
+               <table rend="noBorder" xml:id="table1">
+                  <row>
+                     <cell>I Døgne fra 9de til 10de September</cell>
+                     <cell>	98 Angrebne, </cell>
+                     <cell> 53 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  fra 10de til 11te September</cell>
+                     <cell>	78 Angrebne,</cell>
+                     <cell>  63 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  fra 11te til 12te September</cell>
+                     <cell>  100 Angrebne,</cell>
+                     <cell>  54 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="underline">altsaa i de 3de sidste Døgn</hi>:</cell>
+                     <cell>	  276 Angrebne,</cell>
+                     <cell>  171 Døde</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Fra 26de Julii til 9de September</cell>
+                     <cell> 1165 Angrebne,</cell>
+                     <cell>  735 Døde </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="underline">altsaa i det Hele til 12te September</hi>:</cell>
+                     <cell> 1441 Angrebne,</cell>
+                     <cell>  906 Døde.</cell>
+                  </row>
+               </table>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>217</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 28. februar 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 28. februar 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Til Følge Deres Majestæts naadige Befaling af 21de har jeg atter <lb/>
+indbuden Professor Schweigaard til at indtræde i Statsraadet; men mit <lb/>
+Frierie var denne Gang ikke heldigere end tilforn. Han bad mig bevidne <lb/>
+sin underdanigste Taknemmelighed for Deres Majestæts naadige Opmærksomhed <lb/>
+med den Erklæring, at hans nærværende Virkekreds stemmer mere <lb/>
+med hans Tilbøielighed og at han i denne troer at kunne gavne mere end <lb/>
+som Medlem af Regjeringen.</p>
+               <p xml:id="p3">	I Mangel heraf er det mig kjært at Borgemester Bretteville har <lb/>
+modtaget Deres Majestæts naadige Tilbud, hvorfor han vedlægger sin <lb/>
+underdanigste Taksigelse. Han var i sin Tid ikke af Regjeringen indstillet <lb/>
+til Borgemester Embedet, men det var paa min underdanigste Forbøn, <lb/>
+at Høistsalig Kongen havde den Naade at betroe ham dette vigtige Embede, <lb/>
+hvori han har erhvervet en saa almindelig Anerkjendelse, at han meget <lb/>
+vanskelig vil kunne erstattes. Med Tillæg af en Sparebanksbestilling, <lb/>
+den han som Statsraad maa opgive, tjener han nu paa 2,600 Speciedaler, <lb/>
+og Tillægget som Statsraad kan visselig ikke erstatte et forøget <lb/>
+Ansvar og de fra et Statsraads Embede i vore Dage uadskillelige  <lb/>
+Ubehageligheder.</p>
+               <p xml:id="p4">	I flere Uger har en høist ubehagelig Menings Ulighed været discuteret <lb/>
+i Statsraadet, hvorfor jeg, da det gjælder et Regjeringsprincip, <lb/>
+troer at burde gjøre <hi rend="underline">confidentiel</hi>  Rede.</p>
+               <p xml:id="p5">	Finants Departementet indstillede at Bergens Toldinspecteur Embede <lb/>
+maa averteres vacant med en betydelig nedsat Gage, som man vil foreslaae <lb/>
+Storthinget at bifalde, – en Fremgangsmaade, som efter sidste Rigsret <lb/>
+tvende Gange har været brugt, uden at sidste Protocolcomité har berørt <lb/>
+mindre paaanket den. Bifalder Storthinget Nedsættelsen, bliver den  <lb/>
+gjældende, endog om Storthinget som sædvanlig gaaer videre i Nedsættelse, <lb/>
+fordi den, der vil have en større Nedsættelse, maa antages at bifalde <lb/>
+den af Regjeringen foreslaaede mindre; men om Storthinget ingen  <lb/>
+Gagenedsættelse skulde bifalde, maatte den oprindelig bestemte erkjendes <lb/>
+gjeldende.</p>
+               <p xml:id="p6">	Denne Fremgangsmaade er den eneste, hvorved man kan sikkre den <lb/>
+ansættende Embedsmand en bestemt Gage og den er grundet paa Regjeringens <lb/>
+Princip: at en ifølge Grundloven's § 75 litr. i af Storthinget bestemt <lb/>
+Gage (hvilket her er Tilfældet) ikke kan forandres uden Kongemagtens <lb/>
+Samtykke; men at denne anseer sig moralsk forpligtet til at foreslaae <lb/>
+Gager, som synes for høie, nedsatte. Ved Bergens i de senere Aar forøgede <lb/>
+Handel og Skibsfart var Toldinspecteurens Indtægter bleven høiere <lb/>
+end paatænkt, og derfor foreslaaes de nu nedsatte fra 2500 Speciedaler <lb/>
+til 2000 Spdl., hvorhos han skal betale Huusleie 130 Spdl., hvorfor <lb/>
+han før var fri, – altsaa en Nedsættelse af 630 Spdl. aarlig.</p>
+               <p xml:id="p7">	Dette Regjeringens for Embedsmændenes Sikkerhed nødvendige Princip <lb/>
+blev af Stang med meget Talent forsvaret under sidste Rigsrets Action <lb/>
+og blev ved Dom godkjendt, hvilket foranledigede hans Udnævnelse <lb/>
+til Statsraad. Den samme Stang tog nu, incredibile dictu, – det modsatte <lb/>
+Partie, vilde, at den omhandlede Gage skulde paa ny overlades til <lb/>
+Storthingets for godt befindende Omregulering og Bestemmelse, – og <lb/>
+Statsraaderne Sørenssen, Erichsen og Sylow forenede sig med ham.</p>
+               <p xml:id="p8">	Regjeringen kan ikke forlade det omnævnte Princip uden at overlade <lb/>
+alle Kongelige Embedsmænds Lønninger, altsaa Existents, til Storthingets <lb/>
+Vilkaarlighed og Vold, hvortil en i Regjeringen udtalt modsat Mening <lb/>
+kunde lede.</p>
+               <p xml:id="p9">	I denne Nød kaldte jeg Schweigaard, som erklærede, at det maatte <lb/>
+svække Regjeringens Anseelse at frafalde det af Rigsretten godkjendte <lb/>
+Princip; at dette var unødvendigt, fordi Storthinget, med Undtagelse af <lb/>
+Ueland og Consorter, ikke venter det, og at det var høist utilraadelig, <lb/>
+fordi Følgerne kunde blive uberegnelige, ikke alene for  <lb/>
+Toldembedsmændene, men for alle Kongelige Embedsmænd.</p>
+               <p xml:id="p10">	Jeg formaaede Schweigaard til at indvirke paa Stang, som derefter <lb/>
+vendte om; men som nu erfarede, at det er lettere at tænde end at slukke <lb/>
+en Ild; thi medens Sørenssen og Sylow vendte med ham, oprørtes den <lb/>
+mere selvstændige Erichsens Følelser mod at vende frem og tilbage, og <lb/>
+han blev ubøielig i den af Stang foranledigede Dissents, indtil det  <lb/>
+lykkedes mig at overbevise ham om, at der gives Omstændigheder hvorunder <lb/>
+Statsmanden af høiere Hensyn bør opoffre egen Anskuelse.</p>
+               <p xml:id="p11">	Post tot calamita fik vi omsider en eenstemmig Indstilling, den jeg <lb/>
+ønsker maa gaae uskadt gjennem den norske Skjærsild i Stockholm hvor <lb/>
+jeg frygter for, at en vis Præst har mere Sympathie for Folke  <lb/>
+Souverainiteten end for Kongemagten.</p>
+               <p xml:id="p12">	Det overgaaer næsten mine Kræfter at mægle imellem de gamle og <lb/>
+nye Elementer i Statsraadet.</p>
+               <p xml:id="p13">	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa Indre-Departementets Indstilling, som tilsigter under <lb/>
+Ildebrand i Agershuus Fæstning at overdrage Overcommandoen til Byens <lb/>
+Branddirecteur, medens jeg og andre formene, at denne under alle <lb/>
+Omstændigheder bør være forbeholdt Fæstningens Commendant. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 Februar 1850. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

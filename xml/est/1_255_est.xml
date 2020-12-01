@@ -1,0 +1,169 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>255</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. oktober 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p xml:id="p2">	Underdanigst vedlagte Rapporter vise, at i de sidstløbne 4 Døgn <lb/>
+9 Mennesker ere angrebne, 3 døde og 8 helbredede af Cholera. Mærkeligt <lb/>
+er det, at i det sidste Døgn Ingen er angreben og Ingen død, uagtet <lb/>
+vi have et ægte Choleraveir.</p>
+               <p xml:id="p3">	En fra Stockholm retourneret Coureer bragte mig i Overgaar Aftes <lb/>
+Deres Majestæts naadige Skrivelse af 25de, hvis Indhold jeg, saa <lb/>
+vidt den angaaer Regjeringen, meddeelte i Samlingen i Gaar.</p>
+               <p xml:id="p4">	Statsraad Petersens Upasselighed i de sidste 14 Dage har forsinket <lb/>
+Indstillingen i Anledning af Arbeiderforeningens Petition, som <lb/>
+vil afgaae med Morgenposten. Indstillingen gaaer kun ud paa en foreløbig <lb/>
+Resolution, hvormed ønskes forbunden Deres Majestæts Misbilligelse <lb/>
+af Thranes Agitation. Om Nødvendigheden af bedre seent end aldrig <lb/>
+at sætte en Grændse derimod, har jeg oftere forgjæves yttret <lb/>
+mig i Regjeringen, som jeg tilskriver den Omstændighed, at dens Medlemmer  <lb/>
+skjænke de lignende ydre politiske Tildragelser liden Opmærksomhed.  <lb/>
+Jeg tillader mig i denne som i enhver Begivenhed at yttre mig <lb/>
+aldeles uforbeholden for Deres Majestæt. I Overgaar efter afholdt <lb/>
+Statsraad, fandt jeg mig foranlediget til at lægge Statsraad Petersen <lb/>
+Sagen alvorlig paa Hjertet og denne min Anmærkning er nu bleven <lb/>
+kraftig understøttet ved Deres Majestæts senere naadige Skrivelse <lb/>
+af 25de. Til Opfyldelse heraf vil Statsraad Petersen nu indhente <lb/>
+Oplysning om, hvorledes et lignende Onde ad Lovgivningens Vei  <lb/>
+bekjæmpes i Frankrige og andre Stater og derefter tage Sagen under <lb/>
+Overveielse.<note xml:id="ftn12" place="foot" n="12">
+                     <p xml:id="p5"> Det er ønskeligt, at Hans Excellens UdenrigsMinisteren vil <lb/>
+ indhente lignende Oplysninger, som ønskes mig tilstillede".</p>
+                  </note>
+               </p>
+               <p xml:id="p6">	Det er naturlig, at Thranes Lære villigen er bleven modtaget <lb/>
+af den store Mængde og dette er allerede i den Grad Tilfældet, at <lb/>
+denne Masse af Proletarier neppe vil kunne tilbageholdes fra voldsomme <lb/>
+Udbrud ved første Leilighed som blandt Andet vil gives, om Høiesteret <lb/>
+stadfæster TugthuusDommen over Thrane og denne skal exequeres.  <lb/>
+Imidlertid drage Proletarierne i flere Egne omkring i Processioner, for at  <lb/>
+udraabe pereat eller vivat, uden Tvivl i den Hensigt at organiseres og <lb/>bringes under Fahner med Inscription ”Hjælp Dig Selv, og Gud vil <lb/>hjælpe Dig”.</p>
+               <p xml:id="p7">	Statsraad Sylows Indstiling om et almindeligt Tillæg for de <lb/>
+gevorbne Soldater og Under-Officierer er bleven længe behandlet i  <lb/>
+Regjeringen, fordi den har mødt megen Opposition, deels fordi Nogle <lb/>
+(Riddervold &amp; Stang) ansaae ethvert Tillæg unødvendigt deels fordi <lb/>
+det foreslaaede vilde opløbe til 19,000 Speceidaler, en forøget Udgift <lb/>
+som Statscassen ikke troes at kunne bære. Jeg vilde helst have <lb/>
+kunnet tiltraadt Armee-Departementets Indstilling, fordi jeg  <lb/>
+anseer det forestaaede Tillæg ønskeligt; men da det neppe vil være <lb/>
+muligt at opnaae, har jeg, for derhos at afværge yderligere Dissents, <lb/>
+forenet mig med Regjeringens øvrige Medlemmer om underdanigst at <lb/>
+indstille et Tillæg af 2 Skilling pr Dag for gevorbne og nationale <lb/>
+Menige i Exceerceertiden,og lige Lønninger for de andre gevorbne <lb/>
+Underofficierer som ved Jægercorpset, hvilket vilde medføre en forøget <lb/>
+Udgift af omtrent 7000 Speciedaler.</p>
+               <p xml:id="p8">	Under min Fraværelse er en Candidat Pedersen bleven indstillet <lb/>
+til Adjunct ved Molde lærde Skole; men Amtmand Thesen har senere oplyst <lb/>
+Omstændigheder, som gjøre det ønskeligt, at Deres Majestæt naadigst <lb/>
+vil udnævne den under No 2 nævnte Candidat Sommerschild, hvorpaa <lb/>
+Statsraad Riddervold har bedet Statsministeren at henlede Deres <lb/>
+Majestæts naadige Opmærksomhed.</p>
+               <p xml:id="p9">	En Bekjendtgjørelse af QuarantaineCommissionen i Gothenborg, <lb/>
+hvorved den svenske Grændse spærres for alle herfra kommende Reisende, <lb/>
+har opvakt megen Bekymring og Utilfredshed, fordi vi, efterat  <lb/>
+Dampskibsfarten nu er sluttet, derved udelukkes fra al Communication med <lb/>
+Sverige og Udlandet. Den omnævnte Spærring vilde være mindre paafaldende, <lb/>
+om man paa den anden Side af Grændsen endnu var fri for Cholera; men <lb/>
+da Sygdommen der har grebet meget mere om sig, end i Norge, hvor  <lb/>
+hidindtil kun meget enkelte Tilfælde have viist sig i Christiania, vil <lb/>
+Sygdommen ikke blive indført eller forøget i Sverige ved herfra  <lb/>
+kommende Reisende. Under de nuværende Forholde synes Faren for Smitte <lb/>
+fra Sverige at være større for Norge end omvendt, medens dog al <lb/>
+Quarantaine paa den norske Grændse er hævet. Jeg tillader mig <lb/>
+underdanigst at udbede, at den paaankede Foranstaltning fra Gothenborg, <lb/>
+hvor Sygdommen raser, medens den her neppe endnu er epidemisk, maa <lb/>
+vorde naadigst tilbagekaldt. Efter at Forestaaende var skrevet,  <lb/>
+modtager jeg et indstændigt Andragende fra Politiemesteren hersteds, om <lb/>
+at den omklagede Spærring maa vorde hævet, for de mange svenske  <lb/>
+Arbeidere, som, efter fuldendt Sommerarbeide, just nu ville søge deres <lb/>
+Hjem, hvorfra de ved Spærringen ere afskaarne og derved befinde sig <lb/>
+i stor Forlegenhed. Jeg tillader mig underdanigst at vedlægge en <lb/>
+anden Politiemester Morgenstjernes Skrivelse til mig.</p>
+               <p xml:id="p10">	Vi have i denne Uge 4 Statsraadssamlinger, som jeg ønsker maa <lb/>
+medføre mere Nytte end Fornøielse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te October 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 31. oktober 1850</supplied>
+               </head>
+               <opener>Christiania Politiekammer. <lb/>
+                  <salute>Deres Excellence!</salute>
+               </opener>
+               <p xml:id="p11">	Efterat det er bleven mig meddeelt at Hans Majestæt Kongen <lb/>
+naadigst har behaget at udnævne mig til Politiemester hersteds,  <lb/>
+tillader jeg mig at henstille til Deres Excellences mod mig stedse <lb/>
+udviiste Godhed og Velvillie, ved given Anledning at fremføre for Hans <lb/>
+Majestæt Udtrykket af min underdanigste Taknemmelighed for dette Hans <lb/>
+Majestæts naadigste Beviis paa Sin høie Tillid. At vise mig denne <lb/>
+Tillid værdig, skal være mine Bestræbelsers Maal, ligesom jeg i  <lb/>
+min Konges naadigste Tilfredshed vil søge min bedste Løn. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te October. <lb/>
+    1850</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+Ridder og Commendør m.m. <lb/>
+    	  v. Løvenskiold</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

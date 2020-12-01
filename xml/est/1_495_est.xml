@@ -1,0 +1,95 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>495</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 29. mars 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 29. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 18de denne Maaned, og <lb/>
+en min underdanigst privat Skrivelse af 22de denne Maaned.</p>
+               <p xml:id="p2">	Her er senere Intet passeret, som fortjener Deres Majestæts <lb/>
+naadige Opmærksomhed. De courante Forretninger gaae sin sædvanlige Gang, <lb/>
+og Alt er her som ved Sevastopol in statu quo. Solen gjør hver Dag <lb/>
+skarpe Udfald mod Vinteren; men denne fornyer hver Nat sin Beleiring <lb/>
+med 10 à 12 Grader Kulde.</p>
+               <p xml:id="p3">	Jeg beklager vor vedvarende status quo i Storthingets Lovcommission, <lb/>
+som bestaaende af Sverdrup, Ueland, Motzfeldt, Dunker og Kildal, <lb/>
+vedbliver en Virksomhed, som Deres Majestæt ikke har bifaldt, <lb/>
+til hvori at deeltage Deres Majestæt har nægtet Byfoged Meldal  <lb/>
+Tjenstledighed, og hvoraf dog ligefrem følger, at en Tjenstledighed i samme <lb/>
+Hensigt heller ikke bør tilstaaes Lensmand Ueland og Procurator Sverdrup, <lb/>
+samt at den, som de foreløbig havde faaet, <hi rend="underline">strax</hi>  burde have været <lb/>
+tilbagekaldt, efterat Deres Majestæts naadige Resolution af 1ste <lb/>
+Februar var afgivet. At dette ikke allerede er skeet, kan jeg  <lb/>
+beklageligviis kun tilskrive en utilgivelig Løihed hos vedkommende <lb/>
+Embedsmænd; men Deres Majestæts, Kongemagtens Beslutning, bør ikke vedblive <lb/>
+at være et tomt Ord, og jeg vil ikke hvile, før den har faaet  <lb/>
+Opfyldelse. Jeg kan ikke tilbageholde min Bekymring over, at Statsraad <lb/>
+Vogt er den Eneste blandt Deres Majestæts herværende Raadgivere, som <lb/>
+i denne Begivenhed deler og understøtter mine Anskuelser, den Eneste, <lb/>
+som synes at have Sympathie for disse, uagtet det dog ikke kan være <lb/>
+ubekjendt, at de deles af Deres Majestæt. Jeg har opfattet min Pligt <lb/>
+som Kongelig Raadgiver saaledes, at jeg bør, <hi rend="underline">med lige Nidkjærhed</hi>
+                  <lb/>
+adlyde og opfylde min Konges grundlovmæssige Beslutning, – hvad enten <lb/>
+den stemmer med min individuelle Anskuelse – eller ikke, – og en modsat <lb/>
+Anskuelse bekymrer mig.</p>
+               <p xml:id="p4">	Jeg tillader mig underdanigst at vedlægge en ældre Artikel i <lb/>
+Morgenbladet om samme Gjenstand, hvis Slutning viser, at Oppositionen <lb/>
+til Slutning stoler paa Regjeringens Svaghed.</p>
+               <p xml:id="p5">	Det varede ikke længe, før vi fik læse om de hemmelige 250,000 <lb/>
+Specier i det vel underrettede Morgenblad. Vi have her gjort Alt muligt, <lb/>
+for at holde denne Sag hemmelig. I Armee-Departementet har den <lb/>
+kun været kjendt af Expeditions Secretairen, i Regjeringen af den  <lb/>
+fungerende Statssecretair, for hvis Taushed jeg vil borge, uagtet han <lb/>
+heder "Schladermund". <hi rend="underline">Uden nogen anden Grund</hi>, ere vi saaledes tilbøielige <lb/>
+til at troe, at Meddelelsen er kommet fra Stockholm. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>333</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. november 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. november 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 2den denne Maaned.</p>
+               <p xml:id="p2">	Efterat jeg den 4de ved Middagstid endnu paa Holgerslyst havde <lb/>
+hørt Fæstningens Kanoner forkynde Foreeningsdagen, med det livlige <lb/>
+Ønske, at de snart maatte gjenlyde for det med Længsel forventede <lb/>
+Kongelige Barn, flyttede jeg til Byen og fik endnu samme Aften Klokken <lb/>
+10 den store Glæde ved Lieutenant Harboe at modtage Budskabet om <lb/>
+Hendes Kongelige Høihed Kronprindsessens lykkelige Forløsning.</p>
+               <p xml:id="p3">	Min Glæde blev saare meget forøget ved Deres Majestæts høist Egne <lb/>
+naadige Meddelelse,  en Naade, hvorpaa jeg veed at sætte Priis og <lb/>
+hvorfor jeg nedlægger min underdanigste Taksigelse. I denne naadige <lb/>
+Meddelelse kunde Deres Majestæts Faderhjertes ubundne Følelser heelt <lb/>
+udtrykkes, og de fandt Gjenklang i mit Hjerte; thi Deres Majestæt  <lb/>
+lader mig vederfares Ret i den naadige Anerkjendelse af min varme <lb/>
+Hengivenhed for Deres Majestæt og det Kongelige Huus.</p>
+               <p xml:id="p4">	Jeg tillader mig underdanigst at lykønske de Kongelige <lb/>
+Bedsteforældre, en Benævnelse, som endog giver Fryd paa Thronen; Jeg  <lb/>
+takker Gud af mit ganske Hjerte med Deres Majestæter og beder Gud at den <lb/>
+nyfødte Prindsesse maa voxe og trives til Hendes høie Bedsteforældres <lb/>
+og Forældres Glæde.</p>
+               <p xml:id="p5">	Uden Ordre tillod jeg mig at anmode General Bloch om at lade den <lb/>
+glade Begivenhed forkynde for Hovedstadens Indvaanere ved en Salut af <lb/>
+48 Skud fra Fæstningen, som gaves den følgende Morgen Klokken 8,  <lb/>
+hvorefter alle i Havnen liggende Skibe heisede Flag.</p>
+               <p xml:id="p6">	Forventningen herom var lige saa almindelig som Deeltagelsen, og <lb/>
+om Salutten efter Courerens Ankomst var udebleven vilde Publicum have <lb/>
+tolket Tausheden som et slemt Varsel. Jeg smiggrer mig derfor med det <lb/>
+Haab, at denne min Foranstaltning ikke maa møde Deres Majestæts Mishag.</p>
+               <p xml:id="p7">	Den<hi rend="underline">befalede</hi>  Salut vil blive givet anstundende Søndag under  <lb/>
+Takkefesten.</p>
+               <p xml:id="p8">	De 2de Exemplarer af Post- och Inrikes Tidningen, som Deres <lb/>
+Majestæt havde den Naade at sende mig, bleve benyttede saaledes, at det <lb/>
+ene Exemplar Onsdag Morgen afleveredes til Rigstidenden, det andet til <lb/>
+Christiania Posten.  I denne sidstnævnte Tidning blev Meddelelsen <lb/>
+indtaget Morgenen derefter, – hvorimod Rigstidenden, uagtet Kammerherre <lb/>
+Holst's Bestræbelser, ikke derom har villet udgive noget Extrablad, <lb/>
+hvorved Beretningen i denne officielle Tidning først bliver at læse <lb/>
+Løverdag den 8de, flere Dage efter, at den har været indført i alle <lb/>
+andre offentlige Blade. Jeg nævner denne Sag, alene, fordi Deres <lb/>
+Majestæt maaskee vil unddrage Sit naadige Abonnement fra denne Tidning, <lb/>
+som jeg selv allerede forlængst har frasagt mig.</p>
+               <p xml:id="p9">	Da Hendes Majestæt Enke Dronningens høie Fødselsdag dette Aar <lb/>
+indtræffer paa en Løverdag, kan jeg efter vore Politielove ikke feire <lb/>
+den som sædvanlig ved en Bal; men ved en Middag paa 60 à 70 Couverts, <lb/>
+hvorved jeg tillige vil kunne have den Lykke at udbringe en Velkomstskaal <lb/>
+for den ny fødde Kongelige Prindsesse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te November 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>265</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 5. desember 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 5. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p xml:id="p2">	Jeg takker underdanigst for Deres Majestæts senere modtagne <lb/>
+naadige Skrivelse af 28de forrige Maaned, som jeg saameget mere  <lb/>
+paaskjønner, under de mangfoldige Deres Majestæt for Tiden paahvilende  <lb/>
+Forretninger.</p>
+               <p xml:id="p3">	Amtmanden i Hedemarken har indberettet, "at Tomter Sogns Arbeider <lb/>
+Forening, efter foregaaet Overlæg, har <hi rend="underline">forjaget</hi>  Auctionarius og <lb/>
+Retsvidnerne fra et Huus, hvor en Tvangsauction skulde afholdes, og <lb/>
+forfulgte dem saaledes, at Auctionsretten heller ikke kunde afholdes paa <lb/>
+Nabogaarden; at denne Arbeiderforening har opfordret Foreningen i det <lb/>
+tilgrændsende Stange Sogn til en lignende Fremfærd, som denne har <lb/>
+vedtaget; – at Amtmanden har ladet Hovedmanden for disse Optøier <lb/>
+arrestere og at Forhører nu i denne Anledning fremmes af vedkommende <lb/>
+Sorenskriver.</p>
+               <p xml:id="p4">	Sidst i denne eller først i næste Uge vil Dommen mod M. Thrane <lb/>
+blive afsagt i Høiesteret, som neppe vil afgaae uden Pøbel– <lb/>
+Demonstrationer, hvorpaa jeg har henledet vedkommende civile og militaire <lb/>
+Autoriteters Opmærksomhed. Saavidt var det ikke kommet, om Regjeringen <lb/>
+havde havt Myndighed til at standse dette sociale Onde i sin <lb/>
+Begyndelse! og dog har dens Standsning af en farligere Udlændings <lb/>
+Virksomhed i samme Retning opvakt visse Folks Antipathie mod Regjeringen, <lb/>
+Sympathie for den bortviiste Fremmede! Saa forkeerte ere Nutidens <lb/>
+Begreber om hvad der tjener til Statens, til Borgersamfundets <lb/>
+Tarv! Jeg tillader mig underdanigst at vedlægge Arbeiderforeningens <lb/>
+Blad, hvori Deres Majestæts Resolution til dens indgivne Petition <lb/>
+behandles eller mishandles.</p>
+               <p xml:id="p5">	Jeg glædes ved de gode Auspicier, hvorunder denne Rigsdag begynder <lb/>
+og gjentager mit varme Ønske, at de maa udvikles til Deres Majestæts <lb/>
+og Fædrelandets Tilfredsstillelse. Med Hensyn paa en Representations <lb/>
+Forandring, maa jeg uforbeholden erklære mig enig med Bønderne: <lb/>
+"Man veed, hvad man har; men ikke hvad man faaer". –Alle Nutidens <lb/>
+Erfaringer have overbeviist mig om, Rigtigheden af en berømt  <lb/>
+Statsretslærds Paastand: "at det er nødvendigt for at en Representativ <lb/>
+Forfatning skal kunne bestaae, at Representationen, ved Siden af valgte <lb/>
+Representanter, har et stabilt permanent af Valg uafhængigt Element." <lb/>
+Valgene til vort næste Storthing give et slaaende Beviis paa, hvorledes <lb/>
+Udygtige og Slette kunne blive valgte i Fleertal, og vor Grundlov <lb/>
+har ikke etableret nogen Modvægt mod disse. Sverrige har et stabilt <lb/>
+selvskreven Element i sin Representation, som kan tiltrænge Reformer, <lb/>
+men som ikke bør opgives.</p>
+               <p xml:id="p6">	Stilningen i Tydskland er visselig høist bedrøvelig og kan og vil <lb/>
+sandsynlig medføre nye Revolution, nyt Anarchie, store Ulykker, som <lb/>
+Ene maa tilskrives Kongen af Preussens Politik. Jeg befrygter, at det <lb/>
+er Forsynets Villie, at disse Ulykker end yderligere skulle tugte denne <lb/>
+Generation, fordi det lod den hæderlige sindige Brandenburg døe og <lb/>
+den illuminerede Radowitz leve!</p>
+               <p xml:id="p7">	I denne Uge have vi 4 Statsraads Sessioner.</p>
+               <p xml:id="p8">	I de sidste 4 Døgn er Ingen angreben og Ingen død af Cholera.</p>
+               <p xml:id="p9">	Saavidt skrevet modtog jeg til Underskrift en underdanigst <lb/>
+Indstilling, hvorom vi i Statsraad i Gaar blev enige og hvorpaa jeg  <lb/>
+tillader mig underdanigst at henlede Deres Majestæts naadige Opmærksomhed.</p>
+               <p xml:id="p10">	En vis Sexe, af Fødsel en Bondegut, optraadte allerede som <lb/>
+Bergcandidat med fornærmelige Artikler i offentlige Blade mod Sølvværkets <lb/>
+første Directeur Böbert, efter hvis ædelmodige Anbefaling han <lb/>
+ikke destomindre for 4 Aar tilbage blev ansat som Bergmester ved  <lb/>
+Kongsberg Sølvværk. Efterat Sexe i afvigte Sommer atter havde ladet en <lb/>
+lignende Artikel indføre i Morgenbladet, begav Finants Departementets <lb/>
+Chef, Statsraad Bretteville, sig til Kongsberg for at undersøge Forholdene <lb/>
+og betydede Sexe, at saadant Avisskriverie af Underordnede mod Foresatte <lb/>
+ikke kunde Taales. Ikke destomindre lod Sexe i afvigte Maaned <lb/>
+indføre i Morgenbladet en Artikel, hvori han i en ondskabsfuld Tone <lb/>
+fremførte ligesaa ærekrænkende som visselig ubeføiede Beskyldninger <lb/>
+mod Sølvværkets Direction, der for Sin Dygtighed og Virksomhed fortjener <lb/>
+almindelig Anerkjendelse. Efterat Sexe endog mod given Advarsel <lb/>
+har sat sig i et saadant Oppositions og Insubordinations Forhold <lb/>
+til Directionen, kan hans Samvirken med denne ikke længere være  <lb/>
+passende eller gavnlig for Sølvværket, hvorfor Regjeringen eenstemmig <lb/>
+udbeder Deres Majestæts naadige Bifald til at opsige Bergmester Sexe <lb/>
+af hans heldigviis amovible Post, som jeg tillader mig underdanigst <lb/>
+og indstændig at anbefale. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

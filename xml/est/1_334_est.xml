@@ -1,0 +1,88 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>334</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 13. november 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 13. november 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Ved en uventet Hjelp har Arbeider-Centralbestyrelsen betalt den <lb/>
+hele Sum, omtrent 300 Speciedaler, for hvilken Arbeiderbladet var <lb/>
+beslaglagt, hvorefter det beslaglagte og et nyt Nummer af dette den store <lb/>
+Masse bedaarende Blad er udkommet. Bladet er skrevet i den sædvanlige <lb/>
+Tone og Tendents og vil blandt Andet indbilde sine enfoldige Læsere, <lb/>
+at Bladets Beslaglæggelse er bevirket ved russiske Penge, at Keiseren <lb/>
+af Rusland er tilbøielig til ved Pastor Halling at berede den græsk <lb/>
+catholske Religion Indgang her i Landet o.s.v., Dumheder, som vist nok <lb/>
+kun kan troes af Enfoldige; men disse udgjøre den store Masse, som <lb/>
+Vedkommende <hi rend="underline">vil</hi>  bedrage, for at bruge den for sine fordærvelige Hensigter.</p>
+               <p xml:id="p3">	Medlemmer af Arbeiderforeningen prale med mægtige Bundsforvandte <lb/>
+i Sverige, fra hvem de ville have faaet den pecuniaire Hjelp, og en <lb/>
+Skræddersvend Riffling som i længere Tid har opholdt sig i Paris og <lb/>
+deeltaget i Louis Blancs Møder i Luxembourg, og nu er Medlem af <lb/>
+Centralbestyrelsen her, fortæller at have modtaget 200 Speciedaler fra <lb/>
+Sverige.</p>
+               <p xml:id="p4">	Imidlertid har Beslaglæggelsen bevirket en saa betydelig <lb/>
+Formindskelse af Abonnenter, at her for Tiden kun trykkes 2500 Exemplarer <lb/>
+af Arbeiderbladet, i Stedet for tidligere 5500 Expl.</p>
+               <p xml:id="p5">	Professor C. Boeck er først nylig hjemkommet fra en udenrigsk <lb/>
+Reise, hvorefter jeg, paa Deres Majestæts høie Vegne, har overleveret <lb/>
+ham den ham naadigst tildeelte Nordstjerne Orden.</p>
+               <p xml:id="p6">	Det er 36 Aar siden jeg selv modtog denne Orden i dette samme <lb/>
+Huus af den daværende Rigs Statholder Hans Excellence, Grev Essen.</p>
+               <p xml:id="p7">	Hvad jeg i min underdanigste Rapport af 9de October tillod mig <lb/>
+at yttre om Amtmand Wejdemann, skeede alene og efter Regjeringens  <lb/>
+Ønske, for at afværge, at Deres Majestæt skulde give en Sin Orden, til <lb/>
+en Mand, som ikke derpaa vil sætte tilbørlig Priis.</p>
+               <p xml:id="p8">	Hoffrøken Baronesse J. Wedel Jarlsbergs Bryllup er bestemt til <lb/>
+Søndag den 16de denne Maaned. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13de November 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

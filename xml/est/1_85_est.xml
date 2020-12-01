@@ -1,0 +1,67 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>85</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. januar 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. januar 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 31te forrige Maaned.</p>
+               <p xml:id="p2">	Med Morgenposten vil Regjeringens underdanigste Indstilling afgaae, om naadigst Bemyndigelse for Finants-Departementet til at lade Stiftsgaarden i Trondhjem istandsætte og meublere, for at kunne beboes af Deres Majestæter og den Kongelige Familie under Kroningen, som ved andre Leiligheder.</p>
+               <p xml:id="p3">	Denne saakaldte "Stiftsgaard" maaskee det største Træhuus i Europa, kjøbtes i sin Tid, for at afbenyttes til Kongelig Residents i Trondhjem, og det er vel, at der nu frembyder sig en Anledning til at give den en Reparation, som den høielig tiltrænger.</p>
+               <p xml:id="p4">	At den Kongelige Residents bør være meubleret for at kunne opfylde sin Hensigt, er indlysende, og er saa meget mere nødvendigt, fordi Grundloven byder, at Hans Kongelige Majestæts Kroning skal skee i Trondhjem.</p>
+               <p xml:id="p5">	Da Deres Majestæt i Stiftamtmand Arentzen har en saare dygtig og paalidelig Overøvrighed i Trondhjem, formene vi det rigtigst at den hele Omsorg for Stiftsgaardens Reparation og Meublering overdrages til ham, hvilket jeg tillader mig underdanigst at anbefale til Deres Majestæts naadige Bifald.</p>
+               <p xml:id="p6">	I Henseende til Meubleringen af den store Vaaning i det herværende Kongelige Slot, tillader jeg mig underdanigst at referere til min underdanigste Rapport af 31te forrige Maaned, med gjentaget underdanigst Bøn, at Deres Majestæt herom naadigst vil give Hofkammereer Bäckstrøm de fornødne Ordres uden Ophold.</p>
+               <p xml:id="p7">	Slotscommissionen har til det Kongelige Finants-Departement indgivet Andragende om at maatte naadigst blive fritaget for Omsorgen for Slottets Meublering, hvilket jeg maa ansee for hensigtsmæssig og ønskelig, fordi en Administration som denne bestyres bedre af een dygtig Mand end af flere, fordi enhver af Commissionens 4 Medlemmer har mange andre Forretninger at varetage og endelig fordi ingen af dem har den fornødne Sagkundskab for dette Hverv. Den store Vanskelighed mod Ønskets Opfyldelse er imidlertid Mangel paa nogen dygtig Mand, til hvem dette Hverv kunde betroes.</p>
+               <p xml:id="p8">	Den eneste herværende Mand som hertil har den fornødne Dygtighed, som har Begreb om, hvorledes et Kongeligt Slot bør være meubleret og monteret, fordi han har seet meget i denne Genre, er General Baron Wedel-Jarlsberg; men jeg veed, at han har meget imod at overtage dette Hverv, og ingenlunde vilde beqvemme sig dertil efter Finants Departementets eller Regjeringens Anmodning.</p>
+               <p xml:id="p9">	Det eneste Middel til at opnaae General Wedels ønskelige Assistance, vil være Deres Majestæts directe naadige Anmodning, og jeg vover derfor underdanigst at udbede, at Deres Majestæt vil have den Naade, at anmode Generalen om at overtage Bestyrelsen af Slottets Meublering og Montering, som jeg, for at bidrage min Skierv, til denne ikke uvigtige Sags Fremme, vilde gjøre mig en Fornøielse af at overbringe.</p>
+               <p xml:id="p10">	Den stakkels Heidemark ligger fremdeles i en ynkelig Forfatning. Han synes at have sin Bevidsthed; men han kan ikke tale og er aldeles lam i den hele høire Side. Lægerne have lidet Haab om hans Liv og endnu mindre om at han kan gjenvinde Helbred. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11 Januar 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst 		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

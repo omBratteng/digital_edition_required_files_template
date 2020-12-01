@@ -1,0 +1,177 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>135</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. mars 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. mars 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Mine sidste underdanigste Rapporter vare af 26de og 27de.</p>
+               <p xml:id="p2">	Med underdanigst Henhold til den førstnævnte, vil jeg tillade mig <lb/>
+underdanigst at meddele det foreløbige Resultat af Regjeringens  <lb/>
+confidentielle Overveielse af vore pecuniaire og merkantile Forholde.</p>
+               <p xml:id="p3">	Til at opretholde disse, til muligen nødvendige Overordentlige <lb/>
+Udgifter for Forsvarsvæsenet, til Dækning af Toldindtradernes sandsynlige <lb/>
+Formindskelse, endelig (om Nutidens svære Omstændigheder ville <lb/>
+tillade at paatænke fredelige Foretagender) til den paatænkte Jernbane, <lb/>
+vil et Statslaan af 2 Millioner Species behøves. Herom vil Regjeringen <lb/>
+snarest mulig indgive underdanigst Indstilling; men denne Gjenstands <lb/>
+Behandling i Stockholm, og end mere i Storthinget samt Laanets <lb/>
+Iværksættelse, vil medtage en længere Tid end de trykkende Omstændigheder <lb/>
+tillade at opebie. Nøden er desværre allerede tilstede! Af <lb/>
+Bank-Directionen kan, paa Grund af dens fjerne Sæde i Trondhjem, ingen <lb/>
+Hjelp ventes, om den end ellers kunde give nogen; tvertimod ere Bankens <lb/>
+Ressourcer i Udlandet udtømte, og den har derfor seet sig nødsaget til <lb/>
+at standse al Afgivelse af Vexler paa Udlandet og Discontering. Følgen <lb/>
+er Coursens daglige Stigning, allerede 103 p.C. for Bancomark 1 Maaneds <lb/>
+Dato, og en daglig tiltagende Udvexling af Bankens Sølv til Udførsel.</p>
+               <p xml:id="p4">	For imidlertid at standse saa store Onder, var Regjeringens <lb/>
+Medlemmer enig med Finants-Departementets Chef om:</p>
+               <p xml:id="p5">	1o at denne strax bør ved kortsigtige Vexler successive disponere <lb/>
+over vort Tilgodehavende i Hamborg, omtrent 100,000 Bancomark (en Draabe <lb/>
+i et Hav)  2o i samme Hensigt søge Credit dersteds for en Million <lb/>
+Bancomark, og  3o, om denne gives, med Storthingets Bemyndigelse, ifølge <lb/>
+Grundlovens § 75 litr, b., – benytte den til at dække de meest  <lb/>
+paatrængende Behov mod Refussion af det paatænkte Statslaan.</p>
+               <p xml:id="p6">	Ifølge heraf begyndte Finants Departementet allerede igaar paa <lb/>
+Børsen at afgive Bancomark 40,000, hvilket beroeligede og allerede bevirkede <lb/>
+1/2 pro Cent Coursforbedring.</p>
+               <p xml:id="p7">	Jeg ønsker og haaber, at disse foreløbige Foranstaltninger, som de <lb/>
+paatrængende Omstændigheder ikke tillode at udsætte, maa vinde Deres <lb/>
+Majestæts naadige Bifald.</p>
+               <p xml:id="p8">	Statsraaderne Fleischer og Foss bragte i Statsraad igaar paa Bane <lb/>
+Nødvendigheden af under nærværende Tidsomstændigheder at sætte vort <lb/>
+Forsvarsvæsen i øienblikkelig brugbar Stand, og vare alle Regjeringens <lb/>
+Medlemmer enige i, at disse desværre noksom bekjendte Omstændigheder <lb/>
+dertil i høi Grad opfordre. I denne Hensigt vil en underdanigst Indstilling <lb/>
+afgaae med Morgenposten, for at erhverve Deres Majestæts naadige <lb/>
+Bifald og Befaling til at iværksætte de Foranstaltninger, som Rigets <lb/>
+Sikkerhed i høi Grad synes at kræve og som ikke bør kunne være ubehagelige, <lb/>
+paafaldende for nogen fremmed Magt, om det naadigst maatte behage <lb/>
+Deres Majestæt i den antydede Hensigt at afgive en naadigst Resolution, <lb/>
+overeensstemmende med vedlagte Udkast. For Form som for Sag vover <lb/>
+jeg i denne Begivenhed underdanigst at udbede Deres Majestæts naadige <lb/>
+Befaling <hi rend="underline">snarest mulig</hi>, for Formen, fordi jeg forudseer, at om Regjeringen <lb/>
+ikke strax tager Initiativet, vil Storthinget tage det, og for Sag <lb/>
+med Hensyn paa den Lynets (Blixtens) Hast, hvormed de europæiske <lb/>
+Forholde udvikle sig.</p>
+               <p xml:id="p9">	Med Hensyn paa den nødvendige Samvirken, imellem de militaire <lb/>
+Departementer og Commandoerne, tillader jeg mig underdanigst at indstille, <lb/>
+at Deres Majestæt naadigst vil give de sidstnævnte Communication om den <lb/>
+afgivende Resolution ad Commandovei.</p>
+               <p xml:id="p10">	De Kjøbenhavnske Studenter, som for Tiden finde tilstrækkelig <lb/>
+politisk Beskjæftigelse hjemme, have Gud skee Lov, opgivet det os tiltænkte <lb/>
+Besøg. Jeg ønsker meget, at Upsalenserne ogsaa dette Aar vilde forskaane <lb/>
+os, thi uagtet jeg med Glæde har læst deres afgivne Protest, maa jeg <lb/>
+dog under nærværende Omstændigheder ansee alle store Samlinger, især <lb/>
+af yngre Mennesker betænkelige, ja farlige.</p>
+               <p xml:id="p11">	De europæiske politiske Begivenheder udvikle sig med Lynets Hast! <lb/>
+hver kommende Post bringer værre Tidender, end den foregaaende. Under <lb/>
+disse Begivenheder have Folk og Regentere prostitueret sig! Kongemagten <lb/>
+har lidt et haardt Stød! Deres Majestæt har Gudskee Lov, hidindtil med <lb/>
+Værdighed opretholdt de forenede Rigers Kongedømme, uplettet, og i de <lb/>
+samme Dage, da Kongen af Preussens Kongemagt, til min store Bedrøvelse, <lb/>
+blev ynkelig ydmyget, vidste Deres Majestæt med Værdighed og Kraft at <lb/>
+give Sin en fornyet Glands. Deres Majestæt staaer saaledes Gud skee Tak, <lb/>
+for Tiden seierrig, blandt alle Europas Konger Ene seierrig over  <lb/>
+Begivenhederne. De seneste Begivenheder i vort nærmeste Naborige kræve <lb/>
+imidlertid, især en alvorlig Overveielse over den Indflydelse de kunne <lb/>
+have paa vore Forholde.</p>
+               <p xml:id="p12">	En i de seneste danske Begivenheder indviet Mand, har derom givet <lb/>
+mig følgende Meddelelse. Kongen der, som ikke er at undres over, neppe <lb/>
+er saa overordentlige Begivenheder voxen, – underrettet om Aftenen den <lb/>
+21de om, at man i Klubben Casino havde besluttet den følgende Dag <hi rend="underline">at</hi>
+                  <lb/>
+                  <hi rend="underline">aftvinge ham</hi>  en Forandring af Ministerpersonalet søgte som sædvanlig <lb/>
+Raad hos de Oppositionsmænd Hvidt, Lehmann, Mondrad, som i Klubben <lb/>
+havde foranlediget og ledet Bevægelsen, og <hi rend="underline">som selv vare Portefeuille-</hi>
+                  <lb/>
+                  <hi rend="underline">Liebhabere</hi>. Denne Conferences Resultat blev, at det hele Ministerium skulde <lb/>
+forafskediges med Undtagelse af den nylig udnævnte Minister Bardenfleth, <lb/>
+hvorimod de ovennævnte 3de Mænd skulde indtræde.</p>
+               <p xml:id="p13">	Den paafølgende Morgen tilkjendegav Kongen, neppe paa nogen <lb/>
+forbindtlig Maade, Ministrene Sin Beslutning som de uden Bemærkning modtog, <lb/>
+og paalagde Bardenfleth det nye Ministeriums Dannelse.</p>
+               <p xml:id="p14">	Den følgende Dag erklærede de 3de Udkaarne, at de ikke kunde <lb/>
+indtræde, uden at Finantsministeren, Grev Moltke, en af Dannemarks rigeste <lb/>
+Godseiere, blev Medlem af det nye Ministerium, hvorom Bardenfleth den <lb/>
+følgende Aften meddeelte Moltke, som rolig gjorde sit Whist-Partie, <lb/>
+Kongens Ønske; men maatte fortvivlet vende tilbage med et alvorligt Afslag.</p>
+               <p xml:id="p15">	Den derpaa følgende Morgen lod Kongen hente Grev Moltke, faldt ham <lb/>
+om Halsen og erklærede med Taarer: at om han ikke vilde indtræde i det <lb/>
+nye Ministerium, vilde Hans Majestæt abdiquere, hvorefter Moltke besluttede <lb/>
+det haarde Offer, at gjenindtræde i Ministeriet, under saa svære <lb/>
+Omstændigheder og med saadanne Cammarader. Dette var i Sandhed en stor <lb/>
+politisk Opoffrelse for Konge og Fædreneland!</p>
+               <p xml:id="p16">	Om de nye danske Ministre meddeles mig følgende:  1o <lb/>
+Udenrigsministeren Grev Knuth, til Grevskabet Knuthenborg, en ung Mand med <lb/>
+gode almindelige Kundskaber, debuterede i Stænderforsamling som Liberal, men <lb/>
+senere mere moderat. Han har neppe nogensinde læst end mindre skrevet nogen <lb/>
+diplomatisk Depesche.  2o Krigsministeren Capitaine Tscherning ikke <lb/>
+uden Talent, Republikaner, en forstyrret Politicus, som Frederik den 6te <lb/>
+altid lod reise, for at holde ham fra Kjøbenhavn.  3o Justitsministeren <lb/>
+Bardenfleth, en almindelig agtet dygtig Embedsmand, uden eminente <lb/>
+Talenter, Conservativ. 4o Cultusminister Magister Monrad ved særdeles <lb/>
+grundige Kundskaber i sit geistlige Fag og almeenagtet Characteer. Den <lb/>
+bedste af de Liberale.  5o Handlende Hvidt, de seneste Bevægelsers <lb/>
+Ophavsmand og Leder, 76 Aar gammel, (Nb de saa kaldte Liberale blive <lb/>
+aldrig for gamle som Statsmænd), han var stræng politisk conservativ <lb/>
+indtil Regjeringen fratog ham et Monopol. Udmærket Taler, med megen <lb/>
+Energie.  6to Advocat Lehmann, udmærket talentfuld Taler, men uden <lb/>
+agtet Characteer. Hans Udnævnelse til Minister skal ikke engang være <lb/>
+populair.  7o Baron Plessen for de tydske Anliggender. Udmærket dygtig, <lb/>
+stræng conservativ. Min Correspondent tilføier Grev Wilhelm Moltke har <lb/>
+reddet, hvad reddes kunde, men det er Lidet!</p>
+               <p xml:id="p17">	I det første nye danske Statsraad skal Tone og Sprog have været <lb/>
+saaledes, at Kongen forlod det med den Erklæring "Jeg seer, at Min <lb/>
+Nærværelse her er unyttig og overflødig."  Plutôt seul, que mal <lb/>
+accompagné. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30 Marts 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

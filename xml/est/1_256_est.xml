@@ -1,0 +1,101 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>256</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 3. november 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 3. november 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Den i min sidste underdanigste Rapport af 31te forrige Maaned <lb/>
+omnævnte af Quarantainecommissionen i Gothenborg, som underdanigst <lb/>
+vedlagte Meddelelse viser, besluttede Rigs Grændsens Spærring, har <lb/>
+foranlediget den Norske Regjering til at indgaae med underdanigst <lb/>
+Andragende om denne Beslutnings naadige Ophævelse og dernæst at  <lb/>
+lade indtil videre eengang ugentlig Dampskibsfarten til Kjøbenhavn  <lb/>
+vedvare, omendskjønt i denne sildige Aarstid forbunden med Fare og  <lb/>
+større Udgift.</p>
+               <p xml:id="p2">	Den paaankede Beslutning maatte erkjendes beføiet, om <lb/>
+Cholerasygdommen var i Norge og <hi rend="underline">ikke i Sverige</hi>; men nu da Sygdommen <lb/>
+allerede er udbrudt i Sveriges til Norge grændsende Provindser, synes <lb/>
+det Onde ikke at kunne forøges ved Reisende, kommende fra Norge, hvor <lb/>
+Sygdommen til denne Tid kun har viist sig paa et enkelt Sted i en Gud <lb/>
+være lovet! meget ringe Grad.</p>
+               <p xml:id="p3">	Under disse Omstændigheder synes den trufne Foranstaltning mindre <lb/>
+nødvendig og herpaa vover jeg at begrunde mit Haab om dens naadige <lb/>
+Ophævelse.</p>
+               <p xml:id="p4">	Hvad Quarantaine Commissionen i Gothenborg har besluttet med Hensyn <lb/>
+paa de fra Norge kommende Postførere og Courerer, er mig ubekjendt; <lb/>
+men jeg nærer det Haab, at de ikke vil lide Ophold eller standses, <lb/>
+– eller dog at deres medhavende Brevskaber ville blive hurtig og sikkert <lb/>
+befordrede. I denne i moralsk og physisk Henseende meget choleriske <lb/>
+Tid, vil jeg kunne blive nødsaget til at sende Courerer, og om <lb/>
+som jeg haaber, disse uden Hinder maa fortsætte Reisen til Stockholm, <lb/>
+men ikke kunne indlades i Staden, udbeder jeg underdanigst Deres <lb/>
+Majestæts naadige Befaling om til hvem udenfor Staden de medhavende <lb/>
+Brevskaber maatte kunne afgives.</p>
+               <p xml:id="p5">	Marcus Thrane er i Gaar afreist herfra for at overvære en til i <lb/>
+Dag tilstævnet Forsamling af flere Sognes Arbeiderforeninger i Næss <lb/>
+i Rommerige. Han vilde have aabnet Forsamlingen med Oversættelsen <lb/>
+af Louis Blancs Tale til en Arbeiderforsamling i Paris, men har efter <lb/>
+Andres Raad frafaldt dette.</p>
+               <p xml:id="p6">	En Borgström, der som Medlem af den Deputation, som i sin Tid <lb/>
+overleverede mig Thranes Petition, fremstillede sig som svensk <lb/>
+Kobberslagersvend, har nu under Benævnelse "Pharmaceut" forenet sig med <lb/>
+en ved Dom casseret Ritmester Paulsen om Udgivelsen af et Blad, kaldet <lb/>
+17de Mai, hvis Tendents efter Programmet, skal være at modarbeide <lb/>
+Thranes Agitation, men den samme Borgström vedbliver ikke desto mindre <lb/>
+sit fortroelige Forhold med Thrane.</p>
+               <p xml:id="p7">	Underdanigst vedlagte Rapporter vise, i de sidst forløbne 3 <lb/>
+Døgn 6 Angrebne, 5 Døde og 3 Helbredede af Cholerasygdommen, alle <lb/>
+paa Grønland. I Aaret 1833 angrebes i Cholerasygdommens første 4  <lb/>
+Uger i Christiania og Forstæder 541, døde 262 Mennesker. I samme <lb/>
+Tidsrum nu ere 80 angrebne, 49 Døde. <lb/>
+               </p>
+               <closer>
+                  <date>
+                     <placeName>Christiania</placeName>
+                     <date>den 3 November 1850</date>.</date>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

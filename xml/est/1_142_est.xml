@@ -1,0 +1,121 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>142</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 23. april 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 23. april 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Mit Ønske idag at overvære Gudstjenesten, for at høre en herlig <lb/>
+Prædiken af Biskop Arup og Modtagelsen af mange uafviselige Embedsbesøg, <lb/>
+have forhindret mig fra som sædvanlig denne Dags Formiddag at skrive denne <lb/>
+underdanigste Rapport og jeg befinder mig saaledes i det sjeldne behagelige <lb/>
+Tilfælde, forinden den nu paabegyndes, allerede at være i Besiddelse <lb/>
+af Deres Majestæts naadige Skrivelse af 20de, modtaget denne Dags <lb/>
+Eftermiddag.</p>
+               <p xml:id="p3">	Jeg takker underdanigst for de saa hurtig afgivne naadige Beslutninger <lb/>
+om 2de Statsraaders Entledigelse og 2de andres Udnævnelse. Ved <lb/>
+Statsraad Fleischers forestaaende Entledigelse vil de Afgaaendes Tal snart <lb/>
+blive 3, og med Henhold til min underdanigste sidste Rapport, tillader <lb/>
+jeg mig underdanigst gjentagende at yttre at hermed bør vore Reformatorer <lb/>
+                  <hi rend="underline">for Tiden</hi>  lade sig nøie, en Anskuelse, som deles af mine nævnte Colleger <lb/>
+og af flere agtede Storthingsmænd, med hvem jeg senere har talt.</p>
+               <p xml:id="p4">	Allerede forinden Modtagelsen af Deres Majestæts naadige Skrivelse <lb/>
+af 20de, var jeg kommet til den deri naadigst yttrede Anskuelse  <lb/>
+betræffende Statsraad Fleischers Afskedsansøgning, som jeg vil meddele ham i <lb/>
+Morgen og derefter bringe under officiel Behandling. Som det i alle <lb/>
+Begivenheder er lettere at rive ned end at bygge op, saa vil ogsaa i denne, <lb/>
+Erstatningen blive vanskeligere end Entledigelsen, "doch mit Zeit kommt <lb/>
+Rath"! Da jeg imidlertid i denne Begivenhed saavel for Form som for Sag, <lb/>
+confidentielt bør søge Veiledning hos flere Sag- og Personkyndige Mænd, <lb/>
+for at kunne for Deres Majestæt fremsætte et forsvarligt underdanigst <lb/>
+Forslag, tør jeg dertil underdanigst bede mig den nødvendige Tid naadigst <lb/>
+levnet.</p>
+               <p xml:id="p5">	Den paapegede Indstilling fra de militaire Departementer om vore <lb/>
+Forsvarsanstalters Istandsættelse i <hi rend="underline">en større Skala</hi>, vil blive afgivet, <lb/>
+saasnart alle nødvendige Oplysninger ere indkomne. For imidlertid ikke at <lb/>
+tabe den kostbare Tid til at iværksætte, hvad der kan udrettes med de <lb/>
+til vedkommende Departementers Disposition havende Midler, omtrent 62,000 <lb/>
+Speciedaler, har Regjeringen, paa Deres Majestæts høie Vegne dertil givet <lb/>
+Bemyndigelse og Meddelelse til Storthinget, saavel herom, som om  <lb/>
+Behandlingen af den Regjeringen givne Credit for 600,000 Speciedaler, om <lb/>
+Indstillingen af 29de forrige Maaned betræffende Forsvarsvæsenet, – som Alt <lb/>
+vil blive afgivet ved Storthingets Sammentræden den 26de denne Maaned, <lb/>
+tilligemed den naadigste Proposition om Statslaan med mere, – og vil jeg <lb/>
+gjøre Storthingets President opmærksom paa, at alle disse Sager bør <lb/>
+behandles muligst confidentielt og med svensk Granlagenhet.</p>
+               <p xml:id="p6">	Consul Faye meddeler mig fra Hamborg, at alle Forretninger ligge <lb/>
+stille, al offentlig og privat Credit for Tiden er tilintetgjort. Han nærer <lb/>
+Haab om at kunne skaffe os nogen Credit, <hi rend="underline">dog ikke under 8 1/4 procent</hi>  som <lb/>
+vi blive nødsagede til at give, da vi ogsaa fra London have modtaget et <lb/>
+bestemt Afslag. Faye yttrer, at hvad Tydskerne meest frygte under Krigen <lb/>
+med Danmark, er svenske Hjelpe-Tropper, for hvilke de have en stor Respect.</p>
+               <p xml:id="p7">	Gud forunde det arme Danmark kraftig Hjelp mod de tydske Voldsmænds <lb/>
+skandaleuse Mishandling!</p>
+               <p xml:id="p8">	Til Berigtigelse af min sidste underdanigste Rapport, bør jeg <lb/>
+underdanigst bemærke, at Hans Excellence Due, <hi rend="underline">ikke</hi>  er blandt de <lb/>
+Statsraadsmedlemmer, som <hi rend="underline">Stang</hi>  vil have bort, medens han er blandt <lb/>
+Adresseskrivernes Afgangscandidater.</p>
+               <p xml:id="p9">	Flere velmenende, agtværdige Communeforstandere og Andre, have under <lb/>
+de senere Dage spurgt mig, om de vilde handle mod Deres Majestæts Villie, <lb/>
+ved den anstundende 17de Mai at bidrage til uskyldig og uskadelig  <lb/>
+Folkeforlystelse? Jeg har hertil svaret, at jeg aldrig har erfaret, at Saadant <lb/>
+er stridende mod Deres Majestæts Ønske og at jeg især under nærværende  <lb/>
+Omstændigheder maa ansee det meget ønskeligere,at fornuftige Borgere  <lb/>
+ville lede Pøbelens Underholdning den Dag end at overlade den til sig selv, <lb/>
+som fører den til strafværdige Excesser.</p>
+               <p xml:id="p10">	Jeg tør haabe i denne Henseende at have yttret mig overeensstemmende <lb/>
+med Deres Majestæts naadige Villie?</p>
+               <p xml:id="p11">	Imorgen vil jeg have den Ære at feire Hendes Kongelige Høihed <lb/>
+Prindsessens Fødselsdag, hvortil jeg nedlægger min underdanigste  <lb/>
+Lykønskning ved en større Souper. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23 April 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

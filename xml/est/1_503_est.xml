@@ -1,0 +1,87 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>503</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 7. juni 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 7. juni 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de forrige Maaned.</p>
+               <p xml:id="p2">	Afhængig af Dampskibsfarten kunde jeg først komme her tilbage <lb/>
+fra Fossum den 4de i Stedet for den 1ste Juny, hvorved jeg vandt <lb/>
+nogle Dage paa Fossum, uden at forsømme noget her, hvor jeg forefandt <lb/>
+Alt i uforandret Stilling.</p>
+               <p xml:id="p3">	Jeg takker underdanigst for Batterichirurg Heyerdahls naadige <lb/>
+Udnævnelse til Landphysicus i Bradsberg Amt. Jeg tillod mig at udbede <lb/>
+denne Naade, som Morgenbladet tilskriver Heyerdahls uskyldige Slægtskab <lb/>
+med Hans Excellence Due og Stiftamtmand Sem, fordi den som No 1 <lb/>
+indstillede, Roll, skal være en duelig, men ubehagelig Læge, den som <lb/>
+No 2 indstillede Heyerdahl derimod en duelig og derhos behagelig Læge.</p>
+               <p xml:id="p4">	Deres Majestæts naadige Resolution i Anledning af Regjeringens <lb/>
+underdanige Indstilling om strax at befale nok en Statsraad til Stockholm, <lb/>
+svarede ganske til min Forventning, og kan jeg ikke tilbageholde <lb/>
+det Ønske, at dette maa kunne undgaaes før Deres Majestæts forventende <lb/>
+Ankomst hertil, hvorom jeg tør modsee Deres Majestæts nærmere <lb/>
+naadige Bestemmelse.</p>
+               <p xml:id="p5">	Livmedicus Professor Faye agter i næste Uge at tiltræde en Reise <lb/>
+udenrigs, hvortil han for længere Tid tilbage gjennem Hofchefen <lb/>
+har udbedet Deres Majestæts naadige Tilladelse. Han ønsker, om Tid og <lb/>
+Omstændigheder tillade, at besøge Constantinopel og Krim, for at gjøre <lb/>
+sig bekjendt med den militaire praktiske Sygeadministration.</p>
+               <p xml:id="p6">	Jeg kommer just nu fra en sørgelig Begravelse. Biskoppen i <lb/>
+Tromsø Juell, paa en Reise til Carlsbad, for at søge Lægedom mod <lb/>
+Steensmerter, naaede ikke længer end til Hamburg, hvor han under en <lb/>
+tilstødt Podagra sluttede sit virksomme Liv kun 47 Aar gammel. Han <lb/>
+var en udmærket dygtig begavet, agt- og elskværdig geistlig Embedsmand, <lb/>
+hvis Bortgang er et stort Tab for Kirke og Stat, som vil blive <lb/>
+vanskelig at erstatte.</p>
+               <p xml:id="p7">	Vi have Gud skee Tak! omsider faaet Sommer, hvorefter jeg i <lb/>
+Morgen agter at flytte til Holgerslyst. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7de Junii 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

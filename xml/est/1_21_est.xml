@@ -1,0 +1,184 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>21</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 10. januar 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 10. januar 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Fra Statsraad Fleischer modtog jeg i Gaar et Andragende til den <lb/>
+Kongelige Norske Regjering, hvori han anholder deels om naadigst Fritagelse <lb/>
+for at afgive underdanigst Indstilling i Anledning af et fra <lb/>
+Armee-Commandoen til Armee-Departementet indkommet og paa naadigst <lb/>
+Resolution af 18de December sidstleden grundet Forslag om Nedsættelse  <lb/>
+af en Commission, hvis Hverv skulde være: "at undersøge den Fremgangsmaade  <lb/>
+og de Regler, som <hi rend="underline">hidtil</hi>  have været fulgte ved Anskaffelsen, <lb/>
+Modtagelsen og Afleveringen af Armeens Beklædning og Lædertøi, <lb/>
+samt derefter at indkomme med Forslag til de Forholds-Regler, der for <lb/>
+Fremtiden i saa Henseende bør tages til Følge; – deels om at Sagens <lb/>
+videre Behandling naadigst maa overdrages til en anden af Regjeringens <lb/>
+Medlemmer. Jeg tillader mig underdanigst at vedlægge en Afskrift <lb/>
+af dette Andragende, som og af det dermed fulgte Bilag.</p>
+               <p xml:id="p3">	Ved at foredrage denne Sag for Regjeringens øvrige Medlemmer og <lb/>
+fælles med dem at omdiscuttere den, maatte jeg ligesaavel som disse, <lb/>
+i eet og Alt erkjende Rigtigheden af hvad Statsraad Fleischer har udviklet. <lb/>
+Vi fandt saaledes baade, at den naadigste Resolution af 18de <lb/>
+December sidstleden gik ud paa at tilveiebringe en Undersøgelse af <lb/>
+Armee-Departements-Chefens Embeds-Handlinger, og at Statsraad Fleischer,  <lb/>
+som den Mand, hvis Embedsførelse skulde være Gjenstand for <lb/>
+Commissionens Undersøgelse og som følgelig er Part i Sagen, ikke passende <lb/>
+kunde forestaae dens videre Behandling. Under almindelige Omstændigheder <lb/>
+vilde det derfor have været i sin Orden, at vi paa sædvanlig <lb/>
+Maade havde constitueret en anden af Regjeringens Medlemmer til <lb/>
+i nærværende Tilfælde at fungere som Chef for Armee-Departementet. <lb/>
+Sagen forekom os imidlertid saa extraordinair, at vi ikke troede denne <lb/>
+Fremgangsmaade her passende, hvorimod man eenstemmig anmodede mig om <lb/>
+at gjøre den til Gjenstand for en underdanigst Rapport til Deres Kongelige  <lb/>
+Majestæt, førend den paa nogen officiel Maade indkom i Regjeringens <lb/>
+Protocoller eller af Regjeringen toges under Behandling. Man <lb/>
+motiveredes hertil deels i Betragtning af at Talen her var om at indlede <lb/>
+Undersøgelser angaaende et Regjerings Medlems Embeds-Handlinger, <lb/>
+deels med Hensyn til det Extraordinaire i at den naadigste Befaling <lb/>
+herom var afgivet paa Commando-Vei, deels endelig, fordi Armee-Departementet <lb/>
+allerede under 1te November forrige Aar havde bragt Sagen <lb/>
+paa Bane ved at affordre Armee-Commandoen en Betænkning, hvis Afgivelse  <lb/>
+vilde sat Departementet i Stand til at bringe Sagen i lovformelig <lb/>
+Gang gjennem underdanigst Indstilling til Deres Majestæt fra Departementet <lb/>
+og den samlede Regjering. Vi antage nemlig som sandsynligt <lb/>
+at Vedkommende ikke havde henledet Deres Majestæts naadigste Opmærksomhed <lb/>
+paa følgende 2 væsentlige Omstændigheder, nemlig, at Armee- <lb/>
+Commandoen allerede under 1te November sidstleden var blevet vidende <lb/>
+om, at Departementet agtede at indgaae til Deres Majestæt med underdanigst <lb/>
+Forestilling om hvad der burde foranstaltes til Istandbringelse <lb/>
+af en for det Offentlige mere betryggende Control i den omhandlede <lb/>
+Anledning, og <hi rend="underline">at Sagen efter sin Natur ikke var nogen Commando-Sag</hi>. <lb/>
+Det er derfor vort underdanigste Haab, at Deres Majestæt, ved at <lb/>
+blive bekjendt med disse Omstændigheter, naadigst vil bifalde, at <lb/>
+ingen videre Forføining til Opfyldelse af den under 18 December sidstleden <lb/>
+givne naadigste Resolution skulde træffes, men at Sagen paa <lb/>
+rigtigste Maade fremmes, naar Commandoen meddeelte Armee-Departementet <lb/>
+den Erklæring, som dette allerede under 1ste November sidstleden <lb/>
+har affordret samme, og Departementet derefter indgik med underdanigst <lb/>
+Forestilling til Deres Majestæt gjennem den Kongelige Norske <lb/>
+Regjering. Vi maatte høieligen beklage, at Deres Majestæts naadigste <lb/>
+Opmærksomhed ikke var bleven henledet paa denne Sagens særegne Stilling <lb/>
+og Beskaffenhed, og at Armeens General-Adjutant har ladet Armee- <lb/>
+Departementets foranførte Skrivelse af 1ste November forrige Aar  <lb/>
+henligge upaaagtet og ubesvaret, hvorved disse ubehagelige Conflicter <lb/>
+for en Deel maa antages at være opstaaede. Ved i Underdanighed at <lb/>
+gjøre Deres Majestæt bekjendt med denne Gjenstand, skulde jeg lige <lb/>
+underdanigst tillade mig at henstille til naadigst Overveielse, om <lb/>
+det ikke, til Forebyggende af de med Sagens officielle Behandling forbundne <lb/>
+Ubehageligheder, og Ulemper, skulde være hensigtsmæssigst, <lb/>
+at Deres Majestæt naadigst tilkjendegav Armee-Commandoen: "at ligesom <lb/>
+Deres Majestæt ved den naadigste Resolution af 18de December 1844 <lb/>
+ene har havt for Øie Nødvendigheden af at foranledige en mere betryggende <lb/>
+Control indført for de der omhandlede Gjenstandes Vedkommende, <lb/>
+saaledes finder Deres Majestæt, <hi rend="underline">efterat være bleven gjort bekjendt</hi>
+                  <lb/>
+                  <hi rend="underline">med Forholdenes Natur og derhos med at Armee-Departementet allerede</hi>
+                  <lb/>
+                  <hi rend="underline">under 1ste November 1844 har foretaget sig det første forberedende</hi>
+                  <lb/>
+                  <hi rend="underline">Skridt i samme Øiemeed</hi>, at Sagen paa hensigtsmæssigste og meest formelige <lb/>
+Maade fremmes, naar Armée-Departementet, efterat have modtaget <lb/>
+den forlangte Betænkning fra Armee-Commandoen paa sædvanlig Maade <lb/>
+gjør den til Gjenstand for underdanigst Foredrag i Statsraadet, samt <lb/>
+at Commandoen, paa Grund heraf, ingen Forføining skal træffe til  <lb/>
+Opfyldelse af Resolutionen af 18de December 1844.</p>
+               <p xml:id="p4">	Skulde Deres Majestæt naadigst behage at bifalde dette underdanigste <lb/>
+Forslag, vil Sagen komme i Gang paa sædvanlig forfatningsmæssig <lb/>
+Maade, og Statsraad Fleischers heromhandlede Andragende vil da af <lb/>
+sig selv bortfalde. Dette maatte sikkerligen i alle Henseender være <lb/>
+det Ønskeligste; thi endog seet bort fra den extraordinaire Form, maatte <lb/>
+det i vore Tider, hvor enhver Regjering, og den Kongelige Norske <lb/>
+sandelig ikke mindre end enhver anden, jevnligen angribes, opvække <lb/>
+en ualmindelig Sensation, om en Commission, efter umiddelbar naadigst <lb/>
+Foranstaltning, beordredes til at indlede Undersøgelser mod et Medlem <lb/>
+af Regjeringen og det i en Retning, der i det mindste kunde synes at <lb/>
+forudsætte Tilværelsen af en Mistillid, som ikke engang Oppositions <lb/>
+Pressen har fundet Anledning til at opvække og som Vedkommendes noksom <lb/>
+bekjendte almindelig agtede Characteer ogsaa mere end tilstrækkelig <lb/>
+vilde afvæbne. At udtale noget Saadant har visseligen heller ikke <lb/>
+været Deres Majestæts naadigste Hensigt, men da den Kongelige Resolution <lb/>
+af 18de December sidstleden muligens kan give Anledning til Mistydning, <lb/>
+maa jeg i Underdanighed gjentagende beklage, at Armee-Departementets <lb/>
+Skrivelse til Commandoen af 1ste November 1844 er blevet henliggende <lb/>
+uden at blive besvaret og uden, som det lader, at være bragt <lb/>
+til Deres Majestæts naadigste Kundskab, – ligesom at Vedkommende Foredragende <lb/>
+kan have undladt at henlede Deres Kongelige Majestæts naadigste <lb/>
+Opmærksomhed paa Forholdene og paa hvad der, efter disses Beskaffenhed, <lb/>
+af den omhandlede Foranstaltning maatte kunne flyde.</p>
+               <p xml:id="p5">	Jeg vover underdanigst at forudsætte, at Deres Majestæt med <lb/>
+sædvanlig Naade optager dette mit frimodige Skridt, hvilket jeg har <lb/>
+troet at burde tillade mig, ligesaameget til underdanigst Opfyldelse <lb/>
+af de Pligter, jeg har mod Deres Majestæt, som for at iagttage hvad <lb/>
+jeg antager at skylde den Kongelige Norske Regjering, ethvert af dens <lb/>
+Medlemmer og mig selv. Jeg opfylder saameget heller denne Pligt mod <lb/>
+en Collega, hvis store Værd for Konge og Fædreland er lige meget <lb/>
+anerkjendt af hans øvrige Landsmænd som af hans Colleger. Imidlertid <lb/>
+vil Statsraad Fleischers Andragende blive henliggende indtil jeg  <lb/>
+modtager Deres Majestæts naadigste Befaling.</p>
+               <p xml:id="p6">	Siden 8 Dage er Finants-Departementets Chef, Statsraad Vogt <lb/>
+sengliggende i en Sygdom, hvorfor Regjeringen har overdraget benævnte <lb/>
+Departements midlertidige Bestyrelse til Statsraad Holst. Denne  <lb/>
+beklagelige Omstændighed vil desværre end yderligere forsinke Stats- <lb/>
+Budgettets endelige Opgjørelse. Imidlertid tillader jeg mig underdanigst <lb/>
+at oplyse: at Budgettet blev 1842 indstillet af Regjeringen den 19de <lb/>
+Februar, approberet af Hans Majestæt Kongen den 1ste Marts og fremlagt <lb/>
+i Storthinget den 7de Marts, som er den tidligste Tid noget Budget <lb/>
+har været fremlagt.</p>
+               <p xml:id="p7">	Den i min underdanigste Rapport af 22 November ommeldte i Kongsbergs <lb/>
+Kongens Grube 600 Alen under Dag Aabningen udbrudte Bjergmasse, <lb/>
+indeholdt 1161 Mark 8 Lod gediegent Sølv, foruden en Deel Sølvsliger, <lb/>
+af Værdie 11 à 12,000 Speciedaler. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 10 Januar 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>83</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. desember 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. desember 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Uden Anledning til nogen Beretning tillader jeg mig for Deres Majestæts Fødder at nedlægge mine underdanigste Lykønskninger til det om faa Dage indtrædende nye Aar. Det gamle hensvandt med Sorger og Glæder! Maa det nye bringe Deres Majestæter og den Kongelige Familie faae, helst ingen mørke, mange lyse og glædelige Dage! Guds beskyttende Varetægt hvile over Deres Majestæter, det Kongelige Huus og de forenede Riger!</p>
+               <p xml:id="p3">	For den Naade, hvormed Deres Majestæter under Aarets Løb have behaget at hædre mig og mine, nedlægges vor underdanigste Taksigelse, anbefalende os underdanigst til denne Kongelige Naades Vedligeholdelse.</p>
+               <p xml:id="p4">	Denne Vinter begynder meget strængere end den sidst afvigte og alle Livets Nødvendigheder ere dyrere. Imidlertid have vi i den seneste Tid, Gud skee Tak, godt Slædeføre og klare Solskinsdage, med 10 à 12 Grader Kulde.</p>
+               <p xml:id="p5">	Sidste Stockholms- og Udenrigs-Poster, som ad forskjellige Veie skulde have ankommet den 24de, kom ikke før den 25de om Aftenen og 26de om Morgenen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de December 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

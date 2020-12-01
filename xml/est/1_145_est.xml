@@ -1,0 +1,287 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>145</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. mai 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. mai 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 30te forrige Maaned.</p>
+               <p xml:id="p2">	Gaarsdagens Discussion om Adressesagen i Storthinget begyndte og <lb/>
+endte med et fuldstændigt moralsk Nederlag for vort revolutionaire <lb/>
+Partie.</p>
+               <p xml:id="p3">	Statsraad Riddervold benyttede Leiligheden sidstleden Søndag, da <lb/>
+Storthinget in corpore (med Undtagelse af Stabell) gjorde ham Opvartning, <lb/>
+til at tale alvorlige Advarselsord. Dette i Forbindelse med den <lb/>
+almindelige og lydelige Uvillie mod de 5 Motionairer og deres Motion, <lb/>
+bevægede disse til i Gaar at tilbagekalde den oprindelige Motion,  <lb/>
+hvorimod en anden i samme Tendents fremsattes, med Udeladelse af de meest <lb/>
+paaankede Udtryk i Præmisserne. Schweigaard udviklede som Modpartiets <lb/>
+Forkjæmper et Talent, en Dygtighed, en Veltalenhed, som sønderknuste <lb/>
+Stabell og Consorter, og da den sidstnævnte bleg reiste sig for at bedyre <lb/>
+sin Agtelse for Grundloven, blev han udpebet af Tilhørerne paa  <lb/>
+Galleriet. Efter Alles Sigende var Schweigaard igaar brillant og overtraf <lb/>
+sig selv. Mange, som vilde have talt i samme Retning, taug, fordi <lb/>
+Schweigaard havde udtømt Materien. Alle ere enige om, at om det i samme <lb/>
+Øieblik var kommet til Votering, vilde Adressen strax været bleven begraven; <lb/>
+men under nogle velmenende senere Taleres Foredrag, slappedes Schweigaards <lb/>
+Effect, Modpartiet hentede sig noget og bragte det ved Votering <lb/>
+til at faae Sagen henviist til en Comité. Imidlertid ansees det moralske <lb/>
+Indtryk af Gaarsdagens Discussion saa stærkt, at Adressens Tilintetgjørelse <lb/>
+ansees for afgjort.</p>
+               <p xml:id="p4">	De af mig til Middagen i Gaar indbudne Storthingsmænd, indfandt <lb/>
+sig efter 6 Timers Kamp med Triumpherende Miner.</p>
+               <p xml:id="p5">	Med Hensyn paa Dagens Begivenheder troede jeg at burde lægge Vægt <lb/>
+paa de af mig udbragte Skaaler som jeg, hvor ubetydelige de end vare, <lb/>
+tillader mig underdanigst at vedlægge. Mere Effect gjorde Fæstningens <lb/>
+Salutter.</p>
+               <p xml:id="p6">	Jeg tillader mig underdanigst at vedlægge en Liste over de Mænd, <lb/>
+som for mig have været nævnte som Candidater til at succedere Statsraad <lb/>
+Fleischer som Chef for Armee Departementet. Selv kjender jeg ingen <lb/>
+af disse Mænd nøie nok, for om dem at kunne have en bestemt Mening. <lb/>
+Imidlertid er Resultatet af de Oplysninger, som jeg samvittighedsfuldt <lb/>
+har bestræbet mig for at indhente, dette, at der blandt de 13 Candidater, <lb/>
+kun bør og kan for Tiden være Spørgsmaal om 3, nemlig Generalmajor <lb/>
+Bloch, Oberste Garben og Ritmester Sylow, og vil jeg underdanigst meddele <lb/>
+de Oplysninger, som jeg om enhver af disse har modtaget.</p>
+               <p xml:id="p7">	Alle, in specie Statsraad Fleischer, og General Wedel, ere enige om <lb/>
+at Bloch er den dygtigste blandt de nævnte, ikke alene for Armee- <lb/>
+Departementets Bestyrelse, men om det behøvedes, ogsaa for Commandoen. Jeg <lb/>
+deler denne Mening og beklager derfor,at jeg ikke tør driste mig til at <lb/>
+bringe ham i underdanigst Forslag. Opinionen har han allerede fra en ældre <lb/>
+Tid imod sig og har ved uforbeholdne, anticonstitutionellet Yttringer <lb/>
+i den Grad opvakt Uvillie mod sig <hi rend="underline">i og udenfor Storthinget</hi>, at hans Valg <lb/>
+vilde blive almindelig og i høi Grad upopulairt. Jeg bør mod mit <lb/>
+individuelle Ønske paa det bestemteste fraraade hans Valg, fordi jeg paa <lb/>
+den anførte Grund i denne Begivenhed desværre maa ansee ham for umulig.</p>
+               <p xml:id="p8">	Fleischer og Wedel ere enige om, at Sylow er en retsindig, <lb/>
+arbeidsdygtig Mand, særdeles vel orienteret i Armee-Departementets <lb/>
+Forretningskreds, med mere end almindelig militair videnskabelig Dannelse; <lb/>
+men jeg maa være enig med General Wedel og mange Andre om, at han neppe har <lb/>
+det for en Chef nødvendige Overblik eller den Energie, som behøves, for at <lb/>
+staae i Spidsen for en vigtig Administrationsgreen. Til at føre  <lb/>
+Overcommando anseer jeg ham aldeles udygtig.</p>
+               <p xml:id="p9">	Betræffende Garben kan jeg være mindre vidtløftig, fordi han har <lb/>
+den Lykke at være kjendt af Deres Majestæt. Hæderlig Mand og formeentlig <lb/>
+udmærket dygtig i sit Fag, er han vist nok ikke mit Ideal for den <lb/>
+omhandlede Post; men <hi rend="underline">relativ til alle de andre</hi>, formener jeg ham meest <lb/>
+anbefalelsesværdig og tillader mig derfor underdanigst at henstille til <lb/>
+Deres Majestæts naadige Forgodtbefindende, om Deres Majestæt naadigst <lb/>
+vil bemyndige mig til at gjøre ham et naadigt Tilbud.</p>
+               <p xml:id="p10">	Af General Wedels vedlagte underdanigste Skrivelse, vil Deres <lb/>
+Majestæt naadigst erfare, at han føler sig forpligtet til at bede Deres <lb/>
+Majestæt ikke at tage Hensyn paa hans Person, om Deres Majestæt ved denne <lb/>
+Leilighed maatte ville forene Armeens oeconomiske Bestyrelse med <lb/>
+Commandoen.</p>
+               <p xml:id="p11">	I denne Anledning tillader jeg mig underdanigst at bemærke, at vi <lb/>
+have stor Vanskelighed for at finde en dygtig Mand, for <hi rend="underline">een</hi>  af de nævnte <lb/>
+Administrationer, at det vilde blive end vanskeligere at finde Nogen, <lb/>
+dygtig for begge, at det formeentlig vilde blive meget vanskelig at finde <lb/>
+Nogen, i den Norske Armee, som kunde føre Commandoen med den Dygtighed <lb/>
+og Værdighed som General Wedel.</p>
+               <p xml:id="p12">	Consul Faye er retourneret fra Hamburg efter der at have aabnet en <lb/>
+Credit for den norske Statscasse for 1 Million 100,000 Bancomark og med <lb/>
+Haab om en større Sum.</p>
+               <p xml:id="p13">	Han har herved gjort den norske Stat en stor Tjeneste med Opoffrelse <lb/>
+af Tid, Arbeide og Penge, uden derfor at begjære nogensomhelst Godtgjørelse, <lb/>
+ligesom han ved flere foregaaende Leiligheder har viist sin Beredvillighed <lb/>
+til at gavne det Offentlige uden Løn. Jeg udbeder underdanigst, <lb/>
+at Deres Majestæt vil benaade ham med Sanct Olafs Ordenens Ridderkors, <lb/>
+som maatte skee strax, om det skal gjøre den rette Effect!</p>
+               <p xml:id="p14">	Min lignende underdanigste Bøn under 9de forrige Maaned for den <lb/>
+engelske Civilingenieur Stephenson og Generalconsul Crowe tillader jeg mig <lb/>
+underdanigst at gjentage.</p>
+               <p xml:id="p15">	Vort herværende største Handelshuus, i Manufacturvarer, Kloed og <lb/>
+Wessell, har i disse Dage falleret og det er at befrygte, at dette kun <lb/>
+er Ødelæggelsens Begyndelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Mai 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 4. mai 1848</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Den 3die Mai 1848</hi>.</head>
+               <p xml:id="p16">	Jeg har den Ære at udbringe en Skaal for Hs Majt Kongen.</p>
+               <p xml:id="p17">	Denne Skaal tiltrænger i en sædvanlig Tid ingen Ord; men under <lb/>
+de Begivenheder, som i denne Nutid omgive os, opfordrer den ethvert <lb/>
+norsk Hjerte, enhver norsk Stemme til at gjentage Bevidnelsen om vor <lb/>
+dybe Ærefrygt, om vor hjertelige Hengivenhed, om vor ubrødelige Troskab <lb/>
+mod vor ædle Konge, som det har behaget Forsynet, til Hæder og <lb/>
+Held for vort gamle Norge, at sætte paa Haralds Throne.</p>
+               <p xml:id="p18">	Gud bevare vor constitutionelle Throne, som vi opreiste paa <lb/>
+Eidsvold, samtidig med vor Grundlov, i den Tanke og med den Villie, at <lb/>
+begge skulle være uadskillelige, og den skal staae denne gamle Kongethrone, <lb/>
+med vor Grundlov ukrænket og urokket, saalænge Nordmænd have Mod, <lb/>
+Kraft, Klogskab, til at opretholde hvad vi Fædre have opreist.</p>
+               <p xml:id="p19">	Gud give Hs Majt Kong Oscar et langt og lykkeligt Regimente! <lb/>
+Gud bevare Kongen!</p>
+               <p xml:id="p20">		------oOo------<lb/>
+               </p>
+               <lb/>
+               <p xml:id="p21">	I Dag, da vor Kronprinds fylder Sit Aar, veed jeg intet bedre <lb/>
+Ønske at fremføre for Hans Kongl. Høihed end at Han, følgende Sin høie <lb/>
+Faders Fodspoer, maa arve Folkets Agtelse, Tillid, Kjærlighed for <lb/>
+Hans Majestæt Kongen. Gud bevare Hans Kongelige Høihed Kronprindsen. <lb/>
+               </p>
+               <p xml:id="p22">------oOo------ <lb/>
+               </p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 4. mai 1848</supplied>
+               </head>
+               <list xml:id="list23">
+                  <label>1o</label>
+                  <item>Generalmajor Bloch.</item>
+                  <lb/>
+                  <label>2o</label>
+                  <item>Oberste Garben.</item>
+                  <lb/>
+                  <label>3o</label>
+                  <item>Ritmester Sylow.</item>
+                  <lb/>
+                  <label>4o</label>
+                  <item>Capitaine T. Broch.</item>
+                  <lb/>
+                  <label>5o</label>
+                  <item>Capitaine Irgens.</item>
+                  <lb/>
+                  <label>6o</label>
+                  <item>Armee Intendant Meylænder.</item>
+                  <lb/>
+                  <label>7o</label>
+                  <item>Oberste Beichmann.</item>
+                  <lb/>
+                  <label>8o</label>
+                  <item>Oberstlieutenant Holch.</item>
+                  <lb/>
+                  <label>9o</label>
+                  <item>Krigscommissair Broch.</item>
+                  <lb/>
+                  <label>10o</label>
+                  <item>Generalmajor Meydell.</item>
+                  <lb/>
+                  <label>11o</label>
+                  <item>Oberstlieutenant Meyn.</item>
+                  <lb/>
+                  <label>12o</label>
+                  <item>Capitaine Veiinspecteur Crøger.</item>
+                  <lb/>
+                  <label>13o</label>
+                  <item>Lieutenant Ræder.</item>
+                  <lb/>
+               </list>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h6">
+                  <supplied resp="editor">Tillegg til rapport av 4. mai 1848</supplied>
+               </head>
+               <opener>Naadigste Konge!</opener>
+               <p xml:id="p24">	Da jeg af Hans Excellence Statholder Løvenskiold er underretted om, <lb/>
+at der inden føie Tid vil indtræffe en Forandring med Chefsposten i det <lb/>
+Kongelige Armée-Departement; vover jeg – i Henhold til min, i Egenskab <lb/>
+af høist befalende General, under 21de Mai 1847 indsendte underdanigste <lb/>
+Forestilling, om Foreningen af Armeens oeconomiske Overbestyrelse og <lb/>
+Armeecommandoen, samt Deres Majestæts i den Anledning naadigst afgivne <lb/>
+Resolution af 8de December 1847 – underdanigst at antage, at det  <lb/>
+saaledes nu er det beleiligste Tidspunct for at effectuere bemeldte høist <lb/>
+ønskelige ja paatrængende nødvendige Forening.</p>
+               <p xml:id="p25">	Det er derfor at jeg, forsaavidt det staaer i min Magt at bidrage <lb/>
+til Udførelsen af dette for Armeens Vel saa saare vigtige Formaal, anseer <lb/>
+det i dette Øieblik for en hellig Pligt imod min elskede Konge og <lb/>
+Armeen herved for Deres Majestæts Fødder at nedlægge den mig naadigst <lb/>
+betroede Armeecommando.</p>
+               <p xml:id="p26">	Jeg tillader mig underdanigst at bemærke, at om det end muelig <lb/>
+kunde være Deres Majestæts naadigste Hensigt, i min Person at forene <lb/>
+bemeldte tvende Poster, maatte jeg underdanigst gjøre Afkald paa denne <lb/>
+Kongelige Naade; thi ligesom jeg tidligere aldrig har ønsket nogen <lb/>
+Statsraadspost, vil jeg heller ikke nu modtage nogen Saadan.</p>
+               <p xml:id="p27">	I underdanigst Tillid til Deres Majestæts Naade vover jeg endvidere <lb/>
+at tilføie, at det forhaabentlig ikke vil af Deres Majestæt mistydes <lb/>
+eller blive anseet som en upassende Fordring naar jeg ved at fratræde <lb/>
+min siden Aaret 1836 indehafte Stilling som høistbefaledne General ikke <lb/>
+ønsker at forblive i en underordnet Stilling, og desaarsag herved tillige <lb/>
+underdanigst ansøger om naadigst Entledigelse fra min indehavende  <lb/>
+Brigadschefspost saasnart det maatte behage Deres Majestæt at entledige <lb/>
+mig fra Armeecommandoen.</p>
+               <p xml:id="p28">	I Forbindelse med Ovenanførte maa jeg imidlertid høiligen beklage <lb/>
+at være sat i den ubehagelige Nødvendighed ved min Afgang ikke at kunne <lb/>
+renoncere paa Tilskud af Statskassen; thi min hele private Formue er <lb/>
+desværre medgaaet, for i mine forskiellige Embedsstillinger siden 1814 at <lb/>
+føre Huus, paa en efter mine Anskuelser nogenledes passende Maade, og <lb/>
+hvortil kommer at jeg i min 12 Aars Tjenestetid som commanderende General – <lb/>
+som Deres Majestæt naadigst bekjendt – ikke har nydt nogensomhelst <lb/>
+Gage eller Tillæg.</p>
+               <p xml:id="p29">	Jeg maa saaledes i denne Anledning saavelsom med Hensyn til Maaden <lb/>
+for min Afgang hentye til Deres Majestæts naadigste Bestemmelse, hvilken <lb/>
+jeg med undersaatlig Hengivenhed i alle Henseender tillidsfuld  <lb/>
+underkaster mig.</p>
+               <p xml:id="p30">	Deres Majestæt vil forhaabentlig billige at jeg paa ovenanførte <lb/>
+Maade directe og ikke strax ad officiel Vej henvender mig til Deres <lb/>
+Majestæt i en Sag som efter min fulde Overbevisning fortiener den høieste <lb/>
+og den Høiestes særdeles Opmærksomhed, og som naar udført, formeentlig <lb/>
+vil vise sig at være af uberegneligt Gavn for Deres Majestæts Tjeneste.</p>
+               <closer>
+                  <salute>	Med sand og inderlig Hengivenhed samt med de varmeste og oprigtigste <lb/>
+Følelser for min Konge og Hans ophøiede Familie henlever og undertegner <lb/>
+jeg mig. <lb/>
+        underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>F. WedelJarlsberg</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 5te Mai<lb/>
+       1848</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

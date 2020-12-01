@@ -1,0 +1,138 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>151</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. mai 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. mai 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Senere har jeg med Længsel forgjæves ventet den i Deres Majestæts <lb/>
+naadige Skrivelse af 18de bebudede Coureer. Den er formodentlig bleven <lb/>
+opholdt, under Opfyldelse af de foreskrevne mange constitutionelle <lb/>
+Former, og jeg venter saaledes, hvad den skulde have bragt, med Posten i <lb/>
+Aften.</p>
+               <p xml:id="p3">	Det Bevilgnings Spørgsmaal, som nu vil blive Storthinget forelagt, <lb/>
+er formeentlig det for Norge vigtigste, som nogensinde har været behandlet, <lb/>
+fordi Norges Tilværelse som selvstændig Stat, dependerer af dets <lb/>
+Afgjørelse i Storthinget. Jeg vilde ansee denne Selvstændighed  <lb/>
+tilintetgjort, om vor daarlige Storthingsmajoritet vovede at nægte de til <lb/>
+Opretholdelse af Rigets Ære, Værdighed, Selvstændighed nødvendige Midler. <lb/>
+Denne min Anskuelse udtaler jeg ved enhver Leilighed og den er bleven saa <lb/>
+almindelig, at jeg derpaa grunder mit Haab om, at den nuværende Storthing <lb/>
+majoritet ikke, under den her herskende Stemning, <hi rend="underline">vil</hi>
+                  <hi rend="underline">vove</hi>  at gjøre sin <lb/>
+Opposition gjeldende. De 3de Statsraaders Opposition kan vel blive <lb/>
+fortjenstfuld i Storthingsmajoritetens Øine, men den vil ikke vinde Medhold <lb/>
+hos Nationens bedre og større Deel. De ere selv for kloge, for ikke at <lb/>
+indsee, hvilke farlige Følger for Riget deres Opposition, <hi rend="underline">om</hi>
+                  <hi rend="underline">den</hi>
+                  <hi rend="underline">mødte</hi>
+                  <lb/>
+                  <hi rend="underline">Medhold hos</hi>  Storthinget,vilde medføre, og jeg holder mig overbeviist om, <lb/>
+at de ligesaalidt selv som jeg og Andre ønske saadant Medhold. Denne deres <lb/>
+egen Frygt tilskriver jeg senere indlænkende Avisartikler, som den, der <lb/>
+sees i Morgenbladet for i Dag. Man vil da for godt Kjøb have vunden nogle <lb/>
+Laurbær (Lagrar) hos Storthingets Radicale; men sans conséquence i <lb/>
+Realiteten, som man selv ikke ønsker.</p>
+               <p xml:id="p4">	Besættelsen af Storthingets Presidentposter med den perfide <lb/>
+Christensen og Harbitz, – Odelsthingets med Stabell og den radicale Præst <lb/>
+Dahl, er under nærværende Omstændigheder dobbelt beklagelig.</p>
+               <p xml:id="p5">	Mit Hovedønske er nu, at vore svenske og norske Tropper maa snart <lb/>
+kunne komme ud og jage Tydskerne over Elben, forinden Lord Palmerston faaer <lb/>
+hele Sagen opgjort overeensstemmende med Englands Handelsinteresser.</p>
+               <p xml:id="p6">	Vi have i denne Uge holdt Statsraad Tirsdag og i Gaar, og agte at <lb/>
+samles i Morgen og Løverdag.</p>
+               <p xml:id="p7">	Tirsdag oplæste jeg Deres Majestæts naadige Skrivelse af 18de <lb/>
+tvende Gange i Statsraadet, fordi Stang begjærte da capo. Paa Physionomierne, <lb/>
+som jeg nøie observerede, bemærkede jeg hos Vogt Fortrydelse over <lb/>
+at have opkastet sig til Dommer i det slesvigske Spørgsmaal, som jeg saa <lb/>
+meget havde fraraadet ham, – hos Sørenssen Forskrækkelse og Bevægelse <lb/>
+(emotion), hos Stang rigtig Consternation, hvorimod Riddervold forstaaer <lb/>
+at behærske sine Følelser.</p>
+               <p xml:id="p8">	Denne Kongelige Skrivelse gjorde en særdeles god Effect, som allerede <lb/>
+viiste sig i Statsraadet den følgende Dag, hvori Stang var tam som <lb/>
+et Lam. Den foregaaende Dag havde Armee Departementet indstillet til  <lb/>
+naadigst Indvilgelse Ansøgninger fra 3 Cavallerie og 1 Infanterie Officierer <lb/>
+om at gaae i udenrigsk (dansk) Krigstjeneste, hvorimod Stang gjorde en <lb/>
+gevaltig Opposition, den han som sædvanlig fik Riddervold til at dele; <lb/>
+men den de frafaldt, efterat have hørt oplæse Deres Majestæts naadige <lb/>
+Skrivelse, som for Øieblikket havde modereret deres Oppositionslyst.</p>
+               <p xml:id="p9">	Siden min sidste underdanigste Rapport har Generalconsul Sterky <lb/>
+erklæret det umuligt at kunne i St Petersborg finde private Liebhabere <lb/>
+til det norske Statslaan, som vi saa høielig tiltrænge. I denne Anledning <lb/>
+tillader jeg mig underdanigst at gjentage, at den herværende russiske <lb/>
+Generalconsul Tscheffkine flere Gange uopfordret har forsikkret mig om Hans <lb/>
+Majestæt Kejserens Tilbøielighed til, paa Deres Majestæts derom yttrede <lb/>
+Ønske, at præstere det tiltrængende Laan. Jeg beder derfor underdanigst, <lb/>
+at Deres Majestæts Minister i St Petersborg maa erholde den i denne <lb/>
+Hensigt nødvendige Instruction.</p>
+               <p xml:id="p10">	Expeditionssecretair Manthey er tilbagekommet fra Hamburg og Lübeck <lb/>
+efter der at have truffet de nødvendige Arrangements for vor Postbefordring. <lb/>
+Han yttrer sig høist ufordeelagtig om Deres Majestæts i Hamburg <lb/>
+værende Minister Residents Mangel paa god Villie, Dygtighed og Agtelse <lb/>
+paa Stedet, og jeg har saa længe og saa ofte hørt lignende ufordeelagtige <lb/>
+Yttringer, at jeg især under nærværende vanskelige Forholde føler mig <lb/>
+forpligtet til derpaa at henlede Deres Majestæts naadige Opmærksomhed. <lb/>
+Manthey siger, at man i Lübeck og Hamburg venter, at det vil gaae i og med <lb/>
+det tydske Parlament som med Nationalforsamlingen i Paris. Give dog Gud, <lb/>
+at Doctorers, Professorers, Advocaters Regemente snart maa faae en Ende!</p>
+               <p xml:id="p11">	Efterat Ovenstaaende i Formiddag var skrevet bragte Stockholms <lb/>
+Posten mig i Eftermiddag Klokken 6 Deres Majestæts naadige Skrivelse af <lb/>
+22de og Statsraadsprotocoller af 20de og 22de med mange Bilage med <lb/>
+hvis Gjennemlæsning jeg nu Klokken 8 1/2 Aften er bleven færdig.</p>
+               <p xml:id="p12">	Alle disse Documenter vil jeg meddele Statsraadet i Morgen Formiddag <lb/>
+og anstrænge mig til Opfyldelse af Deres Majestæts naadige Befalinger.</p>
+               <p xml:id="p13">	Min Søster, Friherrinde Løvenskiold i Sjælland skriver mig under <lb/>
+17de denne Maaned, at Hans Majestæt Kong Frederik den 7de nylig havde <lb/>
+benaadet hende og Mand med et Besøg, hvorved hans Udseende røbede Lidelse <lb/>
+paa Sjæl og Legeme. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de Mai 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

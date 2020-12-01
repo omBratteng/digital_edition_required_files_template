@@ -1,0 +1,70 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>387</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 24. juni 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 24. juni 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Paa Forestilling fra Trondhjems Stiftsdirection har Regjeringen <lb/>
+givet Tilladelse til at afbenytte Domkirken til en Høitidelighed den <lb/>
+4de Julii i Anledning af Deres Majestæts Helbredelse. Omstændighederne <lb/>
+have tidligere forhindret Afholdelsen af nogen Høitidelighed, <lb/>
+men Stiftsdirectionen forsikkrer, at en Kirke Fest paa Deres Majestæts <lb/>
+Fødselsdag imødesees med Længsel og vil virke til sand Opbyggelse. <lb/>
+Tiden har ikke tilladt underdanigst at forelægge Deres Majestæt <lb/>
+Sagen til Afgjørelse, men Regjeringen vover at haabe, at Deres <lb/>
+Majestæt naadigst vil bifalde det givne Samtykke.</p>
+               <p xml:id="p3">	Storthingsvalgene vedvare fremdeles og fortsættes tildeels med <lb/>
+Gjenvalg af tidligere Storthings Representanter, hvoriblandt Amtmand <lb/>
+Aall og Sognepræst Harbitz.</p>
+               <p xml:id="p4">	I næste Uge antages Høiesteret at ville afsige Dom i den <lb/>
+saakaldte Depôtsag. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 Junii 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

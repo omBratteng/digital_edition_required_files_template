@@ -1,0 +1,101 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>74</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 19. august 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 19. august 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efterat min sidste underdanigste Rapport af 14de denne Maaned var expederet, modtog jeg i Gaar de Oplysninger, som jeg havde udbedet af General Mansbach, betræffende Deres Majestæts Frederikshalds Bye og Frederiksteens Fæstning naadigst tiltænkte Besøg, hvorom jeg tillader mig underdanigst at vedlægge hans<hi rend="underline">aldeles private</hi>  Brev til mig.</p>
+               <p xml:id="p2">	Jeg stadfæstes derved i mit tidligere underdanigst yttrede Ønske, at Deres Majestæt vil have den Naade at forunde Frederikshald<hi rend="underline">hele Dagen</hi>  den 5te, ligesom jeg iøvrigt deler Generalens Anskuelse om den videre Reise til Christiania. Ankomsten her vilde da blive den 7de istedetfor den 6te September, men saa havde Deres Majestæt hædret Frederikstads Fæstning, – som Dampskibet i alle Fald maa passere nær forbi, – og Staden Moss med Sit høie Besøg, hvortil der neppe hastig turde tilbyde sig en saa beqvem Leilighed som nu.</p>
+               <p xml:id="p3">	Om, som jeg formoder, Tiden vil tillade, efter Middagen den 5te at besøge det Frederikshald nærliggende, for sin Naturskjønhed bekjendte "Tistedalen", turde dette være interessant, især for de Kongelige Prindser. Deres Majestæts høie Nærværelse ved Gudstjenesten i Frederikshald den 6te vilde visselig opvække levende Paaskjønnelse.</p>
+               <p xml:id="p4">	Mindre nødvendig forekommer Besøget paa Horten mig<hi rend="underline">dette Aar</hi>, da <hi rend="underline">der</hi>  ikke er foregaaet nogen væsentlig Forandring siden Deres Majestæt havde den Naade at inspicere dette Etablissement forrige Aar.</p>
+               <p xml:id="p5">	Derimod udbeder jeg underdanigst et Par Timer for den paabegyndte høist vigtige Befæstning paa Kaholmen, som Dampskibet maa passere lige nær forbi.</p>
+               <p xml:id="p6">	Dampskibet "Christiania" vil efter sædvanlig Route retournere fra Kjøbenhavn den 3die mod Middagstid og vil ikke kunne blive færdig til at afgaae til Frederikshald før den 4de Morgen, dog saa betimelig, at det maa kunne være i Svinesund før Deres Majestæts Ankomst dersteds, som paaregnes før Klokken 7, for at kunne gaae op til Frederikshald,<hi rend="underline">før det bliver mørkt</hi>.</p>
+               <p xml:id="p7">	Efter forestaaende Oplysninger tillader jeg mig underdanigst at foreslaae: at Deres Majestæt naadigst vil bestemme Sin høie Ankomst til Frederikshald til Aftenen den 4de September paa Dampskibet "Christiania"; – tilbringe Dagen den 5te dersteds; naadigst bivære en tidlig Gudstjeneste i Frederikshalds Kirke den 6te, derefter afgaae til Frederikstad, for at tage denne Fæstning i Øiesyn, tage Middag paa Moss samme Dag, og tage Natteqvarteer der.</p>
+               <p xml:id="p8">	Afreisen fra Moss foreslaaes underdanigst til den 7de Morgen Klokken 8, da Deres Majestæt, efterat have forundt Kaholmen et Par Timer, vil kunne ankomme til Christiania Klokken 3 à 4 Eftermiddag; men om Deres Majestæt maatte befale at besøge Horten, ikke før samme Dags Aften Klokken 7 à 8.</p>
+               <p xml:id="p9">	I første Fald udbeder jeg at Deres Majestæt vil have den Naade at indtage Middag hos mig i Stiftsgaarden den 7de, i sidste Fald den 8de.</p>
+               <p xml:id="p10">	For at Alt maa kunne være ordnet og forberedet til Deres Majestæts høie Ankomst, finder jeg mig foranlediget til at indhente Deres Majestæts naadige Befalinger ved en Coureer ved hvem de bedes mig naadigst tilstillede.</p>
+               <p xml:id="p11">	I General Wedels Fraværelse i Udlandet og Hofintendant Heidemarks i Trondhjem, indfandt Hofmarschalk Løvenskiold sig i disse Dage hos mig, for at modtage Deres Majestæts naadige Befalinger i Anledning af Reisen og vil jeg i Haab om Deres Majestæts naadige Bifald, tillade mig at medtage ham til Frederikshald.</p>
+               <p xml:id="p12">	Om Deres Majestæt maatte befale nogen anden Embedsmands Møde, tør jeg derom modsee naadigst Befaling.</p>
+               <p xml:id="p13">	Imidlertid er Kammerherre Heidemark just nu retourneret, og General Wedel ventes den 27de denne Maaned.</p>
+               <p xml:id="p14">	Grevinde Wedel er kommet vel tilbage fra Badestedet Rønneby.</p>
+               <p xml:id="p15">	Generalconsul Crowe viiste mig i Gaar Breve fra London hvorefter den berømte engelske Civil-Ingenieur Stephensen, geleidet af sin første Assistent Mr Bidder og nogle Venner, agter at tiltræde Reisen hid den 20de denne Maaned, for at undersøge vor paatænkte Jernbanelinie. Hr Stephenson har antaget et eget Dampskib for denne Reise og forlader ikke sit Huus for en mindre Godtgjørelse end 20 £ Sterling pr Dag. Hr Crowes Venner bede om at sørge for hans Beqvemmelighed "and his comfort". Det er mig særdeles kjært, at Hr Stephensens Besøg vil indtræffe under Deres Majestæt høie Nærværelse her. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 19de August 1846</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 19. august 1846</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <placeName>Frederiksteen</placeName>
+                     <date>den 17de August 1846</date>
+                  </dateline>
+                  <lb/>
+                  <salute>Deres Excellence!</salute>
+               </opener>
+               <p xml:id="p16">	I det jeg har den Ære at bevidne Deres Excellence min ærbødigste Tak for de mig i Skrivelse af 8de d. m. gunstigst meddelte Efterretninger angaaende H. M. Kongens forestaaende Reise til Fredrikshald og formeentlige Ophold hersteds den 5te September, undlader jeg ikke at efterkomme Deres Excellences Opfordring ved at meddele hvad jeg for Tiden kjender til den Maade hvorpaa herværende Borgerskab og Embedsmænd forenede agte at modtage Høistsamme.</p>
+               <p xml:id="p17">	Man har navnlig besluttet, at arangére for Hans Majestæt, tilligemed de Kongl. Prindse og mueligens  for nogle af den kongelige Suite, Enkefrue Wids kjønne Gaard til Logis. Hun selv er for Tiden fraværende paa en Reise til Kjøbenhavn, men havde allerede forinden givet sit Samtykke til Gaardens Benyttelse paa denne Maade.</p>
+               <p xml:id="p18">	En Deputation vil blive valgt i Dag, der skal afgaae til Qvistrum, for ved Hans Majestæts Ankomst derhos paa Byens Vegne i Underdanighed at complimentere den høie Reisende og at indbyde Høistsamme til en Middag den 5te September som Byens Commune agter at foranstalte.</p>
+               <p xml:id="p19">	En paatænkt Opførelse af en Æreport har jeg søgt at forebygge, som meget for bekostelig hvis den skulde blive Gjenstanden værdig, og derimod foreslaaes et stort og høitideligt Fakkeltog, hvorigjennem Stedets Borgere af<hi rend="underline">alle Klasser</hi>  kunde aabnes passende Adgang til at bringe Monarken deres Hyldning. Dette Tog skulde anføres af en Deputation, sammensat af Embedsmænd, Kjøbmænd og Haandværkere, og formeentlig faae i Rector Frøhlich en værdig Ordfører.</p>
+               <p xml:id="p20">	Jeg forudsætter, at Hans Majestæt vil anvende Formiddagen den 5 Septbr til at tage Byens Raadhuus, Kirke, Latinskole og enkelte flere offentlige Indretninger i Øiesyn, samt hædre Fæstningen med sit Besøg; hvor jeg har truffet den Foranstaltning, at vores lille Garnison kan findes opstilt og udføre de Excerceerøvelser som Hans Majestæt muligens maatte befale. Dernæst at føre Høistsamme til det historisk interessante Punkt hvor Carl den 12te sluttede sin krigerske Livsbane. Hermed antager jeg at Formiddagen vil optages. Betræffende Cour og Presentation samt Alt hvad som vedkommer det formelle, vil General Wedel, som til den Tid forventes retourneret, sikkert ikke undlade at afgive de nærmere Bestemmelser.</p>
+               <p xml:id="p21">	At Kongen ikke ret vel kan eller bør undlade paa denne Reise at tage Fredrikstads Fæstning i Øiesyn, vover jeg at forudsætte. Opholdet<hi rend="underline">der</hi>  turde kunne indskrænkes til nogle faa Timer, hvilket imidlertid dog vilde foranledige at Reisen fra Fredrikshald til Christiania maatte fordeles paa to Dage. Jeg har nemlig tænkt mig Routen saaledes: Søndagen den 6te Sepbr bivaanede Hans Majestæt først en kort Gudstjeneste i Fredrikshalds Kirke; denne kunde bestemmes saaledes at Alt var sluttet Kl. 10 Formiddag, hvorefter Kongen begav sig directe fra Kirken til Dampskibet, der bragte Høistsamme til Fredrikstad, hvor Ankomsten skeede Kl. 11 1/2 Formiddag. Efter dersteds at have modtaget Stedets Autoriteter, beseet den lille Fæstning og indtaget en lille Frokost, som Stedets Indvaanere sikkert ville føle sig hædret ved at kunne tilbyde, fortsættes Reisen til Moss. Her troede jeg at Kongen burde tage Middag, dernæst besee Stadens offentlige Indretninger og forblive Natten, for den følgende Morgen <hi rend="underline">tidlig</hi>  at afgaae til Horten, tage dette Etablissement og senere Kaholmen i Øiesyn og derefter indtræffe i Christiania til Middag. Paa denne Maade havde Kongen hædret og tilfredsstillet samtlige Byer paa Ostkanten af Fjorden ved sin høie Nærværelse og tillige inspiceret tvende Fæstninger samt Marinens vordende Hoved Etablissement og det lige vigtige Forsvarspunkt paa Kaholmen. –</p>
+               <p xml:id="p22">	Jeg maa tilfulde bitræde Deres Excellences Formening, at det i alle Henseender vilde være baade behageligt for Hans Majestæt, og i det hele smukkest, hvis Høistsamme embarquerede paa Dampskibet i Svinesund og saaledes gjorde Indtoget i Fredrikshald. –</p>
+               <p xml:id="p23">	Skulde nogen væsentlig Forandring, med Hensyn til de Foranstaltninger som her paa Stedet ere anførte for Kongens Modtagelse, blive besluttet, da skal jeg sikkert ikke undlade desangaaende at meddele Deres Excellence nærmere Underretning. –</p>
+               <p xml:id="p24">	I det jeg benytter denne Anledning for at bevidne Deres Excellence min dybe Høiagtelse, har jeg den Ære at undertegne mig, som</p>
+               <closer>
+                  <salute>Deres Excellences<lb/>
+                        ærbødigste Tjener<lb/>
+                  </salute>
+                  <signed>
+                     <persName>Mansbach</persName>.</signed>
+                  <lb/>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

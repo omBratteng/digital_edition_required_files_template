@@ -1,0 +1,76 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>105</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. juni 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. juni 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	De sidste udenrigske Efterretninger stadfæste, Gud være lovet! Kornprisernes Falden. De her til Landet indforskrevne Kornvarer, som for den største Deel ere indkjøbte for meget høie Priser, kjøbes kun af dem, som Nøden tvinger dertil, fordi Mange ikke<hi rend="underline">kunne</hi>  betale de høie Priser og i Mangel af Penge til Korn maa spise Barke Brød, og fordi Andre, i Forventning af lavere Priser, holde sig længst mulig tilbage fra at kjøbe. Imidlertid modtager Regjeringen vedvarende Ansøgninger om Pengelaan til Korn Indkjøb, hvortil den allerede har anviist af Statscassen 50 til 60,000 Speciedaler.</p>
+               <p xml:id="p3">	Fra den i min sidste ommeldte Hede, om Morgenen Klokken 6, over 15 Grader Reaumur, er Temperaturen senere gaaet tilbage til 6 Grader. Denne Kulde og store Mangel paa Regn, holder Vegetationen meget tilbage. Imidlertid næres endnu i Rigets forskjellige Egne Haab om en god Aarsvæxt, den Gud give!</p>
+               <p xml:id="p4">	Til Representanter for Agershuus Amt ved næste Storthing ere valgte 3 Bønder og Morgenbladets Redacteur Stabell! Biskop Arup naaede ved dette Valg at blive<hi rend="underline">sidste</hi>
+                  <hi rend="underline">Suppleant</hi>!</p>
+               <p xml:id="p5">	Statsraad Vogt ventes den 17de; men Statsraad Petersen vil neppe kunne aflevere Justits-Departementet før den 19de denne Maaned.</p>
+               <p xml:id="p6">	Jeg vovede at indbilde mig, at min underdanigste Indstilling af 29de April betræffende Slots-Parken var saa hensigtsmæssig, at den vilde have vunden Deres Majestæts naadige Bifald. I Haab herom og for at redde, hvad endnu kunde have været reddet, anmodede jeg under Haanden Vedkommende om at standse med videre Arbeide i Slots-Parken indtil Ankomsten af en sagkyndig Mand, som jeg formodede Deres Majestæt vilde have den Naade at sende til Veiledning. I Mangel heraf og da Deres Majestæt ikke har havt den Naade at besvare mit underdanigste Forslag, turde jeg ikke længer haabe det bifaldt hvorfor jeg har anseet mig forpligtet til at tilbagekalde min omnævnte Anmodning, hvorefter Sagen herefter som hidindtil vil gaae sin skjæve Gang.</p>
+               <p xml:id="p7">	Jeg tillader mig underdanigst at vedlægge en Extract af Toldcasserer LangesBrev til mig, dateret Paris den 4de Juny: I denne Anledning vover jeg underdanigst i Norges, i begge de forenede Rigers Interesse, – indstændigen at supplicere om, at Hans Excellence Løwenhjelm, gjennem Deres Majestæts Cabinet, maa blive bemyndiget til, <hi rend="underline">forinden nogen fransk Contra-Proposition modtages</hi>, at tilbyde de samme Concessioner for Norge som for Sverige, mod at Frankrige bevilger begge Riger <hi rend="underline">lige Fordele</hi>. Jeg, som den Norske Regjerings øvrige Medlemmer, dele ganske Langes Anskuelse: at <hi rend="underline">et lige Tilbud</hi>  for begge Riger vil gjøre meget større Effect før, end efter den franske Contra-Proposition og jeg tillader mig derfor underdanigst at bede Hans Excellence Løwenhjelm dertil bemyndiget, i den fulde Overbeviisning, at denne Basis for Underhandlingerne, er den eneste, hvorpaa et for Deres Majestæt som for begge Riger tilfredsstillende Resultat muligen vil kunne opnaaes. Da jeg ikke har den Lykke at kjende Deres Majestæts Anskuelse om Toldcasserer Langes indirecte Deeltagelse i Tractat Underhandlingerne hvorom jeg tillader mig at referere til min underdanigste Rapport af 1ste April, vilde det visselig for mig være tilfredsstillende at erfare denne, ligesom jeg ønsker mig naadigst bemyndiget til at meddele Lange Deres Majestæts naadige Bifald i Anledning af det store Offer, som han i denne Begivenhed har bragt sin Konges og sit Fædrelands Tjeneste, en velfortjent Løn, som jeg under ham.</p>
+               <p xml:id="p8">	Jeg haaber og ønsker, at Deres Majestæt maa modtage disse underdanige Linier ved en lykkelig Hjemkomst efter en behagelig Reise.</p>
+               <p xml:id="p9">	Efter en i flere Henseender høist ubehagelig Vinter, agter jeg omsider idag at flytte til Holgerslyst, hvor jeg ønsker at celebrere Hans Kongelige Høiheds Prinds Gustavs Fødselsdag hvortil jeg nedlægger min underdanigste Lykønskning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te Juny 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 12. juni 1847</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h4">
+                  <hi rend="underline">Gjenpart af Toldcasserer Langes Skrivelse til H.E. Statholder Løvenskiold, dateret Paris d. 4de Juny 1847</hi>.</head>
+               <p xml:id="p10">	– "Jeg anseer det nemlig efter Omstændighederne hensigtsmæssigst, at Grev Løwenhjelm kommer i Besiddelse af denne Bemyndigelse forinden Contra Propositionen fra den franske Regjering fremkommer, for at han i alle Fald kunde have Adgang til at benytte den tidligere, saafremt Aspecterne hvilket slet ikke er usandsynligt, skulde vise sig at blive saadanne, at dette maatte være tilraadeligst. Forhandlingerne angaaende Tractaten ere nemlig i det franske Ministerium, saavidt os bekjendt ikke endnu bragte videre end at man derover i Udenrigs- og Finants Ministeriet har nedskrevet sine Bemærkninger. For Øieblikket hviler Sagen nok i Handelsministeriet. Naar den der er behandlet, skal den overgives til Drøftelse af en Commission, bestaaende af 5 Medlemmer, de 3 saakaldte Directeurer i de nysnævnte Ministerier, Grev Mornay, som for nogen Tid siden var fransk Gesandt i Stockholm og endnu en Femte. Naar man der er bleven enig om Sagen, sendes den tilbage til Guizot, som da lægger sidste Haand paa den. Nu er det, efter hvad Grev Løwenhjelm, Schvan og Stephanson eenstemmig forklare, Tilfældet, at man i de franske Ministerier lægger megen Vægt paa og kun synes at være lidet tilfreds med, at Norge, som har en saa betydelig Skibsfart paa Frankrige ikke har erklæret sig villig til at gjøre det samme Offer med Hensyn paa Viintolden som Sverige, og det kunde saaledes let hænde, at den Contraproposition, som kan forventes, af Uvillie herover kunde faae et saadant Udseende til Skade for Norges Interesser, at det kunde blive vanskeligt siden at faae den bragt i ønskelig Skik. Jeg skulde derfor ogsaa for mit Vedkommende være tilbøielig til at troe, at det vilde bidrage til at sætte de franske Herrer i godt Lune, naar man, endnu førend den nævnte Commission havde endt sine Forhandlinger, kunde fremkomme med det oftnævnte Tilbud om Viintolden. Jeg maa uforbeholden bekjende, at jeg anseer dette Offer fra norsk Side aldeles fornødent til Istandbringelsen af den forønskede Tractat, og man bør ikke forundre sig over, om Broderriget, hvis Interesser siden den russiske Tractats Afsluttelse i høi Grad og vel endnu i høiere Grad end Norge ville blive lidende, om en Tractat med Frankrige ikke kommer istand, vilde finde sig misfornøiet med, at Norge paa denne Maade lagde Hindringer iveien for en saadan Tractat. Sverige bør have sin Ret og sine Offere fra vor Side, ligesom vi kræve vor Ret fra Sveriges. Den deprimerende Indflydelse, som den nærværende ulige Concurrence med Rusland, Finland derunder indbefattet, nødvendigviis vil medføre for den norske og endnu mere for den svenske Skibsfart og Trælastexport, anseer jeg virkelig særdeles betænkelig, saasom Ressourcerne til en forøget Trælastexport og et udvidet Skibsbyggeri i Rusland skulle være meget store, større endog end jeg fra først af havde tænkt mig dem. Hvorvidt imidlertid, selv naar hiin Concession fra norsk Side indrømmes og dertil endog føies den Nedsættelse i Brændeviinstolden, som Grev Løwenhjelm i Tillægget til Instrux af 17 Februar, er bemyndiget til at tilbyde, alligevel nogen Handelstractat mellem Frankrige og de forenede Riger vil kunne bringes istand, derom er det vistnok endnu for mig, ja selv for de egentlige Underhandlere umuligt at kunne have nogen bestemt Formening." –</p>
+               <p rend="center" xml:id="p11">––––––––––––</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

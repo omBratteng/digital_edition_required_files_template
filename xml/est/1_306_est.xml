@@ -1,0 +1,185 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>306</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 26. juni 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 26. juni 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 22de denne Maaned.</p>
+               <p xml:id="p2">	Den saakaldte Arbeiderforenings Adresse til Storthinget blev <lb/>
+efter langvarige Debatter sidstleden Tirsdag med 59 mod 36 Stemmer <lb/>
+besluttet at skulle henlægges.</p>
+               <p xml:id="p3">	I denne Anledning foreslog en forstyrret Mand, Landskabsmaler <lb/>
+Balcke, i en politisk Klub, som holdes hos en ruineret Brændeviinshandler <lb/>
+Ihle, en Demonstration for at bringe Storthingsmændene Ueland, <lb/>
+Holst, Sverdrup, Lerche Hurrahs, og derimod Schweigaard, Lange, Holmboe <lb/>
+en Kattemusik; men da der heldigviis kun indfandt sig 10 Personer til <lb/>
+Processionen fandt intet Spectakel Sted.</p>
+               <p xml:id="p4">	I den ommeldte Klub,<hi rend="underline">hvori enkelte Storthingsmænd deeltage</hi>, <lb/>
+discutteres og voteres om offentlige Gjenstande. Den vilde uden Tvivl  <lb/>
+uden Ophold blive opløst i de Lande, hvor man allerede har erfaret de <lb/>
+sørgelige Følger af deslige Forsamlinger; men hos os vil man først selv <lb/>
+gjøre Erfaringer som neppe ville udeblive.</p>
+               <p xml:id="p5">	I Sarpsborg have Uroligheder funden Sted, i Anledning af 2de <lb/>
+Personers Arrestation, fordi de havde undsagt Eieren af Borregaard Pelly; <lb/>
+men det lykkedes ikke den tøilesløse Pøbel at befrie Arrestanterne.</p>
+               <p xml:id="p6">	Det er høist beklagelig, at den senere Tids jevnlige Pøbelinsulter <lb/>
+foranledige Hr Pelly til at sælge Borregaard, hvor han under en <lb/>
+human Bestyrelse i en engelsk Scala, har skabt en interessant industriel <lb/>
+Virksomhed, for nu at forlade Norge, hvorved hans uskjønsomme <lb/>
+Arbeidere, som foranledige dette National Tab, ville lide meest.</p>
+               <p xml:id="p7">	Med Hensyn paa Nutidens Omstændigheder, især det paa Horten <lb/>
+værende Vaabenforraad, tillader jeg mig underdanigst at anbefale til <lb/>
+snarest mulig naadigst Approbation, Regjeringens underdanigste Indstilling <lb/>
+om en liden Garnisons Henlæggelse til Horten.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at vedlægge en Skrivelse fra den <lb/>
+brittiske General Consul, hvoraf naadigst vil erfares, at Jernbanens <lb/>
+Grundlægning ikke efter mit Ønske kan finde Sted den 4de Julii, hvorimod <lb/>
+han hertil foreslaaer den 21de August, som ogsaa har en stor historisk <lb/>
+Betydning for de forenede Riger.</p>
+               <p xml:id="p9">	I den Troe, at min Søn Adam skulde tiltræde sin udenrigs Reise <lb/>
+anstundende Løverdag den 28de benyttede jeg en Dampskibsleilighed den <lb/>
+24de, for at sige ham Farvel; men da han samme Dag havde modtaget <lb/>
+Ordre om, forinden sin Afreise at conferere med Statsraad Stang og her at <lb/>
+oppebie nærmere Ordre, maatte han i Gaar i denne Hensigt følge mig  <lb/>
+hertil, hvorefter hans Afreise vil dependere af Opgjørelsen med Statsraad <lb/>
+Stang, som i denne Tid er meget beskjæftiget med et Landbrugs-møde, <lb/>
+som skal begynde imorgen.</p>
+               <p xml:id="p10">	Deslige mangfoldige overordentlige Forsamlinger, med de <lb/>
+forskjælligste Formaal, optage i vor Tid altfor megen Tid af offentlige  <lb/>
+og private Mænds egentlige og rette Kaldsbeskjæftigelse.</p>
+               <p xml:id="p11">	Saaledes er Statsraad Stang endnu ikke kommet videre i sit Referat <lb/>
+om en Huusmandslov end til de i min sidste underdanigste Rapport <lb/>
+omnævnte 6 Paragrapher. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 26de Junii 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 26. juni 1851</supplied>
+               </head>
+               <opener>
+                  <salute>Naadigste Konge!</salute>
+               </opener>
+               <p xml:id="p12">	I det jeg herved fremfører min Underdanigste Tak for Deres <lb/>
+Majestæts Naadigste Skrivelse af 23de Dennes, vare det mig Naadigst <lb/>
+tilladt tillige at bevidne min Glæde over Deres Majestæts Naadigste <lb/>
+Tilfredshed med de til Opfyldelsen af Deres Majestæts Befaling trufne <lb/>
+Arrangements paa Dronningbierget den 10de Dennes.</p>
+               <p xml:id="p13">	Jeg har strax meddeelt Kammerherre Holst Bevidnelsen af Deres <lb/>
+Majestæts Naadigste Tilfredshed med hans i denne Anledning hafte Omsorg, <lb/>
+og modtog han denne Bevidnelse med glad Taknemmelighed.</p>
+               <closer>
+                  <salute>Med dybeste Underdanighed <lb/>
+    		 	  Deres Majestæts <lb/>
+    			  Underdanigste</salute>
+                  <lb/>
+                  <signed>
+                     <persName>F.Wedel Jarlsberg</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de Juni <lb/>
+  	  1851</date>.</dateline>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h4">
+                  <supplied resp="editor">Tillegg til rapport av 26. juni 1851</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>25th June 1851</date>.</dateline>
+                  <lb/>
+                  <salute>Honored Sir!</salute>
+               </opener>
+               <p xml:id="p14">	I have consulted with the Bidder who has lately returned from <lb/>
+inspecting the line of the proposed Railway, relative to the ceremony <lb/>
+of breaking the Sod (Ground) and he regrets owing to the purchases <lb/>
+of the properties not being completed, and the Parliamentary duties, <lb/>
+preventing Mr R. Stephenson and Mr Ricardo visiting Christiania at <lb/>
+this early period, the proposed ceremony cannot take place on the <lb/>
+4th of July, and although the works might be commenced in August, <lb/>
+it is now proposed to postpone the important ceremony of cutting the <lb/>
+first Sod, until the 21st of August, a day ever dear to the memory, <lb/>
+and memorable in the annals of Norway, this arrangement I trust will <lb/>
+meet with your Excellency's approbation.</p>
+               <p xml:id="p15">	Mr Bidder joins with myself in returning our grateful thanks <lb/>
+for your last kind invitation which absence prevented our taking  <lb/>
+advantage of. I have the honor to be your Excellency's</p>
+               <closer>
+                  <salute>most obedient <lb/>
+    			Servant</salute>
+                  <lb/>
+                  <signed>
+                     <persName>I.K. Crowe</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 26. juni 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">Gjenpart <lb/>
+af en Skrivelse fra Amtmanden i Buskeruds Amt til Justitsdepartementet, <lb/>
+dateret 30te Juni 1851.</head>
+               <p xml:id="p16">	I dette Øieblik modtog jeg vedlagte Brev fra Byfogden paa Kongsberg, <lb/>
+hvoraf vil sees, at der er en almindelig Plan om Oprør fra  <lb/>
+Arbeidsforeningens Side. Det er naturligt, at Sagen maa behandles  <lb/>
+hemmelig, men foreløbig skulde jeg dog tilraade, at Oberstlieutenant  <lb/>
+Schrøder fik Ordre til ikke at sende Corpset hjem, før nogle Dage efter  <lb/>
+den bestemte Oprørsperiode. Forsaavidt nogen beviislig Mistanke mod  <lb/>
+Ramberg skulde opstaae, vil han blive arresteret. Saasnart mine øvrige  <lb/>
+Forretninger tillade det, skal jeg gjøre en Reise til Kongsberg, for  <lb/>
+at samraades med Byfogden og Corpschefen.</p>
+               <p xml:id="p17">		  - - - - - - -</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

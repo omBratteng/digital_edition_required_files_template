@@ -1,0 +1,109 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>427</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 2. februar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 2. februar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 26de forrige Maaned.</p>
+               <p xml:id="p2">	Sidste Post bragte mig Deres Majestæts naadige Skrivelse af samme <lb/>
+Dag, hvoraf erfares, at Deres Majestæt har befalet de svenske Søeofficierer,  <lb/>
+som tjene paa de engelske og franske Flaader i det sorte Hav, <lb/>
+i Tilfælde af Fiendtligheder, at forlade de Fartøier, hvor de ere ansatte <lb/>
+og at Deres Majestæt agter at give Marine Commandoen den samme <lb/>
+Befaling for de norske SøeOfficierer. Posten bragte imidlertid ikke <lb/>
+den forventede Befaling; men da den besluttede Foranstaltnings Iværksættelse  <lb/>
+under de forhaanden værende politiske Omstændigheder formeentlig  <lb/>
+ikke bør udsættes, troede jeg at burde strax underrette Statsraad <lb/>
+Erichsen om, hvad Deres Majestæt derom naadigst har meddeelt mig, i <lb/>
+hvis Følge han ved sidste Post har givet de norske Officierer den samme <lb/>
+Befaling, som de svenske have faaet, hvilket jeg ønsker maa vinde <lb/>
+Deres Majestæts naadige Bifald.</p>
+               <p xml:id="p3">	Fiendtlighederne fra de saa kaldte Vestmagters Side mod Rusland <lb/>
+begyndte formeentlig fra det Øieblik, da de sendte deres Flaader ind <lb/>
+i det sorte Hav, i den høit udtalte Hensigt, at beskytte det tyrkiske <lb/>
+Territorium og det tyrkiske Flag, hvorunder Tropper, Vaaben og Ammunition  <lb/>
+føres mod Russerne. Naar de derhos yttre det Ønske, at Rusland ikke vil  <lb/>
+ansee denne factiske Krigserklæring som casus belli, er det formeentlig at <lb/>
+føie Haan til den grove Fornærmelse. Under disse Omstændigheder vilde det  <lb/>
+være dobbelt ilde, om svenske eller norske Officierer skulde befindes  <lb/>
+tjenstgjørende paa de fiendtlige Flaader. <lb/>
+Ladninger af Avanturies skulle være ankomne og underveis fra Amerika <lb/>
+og med saadanne Allierede forene sig en europæisk Dronning og en  <lb/>
+europæisk Keiser! Jeg beder naadigst tilgivet, at jeg ikke kan tilbageholde <lb/>
+min Harme herover.</p>
+               <p xml:id="p4">	Jeg længes naturligviis saare meget efter at erfare, hvorledes <lb/>
+Deres Majestæts Neutralitets Erklæring er bleven modtaget i Petersborg <lb/>
+og hvorledes Deres Majestæt befaler, at jeg derom skal yttre mig, lige <lb/>
+over for de mange urimelige tildeels latterlige Rygter.</p>
+               <p xml:id="p5">	Igaar samledes de ankomne 103 Storthings Representantere i det <lb/>
+sædvanlige Locale, hvor, efter Opfordring Provst Harbitz overtog <lb/>
+Præsidiet indtil videre, ønskede Storthinget velkommen og erindrede de <lb/>
+senest afdøde Storthingsmænd, Falsen, Sørenssen og Foss.</p>
+               <p xml:id="p6">	Dernæst valgtes en Committée bestaaende af 9 Medlemmer, for at <lb/>
+granske Representanternes Fuldmagter, som jeg formoder vil medtage <lb/>
+denne Uge og haaber jeg at modtage Deres Majestæts Throntale forinden <lb/>
+Storthinget udbeder Sessionen aabnet, hvilket ved de 2de sidste  <lb/>
+Storthing dog først skeede den 9de og 10de Februar.</p>
+               <p xml:id="p7">	Jeg vover at stole paa, at Deres Majestæt som sædvanlig naadigst <lb/>
+vil tillade mig at afbenytte de 2de store Sale i Palaiet, til Samling <lb/>
+for Processionen og til Modtagelse af Storthingets Deputation. I <lb/>
+Stiftsgaarden levnes kun liden Plads for 150 Middagsgjæster.</p>
+               <p xml:id="p8">	Efterat Foranstaaende var skrevet har jeg havt den Ære at modtage <lb/>
+Deres Majestæts naadige Skrivelse af 30te forrige Maaned, hvoraf <lb/>
+jeg med Bekymring erfarer det Indtryk, som Deres Majestæts Neutralitets <lb/>
+Erklæring har gjort i Petersborg; men <hi rend="underline">naar denne er stemmende</hi>
+                  <lb/>
+                  <hi rend="underline">med Folkeret og Vedtægt</hi>  (og heri maa denne Neutralitet finde sin <lb/>
+Hovedstøtte) saa vist som den er stemmende med de forenede Rigers  <lb/>
+dyrebareste Interesser og begge Folks Sympathier, saa tør og bør man  <lb/>
+freidig stole paa Forsynets mægtige Beskyttelse. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2den Februar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

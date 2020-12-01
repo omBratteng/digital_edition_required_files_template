@@ -1,0 +1,147 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>465</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 10. september 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 10. september 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Storthinget har sluttet sine Forhandlinger og Deres Majestæts <lb/>
+naadige Befalinger betræffende dets Opløsning modsees med spændt  <lb/>
+Forventning. Efter disses Modtagelse vil de nødvendige Forberedelser  <lb/>
+blandt andet til Middagen for 150 Personer medtage nogle Dage.</p>
+               <p xml:id="p3">	Storthingets seneste Forhandlinger angik Budgettet for Armeen <lb/>
+og det af Deres Majestæt forlangte Creditiv, hvilket sidste blev  <lb/>
+afslaaet, efter Sigende, fordi Statscassens Beholdninger ere saa  <lb/>
+betydelige, at Intet særskilt Creditiv for overordentlige Tilfælde  <lb/>
+behøves. I denne Afslagets Motivering ligger Storthingets Erkjendelse af <lb/>
+Regjeringens Adgang til, om fornødiges, at benytte Statscassens  <lb/>
+Beholdninger, som vist nok ere meget større end det begjærte Creditiv.</p>
+               <p xml:id="p4">	Efter Statsraad Blochs Meddelelse har Storthinget betræffende <lb/>
+Armeens Budget blandt Andet taget følgende Beslutninger: <lb/>
+                  <list xml:id="list5">
+                     <label>a. </label>
+                     <item>Til fast Besættelse af de inferieure Officiersposter ved Generalstaben <lb/>
+ og Krigsskolen bevilges Intet;</item>
+                     <lb/>
+                     <label>b. </label>
+                     <item>til Complettering og Forøgelse af Underofficiersclassen bevilges <lb/>
+ Intet.</item>
+                     <lb/>
+                     <label>c. </label>
+                     <item>Til Forøgelse af Øvelsesfondet bevilges Intet;</item>
+                     <lb/>
+                     <label>d. </label>
+                     <item>Forslaget til Feldtaflønningen er forkastet.</item>
+                  </list>
+               </p>
+               <p xml:id="p6">	Efter min underdanige Formening har dette Storthing udmærket <lb/>
+sig ved en stærk Tendentz til at forringe den executive Statsmagts <lb/>
+constitutionelle Prærogativer og derimod, ved Benyttelse og Misbrug <lb/>
+af Grundlovens 79de Paragraph at tilvinde Storthinget al Magt og <lb/>
+Myndighed; endvidere ved en fiendtlig, ofte smaaagtig Opposition mod <lb/>
+Deres Majestæt og Regjeringen.</p>
+               <p xml:id="p7">	Dette Storthing har stadfæstet mig i min længe havte <lb/>
+Overbeviisning: 1o at vore Storthing bør tilbagevises inden for sine  <lb/>
+constitutionelle Grændser, om den norske Kongemagt skal kunne bestaae; <lb/>
+2o at vore constitutionelle Institutioner tidlig eller seent ville <lb/>
+gaae i Stykker, i Mangel af Kongemagtens absolute Veto.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa en med Morgenposten afgaaende Regjerings Indstilling <lb/>
+betræffende Udnævnelsen af en saakaldt Consulent i Kirke- <lb/>
+Departementet som fast Embedsmand.</p>
+               <p xml:id="p9">	Dette samme Storthing, som har nedsat Indre Departementets 3 <lb/>
+medicinske Consulenters ubetydelige Honorar, og derved foranlediget <lb/>
+disse 3 udmærkede Læger til at frasige sig deres Stilling, har  <lb/>
+bevilget til en Consulent for Statsraad Riddervold 1050 Species aarlig <lb/>
+Gage, dog kun <hi rend="underline">indtil videre</hi>, saaledes at et andet Storthing vil <lb/>
+kunne tilbagekalde denne Gage, naar maaskee Riddervold ikke længer <lb/>
+er Kirke-Departementets Chef.</p>
+               <p xml:id="p10">	Statsraad Riddervold fik 1852 en Candidat Nissen ansat som sin <lb/>
+Consulent, og ubehagelige Følger heraf, som jeg spaaede i min  <lb/>
+underdanigste Rapport af 1ste April samme Aar, viiste sig snart. – Nu <lb/>
+er Statsraad Riddervold ikke tilfreds med at kunne beholde Nissen <lb/>
+som Consulent med den forholdsviis ikke ringe Gage 1050 Species; <lb/>
+men han vil have ham af Deres Majestæt udnævnt til <hi rend="underline">fast Embedsmand</hi>, <lb/>
+hvilket Regjeringens øvrige Medlemmer, med Undtagelse af Statsraad <lb/>
+Krog, eenstemmig underdanigst fraraade, fordi vi formene, at en  <lb/>
+Departementschefs Consulent aldrig bør være fast Embedsmand. Candidat <lb/>
+Nissen convenerer Statsraad Riddervold; men vil maaskee ikke stemme <lb/>
+med hans Efterfølger, som ikke mod Ønske bør være bunden til ham. <lb/>
+Jeg tillader mig underdanigst at anbefale Regjeringens Indstilling <lb/>
+til Deres Majestæts naadige Bifald. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 10de September 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 10. september 1854</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p11">	Efterat vedlagte underdanigste Rapport igaar Formiddag var <lb/>
+skrevet, modtog jeg samme Dags Eftermiddag ved Coureer, samtidig <lb/>
+med Posten, Deres Majestæts naadige Bestemmelse med Hensyn til <lb/>
+Storthingets Opløsning, som antages at ville kunne foregaae  <lb/>
+førstkommende Onsdag den 13de September.</p>
+               <p xml:id="p12">	Jeg har i denne Anledning sammenkaldt til i Dag et extraordinairt <lb/>
+Statsraad. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te September 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

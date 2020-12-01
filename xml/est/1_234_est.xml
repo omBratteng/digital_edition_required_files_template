@@ -1,0 +1,131 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>234</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 2. juni 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 2. juni 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">Min sidste underdanigste Rapport var af 23die forrige Maaned. <lb/>
+Af Statsraad Krogs under min Fraværelse afgivne underdanigste <lb/>
+Rapporter af 27de og 31te Mai vil Deres Majestæt naadigst have  <lb/>
+erfaret, at den Norske Regjering, efter stærke og langvarige Fødselsveer, <lb/>
+omsider accoucherede med Beslutningen om Harro Harrings Bortviisning, <lb/>
+– at denne er iværksat og at den har foranlediget ubetydelige  <lb/>
+Demonstrationer af herværende Tydskere og nogle Indfødte.</p>
+               <p xml:id="p2">	Denne Beslutning, der har foranlediget saa langvarige Discussioner <lb/>
+i Regjeringen, er dog ikke af anden Beskaffenhed end lignende som  <lb/>
+toto die afgives i det øvrige Europa af Politiemyndigheder. – At denne  <lb/>
+Beslutning har Deres Majestæts naadige Bifald, er mig bekjendt og jeg vilde <lb/>
+have taget den 3 Maaneder tidligere, om jeg havde raadet her alene.</p>
+               <p xml:id="p3">	Det har været mig mindre paafaldende, at her etablerede Fremmede <lb/>
+have viist Sympathie for Harro Harring; men det har indigneret mig, at <lb/>
+Indfødte i denne Begivenhed have viist Opposition mod deres egen  <lb/>
+Regjering, mod Rigets grundlovmæssige Institutioner, for hvilke de ellers <lb/>
+angive sig begeistrede. Blandt de Indfødte, som have stillet sig i  <lb/>
+Spidsen for denne Opposition, ere 2de Candidater L. Gjerdrum, Søn af en  <lb/>
+hæderlig og loyal Kongelig Embedsmand, – og H. Major, som af Regjeringen <lb/>
+har faaet Understøttelse, for at dueliggjøre sig til sit Kald som  <lb/>
+Sindsvage-Læge, hvorfor han nu nyder en extraordinær Løn, som han i  <lb/>
+England visselig strax vilde tabe, efterat han har underskrevet en Protest <lb/>
+mod en Regjerings Beslutning.</p>
+               <p xml:id="p4">	Iøvrigt har det ved denne Leilighed viist sig, at Massen, Pøbelen <lb/>
+her, – <hi rend="underline">endnu ikke</hi>  er tilstrækkelig smittet af vor ulykkelige Tidsaand,	 <lb/>
+thi denne Masse som i de benævnte Candidater havde sat i Bevægelse paa <lb/>
+Bryggerne, – rørte sig heldigviis ikke, da hine efterat have paa  <lb/>
+Dampskibets Dæk givet Harring et ømt Broderkys, gav Signal til Bevægelse.</p>
+               <p xml:id="p5">	Den herværende amerikanske Vice Consul, en dansk fød liden <lb/>
+Boutique-Handler, som ogsaa har troet at burde protestere, er en ung Nar.</p>
+               <p xml:id="p6">	Ved min Tilbagekomst fra Fossum forefandt jeg 1o et Brev fra den <lb/>
+danske Udenrigsminister, som efterat have meddeelt mig de forlangte  <lb/>
+Oplysninger, betræffende den danske Undersaat Harro Harring, slutter  <lb/>
+saaledes: ”Af det her i Korthed Sammendragne haaber jeg imidlertid, at Deres <lb/>
+Excellence vil være istand til at danne Dem hans Characteristik. Han <lb/>
+er en i høieste Grad overspændt theoretisk Politiker, uden nogensomhelst  <lb/>
+Consequents, men dog med mer fremtrædende republicanske og  <lb/>
+demokratiske Grundsætninger, og maa ansees som et farligt Menneske i <lb/>
+ethvert Land.” – 2o et Udtog af en hemmelig Politie-Protocol i Carlsruhe <lb/>
+hvoraf Copie underdanigst vedlægges.</p>
+               <p xml:id="p7">	Jeg har god Grund til at troe at Harring under sit Ophold her, har <lb/>
+været i flittig Correspondance med L. Hjerta i Stockholm. Brevene ere <lb/>
+gaaede gjennem anden Haand, hvorved man har været forhindret fra at <lb/>
+controllere den.</p>
+               <p xml:id="p8">	Jeg holder mig overbeviist om, at alle fornuftige og velsindede <lb/>
+Mennesker i Landet bifalde Harrings Bortviisning og jeg er glad ved, at <lb/>
+vi ere af med ham.</p>
+               <p xml:id="p9">	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse af <lb/>
+23de, som jeg havde den Glæde at modtage paa Fossum. Deres Majestæt <lb/>
+lader mig viderfares Ret ved at tiltroe mig et smerteligt Savn, under <lb/>
+min nødtvungne forandrede Reiseplan. Da jeg i Haab om at kunne være <lb/>
+her betimelig tilbage, nu maa paaskynde min Reise, agter jeg at  <lb/>
+afreise med Dampskibet Thorsdag den 6te til Kjøbenhavn og derfra den 8de <lb/>
+med Dampskibet ”Obotrit” til Wismar. Jeg tør imidlertid forbeholde mig <lb/>
+        at afgive en underdanigst Rapport før min Afreise. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2den Junii 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 2. juni 1850</supplied>
+               </head>
+               <head type="sub2" rend="underline" xml:id="h4">Copie.</head>
+               <head type="sub3" rend="center" xml:id="h5">Paul Casimir Harro Harring <lb/>
+                        aus Ibenhof in Schleswig.</head>
+               <p xml:id="p10">Gelehrter und Maler. </p>
+               <lb/>
+               <p xml:id="p11">1836. Wegen politischer Umtriebe aus der Schweitz ausgewiesen, wird als <lb/>
+einer der gefährlichsten und unermüdlichsten politischen Wühler  <lb/>
+bezeichnet; war Mitglied der geheimen Verbindung "das junge Deutsch <lb/>
+land“ (bexiehungsweise: das junge Europa) genannt; führte den  <lb/>
+Namen: Hopfer auch Johnes“, – und soll sich in jener Zeit in seiner <lb/>
+Heimat freiwillig gestellt haben. Unter seinen Namen erschien zu <lb/>
+London im Jahre 1835 im Drucke: <lb/>
+"Die Möhwe, – deutsche Gedichte von Harro Harring <lb/>
+politischen Inhalts."</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

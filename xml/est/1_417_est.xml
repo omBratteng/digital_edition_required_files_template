@@ -1,0 +1,277 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>417</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. oktober 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. oktober 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de denne Maaned.</p>
+               <p xml:id="p2">	I Anledning af den confidentielle Meddelelse, som jeg efter Deres <lb/>
+Majestæts naadige Befaling gav Statsraad Erichsen af Deres Majestæts <lb/>
+naadige Skrivelse af 13de, har han tilskrevet mig vedlagte Brev, <lb/>
+hvori han har udviklet sin Anskuelse om den ham tiltænkte naadige  <lb/>
+Udnævnelse til ContreAdmiral og Valget af en anden Admiral, som jeg <lb/>
+anseer mig forpligtet til underdanigst at fremsende, hvilket  <lb/>
+foranlediger mig til atter i Dag at besvære Deres Majestæt.</p>
+               <p xml:id="p3">	Jeg besøgte General Wedel den 26de, efterat han havde fulgt sin <lb/>
+Hustru til sit sidste Hvilested, og fandt ham da i en exalteret  <lb/>
+Stemning. Ved mit Besøg idag efter Gudstjenesten, fandt jeg ham rolig, <lb/>
+blidt sørgende og derhos mærkværdig legemlig vel. Han er for Tiden <lb/>
+aldeles fri for den astmatiske Hoste, som i den senere Aarrække har <lb/>
+plaget ham. Hans kjære Datter, Baronesse Julie bliver for det Første <lb/>
+hos ham i hans Huus. Maatte hun, ved Deres Majestæts Naade, kunne <lb/>
+succedere sin salig Moder som Statsfrue hos Hendes Majestæt Enke <lb/>
+Dronningen, vilde det være en Lykke for hende og en stor Glæde for <lb/>
+hendes værdige gamle Fader, og jeg vover underdanigst at yttre, <lb/>
+Valget være godt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30te October 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 30. oktober 1853</supplied>
+               </head>
+               <opener>Deres Excellence!</opener>
+               <p xml:id="p4">	Efter Hans Majestæts naadigste Befaling har Deres Excellence <lb/>
+underrettet mig om at Høistsamme, i Tilfælde af en Forening af de  <lb/>
+militaire Departementers Bestyrelse og Commandoen over de respective <lb/>
+Etater, har til Hensigt at udnævne mig til Contre-Admiral, og at  <lb/>
+overdrage mig General-Adjutants Forretningerne for, og Commandoen over <lb/>
+Marinen, samt tillige at udnævne Capitain Valeur til Contre-Admiral <lb/>
+og Stationschef paa Horten.</p>
+               <p xml:id="p5">	Det er i Sandhed med dybtfølt Glæde og Taknemmelighed at jeg har <lb/>
+modtaget en Meddelelse der betegner Hans Majestæts naadige Tilfredshed <lb/>
+med mine Bestræbelser for efter Evne at opfylde de Pligter der <lb/>
+have paahvilet mig i min nærværende Embedsstilling. Den Tillid som <lb/>
+Hans Majestæt yderligere naadigst tænker paa at vise mig, paakalder <lb/>
+ogsaa med saa meget stærkere Kraft, en aaben og uforbeholden Udtalelse <lb/>
+af min Mening angaaende de Foranstaltninger, om hvilke Hans <lb/>
+Majestæt igjennem Deres Excellence saaledes har ladet mig underrette.</p>
+               <p xml:id="p6">	Da Spørgsmaalet om Foreningen af Departements-Styrelsen og den <lb/>
+militaire Overcommando er Gjenstand for Regjeringens Overveielse, <lb/>
+skal jeg tillade mig her ikke at berøre denne Sag, men gaae ud fra <lb/>
+den Forudsætning som ligger til Grund for Hans Majestæts naadigste <lb/>
+Meddelelse, nemlig at en saadan Forening er besluttet at skulle  <lb/>
+iværksættes, og at altsaa de paatænkte Udnævnelser ere Følger af en <lb/>
+saadan Beslutning.</p>
+               <p xml:id="p7">	Med Hensyn først til Hans Majestæts naadigste Hensigt at udnævne <lb/>
+mig til Contre-Admiral, da tillader jeg mig at udtale den Formening, <lb/>
+at det vilde være hensigtsmæssigere om en saadan naadigst Udnævnelse <lb/>
+ikke blev mig til Deel. Til Grund for Hans Majestæts Bestemmelse <lb/>
+i denne Henseende, antager jeg at den Mening ligger, – at den Mand <lb/>
+som Kongen anbetroer Commandoen over Marinens Personale, ikke paa <lb/>
+eengang kan udfylde denne Plads og forblive staaende i en af Marinens <lb/>
+lavere Klasser. Da han i sine militaire Tjenesteforretninger –  <lb/>
+med Etatens Officierer eller med Fremmede – bør fremtræde som activ <lb/>
+Militair og som Mand af Faget, vilde det vistnok ogsaa være en Anomalie <lb/>
+at see i en lavere Klasses Embedsdragt, den Mand der af Kongen var <lb/>
+overdraget Commandoen over det Hele. Idet jeg saaledes deler den her <lb/>
+fremsatte Mening, og antager at Marinens Høistbefalende Officier ikke <lb/>
+bør blive staaende i nogen lavere Klasse, troer jeg dog tillige, at <lb/>
+naar han blot indtil videre udtræder deraf, kan der ikke være noget <lb/>
+til Hinder for at Commandoen kan føres af ham i Egenskab af Statsraad <lb/>
+og Chef for Marine-Departementet, uden fast Ansættelse i nogen bestemt <lb/>
+af Officiers-Klasserne. Det maa jo staae Hans Majestæt frit for, ved <lb/>
+Iværksættelsen af den omhandlede Forening af Civil- og Militair-Styrelsen <lb/>
+at fastsætte, at den Statsraad og Chef for Marine-Departementet, <lb/>
+til hvem Hans Majestæt maatte behage at overdrage Commandoen, <hi rend="underline">skal</hi>
+                  <lb/>
+                  <hi rend="underline">saalænge han fungerer i denne dobbelte Egenskab</hi>, tillige betragtes som <lb/>
+activ Søofficier, med Plads foranfor alle øvrige Officierer i Etaten. <lb/>
+Den høistbefalende Søofficier vil med en saadan Bestemmelse altid staae <lb/>
+paa sin Plads, og om han enten udtraadte af Kongens Raad, eller hvis <lb/>
+Hans Majestæt muligviis skulde finde det hensigtsmæssigt af en eller <lb/>
+anden Grund at ophæve Foreningen af Civil og Militair-Administrationen, <lb/>
+vilde det undgaaes at nogen overcomplet Officier fandtes i Marinens <lb/>
+høieste Klasse. Derimod vilde det kun være ret og billigt, at reservere <lb/>
+den Departementschef der tillige var Søofficier, Ret til, naar han <lb/>
+afgik fra hiin høiere Stilling, igjen at indtræde i Etaten paa det <lb/>
+Sted og i den Klasse, hvor han efter sin Stilling ved Udtrædelsen af <lb/>
+Marinen, vilde have kommet til at staae ved Avancement efter hans  <lb/>
+Anciennetet. Ved min Udnævnelse til Statsraad behagede Hans Majestæt <lb/>
+Kongen naadigst at forbeholde mig denne Ret; og ligesom jeg føler mig <lb/>
+overbeviist om at Departementschefen i Tilfælde af at han overtager <lb/>
+Commandoen, vil paa denne Maade komme til at staae i den rigtigste og <lb/>
+kraftigste Stilling til Officierscorpset, saaledes vil jeg for mit eget <lb/>
+Vedkommende underdanigst anmode Hans Majestæt om kun med dette <lb/>
+Forbehold at overdrage mig Commandoen, forsaavidt Hans Majestæt fremdeles <lb/>
+skulde ville i saa Henseende vedblive sin naadigst tilkjendegivne  <lb/>
+Bestemmelse.</p>
+               <p xml:id="p8">	Med Hensyn hertil troer jeg imidlertid endnu at burde bemærke, at <lb/>
+de Forretninger der ere underlagte Marine-Departementet, have tiltaget <lb/>
+i særdeles høi Grad, ikke alene til Følge af den Udvikling som den <lb/>
+egentlig maritime Virksomhed har faaet, men ogsaa fordi de øvrige <lb/>
+Grene af den offentlige Virksomhed der bestyres af bemeldte Departement <lb/>
+have faaet en videre og mere omfattende Virkekreds, eftersom den <lb/>
+nationale Velstand, og hvad dermed staaer i Forbindelse er gaaet fremad. <lb/>
+Bestyrelsen af Fyrvæsenet, Havnevæsenet, Lodsvæsenet, Navigationsvæsenet <lb/>
+m.m. er af en ganske anden Betydenhed nu end forhen, og er for <lb/>
+en stor Deel af den Beskaffenhed, at Departementschefen ikke godt kan <lb/>
+undgaae, paa Grund af den praktiske Kundskab til Søvæsenet som oftere <lb/>
+i disse Sager paakræves, at tage mere Deel i deres Behandling i Detailerne <lb/>
+end ønskeligt før hans Tid i andre Retninger. Jeg betvivler ikke <lb/>
+at en Mand med større Lethed til at arbeide end jeg er i Besiddelse <lb/>
+af, jo vilde uden Vanskelighed kunne bestride baade disse Forretninger, <lb/>
+og det Tillæg, som Overtagelsen af Marine-Commandoen vilde medføre; <lb/>
+men jeg bør ikke skjule, at det har kostet mig megen Anstrængelse,  <lb/>
+nogenledes at tilfredsstille Forretningernes Krav paa mig, alene som <lb/>
+Chef for Marine-Departementet; og jeg er derfor ikke uden Tvivl om <lb/>
+mine Evner til at bestride det Tillæg i Forretninger som Commandoen <lb/>
+vilde paalægge mig, ligesom ei heller om hvorvidt jeg som Commandochef <lb/>
+vilde komme til at modsvare Hans Majestæts Forvæntninger. Idet <lb/>
+jeg har troet det at være Pligt for mig aabent og ligefrem at  <lb/>
+fremstille denne Side af Sagen, og at yttre, hvad der, som Følge af <lb/>
+disse Betragtninger, ikke kan forundre Deres Excellence, at jeg for <lb/>
+mit personlige Vedkommende høiligen skulde ønske at Hans Majestæt maatte <lb/>
+finde det foreneligt med sine Hensigter, naadigst at fritage mig <lb/>
+for at overtage Marine-Commandoen, bør jeg dog selvfølgelig paa samme <lb/>
+Tid tilføie, at jeg, om Hans Majestæt ikke skulde tage Hensyn til hvad <lb/>
+her er anført, er lige saa villig som pligtig til at overtage og udføre <lb/>
+det Hverv Hans Majestæt har tænkt at overdrage mig, saa godt og <lb/>
+saa virksomt som mine Evner tillade, indtil Hans Majestæt maatte finde <lb/>
+Tiden at være inde til at remplacere mine aftagende Kræfter med bedre <lb/>
+og Yngre, og hvilke det er mig en Glæde at være overtydet om at Hans <lb/>
+Majestæt ikke vil søge forgjæves inden Marinens Officierscorps.</p>
+               <p xml:id="p9">	Den anden Foranstaltning som Deres Excellence har meddeelt mig <lb/>
+at Hans Majestæt har paatænkt, er Udnævnelsen af Capitain Valeur til <lb/>
+Contre-Admiral og Stationschef paa Horten. Med fuld Anerkjendelse af <lb/>
+Capitain Valeurs Dygtighed som Sø-Officier i Almindelighed og som <lb/>
+Skibschef i Særdeleshed, kan jeg ikke troe at Hans Majestæt vilde <lb/>
+ramme Marinens Bedste ved en Udnævnelse, hvorved flere erkjendt dygtige <lb/>
+ældre Officierer vilde blive forbigaaede af en saa meget yngre <lb/>
+Mand. Foruden Commandeur-Capitaine Bendz, paa hvem jeg veed at Deres <lb/>
+Excellence allerede specielt har henledet Hans Majestæts naadigste <lb/>
+Opmærksomhed, skal jeg blandt Capitaine Valeurs ældre Formænd nævne <lb/>
+Capitainerne Hesselberg og Konow. Capitain Hesselberg søger vistnok <lb/>
+det Christianssandske Sø- og Landkrigscommissair-Embede, og vilde  <lb/>
+udentvivl finde sig lige saa lykkelig ved efter lang og hæderlig Tjeneste <lb/>
+at erholde dette Embede, som Embedet vilde være tjent med hans  <lb/>
+Ansættelse; men da han ikke er blevet indstillet af Regjeringen, er det <lb/>
+vistnok mere end tvivlsomt om Hans Majestæt finder de af Marine- <lb/>
+Departementet for dets Indstilling af Capitain Hesselberg anførte Grunde <lb/>
+tilfredsstillende, og jeg maa derfor betragte Capitain Hesselberg som <lb/>
+staaende i Marinen, og som en af dem der vilde blive forbigaaede, hvis <lb/>
+Capitain Valeur udnævntes til Admiral. Jeg har den Tro, Deres Excellence <lb/>
+at Marinen ikke vilde finde denne Forbigaaelse retfærdig, og at <lb/>
+den ikke vilde virke heldbringende. Capitain Hesselberg har ved Siden <lb/>
+af en Personlighed, som han stedse har vidst at gjøre baade agtet og  <lb/>
+elsket, ved alle Leiligheder hvor Commandoer have været ham anbetroede, <lb/>
+viist baade Sømands-Dygtighed og sand militair Takt, og han vilde endnu, <lb/>
+derom er jeg overbeviist, blive en Escadre-Chef, som den norske <lb/>
+Marine vilde have Ære af. – Capitain Konow er ikke alene i Besiddelse <lb/>
+af flere Kundskaber end almindelig er Tilfældet, men forener et klart <lb/>
+Hoved til at anvende dem, og har som praktisk Officier stedse været <lb/>
+anseet som en dygtig Mand og udmærket Navigateur. Han har nu i de sidste <lb/>
+5 Aar været Chef for Hortens Værft, og ligesom jeg med Overbeviisning  <lb/>
+kan, og af simpel Pligtfølelse bør, saaledes er det en Trang for <lb/>
+mig af varm Erkjendtlighed for hans virksomme og utrættelige Hjælp, at <lb/>
+erklære, at han i denne Embedsstilling har havt en væsentlig Deel i hvad <lb/>
+Godt der er udrettet. Om han under saadanne Forhold skulde see sig  <lb/>
+forbigaaet af en ham nu underordnet Arbeidschef, og sat i subordinerede <lb/>
+Forhold til ham paa det Sted hvor han saa længe har ledet Virksomheden, <lb/>
+maatte upaatvivlelig alt Mod og Kraft nedbrydes hos ham.</p>
+               <p xml:id="p10">	Jeg skal til Slutning tillade mig nogle almindelige Bemærkninger. <lb/>
+Jo mindre vigtig og indgribende den Virkekreds er, som anvises den <lb/>
+vordende Admiral, desto haardere vil et stort Spring nedad blive følt <lb/>
+af de dygtige Mænd der maatte findes blandt dem der forbigaaes. Men <lb/>
+den eneste virkelig active Virksomhed for en Admiral i den norske  <lb/>
+Marine i Fredstid, ligger til Bestyrelsen af Marinens Commando og General- <lb/>
+Adjutants Forretningerne. Gaae nu disse over til Departementchefen, <lb/>
+saa er der – maaskee eet kort og sjeldent indtræffende Øvelsestogt  <lb/>
+fraregnet, hvor en norsk Admiral af Hans Majestæt naadigst anfortroedes <lb/>
+Commandoen – kun lidet tilbage at gjøre for Admiralen. De ham af Hans <lb/>
+Majestæt tiltænkte Forretninger som Stationschef paa Horten, ville <lb/>
+under de nærværende Forhold blive af mindre Vigtighed, saafremt han ikke <lb/>
+skulde gaae over til at blive den egentlige Værftchef, og i denne sidste <lb/>
+Egenskab troer jeg i Sandhed at Capitain Konow er Capitain Valeur <lb/>
+overlegen. Det er derhos at bemærke at mange Ting paa Horten endnu ikke <lb/>
+passe rigtig til de Fordringer der vilde gjøres til en Admiral og  <lb/>
+Stationschef. Standsningen i Bebyggelsesplanen for Staden, har medført <lb/>
+at der aldeles ikke findes passende Locale til nogen Slags  <lb/>
+Repræsentation. Mangelen paa Boliger for Officierer er endog saa stor, at  <lb/>
+Commandoen ikke har kunnet beordre nogen subaltern Officier derhen til <lb/>
+Corps- og Compagnie-Tjenestens Udførelse. Corpscheferne have ingen <lb/>
+Adjutanter, Compagnie-Cheferne ingen Compagnie-Officierer. Dette er <lb/>
+beklageligt! men saa er det. Og det Værste er at der neppe er Udsigt til <lb/>
+nogen snar Forandring. Udnævnelsen af en forholdsmæssig ung Officier <lb/>
+til Admiral, med Forbigaaelse af flere dygtige Mænd blandt hans Formænd, <lb/>
+vilde maaskee ikke indvirke saa nedslaaende dersom den Virksomheds- <lb/>
+Sphære der var forbunden med Posten kunde siges at fordre en yngre <lb/>
+Mands stærkere Kræfter, t.Ex. om det gjaldt at overtage Marine- <lb/>
+Commandoen. Men selv i dette Tilfælde troer jeg at de i det Foregaaende <lb/>
+nævnte ældre Officierer ikke kunde lades ude af Betragtning, og at <lb/>
+Spørgsmaalet da snarere maatte blive om til hvem af dem Commandoen burde <lb/>
+overdrages end til at lade dem forbigaae ved en yngre Officier.</p>
+               <p xml:id="p11">	Ingen kan mere end jeg erkjende Nødvendigheden af at de høist <lb/>
+uheldige Avancements-Forholde i Marinen maa undergaae Forandring, og <lb/>
+det Ønskelige i at fjerne de Hindringer der staae iveien for at Dygtighed <lb/>
+og Kraft i Tide kan komme frem. Hvorvidt disse Hindringer skulle <lb/>
+kunne fjernes paa en Maade der, til samme Tid den er virksom, ikke <lb/>
+fremkalder Splid og Misnøie, beroer efter min Formening deels paa <lb/>
+Bevilgninger ved næste Storthing, deels paa Anvendelsen af andre Midler <lb/>
+til at skaffe den fornødne Afgang i Etaten. Maatte de fornødne Midler <lb/>
+blive baade tilstaaede og vel benyttede.</p>
+               <p xml:id="p12">	Naar Deres Excellence gjør Hans Majestæt bekjendt med de her <lb/>
+fremsatte Bemærkninger, tillader jeg mig at bede Dem om tillige at  <lb/>
+frembære for Hans Majestæt Udtrykket baade af min inderlige Taknemmelighed <lb/>
+for Hans Majestæts naadigste Tillid til mig, og Løftet om min uafladelige <lb/>
+Bestræbelse efter fremdeles at fortjene den.</p>
+               <closer>
+                  <salute>Med sand Høiagtelse har jeg den Ære at tegne mig <lb/>
+                            Deres Excellences <lb/>
+    									ærbødigste</salute>
+                  <lb/>
+                  <signed>
+                     <persName>O.W.Erichsen</persName>.</signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de October 1853</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

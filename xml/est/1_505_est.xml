@@ -1,0 +1,104 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>505</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 24. juni 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 24. juni 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Efter den deri ommeldte velgjørende Regn, fik vi i den forløbne <lb/>
+Uge en lige velgjørende vederqvægende Sommervarme, som desværre  <lb/>
+allerede i Gaar afløstes af en kjølig Luft, som i Dag (sædvanlig Aarets <lb/>
+skjønneste Dag) endog er bleven kold.</p>
+               <p xml:id="p3">	Statsraad Vogt afrejste i Gaar til Sandefjord, hvorefter kun <lb/>
+Statsraaderne Petersen, Erichsen, Bretteville og Lange ere tilbage, <lb/>
+som med mig ere 5, det mindste Antal Medlemmer, hvormed et Statsraad <lb/>
+kan holdes. Imidlertid har Statsraad Riddervold givet mig Haab om at <lb/>
+ville i enkelte Forfaldstilfælde tiltræde Statsraadet, for længst <lb/>
+muelig at undgaae at tilkalde nogen overordentlig Statsraad.  <lb/>
+Statsraad Petersen bestyrer nu Finantsdepartementet ved Siden af  <lb/>
+Justitsdepartementet, Statsraad Bretteville Revisionsdepartementet  <lb/>
+tilligemed Indredepartementet, Statsraad Erichsen Armeedepartementet  <lb/>
+tilligemed Marinedepartementet og Statsraad Lange Kirkedepartementet.</p>
+               <p xml:id="p4">	Den meget vidtløftige Thranitersag har været under Behandling <lb/>
+i Høiesteret i 5 à 6 Uger, hvoraf Advocat Dunker har anvendt 5  <lb/>
+samfulde Dage til de Tiltaltes Forsvar. Dunker som uden Tvivl for god <lb/>
+Betaling frivillig har overtaget dette Defensorat, har ikke sparet <lb/>
+paa smigrende og truende Ord, for at vinde eller skræmme Høiesteret, <lb/>
+en Procedure som kan virke paa et Auditorium og paa Avislæsere; men <lb/>
+neppe paa Retten.</p>
+               <p xml:id="p5">	Voteringen i Høiesteret begyndte Fredag Morgen og da jeg efter <lb/>
+Statsraadet i Gaar Eftermiddag forlod Byen, ventede man Dommen  <lb/>
+afsagt inden i Gaar Aften, hvilket ikke kan være skeet, da jeg ingen <lb/>
+Efterretning har modtaget.</p>
+               <p xml:id="p6">	Beklageligviis har Justitiarius Lassen ikke kunnet deltage i <lb/>
+Sagens Behandling, fordi han som Sorenskriver havde administreret <lb/>
+et dermed i Forbindelse staaende Forhør. Assessor Bruuns Votum skal <lb/>
+være fortræffeligt.</p>
+               <p xml:id="p7">	Statsraad Bretteville modtog ved Hans Excellence Due per Tellegraf <lb/>
+i Gaar Deres Majestæts naadige Befaling om et norsk Dampskibs <lb/>
+Møde i Gothenborg den 20de Juli for at hidføre Deres Kongelige  <lb/>
+Høiheder Kronprindsen og Kronprindsessen og svarede strax at Dampskibet <lb/>
+Lindesnæs vil blive sendt. Jeg imødeseer med Dagens Post Deres Majestæts <lb/>
+nærmere Befalinger.</p>
+               <p xml:id="p8">	Imidlertid tillader jeg mig underdanigst at bemærke at min <lb/>
+Svigerdatter, Hendes Kongelige Høihed Kronprindssessens Hofmesterinde <lb/>
+for Tiden er fraværende i Tydskland, med Permission til August Maaneds <lb/>
+Udgang; men da hun vilde beklage om hun ikke skulde kunne være <lb/>
+til Tjeneste under Hendes Kongelige Høiheds Ophold her i Landet,  <lb/>
+tillader jeg mig i den Henseende at udbede mig naadigst Befaling  <lb/>
+meddelt <hi rend="underline">per Tellegraf</hi>, for betimelig at kunne rappellere hende. <lb/>
+                  <hi rend="underline">Paa samme Maade</hi>  vover jeg at udbede mig naadigst Befaling om <lb/>
+min Søn Ernst maatte kunne forberede det Nødvendige for Hendes <lb/>
+Kongelige Høiheds sejour i Sandefjord, som han vil gjøre sig en Ære og <lb/>
+Fornøjelse af at udrette, i Mangel af hvilket, han vil retournere  <lb/>
+til Kjøbenhavn næstkommende Løverdag. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 24de Juni 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

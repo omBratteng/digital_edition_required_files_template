@@ -1,0 +1,138 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>527</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. januar 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. januar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 17de denne Maaned, <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+24de, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p xml:id="p2">	I Anledning af en Yttring i denne Deres Majestæts naadige <lb/>
+Skrivelse, beder jeg mig naadigst tilladt, <hi rend="underline">til min Undskyldning</hi>, at  <lb/>
+berigtige en Misforstaaelse, som i Sandhed er langt fra mine Tanker.</p>
+               <p xml:id="p3">	Ingen er mere end jeg overbeviist om, at det er ved Guds Naade, <lb/>
+ikke ved nogen fremmed Magts Naade, at Deres Majestæt indehaver de <lb/>
+forenede Rigers Throner og denne Adkomst er den bedste og sikkreste <lb/>
+af Alle.</p>
+               <p xml:id="p4">	Naade og Garantie ere ikke for mig synonyme Ord. Naaden kommer <lb/>
+fra den Almægtige, alle Kongers Konge; Garantie er et Menneskeverk.</p>
+               <p xml:id="p5">	Mit eneste Formaal for mine underdanige Rapporter af 3die og <lb/>
+17de denne Maaned var: at give Deres Majestæt en sandfærdig  <lb/>
+Fremstilling af vore politiske Forholde til en Naboestat, saaledes som <lb/>
+jeg har opfatted dem. Jeg har omhyggelig søgt Sandheden og har som <lb/>
+Deres Majestæts troe og ærlige Tjener fremført den, som jeg formener <lb/>
+at have fundet den. I Sag var det piinlig, at yttre Anskuelser, som <lb/>
+Deres Majestæt ikke bifalder; i Form ønskede jeg at gjøre dem saa <lb/>
+lidet mishagelige som mulig, og om dette ikke har lykket mig, beklager <lb/>
+jeg det oprigtig og beder om naadig Overbærelse for min skrøbelige <lb/>
+Alderdom.</p>
+               <p xml:id="p6">	Statsraad Erichsen har omsider iværksat sit længe omtalte Forsæt, <lb/>
+at søge sig naadigst entlediget fra sit Statsraadsembede og sin <lb/>
+militaire Tjeneste, hvorom han har indgivet sin underdanige Ansøgning, <lb/>
+der vil blive Deres Majestæt underdanigst foredraget.</p>
+               <p xml:id="p7">	Han angiver som Grund herfor sine svækkede Kræfter og Evner, som <lb/>
+visselig er en Følge af en overdrevet Anstrængelse og Nidkjærhed i <lb/>
+hans vigtige Virkekreds og derhos Mangel af den Gave at kunne benytte <lb/>
+Underordnedes Hjælp, hvorved da alt, saavel vigtigt som smaat  <lb/>
+Administrations Arbeide udføres af ham alene, hvilket fortidlig har <lb/>
+fortæret hans Kræfter.</p>
+               <p xml:id="p8">	Regjeringens Medlemmer beklage oprigtig Statsraad Erichsens <lb/>
+Bortgang, da vi i ham erkjende en ligesaa retsindig som dygtig <lb/>
+Cammerad.</p>
+               <p xml:id="p9">	Jeg har forgjæves meddeelt ham min og øvrige Collegers Mening, <lb/>
+at han vurderer sin Arbeidsdygtighed for lavt; vort Ønske: at han vil <lb/>
+fortsætte en Virksomhed, hvori han unægtelig har virket med megen Held <lb/>
+for Marinens Udvikling, naar Hensyn tages til hvad han modtog og hvad <lb/>
+han efterlader. Det vilde neppe være passende, at lade Statsraad <lb/>
+Erichsen gaae tilbage i sin forrige militaire Stilling, som han har <lb/>
+forbeholdt sig, og hans ædle Character forbyder ham at modtage Ansættelse <lb/>
+i en høiere Classe, hvortil der snart kunde blive Anledning ved <lb/>
+Commandeur Capitaine Christies attraaede Afskeed, fordi han derved vilde <lb/>
+forhindre en ældre Cammerads Avancement.</p>
+               <p xml:id="p10">	Regjeringen finder sig da forpligtet til underdanigst at <lb/>
+indstille Statsraad Erichsens Ansøgning om Afskeed fra sin offentlige <lb/>
+Tjeneste, til Deres Majestæts naadige Indvilgelse, med en aarlig <lb/>
+Pension af 1500 Speciedaler. Vi have ikke troet at kunne underdanigst <lb/>
+foreslaae den høiere med Hensyn paa hans ikke lange Tjeneste Tid som <lb/>
+Statsraad nemlig 7 1/2 Aar og at vi ikke ganske dele hans egen  <lb/>
+Anskuelse om hans Utjenstdygtighed. Jeg tillader mig derhos underdanigst <lb/>
+at indstille: at Deres Majestæt ved Afskeden vil tilkjendegive ham <lb/>
+vel fortjent naadig Tilfredshed.</p>
+               <p xml:id="p11">	Da det saaledes mod Forventning endnu engang falder i min Lod at <lb/>
+gjøre underdanigst Indstilling til et Statsraads Embedes Besættelse <lb/>
+bragte jeg denne vigtige Gjenstand i sidste Statsraad under confidentiel <lb/>
+Overveielse, hvorved vi snart bleve enige om  1o at den ansættende <lb/>
+Chef for Marine Departementet bør være en Mand af Faget, altsaa <lb/>
+en Søeofficier, saa meget mere, som Commandoen dermed nu er forenet; <lb/>
+2o til at overdrages dette vigtige Embede eenstemmig underdanigst at <lb/>
+indstille Capitaine Hagerup.</p>
+               <p xml:id="p12">	Overbeviist om Capitaine Hagerups Dygtighed og Hæderlighed, havde <lb/>
+jeg dog i denne Begivenhed den Betænkelighed, at hans Forhold som <lb/>
+Storthingsrepresentant ved enkelte Leiligheder har forekommet mig <lb/>
+mindre paalidelig. Men denne min Betænkelighed er hævet af hans  <lb/>
+forrige Storthingscammerad Statsraad Lange, til hvis Skarpsindighed og <lb/>
+Loyalitet jeg har en ubegrændset Tillid og som med alle Regjeringens <lb/>
+øvrige Medlemmer anseer ham for Statsraad Erichsens bedste Efterfølger. <lb/>
+Naar hertil kommer, at Capitaine Hagerup formeentlig er den Eneste, <lb/>
+af vore Søeofficierer, som besidder den til Marine Departementets <lb/>
+Bestyrelse fornødne Dygtighed og at han har megen Indflydelse i <lb/>
+Storthinget, saa føler jeg mig forpligtet til underdanigst at indstille: <lb/>
+at Deres Majestæt naadigst vil udnævne ham til Statsraad Erichsens <lb/>
+Efterfølger, hvorom jeg bør modsee Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p13">	Jeg tillader mig underdanigst at vedlægge en underdanigst <lb/>
+Taksigelse fra Bestyrelsen af Selskabet for Huusarmes Understøttelse, <lb/>
+for Deres Majestæts Naadegave, 100 Speciedaler, – den 26de denne <lb/>
+Maaned og Redegjørelse for sammes Anvendelse.</p>
+               <p xml:id="p14">	Vi nyde fremdeles et behageligt og gavnligt Vinterveir med <lb/>
+ypperligt Slædeføre, hvorimod vi destoværre fremdeles have lidet Haab <lb/>
+om noget godt Sildefiske. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te Januar 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

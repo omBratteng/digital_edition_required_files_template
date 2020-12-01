@@ -1,0 +1,84 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>47</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. desember 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. desember 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Med underdanigst Henhold til min sidste underdanigste Rapport af <lb/>
+28de forrige Maaned giver jeg mig nu den Ære underdanigst at indberette, <lb/>
+at Høiesterets-Advocat Stang er redebon til med underdanigst <lb/>
+Taknemmelighed at modtage Deres Majestæts naadige Tilbud. Det glæder <lb/>
+mig meget at kunne gjøre denne underdanigste Indberetning, med den <lb/>
+Overbeviisning, at Deres Majestæts Statsraad og norske Regjering vil <lb/>
+i denne unge Mand faae en ligesaa retsindig som dygtig Medarbeider. <lb/>
+Stang har bedet mig nedlægge sin underdanigste Taknemmelighed for Deres <lb/>
+Majestæts Fødder for det ham i denne Begivenhed naadigst givne <lb/>
+Beviis paa Kongelig Naade og Tillid. Han har derhos bedet mig fremføre <lb/>
+sit underdanigste Ønske om, at det naadigst maatte behage Deres Majestæt <lb/>
+at afgive snarlig naadigst Beslutning om hans Udnævnelse, for <lb/>
+at han betimelig og paa lovlig Maade maa kunne skille sig fra sin <lb/>
+nærværende Virkekreds, og har i denne Anledning bemærket, at han i Mangel <lb/>
+af en tidligere naadigst Udnævnelse ikke vil kunne undgaae den <lb/>
+13de denne Maaned at anmelde sig til at plaidere en Deel nye Sager <lb/>
+for Høiesteret, som det derefter vilde falde ham vanskeligt at frasige <lb/>
+sig.</p>
+               <p xml:id="p2">	Jeg tager saameget mindre i Betænkning underdanigst at fremføre <lb/>
+dette Ønske, som jeg antager det stemmende med Deres Majestæts Egne <lb/>
+Anskuelse og som den nye Departements Chef's snarlige Udnævnelse i <lb/>
+flere Henseender er ønskelig. Jeg tillader mig underdanigst at henlede <lb/>
+Deres Majestæts naadige Opmærksomhed paa Høiesterets Advocat Dunkers <lb/>
+Slutnings Artikel om den sidste Rigsretssag, i den Constitutionelle <lb/>
+No 334, som afgaaer herfra med Dagsposten.</p>
+               <p xml:id="p3">	Den fugtige Atmosphære, den unaturlig milde Temperatur vedvarer, <lb/>
+medens Trangen til Vinter og Slædeføre er almindelig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste December 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

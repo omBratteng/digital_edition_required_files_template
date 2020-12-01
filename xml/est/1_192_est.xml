@@ -1,0 +1,341 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>192</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. mai 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. mai 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Senere har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 21de denne Maaned, hvorfor jeg nedlægger min underdanigste <lb/>
+Taksigelse.</p>
+               <p xml:id="p3">	Deres Majestæts naadigst meddeelte Anskuelse om de nu i Mode <lb/>
+komne saa kaldte Fricorpser, deler jeg fuldkommen. De ere et usselt <lb/>
+Efteraberie, som ikke fortjener Understøttelse.</p>
+               <p xml:id="p4">	Paa given Anledning meddeler jeg Hans Excellence Statsministeren <lb/>
+med Dagsposten en vidtløftig Forklaring over Regjeringens Indstilling <lb/>
+betræffende de i Morgenbladet mod Statsraad Riddervold fremførte <lb/>
+graverende Beskyldninger, hvormed jeg ikke vil tillade mig at trætte  <lb/>
+Deres Majestæt, men hvoraf jeg har overladt Hans Excellence underdanigst <lb/>
+at meddele hvad som maatte kunne have nogen Interesse for Deres Majestæt.</p>
+               <p xml:id="p5">	Uagtet begge de militaire Departementers Opgaver over Udgifterne <lb/>
+i Anledning af forrige Aars Udrustninger allerede erfares Statsministeren <lb/>
+tilsendte, troer jeg dog at burde underdanigst vedlægge disse mig <lb/>
+omsider tilkomne Opgaver, som dog for Marine Departementets Vedkommende <lb/>
+endnu ikke er fuldstændig. Armee-Departementet har brugt omtrent 25,000 <lb/>
+Spdl. mindre end paaregnet Marine Departementet derimod efter Statsraad <lb/>
+Erichsens Sigende en 10,000 Spdl. mere, saa at der af de bevilgede <lb/>
+260,000 Speciedaler sandsynlig vil blive tilovers omtrent 15,000  <lb/>
+Speciedaler.</p>
+               <p xml:id="p6">	Forinden jeg i Anledning af vedlagte fra Kammerherre Morgenstjerne <lb/>
+paa Christiania Polities Vegne har villet tillade mig nogen underdanigst <lb/>
+Indstilling, har jeg udbedet mig Baron Lagerheims Formening om den  <lb/>
+omnævnte Politiedirecteur i Kjøbenhavn, Conferentsraad Bræstrup, og da <lb/>
+Baronen samstemmer i det ham givne Vidnesbyrd, til hvem han siger sig <lb/>
+som Deres Majestæts Minister at staae i stor Forbindtlighed, tør jeg <lb/>
+tillade mig underdanigst at anbefale Politiedirecteuren i Kjøbenhavn, <lb/>
+Conferentsraad Bræstrup, til den Kongelige Naade, at blive udnævnt til <lb/>
+Ridder af Sanct Olafs Ordenen.</p>
+               <p xml:id="p7">	Medens vi, Gud skee Tak, saa godt som Intet mere høre til Cholera <lb/>
+her i Landet, hjemkom nylig et Skib fra Abeville til Mandal, hvis Capitaine <lb/>
+leed af den asiatiske Cholera. Skibet blev strax, under Iagttagelse  <lb/>
+af de anbefalede Forsigtighedsregler, lagt under Quarantaine for at <lb/>
+henføres til nærmeste Quarantainestation.</p>
+               <p xml:id="p8">	Vi have nu et velsignet varmt for Vegetationen meget gunstigt Veir, <lb/>
+som foranlediger mig til i Overmorgen at udflytte til Holgerslyst.</p>
+               <p xml:id="p9">	Efterretningerne fra Frankrige ere fremdeles høist bedrøvelige for <lb/>
+vor Trælast Export.</p>
+               <p xml:id="p10">	Statsraad Vogt vil i Overmorgen tiltræde sin Tjenstledighed og <lb/>
+Statsraad Sibbern overtage Finantsdepartementets Bestyrelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31 Mai 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 31. mai 1849</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <head type="sub3" rend="center" xml:id="h5">Opgave <lb/>
+over medgaaede Udgifter til Fregatten Freias og en Bataillon <lb/>
+Kanonchaluppers Togt i 1848 samt til Troppers Transport til og fra Skaane. <lb/>
+               </head>
+               <table xml:id="table1">
+                  <row>
+                     <cell>Efter Contobogen for 1848</cell>
+                     <cell> ...........................................</cell>
+                     <cell>  76,613 Spd. 10 1/2 </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> – Omdrags og Indtægtssum</cell>
+                     <cell> ..........................................</cell>
+                     <cell>
+                        <hi rend="underline"> 1,252  "  1/2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell/>
+                     <cell>75,361 Spd. 10 </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Efter Contobogen for 1849 . . . . .</cell>
+                     <cell>884 Sp. 118</cell>
+                     <cell> </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>– Omdrags- og Indtægtssum  . . .</cell>
+                     <cell>
+                        <hi rend="underline">  .327 "  28</hi>
+                     </cell>
+                     <cell>		557  "  90</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Efter Hortens Værfts Opgave af 23 Decbr 1848 <lb/>
+var endvidere medgaaet</cell>
+                     <cell>  . . . . . . . . . . . .</cell>
+                     <cell>  			8,119  "  56 1/2 </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Udskrivnings- og Transportudgifter for udskrevne <lb/>
+Mandskaber opføres med</cell>
+                     <cell>. . . . . . . . . . . . .</cell>
+                     <cell>  		7,618  "  60 </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Herved maa imidlertid bemærkes, at da vedkommende <lb/>
+Krigscommissairers og Indrulleringschefers <lb/>
+Regnskaber endnu ikke ere reviderede, ere <lb/>
+her omhandlede Udgifter ikke behørigen posterede. <lb/>
+                     </cell>
+                     <cell/>
+                     <cell>
+                        <hi rend="underline"> </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>				 Tilsammen</cell>
+                     <cell>	91,656 Spd. 96 1/2 </cell>
+                  </row>
+                  <lb/>
+               </table>
+               <p xml:id="p11">Hertil bliver endvidere at lægge: <lb/>
+               </p>
+               <list xml:id="list12">
+                  <label>a.	</label>
+                  <item>det Beløb, som Departementet for det Indre tilkommer refunderet
+    	for Udgifter ved Troppers Transport med Postvæsenets Dampskibe,
+    	i hvilken Henseende Opgave ventes fra bemeldte Departement.</item>
+                  <lb/>
+                  <label>b.	</label>
+                  <item>Omkostninger ved Reparation af de fra Fartøierne afleverede Sager,
+    	hvorom Opgave endnu ikke er modtaget.</item>
+               </list>
+               <p xml:id="p13">	Sluttelig bemærkes, at i fornævnte Opgave fra Hortens Værft ere <lb/>
+optagne 4400 Spd., der udgjøre den ved en Besigtelsescommission taxerede <lb/>
+Fortegnelse af de fra Fregatten Freia og en Bataillon Kanonchalupper <lb/>
+afleverede Sager, forsaavidt disse i de afholdte Besigtelsesforretninger <lb/>
+blive betegnede som mere eller mindre sledte, uden at de dog vare <lb/>
+ansatte til Reparation, hvilken Sum maaske vil komme til Afdrag i <lb/>
+Opgavens samlede Beløb.</p>
+               <closer>
+                  <dateline>Marine-Departementes Bogholdercontoir, <placeName>Christiania</placeName>
+                     <date>den 24 Mai 1849</date>.</dateline>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h6">
+                  <supplied resp="editor">Tillegg til rapport av 31. mai 1849</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h7">			  Opgave <lb/>
+over de Udgifter, som Udrustningen m.m. af det i forrige Aar til <lb/>
+Skaane beordrede norske Troppecorps har foranlediget. <lb/>
+               </head>
+               <table xml:id="table2">
+                  <row>
+                     <cell>1.	</cell>
+                     <cell>Ved Embarkeringen . . . . . . . . . . . . . . 		</cell>
+                     <cell>12,456 Spd. 113 1/2</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2.	</cell>
+                     <cell>Til Ekvipering for Officierer og Læger . . .  	</cell>
+                     <cell>1,020  "  – </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3.	</cell>
+                     <cell> "  Indkjøb af Tjenesteheste  . . . . . . . .  		</cell>
+                     <cell>1,469  "  60</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4.	</cell>
+                     <cell> "  Diætpenge . . . . . . . . . . . . . . . . 			</cell>
+                     <cell>14,720  "  71</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>5.	 </cell>
+                     <cell> "  Lønning, Lønningsforskjel, <lb/>
+    	  Qvartergodtgjørelse til Mandskaberne. . . 	</cell>
+                     <cell>19,673  "  37</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>6.	</cell>
+                     <cell>Ved Troppers Indrykning til Garnisonerne i de <lb/>
+    	  Udcommanderedes Sted. . . . . . . . . . .  		</cell>
+                     <cell>6,145  "  91 1/2</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>7.	</cell>
+                     <cell>Til Troppernes Forpleining i Skaane . . . . . 	</cell>
+                     <cell>33,643  "  114</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>8.	</cell>
+                     <cell> "  Arsenalsfornødenheder . . . . . . . . . . 		</cell>
+                     <cell>18,011  "  5 1/2</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>9.	</cell>
+                     <cell> "  Munderingsvæsenet . . . . . . . . . . . . 		</cell>
+                     <cell>10,000  "  – </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>10.	</cell>
+                     <cell> "  Sygevæsenet . . . . . . . . . . . . . . . 		</cell>
+                     <cell>10,619  "  60</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>11.	</cell>
+                     <cell> "  Godtgjørelse til Udrederne for Hesteholdet 	</cell>
+                     <cell>1.797  "  115</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>12.	</cell>
+                     <cell> "  Skydsudgifter . . . . . . . . . . . . . .  		</cell>
+                     <cell>2,973  "  49</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>13.	</cell>
+                     <cell> "  Understøttelse for hjemmeværende Familier  	</cell>
+                     <cell>2,203  "  73</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>14.	</cell>
+                     <cell> "  Tilfældige Udgifter . . . . . . . . . . .  		</cell>
+                     <cell>4,308  "  83</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>15.	</cell>
+                     <cell>hvortil kommer, som endnu kunne ventes at blive<lb/>
+    	  udbetalte til Istandsættelse af<lb/>
+    	  Sygerekvisitter og for Understøttelse til<lb/>
+    	  Familier. . . . . . . . . . . . . . . . 			</cell>
+                     <cell>
+                        <hi rend="underline">1,500  "  –  </hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>140,544 Spd.  32</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>	</cell>
+                     <cell>Til Bestridelse af foranførte Udgifter var <lb/>
+    	i Armee-Departementets Overslag opført. . 	</cell>
+                     <cell>
+                        <hi rend="underline">166,000  "  –  </hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>					  igjen	</cell>
+                     <cell>25,455 Spd.  88</cell>
+                  </row>
+                  <lb/>
+               </table>
+               <p xml:id="p14">	Hvilket Beløb vilde have medgaaet til Indkjøb af Trosheste, hvis <lb/>
+saadanne vare blevne anskaffede, da hertil i Overslaget var paaregnet <lb/>
+at skulle forbringes 24,700 Spd.</p>
+               <p xml:id="p15">	Den Summa, der af Storthinget blev bevilget til Udrustningen, <lb/>
+udgjorde for begge Etater tilsammen 260,000 Spdl. – <lb/>
+               </p>
+               <closer>
+                  <dateline>Armee-Departementets Bogholdercontoir; <placeName>Christiania</placeName>
+                     <date>den 24de Mai 1849</date>.</dateline>
+                  <signed>
+                     <persName>Jac. Vetlesen</persName>
+                     <lb/>
+    				Bureauchef.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

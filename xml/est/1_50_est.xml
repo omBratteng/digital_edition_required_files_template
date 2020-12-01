@@ -1,0 +1,148 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>50</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 22. desember 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 22. desember 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	Den 17de havde jeg den Fornøielse at introducere Hr Stang i <lb/>
+Statsraadet hvor han blev modtaget med umiskjendelig Tilfredshed.</p>
+               <p xml:id="p3">	Omskiftningen af de norske Statsraader i Stockholm og den deraf <lb/>
+for Vedkommende følgende Nødvendighed, at ophæve deres her havende <lb/>
+Huusholdning og etablere en ny i Stockholm for eet Aar, er naturligviis <lb/>
+altid forbunden med oeconomiske Vanskeligheder, som Vedkommende ønske <lb/>
+at kunne formindske ved betimelig Forberedelse og det er et saadant <lb/>
+Ønske, som foranlediger mig til allerede nu underdanigst at indhente <lb/>
+Deres Majestæts foreløbige naadige Befaling i Anledning af Statsraad <lb/>
+Schmidts til Foraaret forestaaende Omskiftning.</p>
+               <p xml:id="p4">	Saa længe Departementerne for det Indre og for Finantserne forenede <lb/>
+have været bestyrede af een Chef, har man erkjendt denne Departements- <lb/>
+Chefs Fraværelse saa vanskelig, at han har været fritaget for <lb/>
+at flytte til Stockholm; men denne Grund bortfalder nu, efter de benævnte <lb/>
+Departementers Adskillelse. Statsraad Vogt staaer saaledes for <lb/>
+Tour, til at afløse Statsraad Schmidt til Foraaret, hvilket ogsaa stemmer <lb/>
+med hans Ønske; men da det for ham er en Velfærdssag at kunne betimelig  <lb/>
+tage oeconomiske Forholdsregler for en længre Fraværelse, har <lb/>
+han bedet mig allerede nu dertil at udbede Deres Majestæts foreløbige <lb/>
+naadige Bifald.</p>
+               <p xml:id="p5">	Herved vil ogsaa en passende Virkekreds kunne anvises Statsraad <lb/>
+Schmidt ved hans Tilbagekomst. Med Undtagelse af Statsraad Holst, som <lb/>
+besidder Dygtighed for enhver Administrationsgreen, er Schmidt, efter <lb/>
+Holst's, Vogt's og min underdanigste Formening, den eneste, som kan <lb/>
+overtage Finants Departementet's Bestyrelse, og om Deres Majestæt naadigst <lb/>
+overdrager ham denne vigtige Function, bør han deri finde Erstatning  <lb/>
+for Savnet af Justits Departementet, som der ikke er Grund til at <lb/>
+fratage Statsraad Petersen, som der er paa sin rette Plads. Om disse <lb/>
+underdanigste Forslag naadigst bifaldes, vil vor Administration <lb/>
+formeentlig blive hensigtsmæssig ordnet.</p>
+               <p xml:id="p6">	I Anledning af Deres Majestæts engang paa Holgerslyst yttrede <lb/>
+Tilbøielighed til mulig at anlægge et Fasanerie, opfordrede jeg en <lb/>
+af Danmarks kyndigste Jægere, min Svoger, Hofjægermester, Baron Eggert <lb/>
+Løvenskiold, til dertil at give Veiledning, som herved underdanigst <lb/>
+fremsendes. Han har for sin Herre, Kongen af Danmark, anlagt et tamt <lb/>
+og et vildt Fasanerie, som allerede give Hans Majestæt behagelige <lb/>
+Fasanjagter, de første i Danmark. Jeg formoder, at Deres Majestæt herom <lb/>
+vil høre nogen kyndig svensk Mand af Faget og tør derefter modsee Deres <lb/>
+Majestæts naadige Befaling, som min Svoger vil gjøre sig en Ære og <lb/>
+Fornøielse af at opfylde.</p>
+               <p xml:id="p7">	Jeg tillader mig underdanigst at vedlægge et Blad af Drammens <lb/>
+Tidende og et af den Constitutionelle som ogsaa, efter Amtmand Bloms <lb/>
+Ønske, underdanigst at fremsende af ham forfattede agronomiske Tabeller, <lb/>
+der vidne om Kyndighed og en overordentlig Flid. Deslige statistiske <lb/>
+Tabeller ere imidlertid i Almindelighed mere baserede paa Probabilitets <lb/>
+Beregninger, end paa de virkelige Forholde.</p>
+               <p xml:id="p8">	Det har været mig saa paafaldende, at jeg troer underdanigst at <lb/>
+burde nævne det for Deres Majestæt, i en Skrivelse fra den preussiske <lb/>
+Minister i Stockholm til den herværende preussiske Consul at bemærke, <lb/>
+at hiin, den 12te denne Maaned, endnu ikke havde Kundskab om Deres <lb/>
+Majestæts naadige Resolution af 29de November i Anledning af  <lb/>
+Rigsretsdommen, som han da først herfra havde modtaget.</p>
+               <p xml:id="p9">	Den Velvillie, hvormed mit Forslag om at yde vore nødlidende svenske <lb/>
+Landsmænd Hjelp, er bleven modtaget her, har foranlediget mig til <lb/>
+at opfordre til lignende Hjelp i enkelte Byer i Riget, hvor jeg har  <lb/>
+antaget, at dertil fornødne Evner findes. Vor pecuniaire Hjelp kan ikke <lb/>
+være betydelig, men jeg erindrer Høistsalig Kongens Sætning: "les <lb/>
+petits cadeaux font les bons amis." <lb/>
+Vi have nu et mildt Vinter Veir med godt Slædeføre.</p>
+               <p xml:id="p10">	Da disse underdanigste Linier vil indløbe første Juledag, tillader <lb/>
+jeg mig at nedlægge mine underdanigste Ønsker om en glædelig Juul for <lb/>
+Deres Majestæt og den Høikongelige Familie.</p>
+               <p xml:id="p11">	Efterat Ovenstaaende var skrevet, har jeg idag morges havt den Ære <lb/>
+at modtage Deres Majestæts naadige Skrivelse af 18de denne Maaned. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22 December 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 22. desember 1845.</supplied>
+               </head>
+               <p xml:id="p12">	Deres Majestæt havde den Naade at tillade mig at oversende en <lb/>
+Afskrift af de af mig beregnede agronomiske Tabeller over Norge. Jeg <lb/>
+har underdanigst tilladt mig at vedføie en Tabel over Agerlandets <lb/>
+hypsographiske Fordeling, med hvis Hjelp, sammenholdt med Kortet, <lb/>
+man kan giøre sig en Idé om Landets Configuration.</p>
+               <p xml:id="p13">	I det jeg underdanigst tillader mig at fremsende disse Tabeller, <lb/>
+maa jeg bede om Deres Majestæts tilgivelse fordi de først nu fremkommer; <lb/>
+men Grunden er, at min Afskriver, midt i Arbeidet, faldt i <lb/>
+en langvarig Sygdom.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Drammen</placeName>
+                     <date>d. 16 Decbr.<lb/>
+    1845</date>.</dateline>
+                  <lb/>
+                  <salute>Underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>G.P.Blom</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

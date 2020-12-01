@@ -1,0 +1,73 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>45</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 24. november 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 24. november 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Ved denne Post har jeg Intet at indberette.</p>
+               <p xml:id="p3">	Jeg tillader mig underdanigst at vedlægge et Nummer af Bratsberg <lb/>
+Amts Tidende, og som et Curiosum et Nummer af et under Navn af "den <lb/>
+Ministerielle" her udgivet nyt Dagblad. Af det Førstnævnte vil Deres <lb/>
+Majestæt naadigst see, hvorledes Rigsretssagen behandles i et Provindsblad. <lb/>
+Den Ministerielle udgives af en Cavallerie Lieutenant Omsted som <lb/>
+skal være en ordentlig, tjenestenidkjær Officier og velmenende Mand, <lb/>
+men i hvis Hoved desværre en Skrue er løs. Dette kan dog ikke forhindre <lb/>
+ham fra at gjøre rigtig Rede for Harald Haarfagers illustre <lb/>
+Afkom.</p>
+               <p xml:id="p4">	De fortræffelig skrevne Artikler i den Constitutionelle om <lb/>
+Rigsrets Sagen mod Statsraad Vogt ere af Høiesterets Advocat Dunker.</p>
+               <p xml:id="p5">	Det eneste siden min sidste indtrufne Usædvanlige er, at vi have <lb/>
+havt en Dags Solskin hvorefter Atmosphæren igjen er bleven fugtig og <lb/>
+mørk. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 November 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

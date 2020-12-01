@@ -1,0 +1,139 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>379</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 24. april 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 24. april 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Hendes Kongelige Høihed Prindsesse Eugenies høie Fødselsfest agter <lb/>
+jeg i Aften at feire med en Thèe dansant<note xml:id="ftn16" place="foot" n="16"> Thé dansant.</note>  med Souper. Jeg tillader <lb/>
+mig at nedlægge min underdanige Lykønskning til Dagen med hjertelige <lb/>
+Ønsker for Hendes Kongelige Høiheds Helbred.</p>
+               <p xml:id="p3">	Naar jeg nu føler mig forpligtet til underdanigst at berøre det <lb/>
+Norske Kroningsanliggende, saa skeer det med det Ønske og Haab, at <lb/>
+denne min underdanige Henvendelse vi være Deres Majestæt mindre  <lb/>
+ubehagelig end en underdanigst Indstilling af den Norske Regjering.</p>
+               <p xml:id="p4">	Da Deres Majestæt, saaledes som underdanigst vedlagte Copie viser, <lb/>
+under 10de Marts forrige Aar naadigst har resolveret, at Kroningen <lb/>
+skal iværksættes i Løbet af dette Aars Sommer og der til de nødvendige <lb/>
+Forberedelser udfordres en Tid af 4 Maaneder, anseer Statsraad <lb/>
+Vogt sig, som Chef for Finants-Departementet, under hvis Ressort Sagen <lb/>
+henhører, forpligtet til i en underdanigst Regjerings Indstilling <lb/>
+at udbede Deres Majestæts naadige Bestemmelse om den Tid, da Kroningen, <lb/>
+overeensstemmende med høistnævnte Resolution skal foregaae. Regjeringens <lb/>
+øvrige Medlemmer formene det imidlertid passende ved mig <lb/>
+at indhente Deres Majestæts naadige Befaling herom, forinden man indgaaer <lb/>
+med nogen underdanigst Indstilling.</p>
+               <p xml:id="p5">	Hvor meget vi end maa beklage, at den af det Norske Folk længe <lb/>
+efterlængtede Kroningsact atter skal vorde udsat, maa vi dog erkjende, <lb/>
+at de senere indtrufne, den 10de Marts forrige Aar uforudseelige  <lb/>
+Omstændigheder synes at medføre uovervindelige Hindringer mod  <lb/>
+Kroningens Iværksættelse i Løbet af dette Aar.</p>
+               <p xml:id="p6">	Deres Majestæt, som efter en langvarig Sygdom nylig har overtaget <lb/>
+Regjeringen, vil formodentlig først ud paa Sommeren kunne foretage <lb/>
+den for Deres Majestæts Helbred nødvendige Badereise, hvorefter vi, <lb/>
+især med Hensyn paa den i Sverige forestaaende Rigsdag, neppe tør <lb/>
+haabe, at Deres Majestæt i Løbet af dette Aar vil kunne beære Norge <lb/>
+med Sin høie Nærværelse.</p>
+               <p xml:id="p7">	Naar vi saaledes under disse Omstændigheder ugjerne troe at burde <lb/>
+opoffre vort Ønske om Kroningens Iværksættelse dette Aar, maa vi <lb/>
+dog, med Hensyn paa Udtrykkene i Deres Majestæts naadige Resolution <lb/>
+af 10de Marts forrige Aar, ansee det nødvendigt, at Deres Majestæt <lb/>
+snart derom vil meddele Sin naadige Bestemmelse, og formener jeg det <lb/>
+underdanigst rigtigst, at dette skeer i et af de første i Stockholm <lb/>
+afholdende norske Statsraad. Jeg tør i denne Henseende udbede mig  <lb/>
+Deres Majestæts naadige Befaling snarlig, fordi Statsraad Vogt i Mangel <lb/>
+heraf frygter for at paadrage sig Ansvar ved at holde sig længere <lb/>
+passiv.</p>
+               <p xml:id="p8">	Endnu sidste Nat havde vi destoværre nogle Graders Frost, men den <lb/>
+egensindige Iis synes dog nu at maatte vige snart. I Statsraad  <lb/>
+Motzfeldts Tilstand er ingen Forandring indtraadt. Han synes for det  <lb/>
+meste bevidstløs.</p>
+               <p xml:id="p9">	Jeg formoder, at Kong Frederik den 7de nu har erfaret den <lb/>
+constitutionelle og parlamentariske Styrelses Behageligheder, og jeg <lb/>
+stadfæstes i denne Formodning ved at Hans Majestæt nylig har udnævnt <lb/>
+en Doctor Zimmerman til Professor i Statsvidenskab i Kiel, som har <lb/>
+skrevet en Bog "Ueber die Vortreflichkeit des constitutionellen <lb/>
+Systems in England, <hi rend="underline">dessen Unbrauchbarkeit in übrigen Europa</hi>". <lb/>
+Da Fyrst Metternich i Aaret 1834 yttrede for mig Frygt for Sverige <lb/>
+og Norge, beroligede jeg ham; men yttrede derhos min Frygt for <lb/>
+Dannemark, som det farligste Punkt i Norden fra det Øieblik Kong  <lb/>
+Frederik den 6te lukkede sine gode gamle Øine. Denne var ikke saa  <lb/>
+letsindig i at give efter, i at løbe fra det ene Extrem til det andet, <lb/>
+som Frederik den 7de, som allerede nu faaer den sædvanlige Løn for <lb/>
+sin letsindige Tjenstberedvillighed. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24 April 1853</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 24. april 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">C o p i e</hi>
+               </head>
+               <p xml:id="p10">	Under 31te December 1851 har den Norske Regjering underdanigst <lb/>
+indstillet:</p>
+               <quote>"At Deres Majestæt vilde behage at afgive naadigst Bestemmelse <lb/>
+    	"om, naar Deres Majestæters Kroning skal foregaae".</quote>
+               <lb/>
+               <p xml:id="p11">Herpaa har det under 10de Marts 1852 behaget Hs. Majestæt naadigst <lb/>
+at resolvere:</p>
+               <quote>"Efterat sidstafholdte Storthing har bevilget de til Deres <lb/>
+       "Majestæters Kroning fornødne Midler, havde Hs. Majt ønsket at <lb/>
+       "kunne lade denne Høitidelighed saasnart muligt foregaae, men <lb/>
+       "da Hs. Majestæt, paa Grund af Omstændighederne, ikke kan saa <lb/>
+       "betimelig som de fornødne Foranstaltninger til Istandsættelse <lb/>
+       "af Trondhjems Domkirke fordre, nu og for iaar bestemme, <lb/>
+       "naar Kroningen skulde kunne foregaae, saa vil Hans Majestæt <lb/>
+       "til næste Foraar tilkjendegive Tiden for Kroningens Afholdelse <lb/>
+    "i Løbet af Sommeren 1853."</quote>
+               <p xml:id="p12">					- - - - - - - - -</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

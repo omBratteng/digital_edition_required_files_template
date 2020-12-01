@@ -1,0 +1,95 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>328</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 12. oktober 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 12. oktober 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Strax efterat min sidste underdanigste Rapport af 9de var <lb/>
+afgaaet, erfarede jeg, af Grev Lewenhaupts Skrivelse af 6te med <lb/>
+Bekymring, at Deres Majestæters sidste Ophold paa Tullgarn var bleven <lb/>
+foruroliget og forkortet ved Hendes Kongelige Høihed Kronprindsessens <lb/>
+Upasselighed, men tillige, at denne allerede var overstaaet, for hvilken <lb/>
+beroligende Meddelelse jeg underdanigst takker. Jeg forener mine <lb/>
+hjertelige Bønner med Deres Majestæters for Hendes Kongelige Høiheds <lb/>
+lykkelige Forløsning i rette Tid, hvortil Forsynet er den bedste Hjelper; <lb/>
+men for saavidt Lægehjelp maatte behøves tillader jeg mig underdanigst <lb/>
+at bemærke, at Professor Faye nyder her almindelig Agtelse og <lb/>
+Tillid som udmærket Accoucheur.</p>
+               <p xml:id="p2">	Strax efter at Stockholms Posten sidste Fredag var afgaaet, modtog <lb/>
+jeg her Melding om, at den ondartede Lungsot har viist sig paa Hr <lb/>
+Treschows Gaard Yttersøe i Nærheden af Laurvig, hvor 3 nylig fra Holland <lb/>
+ankomne Køer, efter den derværende Dyrlæges Formening, ere døde <lb/>
+af denne Sygdom.</p>
+               <p xml:id="p3">	Jeg ilede strax til Byen, hvor i et overordentligt Statsraad <lb/>
+besluttedes, at Professor Conradi (i Mangel af en Veterinair, for <lb/>
+Professor Boeck er fraværende) med en Dyrlæge skulde begive sig til <lb/>
+Stedet, med Fuldmagt til at undersøge og efter Omstændighederne at  <lb/>
+beslutte, endog Besætningens Nedslagtning mod Erstatning, hvorom <lb/>
+underdanigst officiel Indberetning vil afgaae med Morgenposten.</p>
+               <p xml:id="p4">	De benævnte 2de Mænd afgik i Gaar Morges med Dampskib til <lb/>
+Laurvig.</p>
+               <p xml:id="p5">	Den i Anledning af den danske Finantsministers Anmodning af den <lb/>
+Norske Regjering afgivne Erklæring om Ophævelse af Quarantaine mod <lb/>
+Cholera, vil afgaae med Morgen Posten. Alle Stemmer erklære sig derfor, <lb/>
+med Undtagelse af min, som ikke kan veie stort mod alle de Andre. <lb/>
+Jeg kan ikke skjule min Mistanke om, at Attraa til at være Lord <lb/>
+Palmerston behagelig, har havt Indflydelse paa den danske Regjering; men <lb/>
+for mig er Sagen en Samvittighedssag og jeg har mere Agtelse for min <lb/>
+Samvittighed end for Lord Palmerston.</p>
+               <p xml:id="p6">	Jeg begav mig i Statsraadet Fredag upasselig og kom værre tilbage. <lb/>
+Igaar Eftermiddag føelte jeg mig bedre, men værre idag, som jeg <lb/>
+blot tillader mig at berøre til Undskyldning for denne underdanigste <lb/>
+Rapports Mangler, og at jeg tillader mig brevi manu at oversende <lb/>
+Politiemester Morgenstjernes Andragende for Politiefuldmægtig Lund, som <lb/>
+jeg tillader mig underdanigst at anbefale. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 12 October 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

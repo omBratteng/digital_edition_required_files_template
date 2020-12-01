@@ -1,0 +1,277 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>275</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 26. januar 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 26. januar 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p xml:id="p2">	Sidste Post bragte mig Deres Majestæts naadige Skrivelse af <lb/>
+20de, med det glædelige Haab om Deres Majestæts snarlige høie  <lb/>
+Nærværelse. Give Gud, at dette Haab maa kunne gaae i Opfyldelse! til <lb/>
+Lykke for dette Deres Majestæts Rige.</p>
+               <p xml:id="p3">	For at ikke Palaiets Opildning allerede nu skulle røbe Deres <lb/>
+Majestæts Ankomst, bad jeg strax General Wedel angive som Grund, at <lb/>
+Deres Majestæt naadigst havde tilladt mig at afbenytte Palaiet ved <lb/>
+større Tilfælde under Storthinget. I alle Fald udbeder jeg Deres <lb/>
+Majestæts naadige Tilladelse til at Processionen ved Storthingets <lb/>
+Aabning maa samles i Palaiet, da hertil ikke er tilstrækkelig Plads <lb/>
+i Stiftsgaarden.</p>
+               <p xml:id="p4">	Med sidste Post afgik Beretningen om Rigets Tilstand og <lb/>
+Budgettet. I sidstnævnte er foregaaet den ubetydelige Forandring, at <lb/>
+en paaregnet Udgiftspost 3000 Spdl. er strøget, hvorved der nu bliver <lb/>
+41,800 Spdl. til tilfældige Udgifter.</p>
+               <p xml:id="p5">	I sidste Uge ere mange Storthingssager expederede i Regjeringen, <lb/>
+blandt disse Værnepligts Loven og en ny Arve Lov. I denne udtaler <lb/>
+Justits Departementets Chef sig allene for den lige Arveret, <lb/>
+som alle Deres Majestæts øvrige Raadgivere underdanigst fraraade.</p>
+               <p xml:id="p6">	Til Begrundelse for denne vor Mening, vedlægges underdanigst <lb/>
+et Udtog af vor underdanigste Indstilling, som ogsaa viser, at de <lb/>
+Grunde, som kunde bestemme Deres Majestæt til at sanctionnere den <lb/>
+lige Arveret i Sverige, ikke existere i Norge, og at Deres Majestæt <lb/>
+saaledes uden nogensomhelst Inconsequents kan forkaste et Princip <lb/>
+her, som der er bifaldt.</p>
+               <p xml:id="p7">	For mit Vedkommende er jeg saa overbeviist om, den skadelige <lb/>
+Indflydelse, som den lige Arveret vilde udøve i dette Rige, blandt <lb/>
+Andet paa Jordudstykningen, til Bondestandens Ødelæggelse, at jeg <lb/>
+føler mig forpligtet til paa det indstændigste at bede Deres  <lb/>
+Majestæt at ville naadigst bifalde Pluralitetens underdanigste <lb/>
+Indstilling.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at henlede Deres Majestæts <lb/>
+naadige Opmærksomhed paa en Indstilling fra Justits Departementet,om <lb/>
+at foreslaae for Storthinget ved Lov 1.0 at ophæve alle nu gjældende <lb/>
+Bestemmelser, hvorved visse offentlige Stiftelser og i enkelte <lb/>
+Tilfælde Communerne er tillagt fri Proces-førelse; 2o at <lb/>
+                  <hi rend="underline">bemyndige Deres Majestæt</hi>  til at overdrage til Justits Departementets <lb/>
+Chef at meddele Bevilgning til frie Proces Førelse, som nu gives af <lb/>
+Regjeringen.</p>
+               <p xml:id="p9">	Jeg tør førudskikke den Bemærkning, at jeg især i den senere <lb/>
+Tid har funden nogle Departementschefer tilbøielige til at foreslaae <lb/>
+                  <hi rend="underline">formeentlige</hi>  Reformer, som idetmindste skal vise deres Virksomhed. <lb/>
+Statsraad Sørensen har denne Tilbøielighed i høi Grad og fra ham  <lb/>
+kommer dette Forslag, som af Petersen er adopteret.</p>
+               <p xml:id="p10">	Regjeringens Medlemmer ere i denne Begivenhed deelte i 3 <lb/>
+Fractioner. Vogt er enig med Petersen. Stang, Riddervold, Sylow,  <lb/>
+Bretteville tilltræde det andet, men ikke det første Indstillings <lb/>
+Punct. Erichsen er enig med mig om underdanigst at fraraade det <lb/>
+hele Lovforslag og hvad der især bevæger os til at holde fast herved <lb/>
+er en politisk Grund, som vi ikke i vort officielle Votum har <lb/>
+kunnet anføre. Selv de Lærde ere nemlig uenige om Begrændsningen <lb/>
+af Kongens Ret til at overdrage nogen Deel af Sin Myndighed til nogen <lb/>
+Anden end til Sin Regjering; men her skulde den overdrages til <lb/>
+Justits Departementets Chef! − Hertil at begjære Storthingets <lb/>
+Authorisation, var at erkjende dettes Ret til at blande sig i  <lb/>
+Regjeringens administrative Anliggender, som kunde have uberegnelige  <lb/>
+Følger, blandt Andet paa Storthingets tilsigtede Lensmandslov! −</p>
+               <p xml:id="p11">	Jeg tør antage, at de meget ulige Meninger i Regjeringen vil <lb/>
+bevæge Deres Majestæt til ikke at bifalde et Lovforslag, som i alle <lb/>
+Fald ikke er paakaldt af nogen Nødvendighed.</p>
+               <p xml:id="p12">	Efter en muligst nøiagtig Optælling havde Thranes <lb/>
+Arbeiderforeninger ved Udgangen af 1849: 2346 Medlemmer, ved Udgangen af <lb/>
+1850: 9866 Medlemmer. Mærkeligt er det derhos, at Christiania, <lb/>
+som ved Udgangen af 1849 havde 783 Arbeidere i Foreningen, ved Udgangen <lb/>
+af 1850 kun havde 342 i samme.</p>
+               <p xml:id="p13">	Jeg tillader mig at vedlægge det herværende Understøttelses <lb/>
+Selskabs underdanigste Taksigelse for Deres Majestæts Naadegave <lb/>
+100 Speciedaler til denne Dag.</p>
+               <p xml:id="p14">	Saavidt skrevet modtager jeg Grev Lewenhaupts Brev af 23de <lb/>
+som stadfæster mig i det glade Haab at skulle snart have den Lykke <lb/>
+at modtage Deres Majestæt her, hvorom jeg imidlertid giver mig <lb/>
+Udseende af at være aldeles uvidende.</p>
+               <p xml:id="p15">	Rygtet herom er kommet fra det Westinske Huus, hvorfra nogle <lb/>
+Herrer have annonceret sin Ankomst, som var mig saa meget mere <lb/>
+uventet, som jeg antog, at Deres Majestæt for et kort Ophold her <lb/>
+ikke vilde medtage Nogen af det Norske Statsraad i Stockholm, men <lb/>
+tækkes med det herværende complette Statsraad.</p>
+               <p xml:id="p16">	Storthinget vil formodentlig kunne være constitueret til Aabning <lb/>
+den 8de eller 10de Februar; men oppebier naturligviis Deres <lb/>
+Majestæts høie Befaling, naar jeg kan meddele denne.</p>
+               <p xml:id="p17">	Jeg kan ikke tilbageholde den underdanigste Bøn, at Deres <lb/>
+Majestæt vil gjøre korte Dagsreiser for at undgaae Mørket. Langt <lb/>
+bedre at udsætte Storthingets Aabning nogle Dage end at vide Deres <lb/>
+Majestæts dyrebare Person udsat for Fare. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 Januar 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 26. januar 1851</supplied>
+               </head>
+               <opener>Deres Excellence <lb/>
+Norges Riges Statholder.</opener>
+               <p xml:id="p18">	Idet undertegnede Bestyrelse vover at bede Deres Excellence <lb/>
+om for Hans Majestæt Kongen at frembringe vor underdanigste Tak <lb/>
+for den til Uddeling idag − Høistsalig Kong Carl Johans Fødselsdag  <lb/>
+− Selskabet skjænkede Gave af 100 Spdl., give vi os den Ære <lb/>
+at meddele, at denne kongelige Gave saaledes er anvendt</p>
+               <table rend="noBorder" xml:id="table1">
+                  <row>
+                     <cell>	a. </cell>
+                     <cell>Til Lemmerne paa Carl Johans Stiftelse . . . . . .</cell>
+                     <cell> 4 Spdl.</cell>
+                  </row>
+                  <row>
+                     <cell>    	b. </cell>
+                     <cell>Til Beklædning af 37 Børn. . . . . . . . . . . .</cell>
+                     <cell>  42  " </cell>
+                  </row>
+                  <row>
+                     <cell>    	c. </cell>
+                     <cell>Til Brænde for 31 deels Familier og deels <lb/>
+    	  eenlige trængende Personer . . . . .</cell>
+                     <cell>  54  " </cell>
+                  </row>
+                  <lb/>
+               </table>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName> i Bestyrelsen for "Understøttelsesselskabet for <lb/>
+    	  Huusarme" <date>den 26de Januar 1851</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Amalie Lindboe</persName>.  <persName>Hedvig Mariboe</persName>.  <persName>Henriette Wegner</persName>. <persName>Emilie Blich</persName>. <lb/>
+                     <persName>H. Krog</persName> [p.t. Formand] <lb/>
+                     <persName>A.Thangen</persName>.  <persName>J.A.Stabel</persName>. <persName>Julie Wedel-Jarlsberg</persName>. <lb/>
+                     <persName>Peter Schreiner</persName>
+                     <persName>D.N. Barth</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h4">
+                  <supplied resp="editor">Tillegg til rapport av 26. januar 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h5">Utdrag af Norske Regeringens <lb/>
+ledamøters Indstilling rørande <lb/>
+"den lige Arveret" med undantag <lb/>
+af Chefen før Justits- <lb/>
+Departementet som "udtaler sig <lb/>
+allene for den lige Arveret".</head>
+               <p xml:id="p19">	Vi tillade os at yttre Tvivl om Rigtigheden af den Forudsætning, <lb/>
+hvorpaa Forslaget om at indføre den lige Arveret sees at være <lb/>
+bygget, att Forskjellen mellem Mand og Quinde i att tage Arv <lb/>
+blot grunder sig paa manglende Agtelse for Quindekjønnet, og  <lb/>
+Mandkjønnets Benyttelse af sin Styrke til at gjøre sig Fordeel paa det <lb/>
+svagere Kjøns Bekostning, hvoraf da sluttes, at saasom Agtelsen for <lb/>
+Quindekjønnet er steget med Oplysningen, Sædernes Formildelse og <lb/>
+den stærkere Retsfølelse, saa bør og nu Kjønsuligheden i Arvetag <lb/>
+forsvinde. Vi ere derimod tilbøielige til at antage, at naar Quinden <lb/>
+erholder en mindre Lod end Manden, har dette sin Grund i deres <lb/>
+forskjellige Betydning i Samfundet, den større Evne og Kraft for <lb/>
+Manden til Formuens hensigtsmæssige Anvendelse, Kjønnenes forskjellige  <lb/>
+Kald, Sysler og Behov, og den Manden paahvilende Forsørgelsespligt. <lb/>
+En saa vigtig Forandring i det Bestaaende, som i Henseende <lb/>
+til Arvetag i nedstigende Linie at sætte Kjønsforskjellen ud af <lb/>
+Betragtning, vilde vi i al Fald ikke kunne foreslaae, med mindre <lb/>
+vi holdt os fast overbeviste om, at Forandringen vilde være stemmende <lb/>
+med den almindelige Mening i dette Æmne, men en saadan Overbeviisning <lb/>
+nære vi ikke. Vi troe derfor, at der i denne Sag bør <lb/>
+fremgaaes med megen Warsomhed, hvilket skeer, naar man heller end <lb/>
+at bygge paa en ganske ny Grundvold, bibeholder det Bestaaende som <lb/>
+det i Regelen gjældende, men dog derhos giver Wedkommende en nu <lb/>
+savnet Adgang til at anordne Fravigelse fra Regelen, hvor det maatte <lb/>
+attraaes, hvilket vil kunne opnaaes ved at indrømme dem, der efterlade <lb/>
+Livsarvinger, Ret til ved Testament at bestemme, at ved Delingen <lb/>
+af deres Efterladenskaber Kjønsforskjellen enten i det Hele eller <lb/>
+for en Deel skal sættes ud af Betragtning. Under saadan  <lb/>
+Testationsfrihed vil man erhverve Data, efter hvilke Folkestemningen med <lb/>
+større Sikkerhed vil kunne bedømmes, end efter de Data, der nu kunne <lb/>
+være forhaanden. I en for faa Aar siden i Danmark udkommen Arvelov <lb/>
+er i denne Punkt Arveanliggendet paa den her af os foreslaaede <lb/>
+Maade ordnet, hvorimod i Sverige for ikke længe siden den lige  <lb/>
+Arveret, forsaavidt den ei allerede var gjældende, er bleven indført, <lb/>
+ogsaa hvad Livsarvinger angaaer, men hvorved er at mærke, at der <lb/>
+sammesteds gjaldt deels ulige deels lige Arveret, efter Arveladerens <lb/>
+Stand eller de Eiendommes Beskaffenhed, der gik i Arv, saa at, da <lb/>
+Eenhed maatte ansees ønskelig, enten Ligheden maatte i visse Fald <lb/>
+overgaae til Ulighed, eller Uligheden i andre Fald overgaae til Lighed, <lb/>
+maatte der ved den nye Lov herimellem gjøres et Valg til Forandring.  <lb/>
+En saadan Fornødenhed er hos os ei tilstæde.</p>
+               <p xml:id="p20">	I Henseende til andre Arvinger end Livsarvinger antage vi <lb/>
+derimod, at Kjønsforskjellen ikke bør komme i Betragtning, og vil da <lb/>
+ogsaa i dette Punkt Regelen blive den samme som den, der under  <lb/>
+Sagens Behandling i Danmark for faa Aar siden sammesteds er bleven <lb/>
+anseet for den rette. Herved kan den Bemærkning gjøres, at de <lb/>
+Betragtninger, der nys ovenfor ere anstillede som talende mod Kjønnenes <lb/>
+Lighed i Arvetag, ere, som Følge af deres Almindelighed, anvendelige <lb/>
+paa al Slags Arv. Men ikke engang i vor nærværende Lovgivning, <lb/>
+hvor den ulige Arveret er gjældende, er dens Princip strængt <lb/>
+gjennemført ved Arvegangens Ordning i de opstigende Linier og i  <lb/>
+Sidelinerne, saasom det nemlig ifølge denne er tilfældigt om den  <lb/>
+lineale Indflydelse af samme skal finde Sted eller ikke, og naar <lb/>
+Arvegangen i de opstigende Linier og i Sidelinierne iøvrigt ordnes <lb/>
+paa den følgerigtigere Maade, som er optaget i nærværende Forslag, <lb/>
+vilde i disse Linier den ulige Arveret, deels paa Grund af Mængden <lb/>
+af de Led, som her kunne komme i Betragtning i visse Tilfælde faae <lb/>
+en paafaldende Indflydelse og i Almindelighed en større end der for <lb/>
+Tiden er den indrømmet, deels i Anvendelsen lade til saa smaalige <lb/>
+og vidtløftige Beregninger, at Sagens Vigtighed ikke dertil staaer <lb/>
+i Forhold; − thi hvad der bestæmmes for andet Arvetag end Livsarvingers <lb/>
+har forholdsviis kun lidet at betyde, enten man seer hen til <lb/>
+Arvetilfældenes Mængde eller til Fordelningens Indvirkning i de <lb/>
+indtrufne Tilfælde. Ligesom desuden for Tiden børnløse Arveladeres <lb/>
+Rettighed til ved Testament at raade over deres Formue er ubegrændset, <lb/>
+om ikke efter Lov, saa dog i Følge den Undtagelse fra Lovens <lb/>
+Baand, som tilstedes ved kongelig Confirmation, saaledes foreslaaes <lb/>
+ogsaa ved nærværende Lov indrømmet en omtrentlig lignende  <lb/>
+Testationsfrihed, saa at Lovens Bestemmelser om Arvetag, hvor der ikke <lb/>
+er Livsarvinger, ogsaa fra denne Side ere af mindre Vigtighed. Vi <lb/>
+tillade os at tilføie, at Lovbogens 5 − 4 − 13 synes at vise en <lb/>
+Tilbøielighed fra Lovgiverens Side, til ikke i Arv at lægge Vægt <lb/>
+paa Kjønsforskjellen udenfor Deling mellem Livsarvinger, da det <lb/>
+i bemeldte Lovsted bestemmes, at om andre end Forældre eller <lb/>
+Oldforældre give og skjøde samtlige Sødskende Jord eller anden Gave, <lb/>
+og det ikke klarligen i Gavebrevet formældes, hvorledes det imellem <lb/>
+dem skal deles, saa bør det att lægges i Lodder, og Enhver bekomme <lb/>
+ligemeget, enten det er Mand eller Quinde. Det bør og lægges <lb/>
+Mærke til, at det er i den nedstigende Linie at Indførelse af <lb/>
+den lige Arveret har største Betænkelighed med Hensyn til dens <lb/>
+Virkning til at befordre Jordudstykningen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

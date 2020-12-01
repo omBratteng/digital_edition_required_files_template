@@ -1,0 +1,113 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>233</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. mai 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. mai 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	I Forbindelse med min underdanigste Rapport af 27de denne Maaned, <lb/>
+tillader jeg mig herved lige underdanigst at indberette, at der i det <lb/>
+til samme Dag berammede extraordinaire Statsraad, i en paa Deres  <lb/>
+Majestæts høie Vegne afgiven naadigst Resolution, efter Justits Departementets <lb/>
+Indstilling, eenstemmig blev besluttet, at Harro Harring skulde forvises  <lb/>
+Landet, og at denne Beslutning hvorom underdanigst Indberetning <lb/>
+med Dagens Post fremkommer, ufortøvet ved Justits Departementets  <lb/>
+Foranstaltning gjennem Politiet skulde bringes i Udøvelse.</p>
+               <p xml:id="p2">	Som Følge heraf blev bemeldte Harro Harring af Politiet Onsdag den <lb/>
+29de om Morgenen bragt om bord i Dampskibet Nordcap for, under  <lb/>
+Ledsagelse af Politiefuldmægtig Steen, at afsendes til Kjøbenhavn, hvorhen <lb/>
+Dampskibet afgik den 30te klokken 7 om Morgenen.</p>
+               <p xml:id="p3">	For om muligt at forebygge utidige Meningsyttringer blandt hans <lb/>
+neppe talrige Venner her, blev det derhos af Deres Majestæts Norske  <lb/>
+Regjering vedtaget, at Indstillingen og den derpaa afgivne Resolution in <lb/>
+extenso skulde indføres i Christiania-Posten, der Torsdagen den 30te <lb/>
+udgaves, og da den allerede var færdig fra Pressen den foregaaende Dags <lb/>
+Aften blev det foranstaltet, at Bladet udbragtes til Lyststedet  <lb/>
+Klingenberg, hvor man vidste, at en Deel af Harrings Tilhængere vare samlede.</p>
+               <p xml:id="p4">	Den samme Dag som Harring blev ført om bord, indfandt sig hos <lb/>
+Statsraad Sørenssen endeel her boende Tydskere, for at anholde om, at Afreisen <lb/>
+maatte blive udsat eller Angjeldende ialfald directe maatte blive ført <lb/>
+til England, hvilket af Departementets Chef blev afslaaet. Om  <lb/>
+Eftermiddagen ved Samlingen paa Klingenberg, hvor det Rygte var almindeligt, at <lb/>
+Harring fra Danmark skulde blive udleveret til Russland, hvilket vistnok <lb/>
+bidrog til en ophidset Stemning blant endeel af de Tilstedeværende, <lb/>
+der desuden manglede Bekjendtskab til Angjeldendes Virksomhed her i  <lb/>
+Landet. Forsamlingen endtes med Beslutning om, at der til den Norske  <lb/>
+Regjering skulde udfærdiges en saakaldet Protest, der fik 146 Underskrifter, <lb/>
+for en stor Deel af Tydskere og tildeels ubekjendte Personer. Imellem <lb/>
+9–10 Aften den 29de blev denne af en Person med talrigt Følge afgivet <lb/>
+i min Bolig i Byen med Anmodning til mit Huusfolk om at Document  <lb/>
+maatte blive mig overleveret ved min Ankomst paa følgende Dags Morgen, fra <lb/>
+mit tæt ved Staden beliggende Landsted. Protesten er af mig uden  <lb/>
+Ophold oversendt til Justits Departementet, som derefter vil have at  <lb/>
+iagttage det Fornødne. Efterat have afgivet Skrivelsen, begav Følget sig <lb/>
+til Bryggerne, og efterat have afsendt en Deputation for at sige Harring <lb/>
+Farvel og, som det hedder, for at aflevere 50 Speciedaler, som af hans <lb/>
+Velyndere var indsamlet paa Klingenberg, begav Forsamlingen sig et  <lb/>
+Stykke op ad Gaden og skiltes ad ganske fredeligt, ligesom der ikke vides, <lb/>
+at der under Demonstrationen er forefaldet den mindste Uorden. Klokken <lb/>
+8 Aften indfandt Politiemesteren sig ombord, hvor efter Harrings  <lb/>
+Forlangende Pas blev udfærdiget og viseret over Kjøbenhavn til England.</p>
+               <p xml:id="p5">	Da Dampskibet den paafølgende Morgen Klokken 7 afgik, var det en <lb/>
+Mængde Mennesker ved Bryggen, men der viiste sig da ikke ringeste Tegn <lb/>
+til Sympathie for den Angjeldende. Politiefuldmægtig Steen har erholdt <lb/>
+Ordre til i Kjøbenhavn at give Harring fri i Land, og at forklare Sagens <lb/>
+Omstændigheder for Deres Majestæts Minister der og for Politie  <lb/>
+Directeur Bræstrup, samt ved Landstigningen at udbetale ham 30 Speciedaler.</p>
+               <p xml:id="p6">	Fra den herværende nordamerikanske Vice-Consul fremkom ligeledes <lb/>
+en Protest mod Harrings Bortviisning paa Grund af, at denne i 1843 skal <lb/>
+have erhvervet Borgerret i de nordamerikanske Fristater; Justits  <lb/>
+Departementets Chef fandt imidlertid ingen Anledning til at indlade sig  <lb/>
+herpaa.</p>
+               <p xml:id="p7">	Jeg tillader mig underdanigst at tilføie, at Hans Excellence <lb/>
+Statholderen retournerede hertil fra Fossum igaar Aftes. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31te Mai 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

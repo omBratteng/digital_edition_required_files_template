@@ -1,0 +1,143 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>20</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 3. januar 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 3. januar 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de forrige Maaned.</p>
+               <p xml:id="p2">	Da vore offentlige Blade i disse Dage med megen Iver og <lb/>
+Lidenskabelighed omhandle en Regjerings Beslutning, hvilken de <lb/>
+characterisere som uconstitutionel og uklog, er det min Skyldighed  <lb/>
+underdanigst at meddele Deres Majestæt den paaankede Foranstaltning og <lb/>
+Anledningen dertil.</p>
+               <p xml:id="p3">	I den senere Tid ere i flere Avis-Artikler deels en nylig afdød <lb/>
+Statsraad paa den haanligste Maade bleven forklaret udygtig og ubrugbar <lb/>
+deels den samtlige Regjering erklæret for den svageste og meest <lb/>
+underkuede i Europa. I en Begivenhed, hvori Regjeringen, for at iagttage <lb/>
+Statscassens Tarv, fandt sig beføiet til at bevirke en Kongelig <lb/>
+Resolution mod en Amtscommune, optraadte en Avisskriver, som i en <lb/>
+fortsat Række af Artikler tog Parti for Amtscommunen mod Regjeringen, <lb/>
+critiserede den mod denne afgivne Kongelige Resolution, yttrede <lb/>
+sig meget bittert mod den Departements-Chef, som nærmest havde foranlediget <lb/>
+den, og derhos det Haab, at Odelsthinget derfor vilde drage <lb/>
+ham til Ansvar, det er, sætte ham under Tiltale for Rigsret. Flere <lb/>
+Gange er det hændt, at Gjenstande, som vare under Behandling i Statsraadet, <lb/>
+endog forinden de vare endelig afgjorte, ere blevne offentliggjorte, <lb/>
+og omraisonnerede i offentlige Blade. De fleste ommeldte Artikler <lb/>
+befandtes indførte i Bladet "den Constitutionelle", hvis Redacteur <lb/>
+var Copiist i Finants-Departementet, og man overbeviiste sig <lb/>
+snart om, at de vare forfattede af Personer, som ere ansatte i  <lb/>
+Regjeringens Departementer.</p>
+               <p xml:id="p4">	Ved at overveie disse Begivenheder, kom man til den Anskuelse: <lb/>
+at det var under Regjeringens Værdighed, at lade den vedvarende bagtale, <lb/>
+forhaane, trodse af de den nærmest undergivne Embedsmænd og <lb/>
+Betjente, at disses aabenbare og offentlige Opposition mod Regjeringen, <lb/>
+dens Anskuelser og Beslutninger, maatte indvirke lammende og skadeligt  <lb/>
+paa den offentlige Tjenestes, det er, Statsvellets Tarv, og <lb/>
+man troede sig derfor forpligtet til saavidt mulig omsider at sætte <lb/>
+en Grændse mod dette om sig gribende Onde. – Regjeringens Embedsmænd <lb/>
+og Betjente skulle være dens undergivne Medarbeidere til et og <lb/>
+samme Maal: Statens Vel; de ere forpligtede til at iværksætte hvad <lb/>
+der i denne Hensigt befales dem, uden Hensyn til, om de bifalde Befalingen <lb/>
+eller ikke, og man kan ikke indrømme dem Ret til derover at <lb/>
+yttre offentlig Misbilligelse, langt mindre til derimod at opponere <lb/>
+fordi Regjeringens Virksomhed derved vilde lammes og standses. Grundlovens <lb/>
+62de § nægter disse Embedsmænd Adgang til at vælges til <lb/>
+Storthings-Representanter uden Tvivl, fordi Grundloven betragter dem <lb/>
+som afhængige af Regjeringen. De ere imidlertid et ikke uvigtigt Hjul <lb/>
+i Statsstyrelses Maschinen, og en saa sammensat Maschine taaler ikke <lb/>
+end det mindste Hjuls Standsning mindre Modstand, uden tidligt eller <lb/>
+seent at standse eller gaae i Stykker. Fra denne Synspunkt er i ældre  <lb/>
+constitutionelle Stater den Regel fastsat, at Regjeringens nærmeste <lb/>
+undergivne Embedsmænd, som ikke have constitutionel Ansvarlighed, <lb/>
+ingenlunde have Tilladelse til offentlig at misbillige Regjeringen, <lb/>
+mindre at opponere mod den, og Regjeringen vilde have handlet i sin <lb/>
+gode Ret, om den nu havde etableret samme Regel hos os. Da det imidlertid <lb/>
+er forbunden med Ulemper strax at overgaae fra en Yderlighed <lb/>
+til en anden, saa har man indskrænket sig til 1o at lade samtlige <lb/>
+Departements-Embedsmænd og Betjente mundtlig tilkjendegive, at om <lb/>
+herefter nogen af dem maatte tillade sig offentlig at omskrive Regjeringen, <lb/>
+dens Medlemmer eller dens Beslutninger, paa <hi rend="underline">en saadan Maade</hi>
+                  <lb/>
+                  <hi rend="underline">eller i en saadan Form</hi>, som i de før citerede Avis-Artikler, maa han <lb/>
+vente at blive forafskediget; 2o at tilkjendegive ommeldte Copiist, <lb/>
+Redacteur af Bladet "Den Constitutionelle", at om han oftere lader <lb/>
+indføre Artikler, som nysnævnte, vil han blive forafskediget.</p>
+               <p xml:id="p5">	Man har saaledes ikke formeent Departements Embedsmændene (hvad <lb/>
+der dog formeentlig burde være dem formeent) offentlig at yttre sig <lb/>
+endog misbilligende om Regjeringen og dens Beslutninger, men man har <lb/>
+fordret, at saadant skal skee paa en human Maade i en anstændig Tone, <lb/>
+og det er over denne billige, moderate Fordring, som man nu beklager <lb/>
+sig. Det er denne Betingelse, hvormed Avisskriverne finde sig saa besværede! <lb/>
+Den Constitutionelles Redacteur sat mere Priis paa sin Avis <lb/>
+end paa sin Copistpost, hvorfor han paa Grund af den ham som Avis-Redacteur <lb/>
+foreskrevne Betingelse begjærde sin Afsked, hvorved Intet <lb/>
+er tabt, da han var ubrugbar, endog som Copiist.</p>
+               <p xml:id="p6">	I øvrigt tillader jeg mig underdanigst at bemærke, at den ommældte <lb/>
+Foranstaltning ikke er truffet i Følge en Regjerings Beslutning; <lb/>
+men efter Aftale imellem Regjeringens Medlemmer, som mundtlig  <lb/>
+tilkjendegivet Vedkommende af Departementernes Expeditions Secretairer.</p>
+               <p xml:id="p7">	Om den Norske Regjering for 10 Aar tilbage havde anvendt den nu <lb/>
+tagne Bestemmelse mod daværende Fuldmægtig i Revisions Departementet, <lb/>
+nuværende Redacteur af Morgenbladet, Stabell, vilde denne, dengang, <lb/>
+fattige Mand, uden Tvivl have holdt sig samme efterrettelig. I <lb/>
+det Sted taalte Regjeringen taus og taalmodig denne Persons daglige <lb/>
+Uforskammetheder, indtil han derved er bleven uafhængig og har creeret <lb/>
+sin Avis "Morgenbladet" til en offentlig Autoritet. Saadan Taalmodighed, <lb/>
+for ikke at sige Svaghed, er ikke alene i sine Følger skadelig,  <lb/>
+men ridicul, og det er ikke let, pludselig at hæve sig du <lb/>
+ridicule – au sublime.</p>
+               <p xml:id="p8">	I Anledning af Statsraad Schouboes dødelige Afgang tillader jeg <lb/>
+mig underdanigst at yttre, at jeg under nærværende Omstændigheder <lb/>
+anseer det heldigt, at det i Grundlovens 12te § som minimum bestemte <lb/>
+Antal Statsraader er tilbage, saa man ikke behøver at forhaste sig <lb/>
+        med et nyt Valg, men kan give sig god Tid til at træffe det bedste. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3 Januar 1845</date>.</dateline>
+                  <lb/>
+Til Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

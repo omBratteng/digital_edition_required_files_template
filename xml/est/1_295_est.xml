@@ -1,0 +1,85 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>295</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. mai 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1"> Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p xml:id="p2">	Det har lykket den bekjendte Skandinav og Demagog Ploug i <lb/>
+Kjøbenhavn at aftvinge vort Studenter Samfund en Indbydelse til danske <lb/>
+og svenske Studenter, i hvis Følge en 300 af disse vil indfinde sig <lb/>
+her Pintseaften den 7de Junii. Dette Besøg er et nyt Beviis paa den <lb/>
+Uro og Bevægelighed, som i vor Tid sætter saa mange Mennesker i <lb/>
+Bevægelse! Indbyderne have Intet Andet at byde deres Gjæster end <lb/>
+en velvillig Modtagelse; men disse Gjæster tiltrænge og vil fordre <lb/>
+mere, til Gjengjæld for hvad Christian den 8de og Private ødslede <lb/>
+paa Norske Studenter under deres Besøg i Kjøbenhavn. Omstændighederne <lb/>
+her ere imidlertid meget forskjellige. Christian den 8de disponerede  <lb/>
+over Statscassen som sin egen og den danske Hovedstad's Sværmerier <lb/>
+for Skandinavismen findes ikke her: det vil være mig kjært, om <lb/>
+Deres Majestæt naadigst vil bifalde mit i mit sidste fremsatte <lb/>
+underdanigste Ønske om at besøge Fossum i de Dage Besøget vil indtræffe.</p>
+               <p xml:id="p3">	I Henseende til en Regjerings Indstilling om at foreslaae for <lb/>
+Storthinget ved en ny Lov at berøve Lyse Klosters Gods Rettigheder, <lb/>
+som dets Eiere af en foregaaende Rigets Konge have erhvervet for <lb/>
+                  <hi rend="underline">Betaling</hi>, det er <hi rend="underline">at bryde denne Konges Ord og Løfte</hi>, – tillader jeg mig <lb/>
+underdanigst at referere til mit i Protocollen indførte Votum. Om jeg <lb/>
+end kunde finde den foreslaaede Lov retfærdig, maatte jeg dog, i Henhold <lb/>
+til mine foregaaende underdanige Yttringer, underdanigst fraraade <lb/>
+nu at forøge Storthingets Forhandlinger ved et ubetydeligt Lovforslag <lb/>
+om Forandring af Forholde, som have existeret upaaankede i Secler.</p>
+               <p xml:id="p4">	Storthinget har, foranlediget af Ueland og Stabell, besluttet <lb/>
+at de nu gjældende Told Tariffer skulle blive i Kraft til 1ste  <lb/>
+September, hvorved de indbilde sig at have sikkret sig imod en tidligere <lb/>
+Opløsning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11 Mai 1851 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

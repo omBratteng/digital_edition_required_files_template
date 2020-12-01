@@ -1,0 +1,111 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>440</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 2. april 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 2. april 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 26de forrige Maaned.</p>
+               <p xml:id="p2">	Den gjennem Armee Commandoen givne Instruction til Commandanterne <lb/>
+i de Fæstninger, til hvis Havne, ifølge Neutralitets Erklæringen, <lb/>
+de krigførende Magters Krigsskibe skulle have uhindret Adgang, har <lb/>
+foranlediget en Uro i Storthinget, som jeg finder mig forpligtet til <lb/>
+underdanigst at andrage for Deres Majestæt.</p>
+               <p xml:id="p3">	Man finder nemlig den Bestemmelse i Instructionen, hvorefter <lb/>
+Commandanterne ikke maa tilstede flere end 4 fremmede Krigsskibe paa <lb/>
+een Tid Adgang til Havnen, saa afvigende fra Deres Majestæts af de <lb/>
+fremmede Magters anerkjendte Neutralitets-Erklæring, hvorefter saadan <lb/>
+Adgang er indrømmet uden nogensomhelst Indskrænkning af Skibsantal, <lb/>
+– at den lettelig kan og sandsynlig vil foranledige alvorlige Conflicter, <lb/>
+der kunde forstyrre den af Deres Majestæt for de forenede Riger <lb/>
+viselig bestemte og høit paaskjønnede neutrale Stilling.</p>
+               <p xml:id="p4">	Det vare mig naadigst tilladt, ved et Exempel at oplyse denne <lb/>
+Anskuelse. En fremmed Escadre, bestaaende af 12 Krigsskibe, søger <lb/>
+Christiansands Havn. Dens Chef advares af Lodserne om, at kun 4 Skibe <lb/>
+kunne tilstedes Adgang til Havnen; men denne, – støttende sig til den <lb/>
+af Hans Majestæts Regjering anerkjendte Neutralitets Erklæring, anseer <lb/>
+sig berettiget til at indløbe i Havnen med sine 12 Skibe, hvilket <lb/>
+Commandanten ifølge sin Instruction maa afværge ved skarpe Skud, <lb/>
+som den fremmede Chef gjengjælder og – Conflicten er der! Neutraliteten  <lb/>
+er brudt! ikke af den fremmede Escadre Chef, men af den norske <lb/>
+Commandant, som handler efter en militair Befaling, der ikke har Hjemmel <lb/>
+i Deres Majestæts Neutralitets Erklæring.</p>
+               <p xml:id="p5">	Jeg tillader mig underdanigst uforbeholden at yttre, at Deres <lb/>
+Majestæts Norske Regjering deler Anskuelsen om de fordærvelige Følger, <lb/>
+som den omnævnte Bestemmelse kan foranledige, om den ikke er bleven <lb/>
+anerkjendt af vedkommende fremmede Magter og deres Escadrechefer derom <lb/>
+instruerede; men den har troet at kunne antage dette, og har derved <lb/>
+føelt sig beroliget. Dette er ikke Tilfældet i Storthinget, hvori <lb/>
+der har været Tale om, i en underdanigst Adresse, at bede Deres Majestæt <lb/>
+om at bortfjerne den Neutraliteten formeentlig truende Fare, – <lb/>
+og igaar gjorde Lehnsmand Ueland i Storthinget, inden lukkede Døre, <lb/>
+Forslag om, med Hjemmel af Grundlovens § 75 litr. h, at kalde begge <lb/>
+militaire Høistbefalende for Storthingets Skranke, for at affordre <lb/>
+dem Oplysninger; men Præsidenten Harbitz standsede den tilsigtede <lb/>
+Discussion som han udsatte til imorgen. Jeg tør haabe at Uelands <lb/>
+Proposition ikke vil vinde Pluralitet, saa meget mindre, som man ikke er <lb/>
+uvidende om, at jeg idag i denne Begivenhed henvender mig til Deres <lb/>
+Majestæt.</p>
+               <p xml:id="p6">	Regjeringen har hidindtil ingen Anledning til i denne Begivenhed <lb/>
+at henvende sig til Deres Majestæt; men det er efter dens Ønske, <lb/>
+at jeg underdanigst udbeder Deres Majestæts naadige Instruction om, <lb/>
+hvorledes vi maa kunne berolige Storthinget og derved afværge forargelige <lb/>
+Optrin.</p>
+               <p xml:id="p7">	Al Tvivl og Uro vil naturligviis bortfalde, om den Commandanterne <lb/>
+givne Instruction er bleven meddeelt de Magter, som have anerkjendt  <lb/>
+Deres Majestæts Neutralitet, af disse anerkjendt og deres <lb/>
+Escadrechefer overeenstemmende hermed instruerede.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at vedlægge min Læge, Professor <lb/>
+Holst's Forsvar for Fængselssystemet i Celler, i Anledning af dets <lb/>
+Ophævelse i Frankrige, just nu, da vi have begyndt dermed.</p>
+               <p xml:id="p9">	Statsraad Motzfeldt er den 1ste dennes, efter flere Aars <lb/>
+Svagelighed, afgaaet ved Døden i sit 77de Aar. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2den April 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <publisher>[PUBLISHER]</publisher>
+      </publicationStmt>
+      <notesStmt/>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote/>
+        <handNote/>
+      </handNotes>
+    <creation><idNo>365</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 14. november 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_annotations"/></textClass></profileDesc>
+    <revisionDesc>
+      <change>
+      </change>
+      <change>
+      </change>
+    </revisionDesc>
+  <encodingDesc><classDecl><taxonomy xml:id="cat_genre"><category xml:id="cg_poem"><catDesc>Poem</catDesc></category><category xml:id="cg_letter"><catDesc>Letter</catDesc></category><category xml:id="cg_childrensliterature"><catDesc>Children's literature</catDesc></category><category xml:id="cg_diary"><catDesc>Diary</catDesc></category><category xml:id="cg_nonfiction"><catDesc>Non-fiction</catDesc></category><category xml:id="cg_prose"><catDesc>Prose</catDesc></category><category xml:id="cg_drama"><catDesc>Drama</catDesc></category></taxonomy><taxonomy xml:id="cat_editorial"><category xml:id="ce_readingtext"><catDesc>Reading text</catDesc></category><category xml:id="ce_introduction"><catDesc>Introduction</catDesc></category><category xml:id="ce_titlepage"><catDesc>Title Page</catDesc></category><category xml:id="ce_annotations"><catDesc>Annotations</catDesc></category><category xml:id="ce_basetext"><catDesc>Base text</catDesc></category><category xml:id="ce_version"><catDesc>Version</catDesc></category><category xml:id="ce_manuscript"><catDesc>Manuscript</catDesc></category></taxonomy></classDecl></encodingDesc></teiHeader>
+  <text>
+    <body xml:space="preserve">
+	  <div type="comment">
+	  </div>
+	  <div type="notes">
+	  </div>
+    </body>
+  </text>
+</TEI>

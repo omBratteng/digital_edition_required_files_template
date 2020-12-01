@@ -1,0 +1,72 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>514</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. november 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. november 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p xml:id="p2">	I følge en igaar hertil indløben Tellegraph-Depeche er en fransk <lb/>
+Orlogs Dampcorvet totalt forliist ved Skibets Udløb fra Christiansand, <lb/>
+formeentlig ved Lodsens Malconduite. Mandskabet er bjerget og <lb/>
+afsendt med et andet Skib "Ajax". De nærmere Detailler om denne  <lb/>
+ulykkelige Begivenhed ere mig endnu ikke bekjendte, men skulle senere <lb/>
+blive meddeelte, naar det paabegyndte Forhør er sluttet. Marine- <lb/>
+Departementet har meddeelt den herværende franske Consul Underretning <lb/>
+herom.</p>
+               <p xml:id="p3">	Igaar feirede jeg Hendes Majestæt Enke Dronningens høie Fødselsdag <lb/>
+ved en større Middag paa 60 Couverts, for Herrer og Damer. Den <lb/>
+bivaanedes blandt andre af Medlemmerne af den Comité, der er anordnet, <lb/>
+for at overveie Spørgsmaalet om Dommes Execution, DHrr Professor <lb/>
+Dr Norstrøm, Heredshøvding Assessor Grev Sparre, Assessor  <lb/>
+Lagerstråle, Professor Schweigaard, Byfoged Thrap og Assessor Thomle. <lb/>
+Denne Comité har allerede begyndt sine Forhandlinger. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de November 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

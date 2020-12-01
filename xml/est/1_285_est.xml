@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>285</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. april 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. april 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Igaar frembragte en Storthings Deputation en underdanigst <lb/>
+Ansøgning til Deres Majestæt om Prolongation for det Første til Juli <lb/>
+Maaneds Udgang, hvorom jeg forbeholder mig underdanigst at yttre mig <lb/>
+nærmere, efterat den har været behandlet i Regjeringen.</p>
+               <p xml:id="p3">	Denne Storthingets Ansøgning er endnu skreven "<hi rend="underline">underdanigst</hi>", <lb/>
+uagtet Directeur Holsts Bemærkning om det Upassende for Storthinget <lb/>
+at bruge dette Udtryk; men Bemærkningen bortfaldt med almindelig <lb/>
+Latter, efterat Schweigaard havde spurgt, om det maatte ansees mere <lb/>
+passende at Storthinget tilskrev Kongen <hi rend="underline">venskabeligst</hi>.</p>
+               <p xml:id="p4">	For Foreningen med Sverige tiltaltes Kongen:<hi rend="underline">Allernaadigst</hi>! <lb/>
+og underskreves <hi rend="underline">Allerunderdanigst</hi>  som endnu brugelig i Sverige og <lb/>
+Danmark, − hvilket efter Foreningen blev reduceret til <hi rend="underline">Naadigst</hi>  og <lb/>
+                  <hi rend="underline">underdanigst</hi>, som Høistsalig Kongen formodentlig taalte i Mangel af <lb/>
+Bekjendtskab med Sproget. Nu udtrykker efter vore Demagogers Formening <lb/>
+underdanigst allerede for megen Ärbødighed for Kongen!</p>
+               <p xml:id="p5">	Som man seer af Avis Referaterne have Schweigaard, Lange, <lb/>
+Holmboe, især den sidstnævnte, talt særdeles godt i Adresse Sagen, <lb/>
+hvorunder han dog blev kaldt til Orden af Præsidenten, medens denne <lb/>
+ubemærket lod passere, at Klokker Ueland characteriserede et <lb/>
+Regjerings Foredrag som <hi rend="underline">Tøv</hi>!</p>
+               <p xml:id="p6">	Istedetfor at bemyndige Regjeringen til at optage et Statslaan, <lb/>
+besluttede Storthinget igaar, at anmode den om at lade undersøge, paa <lb/>
+hvilke Betingelser et Statslaan kan faaes og derom at gjøre Indberetning <lb/>
+til Storthinget. De høivise Herrer betænke ikke, at fremmede <lb/>
+Pengemænd ikke gjerne indlade sig paa en foreløbig Forespørgsel, som <lb/>
+ikke strax kan føre til noget Resultat, at medens de gjerne gaae i <lb/>
+Underhandling med Kongen af Norge, vil de aldeles Intet have med at <lb/>
+bestille med dets 106 Smaakonger. Den omanmodede Undersøgelse kan <lb/>
+saaledes kun foranledige Tidsspilde.</p>
+               <p xml:id="p7">	Af Postmesteren hersteds underrettet om, at sidste udenrigske <lb/>
+Post havde bragt en Mængde Breve fra Harro Harring, hvori kunde <lb/>
+skjønnes noget trykt indlagt, lykkedes det mig at komme i Besiddelse <lb/>
+af et Exemplar heraf, som underdanigst vedlægges, hvilket indholder <lb/>
+en tydsk Bombast for en skandinavisk Republik fra Nordcap til  <lb/>
+Eideren inclusive Finnland.</p>
+               <p xml:id="p8">	Politie Adjutant Steen, som arresterede Harring her og fulgte <lb/>
+ham til Kjøbenhavn, har forsikkret mig, at alle af ham opgivne ham <lb/>
+her tilhørende Effecter bleve ham medgivne. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te April 1851</date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>220</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 28. mars 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 28. mars 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Af Kammerherre Morgenstjerne har jeg ikke senere modtaget nogen <lb/>
+Rapport betræffende Harro Harring, men jeg veed, at han er beskjæftiget <lb/>
+med at søge de mulige Oplysninger.</p>
+               <p xml:id="p3">	Imidlertid vil jeg tillade mig underdanigst at meddele hvad jeg <lb/>
+ad en anden Vei har erfaret, hvorom jeg til Veiledning har underrettet <lb/>
+Morgenstjerne.</p>
+               <p xml:id="p4">	Harro Harring lever ikke saa isoleret som man troede, uagtet han <lb/>
+ikke modtager Besøg hos sig. Man har meddeelt mig, at han tilbragte <lb/>
+Søndag Eftermiddag og Aften den 17de denne Maaned hos en tydsk  <lb/>
+Musiklærer Neupert <hi rend="underline">i Selskab med Marcus Thrane</hi>, dennes Broder, Lieutenant <lb/>
+Thrane, og en Examinatus juris Poulsen, der er Skriver hos en Procurator <lb/>
+Gaarder, med hvem han ligeledes har Bekjendtskab og Omgang saavelsom <lb/>
+med Polakken, Boghandler Dzwankowsky og en Hr Bratlie. Naar man <lb/>
+kjender noget til disse Harrings Omgangsvenner, kan man paa ham anvende <lb/>
+Ordsproget: "Dîtes moi, qui Tu hantes et je Te dirai qui Tu es".</p>
+               <p xml:id="p5">	Harring har opsagt sit nu havende Logis med den Yttring, at han <lb/>
+vil reise bort med Dampskib, men komme tilbage, hvorefter han vil tage <lb/>
+Logis hos en tydsk Tømmermester Struch, som just nu er fraværende, af <lb/>
+hvem Morgenstjerne efter hans snarlige Tilbagekomst venter at kunne faae <lb/>
+Oplysninger.</p>
+               <p xml:id="p6">	Imidlertid har Harring med Morgenbladets Anbefaling indbuden til <lb/>
+Prænumeration paa følgende 2de Skrifter: </p>
+               <list xml:id="list7">
+                  <label>1o	</label>
+                  <item>Testamentet fra Amerika, originalt norsk Skuespil med Sang i 5 <lb/>
+    Acter. Scenen foregaaer i en norsk Kjøbstad.</item>
+                  <lb/>
+                  <label>2o	</label>
+                  <item>Republikansk Philosophie, bearbeidet efter hans "Paroles d'un <lb/>
+    homme", trykt i Stratzburg 1834.</item>
+               </list>
+               <lb/>
+               <p xml:id="p8">	M. Thrane har nylig i sit Arbeiderblad meddeelt sin Menighed at <lb/>
+han for Tiden ikke tiltrænger Penge Remisser, fordi han har modtaget <lb/>
+Understøttelse af formaaende Mænd. Da deslige her i Landet neppe ville <lb/>
+yde ham Understøttelse, formoder jeg, at den maa være kommen fra fremmede.</p>
+               <p xml:id="p9">	Det er vel et Par Aar siden jeg underdanigst udbad Commandeur <lb/>
+Korset af St Olafs Ordenen for Politie-Directeuren i Kjøbenhavn, <lb/>
+Conferentsraad Bræstrup, særdeles varmt anbefalet af Baron Lagerheim. Jeg <lb/>
+tillader mig nu at gjentage denne underdanige Bøn i en speciel Anledning, <lb/>
+den jeg har bedet den norske Statsminister at foredrage for Deres <lb/>
+Majestæt.</p>
+               <p xml:id="p10">	Med Morgenposten vil Regjeringens underdanigste Indstilling afgaae <lb/>
+om naadig Afsked for den 73-aarige Overlærer ved Bergens lærde Skole, <lb/>
+Lüder Sagen, med Behold af hans fulde Gage 900 Speciedaler som Pension. <lb/>
+Jeg tillader mig at andrage Regjeringens underdanigste Bøn om at Deres <lb/>
+Majestæt tilligemed Afskeden, naadigst vil forunde denne som  <lb/>
+Videnskabsmand, Digter og Embedsmand lige udmærkede Olding Ridderkorset af <lb/>
+St Olafs Ordenen.</p>
+               <p xml:id="p11">	Efterat forestaaende var skrevet havde jeg den Ære at modtage <lb/>
+Deres Majestæts naadige Skrivelse af 25de denne Maaned, hvis Indhold <lb/>
+skal blive nøiagtig iagttaget. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28 Marts 1850. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

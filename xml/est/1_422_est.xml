@@ -1,0 +1,505 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>422</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 29. desember 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 29. desember 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 18de denne Maaned.</p>
+               <p xml:id="p2">	En Coureer, som ankom hertil Natten mellem Juleaften og Juledag <lb/>
+bragte mig Deres Majestæts naadige Skrivelse af 21de med deri ommeldte <lb/>
+Note betræffende Deres Majestæts Nautralitets Erklæring, ligesom <lb/>
+jeg ved sidste Post fra den Norske Statsminister modtog Afskrift <lb/>
+af en den 14de denne Maaned for Deres Majestæt afholdt ministeriel <lb/>
+Protocol, hvilke Documenter jeg efter Deres Majestæts naadige Befaling <lb/>
+strax fortroeligen meddeelte Regjeringens Medlemmer.</p>
+               <p xml:id="p3">	En lignende Meddelelse havde jeg foregaaende givet af Deres <lb/>
+Majestæts naadige Skrivelse af 19de, hvis underdanige Besvarelse jeg har <lb/>
+maattet udsætte til i Dag, for at kunne afgive de befalede Oplysninger <lb/>
+og Resultatet af de derom endnu i Statsraadet i Gaar stedfundne <lb/>
+Discussioner.</p>
+               <p xml:id="p4">	I denne Hensigt tillader jeg mig underdanigst at vedlægge: <lb/>
+                  <list xml:id="list5">
+                     <label>1o </label>
+                     <item>Statsraad Erichsens Meddelelse om vor havende Søstyrke og hvad <lb/>
+der udfordres til dens Udrustning; – og </item>
+                     <lb/>
+                     <label>2o </label>
+                     <item>Statsraad Brettevilles Meddelelse om vore disponible Penge <lb/>
+Ressourcer.</item>
+                  </list>
+               </p>
+               <p xml:id="p6">	Den sidstnævnte viser, at der, naar man ikke vil indgribe <lb/>
+forstyrrende i Næringsveiene, for Tiden ikke kan paaregnes disponible mere <lb/>
+end 468,000 Species og med Tillæg af 175,000 Species, <hi rend="underline">bestemt for</hi>
+                  <lb/>
+                  <hi rend="underline">Hypothequebanken</hi>, men som denne ikke for det Første vil tiltrænge, <lb/>
+– i Alt 643,000 Speciedaler.</p>
+               <p xml:id="p7">	Jeg bør derhos underdanigst bemærke, at der neppe nogensinde tilforn <lb/>
+har været gjort saa store Fordringer i forskjellige Retninger <lb/>
+paa Statscassen, som ved Opgjørelsen af det næste Statsbudget.</p>
+               <p xml:id="p8">	Iøvrigt maa alle Medlemmer af Regjeringen erkjende, at denne ikke <lb/>
+har nogen <hi rend="underline">constitutionel Ret</hi>  til at disponere til andet end bestemt <lb/>
+Brug over de havende Midler, uden Storthingets Samtykke, hvilket ved <lb/>
+denne Leilighed forhaabentlig ikke vil behøves før dets nær forestaaende <lb/>
+Sammenkomst.</p>
+               <p xml:id="p9">	Vi erkjende, at det er en meget stor Mangel, at den norske Regjering <lb/>
+under Storthingets Fraværelse savner Midler for Øieblikkets overordentlige <lb/>
+Krav; men vi formene underdanigst, at dette Savn hensigtsmæssigere  <lb/>
+kan og bør afhjelpes, ved af ethvert Storthing at erhverve <lb/>
+et passende Creditiv paa Banken, end ved nu at søge at faae en Grundlovs <lb/>
+Bestemmelse, lig den svenske Regjeringsforms 63de § ; thi deels <lb/>
+ere deri ingen Summer bestemte, deels ere de sædvanlig bevilgede af  <lb/>
+den Beskaffenhed, at de, naar de skulde bestemmes forholdsmæssig for <lb/>
+Norge, vilde blive aldeles utilstrækkelige i norsk Mynt. Statsraad <lb/>
+Brettevilles vedlagte Note viser, at Storthinget kun een Gang, nemlig <lb/>
+1845 har nægtet et af Regjeringen begjært Creditiv og jeg formener <lb/>
+underdanigst, at et saadant bør fremtidig begjæres af ethvert Storthing.</p>
+               <p xml:id="p10">	Da disse Linier ere de sidste som jeg forinden dette Aars Slutning <lb/>
+vil have den Ære at tilstille Deres Majestæt, tillader jeg mig <lb/>
+at fremsende min underdanige og hjertelige Lykønskning til det nye <lb/>
+Aar.</p>
+               <p xml:id="p11">	Savnet af Snee og Slædeføre er her fremdeles meget følelige men <lb/>
+synes ved en just nu faldende Snee at ville blive afhjulpet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de December 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 29. desember 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Noter med Hensyn til en mulig forestaaende Søudrustning i Norge.</head>
+               <div>
+                  <p xml:id="p12">	Krigsfartøierne ere, med Undtagelse af 2de gamle Kanonskonnerter <lb/>
+og en gammel med Kuglekanoner armeret Kanonslup i Trondhjem, <lb/>
+samt nogle af de ældre Kanonjoller, og endelig Briggen Fredriksværn, <lb/>
+der skal have en Hovedreparation til Sommeren, i god og tjenstdygtig <lb/>
+Stand, og forsynede med Alt Tilbehør af Vaaben, Ammunition og <lb/>
+Takkelage og Inventarium. De ovenomhandlede 2de gamle Skonnerter <lb/>
+og Kanonslups Skrog ere dog ogsaa i tjenstdygtig Stand, men paa <lb/>
+Grund af deres foraldede Konstruktion, og til Nutidens Fordringer <lb/>
+ikke længere passende Armering, ere de paatænkte til Kassation fra <lb/>
+militairt Brug, ved forefaldende Anledning, og man har derfor ikke <lb/>
+villet gjøre stort for dens Inventarium, hvortil Udgifterne dog ikke <lb/>
+vilde blive af nogen Betydenhed, og som kan præsteres om saa skulde <lb/>
+blive nødvendigt. Det kan saaledes paaregnes at hele den havende  <lb/>
+Søstyrke, paa enkelt gamle Joller nær, er disponibel til Udrustning, <lb/>
+og forsynet med Alt Tilbehør, naar Hans Majestæt maatte befale det, <lb/>
+med saa langt Varsel, som er fornødent for Kalfaktering og andre mindre <lb/>
+Arbeider, der stedse ere fornødne ved en Udrustning, og som paa <lb/>
+Grund af Fartøiernes Mængde vil kræve nogen Tid.</p>
+                  <p xml:id="p13">	Hvad der saaledes ved en Udrustning itide maa tænkes paa er ikke <lb/>
+saameget Fartøierne, som de Foranstaltninger der ere fornødne for  <lb/>
+deres Bemanding og Proviantering, samt Midlerne til denne og til  <lb/>
+Fartøiernes Underhold i Aktivitet, og Istandsættelse med Komplettering <lb/>
+af Inventarium og Varegods efter denne.</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h5">
+                     <hi rend="underline">Bemanding</hi>.</head>
+                  <list xml:id="list14">
+                     <label>1. </label>
+                     <item>
+                        <hi rend="underline">Officerer</hi>. Officerkorpset er langtfra tilstrækkeligt i Tilfælde <lb/>
+ af en almindelig Udrustning, og i Marineplanen er ogsaa i et saadant <lb/>
+ Tilfælde forudsat at nogle Hundrede Maanedslieutenanter maatte <lb/>
+ antages. Selv ved en Udrustning af de seilbare Skibe og kun 2 à 3 <lb/>
+ Batailloner Skjærgaardsfartøier vilde 40 à 50 Maanedslieutenanter <lb/>
+ blive fornødne.</item>
+                     <lb/>
+                     <label>2. </label>
+                     <item>
+                        <hi rend="underline">Underofficerer og faste Mandskaber</hi>. Disse ere ligesaalidt  <lb/>
+ tilstrækkelige til en større Udrustning, og man vilde sandsynligviis <lb/>
+ især hvad Artillerister angaaer, i høi Grad komme til at føle Mangelen. <lb/>
+ Man har ikke kunnet komplettere det sømilitaire Korps, endog <lb/>
+ blot til det Antal hvortil Midler har været bevilget, og naar <lb/>
+ Mandskaberne have udtjent rekapitulere de i Almindelighed ikke. I den <lb/>
+ senere Tid har man kraftigen stræbt at faae Folk engagerede, og de <lb/>
+ antagne Lærlinges Antal, allerede nu meget stort, vil i den nærmeste <lb/>
+ Fremtid blive yderligere forøget. Ved de Sessioner som nu skulde <lb/>
+ afholdes for Udskrivningen sendes Søofficerer med Krigskommissairene, <lb/>
+ og disse Officerer erholde Opdrag at hverve for Korpset. <lb/>
+ Hvorvidt det vil lykkes kan endnu ikke vides, og i ethvert Tilfælde <lb/>
+ kan det ikke afhjælpe den øieblikkelige Mangel, da det ikke saameget <lb/>
+ er Folk (disse faaes ved Udskrivningen), som vel instruerede <lb/>
+ Underofficerer og Mandskaber der behøves.</item>
+                     <lb/>
+                     <label>3. </label>
+                     <item>Den øvrige Besætning erholdes ved Udskrivning. <hi rend="underline">Med Hensyn til</hi>
+                        <lb/>
+                        <hi rend="underline">Seilfartøierne</hi>, <hi rend="underline">der behøve befarne Folk</hi>, <hi rend="underline">da maa Udskrivningen foregaae</hi>
+                        <lb/>
+                        <hi rend="underline">i Aarets første Maanede</hi>, <hi rend="underline">hvis man ikke til Marinen vil see sig</hi>
+                        <lb/>
+                        <hi rend="underline">berøvet,</hi>
+                        <hi rend="underline">baade </hi>
+                        <hi rend="doubleunderline underline">de bedste Folk og det fornødne Antal</hi>. Senere er de <lb/>
+ borte med Handelsskibene. Udksrivningssessionerne til de Togter, <lb/>
+ der naadigst ere bestemte for næste Aar,<hi rend="underline">begynde den 9de Januar</hi>, <lb/>
+                        <hi rend="underline">og det vilde være meget ønskeligt</hi>, <hi rend="underline">om en Udrustning af flere Skibe</hi>
+                        <lb/>
+                        <hi rend="underline">skulde finde Sted</hi>, <hi rend="underline">at Udskrivningen af de dertil fornødne Matroser</hi>
+                        <lb/>
+                        <hi rend="doubleunderline underline">kunde ske til samme Tid</hi>. Hvad Skjærgaardsflaaden angaaer, da kan <lb/>
+ Udskrivningen af de dertil fornødne Mandskaber udsættes til længere <lb/>
+ hen.</item>
+                  </list>
+                  <p xml:id="p15">	Til de seilbare Skibe vil omtrent udfordres i det Hele en <lb/>
+ Udskrivning af circa 1700 Mand.</p>
+                  <p xml:id="p16">	Til hver Bataillon Kanonslupper behøves circa  750 Mand</p>
+                  <p xml:id="p17">	Til hver Bataillon Joller . . . . . . . . . .  270  "</p>
+                  <p xml:id="p18">	Desuden vilde man i Tilfælde af en større Udrustning for <lb/>
+Krigstilfælde behøve endeel Mandskaber paa Værfterne.</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h6">
+                     <hi rend="underline">Proviantering</hi>.</head>
+                  <p xml:id="p19">	Denne er selvfølgelig i vort Land forbundet med ganske <lb/>
+betydelige Vanskeligheder til enhver Tid, og nu mere end ellers, paa <lb/>
+Grund af Aarstiden og de overdrevne høie Priser paa Levnetsmidler i <lb/>
+Almindelighed. Af Proviant haves intet Forraad, udenfor hvad der <lb/>
+udfordres til Korpsernes Mandskabers Landkost; dog ere de fornødne <lb/>
+Foranstaltninger trufne til de Skibes Proviantering, hvis Udrustning <lb/>
+er befalet, og dertil haves ogsaa de fornødne Midler. Til Alt <lb/>
+udenfor dette maa Midler anvises extraordinairt, og Foranstaltninger <lb/>
+maae snart tages, hvis Standsning i Udrustning ikke skal resultere. <lb/>
+Opbevaringssteder paa Horten for Proviant mangle derhos. Det <lb/>
+Magasin, hvis Bygning i Aar er paabegyndt er bestemt til at afhjælpe <lb/>
+denne Mangel.</p>
+               </div>
+               <div>
+                  <head type="sub3" xml:id="h7">
+                     <hi rend="underline">Fartøiernes Underhold i Aktivitet</hi>.</head>
+                  <p xml:id="p20">	Disse Udgifter kunne antages til omtrent 10 Spd. pr. Mand <lb/>
+pr. Maaned, og det formenes at man derfor kan afholde Fartøiernes <lb/>
+Slittage paa Inventarium og Forbrug af Varegods. Hertil kommer dog <lb/>
+tillige Udrustningsomkostningerne, og forøgede Udgifter paa  <lb/>
+Værfterne, der antages at kunne ansættes til, eengang for Alle, til 1 <lb/>
+Maaneds Underhold. Betydelige Afvigelser i hvad Provianten koster, <lb/>
+vil naturligviis bevirke tilsvarende Forandringer i den her opsatte <lb/>
+omtrentlige Evaluation af Bekostningerne.</p>
+                  <p xml:id="p21">	Skibernes Eftersyn og Reparation efter Togterne vil selvfølgelig <lb/>
+blive mere eller mindre kostbar efter indtrufne Eventualiteter. </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>den 29de December 1853</date>.</dateline>
+                     <lb/>
+                     <signed>
+                        <persName>O.W.Erichsen</persName>.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h8">
+                  <supplied resp="editor">Tillegg til rapport av 29. desember 1853</supplied>
+               </head>
+               <opener>Hans Excellence <lb/>
+Herr Statholder Løvenskiold, <lb/>
+Ridder og Kommandeur af H.Ms Ordener <lb/>
+   	  etc.	  etc.  etc.</opener>
+               <table rend="noBorder" xml:id="table1">
+                  <row>
+                     <cell>Det overordentlige Storthing</cell>
+                     <cell> i 1822</cell>
+                     <cell> gav Hans Majestæt Bemyndigelse til at have af Norges Bank </cell>
+                     <cell>	345,000 Spd.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Storthinget</cell>
+                     <cell> i 1824 </cell>
+                     <cell>ligeledes for et Beløb af	</cell>
+                     <cell>	345,000  " </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1827</cell>
+                     <cell>	"	  "  "  "	  "		</cell>
+                     <cell>	350,000  " </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1830</cell>
+                     <cell>	"	  "  "  "	  "		</cell>
+                     <cell>	345,000  " </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1833</cell>
+                     <cell>	"	  "  "  "	  "		</cell>
+                     <cell>	350,000  " </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1836</cell>
+                     <cell>	"	  "  "  "	  "		</cell>
+                     <cell>
+                        <hi rend="underline"> </hi>
+                     </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Overordentlige Do </cell>
+                     <cell> " 1837</cell>
+                     <cell>	"	  "  "  "	  "		</cell>
+                     <cell>	350,000  " </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1839</cell>
+                     <cell> (NB intet Creditiv begjært)	</cell>
+                     <cell>
+                        <hi rend="underline"> </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1842</cell>
+                     <cell>  "	  "  "  "	  "		</cell>
+                     <cell>	350,000  " </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1845</cell>
+                     <cell> (NB Creditiv begjært)		</cell>
+                     <cell>
+                        <hi rend="underline"> </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1848</cell>
+                     <cell>}						</cell>
+                     <cell>{	<hi rend="underline"> </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>			  </cell>
+                     <cell>} (Intet begjært)<hi rend="underline"> </hi>
+                     </cell>
+                     <cell>{  </cell>
+                  </row>
+                  <row>
+                     <cell> Do	</cell>
+                     <cell>  " 1851</cell>
+                     <cell>}						</cell>
+                     <cell>{	<hi rend="underline"> </hi>
+                     </cell>
+                  </row>
+               </table>
+               <p xml:id="p22">
+                  <hi rend="underline"> </hi>
+               </p>
+               <table rend="noBorder" xml:id="table2">
+                  <row>
+                     <cell>For Tiden har Militairetaterne tilgode af hvad der er bevilget til 31te December 1853 omtrent . . . . . . . . . . .</cell>
+                     <cell>	150,000 Spd.</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Jernbanen 45,000 £ Sterling eller . . . . . . . . . .</cell>
+                     <cell>	195,000  " </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Hypothekbanken (Udbetalt 325,000 Spd.)  . . . . . . .</cell>
+                     <cell>	175,000  " </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Adskillige andre Indretninger . . . . . . . . . . . .</cell>
+                     <cell>  50,000  "  </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <row>
+                     <cell>					Tilsammen	</cell>
+                     <cell>	570,000 Spd. </cell>
+                  </row>
+               </table>
+               <table rend="noBorder" xml:id="table3">
+                  <head xml:id="h9">
+                     <hi rend="underline">Beholdning 29 Decbr 1853.</hi>
+                  </head>
+                  <lb/>
+                  <row>
+                     <cell>1. </cell>
+                     <cell>Hos udenlandske Huse . . . . . . . .	</cell>
+                     <cell>  282,000 Spd. </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2. </cell>
+                     <cell>Paa Folio i Norges Bank  . . . . . .	</cell>
+                     <cell>  326,000  " </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3. </cell>
+                     <cell>I Hovedcasserne  . . . . . . . . . .	</cell>
+                     <cell>  78,000  " </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4. </cell>
+                     <cell>Uafhændet Deel af Statslaanet af 1851  . . . . . . . . . .	</cell>
+                     <cell>  230,000  " </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>5. </cell>
+                     <cell>Uopsigelige Statsobligationer, der henstaae under den contante Beholdning. . . . . . . . . .	</cell>
+                     <cell>  47,000  " </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>6. </cell>
+                     <cell>Hos Disconteringscommissionerne henstaae i det Hele		</cell>
+                     <cell>
+                        <hi rend="underline"> 1,127,000  "  </hi>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell> 	2,090,000 Spd.</cell>
+                     <cell> - 570,000 Spd.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <hi rend="underline"> 570,000  "  </hi>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Altsaa Netto Beholdning		</cell>
+                     <cell>	1,520,000 Spd. </cell>
+                     <cell/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell>foruden Bankactier 420,000 Spd. <lb/>
+ og Statscassens udestaaende Fordringer.</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+               <p xml:id="p23">	For imidlertid ikke at gribe forstyrrende ind i Næringsveiene <lb/>
+og for ikke at blotte Hovedcasserne samt muligens at sælge med Tab <lb/>
+de uopsigelige Statsobligationer vil jeg kun udføre som disponibel <lb/>
+Beholdning følgende Summer, nemlig: <lb/>
+                  <table rend="noBorder" xml:id="table4">
+                     <row>
+                        <cell>de ovenfor under No 1 nævnte . . . . . . . . . . . .</cell>
+                        <cell>  282,000 Spd. </cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>  "	  "	  "	  "  2  "  . . . . . . . . . . . .</cell>
+                        <cell>  326,000  " </cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>  "	  "	  "	  "  4  "  . . . . . . . . . . . .</cell>
+                        <cell>  230,000  " </cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>af de under	  "  6  "  . . . . . . . . . . . .</cell>
+                        <cell>
+                           <hi rend="underline">200,000  "  </hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>									</cell>
+                        <cell>  1,038,000  Spd. </cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>Naar herfra drages ovennævnte . . . . . . . . . .</cell>
+                        <cell>  570,000  " </cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell/>
+                        <cell rend="botBorder"/>
+                     </row>
+                     <row>
+                        <cell>hvoraf dog de 175,000 Spdlr til Hypothekbanken <lb/>sandsynligviis ikke paa længere Tid <lb/>vil blive begjært, bliver tilbage  . . . . . . . . .</cell>
+                        <cell>  468,000 Spdlr.</cell>
+                     </row>
+                  </table>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de December 1853</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Bretteville</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

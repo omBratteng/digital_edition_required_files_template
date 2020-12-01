@@ -1,0 +1,103 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>338</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 14. desember 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 14. desember 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1"> Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p xml:id="p2">	Jeg kommer i dette Øieblik fra vor Frelsers Kirke, hvor jeg med <lb/>
+den talrige Menighed har takket Gud for vor Kronprindsesses gjenvundne <lb/>
+Helbred.  Denne høitidelige Act kan ikke være bleven værdigere feiret <lb/>
+i Skandinavien end den blev det af vor christelige og begavede Biskop.</p>
+               <p xml:id="p3">	Jeg takker underdanigst for Deres Majestæts naadige Meddelelser <lb/>
+af 8de denne Maaned. Efterretningerne om den store Begivenhed i Paris <lb/>
+kom til Stockholm en Dag tidligere end hid, hvor jeg den 9de modtog <lb/>
+den første Meddelelse ved en Extrapost fra Christiansand, som det engelske <lb/>
+Dampskib "Gnealbyn" havde bragt did fra Hamburg. Sidste Post bragte <lb/>
+Begivenhedens videre heldige Udvikling, og give Gud. at den maa føre <lb/>
+til et for Frankrige og Europa lykkeligt Resultat og derved forøge de <lb/>
+store Fortjenester, som Præsidenten allerede ved sin kloge Styrelse <lb/>
+har erhvervet for Europas Fred og Roe.</p>
+               <p xml:id="p4">	Det af Tydskheden fortrykte Dannemark fortjener vistnok Hjelp og <lb/>
+Bistand; men ikke det ultra danske Partie; thi dette er revolutionairt <lb/>
+i Dannemark og i Europa. Kong Frederik har kun altfor snart erfaret, at <lb/>
+hans Faders Modbydelighed mod at opfylde det revolutionaire Parties <lb/>
+radicale Fordringer, var vel grundet.</p>
+               <p xml:id="p5">	Regjeringens underdanigste Indstilling om Hypothekbankens <lb/>
+Organisation vil afgaae med Morgenposten. Deres Majestæts naadige  <lb/>
+Yttringer om Generalconsul Faye have givet ham en Tilfredsstillelse, som <lb/>
+han høielig tiltrængte, da han under sin sidste Sygdom frafaldt sit givne <lb/>
+Tilsagn om at ville deeltage i Hypothekbankens Bestyrelse, – hvilket <lb/>
+jeg kun med megen Møie har overtalt ham til at fornye.</p>
+               <p xml:id="p6">	Faye har i denne Begivenhed gjort store Opoffrelser af Tid og <lb/>
+Penge, hvorfor han ingen Erstatning vil have; han har udtrykkelig  <lb/>
+frabedet sig den mention honorable, som Regjeringen skyldte ham; han er i <lb/>
+en bitter Stemning i Anledning af, at Statsraad Vogt 1848 tilbød ham <lb/>
+500 Spd. for hans Underhandling om det da optagne Statslaan, som han <lb/>
+afslog; han har under sin sidste Reise sat Helbred og Liv paa Spil, og <lb/>
+han har opnaaet hvad neppe nogen Anden skulde kunne have opnaaet. Med <lb/>
+Hensyn paa disse Omstændigheder og paa Nødvendigheden af Fayes vedværende <lb/>
+Hjelp for Hypothekbanken har jeg vovet at give ham Haab om den <lb/>
+eneste Løn, hvorpaa han vil sætte Priis, nemlig et fornyet offentligt <lb/>
+Beviis paa Deres Majestæts Naade, ved at benaade ham med Commandeur <lb/>
+Graden af St Olafs Ordenen, og jeg beder underdanigst, at Deres Majestæt <lb/>
+naadigen vil opfylde mit givne Haab.  Jeg troer derhos at burde <lb/>
+underdanigst oplyse Deres Majestæt om, at Faye allerede fra en ældre <lb/>
+Tid staaer i et fiendtligt Forhold til Statsraad Vogt.</p>
+               <p xml:id="p7">	Stiftamtmand Falsens Helbred har længe været saa mislig, at han <lb/>
+i Følelsen af ikke længere at kunne tilfredsstillende for sig bestyre <lb/>
+sit nu havende Embede, og for at undgaae at ansøge om Pension, ansøgte <lb/>
+om det nu ledige Toldinspecteur Embede i Christiansand.  Han har <lb/>
+imidlertid nu meddeelt mig, at han end ikke mere føler sine Kræfter <lb/>
+tilstrækkelige til at bestyre sidstnævnte Embede og desaarsag seet sig <lb/>
+nødsaget til at ansøge om naadigst Afskeed med Pension.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14de December 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

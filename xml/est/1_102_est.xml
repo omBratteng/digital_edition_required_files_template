@@ -1,0 +1,66 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>102</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 13. mai 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 13. mai 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 9de denne Maaned, har jeg havt den Lykke at modtage et mig efter Deres Majestæts naadige Befaling af Greve E. Lewenhaupt tilskrevet venligt Brev af 6te denne Maaned.</p>
+               <p xml:id="p2">	Jeg takker underdanigst for den mig derved givne naadigste Forsikkring om ikke at være aldeles bortglemt, en Trøst, som jeg høieligen tiltrængte, under de piinlige Bekymringer, som Nutidens Omstændigheder forvolde mig, hvorunder det for mig er dobbelt piinlig ikke at kjende Deres Majestæts Anskuelser om flere i mine senere underdanigste Rapporter berørte vigtige Gjenstande.</p>
+               <p xml:id="p3">	Greve Lewenhaupts Brev gjør mig det til Pligt underdanigst at yttre: at Omstændighederne i den senere Tid have forværret sig saa meget, at jeg høist ugjerne maa frafalde min tidligere yttrede Anskuelse om Kroningens Iværksættelse dette Aar.</p>
+               <p xml:id="p4">	De Grunde, som jeg under 25de forrige Maaned tillod mig at anføre for Kroningen ere uforandrede og ikke uden Vægt; men den Nød, som allerede viser sig nu som truer at blive større, maatte gjøre det piinligt for Deres Majestæters, som for Andres Følelser, at iværksætte en Act, hvis Held og Høitidelighed er betinget af almindelig Tilfredshed, men som ikke kan paaregnes, naar der under Jubel i Trondhjem, maa forudsees Nød og Jammer i flere af Rigets Dele. Paa Grund af disse piinlige Omstændigheder finder jeg mig forpligtet til underdanigst at tilraade: At Deres Majestæt naadigst vil befale Kroningen udsat, og at Deres Majestæts naadige Beslutning herom, (som nu vil vinde almindelig Anerkjendelse), maa blive snarlig afgivet, for at standse videre Forberedelser.</p>
+               <p xml:id="p5">	Til min Retfærdiggjørelse tillader jeg mig underdanigst at yttre, at jeg ikke er den Eneste som i det længste har troet at kunne holde paa Kroningen. – Regjeringens samtlige Medlemmer vare enige i min under 25de forrige Maaned yttrede Anskuelse, og de dele den, som jeg nu tillader mig underdanigst at fremføre.</p>
+               <p xml:id="p6">	I Forbindelse med denne Gjenstand, tillader jeg mig underdanigst at tilraade, at Deres Majestæt naadigst vil befale dette Aars tiltænkte Troppesamlinger meest mulig indskrænkede. Deres Majestæts naadige Beslutning herom, vil ogsaa blive modtaget med almindelig Taknemmelighed og Nødvendighed byder den; thi det turde i de fleste Districter blive vanskelig, ja umulig at tilveiebringe de nødvendige Levnetsmidler, og Soldatens Lønning er ikke tilstrækkelig til at betale de nugjeldende enorme Priser.</p>
+               <p xml:id="p7">	Som en Følge af det sene Foraar er Høe Prisen her og flere Steder steget til 6 à 7 Spdl. pr Skippund, en forhen uhørt Priis.</p>
+               <p xml:id="p8">	For at kunne opfylde en til Kongsbergs Sølvværks Magazin overtaget Leverance, betaltes i disse Dage i Drammen for Byg 7 1/2 Speciedaler, for Ruug 9 1/2 Speciedaler, pr Tønde. For nogenlunde at kunne mætte den trængende Almue fra Tellemarken, som søger Hjelp paa Kongsberg, har man laant Stedets Handlende 200 Tønder Ruug, 400 Tønder Havre, af Landetatens Magaziner. Den største Deel af Tellemarkens Almue søger dog Korn i Skien, hvor endnu nogen Beholdning haves; men i de vestligere Byer haves meget lidet eller Intet.</p>
+               <p xml:id="p9">	Jeg beklager inderlig, at jeg nu kun har ubehagelige Efterretninger at meddele, og jeg udbeder Deres Majestæts naadigste Overbærelse for det Præg af mit bekymrede Sind, som mine underdanigste Rapporter vise. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 Mai 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

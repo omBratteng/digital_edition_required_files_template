@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>421</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. desember 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. desember 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+               <p xml:id="p2">	Sidste Onsdag den 14de introducerede jeg General Bloch i <lb/>
+Statsraadet. Statsraad Sylow tiltraadte i Gaar Reisen til Stockholm.</p>
+               <p xml:id="p3">	Statsraad Erichsen vil forelægge Deres Majestæt sit underdanigste <lb/>
+Forslag om, at forøge det planmæssige Antal af Commandeur-Capitainer <lb/>
+i Marinen med Een, og ligeledes Capitainernes Antal med Een, i Stedet <lb/>
+for at udnævne en Contreadmiral, og at anvende den for Admiralen <lb/>
+bestemte og bevilgede Gage til de 2de nye Charger.</p>
+               <p xml:id="p4">	Da Statsraad Erichsen har meddeelt mig dette Forslag, finder jeg <lb/>
+mig forpligtet til underdanigst at yttre, at jeg ikke kan dele hans <lb/>
+Anskuelse.</p>
+               <p xml:id="p5">	Det Ønske ligger i den menneskelige og ikke mindst i den norske <lb/>
+forfængelige Natur, at der i en militair Etat maa findes en høieste <lb/>
+Charge, hvortil enhver Inferieur, ja enhver Cadet aspirerer, og man <lb/>
+vilde, ved at borttage denne, formeentlig tillige borttage le charme <lb/>
+de la corporation, – ja jeg troer det visselig, – saare den nationale <lb/>
+Forfængelighed, som uden Tvivl heller vil have een norsk Admiral end <lb/>
+2de inferieure Charger.</p>
+               <p xml:id="p6">	Hertil kommer, at Admirals Gagen er bevilget, og at man ikke er <lb/>
+berettiget til at anvende denne anderledes end til det Brug, hvortil <lb/>
+den er bevilget, nemlig til en Contreadmiral; men ikke til en Commandeur <lb/>
+Capitaine og en Capitaine.</p>
+               <p xml:id="p7">	Jeg maa saaledes vedblive den underdanige Formening, at det vil <lb/>
+være rigtigst, at Deres Majestæt, ved Siden af Statsraad Erichsen, <lb/>
+som Høistcommanderende, naadigst vil udnævne en Contre-Admiral, for <lb/>
+hvem Gage er bevilget.</p>
+               <p xml:id="p8">	I længere Tid er her intet Choleratilfælde indtruffet og Christiania <lb/>
+Bye er af Lægerne erklæret fri for Epidemien. Imidlertid maa der <lb/>
+endnu være noget cholerisk i vor Atmosphære, thi Symptomer af Sygdommen <lb/>
+føles endnu jævnlig og almindelig. Om noget nyt Choleratilfælde <lb/>
+skulde indtræffe og man vilde paaberaabe Lægeautoritet derimod vilde <lb/>
+det Intet nytte, fordi de gode Herrer endnu ikke ere stort klogere <lb/>
+paa Cholera, end vi Andre. Det var neppe efter deres Raad, at Upsala <lb/>
+blev spærret; men saavidt jeg veed, blev Upsala frie for Sygdommen.</p>
+               <p xml:id="p9">	Snee er for Øieblikket vort største Savn; thi Mangel af Slædeføre <lb/>
+forhindrer Tilførsel af alle Nødvendighedsartikler, hvis Priser have <lb/>
+naaet en plagende Høide. I Særdeleshed føles Mangel paa Veed, og maa <lb/>
+man ynkes over de Fattige, som maa fryse, fordi de ikke kunne betale <lb/>
+3 Spdl. for en Favn Granveed. Saavidt skrevet havde jeg den Glæde at <lb/>
+modtage Deres Majestæts naadige Hilsen ved Grev Lewenhaupt af 15de, <lb/>
+hvorfor jeg underdanigst takker. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 December 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

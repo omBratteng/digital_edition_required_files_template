@@ -1,0 +1,69 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>76</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 22. oktober 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 22. oktober 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Mine Landsmænds og mine varme Ønsker fulgte Deres Majestæt under Reisen, og stor var min Glæde over at erfare dem opfyldte. Med Længsel modsaae jeg Efterretning herom med sidste Søndagspost, og den blev mig dobbelt kjær ved den uventede Kongelige Naade som forundte mig den egenhændig. Jeg paaskiønner denne Kongelige Naade og bevarer den i mit taknemmelige Hjerte.</p>
+               <p xml:id="p2">	Overbeviist om almindelig Deeltagelse, lod jeg Efterretningen om Deres Majestæts lykkelige Reise og den naadigst meddelte Tilfredshed med Deres Majestæts seneste Ophold her i Riget, den følgende Dag offentliggjøre i Rigstidenden.</p>
+               <p xml:id="p3">	Deres Majestæt kunde visselig havt gyldig Grund til at forskaane Sig dette Aar for en besværlig Reise og derfor paaskjønnes det dobbelt, at Deres Majestæt ikke benyttede den. Maatte Deres Majestæt i Normænds Taknemmelighed og hjertelige Hengivenhed føle nogen Løn for det os bragte Offer. Vi have kun Hjerter at byde og disse tilhøre Deres Majestæt!</p>
+               <p xml:id="p4">	Kongens personlige Fremtræden, Deres Majestæts elskelige og elskede Personlighed er altid velgjørende og udøver saa vel paa Forretnings som paa Familielivet, en saare heldig Indflydelse. Beklageligt derfor, at denne velgjørende Kongelige Nærværelse, som saa høielig paaskiønnes, saa sjelden kan forundes os! Mangen Sag turde under et mundtligt Foredrag, en mundtlig Discussion for Deres Majestæt, bedømmes og afgjøres anderledes end naar den behandles skriftlig. Omstændighederne tilstæde dog ikke at ordne Forholdene anderledes og jeg indskrænker mig derfor til den underdanigste Bøn: at Deres Majestæt fremdeles naadigst vil forunde Sit troe hengivne Norge Sin høie og velgjørende Nærværelse oftest og længst mulig. Under et længere Ophold bliver Forretningslivet mindre besværligt og det koster forholdsviis <lb/>
+mindre end et kort Besøg.</p>
+               <p xml:id="p5">	Ved min Tilbagekomst gjentog jeg for DeHerrer Departements Chefer Deres Majestæts naadige Befaling om Storthingssagernes betimelige Expedition og tør jeg forsikkre om Alles bedste Villie til at opfylde Deres Majestæts Befalinger.</p>
+               <p xml:id="p6">	Med Statsraad Stang har jeg havt en Conference betræffende den skandaløse Vei, som Deres Majestæt nylig passerede nærmest Christiania. En radical Cuur, formodentlig Veiens totale Omlægning, er paatrængende nødvendig og jeg beklager derfor, at en Beslutning herom formeentlig bør udsættes indtil Jernbanens Linie er bleven bestemt. Denne Veis afskyelige Beskaffenhed forhindrer for Øieblikket al Product Tilførsel til Christiania fra frugtbare Trakter og medens disse savne Afsætning, staae de fleste Livets Nødvendigheder i en urimelig høi Priis her, alt en Følge af Mangel paa hensigtsmæssige Communications Midler, hvorved dette Land vil kunne bringes paa en høiere Standpunct. En god Deel er i denne Retning i de senere Aar gjort: meget staaer tilbage.</p>
+               <p xml:id="p7">	Under Forhøret i Anledning af Laboratoriets Brand er ingen Forsømmelse opdaget. Man antager Branden foranlediget ved brændbare Materialiers Selvantændelse.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at vedlægge Amtmand Møinichens Meddelelse betræffende Mødet i Frankfurt, uagtet Deres Majestæt uden Tvivl derom har foregaaende Kundskab.</p>
+               <p xml:id="p9">	Siden Deres Majestæts Afreise har her næsten uophørlig regnet. Regnen er nu saa vedholdende som Tørken afvigte Sommer. Jeg befrygter meget, at Veiret har været ugunstig for den vakkre Nationalfest i Norrkøping, hvori jeg i Tankerne har deeltaget.</p>
+               <p xml:id="p10">	Statsraad Holst er i god Bedring og Statsraad Fleischer afreiste den 19de til Stockholm.</p>
+               <p xml:id="p11">	Det er en Trang for mit Hjerte at gjentage min underdanigste Taksigelse for Deres Majestæts nye Naadesbeviisninger mod min Svigerdatter Fanny og min Søn Adam, begge lige kjærkomne, som uventede.</p>
+               <p xml:id="p12">	Ret meget beklager jeg, at det den 9de herfra afgaaede Dampskib "Christiania", blev opholdt ved Storm og derfor ikke kunde komme til Kjøbenhavn før den 12te og saaledes Deres Majestæts Brev ikke afgaae derfra før den 14de og neppe ankomme til München før den 19de eller 20de, hvorom Ernst har underrettet Baron Manderstrøm. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 22 October 1846</date>.</dateline>
+                  <lb/>
+        Til <lb/>
+        Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

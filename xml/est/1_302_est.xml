@@ -1,0 +1,265 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>302</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. juni 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. juni 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Vi ere blevne særdeles opmærksomme paa de Forhandlinger, som <lb/>
+de her tagne Bestemmelser angaaende Sukker Rafinaderiet paa Fredrikshald <lb/>
+have foranlediget paa den svenske Rigsdag. Deres Majestæt vil <lb/>
+have i naadigst Erindring, at disse Bestemmelser blevne tagne som de <lb/>
+lempeligste man havde kunnet paafinde, for at faae hævet et uheldigviis <lb/>
+uden Begrændsning af Tid tilstaaet Privilegium hvis Vigtighed, <lb/>
+saaledes som Omstændighederne nu have udviklet sig, man ved dets <lb/>
+Tilstaaelse i sin Tid ikke har ahnet, men hvis Vedvarenhed maatte ansees <lb/>
+særdeles skadelig for ethvert af Rigerne. For at opnaae Privilegiets <lb/>
+Ophævelse, har man seet sig nødsaget til at underkaste sig den store <lb/>
+Opoffrelse ved Tab af Told, som den trufne Overeenskomst paaførte den <lb/>
+norske Statscasse og som for den forestaaende Budget-Termin er anslaaet <lb/>
+til 40,000 Spdl aarlig, ikke at tale om den mindre betydelige Udgift, <lb/>
+som var forbundet med Indkjøb for den Norske Statscasses Regning, af <lb/>
+de paa lige Maade privilegerede Raffinaderier i Christiania og Trondhjem.</p>
+               <p xml:id="p3">	Den til at undersøge Forholdene ved Kongsberg Sølvværk, og at <lb/>
+fremsætte de Bemærkninger og Forslag, hvortil denne Undersøgelse <lb/>
+maatte give Anledning, – er indkommet med sin Betænkning. Den erklærer <lb/>
+i Indledningen, at den anseer det udenfor sit Hverv at indlade sig <lb/>
+paa den Strid, som i offentlige Blade er vakt angaaende hvem Æren <lb/>
+tilkommer for at have først paaviist det rette Middel til at forbedre <lb/>
+Veirvexlingen, til hvis Afgjørelse der formeentlig skulde udfordres <lb/>
+Vidners Afhørelse med Videre, hvorimod Commissionen finder sig  <lb/>
+tilfredsstillet ved den Kjendsgjerning, at Veirvexlingen er god. <lb/>
+Commissionen viser dernæst i Korthed det Utilbørlige og Ugrundede i det af <lb/>
+Værkets forhenværende første Directeur, den gamle Steenstrup, til Finants <lb/>
+Departementet indgivne Andragende om, at den nuværende Direction maa <lb/>
+drages til Ansvar og straffes for en formeentlig Afvigelse fra givne <lb/>
+Bestemmelser om Maaden, hvorpaa Christians Stol i Henseende til dens <lb/>
+Niveau var at bearbeide, da Bestemmelser af det paaberaabte Indhold ikke <lb/>
+ere til. Commissionen bedømmer Driften med megen Udførlighed og  <lb/>
+berømmer Directionen, i det Hele uden dog at undlade at paapege enkelte <lb/>
+Stykker, hvori den ikke med den er enig. Isærdeleshed sees den ikke <lb/>
+at finde de Grunde fyldestgjørende, der have bevæget Bestyrelsen til <lb/>
+at lade Christians Stol fortsætte fra en af Gruberne mod Nord, flere <lb/>
+Lachter høiere end den udgaaer fra Gruben mod Syd (Steenstrups  <lb/>
+Ankepost), men er ikke desformedelst af den Mening, at Fortsættelsen i <lb/>
+Overeensstemmelse hermed skulde frafaldes eller nyt Arbeide begyndes <lb/>
+fra et Punct længere ned i Gruben. Commissionen har rettet sin  <lb/>
+Opmærksomhed paa den Maade, hvorpaa Bestyrelsen for Tiden er ordnet, og <lb/>
+finder den uhensigtsmæssig. Under Behandling af denne Deel af Sagen  <lb/>
+hentydes der paa Fordærveligheden af Underordnedes Selvgodhed og Overmod. <lb/>
+Den characteriserer med megen Fynd den Paastand, som i den senere Tid <lb/>
+er hørt, at det skulde være godt, at de, der have Forretninger at  <lb/>
+udføre tilsammen, ligge i Kiv og Trætte. Den siger meget træffende, at <lb/>
+dette er en hjerteløs og uforstandig Lære. Directionen for Kongsberg <lb/>
+Sølvværk bestaaer nu af 3 Medlemmer af hvem Sagerne afgjøres efter <lb/>
+ fleste Stemmer, med Fordeling af Forretningerne i deres Udførelse <lb/>
+imellem dem efter visse med Hensyn til Vedkommendes personlige Egenskaber <lb/>
+af Deres Majestæt fastsatte Regler, hvilke man har havt Møie med at <lb/>
+give til Tilfredsstillelse. Commissionen i 1833, Regjeringen og <lb/>
+vedkommende Storthings Comité vare i sin Tid af den Mening, at Sølvværket <lb/>
+med Tilbehør burde bestyres af een Directeur, men Storthinget besluttede, <lb/>
+at Directionen skulde bestaae af 3 og Regjeringen troede ikke at <lb/>
+burde gjøre nogen Indvending herimod, da man fik at see, hvorledes det <lb/>
+vilde gaae. Den nuværende Commission foreslaaer, at Bestyrelsen maa <lb/>
+blive forandret derhen, at det Hele betroes <hi rend="underline">een</hi>  Directeur, som i visse <lb/>
+Fald enten af Vigtighed eller hvor een Mands Afgjørelse, (fordi den <lb/>
+vilde vedrøre personlige Interesser) kunde give Anstød, skulde tilkalde <lb/>
+2 af Regjeringen dertil udseede Arbeids Bestyrere til et Bergraad. <lb/>
+Commissionens Forslag om en Omordning af Bestyrelsen er Aarsag til, at <lb/>
+endnu ikke nogen underdanigst Indstilling er gjort angaaende Besættelse <lb/>
+af Bergmesterposten efter Sexe. Finants Departementet har overdraget <lb/>
+denne indtil Videre til en Berg-Candidat. Det har ikke kunnet tilkomme <lb/>
+Commissionen at gjøre noget Forslag betræffende Personer, men <lb/>
+efter Yttringer underhaanden af Medlemmer af Commissionen, maa det <lb/>
+antages, at den har tænkt sig Böbert som Enedirecteur, Commissionen <lb/>
+foreslaaer, at der ved Finants Departementet antages en bergkyndig <lb/>
+Assistent, der kunde raadspørges i Sager om Kongsberg Sølvværk, og som <lb/>
+tillige kunde benyttes i Indre Departementet i Sager, der angaae  <lb/>
+Bergværksdriften. Commissionen gjør til Slutning opmærksom paa  <lb/>
+Ønskeligheden af, at det overdrages en dertil særlig antagen Mand at <lb/>
+udarbeide for hele Overbergsfeldtet nøiagtige og fuldstændige Karter, <lb/>
+for at Stol-Drivten kan gaae frem med størst mulig Sikkerhed.</p>
+               <p xml:id="p4">	Commissionen har, ved at fremsende dens med megen Udførlighed <lb/>
+affattede Betænkning anholdt om, at der, forinden Noget ved den  <lb/>
+foretages, maa gives Sølvværks-Directionen Anledning til, derover at  <lb/>
+yttre sig. Betænkningen vil nu blive sendt Sølvværks Directionen, og <lb/>
+forinden den derfra kommer tilbage, vil Finants Departementet ikke kunne  <lb/>
+tage den under Behandling. Om Sagen derefter vil kunne bevirke nogen <lb/>
+Kongelig Proposition til det nu forsamlede Storthing, er et Spørgsmaal, <lb/>
+som vil blive taget under Prøvelse.</p>
+               <p xml:id="p5">	Paa den ene Side kan det medføre Fordele, at erholde allerede i <lb/>
+Aar fra Storthingets Side visse Bestemmelser, Kongsberg Sølvværk <lb/>
+betræffende, medens paa den anden Side det synes at være betænkeligt, <lb/>
+immer at forelægge Storthinget nye Propositioner og derved at gjøre <lb/>
+dets forlængede Sammenvær til en Nødvendighed.</p>
+               <p xml:id="p6">	De svenske og danske Studentere ankom hertil igaar Aftes og <lb/>
+modtoges med stor Festlighed saavel af vore Studentere som af Byens <lb/>
+Indvaanere, hos hvem samtlige Fremmede (347) ere frit indlogerede. Alle <lb/>
+trykte Sager, som ere foranstaltede i Anledning af Studenter Mødet, <lb/>
+tillader jeg mig underdanigst at vedlægge. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Juni 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 9. juni 1851</supplied>
+               </head>
+               <p xml:id="p7">	Til at modtage de danske og svenske Studenter er af <lb/>
+Studentersamfundets Bestyrelse efter Bemyndigelse valgt en Festcommittee, <lb/>
+bestaaende af Professor Welhaven, Professor Collett, Advocat Dunker, <lb/>
+Cand. theol. Jørgen Moe, Slotsintendant Linstow, Rigsarchivar Lange <lb/>
+og Student G.T. Gjertsen, som i Forening med Samfundets Directeurer <lb/>
+DHr Adjunct Fries, Cand.juris Thrap, Cand.juris H. Holst, Cand.med. <lb/>
+J. Vogt og Cand.juris G.A. Krogh, ordne Alt hvad der vedkommer  <lb/>
+Studentermødet.</p>
+               <p xml:id="p8">	Disse Mænd have udstedt vedlagte Opfordring til Byens Indvaanere <lb/>
+om at assistere dem i dette Hverv, hvilken Opfordring har havt <lb/>
+følgende Udfald: Af Christiania Borgere og af enkelte Udenbyes er <lb/>
+subscriberet 3094 Sp. 96 S., ligesom man endnu bør vente nogle Bidrag, <lb/>
+saasom fra enkelte Storthingsmænd, skjønt Storthingsrepræsentanterne <lb/>
+i Almindelighed have unddraget sig fra at bidrage, idet de have meent, <lb/>
+at ikke andre end Christiania Indvaanere burde deeltage i Sammenskuddet. <lb/>
+De Fremmede ville blive gratis befordrede af Byens Indvaanere, <lb/>
+samt af Bønderne fra Aker, Asker og Bærum paa en Udflugt til Ringeriget.  <lb/>
+Af alle norske Academici betales en Contingent for Adgangen <lb/>
+til alle Festligheder af 3 Spdl for hver. Antallet af disse Deeltagere <lb/>
+kan anslaaes til 600 Personer. Det hele Beløb som kan anvendes <lb/>
+vil saaledes blive omtrent 5000 Spdl til at modtage de fremmede  <lb/>
+Gjæster i Logis have tegnet sig omtrent 200 Værter for 380 Gjæster. Et <lb/>
+Kart over Christiania Omegn, tegnet af Lieutenant Schie (han er nemlig <lb/>
+Ingenieurofficier), trykkes af Lithograph Tegnér uden Betaling. <lb/>
+Dette tildeles enhver Gjæst. Universitetssecretairen har foranstaltet <lb/>
+ en Udgave af Universitetets Matricul, udstyret med en Vignet af de <lb/>
+nye Universitetsbygninger og indholdende Universitetets Lærerpersonale, <lb/>
+andre Functionairer, Studerende i de sidste 10 Aar, samt en Fortegnelse <lb/>
+over Samfundets Medlemmer. Kammerherre Holst vil meddele enhver <lb/>
+af de Reisende en lithographeret Skizze af Oscarshall med nogle <lb/>
+Stropher af Digteren A. Munch. Antallet af de Gjæster, som hidtil <lb/>
+ere anmeldte, men hvilket sandsynligviis vil blive noget forøget, er <lb/>
+opgivet til 256 fra Kjøbenhavn og 90 fra Lund. Fra Upsala er endnu <lb/>
+intet Svar indløbet paa den Indbydelse, som afgik did den 16de Mai, <lb/>
+og vi ville saaledes, hvis ikke et Rygte om at 30 ville støde til i <lb/>
+Gøtheborg er sandt, savne Repræsentantere fra dette Universitet,  <lb/>
+hvilket er saameget beklageligere, som Upsala her fornemmelig har  <lb/>
+Sympathier blandt de Studerende. Særskilt indbuden er Grundtvig, der <lb/>
+kommer hid den 6te Juni. Gjæsterne agte at indtræffe Søndag den 8 <lb/>
+Juni, Kl. 6̶−8 Eftermiddag. De mødes i Sandøesund af en Deputation, <lb/>
+bestaaende af Cand. juris Thrap, Cand. med. Vogt og Student Gjertsen. I <lb/>
+Drøbak vil efter Forlydende en Deputation complimentere dem. – Toget <lb/>
+gaaer i Land paa Fæstningsbryggen og man begiver sig derfra op paa <lb/>
+Pladsen, hvor der holdes Tale af Adjunct Friis, Studentersamfundets <lb/>
+Formand, og afsynges en Sang af Jørgen Moe, derpaa gaaer man, ledsaget <lb/>
+af Haandværksforeningen med Musik og Faner opad Byen udover østre <lb/>
+Gader til de nye Universitetsbygninger, hvor Toget opløses og Gjæsterne, <lb/>
+ledsagede af sine Værter, gaae hver til sit Qvarteer.</p>
+               <p xml:id="p9">	Mandag afholdes Velkomstfest i Frimurerlogen for samtlige <lb/>
+academiske Borgere. Skaaler udbringes i følgende Orden: <lb/>
+               </p>
+               <list xml:id="list10">
+                  <item>Skaal og Aabningstale af Adjunct Friis</item>
+                  <lb/>
+                  <item>for Kongerne af Intendant Linstow</item>
+                  <lb/>
+                  <item> "  Sverige af L.K. Daa </item>
+                  <lb/>
+                  <item> "  Danmark af Dunker</item>
+                  <lb/>
+                  <item> "  Norden af Welhaven</item>
+                  <lb/>
+                  <item> "  Island af Hartvig Nissen</item>
+                  <lb/>
+                  <item> "  Grundtvig af Cand. Tteol. H. Bruun</item>
+                  <lb/>
+                  <item> "  Nordens Digtere af Professor Collett</item>
+                  <lb/>
+                  <item> "  faldne Krigere af G.A. Krogh</item>
+                  <lb/>
+               </list>
+               <p xml:id="p11">	Digte af Moe, Munch, Welhaven og C.P. Riis ledsage de forskjellige <lb/>
+Skaaler.</p>
+               <p xml:id="p12">	Tirsdag Formiddag Kl. 9 begiver man sig med Dampskibet Christiania, <lb/>
+rundt Ladegaardsøen, iland i Vækkerøbugten, gjennemstreife Ladegaardsøens <lb/>
+Parkanlæg i Afdelinger paa 100 Personer med særskilte Førere, <lb/>
+samt besøger tilsidst Oscarshall og derfra Dronningbjerget, hvor <lb/>
+Hans Majestæt har havt den Naade gjennem General Baron Wedel Jarlsberg <lb/>
+at tilsige Studentermødet en Collation Kl. 12. Man forlader dette <lb/>
+Sted Kl. 1 1/2–2 Efterm: og begiver sig hjem tilfods paa forskjellige <lb/>
+Veie. – Onsdag og Thorsdag foretages en Ringerigstour. Toget bestaaer <lb/>
+af 600 Personer paa omtrent 150 Vogne og afgaaer Kl. 6 Morgen fra <lb/>
+Christiania til Jonsrud, hvor Frokost spises. Derpaa gaaer man over  <lb/>
+Krogskoven og forfrisker sig paa Kleven, hvor Dronningens Udsigt besøges. <lb/>
+Kl. 2 1/2 sætter man sig i Marsch med Musik i Spidsen nedad Kleven <lb/>
+og Kl. 4 skulle Alle være embarquerede paa Steensfjorden, for at roe <lb/>
+1/2 Miil over til Hungerholt. Herfra tager man igjen tilfods til  <lb/>
+Tandbergmoen, hvor Ringerikningerne give en Sexa og modtage sine Gjæster <lb/>
+i Logie, deels i Gaardene omkring Pladsen og deels paa denne i Telte <lb/>
+og Granhytter. Thorsdag Morgen Kl. 5 sætter Toget sig atter i Bevægelse, <lb/>
+efterat Reveillen er gaaet, og begiver sig paa samme Maade tilbage <lb/>
+til Sundvolden, opad Kleven, hvorhen Ringerikningerne følge med <lb/>
+for at deeltage i den af Festcommitteen arrangerede Frokost. Derpaa <lb/>
+begiver man sig atter tilfods over Skoven og tager til Vognene ved <lb/>
+Jonsrud. Paa Hjemveien besøges Bærums Værk, hvor Udslag af Mar[!]sovnen <lb/>
+i den Anledning vil holdes færdigt. Om der Thorsdag Aften vil blive <lb/>
+nogen Fest i Theatret er uvist; formodentlig skeer det ikke, da <lb/>
+man vil være træt efter Reisens Besværligheder. Fredag Aften afholdes <lb/>
+paa Klingenberg en Fest for alle de af Byens Indvaanere (med deres <lb/>
+Damer), der deels ved Penge, deels ved Logie eller paa anden Maade have <lb/>
+bidraget til Høitidelighederne. Festen er beregnet paa 2500 Deeltagere. <lb/>
+Løverdag Morgen Kl. 9 foregaaer Afreisen, hvortil man samles <lb/>
+i den store Logesal. – Om Formiddagene og Eftermiddagene vil alle <lb/>
+Dage være Adgang til at besee det Kongelige Slot, det nye Universitet, <lb/>
+Universitetets Samlinger, National-Galleriet, Kunstforeningen, ligesom <lb/>
+der gjøres Udflugter til Hovedøen, til den nye Vei, til Bogstad, til <lb/>
+Bodsfængslet etc. etc. etc.</p>
+               <p xml:id="p13">	Det Tegn, som ved Festlighederne skal benyttes som Særkjende, <lb/>
+bestaaer i et Baand at bære i Knaphullet, for Norske hvidt, for Svenske <lb/>
+blaat og for Danske rødt, paatrykt med Guld Inscriptionen: "Det <lb/>
+nordiske Studentermøde i Christiania 1851". –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

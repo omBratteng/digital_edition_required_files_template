@@ -1,0 +1,116 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>426</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 26. januar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 26. januar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efterat min seneste underdanigste Rapport af 19de denne Maaned <lb/>
+var afgaaet, havde jeg den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af samme Dato.</p>
+               <p xml:id="p2">	Den samme Post bragte mig ved Hans Excellence Statsminister Due <lb/>
+Deres Majestæts naadige Befaling "at angive den bedste Maade" at meddele <lb/>
+nogle af Storthingets Medlemmer de Aktstykker, der vedkomme Neutralitets <lb/>
+Declarationen o.s.v."</p>
+               <p xml:id="p3">	I denne Anledning vil jeg tillade mig underdanigst at meddele, <lb/>
+hvorledes jeg, i Mangel af et constitutionelt "hemligt Utskott" har <lb/>
+hjulpet mig frem i 2de foregaaende lignende Begivenheder.</p>
+               <p xml:id="p4">	Høistsalig Kongen befalede mig at forelæse<hi rend="underline">for et Udvalg</hi>  af det <lb/>
+da forsamlede Storthing Sin uforanderlige Anskuelse om Nødvendigheden <lb/>
+af det absolute Veto, i hvilken Hensigt jeg indbød et af mig udseet  <lb/>
+Antal Storthingsmedlemmer til et fortroeligt Møde hos mig.</p>
+               <p xml:id="p5">	I Aaret 1848 befalede Deres Majestæt mig at meddele<hi rend="underline">et Udvalg</hi>  af <lb/>
+Storthinget Deres Majestæts Anskuelser om Deeltagelse i den danske <lb/>
+Krig med dertil hørende visse Aktstykker, i hvilken Anledning jeg  <lb/>
+indbød de i min underdanigste Rapport af 28de Mai samme Aar angivne  <lb/>
+Storthingsmænd til en fortroelig Conference hos mig.</p>
+               <p xml:id="p6">	I begge disse Tilfælde opnaaedes Hensigten uden at foranledige <lb/>
+nogensomhelst Misnøie i Storthinget og jeg formener det rigtigst, at <lb/>
+bruge den samme Fremgangsmaade i den nu omhandlende Begivenhed, en <lb/>
+Anskuelse, som Regjeringens øvrige Medlemmer dele.</p>
+               <p xml:id="p7">	Støttet paa Erfaring tillader jeg mig saaledes underdanigst at <lb/>
+foreslaae, "at Deres Majestæt ved den officielle Meddelelse til  <lb/>
+Storthinget af Neutralitets-Declarationen og hvad dermed staaer i  <lb/>
+Forbindelse, naadigst vil <hi rend="underline">antyde</hi>  Deres Majestæts Hensigt, fortroeligen at <lb/>
+lade meddele de Gjenstanden vedkommende Aktstykker, som ikke egne sig <lb/>
+til Offentliggjørelse" og at Deres Majestæt, ved herom at give mig <lb/>
+naadig Befaling, lige naadigst vil bemyndige mig til at iværksætte <lb/>
+denne Befaling paa bedste Maade efter Omstændighederne, som jeg ikke <lb/>
+nu kan forudsee.</p>
+               <p xml:id="p8">	Men Hensyn paa Sagens Behandling i Danmark og den Publicitet, som <lb/>
+den allerede har faaet, tillader jeg mig at yttre det underdanige Ønske, <lb/>
+at den officielle Meddelelse maa blive givet Storthinget tidligst <lb/>
+muligt.</p>
+               <p xml:id="p9">	Med Morgenposten vil Regjeringens underdanigste Indstilling om <lb/>
+min Søn Ottos naadige Udnævnelse til Assessor i Høiesteret afgaae. <lb/>
+Jeg kan i Sandhed sige, at jeg ikke har tilladt mig at yttre et  <lb/>
+anbefalende Ord for ham til nogen Vedkommende; men da han nu <hi rend="underline">eenstemmig</hi>
+                  <lb/>
+er indstillet saavel af Høiesteret som af Regjeringen, tør jeg tillade <lb/>
+mig underdanigst at anbefale denne min kjære Søn til Deres Majestæts <lb/>
+Naade.</p>
+               <p xml:id="p10">	Da Deres Majestæt i sidste naadige Skrivelse nævner den almindelige <lb/>
+Mening i England for Krig, kan jeg ikke tilbageholde den underdanige <lb/>
+Bemærkning at jeg vilde beklage, om ogsaa i denne Begivenhed, hvor <lb/>
+det gjælder Europas Vee og Vel, Nutidens Presse og saa kaldte almindelige <lb/>
+Mening skulde udøve nogen Indflydelse paa Statsmænd og Regjeringer. <lb/>
+Disse burde styre Pressen og den almindelige Mening, men det er <lb/>
+desværre omvendt og dette bagvendte Forhold er Nutidens største Ulykke.</p>
+               <p xml:id="p11">	En paafaldende Begivenhed i Nutidens Annaler er den nu sluttede <lb/>
+holstenske "Stændeversamlungs" Resultat, nemlig en Petition til Deres <lb/>
+Konge om at Hans Majestæt vil tilbagetage den absolute Regjeringsform, <lb/>
+som den var før 1848. Et nyt Beviis for, hvor hastig Mennesker kunne <lb/>
+gaae over fra den ene Yderlighed til den anden.</p>
+               <p xml:id="p12">	Jeg tillader mig at vedlægge en underdanigst Takskrivelse fra <lb/>
+Christiania Understøttelses Selskab for den sædvanlige Naadegave af <lb/>
+100 Spdl. som Deres Majestæt lader uddele til Christiania Byes Trængende <lb/>
+hvert Aars 26de Januar. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26de Januar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

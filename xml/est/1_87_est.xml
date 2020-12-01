@@ -1,0 +1,120 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>87</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. januar 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. januar 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Regjeringens Statsraads Session igaar optoges næsten udelukkende af Overlægninger om den tiltænkte, den ønskede Handels- eller rettere Navigations Tractat med Frankrige. Vi ønske ivrig dens Istandbringelse saavel for Sagen selv, som fordi Deres Majestæt har den Naade at omfatte den med særdeles Interesse.</p>
+               <p xml:id="p3">	Det var muligt for Rusland at opnaae en Navigations Tractat uden andre Concessioner end fuld Reciprocitet, fordi Skibsfarten mellem Rusland og Frankrige er gjensidig. Den er derimod aldeles eensidig imellem de forenede Rige og Frankrige, fordi den dem imellem saa godt som udelukkende drives af svenske og norske Skibe. Da saaledes de Lettelser, som maatte bevilges sidstnævnte i Frankrige ikke kan godtgjøres ved gjensidige for franske Skibe i de forenede Rigers Havne, saa kan disse kun byde Vederlag ved Toldconcessioner i Sverige og yderligere Toldconcessioner i Norge. Disse bør dog ogsaa være begrændsede i Forhold til de opnaaende Fordele. Vi formene, at Indførsels Tolden for franske Producter i Norge i Almindelighed er moderat og at den eneste Artikel, hvorfor for Tiden Nedsættelse kan bydes, er Viin. For denne er den norske Indførselstold nu i Foustager 7 Skilling, i Bouteiller 20 Skilling pr Pot. Mod tilsvarende Nedsættelse af de meget høie Skibsafgifter i Frankrige, formene vi, at kunne foreslaae Tolden for Viin i Foustager nedsat til 3 Skilling, i Bouteiller til 8 Skill. pr Pot, en Nedsættelse, som anslaaes til 25,000 Speciedaler aarlig Formindskelse i vore Told Intrader. Den norske Regjerings detaillerede Anskuelse om Gjenstanden vil naadigst erfares af dens med Dagsposten afgaaende underdanigste Indstilling.</p>
+               <p xml:id="p4">	Vi formene underdanigst, at de forenede Riger for Tiden ene bør bestræbe sig for, som Rusland, at opnaae en Skibsfarts Tractat, at de bør indskrænke deres Fordring til Nedsættelse af de franske Skibsafgifter, at enhver Fordring paa andre Concessioner, til Exempel Nedsættelse af Jerntolden, hvor velgjørende den end vilde være for de forenede Riger, for Tiden ikke alene vil være forgjæves, men nu som tidligere gjøre enhver Overeenskomst umulig.</p>
+               <p xml:id="p5">	Denne Tolds Nedsættelse er en øm Byld i de franske Kamre. Rusland har heller ikke faaet nogen lignende Concession.</p>
+               <p xml:id="p6">	I denne Anskuelse stadfæstes jeg ved den franske Udenrigs-Ministers Skrivelse af 30te Mai 1846 til Deres Majestæts Minister i Paris.</p>
+               <p xml:id="p7">	Hr Guizots Yttringer mod enhver Nedsættelse af Jerntolden ere meget bestemte og uden Tvivl samstemmende med mægtige Privat-Interesser i Kamrene. Først, naar disse ved en indre Kamp ere beseirede vil en Lettelse for Jern kunne ventes, og først da vil Tiden indtræffe for en Handelstractat der indbefatter Jern og andre de forenede Rigers Producter, for hvilken Tidspunct vi bør forbeholde os Muligheden af yderligere Concessioner.</p>
+               <p xml:id="p8">	Naar Hr Guizot taler om, "un debouché, toujours croissant qui est ouvert en France aux produits de la peninsule", saa er dette kun sandt for vore Træproducter, som Frankrige tiltrænger, hvorimod Tolden paa Jern og Fisk, som det ikke vil have, er lig et Forbud. Hr Guizots Yttringer om "exagération des taxes et droits excessifs" træffe i det mindste ikke Norge.</p>
+               <p xml:id="p9">	For det Tilfælde, at Deres Majestæt maatte sende nogen svensk Handlende til Paris, for i Detailler at veilede Hans Excellence Løwenhjelm, maa jeg ansee en lignende Foranstaltning for Norge hensigtsmæssig, ja for Opinionen aldeles nødvendig. For dette Hverv anseer jeg, efter Overlæg med mine Colleger blandt Andre 3 norske Handlende vel skikkede: Kjær i Drammen, Ridder af Æreslegionen, Stephanson i Arendal, Munch i Skien. Jeg har begyndt med at indhente den først nævntes Erklæring, hvorom jeg underdanigst tør forbeholde mig nærmere ved næste Post. Iøvrigt har jeg anvendt muligst Omsorg for den hele Sags Hemmelighedholdelse.</p>
+               <p xml:id="p10">	Forinden jeg forlader denne interessante Gjenstand, tillader jeg mig den underdanigste indstændige Bøn, at under alle Omstændigheder Norge maa vorde indsluttet i den Tractat, som mulig kan blive sluttet for Sverige, at de forenede Rigers Interesse i denne Begivenhed ikke maa vorde adskilt.</p>
+               <p xml:id="p11">	Med Morgenposten afgaaer underdanigst Indstilling om, at Deres Majestæt ved provisorisk Anordning naadigst vil ophæve Indførsels Tolden for Potates. Jeg deler ikke de i denne Indstilling om Korntolden yttrede ubetimelige Anskuelser, som overordentlige Omstændigheder kunne gjøre umulige at vedligeholde. Vi maa takke Gud, om vort havende Kornforraad kan strække til for Vinteren; men hvorfra kan vi vente Tilførsel til Foraaret, naar der i kornproducerende Lande er Hungersnød, naar Udførsel i disse forbydes, Indførsel ved alle mulige Midler faciliteres?</p>
+               <p xml:id="p12">	Under saadanne Omstændigheder er det dobbelt forargeligt, at Brændeviinstilvirkningen i dette Land florerer trods Maadeholds-Foreninger og Brændeviinslove, at Regjeringen ikke<hi rend="underline">kan</hi>  forhindre, at Livets første Fornødenheder, som til Foraaret vil savnes, under Vinteren forvandles til Brændeviin.</p>
+               <p xml:id="p13">	Vedkommende Administrations Indberetning om Anvendelse af Deres Majestæts Naadegave 100 Speciedaler til denne Byes Fattige den 26de Januar tillader jeg mig underdanigst at vedlægge.</p>
+               <p xml:id="p14">	En Civilingenieur ved Navn England, er ankommet fra London, for at iagttage den norske Vinters Indflydelse paa vort projecterede Jernbaneanlæg. Han forsikkrer mig om den vedvarende Engelske Interesse for denne Gjenstand. Tillige med ham er ankommet den engelske Civil-Ingenieur, Normanden Sørensen, der er ansat som Directeur for det mechaniske Værksted paa Horten, hvorhen Statsraad Foss idag har fulgt ham.</p>
+               <p xml:id="p15">	Regjeringen har nu tilendebragt Gjennemgaaelsen af Unions committeens Arbeide, hvorom dens underdanigste Indstilling vil blive Deres Majestæt forelagt; saasnart det er bleven reenskrevet, som vil medtage en længere Tid. Vi have i denne Begivenhed samvittighedsfuldt bestræbet os for at ramme begge Rigers Tarv.</p>
+               <p xml:id="p16">	Naar Slotscommissionens Medlemmer oftere gjentage Ønsket om at blive fritagne for at bestyre Slottets Meublering kan jeg kun svare, at jeg underdanigst har andraget deres Ønske for Deres Majestæt. Jeg tillader mig i denne Henseende at referere til min underdanigste Rapport af 10de denne Maaned.</p>
+               <p xml:id="p17">	For det Tilfælde at Deres Majestæt maatte have bemærket en Klage i Morgenbladet No 28 betræffende Helgelands Overformynderie vil jeg ikke undlade underdanigst at meddele, at jeg har paalagt Justits Departementets Chef, Statsraad Petersen, i denne Anledning at anstille en nøiagtig Undersøgelse, om hvis Resultat jeg forbeholder min nærmere underdanigste Indberetning. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31 Januar 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 31. januar 1847</supplied>
+               </head>
+               <opener>
+                  <salute>Deres Excellence</salute>
+                  <lb/>
+                  <address>
+                     <addrLine rend="center">Norges Riges Statholder Løwenskiold</addrLine>
+                     <addrLine rend="center">Ridder og Commandeur af Hans Majestæts Ordener</addrLine>
+                  </address>
+               </opener>
+               <p xml:id="p18">	Administrationen giver sig herved den Ære at indberette, at de 100 Spdlr, som Hs Majestæt Kongen naadigst har behaget gjennem Deres Excellence at skjænke til Uddeling blandt Huusarme paa Høistsalig Kong Carl Johans Fødselsdag den 26de Januar 1847 ere fordeelte saaledes: <lb/>
+                  <table xml:id="table1">
+                     <row>
+                        <cell>til de 8 Lemmer, der have Plads paa Kong Carl Johans <lb/>Forsorgelsesanstalt i Vaterland . . . .</cell>
+                        <cell>4 Spd.</cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>til 22 trængende Familier 22 Favne Brænde . .</cell>
+                        <cell>48  " </cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>til Beklædning af 24 Børn 	. . . . . .</cell>
+                        <cell>
+                           <hi rend="underline">	  48  "  </hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>		tilsammen –	</cell>
+                        <cell>100 Spd.</cell>
+                     </row>
+                  </table>
+               </p>
+               <closer> 	Administrationen for Understøttelsesselskabet, <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 Januar 1847</date>.</dateline>
+                  <lb/>
+                  <signed>L. Hansen.	T. Thrase.	C. Spørck.	D. Schroeter. <lb/>
+H. Lorch.	C. Stenersen.	Bretteville.	Chr. Gundahl. <lb/>
+A.H. Tangen.	Schiøtz.	Chr. Tofte.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

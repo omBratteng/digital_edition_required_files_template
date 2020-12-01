@@ -1,0 +1,95 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>48</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. desember 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. desember 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p xml:id="p2">	Sidste Stockholms Post bragte Deres Majestæts naadige Resolution <lb/>
+i Anledning af Rigsretsdommen. Den ventedes med Længsel og modtoges <lb/>
+med Glæde og Taknemmelighed. Majoriteten i Rigsforsamlingen paa Eidsvold <lb/>
+ahnede ikke Farligheden af den af dem etablerede Mulighed, at <lb/>
+Uvidenhed og Raahed, uden Modvægt, kunde vinde Majoritet i Storthinget. <lb/>
+Det eneste Værn mod dette frygtelige Onde er en urokkelig Fasthed <lb/>
+fra Kongemagtens Side. Denne har Deres Majestæt viist ved flere <lb/>
+Leiligheder under Storthingets Samvære og i Særdeleshed ved denne, <lb/>
+hvor den meest tiltrængtes. Deres Majestæt prises derfor af alle <lb/>
+Normænd, som have Evne og Villie til at forstaae deres Fædrenelands <lb/>
+sande Vel, Intelligents og Formue søge nu Beskyttelse hos Kongemagten, <lb/>
+og denne finder Støtte og Medhold hos disse Borgersamfundets betydende <lb/>
+Elementer. –</p>
+               <p xml:id="p3">	Deres Majestæt vil af offentlige Blade naadigst have erfaret, at <lb/>
+Indkjøbet af Fru Grünings Grundeiendom langs med Veien til Slottet, <lb/>
+for Byens Regning, ikke vandt Pluralitet i Representantskabet. Fru <lb/>
+Grüning holder denne Eiendom i 18 eller 17,000 Speciedaler, hvortil <lb/>
+man smigrer sig med (jeg veed ikke med hvilken Hjemmel), at Deres Majestæt <lb/>
+vil have den Naade at bidrage 4,000 Spdl., Huuseierne paa Veiens <lb/>
+anden Side 5 à 6,000 Spdl. og de resterende 7 à 8,000 Spdl. skulde <lb/>
+udredes af Byen, som desuden maatte betale Tomtens Omdannelse til <lb/>
+en Park, der skulde sættes i Forbindelse med Slotsparken. Et saadant <lb/>
+Anlæg vilde særdeles meget forskjønne Byen; men man fandt Udgiften <lb/>
+for betydelig, især da en snarlig Udgift af andre 9,000 Spdl. forestaaer, <lb/>
+for at give den gamle Gade i Byen, som fører til Slottet, den <lb/>
+fornødne Bredde. Jeg holder mig imidlertid overbeviist om, at om jeg <lb/>
+i denne Begivenhed havde havt Deres Majestæts Befaling, om jeg havde <lb/>
+været authoriseret til at gjøre Deres Majestæts Ønske gjeldende, skulde <lb/>
+jeg kunne have vunden de 6 Stemmer og flere i Representantskabet, <lb/>
+som manglede. Anvendelsen af omhandlede Tomt kan blive til megen Ziir <lb/>
+eller Vanziir for Christiania Bye!</p>
+               <p xml:id="p4">	Jeg har længe næret det Ønske, at ogsaa vi maatte kunne bidrage <lb/>
+vor Skjærv til at lindre Nøden i Broderriget og dette mit Ønske <lb/>
+har mødt megen Velvillie i Formandskabet, hvis Medlemmer efter Overlæg <lb/>
+med mig have i denne Hensigt udstædt en Indbydelse, hvis Resultat <lb/>
+forhaabentlig i det mindste vil vise vor gode Villie, vort broderlige <lb/>
+Sindelav. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8 December 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst	</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,330 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>213</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 31. januar 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 31. januar 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	I Statsraad den 26de oplæste Statsraad Stang en Deel Bemærkninger <lb/>
+om Værnepligtssagen, som han i de sidste 8 Dage havde skrevet; men <lb/>
+begjærte atter Sagens endelige Afgjørelse udsat for som han yttrede, at <lb/>
+retouchere det senest skrevne. Hermed var han endnu ikke færdig til <lb/>
+Statsraadet i Gaar; men vil dog uden Tvivl blive det til Statsraadet i <lb/>
+Overmorgen. Imidlertid er Reenskrivningen af den vidtløftige Indstilling <lb/>
+forlængst under Arbeide i Statssecretariatet.</p>
+               <p xml:id="p3">	Uagtet Statsraad Stangs Oplysninger og Bemærkninger visselig have <lb/>
+Interesse og Værd, maa jeg dog beklage, at Sagen derved er bleven saa <lb/>
+længe opholdt, da de ikke have havt nogen Indflydelse paa Pluralitetens <lb/>
+Indstilling, som forlængst kunde have været afgivet, om Principper til <lb/>
+en Værnepligtslov, som indstilles til Deres Majestæts naadige  <lb/>
+Approbation.</p>
+               <p xml:id="p4">	Silden expederer sig Gud skee Tak! hurtigere. Den har indfunden sig <lb/>
+paa de sædvanlige Steder af Kysten og dette for Norge saa vigtige  <lb/>
+Fiskerie har begyndt og foregaaer under gunstige Auspicier.</p>
+               <p xml:id="p5">	Vinteren vedbliver at være meget stræng med 18 à 22 Grader Reaumur <lb/>
+Kulde og saa megen Snee, at jeg igaar havde ondt for at komme frem <lb/>
+til Hest paa Landeveien nærmest Byen.</p>
+               <p xml:id="p6">	Fra Continenten have vi længe ingen Efterretninger modtaget og den <lb/>
+sidste Tirsdag ventede danske Post er ogsaa udebleven.</p>
+               <p xml:id="p7">	Statsraad Sibbern har anmodet mig om foreløbig at andrage hans <lb/>
+underdanigste Ønske om naadigst Entledigelse med Pension til Foraaret.</p>
+               <p xml:id="p8">	Uagtet jeg har gjort den ubehagelige Erfaring, at Intet behandles <lb/>
+confidentielt i Statsraadet uden at det snart er bleven bekjendt og kommet <lb/>
+i Aviser, troede jeg dog at burde gjøre Statsraad Sibberns Ønske og <lb/>
+foreslaaende Efterfølger til Gjenstand for en confidentiel Behandling i <lb/>
+Statsraad i Gaar.</p>
+               <p xml:id="p9">	Alle vare enige om, 1o at uagtet det Betænkelige ved at forøge <lb/>
+de allerede betydelige Statsraads Pensioner (14,500 Spdl. hvoraf 9,000 <lb/>
+Spdl. ureviderede) burde der dog med Hensyn paa Statsraad Sibberns <lb/>
+Alder, 70 Aar, og lange hæderlige Tjeneste Tid, – ikke gjøres Vanskelighed <lb/>
+mod hans attraaede Afgang, og 2o, at Professor Schweigaard vilde <lb/>
+være den ønskeligste Acquisition som hans Efterfølger.</p>
+               <p xml:id="p10">	Dernæst nævnedes som formeentlig værdige og dygtige Candidater <lb/>
+Borgermester Bretteville, Amtmand Møinichen, Toldcasserer Lange.</p>
+               <p xml:id="p11">	Jeg deler denne Mening og tillader mig in specie underdanigst at <lb/>
+henlede Deres Majestæts naadige Opmærksomhed paa Bretteville, som  <lb/>
+tidligere af Deres Majestæt har været designeret og som visselig maa <lb/>
+ansees for den dygtigste til at bestyre Finants- eller Indre-Departementene, <lb/>
+hvortil Statsraadet i de nærværende Chefers Forfald mangler Subjecter <lb/>
+med Brettevilles Sagkundskab, som er en Følge af hans tidligere Stilling <lb/>
+som Expeditions Secretair i Finants Departementet. <lb/>
+Efter de forgjæves Forsøg. som jeg efter Deres Majestæts naadige <lb/>
+Befaling ved andre Leiligheder har gjort, for at bevæge Professor <lb/>
+Schweigaard til at indtræde i Statsraadet, tør jeg ikke nu gjøre mig mere <lb/>
+Haab om hans Antagelse; men ønsker dog at et naadigst Tilbud maa tillades <lb/>
+ham gjort som et smigrende Beviis paa Deres Majestæts uforandrede Agtelse.</p>
+               <p xml:id="p12">	Jeg tillader mig saaledes underdanigst at indstille, at Deres <lb/>
+Majestæt naadigst vil bemyndige mig til at tilbyde Professor Schweigaard, <lb/>
+men om han ikke antager, Borgemester Bretteville at indtræde i Statsraadet <lb/>
+som Statsraad Sibberns Efterfølger.</p>
+               <p xml:id="p13">	Jeg tillader mig underdanigst at vedlægge den constituerede <lb/>
+Politiemester Rapport af 28de denne Maaned (Litr A) om M. Thranes seneste <lb/>
+Optræden her i Staden. Det Bifald han møder hos den store Masse ligger i <lb/>
+Sagens og Menneskers Natur. Om hans Agitation, som Styrelsen for Tiden <lb/>
+ikke er bemyndiget til at standse, saa længe den holdes inden lovlige <lb/>
+Grændser, ikke omsider vil foranledige nogen Explosion, da maa dette <lb/>
+tilskrives Nordboens kolde Natur og locale Omstændigheder.</p>
+               <p xml:id="p14">	Med klog Beregning greb han en Anledning til at udbringe et Hurra <lb/>
+for Statsraad Stang, fordi denne som Indre Departementets Chef, <hi rend="underline">efter</hi>
+                  <lb/>
+                  <hi rend="underline">Overlæg i Regjeringen</hi>, nylig har opfordret alle Amtmænd til at afgive <lb/>
+Erklæring om Huusmændenes (Torparnes) Kaar og Stilling.</p>
+               <p xml:id="p15">	Jeg har troet at burde henlede den commanderende Generals <lb/>
+Opmærksomhed paa den Deel af Politiemesterens Rapport, som handler om <lb/>
+Garnisonen.</p>
+               <p xml:id="p16">	Af vedlagte Litr. B vil Deres Majestæt naadigst erfare Anvendelsen <lb/>
+af Deres Majestæts Naadegave i Anledning af Høistsalig Kongens Fødselsdag.</p>
+               <p xml:id="p17">	Ligesaa tillader jeg mig underdanigst at vedlægge en Extract af <lb/>
+Stiftamtmand Arentzens Indberetning til mig om Tilstanden i Sælbo.</p>
+               <p xml:id="p18">	Lord Palmerstons Meddelelse af 24de December gjennem Hans Excellence <lb/>
+Udenrigsministeren, om Cholera Sygdommens totale Ophør i Storbrittanien, <lb/>
+stemmer kun lidet med Generalconsul Totties Rapport af <hi rend="underline">3die Januar</hi>,  <lb/>
+hvorefter Sygdommen i 9 Byer endnu ikke havde ophørt i 4 Uger og <lb/>
+atter var udbrudt i 2 navngivne Byer og formener jeg den norske Styrelse <lb/>
+forpligtet til at begrunde sine Foranstaltninger i denne Begivenhed mere <lb/>
+paa en ansvarlig Embedsmands Rapport, end paa Lord Palmerstons Meddelelse, <lb/>
+hvorfor han ikke har noget Ansvar til os, men kun til sig selv, hvorpaa <lb/>
+jeg ærlig og confidentielt sagt, ikke vover at stole.</p>
+               <p xml:id="p19">	Efterat Ovenstaaende var skrevet, ere 5 manglende Hamburger Poster <lb/>
+hertil ankomne med den Meddelelse fra Postcontoiret i Helsingøer, at de <lb/>
+øvrige manglende Hamburger Poster med en Deel Passagerer, ere i 7 Baade <lb/>
+fordrevne ved Isen i Store-Bælt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31 Januar 1850. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 31. januar 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Lit. A.</hi>
+               </head>
+               <opener>Hans Excellence <lb/>
+Høivelbaarne Hr Statholder, <lb/>
+Ridder og Commandeur af Hs Mjts <lb/>
+Ordenen, Commandeur med Storkorset <lb/>
+af St Olafs Ordenen, Ridder <lb/>
+af Elephantordenen v. Løvenskiold.</opener>
+               <p xml:id="p20">	Jeg tillader mig herved underdanigen for Deres Excellence at anmelde, <lb/>
+at Stifteren af Arbeide-foreningerne, Markus Thrane, Tirsdagen den <lb/>
+22de, Onsdag d. 23de og Fredag den 25de dennes har foranstaltet <lb/>
+Samlinger afholdte paa en af Byens Dandseboder, hvor der indfandt sig <lb/>
+respective circa 600 Personer, 400 og 150 Personer, og hvor der foretoges <lb/>
+Oplæsning af en til Hans Majestæt Kongen stilet Petition, der er trykt, <lb/>
+men saa omhyggelig forvares af Thrane selv, for at undgaae offentlig <lb/>
+Drøftelse i Dagbladene, at der ikke findes et eneste Exemplar af den <lb/>
+her i Staden, hvorfor det har været mig umueligt indtil nu at forskaffe <lb/>
+mig en Gjenpart, som jeg havde ønsket at vedlægge nærværende underdanige <lb/>
+Rapport. Foruden det Politipersonale, der af mig var beordret <lb/>
+til at overvære Samlingerne, har jeg forskaffet mig en Referent, der <lb/>
+efter at have optegnet Petitionens Momenter har underrettet mig om at <lb/>
+den bestaaer af: <lb/>
+               </p>
+               <list xml:id="list21">
+                  <label>1.  </label>
+                  <item>Forandring i Toldsatserne med Hensyn til Nødvendighedsartikler, <lb/>
+hvortil henregnes Caffe. – Statscassens Afsavn af disse Toldintrader  <lb/>
+foreslaaes udlignede paa Formue og Næring.</item>
+                  <lb/>
+                  <label>2.  </label>
+                  <item>Ophævelse af L. 2den Juli 1836 om Liggedagene. –</item>
+                  <lb/>
+                  <label>3.  </label>
+                  <item>Handelsfrihed i Landdistrikterne.</item>
+                  <lb/>
+                  <label>4.  </label>
+                  <item>Indskrænkningen i Brændeviinsudsalg og Forbud af Udskjænkning <lb/>
+af denne Drik.</item>
+                  <lb/>
+                  <label>5.  </label>
+                  <item>Gjennemgribende Reformer indførte i Lovgivningen om Huusmænd. –</item>
+                  <lb/>
+                  <label>6.  </label>
+                  <item>Forbedring i Almueskolevæsenet paa Landet.</item>
+                  <lb/>
+                  <label>7.  </label>
+                  <item>Almindelig Værnepligt.</item>
+                  <lb/>
+                  <label>8.  </label>
+                  <item>Reformer i Retspleien i criminelle Sager, sigtende til større <lb/>
+Betryggelse for de Tiltalte.</item>
+                  <lb/>
+                  <label>9.  </label>
+                  <item>Almindelig Stemmeret. –</item>
+               </list>
+               <p xml:id="p22">	Kun den første Aften ledsagedes Petitionens Oplæsning med <lb/>
+Bemærkninger af Forfatteren, men disse vare efter Fleres eenstemmige Dom <lb/>
+fremsatte med en Moderation og en Anerkjendelse, hvorfra Taleren aldrig <lb/>
+afveg uden naar Talen var om Storthingsmajoriteten eller de rige <lb/>
+Gaardbrugere. Jeg vil som Exempel tillade mig at anføre et par samme <lb/>
+Tid som Thrane brugte følgende, <hi rend="underline">ordret</hi>  paa Stedet nedskrevne Ord: <lb/>
+"Friheden bør have sin Rod i en forbigangen Tid, og jeg afskyer al  <lb/>
+oprørsk og communistisk Aand, hvis Virkninger aldrig bør blive synlige <lb/>
+os, og desuden bør vi elske vort Kongehuus, der har saa stort Krav paa <lb/>
+vor Taknemmelighed" – yttrede han, at Storthinget hidtil har bestaaet <lb/>
+af en Bondemajoritet, "hvis Kundskabskreds var begrændset af lav  <lb/>
+Egennytte", og paa samme Tid som han udbragte et "Lange leve" for <lb/>
+Regjeringens Medlem Statsraad Stang, rev han ned paa "de haarde, egoistiske <lb/>
+Hedemarksbønder". Ikkedestomindre tillader jeg mig at gjøre den  <lb/>
+Bemærkning, at Thrane har her i Staden faaet et saa stort Antal Tilhængere <lb/>
+blandt Arbeids og Haandværkssvendeclassen, at jeg anseer hans Optræden <lb/>
+at have den Betydning at man ikke længere bør være uopmærksom paa <lb/>
+den, saameget mere som jeg selv har erfaret, at Meningen af hans Ord ikke <lb/>
+altid rigtigen forstaaes af hans Tilhørere. Imidlertid er der for  <lb/>
+Christianias Vedkommende intet at befrygte, selv om det skulde behage Thrane <lb/>
+eller hans Tilhængere at handle i den skarpeste Modsætning til deres <lb/>
+egne Ord, aldenstund man som hidtil, fremdeles kan stole paa Garnisonen, <lb/>
+af hvis Mandskaber beklageligt nok flere have ladet sig indtegne som <lb/>
+Medlemmer af Arbeidsforeningen. Nogle af Stadens Gadevægtere, der havde <lb/>
+tegnet sig som Medlemmer af Foreningen, have fremviist Attest for at de <lb/>
+atter ere udslettede af samme, efterat jeg havde kaldt dem sammen og <lb/>
+erklæret dem at de strax vilde erholde deres Afskeed, dersom de ønskede <lb/>
+at vedblive som Medlemmer. Hvorledes man end vil anskue Thranes Optræden <lb/>
+maa den ialfald ansees som en Opposition mod det Bestaaende og Deres <lb/>
+Excellence vil forhaabentlig indrømme at det Bestaaendes Tjenere ikke <lb/>
+passende kunne være deelagtige i en saadan. –</p>
+               <p xml:id="p23">	Forsaavidt der har været udspredt Rygter om at en af Forstædernes <lb/>
+Gader har været illumineret eller at Thrane er bleven ledsaget til sit <lb/>
+Hjem af Haandværkssvendenes Sangchor, saa bemærkes at disse Rygter <lb/>
+savne al Grund. – Thrane er to Aftener bleven ledsaget af 40 til 50 <lb/>
+Arbeidere, der i største Stilhed, to og to fulgte ham til hans Logi,  <lb/>
+udenfor hvilket de raabte 9 Gange "Hurra". –</p>
+               <p xml:id="p24">	Thrane reiste i Løverdags herfra tilbage til Drammen, han lader til <lb/>
+at være yderst fattig og levede aldeles stille og ubemærket her den Tid <lb/>
+han ikke tilbragte i de omhandlede Sammenkomster. – <lb/>
+Christiania Politikammer d. 28de Januar 1850.</p>
+               <closer>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 31. januar 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">
+                  <hi rend="underline">Lit. B</hi>.</head>
+               <opener>Til <lb/>
+Hans Excellence, Statholder Løvenskiold! <lb/>
+Commandeur med St. K. og Ridder.</opener>
+               <p xml:id="p25">	I det Undertegnede erkjende Modtagelsen af Hs Majestæt Kongens <lb/>
+til pauvres honteux i Christiania naadigst skjænkede Gave 100 Spdr, <lb/>
+og i det man tillader sig at anføre, at den Kongelige Gave idag paa <lb/>
+Hs. Majestæt høistsalig Kong Carl Johans Fødselsdag er fordeelt: <lb/>
+                  <table xml:id="table1">
+                     <row>
+                        <cell>a. </cell>
+                        <cell>til Lemmerne paa Carl Johans Stiftelse med . . . . . . . .  </cell>
+                        <cell>4 Spdr.</cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>b. </cell>
+                        <cell>til 33 Børns Beklædning med  . . . . . . . . . . . . . . . . . . .</cell>
+                        <cell>46  "</cell>
+                     </row>
+                     <lb/>
+                     <row>
+                        <cell>c. </cell>
+                        <cell>til Brænde til 41 Familier med (30 Favne). . . . . . . . . .</cell>
+                        <cell>50  "</cell>
+                     </row>
+                     <lb/>
+                  </table>
+tør Administrationen underdanig have Deres Excellence anmodet om at <lb/>
+frembringe de glædede Hjulpnes erkjendtligste Tak til Hans Majestæt <lb/>
+for dette fornyede Beviis paa Hans Kjærlighed. <lb/>
+               </p>
+               <closer>Administrationen i Understøttelsesselskabet for Huusarme, <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26de Januar 1850</date>.</dateline>
+                  <lb/>
+                  <signed>T. Staib	H. Wegner		H. Mariboe	C. Stenersen	Emilie Blich <lb/>
+A.V. Thangen	Peter Schreiner	H. Krog.	D.N. Barth</signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h7">
+                  <supplied resp="editor">Tillegg til rapport av 31. januar 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h8">
+                  <hi rend="underline">Lit. C</hi>.</head>
+               <head type="sub3" rend="center" xml:id="h9">	Extract af Stiftamtmand Arentzens Brev, dateret Trondhjem den <lb/>
+    		  20 Januar 1850.</head>
+               <p xml:id="p26">	– "Der er saaledes efter min Mening Intet District paa disse <lb/>
+Kanter af Landet, der er i den Grad trængende til Understøttelse som <lb/>
+Sælbo.</p>
+               <p xml:id="p27">	Imidlertid er det min Pligt tillige at underrette Deres Excellence <lb/>
+om, at vi her paa Stedet ikke have siddet med Hænderne i Skjødet, men <lb/>
+tvertimod efter Evne søgt at skaffe Midler til at lindre Nøden i Sælbo. <lb/>
+I Forening med Krigscommissair Meyer og Cand. juris C. Wahl har jeg <lb/>
+faaet istand en offentlig Aften Underholdning af Amateurer der afholdtes <lb/>
+den 19de dennes og indbragte i reen Indtægt omtrent 250 Spdl. <lb/>
+Efter det af Sognepræst Tybring i Aviserne skeede Nødraab for Sælbo, <lb/>
+er til Provst Holtermann i Trondhjem, der forestaaer Indsamlingen,  <lb/>
+indkommet i Penge og Varer omtrent 600 Spdl. for det Meste herfra Byen, <lb/>
+og vi haabe, at disse Gaver ville stige til omtrent 1000 Spdl. derunder <lb/>
+indbefattet Udbyttet af Aften Underholdningen. Dette maa upaatvivelig <lb/>
+betragtes som en væsentlig Hjelp for Øieblikket. Men det store Spørgsmaal <lb/>
+er om at faae Sælbo tilsaaet til Foraaret, hvortil udfordres omtrent <lb/>
+1200 Tønder Korn af hvilket saagodtsom intet findes i Bygden. Ved <lb/>
+Credit hos Kornhandlerne og Forskud paa Qværnestene kan vel endeel <lb/>
+faaes, men neppe det Halve. Det øvrige maa tigges sammen. Af det i <lb/>
+Trondhjem indkomne Bidrag bliver nok noget udtrykkelig forbeholdt til <lb/>
+Sædekorns Anskaffelse, og det vilde være gavnligt, om der for Hans <lb/>
+Majestæts naadige Gave kunde betinges en lignende Anvendelse. Næst <lb/>
+Sælbo maa betragtes som den meest trængende Bygd: <hi rend="underline">Budalen</hi>.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

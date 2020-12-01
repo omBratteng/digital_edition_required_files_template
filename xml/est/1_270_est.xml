@@ -1,0 +1,111 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>270</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 26. desember 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 26. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p xml:id="p2">	Jeg iler med at nedlægge min underdanigste Taksigelse for Deres <lb/>
+Majestæts naadige Meddelelse af det interessante for mig glædelige <lb/>
+Resultat af de senere Aars politiske Gjæring i Sverige. Jeg lykønsker <lb/>
+af ganske Hjerte Deres Majestæt, Sveriges Rige og Folk, til dette <lb/>
+lykkelige Resultat, hvorved de saa ivrigen bedrevne Omstyrtelses <lb/>
+Bestræbelser ere strandede paa det svenske Folks Klogskab, sunde <lb/>
+Sands, og Agtelse for det Bestaaende hvorpaa det har givet Europas <lb/>
+øvrige Nationer et lysende Exempel.</p>
+               <p xml:id="p3">	Sveriges Statsforfatning maa som alle Menneskeværk have sine <lb/>
+Mangler; men den besidder de for et constitutionelt Monarchies <lb/>
+Stabilitet uundværlige 3 Elementer, det Monarchiske, det aristocratiske, <lb/>
+det democratiske; den har i sin Representation et selvskreven <lb/>
+Element, der er uafhængig af Valg; dens Representation er baseret <lb/>
+paa de 4 Borger Classer, som, om end ikke overalt anerkjendte, dog <lb/>
+ere uudryddelige, fordi de ere de naturlige. Denne Statsforfatning <lb/>
+kan i sine enkelte Dele tiltrænge Forbedring; men dens Hoved Elementer <lb/>
+bør bibeholdes, – den bør ikke omstyrtes.</p>
+               <p xml:id="p4">	Efter Deres Majestæts naadige Befaling har jeg meddeelt den Norske <lb/>
+Regjerings Medlemmer Indholden af Deres Majestæts naadige Skrivelse, <lb/>
+som af Alle modtoges med Interesse, om end ikke med samme Glæde, <lb/>
+som af mig. Tilfældet er her, som i Deres Majestæts nuværende <lb/>
+svenske Statsraad, – Fødsel, Opdragelse, Naturen, kræve sin Ret og</p>
+               <quote>"Naturam pellas Ex!"
+    	"Hun kommer dog igjen den Hex!"</quote>
+               <p xml:id="p5">	Sidste Løverdag den 21de var jeg virkelig bange for, at en <lb/>
+Prostitution kunde overgaae vor her studerende Ungdom, som var  <lb/>
+sammenkaldt i Studentersamfundet, for at overveie et indkommet Forslag om <lb/>
+at tilkjendegive Regjeringen Studenternes Mishag over Bergmester <lb/>
+Sexes Afskedigelse. Directionen kunde ikke nægte Forslagets Behandling, <lb/>
+men den vilde ikke deeltage deri og det fik kun en 20 Stemmer <lb/>
+for sig, og fik saaledes efter varme Debatter et complet Nederlag. <lb/>
+Man vil vide, at Forslaget er bag Coulisserne udgaaet fra 2de <lb/>
+Universitetslærere, Lectorerne Monrad (nylig indstillet til Professor!) <lb/>
+og Broch, – hvorefter man dobbelt bør paaskjønne den sunde <lb/>
+Sands, hvormed unge Mennesker have tilbageviist dette dumme og grove <lb/>
+Forslag.</p>
+               <p xml:id="p6">	I underdanigst vedlagte Blad vil Deres Majestæt finde en <lb/>
+Proclamation af M. Thranes, saakaldte Central-Bestyrelse, hvori temmelig <lb/>
+ufordulgt yttres, "at Ingen er forpligtet til at adlyde Love, i hvis <lb/>
+Forfattelse han ikke selv har deeltaget, og at Revolution er tilladelig, <lb/>
+om den Thraneske Petition skulde møde ligesaa lidet Gehør hos <lb/>
+Storthinget, som hos Regjeringen.</p>
+               <p xml:id="p7">	Jeg vover at gjentage min underdanigste indstændige Bøn om Deres <lb/>
+Majestæts høie personlige Nærværelse ved Storthingets Aabning.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at vedlægge de efter Deres <lb/>
+Majestæts naadigste Befaling indhentede Indberetninger om den ulykkelige <lb/>
+Mand Thore Thoresøns – af Høle Sogn, Stavanger Amt, – ynkelige <lb/>
+Mishandling af en Bjørn, hvorved han er bleven berøvet Synet for sin <lb/>
+Livstid. Om Deres Majestæt vil have den Naade at forunde denne <lb/>
+ulykkelige værdige Mand en Kongelig Naadegave, vover jeg underdanigst <lb/>
+at foreslaae 50 à 100 speciedaler, beklagende ogsaa i denne Begivenhed, <lb/>
+at vi savne de bequemme Rigsgjeldssedler, hvorved med Lidet kan <lb/>
+udrettes meget. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

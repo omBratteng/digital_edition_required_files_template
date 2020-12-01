@@ -1,0 +1,126 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>60</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. mars 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. mars 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Da Hendes Majestæt Dronningens høie Fødselsdag indtraf paa en Løverdag da Aftendands strider mod vore Politie Anordninger, var jeg nødsaget til at udsætte Dagens Feiring ved en Bal, til Søndag den 15de, hvorved jeg havde den Ære med det talrige Selskabs hjertelige Deeltagelse at udbringe Hendes Majestæts Skaal.</p>
+               <p xml:id="p3">	Atter har en betydelig Ildebrand ødelagt 23 Huse i Trondhjem, assurerede for 40,000 Speciedaler. De derom indkomne Indberetninger findes indførte i Rigstidenden No 34.</p>
+               <p xml:id="p4">	I Anledning af den Deres Majestæts naadige Skrivelse af 5te denne Maaned medfulgte hermed retournerende Toldinspecteur Frederiksens vidtløftige Supplique har jeg confereret med Statsraad Vogt og tillader mig underdanigst at vedlægge hvad han om Gjenstanden skriftlig har meddeelt mig. Statsraad Vogt kunde vel ønske at ansætte den velfortjente Supplicants Stedsøn i Toldfaget; men anseer sig forpligtet til ikke at lade ude af Sigte de mangfoldige andre Ansøgeres Brugbarhed, iværende Stilling og Trang, sammenlignet med hiins. Mere burde billigviis ikke fordres; men det er ikke let at tilfredsstille Toldinspecteur Frederiksens Fordringer thi han er som Supplicant i høi Grad paatrængende og plagende, hvilket Statsraad Vogt i denne, som jeg i en anden Begivenhed har maattet erfare.</p>
+               <p xml:id="p5">	Jeg har ingen Grund til at antage, at Frederiksen skulde kunne have afværget Stedsønnens oeconomiske Uheld, om han ikke havde været beskjæftiget med offentlige Forretninger, og han burde ikke glemme, at hans anerkjendte udmærkede offentlige Fortjenester, som efter Sagkyndiges Bedømmelse er Belønning værd, mere end noget andet bidrog til at et af Statens meest indbringende Toldembeder blev ham overdraget.</p>
+               <p xml:id="p6">	Deres Majestæts naadige Tilfredshed med de for Anvendelsen af Fru Grunings forrige Grundstykke bestemte Regler, har jeg med Fornøielse erret. Det vedkommende Interessentskab har bedet mig bevidne sin underdanige Taknemmelighed for den naadigst tilsagte Udtælling af de 4,000 Species den 1ste Julii dette Aar, og om disse ved den Tid maa vorde mig naadigst anviiste, vil jeg besørge dem udbetalt til Vedkommende mod Qvittering og mod disses Udstædelse af et Document, hvortil Concept underdanigst vedlægges, om dette finder Deres Majestæts naadige Bifald.</p>
+               <p xml:id="p7">	Jeg troer at have forstaaet, at flere Omstændigheder modsætte sig Deres Majestæters Kroning i dette Rige i indeværende Aar, medens den store Almeenhed ønsker og endnu haaber, at den vil skee. Dette Ønske foranlediges ved loyale Anskuelser og Følelser, som jeg selv deler, og som formeentlig fortjener at imødegaaes, saavidt Omstændighederne tillade det, ligesom det i flere Henseender er angelegent for Almeenheden i Tide at vide om Kroningen vil skee dette Aar eller ikke.</p>
+               <p xml:id="p8">	Om min ovennævnte Formodning om, at Kroningen ikke dette Aar convenerer Deres Majestæt, er grundet, formener jeg det ønskeligt, at dette finder Medhold i locale Omstændigheder, som kan gjøre en Udsættelse nødvendig,<hi rend="underline">helst naar den ønskes</hi>. Deslige locale Omstændigheder frembyde Kronings Kirkens Reparation, som kræver lang Tid, og den nu atter i Trondhjem indtrufne Ildebrand, og jeg har al Grund til at antage, at benævnte Omstændigheder ville foranledige Regjeringen til underdanigst at tilraade Kroningens Udsættelse til næste Aar, om det naadigst maatte behage Deres Majestæt i Statsraads Protocollen at befale dens Erklæring afgivet om, hvorvidt Omstændighederne tillade Kroningens Iværksættelse dette Aar.</p>
+               <p xml:id="p9">	Udsættelsen vil da blive tilstrækkelig begrundet i de af Regjeringen paapegede Omstændigheder. For mig personlig vilde det være meget interessant at kjende Deres Majestæts Planer for Sommeren og om jeg tør gjøre mig Haab om den Lykke, at see Deres Majestæt eller Nogen af den Kongelige Familie her.</p>
+               <p xml:id="p10">	Biskop Arups Indvielse er udsat til den 21de Junii, fordi den skal forrettes af Biskoppen i Trondhjem, hvis Embedsforretninger ikke tillade ham at indfinde sig tidligere. I denne Anledning tillader jeg mig underdanigst at henlede Deres Majestæts naadige Opmærksomhed paa, at vi nu mod Sædvane have en Statsraad og en Biskop uden nogensomhelst Ordens Decoration og lige underdanigst at fremføre min Anskuelse herom.</p>
+               <p xml:id="p11">	Monarkerne have i Ordener et hensigtsmæssigt Middel til for godt Kjøb at opmuntre og belønne. De sættes Priis paa overalt,<hi rend="underline">ikke mindst i Norge</hi>, og jeg formener det klogt, at vedligeholde denne Stemning, ved Midlets forstandige Anvendelse. Ordener tabe vistnok i Værd, om de gives altfor hyppig; men jeg formener, at en altfor sjelden Benaadning hermed kan frembringe det samme Resultat, i det Folk omsider vænne sig til at undvære dem og Andre til at see dem undværet. Det har i alle Lande været Vedtægt, at benaade de høiere og høieste Embedsmænd med Ordener, og jeg formener det klogt at vedligeholde denne Vedtægt, thi disse Kongelige Embedsmænds Anseelse og Indflydelse forøges ved det ydre Tegn paa Monarkens Naade og Ordenen vinder i Anseelse ved at bæres af dem. Fra denne Synspunkt tillader jeg mig underdanigst at indstille, at Deres Majestæt naadigst vil udnævne Statsraad Stang og Biskop Arup til Riddere af Nordstjerneordenen, Statsraad Foss til Commandeur af Sværdsordenen eller Nordstjerneordenen, og Amtmand Falsen til Commandeur af Nordstjerneordenen.</p>
+               <p xml:id="p12">	Vor Polak Walygorski, som i en Række af Aar har opholdt sig her og af Marine Departementet er ansat som Assistent hos Canal- og Havne-Directeuren med 400 Species aarlig Gage, er bleven opflammet af den ny polske Insurrection. Det er nu bleven mig bekjendt (hvad jeg vil ignorere), at Walygorski er edelig forpligtet til under visse Omstændigheder at indfinde sig i sit Fædreneland, – at han, som hans øvrige Landsmænd, er forpligtet til aarlig at bidrage 4% af sin Indtægt til en fælles polsk national Casse, – at han nu, i Anledning af de senest indtrufne Begivenheder, har forlangt Forholdsordres af en saakaldt polsk Regjering i Paris og at han muligen af Marine Departementet vil begjære Permission til at reise til Frankrige. De polske Begivenheders seneste Vending vil forhaabentlig tilintetgjøre Walygorskis Plan, og jeg ønsker det, fordi han er en i sit Fag særdeles dygtig Mand, som vi maa ønske at kunne beholde, men om han maatte ønske en Reisepermission under en antagelig Prætext, vilde det Intet nytte at nægte den, fordi han vilde reise uden Permission. Jeg har imidlertid under Haanden ladet ham vide, at om han skulde reise og han skulde deeltage i nogen politisk Demonstration, vil han ikke kunne vente nogen videre offentlig Ansættelse her som jeg høieligen vilde beklage.</p>
+               <p xml:id="p13">	Jeg tillader mig underdanigst at indberette, at min Søn Adam, som har ophævet sin Huusholdning og fraflyttet Berg opholder sig med Familie hos sin Svigerfader, Baron Wilhelm Wedel Jarlsberg i Paavente af det Skib, som skal bringe dem til Havre. Om han har faaet sine udbedede Instructioner, er mig ubekjendt.</p>
+               <p xml:id="p14">	Lieutenant Carsten Anker er afgaaet søværts til Bordeaux og derfra over Marseille til den franske Armee i Algier.</p>
+               <p xml:id="p15">	Efter en langvarig Quarantaine besøgte General Wedel mig i Gaar første Gang til Hest.</p>
+               <p xml:id="p16">	Vort Dampskib "Christiania" skal imorgen tiltræde sin første Reise dette Aar til Gothenborg og Kjøbenhavn.</p>
+               <p xml:id="p17">	Denne min underdanigste Rapport har faaet en Længde hvorfor jeg udbeder Deres Majestæts naadige Overbærelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de Marts 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 20. mars 1846.</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h4">Skrivelse fra Statsraad Vogt til Toldinspecteur Frederiksen, dateret 30de April 1844.</head>
+               <p xml:id="p18">	Uagtet jeg ikke gjerne indlader mig paa skrivtlig Meddelelse i Anledning af Ansøgninger om Ansættelse i Toldfaget, saa har jeg dog troet at burde bestemme mig for en Undtagelse med Hensyn til Hr Toldinspecteurens Stedsøn Kjøbmand Albert Blehr, fordi ikke Nogen har henvendt sig til mig for en Ansøger med Yttringer om en saa fast Overbeviisning om, at Ansættelsen burde opnaaes, som Hr Toldinspecteuren, naar De for mig har anført de Grunde, hvorpaa denne Deres Overbeviisning er bygget. Hvad jeg fremfor alt maa see hen til ved Ansættelser i Toldfaget, er at erholde dem, som Faget er bedst tjent med, og jo større deres Antal er, der attraae Ansættelse, desto større er og Ansvaret for Valget, da det er en afgjort Sag, at udmærket Brugbare maae ved hver Lejlighed kunne erholdes. Kun under Forudsætning af Fleres Brugbarhed i lige Grad synes det forsvarligt, men da ogsaa pligtmæssigt, at tage Hensyn til Ansøgernes Trang og Familieforhold, eller de Andres Fortjenester, med hvem de staae i Forbindelse. Medens det ofte er vanskeligt for Departementet, at bedømme Ansøgernes Brugbarhed, har Departementet, blandt Andet, havt en Vejledning til Bedømmelsen, ved at underrettes om, hvorledes de blandt Ansøgerne ere befundne, der forud have været benyttede, enten midlertidigen som Undertoldbetjente, eller i mere underordnet Stilling ved Opsynet, og derfor falder det naturligt, at Departementet har ved Ansættelser ofte havt disse for Øjne fremfor dem, der ikke have kunnet være prøvede. Med den bedste Villie hænder det, hver Gang en Ansættelse har fundet Sted, at jeg tænker paa mange blandt disse, foruden paa en Heel Hoben andre, som jeg erkjender at kunne have ventet Ansættelse, men som jeg har været nødsaget til at forbiegaae, fordi een Post kan kun Een erlange, men heri faaer jeg at finde mig, saa velsom i den Tvivl, som, uagtet al Bestræbelse for at finde det Rette, dog maa opstaae, om virkeligen dette Maal er opnaaet. For nu at komme tilbage til Deres Stedsøn, da er han ikke prøvet i Toldfaget, han har ikke i nogen Maade været i det Offentlige Tjeneste, og hvad hans personlige Egenskaber betræffer, da er, grundet paa Undersøgelser, senere end vi sidst samtalede<note resp="Løvenskiold">
+                     <p xml:id="p19">Statsraad Vogt havde henvendt sig i Fortrolighed til en i alle Maader paalidelig Mand, med Anmodning om, at meddele sine Tanker om Blehr, navnligen om hans formeentlige Brugbarhed i Toldfaget. Denne Mand, førend han yttrede sig, indhentede Betænkning fra en anden Mand, der maatte kjende Blehr end nøjere. Den sidstnævnte yttrede da Følgende efterat have roest Blehr for Retskaffenhed og Ordentlighed: <lb/>
+                        <quote>Hvorvidt han til en Toldbetjentpost er skikket, er vanskeligt at sige noget om. Jeg antager imidlertid, at han som et ædrueligt Menneske, og i Besiddelse af Varekundskab, samt som den der kjender til Omgang med og Behandling af Toldangivelser, m. V., maatte være tjenlig ved et Toldsted, hvor deslige Kundskaber vare de meest anvændelige. Derimod troer jeg ikke, at han er tjenlig ved en Udhavns- eller Krydsbetjentpost, som udfordrer Anstrængelse og strængt Opsyn, thi han er hertil, efter min Formening om ham, ikke virksom og arbejdsom nok, ligesom jeg antager, at hans Godmodighed og Følsomhed kunde forlede ham til Eftergivenhed eller mindre streng Opfyldelse af sine Pligter i en Post, hvor Betjentens væsentligste Arbejde gaaer ud paa Anholdelser.</quote>
+                     </p>
+                     <p xml:id="p20">	Den Mand, til hvem Statsraad Vogt havde henvendt sig, fremsendte den Skrivelse, der indeholdt Dette, og tilføjede: <lb/>
+                        <quote>Denne Characteristik forekommer mig meget træffende. Blehr er af en stærk Constitution, og i sin kraftfulde Alder, noget over 40 Aar. Jeg antager, at Blehr ikke har tilstrækkelig Energie til at kunne virke med Kraft i en Post, hvori der udkræves <hi rend="underline">særdeles</hi>  Aarvaagenhed og Anstrængelse, Jeg troer, at den almindelige Crisis, der saa haardt rammede alle Lastehandlere i Langesundsfjorden, er den væsentlige Aarsag til Blehrs Ruin, og at den vilde have oprykket ham, om end Frederiksen mindre havde fordybet sig i sine Speculationer over theoretiske Gjenstande, og da havde beholdt Otium til at have bedre Indseende med Blehr; thi Ødelæggelsens Strøm rev med sig flere Kjøbmænd, som sikkert vare ligesaa godt funderede som Blehr. Men derfor vil det vist ikke være mindre ønskeligt, om Blehr nu kunde erholde Ansættelse som Toldbetjent, hvortil Hr Statsraaden udentvivl med god Grund og frelst Samvittighed kan befordre ham.</quote>
+                        <lb/>
+                     </p>
+                  </note> min Dom derom, at han er exemplarisk ordentlig, og ædruelig, af en redelig Tænkemaade, beskeden og godmodig, af en stark Constitution og i kraftfuld Alder, men at derhos ham ikke er at tilroe Evne til at virke med Kraft i en Post, hvor der kræves særdeles Aarvaagenhed og Anstrængelse, og at det er at befrygte, at hans Godmodighed og Følsomhed kunde forlede ham til Eftergivenhed eller mindre stræng Opfyldelse af Pligter, der gaae ud paa Anholdelser. Til denne Dom vil min Bestemmelse knytte sig, og det kan ikke herimod anmærkes, at Ansættelse vilde kunne skee, hvor det mindre kom an paa de Egenskaber der mangle end paa de der haves, thi de samlede Egenskaber bør dog attraaes allevegne. Det er muligt, og jeg kan ikke fortryde derpaa, at De bedømmer Deres Stedsøn noget anderledes end jeg, men det er uundgaaeligt at lade Enhver i egen Bedømmelse, eller den Bedømmelse han støtter paa Andres Dom hvilke han tiltroer Evne og Villie til upartisk Bedømmelse, gjælde som Rettesnor for hans Handling, endog om man maatte ansee Bedømmelsen fejlagtig. Hr Toldinspecteuren maa troe, at jeg, ved Siden af hvad jeg ovenfor i denne Sag har yttret, meget vel skjønner, hvilke Opoffrelser De har gjort og maa gjøre for Deres Stedsøn, for hvem De altid har været en kjærlig Fader, og ligeledes tilfulde paaskjønner de Deres Fortjenester af det Offentlige, til hvilke De kan vente at der hensees. Dog kan jeg ikke ansee det forafgjort, at De, ved et af Dem, naar De ikke havde været fordybet i de Arbejder af hvilke De har gjort Dem saa højligen fortjent, overtaget Indseende med Deres Stedsøns Handel, skulde have forebygget hans Fald, men, om endog saa var, vil det dog ikke rokke mit ovenfor Anførte. Hr Toldinspecteuren erindrer tilvisse, at jeg for længere Tid tilbage var stemt for at ansee Dem qualificeret til en udmærket Anerkjendelse af Deres Fortjenester, men at De ikke billigede Ideen herom formedelst de iagttagendes Former<note resp="Løvenskiold">Dette sigter til det Forefaldne i en Samtale mellem Statsraad Vogt og Frederiksen, forinden denne blev Toldinspecteur, og dernæst senere androg paa, at Stedsønnen maatte blive Undertoldbetjent.</note>. Deres Fortjenester er jeg ikke Mand for at vurdere, men vel at erkjende for at være betydelige efter Competentes Vidnesbyrd, samt erhvervede ved stor Anstrængelse og Arbeide, ligesom De ej heller maa troe, at jeg tvivler paa, at der har været aabnet Dem Udsigt til, at gjøre Dem Arbejdet frugtbringende paa en Maade, som De ikke har fundet passende. Jeg ønsker, at De, uden at gjøre Dem Forestillinger om Mistvivl hos mig til Opgivender, eller om Mangel af Medfølelse i Henseende til trykkende Familiebyrder, eller deslige, vil holde Dem forvisset om, at det omhandlede Anliggende af mig betragtes alene saaledes som her omskrevet.</p>
+               <closer>
+                  <salute>Med udmærket Høiagtelse undertegner jeg mig</salute>
+                  <lb/>
+                  <signed>– – – – – – – – – </signed>
+                  <lb/>
+               </closer>
+               <note resp="editor">I den maskinskrevne avskriften fra 1920-tallet ligger følgende overskrift mellom Vogts brev og Løvenskiolds kommentarer: "Noter." De to notene er i teksten markert med henholdsvis )* og )** i den maskinskrevne avskriften.</note>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 20. mars 1846.</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h6">Skrivelse fra Statsraad Vogt til Toldinspecteur Frederiksen, dateret 10de Decb. 1845.</head>
+               <p xml:id="p21">	I Gjensvar paa Hr Toldinspecteurens ærede Skrivelse af 5te denne Maaned tillader jeg mig at meddele, at jeg ikke kan indlade mig paa, at afgive nogen Formening angaaende Deres paatænkte Henvendelse til Hans Majestæt for Deres Stedsøn. Jeg maa derhos gjøre Dem opmærksom paa Umuligheden for mig, saa gjentagende, og hver Gang saa omstændeligen, at omhandle en Ansøgers attraaede Ansættelse som Undertoldbetjent. De Vidnesbyrd, som her beroe, Deres Stedsøn betræffende, følge hoslagte.</p>
+               <closer>
+                  <salute>Med – – etc.</salute>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h7">
+                  <supplied resp="editor">Tillegg til rapport av 20. mars 1846.</supplied>
+               </head>
+               <opener>Deres Excellence!</opener>
+               <p xml:id="p22">	Albert Blehr, forhen Kjøbmand i Brevig, har forlanget om at blive beskikket til Undertoldbetjent indgivet til Finants-Departementet et Andragende, der beroer sammesteds tilligemed de mangfoldige, omtrent 300, fra forhenværende Kjøbmænd, Skibsførere, Underofficierer, Departements-betjente, Embedsmænds Comptoirbetjente, Lensmænd, Roerskarle ved Toldstederne, i mange Aar sammesteds uden fast Ansættelse af Departementet til Krydsning eller anden Toldtjeneste efter Antagelse af Toldinspecteurerne antagne Personer, med Flere. Blehrs Stedfader, Toldinspecteur Frederiksen i Drammen indgav privat til mig vidtløftige Forestillinger til Fordeel for Blehrs Andragende, og gjentog Indholden heraf flere Gange mundtlig med stor Udførlighed, hvilket foranledigede mig til, den 30 April 1844 at tilskrive Frederiksen saaledes som behagentligen vil sees af den Gjenpart, jeg tager mig den Frihed at vedlægge. Sagen blev fremdeles med lige Omstændelighed skrivtlig og mundtlig fremstillet, og senest paaviist en Henvendelse til Hans Majestæt som det Middel, han troede at maatte gribe til, men som inderligen ønskedes undgaaet, og i Henseende til hvilken Henvendelse mit Raad attraaedes. I denne Anledning tilskrev jeg Toldinspecteur Frederiksen efter hoslagt Afskrivt den 10 Decb. sidstl. Angaaende Blehr anmærkes, at han af Toldinspecteuren i Drammens Tolddistrict har været benyttet som constitueret Undertoldbetjent, og hvad jeg senest om ham har erfaret, er, efter en Indberetning til Departementet af 16de Febr. sidstleden fra Toldinspecteuren i Skiens District, at denne har til Lejebetjent ved Langesunds Toldstation, istedetfor en Anden, der er bleven sindssvag, antaget Albert Blehr.</p>
+               <closer>
+                  <salute>Med udmærket Høiagtelse <lb/>
+    					Deres Excellences <lb/>
+    						ærbødigst hengivne <lb/>
+                  </salute>
+                  <signed>
+                     <persName>J.H. Vogt.</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>, <date>den 13 Martii 1846</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

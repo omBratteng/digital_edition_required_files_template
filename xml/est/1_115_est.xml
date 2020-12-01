@@ -1,0 +1,128 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>115</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 21. oktober 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 21. oktober 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p xml:id="p2">	Af Biskop Neumanns hosfølgende underdanigste Skrivelse vil Deres <lb/>
+Majestæt naadigst erfare hans Bredvillighed til at opfylde Deres Majestæts <lb/>
+ham saa naadigen meddelte Ønske.</p>
+               <p xml:id="p3">	Deres Majestæt har herved skjænket denne værdige Olding nyt Liv, <lb/>
+vedligeholdt en for Stat og Kirke gavnlig Virksomhed og for Bergens <lb/>
+Stifts Geistlighed bevaret en agtet og elsket Overhyrde.</p>
+               <p xml:id="p4">	Onsøe Formandskabs og Pastor Stabells underdanigste Taksigelser, <lb/>
+for den Sidstnævntes naadigste Udnævnelse til Sognepræst, tillader <lb/>
+jeg mig underdanigst at vedlægge.</p>
+               <p xml:id="p5">	Den i mit sidste ommeldte for Aarstiden usædvanlige Kulde vedholdt <lb/>
+til den 17de hvorefter Thermometeret om Morgenen har viist 6 à 8 Graders <lb/>
+Varme. Frosten kom saa pludselig og uventet tidlig, at den i nogle <lb/>
+Egne har beskadiget og fordærvet en Deel endnu i Jorden værende Potætes. <lb/>
+Dette Uhæld har dog kun rammet enkelte Egne og Steder; men den nye <lb/>
+Landeplage Potætessygdommen (dette lige uforklarlige Phænomen, som <lb/>
+Choleraen) har bedærvet en større Deel af denne herlige Jordfrugt. I <lb/>
+det Hele har dette Aars Høst dog været saa velsignet og har Forsynet <lb/>
+saa hastig og uventet udfriet os fra de Ulykker, som ved Sommerens  <lb/>
+Begyndelse truede os at jeg underdanigst vilde have foreslaaet for Deres <lb/>
+Majestæt at befale anordnet en overordentlig Takkefest, om jeg ikke maatte <lb/>
+erkjende Rigtigheden af den mig derimod gjorte Bemærkning om de meget <lb/>
+ulige Localforholde. Medens en stor Deel af Riget truedes af Hungersnød, <lb/>
+havde en anden Deel Intet at befrygte og medens Høsten har været <lb/>
+velsignet Søndenfjelds, har Høst og Bjergning været mindre god Nordenfjelds. <lb/>
+Faaer da Enhver i stille Sind takke Gud for overstaaet Fare og <lb/>
+nydte Velgjerninger!</p>
+               <p xml:id="p6">	I Anledning af Deres Majestæts mig igjennem Statsminister Due givne <lb/>
+naadigste Meddelelse om den truende Cholera, har jeg bragt denne  <lb/>
+sørgelige Gjenstand paa Bane i Regjeringen og have vi recapituleret os de <lb/>
+Foranstaltninger som anordnedes da denne Landeplage senest truede og  <lb/>
+virkelig rammede os. Disse bestod hovedsagelig i at en skarpere Qvarantaine <lb/>
+foranstaltedes og at en provisorisk Anordning udfærdigedes, hvorved  <lb/>
+paabødes at iværksætte alle hensigtsmæssige Foranstaltninger til Sygdommens <lb/>
+Standsning og Cuur.</p>
+               <p xml:id="p7">	Vore Læge ere nu komne til den Anskuelse at Sygdommen ikke ved <lb/>
+nogensomhelst Foranstaltning lader sig afværge og at man bør indskrænke <lb/>
+sig til, bedst muelig at forhindre dens Udbredelse naar og hvor den har <lb/>
+viist sig, og til de Angrebnes Helbredelse, samt hertil at forberede  <lb/>
+hensigtsmæssige Foranstaltninger blandt Andet Forsyning med de nødvændige <lb/>
+Lægemidler. Regjeringen troer at burde for Øieblikket indskrænke sig <lb/>
+hertil, saamegetmere, som overordentlige Foranstaltninger foranledige Uroe <lb/>
+og Ængstelighed, hvorved Sygdommen som bekjendt kan bevirkes og dens  <lb/>
+Farlighed forøges.</p>
+               <p xml:id="p8">	Imidlertid tillader jeg mig underdanigst at udbede naadigst Meddelelse <lb/>
+om de Efterretninger, som om Sygdommen maatte modtages in specie fra <lb/>
+de udsendte svenske Læger.</p>
+               <p xml:id="p9">	Regjeringen samles i denne Uge daglig til Behandling af den Mængde <lb/>
+curante Sager og af følgende vigtige militaire Gjenstande: Værnepligtsloven, <lb/>
+Generalstabens Organisation, Commandoe og den øconomiske Bestyrelses  <lb/>
+Forening. En uhældig Skiæbne hviler over disse Sagers Behandling, <lb/>
+idet de tvende sagkyndigste Mænd ere forhindrede fra Deltagelse i  <lb/>
+Diskussionerne, Statsraad Fleischer ved Fraværelse, Statsraad Foss ved et <lb/>
+uhældigt Sygdomstilfælde i en Fod. Statsraad Fleischer maa med Sagkundskab <lb/>
+og Erfaring som General og som Statsraad i disse Begivenheder have <lb/>
+en sikkrere Bedømmelse end nogen af Regjeringens øvrige Medlemmer og jeg <lb/>
+beklager høiligen, at just han ved dette saa ofte for Forretningerne <lb/>
+skadelige Statsraadsombytte, vil blive udelukket fra al Deltagelse i disse <lb/>
+vigtige militaire Sagers Behandling saavel her som i Stockholm.</p>
+               <p xml:id="p10">	Efter modtagen Underretning om at Grosserer Schwan af Hans Excellence <lb/>
+Udenrigs-Ministeren er anmodet under sit Ophold i Paris at gaae Hans <lb/>
+Excellence Løvenhjelm tilhaande med Oplysninger for den franske Tractat, <lb/>
+have vi for Opinionens Skyld troet at burde anmode Hr Stephansen om at <lb/>
+begive sig did i samme Hensigt.</p>
+               <p xml:id="p11">	Regjeringen har underdanigst anbefalet Artillerie-Capitain Scheel til <lb/>
+et forlænget Ophold i Lüttich for Anskaffelse af Kammerladningsgeværer <lb/>
+for den norske Armee. Jeg har ingen sagkyndig Formening om denne Gjenstand; <lb/>
+men finder mig forpligtet til underdanigst at bemærke den mig fra flere <lb/>
+Sider givne Meddelelse om, at Kammerladningsgegeværer skulle være aldeles <lb/>
+fordømte i flere store tydske Armeer, hvori de have været prøvede. <lb/>
+Uden Tvivl har Deres Majestæt paalideligere Oplysninger herom, men <lb/>
+mine datere dog ikke fra ganske forkastelige Kilder. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 21de October 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

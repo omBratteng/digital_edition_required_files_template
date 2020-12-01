@@ -1,0 +1,90 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>349</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. mars 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. mars 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 22de og 23de forrige <lb/>
+Maaned og er det mig bekjendt, at Statsraad Krog under 5te <lb/>
+denne Maaned har afgivet en underdanigst Rapport.</p>
+               <p xml:id="p2">	Efter min Bestemmelse kom jeg her tilbage i Gaar Aftes, efter <lb/>
+et for mig tilfredsstillende og velgjørende Besøg paa Fossum.</p>
+               <p xml:id="p3">	Her har jeg heldigviis Intet erfaret, som fortjener Deres <lb/>
+Majestæts naadige Opmærksomhed.</p>
+               <p xml:id="p4">	Den 14de denne Maaned agter jeg at feire Hendes Majestæt <lb/>
+Dronningens høie Fødselsdag ved en Bal.</p>
+               <p xml:id="p5">	Actor i den mod Armée-Intendant Meylænder med Flere befalede <lb/>
+Sag, har i Gaar nedlagt følgende Paastand mod de Tiltalte: <lb/>
+                  <list xml:id="list6">
+                     <label>
+                        <hi rend="underline">A.</hi>
+                     </label>
+                     <item>At Armée Intendant Meylænder og Depôtforvalter Gløersen ansees <lb/>
+med Straf af Afsættelse, Ærens Tab og Fæstningsarbeide i 9 1/2 Aar. <lb/>
+Stadshauptmand Ytteborg med Mulkt af 100 Speciedaler til Statscassen <lb/>
+og Kjøbmand Andreas Berg med 15 Dages Fængsel paa Vand og Brød.</item>
+                     <lb/>
+                     <label>
+                        <hi rend="underline">B.</hi>
+                     </label>
+                     <item>At Armée Intendant Meylænder og Depôtforvalter Gløersen in solidum <lb/>
+tilpligtes at erstatte 8,825 3/8 Alen Munderings Klæde og Førstnævnte <lb/>
+181 Par Kudske Skoe.</item>
+                     <lb/>
+                     <label>
+                        <hi rend="underline">C.</hi>
+                     </label>
+                     <item>At samtlige Tiltalte in solidum tilpligtes at betale alle af  <lb/>
+Actionen flydende Omkostninger.</item>
+                  </list>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te Marts 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

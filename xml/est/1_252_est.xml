@@ -1,0 +1,77 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>252</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. oktober 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Med underdanigst Henhold til min sidste underdanigste Rapport af <lb/>
+18de giver jeg mig den Ære at vedlægge de indkomne CholeraRapporter <lb/>
+af 18de, 19de og 20de, visende, at siden Sygdommens Udbrud 45 <lb/>
+CholeraTilfælde og 31 Dødsfald ere anmeldte, hvoraf i det sidste <lb/>
+Døgn 2de SygdomsTilfælde under Byens Jurisdiction.</p>
+               <p xml:id="p2">	Jeg tillader mig underdanigst at henlede Deres Majestæts naadige <lb/>
+Opmærksomhed paa hosfølgende Tidnings Referat om en nylig i Stutgart <lb/>
+afholdt Synode.</p>
+               <p xml:id="p3">	Jeg foranlediges ikke hertil af Rethaverie i en Begivenhed, hvor <lb/>
+der nylig var Spørgsmaal om hos os at begunstige Præstemøder, som jeg <lb/>
+uheldigviis var alene blandt Deres Majestæts Raadgivere om at fraraade; <lb/>
+men for at give et færskt Exempel paa, hvorledes politisk Fanatismus <lb/>
+kan finde Leilighed og Tilflugt til at udtale sig i Præstemøder.</p>
+               <p xml:id="p4">	Er man som i Stutgard og i Holsten først kommet saa vidt at <lb/>
+geistlige Embedsmænd erklære Modstand mod Øvrigheden under visse  <lb/>
+Omstændigheder retmæssig og forsvarlig, saa vil det komme an paa  <lb/>
+individuelle Anskuelser, <hi rend="underline">naa</hi>r den er tilladelig. Saadan Tendents vil <lb/>
+naturligviis ikke blive angivet som Gjenstand for Forhandling i norske <lb/>
+Præstemøder, men i vore Dage tør Leilighed dertil søges og findes. <lb/>
+Vestigia me terrent! <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 October 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

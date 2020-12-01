@@ -1,0 +1,83 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>420</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. desember 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. desember 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Strax efter at jeg havde afsendt min sidste underdanige Rapport <lb/>
+af 8de denne Maaned, havde jeg den Ære at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 5te, hvorfor jeg nedlægger min underdanigste <lb/>
+Taksigelse.</p>
+               <p xml:id="p2">	Jeg formener underdanigst, at Deres Majestæt har havt fuldkommen <lb/>
+Ret i <hi rend="underline">strax</hi>  at iværksætte den besluttede Forening imellem de militaire <lb/>
+Regjerings Departementer og Commandoen, uagtet jeg maa erkjende, at <lb/>
+det vil blive meget vanskeligt, om ikke umuligt for Armee Departementets <lb/>
+nye Chef at forberede alle under hans Ressort hørende vigtige <lb/>
+Sager, i den korte tilbageværende Tid før Storthingets Samling. Jeg <lb/>
+beklager, at Omstændighederne ikke have tilladt at tage Beslutningen  <lb/>
+tidligere; men jeg er mig bevidst at have, fra det Øieblik, da Deres <lb/>
+Majestæts naadige Befaling derom tilhændekom mig, – gjort Alt hvad der <lb/>
+stod i min Magt, for her at lede de nødvendige Forberedelser saa hastig <lb/>
+som mulig til det af Deres Majestæt ønskede Maal.</p>
+               <p xml:id="p3">	General Bloch vil i Morgen begynde at modtage Armee-Departementet <lb/>
+Bestyrelse og Statsraad Sylow derefter snarest mulig begive sig til <lb/>
+Stockholm. Statsraad Sylow har under disse for ham ubehagelige  <lb/>
+Omstændigheder viist en agtværdig Takt og jeg tillader mig paa det Bedste at <lb/>
+anbefale ham til Deres Majestæts Naade.</p>
+               <p xml:id="p4">	Det glæder mig, at Deres Majestæt vil have den Naade snart at udnævne <lb/>
+Statsraad Erichsen til Contreadmiral, som, efterat han har modtaget <lb/>
+Commandoen, synes ganske at være i sin Orden.</p>
+               <p xml:id="p5">	Da, som jeg har forstaaet, Deres Majestæt ikke vil overdrage den <lb/>
+ledige Admiralspost til Commandeur-Capitaine Bendtz, har jeg al Grund <lb/>
+til at antage, at Commandeurcapitaine Hesselbergs naadige Udnævnelse <lb/>
+til denne høieste Post i Marinen, meest ønskes i Etaten. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te December 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

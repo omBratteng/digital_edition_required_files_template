@@ -1,0 +1,165 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>112</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 19. september 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 19. september 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p xml:id="p2">	Med underdanigst Taknemmelighed paaskjønner jeg den Naade, hvormed <lb/>
+Deres Majestæt har behaget saa hastig at tilfredsstille min Længsel efter <lb/>
+Underretning om Deres Majestæters lykkelige Reise.</p>
+               <p xml:id="p3">	Deres Majestæts naadige Meddelelse herom af 9de, havde jeg den Lykke <lb/>
+at modtage her den 12te, omgivet af nogle Venner, hvoriblandt Grevinde <lb/>
+Wedel og mine Børn, som deelte min Glæde over Deres Majestæters lykkelige <lb/>
+Reise, som over den naadige Tilfredshed, hvormed De behage at erindre <lb/>
+Deres sidste Ophold blandt os.</p>
+               <p xml:id="p4">	Som jeg i enhver Begivenhed tager oprigtig Deel i Deres Majestæters <lb/>
+Vee og Vel, saa deler jeg ogsaa af ganske Hjerte Hendes Majestæt  <lb/>
+Dronningens Sorg over Hendes nylig lidte uerstattelige Tab. Jeg ønsker mig i <lb/>
+Hendes Majestæts Nærhed, for mundtlig at kunne bevidne min hjertelige <lb/>
+Deeltagelse, det Eneste, som vi svage Mennesker i sørgelige Begivenheder <lb/>
+have at byde. Det er Lidet; men jeg veed dog af Erfaring, at Deeltagelse <lb/>
+er trøstende.</p>
+               <p xml:id="p5">	Jeg tillader mig at henlede Deres Majestæts naadige Opmærksomhed <lb/>
+paa følgende i Regjeringen behandlede Sager, som med Morgenposten ville <lb/>
+blive expederede til Stockholm.</p>
+               <list xml:id="list6">
+                  <label>1o</label>
+                  <item>Finants Departementet har til Toldcasserer i Levanger indstillet <lb/>
+som No 1 Undertoldbetjent Hansen som No 2 Capitaine og Divisionschef <lb/>
+Fasting; jeg kjender ingen af de Indstillede, men da den Sidstnævnte er <lb/>
+en gammel vel anbefalet Officier, Departementet ved at indstille ham som <lb/>
+No 2 har erkjendt hans Dygtighed til Embedet, og da jeg antager at Deres <lb/>
+Majestæt vil være tilbøielig til, ved denne Leilighed, at befordre en <lb/>
+Militair, har jeg stemt for Capitaine Fasting som har vunden Pluralitet <lb/>
+i Regjeringen.</item>
+                  <label>2o</label>
+                  <item>Til det ledige Onsøe Sognekald i Smaalehnene har Regjeringen med <lb/>
+sædvanlig Hensyn paa formelle Qvalificationer indstillet 3 Præster. Jeg <lb/>
+alene har troet at burde stemme for Capellan Stabell, som over 12 Aar har <lb/>
+bestyret dette Præstekald til sine Foresattes Tilfredshed, og derunder i <lb/>
+den Grad har vunden Menighedens Agtelse og Kjærlighed, at denne ved en <lb/>
+Deputation under Deres Majestæts sidste Ophold her, udbad sig som en  <lb/>
+Naade, at maatte beholde Capellan Stabell som deres Sjælesørger, en Naade, <lb/>
+som saameget mere vil paaskjønnes, som det ikke vil blive ubekjendt, at <lb/>
+den har sit Udspring umiddelbar fra Deres Majestæt. Under disse  <lb/>
+Omstændigheder er det mig saa meget behageligere at kunne stemme for Stabell, <lb/>
+som det er mig bekjendt, at Høistsalig Kongen havde givet hans værdige <lb/>
+Fader, Generalen, naadigt Løvte, om Sønnens snarlige Befordring. Jeg  <lb/>
+tillader mig at vedlægge mit Protocollen tilførte Votum og derhos  <lb/>
+underdanigst at bemærke, at jeg formener at burde henregne dette Tilfælde til <lb/>
+de paa Kjølstad omtalte.</item>
+                  <label>3o</label>
+                  <item>Efterat Moer Sæthers Praxis atter har været vidtløftig omhandlet <lb/>
+i Regjeringen og Enhver er vedbleven sin Anskuelse, vil den imorgen <lb/>
+blive expederet til Deres Majestæts naadige Decision. Det er ingen stor <lb/>
+Concession som Statsraad Foss og jeg foreslaae for Moer Sæther, nemlig <lb/>
+at det maa vorde hende naadigst tilladt at tage i Cuur Patienter, som  <lb/>
+forgjæves have søgt Hjelp hos authoriserede Læger eller som af disse  <lb/>
+erklæres ulægelige. Statsraad Stang erklærede under Discussionen at han <lb/>
+vilde foretrække dette for Sagens nærværende Stilling, hvori han daglig <lb/>
+plages med Ansøgninger. Om man forlængst havde indvilget saa meget og <lb/>
+taalt og ignoreret mere, havde man efter min Formening handlet klogt og <lb/>
+undgaaet Klager, som underdanigst vedlagte, der ikke synes ganske  <lb/>
+ugrundede.</item>
+               </list>
+               <p xml:id="p7">	Temperaturen har i sidste Uge været kold, Veiret regnig, til stor <lb/>
+Hinder for Kornbjergningen. Vort Foraar kommer desværre nu altfor seent, <lb/>
+vor Høst altfor tidlig. Den behagelige gode Aarstid forekommer mig nu <lb/>
+paafaldende kortere end i min Ungdom. Verden er maaskee bleven mere oplyst, <lb/>
+men den er koldere.</p>
+               <p xml:id="p8">	Det er beklagelig, at den baierske Theresie-Ordens Statuter ikke byde <lb/>
+nogen Publication af de qvindelige Fortjenester, hvorfor den gives. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 19de September 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 19. september 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Gjenpart</hi>.</head>
+               <p xml:id="p9">	Erkjendende, at personal Capellan Stabell, om hvis naadige Udnævnelse <lb/>
+til Præst for Onsøe Menighed, dennes Formandskab, paa dens Vegne, <lb/>
+har indgivet underdanigst Ansøgning, i formelle Egenskaber staaer tilbage <lb/>
+for flere af Ansøgerne, troer jeg dog underdanigst at burde stemme <lb/>
+for hans naadige Udnævnelse til dette Embede.</p>
+               <p xml:id="p10">	Capellan Stabell, som har den lovbefalede Qvalification til <lb/>
+Ansættelse i et selvstændigt geistligt Embede og er i en Alder af 41 Aar, <lb/>
+har sin Foresatte Provsts og Biskops bedste Vidnesbyrd og Anbefaling for <lb/>
+sin 12aarige geistlige Embedsførelse i Onsøe Kald. Han har i denne  <lb/>
+Virkekreds vunden Menighedens Agtelse og Kjærlighed i den Grad, at den <lb/>
+erklærer det for sit Hjertes Anliggende at maatte beholde ham som sin  <lb/>
+Sjælesørger.</p>
+               <p xml:id="p11">	Hans af Formandskabet anførte communale Fortjenester af Skole- og <lb/>
+Fattigvæsen, som Stifter af en Sparebank, og et Almue Bibliothek, som <lb/>
+Bestyrer af Sognets Bygdemagazin, som Formand, Ordfører, Valgmand, ere <lb/>
+bekræftede af vedkommende Foged og Amtmand.</p>
+               <p xml:id="p12">	Saa practiske Fortjenester formener jeg fortjene mere Hensyn end <lb/>
+formel Qvalification og naar en Menigheds Ønske om Valget af dens  <lb/>
+Sjælesørger er bygget paa saa gode Grunde, da fortjener det formeentlig at <lb/>
+tages i fortrinlig Betragtning til naadigst Bønhørelse.</p>
+               <p xml:id="p13">	Paa disse Grunde tillader jeg mig underdanigst at indstille, at det <lb/>
+naadigst maa behage Deres Majestæt at udnævne personnel Capellan A.F.C. <lb/>
+Stabell til Sognepræst for Onsøe Præstegjeld med de i Regjeringens <lb/>
+underdanigste Indstilling nævnte Forpligtelser.</p>
+               <p xml:id="p14">	Iøvrigt tiltræder jeg den norske Regjerings underdanigste <lb/>
+Indstilling.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13 September 1847</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

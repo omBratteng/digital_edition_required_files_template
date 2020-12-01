@@ -1,0 +1,105 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>228</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. mai 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. mai 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p xml:id="p2">	Derefter har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 6te og Hans Excellence Udenrigsministerens af samme Dag, <lb/>
+som jeg, da jeg igaar var sengeliggende, lod fremlægge i det da holdte <lb/>
+Statsraad ved Statsraad Vogt, som er enig med mig om, at den oftnævnte <lb/>
+Fremmedes Virksomhed her kan medføre Ulemper, og at han burde bortvises.</p>
+               <p xml:id="p3">	Regjeringens Bemyndigelse hertil findes i Lagthingets af <lb/>
+Odelsthinget bifaldte Redaction af den 3die Paragraph i Ansvarlighedsloven af <lb/>
+1828 og <hi rend="underline">i de for denne Redaction anførte Motiver</hi>, som indført i de <lb/>
+trykte Storthingsforhandlinger for 1828 pagina 457.</p>
+               <p xml:id="p4">	Ifølge heraf er Regjeringen berettiget til at bortfjerne <lb/>
+mistænkelige Udlændinge: men til at benytte denne Ret, den jeg ogsaa anseer <lb/>
+for en Pligt, der som en overordentlig Foranstaltning vilde foranledige <lb/>
+Opsigt og Avisartikler, hører mere Mod end Alle have, og in specie  <lb/>
+mangler Justits Departementets nærværende Chef dette Mod.</p>
+               <p xml:id="p5">	For at tilveiebringe dette Mod var det, at jeg ønskede en <lb/>
+Meddelelse af Udenrigsministeren betræffende Harro Harring, som man kunde <lb/>
+have paaberaabt i Beslutningen om dennes Bortviisning i en hemmelig <lb/>
+Protocol. For Statsraad Vogt og mig er Meddelelsen, som den er,  <lb/>
+tilstrækkelig; men ikke for Regjeringens øvrige Medlemmer, – fordi den <lb/>
+som Enskild ikke kan paaberaabes, og jeg maa indrømme at dette  <lb/>
+beklagelige Ord, anbragt paa Couverten, over og i Brevet, røber, at Hans  <lb/>
+Excellence ikke vil have Meddelelsen paaraabt. I Mangel heraf formener <lb/>
+Regjeringens Pluralitet, at her ikke haves tilstrækkelig Grund til at <lb/>
+bortvise Harro Harring.</p>
+               <p xml:id="p6">	Jeg kan kun beklage dette, fordi jeg befrygter, at Personens <lb/>
+Virksomhed her kan blive farligere for Samfundet end Thranes. De citerede <lb/>
+af Lagthinget i 1828 anførte, af Odelsthinget bifaldte Motiver for  <lb/>
+Regjeringens fri Raadighed over Udlændinge, er efter Statsraad Vogts og <lb/>
+min Formening, aldeles anvendelige paa Harro Harring; men den er af <lb/>
+ingen Nytte, naar Regjeringen er saa ængstelig for at benytte den, <lb/>
+som det nu viser sig.</p>
+               <p xml:id="p7">	Morgenstjerne tiltraadte i gaar en kort Reise til det sydlige <lb/>
+Tydskland, for at erfare Et og Andet og derefter i Kjøbenhavn at møde <lb/>
+sin Frue, som har tilbragt Vinteren i Moscau. Jeg beklager hans  <lb/>
+Fraværelse, fordi han er meest initieret i Dagens mangehaande Begivenheder <lb/>
+her. Før Afreisen meddeelte han mig, at Harro Harring og en anden meget <lb/>
+slet berygtet Person, ere lønnede Medredacteurer af et nyt Blad,  <lb/>
+”Folkets Røst”, og at Førstnævnte i et Selskab skal have yttret: ”at det <lb/>
+er en Urimelighed for et saa fattigt Land som Norge, at have en saa <lb/>
+kostbar Institution som et Kongedømme, og at det gaar meget godt i <lb/>
+Amerika, hvor Præsidenten kun har Løn som en norsk Statsraad”. – </p>
+               <p xml:id="p8">	Markus Thrane vil nu blive sat under justitiel Tiltale for 2de <lb/>
+skammelige Artiklet i hans Blad og er det mig kjært, at Anledningen <lb/>
+hertil er religiøs, ikke politisk.</p>
+               <p xml:id="p9">	Om jeg sandsynlig skulde blive nødsaget til at gjøre en kort <lb/>
+Forretningstour til Fossum mellem den 24de og 30te denne Maaned, tør jeg dertil benytte den mig i Almindelighed givne naadige Tilladelse, <lb/>
+hvorom nærmere underdanigst Indberetning forbeholdes. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te Mai 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestet Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

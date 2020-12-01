@@ -1,0 +1,112 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>32</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 12. juni 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 12. juni 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te Juni.</p>
+               <p xml:id="p2">	I Statsraad i Gaar underskrev jeg en underdanigst Indstilling om <lb/>
+Oberst Garbens naadige Udnævnelse til Medlem af Slots-Bygnings- <lb/>
+Commissionen, i Stedet for Statsraad Foss. Efter Medlem af denne Commission <lb/>
+Generalmajor Wetlesen's dødelige Afgang og efter Statsraad Foss's <lb/>
+Udtrædelse bestaaer den for Tiden af Ingenieur Major Arentz, Borgermester <lb/>
+Bretteville og Kjøbmand Tofte; Wetlesens Plads blev ikke besat, hvorimod <lb/>
+Commissionen gjentagende har anmodet om Udnævnelse af et nyt Medlem i <lb/>
+Stedet for Foss.</p>
+               <p xml:id="p3">	Neppe har det gamle Ordsprog: "Viele Köche verderben den Brei" – <lb/>
+viist sig sandere end ved Slottet og jeg vilde derfor ikke tillade mig <lb/>
+at tilraade at forøge Kokkenes Antal i sidste Stund, om ikke  <lb/>
+Omstændighederne gjorde det nødvendigt.</p>
+               <p xml:id="p4">	Da Storthinget 1833 bevilgede Summer til Fortsættelse af det <lb/>
+standsede Slotsbygnings-Arbeide, skeede dette under den udtrykkelige, ikke <lb/>
+senere forandrede Betingelse, at en Commission af paalidelige og  <lb/>
+bygningskyndige Mænd skulde udnævnes, for at overtage den oeconomiske <lb/>
+Bestyrelse og fornemmelig for at føre dagligt nøiagtigt Overopsyn med <lb/>
+Arbeidets forsvarlige Udførelse overeensstemmende med Bygge-Planen. I <lb/>
+denne Bestemmelse ligger en formel Hindring, mod Bygningscommissionens <lb/>
+Ophævelse og jeg maa derhos erkjende, at Ingen af de tre tilbageværende <lb/>
+Commissionens Medlemmer kan ansees for egentlig Bygnings-kyndig.</p>
+               <p xml:id="p5">	Da General Wedel ikke er villig til at indtræde i Commissionen, <lb/>
+vidste jeg ingen paalideligere og dygtigere at foreslaae end Oberst Garben.</p>
+               <p xml:id="p6">	I Statsraad den 7de overbragte en Storthings Deputation Beslutning <lb/>
+til Lov om Heftelsers Udslættelse af Pantebøgerne.</p>
+               <p xml:id="p7">	Jeg beklager, at den i min underdanigste Rapport af 9de Mai omnævnte <lb/>
+Studenternes kloge Beslutning betræffende en Kjøbenhavns-Reise er bleven <lb/>
+forandret. Omtrent en 80 Studerende have ikke kunnet modstaae de Upsalske <lb/>
+og Kjøbenhavnske Studenters "<hi rend="underline">gjentagne</hi>" Indbydelse og have leiet <lb/>
+det Kjøbmand Tofte tilhørende Dampskib "Carl Johan" for 700 Spdl., for <lb/>
+at føre dem til Kjøbenhavn den 21de denne Maaned.</p>
+               <p xml:id="p8">	For at formindske Fragten søge de Reiselystne at anhverve fleest <lb/>
+mulig Medreisende og have i denne Hensigt henvendt sig til de i  <lb/>
+Regjeringens Departementer ansatte Copiister, der ikke mangle Reiselyst. <lb/>
+Forinden jeg herom blev underrettet havde 3 à 4 Copiister faaet Reise- <lb/>
+Tilladelse, hvorefter jeg har omanmodet De Herrer Departements Chefer at <lb/>
+nægte flere Copiister Tilladelse til Deeltagelse i Studenter Toget. Ikke <lb/>
+uden Uro vil jeg see de unge Mennesker begive sig paa en Reise, hvorunder <lb/>
+de kunne forvolde sig selv og Andre mangehaande Ubehageligheder, til <lb/>
+hvis Forebyggelse jeg dog vil anvende mine bedste Bestræbelser.</p>
+               <p xml:id="p9">	Jeg har nu bestemt Hans Kongelige Høihed Prinds Gustavs Fødselsdag <lb/>
+den 18de denne Maaned til Afsløring af Salig Hans Excellence Grev Wedels <lb/>
+Büste, hvortil jeg agter at indbyde Alle til Familien henhørende saavelsom <lb/>
+herværende Autoriteter, Honoratiores, den feirede Afdødes mange Officianter <lb/>
+og beder jeg, at Deres Majestæt ikke vil optage det unaadig, <lb/>
+at jeg vil tillade mig at afbenytte det nærliggende Ladegaardsøen til <lb/>
+det talrige Selskabs Samling og Beværtning.</p>
+               <p xml:id="p10">	Temperaturen er nu, Gud skee Tak! bleven varm, og for Vegetationen <lb/>
+saare velgjørende.</p>
+               <p xml:id="p11">	Da Statsraad Foss har bestemt sin Afreise til Tydskland, hvorved <lb/>
+han geleides af sin Ven, Professor medicinae Heiberg, til Løverdag den <lb/>
+14de, venter jeg ham hid idag til en liden Afskeds-Middag. Hver Dags <lb/>
+forøgede Forretnings Bekjendtskab stadfæster mig i den Overbeviisning, <lb/>
+at Deres Majestæt i Foss har gjort en særdeles heldig Acquisition for <lb/>
+Statsraadet og mine varme Ønsker om, at hans sjeldne Dygtighed længe <lb/>
+maa blive bevaret for Konge og Fædreland, følge ham.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 12te Juni 1845</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

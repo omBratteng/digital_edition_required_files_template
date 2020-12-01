@@ -1,0 +1,114 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>301</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. juni 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. juni 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Hans Excellence Statholderen reiste herfra til Fossum Fredag den <lb/>
+30te Mai sidstleden.</p>
+               <p xml:id="p2">	De Poster af Udgifts-Budgettet, som ikke staae i uadskillelig <lb/>
+Forbindelse med uafgjorte Sager og heller ikke frembyde andre  <lb/>
+Vanskeligheder, ere i disse Dage, efter Forberedelse i Comitéen,  <lb/>
+behandlede i Storthinget. Jeg troer ikke at burde trætte Deres Majestæt <lb/>
+med at berøre disse Poster hver for sig, men skal kun underdanigst  <lb/>
+tillade mig her at omtale 3de, der maa erkjendes at være af særdeles <lb/>
+Vigtighed.</p>
+               <list xml:id="list3">
+                  <label>1o </label>
+                  <item>Foruden det til Helbredelses-Anstalten for Spedalske i Bergen <lb/>
+af Deres Majestæt naadigst Foreslaaede, har Storthinget yderligere <lb/>
+bevilget 10,000 Spdl aarlig eller i det Hele 30,000 Spdl til  <lb/>
+Oprettelse af en Pleie-Anstalt for dette Slags Syge. Regjeringen havde <lb/>
+anseet nærmere Undersøgelse fornøden, inden Noget foresloges til en <lb/>
+saadan Pleie-Anstalt; – men Spedalskhedens Tiltagende har paa  <lb/>
+Storthinget gjort et meget dybt Indtryk, og dette har foranlediget denne <lb/>
+Tillægs-Bevilgning.</item>
+                  <label>2o </label>
+                  <item>Til nye Fyrindretninger, hvortil Deres Majestæt naadigst <lb/>
+havde foreslaaet omtrent 33,000 Spdl aarlig, har Storthinget bevilget <lb/>
+58,000 Spdl aarlig i næste Budget-Termin.</item>
+                  <label>3o </label>
+                  <item>Derimod har Storthinget Intet bevilget til et Central- <lb/>
+Agerdyrknings-Seminarium, hvortil Deres Majestæt havde foreslaaet 14,000 <lb/>
+Spdl aarlig Jeg maa antage, at dette Afslag er forskjelligen begrundet. <lb/>
+Saaledes har man maaskee troet at burde oppebie Virkningen af de <lb/>
+særskilte Landbrugs-Skoler, – hvortil Storthinget vistnok vil bevilge <lb/>
+i det mindste hvad der er forlangt, – ligesom man vel har fundet <lb/>
+Udgifterne høit beregnede, skjønt der Intet var ført i Regning for <lb/>
+Erhvervelsen af Aas Præstegaard. Comitéens Tilkjendegivende af, at denne, <lb/>
+det beneficerede Gods tilhørende, Gaard, burde afgives uden Vederlag, <lb/>
+– har ikke gjort noget godt Indtryk, og ansees som nærgaaende for <lb/>
+Oplysningsvæsenets Fond.</item>
+               </list>
+               <p xml:id="p4">	Da fremfor Alt Forberedelserne til Modtagelse af de svenske og <lb/>
+danske Studenter, i denne Tid beskjæftiger Christiania og Omegn, <lb/>
+antager jeg, at vedlagte private Meddelelse fra en af Fest Comitéens <lb/>
+Medlemmer ikke vil være uden Interesse. Deres Majestæt vil deraf <lb/>
+naadigst erfare, hvorledes de Besøgende ville blive modtagne her, og  <lb/>
+hvorledes de 6 Dage, hvori Besøget varer, – ville blive anvendte. Jeg <lb/>
+skal senere tillade mig, at indberette, hvad der under Mødet maatte egne <lb/>
+sig til underdanigst at meddeles Deres Majestæt.</p>
+               <p xml:id="p5">	I forrige Uge blev paa Asker, Skyds Stationen mellem Christiania <lb/>
+og Drammen, – afholdt en almindelig Sanger-Fest, bestaaende af samtlige <lb/>
+Sang-Foreninger fra Christiania og Drammen. Uagtet et Tilløb af 5 <lb/>
+à 6000 Mennesker, foregik denne Fest med den største Orden og Rolighed.</p>
+               <p xml:id="p6">	Ifølge private Meddelelser tabe Arbeider-Foreningerne mere og <lb/>
+mere Terrain; den Strænghed, hvormed Bestyrelsen inddriver den resterende <lb/>
+Contingent, synes at aabne Øinene paa Arbeiderne med Hensyn til <lb/>
+deres Lederes egennyttige Hensigter. Til det Central-Møde, som er <lb/>
+berammet til 10de Junii, vil, efter Sigende, neppe indfinde sig <lb/>
+Halvparten af de 200 Deputerede, som Bestyrelsen havde gjort Regning paa. <lb/>
+Mødet ifjor bestod af 130 .</p>
+               <p xml:id="p7">	Storthinget, hvis Pintse Ferier begyndte i Gaar den 5te Junii, <lb/>
+samles først igjen Onsdag den 11te i denne Maaned.  <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te Junii 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst <lb/>
+                  </salute>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

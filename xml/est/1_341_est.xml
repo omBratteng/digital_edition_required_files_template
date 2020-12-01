@@ -1,0 +1,118 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>341</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. januar 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. januar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Efter min sidste underdanigste Rapport af 1ste denne Maaned, <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 29de forrige Maaned.</p>
+               <p xml:id="p2">	Fra det første Øieblik, da Underhandlingerne med Rusland om vore <lb/>
+Lappers Forholde begyndte, har jeg erkjendt deres Vigtighed, mindre <lb/>
+med Hensyn paa selve Gjenstanden, end paa de for den svagere Part <lb/>
+mislige Forviklinger, hvortil de kunde lede, og efterat vor sagkyndige <lb/>
+Udenrigsminister havde erklæret, at Grændse Traktaten af 1752 ikke <lb/>
+længere er bindende for Rusland, har jeg saa meget mere erkjendt  <lb/>
+Nødvendigheden af Forsigtighed og Maadehold fra vor Side, under disse <lb/>
+Forhandlinger. Visselig staae de forenede Riger som Statseenhed lige med <lb/>
+Rusland i europæisk Rang; men det vilde være formastelig at være <lb/>
+blind for den uhyre Forskjel af de 2de Staters Kræfter og Magt.</p>
+               <p xml:id="p3">	Fra denne Synspunct maatte jeg ligesaa meget beklage <lb/>
+Underhandlingernes Afbrydelse, som jeg nu er glad ved, at den stærkere Part <lb/>
+har forlangt dem fornyet.</p>
+               <p xml:id="p4">	Ved at bringe Sagen paa Bane i Statsraadet i Gaar bemærkede jeg <lb/>
+ugjerne Statsraad Stangs lidenskabelige Stemning i Anledning af den <lb/>
+sidste russiske Note, den jeg endnu ikke har seet, som efter hans  <lb/>
+Sigende skal indeholde nærgaaende og grove Yttringer om den norske  <lb/>
+Regjering, – der have bragt ham i Harnisk.</p>
+               <p xml:id="p5">	Jeg haaber imidlertid, at Klogskab og Sindighed vil vinde <lb/>
+Overhaand under Sagens officielle Behandling i Regjeringen og dertil vil <lb/>
+jeg anvende mine Bestræbelser.</p>
+               <p xml:id="p6">	Med Morgenposten vil afgaae Regjeringens underdanigste Indstilling <lb/>
+om, at Deres Majestæt ved provisorisk Anordning, naadigst vil befale <lb/>
+en midlertidig Forhøielse i Tolden af raffineret Sukker, der fra <lb/>
+Sverige indføres til Norge.</p>
+               <p xml:id="p7">	Da Indstillingen er meget vidtløftig, tillader jeg mig underdanigst <lb/>
+at vedlægge en Tableau over denne ubehagelige Sags Gang og iværende <lb/>
+Stilling.</p>
+               <p xml:id="p8">	Ogsaa i denne Begivenhed har Tidningspressen gjort sin fordærvelige <lb/>
+Indflydelse gjældende. Gøtheborgs Handels- och Sjøfarts Tidning <lb/>
+begyndte at blæse, det norske Morgenblad svarede, og snart bestræbede <lb/>
+alle Aviser sig for at ophidse svenske og norske Gemytter mod hinanden. <lb/>
+At det lykkedes at bevæge Rigsdag og Storthing til at tage Partie, – <lb/>
+undrede mig mindre, end at Avisartiklerne synes at have udøvet nogen <lb/>
+Indflydelse paa selve den svenske Regjering, da denne formeentlig burde <lb/>
+have erkjendt, at den norske Regjering valgte det efter Omstændighederne <lb/>
+eneste mulige Middel, for med store Opoffrelser at afvende end større <lb/>
+Tab saavel for den svenske, som norske Statscasse: det Middel, som <lb/>
+den svenske General Tull-Directeur under sin personlige Nærværelse her, <lb/>
+paa det Indstændigste anbefalede. Striden synes nu væsentligst at <lb/>
+versere imellem DHrr Carnegie og Bruzewitz.</p>
+               <p xml:id="p9">	I Indstillingen om Besættelsen af Toldinspecteur Embederne i <lb/>
+Christiansand og Risøer, vil Deres Majestæt finde en væsentlig Dissents: <lb/>
+Told Departementets Chef har til begge disse Embeder indstillet <lb/>
+vel tjente Toldembedsmænd, som allerede have viist, den Dygtighed i <lb/>
+Toldfaget, som han for Toldinspecteurer især anseer nødvendig. Han har <lb/>
+derhos anført Nødvendigheden af at opretholde Toldembedsmændenes  <lb/>
+Nidkjærhed i Tjenesten, ved i denne Begivenhed at tage fortrinlig Hensyn <lb/>
+til dem, saa meget mere, som i de sidst forløbne 2 Aar, kun 2de Mænd <lb/>
+af Toldfaget, men 6 udenfor samme, ere befordrede til høiere Toldembeder <lb/>
+og at han finder sig beføiet til at indstille en Militair til det nu <lb/>
+ledige Toldcasserer Embede i Drøbak.</p>
+               <p xml:id="p10">	Jeg maa tiltræde disse Statsraad Brettevilles Anskuelser, medens <lb/>
+det har lykket Statsraad Erichsen, ved Stangs Hjelp, at vinde een Stemmes <lb/>
+Pluralitet for Capitaine Horn, som jeg ikke kan anbefale til at blive <lb/>
+Toldinspecteur, fordi han med andre gode Egenskaber, aldeles mangler den <lb/>
+Conduite, der for dette Embede er nødvendig, om det skal blive vel <lb/>
+bestyret. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Januar 1852 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

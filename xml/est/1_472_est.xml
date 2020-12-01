@@ -1,0 +1,75 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>472</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. november 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. november 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 30te forrige Maaned. <lb/>
+Foreningsdagen, den 4de November, har jeg denne Gang troet at burde <lb/>
+høitideligholde ved en større Middag for Byens Authoriteter og  <lb/>
+Embedsmænd. Under Hans Excellence Statholderens Fraværelse har jeg anseet <lb/>
+denne Høitideligholdelse ikke allene som min underdanige Pligt, – men <lb/>
+det har tillige været en Trang for mit Hjerte at bringe denne Hyldest <lb/>
+til Dagens dobbelte Betydning: som Foreningens 40de Aarsdag og som <lb/>
+Mindefest for Foreningens ophøiede Stifter, Høistsalig Kong Carl Johan.</p>
+               <p xml:id="p2">	Dagen er derhos bleven almindelig feiret af Christiania Indvaanere <lb/>
+af alle Classer, saavel ved Middagsselskaber i forskjellige  <lb/>
+Foreninger, som om Aftenen ved en større Festlighed i Frimurer Logen, <lb/>
+hvor over 1000 af Byens Borgere, efter Studenter Samfundets Indbydelse, <lb/>
+vare forsamlede og under Ledsagelse af Taler, Musik og dertil  <lb/>
+forfattede Sange, udbragte enthousiastiske Skaaler for Deres Majestæt, <lb/>
+for Kong Carl Johans Minde, for de forenede Riger, for Sverige, og <lb/>
+for den svenske Armee, med Flere; Dagens Aviser indeholde udførlige <lb/>
+Beretninger om denne festlige Sammenkomst, der uden Tvivl var en af <lb/>
+de vakkreste og meest populaire Høitideligheder, som i lang Tid her <lb/>
+har fundet Sted. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te November 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

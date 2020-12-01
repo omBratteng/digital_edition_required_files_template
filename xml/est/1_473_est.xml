@@ -1,0 +1,77 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>473</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 10. november 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 10. november 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	Jeg giver mig herved den underdanige Frihed at indberette, at <lb/>
+jeg den 8de dennes har havt den Ære at høitideligholde Hendes Majestæt <lb/>
+Enke-Dronningens høie Fødselsdag ved en Souper i mit Huus, hvortil <lb/>
+vare indbudne saa mange af Byens Authoriteter med Damer, som Localet <lb/>
+vilde tillade.</p>
+               <p xml:id="p3">	Den electriske Telegraph vil i Løbet af 14 Dage blive fuldført <lb/>
+mellem Christiania og Drammen. Der vil paa denne Linie blive  <lb/>
+telegrapheret i Løbet af Vinteren, for at give de antagne Telegraphister  <lb/>
+Anledning til at Opøves. Linien fra Christiania til den svenske Grændse <lb/>
+vil blive færdig paa samme Tid, som Linien fra Wennersborg til <lb/>
+Grændsen, hvilket antages at ville skee i Mai 1855.</p>
+               <p xml:id="p4">	Canalen paa Bømmel-Øen, 6 Mile nordenfor Stavanger, der er <lb/>
+bortaccorderet for Overslags-Summen, – er saa vidt færdig, at den <lb/>
+allerede under forestaaende Vaarsilde Fiske vil kunne benyttes til <lb/>
+Gjennemfart af Fiskerbaade, – men endnu ikke af Fartøier.</p>
+               <p xml:id="p5">	Med Slusseanlægget ved Skien gaaer det rask fremad.</p>
+               <p xml:id="p6">	Broen over Glommen, ved Kongsvinger, er bortaccorderet for <lb/>
+Overslags-Summen (ca 13,000 Spdl), – og de forskjellige større <lb/>
+Veiarbeider og Bro-Anlæg, hvortil Midler ere bevilgede, – ere i fuld <lb/>
+Gang, – dog er der paa enkelte Steder Mangel paa Arbeidere. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 10de November 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

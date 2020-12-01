@@ -1,0 +1,131 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>222</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 7. april 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 7. april 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p xml:id="p2">	Regjeringens underdanige Indstilling om Værnepligtssagens Behandling <lb/>
+vil omsider afgaae med Morgenposten. Den 5te Marts bifaldt Deres <lb/>
+Majestæt naadigst de af Regjeringen underdanigst foreslaaede Principper <lb/>
+og Sagens senere langvarige Behandling her, giver kun et nyt Beviis paa, <lb/>
+at det er vanskeligt, at bringe 8 Hoveder under een Hat, og at dette i <lb/>
+alle Fald medtager lang Tid. Statsraad Stang opponerede fra først til <lb/>
+sidst mod en militair Commission og dernæst behøvedes lang Tid, for at <lb/>
+blive enig om dens Medlemmer.</p>
+               <p xml:id="p3">	Den eenstemmige Indstilling gaaer nu ud paa: "at Deres Majestæt <lb/>
+naadigst vil befale, at Forslag til en Værnepligtslov og dermed i <lb/>
+Forbindelse staaende Armee-Organisation skal gjøres af en Commission,  <lb/>
+bestaaende af General-lieutenant Bloch, Generalmajor Meydell,  <lb/>
+Oberstlieutenant Skjelderup, Capitaine Holmboe; som Jurist Sorenskriver <lb/>
+Thaulow og for Sø Etaten Kammerherre Hesselberg.</p>
+               <p xml:id="p4">	Som juridisk Medlem vilde jeg meget have foretrukket Auditeur Dahl <lb/>
+og beklager, at han afslog Tilbudet. Thaulow er ingen Capacitet; men <lb/>
+han har været Auditeur og mangeaarig Expeditions Secretair i Armee <lb/>
+Departementet, hvor han har havt Anledning til at erhverve Sagkundskab. <lb/>
+Meydell er kun foreslaaet, fordi han er anbefalet af General Bloch og <lb/>
+Oberste Mansbach. Som en Modsætning mod ham vilde man have foreslaaet <lb/>
+Ingenieur Lieutenant Ræder; men frafaldt dette efter Statsraad Sylows <lb/>
+indstændige Anmodning. Jeg har senere sporet, at Sylow i denne Begivenhed <lb/>
+ledes af Meydell. Denne leverede mig i Overgaars sin Brochure om <lb/>
+Indretningen af Norges Krigsmagt, hvorved jeg foreløbig bemærkede, <lb/>
+at jeg fandt det ubetimeligt at han i Trykken vilde yttre sig paa Forhaand <lb/>
+om Gjenstande, til hvis officielle Behandling i en Commission han <lb/>
+er designeret.</p>
+               <p xml:id="p5">	Om Regjeringens Medlemmer havde tidligere kjendt Meydells Brochure, <lb/>
+vilde han neppe være bleven foreslaaet, uagtet han ønskes af Bloch. <lb/>
+Denne Brochure vidner om en complet Overeensstemmelse med Krigscommissair <lb/>
+Brochs Anskuelser og har en paafaldende Lighed med Sylows oprindelige <lb/>
+Forslag.</p>
+               <p xml:id="p6">	Jeg kjender nu kun eet Middel som Modvægt mod de Meydelske <lb/>
+Anskuelser i Commissionen, nemlig at Deres Majestæt proprio motu naadigst <lb/>
+vil udnævne Lieutenant Ræder til dens Medlem, hvortil Ingenieur Vaabenets <lb/>
+Krav paa deri at være representeret ved Siden af de andre Vaabenarter, <lb/>
+synes mig at give god Anledning. Jeg tillader mig underdanigst <lb/>
+at foreslaae dette.</p>
+               <p xml:id="p7">	I Anledning af Grev Lewenhaupts Skrivelse af 1ste har jeg confereret <lb/>
+med Morgenstjerne og stillet 200 Spd. til hans Disposition for at <lb/>
+anvendes i den angivne Retning. Morgenstjerne troer nu at have funden <lb/>
+en paalidelig Rapporteur som meddeelte ham Indholden af Michelsons Brev <lb/>
+til Thrane.</p>
+               <p xml:id="p8">	Om Deres Majestæt vil have den Naade at meddele mig nærmere <lb/>
+Oplysning om, at Harring er hidkommet eller hidsendt som Emissair af  <lb/>
+udenlandske socialistiske Foreninger, da troer jeg nu at have funden <lb/>
+tilstrækkelig Bemyndigelse for Regjeringen til, uden videre Proces, at <lb/>
+lade ham bortvise. Hertil udfordres intet juridisk Beviis men blot en <lb/>
+høi Grad af Formodning som Regjeringens øvrige Medlemmer paa Grund af <lb/>
+de oplyste Omstændigheder maatte kunne deele og finde tilstrækkelige <lb/>
+til at anvende den Myndighed, som jeg nu tør antage, at den virkelig <lb/>
+har. Det gjælder nu om <hi rend="underline">strax</hi>  at iværksætte en saadan Foranstaltning, <lb/>
+forinden Harring begiver sig til Bergen og andre Steder, som han skal <lb/>
+have i Sinde. De Oplysninger, som Deres Majestæt naadigst maatte ville <lb/>
+give mig, ville visselig blive benyttede med den yderste skyldige <lb/>
+Discretion, men det maa være mig naadigst tilladt at meddele dem til <lb/>
+Regjeringens Medlemmer.</p>
+               <p xml:id="p9">	Efter Statsraad Vogt's Ønske og Anmodning vil jeg tillade mig <lb/>
+underdanigst at berøre Kronings Anliggendet. Han nærer det Ønske, som <lb/>
+jeg visselig deler, at denne grundlovmæssige Act ikke maatte behøves <lb/>
+at udsættes længer og han finder, at Hans Kongelige Høihed Kronprindsens <lb/>
+Formæling giver en passende Anledning til at lade den foregaae <lb/>
+strax derefter i <hi rend="underline">dette Aar</hi>. Han troer derhos at om det naadigst maatte <lb/>
+behage Deres Majestæt af Egen Casse at forskyde den til Kroningens <lb/>
+Iværksættelse manglende Sum 12 à 15000 Speciedaler, vilde et kommende <lb/>
+Storthing ikke undlade at erstatte Forskuddet. I denne Henseende tør <lb/>
+jeg ingen Mening yttre; men jeg deler visselig det Ønske, at Kroningen <lb/>
+omsider maa kunne foregaae, som jeg er overbeviist om, at denne og Deres <lb/>
+Majestæters og den Kongelige Families dermed forbundne Besøg i en <lb/>
+stor Deel af dette Land, vilde have en høist velgjørende Indflydelse. <lb/>
+Jeg befrygter imidlertid at just Hans Kongelige Høiheds forestaaende <lb/>
+Formæhling vil vanskeliggjøre Ønskets Opfyldelse, men tør ved Leilighed <lb/>
+maaskee modsee Deres Majestæts naadige Formening. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7 April 1850. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

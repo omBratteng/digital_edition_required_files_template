@@ -1,0 +1,99 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>33</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 15. juni 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 15. juni 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p xml:id="p2">	Sidste Stockholms Post, som ankom usædvanlig seent samme Dags Aften <lb/>
+bragte mig Deres Majestæts naadige Skrivelse af 9de dennes med Deres <lb/>
+Majestæts naadige Beslutning betræffende Pensionslisterne, som <lb/>
+glædede mig og mange Flere, fordi denne Beslutning viser, at Deres <lb/>
+Majestæt med vedbørlig Agtelse for Storthingets constitutionelle <lb/>
+Rettigheder, er ligesaa bestemt til at nægte Opfyldelsen af dets ubeføiede <lb/>
+Fordringer, som ikke have Hjemmel i Grundloven. Denne Anskuelse og <lb/>
+Regjeringens derpaa grundede faste og urokkelige Handlemaade er nødvendigere <lb/>
+end nogensinde for Folkets og Rigets Vel, og om den end ikke maatte <lb/>
+behage den nærværende Storthingsmajoritet, saa vil den dog opvække <lb/>
+endog dennes Agtelse og vinde Bifald og Medhold hos Storthingets  <lb/>
+intelligente Minoritet, som hos Folket. Hs. Excellence Statsministeren <lb/>
+havde heldigviis adresseret Protocollen denne Gjenstand betræffende directe <lb/>
+til mig og Dagen efter dens Modtagelse anmodede jeg Finants Departementets <lb/>
+Chef om at meddele Storthingets President Deres Majestæts naadige <lb/>
+Resolution, hvorefter jeg lod den sætte i Circulation blandt  <lb/>
+Regjeringens øvrige Medlemmer. Da Storthinget i de 2de sidste Dage ikke <lb/>
+har havt Plenum, er Resolutionen endnu ikke bleven samme foredraget; <lb/>
+men Presidenten Sørenssen, som besøgte mig i Gaar Aftes, erklærede  <lb/>
+confidentielt, at han og de hans Venner, til hvem han foreløbig havde <lb/>
+meddeelt den, maatte dele de af Regjeringen yttrede af Deres Majestæt <lb/>
+naadigst bifaldte Anskuelser.</p>
+               <p xml:id="p3">	Blandt flere Benaadnings-Ansøgninger vil der snart blive Deres <lb/>
+Majestæt een underdanigst forelagt fra en Hans Johnsen Sanden af Eger, <lb/>
+som ved Høiesterets Dom af 20de Februar dette Aar er dømt til  <lb/>
+Strafarbeide i 9 Aar, efter den nye Criminallov for 8 forskjellige Gange <lb/>
+at have efterskrevet Andres Navne paa Gjeldsbreve. Hverken Høiesteret <lb/>
+eller Regjeringen have anbefalet ham til Benaadning, som jeg vover  <lb/>
+underdanigst bede Deres Majestæt ikke at forunde ham, fordi denne farlige <lb/>
+Forbrydelse i den senere Tid er bleven meget hyppigere end tilforn, især <lb/>
+i det omnævnte District.</p>
+               <p xml:id="p4">	Studenternes Afreise til Kjøbenhavn er nu bestemt til Fredag <lb/>
+Eftermiddag den 20de. Antallet er steget til saamange som Dampskibet <lb/>
+Eier vil medtage, nemlig 118, hvoraf Fleertallet Studenter og nogle  <lb/>
+Candidater.</p>
+               <p xml:id="p5">	Jeg venter idag til Middag Fyrst Colloredo-Mannsfeld, Keiserlig <lb/>
+østerrigsk Oberst, en af Bøhmens fornemste Magnater, hvis respectable <lb/>
+Familie jeg vel kjender. Denne Fyrste, som for 3 Aar tilbage har <lb/>
+gjennemreist en Deel af dette Land, agter nu gjennem det Indre at reise <lb/>
+til Nordcap og gjennem Lapmarken til Torneå.</p>
+               <p xml:id="p6">	Sædvanlig skriver jeg mine underdanigste Rapporter til Deres <lb/>
+Majestæt her Søndag og Torsdag Formiddage, og begiver mig de paafølgende <lb/>
+Morgener til Byen, for at expedere Posten.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 15 Juni 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

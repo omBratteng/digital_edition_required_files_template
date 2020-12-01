@@ -1,0 +1,241 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>184</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. mars 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. mars 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 18de denne Maaned.</p>
+               <p xml:id="p2">	Tilfølge Deres Majestæts naadigste Befaling af 15de har jeg havt <lb/>
+confidentielle Conferencer med Regjeringens Medlemmer betræffende et <lb/>
+underdanigst Forslag til Udnævnelse af den tjenstgjørende Generaladjutant <lb/>
+for Armeen, hvorved man, da den commanderende General ikkun har bragt Een, <lb/>
+nemlig Oberstlieutenant Sørenssen i Forslag, besluttede at affordre ham <lb/>
+Opgave over de flere Mænd, som han uden specielt Hensyn til indehavende <lb/>
+militair Grad, kunde ansee qualificerede for Posten.</p>
+               <p xml:id="p3">	Statsraad Erichsen tilskrev den commanderende General herom som <lb/>
+vedlagte Copie viser, hvortil Generalen svarede, "At han i Et og Alt henholdt <lb/>
+sig til sit første Forslag, at han ikke vilde foreslaae nogen Brigade Chef  <lb/>
+eller nogen Anden, der ikke havde den militaire Høiskoleexamen, uagtet  <lb/>
+han mundtlig erkjendte, at andre kunde være lige dygtige og han vedlagte  <lb/>
+derhos vedfølgende Liste over 8 andre formeentlig qualificerede Officierer  <lb/>
+(hvoraf han dog ikke vilde foreslaae Nogen) hvorved der med Tillæg af  <lb/>
+Generalmajor Meydell og Oberstlieutenant Sørenssen, efterat Deres Majestæt  <lb/>
+har forkastet Oberst Mansbach, er nævnt 10 Candidater.</p>
+               <p xml:id="p4">	Paa Grund af de i min underdanigste Rapport af 8de denne Maaned <lb/>
+anførte Omstændigheder, formoder jeg, at Statsraad Erichsen, i Sagens <lb/>
+nærværende Stilling, vil finde sig beføiet til at indstille som No 1 <lb/>
+Meydell No 2 Sørenssen, og No 3 Een af de øvrige nævnte Candidater.</p>
+               <p xml:id="p5">	Da Statsraad Erichsen nu skal skrive sin Indstilling, hvorefter denne <lb/>
+skal circulere blandt Regjeringens Medlemmer, forinden den vil kunne <lb/>
+forelægges Deres Majestæt, vil Regjeringen anmode den commanderende  <lb/>
+General om at vedblive Embedets Bestyrelse indtil Deres Majestæts naadigste <lb/>
+Udnævnelse er skeet.</p>
+               <p xml:id="p6">	Jeg deler Deres Majestæts Anskuelse, at den blivende General Adjutant <lb/>
+ikke vil kunne opfylde det Mangfoldige, som af ham ventes og fordres, <lb/>
+samt at man ved Valget ikke bør indskrænke sig til de høiere Grader; men <lb/>
+ligesom jeg maatte finde det krænkende for disse, ja for Armeen, om man <lb/>
+ikke i de høiere Grader skulde kunne finde en duelig Generaladjutant, saa <lb/>
+maa jeg ogsaa ansee dette meest passende og ønskeligt. Fra denne Synspunct <lb/>
+vilde jeg heller stemme for en dygtig Generallieutenant end for en <lb/>
+dygtig Lieutenant, og en saadan haves visselig i Bloch, om hvis Dygtighed <lb/>
+formeentlig Alle ere enige og hvis militaire Stilling er saa ophøiet, <lb/>
+at hans Udnævnelse maatte bringe alle smaa og store Jalousier til Taushed. <lb/>
+Neppe tør jeg haabe, at General Bloch vilde ombytte sin iværende <lb/>
+Stilling med Generaladjutant Posten, men om Deres Majestæt naadigst maatte <lb/>
+bifalde Ideen, var det værdt at lade ham ved den commanderende General <lb/>
+tilspørge, hvori han under alle Omstændigheder maatte paaskjønne et <lb/>
+dyrebart Beviis paa Deres Majestæts naadige Tillid.</p>
+               <p xml:id="p7">	I Anledning af Deres Majestæts Yttring om Oberste Mansbachs <lb/>
+oeconomiske Stilling, tillader jeg mig underdanigst at bemærke, at jeg under <lb/>
+de 8 Aar, som jeg har tilbragt her, aldrig har erfaret ham at være i  <lb/>
+nogen Forlegenhed, og at en saadan neppe vil kunne indtræffe, saalænge <lb/>
+han som hidindtil punctlig opfylder de med hans Creditorer omforenede <lb/>
+Gjældsafdrag, hvorefter der rigtignok af hans ikke store Gage som Corpschef <lb/>
+bliver saare lidet tilbage for hans personlige Fornødenheder. Jeg <lb/>
+skjønner saaledes ikke at hans oeconomiske Omstændigheder bør være til <lb/>
+Hinder for hans Befordring, hvorved han snarere og lettere vilde kunne <lb/>
+betale sin resterende Gjeld og efter en lang Tjenestetid kunne opnaae en <lb/>
+noget behageligere Livsstilling.</p>
+               <p xml:id="p8">	Cholera Epidemien i Bergens Bye er fremdeles i stærkt Aftagende; i <lb/>
+de 3 sidste Døgn vare kun 5 angrebne. Det hele Antal af Angrebne siden <lb/>
+Sygdommens Udbrud, den 10. December f. A. til 19 Marts d. A. udgjør <lb/>
+imidlertid 1001, hvoraf 593 døde og 379 Helbredede. Paa de øvrige Steder <lb/>
+langs Kysten, hvor Epidemien er udbrudt, synes den ikke at fremtræde <lb/>
+meget voldsomt, og endnu er den ikke naaet længere frem end til Egersund. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25 Marts 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 25. mars 1849</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Afskrivt</hi>.</head>
+               <opener>Til <lb/>
+   	Armee-Commandandoen!</opener>
+               <p xml:id="p9">	Under 20de Februar sidstleden har den ærede Armee-Commando oversendt <lb/>
+underdanigst Indstilling angaaende Udnævnelsen af en tjenstgjørende <lb/>
+General-Adjutant for den norske Armee og Chef for Sammes Generalstab, <lb/>
+og tillige i en med bemeldte Indstilling følgende Skrivelse underrettet <lb/>
+Departementet om, at en af Armeens Brigadechefer, Generalmajor <lb/>
+Meydell havde meldt sig, for at blive taget i Betragtning ved Postens <lb/>
+Besættelse, men at Commandoen, af Aarsager som antydes, ikke troede at <lb/>
+burde bringe nogen Brigadechef i Forslag.</p>
+               <p xml:id="p10">	Ved Spørgsmaalet om Besættelsen af en for den norske Armees Udvikling <lb/>
+og Administration saa vigtig Post, er det for Departementet af særdeles <lb/>
+Vigtighed, fra den sagkyndige Authoritet der staaer i Spidsen for <lb/>
+Armeen, at erholde saadan veiledende Oplysning, som kan sætte Departementet <lb/>
+og senere den norske Regjering istand til at kunne bedømme Forholdene <lb/>
+med muligste Klarhed, naar underdanigst Indstilling skal afgives. <lb/>
+Oplysning af denne Art finder Departementet ikke i ønskelig Grad i den <lb/>
+ærede Armee-Commandoes Indstilling, idet deri blot er nævnt een Officier, <lb/>
+nemlig den som af Commandoen indstilles til Posten. Departementet <lb/>
+erfarer saaledes vistnok af Indstillingspunktet, det Resultat hvortil <lb/>
+den ærede Commando er kommet, ved Dens Afveining af de Qvalificationer <lb/>
+til Posten, som – i større eller mindre Grad – besiddes af de Officierer <lb/>
+der forudsættes at være tagne i Betragtning, iblandt hvilke dog Armeens <lb/>
+Brigadechefer sees at være udelukkede, men Departementet savner, <lb/>
+paa Grund af Indstillingens foranførte Beskaffenhed, al Veiledning fra <lb/>
+den høieste militaire Authoritet, om de Officierer inden Armeen der, <lb/>
+foruden den Indstillede kunde komme i Betragtning, en Veiledning som ved <lb/>
+den omhandlede Embedsbesættelse maa antages at være af mere end almindelig <lb/>
+Vigtighed, saafremt ikke Departementets Chef og Regjeringens øvrige <lb/>
+Medlemmer skulle sættes i den Nødvendighed, enten uden videre Oplysning <lb/>
+at tage Commandoens Indstilling til Følge, eller at gaae udenfor <lb/>
+Samme, naar underdanigst Indstilling skal gjøres til Hans Majestæt. <lb/>
+Departementet finder det derfor at være Pligt, tjenstligst at anmode <lb/>
+den ærede Armee-Commando om, at meddele Departementet Oplysning om <lb/>
+hvorvidt der, foruden den af Commandoen Indstillede, maatte, hvilket <lb/>
+ikke bør omtvivles, findes flere eller andre Officierer inden Armeen, <lb/>
+der i større eller mindre, men altid i tilstrækkelig Grad, besidde saavel <lb/>
+de Kundskaber, som de militaire Egenskaber der udfordres for at gjøre <lb/>
+dem skikkede til at komme i Betragtning til General-Adjutants Embedet, <lb/>
+og i saa Fald, hvilke disse Officierer ere. Ligesom disse Oplysninger <lb/>
+fra den sagkyndige Authoritet ville være af megen Værdie for Regjeringen, <lb/>
+i Opfyldelsen af de Samme ved Afgivelsen af dens underdanigste Indstilling <lb/>
+paahvilende constitutionelle Pligter, saaledes vilde formeentlig <lb/>
+ogsaa Nævnelsen af flere duelige Mænd have Interesse for Hans Majestæt <lb/>
+Kongen, naar Indstillingen om Embedets Besættelse underdanigst <lb/>
+forelægges Høistsamme. –</p>
+               <p xml:id="p11">	Departementet skal endelig tillade sig den Bemærkning, at ligesom <lb/>
+man ingenlunde kan dele den af Armee-Commandoen i Skrivelse af 20de  <lb/>
+Februar sidstleden yttrede Anskuelse, om at Armeens Brigadechefer ikke bør <lb/>
+komme i Betragtning ved Forslag til Besættelsen af General-Adjutants <lb/>
+Posten, – idet man tværtimod maa formene at naar alle øvrige Qvalificationer <lb/>
+vare lige, maatte den nævnte høie militaire Stilling snarere <lb/>
+være et Argument for end imod Vedkommende – saaledes troer man paa den <lb/>
+anden Side ikke heller at en lavere Charge inden Armeen bør udelukke  <lb/>
+ellers dygtige Mænd fra ved denne Leilighed at komme i Betragtning. Ved <lb/>
+Besættelsen af en for Armeen saa vigtig Embedspost, som den her omhandlede, <lb/>
+er det anerkjendt og udmærket Dygtighed som søges, og disse Egenskabers <lb/>
+Besidders indehavende Charge bør formeentlig ikke komme i nogen <lb/>
+væsentlig Betragtning ved Opgivendet af de dygtige Mænd, som Departementet <lb/>
+i dets underdanigste Indstilling ønsker at fæste Hans Majestæts <lb/>
+naadigste Opmærksomhed ved. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22den Marts 1849</date>.</dateline>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <p xml:id="p12">	Opgave fra Armee-Commandoen paa Officierer, som foruden den af <lb/>
+Commandoen til General-Adjutants-Embedet Indstillede, ansees af bemeldte <lb/>
+Commando "at være i Besiddelse af saadanne Kundskaber og øvrige  <lb/>
+Qvalificationer, uden hvilke en General-Adjutant vanskelig vil kunne <lb/>
+forsvare sin Post."</p>
+               <table xml:id="table1">
+                  <row>
+                     <cell>Oberstlieutenant Meyn, Felttøimester,</cell>
+                     <cell> Officier fra ...................</cell>
+                     <cell>1807. </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>Capitain Broch af Ingenieurbrigaden,</cell>
+                     <cell>  	" 	" .................</cell>
+                     <cell>1810.</cell>
+                  </row>
+                  <row>
+                     <cell>"  Schou	do</cell>
+                     <cell> 		" 	" .................</cell>
+                     <cell>1810</cell>
+                  </row>
+                  <row>
+                     <cell>"  C.P. Schrøder af 2den Agershusiske Brigade,<lb/>
+          (har høiere militair Examen)</cell>
+                     <cell> 			" .................</cell>
+                     <cell>1813.</cell>
+                  </row>
+                  <row>
+                     <cell>Major Heyerdahl af Artillerie-Brigaden</cell>
+                     <cell> 		" .................</cell>
+                     <cell>1814</cell>
+                  </row>
+                  <row>
+                     <cell>Capitaine Tønder, af Ingenieur-Brigaden</cell>
+                     <cell> 		" .................</cell>
+                     <cell>1815.</cell>
+                  </row>
+                  <row>
+                     <cell>"  C. Fasting, af Bergenske Inf. Brigade, <lb/>
+    	      (har høiere militair Examen)</cell>
+                     <cell> 			" .................</cell>
+                     <cell>1820.</cell>
+                  </row>
+                  <row>
+                     <cell>"  Irgens, af Ingenieur-Brigaden</cell>
+                     <cell> 		" .................</cell>
+                     <cell>1830.</cell>
+                  </row>
+               </table>
+               <p rend="center" xml:id="p13">-------------</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

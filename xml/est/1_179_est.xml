@@ -1,0 +1,71 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>179</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 23. februar 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 23. februar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 18de denne Maaned.</p>
+               <p xml:id="p2">	Ifølge de sidste Efterretninger fra Bergen har Antallet af de <lb/>
+anmeldte Cholera Tilfælde ikke tiltaget, hvorimod Sygdommens Intensitet <lb/>
+i de sidste Døgn syntes noget større, Det hele Antal af Angrebne siden <lb/>
+Sygdommens Udbrud indtil den 16de Februar udgjør 832 Personer, hvoraf <lb/>
+496 Døde. Desværre har Sygdommen imidlertid udbredt sig paa Kysten <lb/>
+blandt den fiskende Almue, som, greben af Forfærdelse, enten ile hjem <lb/>
+med de Syge eller sende Ligene hjem, hvorved Sygdommen mere og mere <lb/>
+forplantes og er den saaledes allerede naaet paa en halv Miil nær til <lb/>
+Stavanger Bye.</p>
+               <p xml:id="p3">	En ny Sygdom har yttret sit i Bergen, hvorom Lægerne ikke synes <lb/>
+at kunne give Oplysning. Den yttrer sig med en hvid Blemme og medfører <lb/>
+Døden. Efterat 3 Børn i den samme Familie deraf ere bortrevne, har den <lb/>
+hidtil ikke udbredt sig videre. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23de Februar 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

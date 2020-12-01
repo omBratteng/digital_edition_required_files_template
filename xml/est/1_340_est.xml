@@ -1,0 +1,87 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>340</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. januar 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. januar 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 25de forrige Maaned.</p>
+               <p xml:id="p2">	Jeg har idag Intet at indberette, men kun at tilfredsstille mit <lb/>
+Hjertes Trang til at fremsende mine underdanigste Nyaars-Ønsker ved <lb/>
+de første Ord, som min Haand nedskriver i det nysbegyndte Aar. Gud <lb/>
+holde Sin beskyttende Haand over Deres Majestæt, det Kongelige Huus, <lb/>
+de forenede Riger, og Deres Majestæts troe Undersaatter!</p>
+               <p xml:id="p3">	Med Dagsposten tillader jeg mig underdanigst at fremsende et nylig <lb/>
+modtaget Exemplar af et før omnævnt interessant politisk Skrift <lb/>
+af Dr. Zimmermann i Hannover, som Deres Majestæt dog muligen allerede <lb/>
+kjender. Jeg lykønsker Sverige, at Forfatterens vel begrundede <lb/>
+Daddel over de moderne europæiske Forfatninger, mindre rammer den <lb/>
+svenske end alle de andre.</p>
+               <p xml:id="p4">	Det er muligen det nye Aars første Sol, som i mit gamle Hoved <lb/>
+tænder en electrisk Gnist for underdanigst at omtale en electrisk <lb/>
+Tellegraph imellem Stockholm og Christiania. <lb/>
+Medens andre civiliserede Nationer daglig gjøre saa forbausende <lb/>
+Fremskridt i denne Retning, synes det næsten en Skam, at Communicationen <lb/>
+imellem de 2de Hovedstæder skal behøve saa mange Døgn, som <lb/>
+ved Tellegraph kunde opnaaes i lige mange Timer eller Minutter. Jeg <lb/>
+vilde derfor underdanigst strax foreslaae en Communication ved electrisk <lb/>
+Tellegraph, om ikke Omstændigheder som ere releverede i Zimmermanns <lb/>
+Skrift, ogsaa i denne Begivenhed bandt Regjeringens Hænder; men <lb/>
+med Hensyn paa de constitutionelle Former, der saa ofte forbyde  <lb/>
+Regjeringen at iværksætte gavnlige Foranstaltninger, maa jeg indskrænke <lb/>
+mig til at opvække Idéen, som om den af Deres Majestæt naadigst  <lb/>
+Bifaldes, efterat have gjennemgaaet en lang parlamentarisk Skjærsild, <lb/>
+muligen engang kan blive realiseret.</p>
+               <p xml:id="p5">	Vor Atmosphære er nu noget lysere og Kulde er indtraadt; men vi <lb/>
+mangle fremdeles Snee, til stort Savn for den indre Rørelse.</p>
+               <p xml:id="p6">	Vi have i den senere Tid faaet en betydelig Korntilførsel, især <lb/>
+af Ruug fra Frankrige, endog fra Holland. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste Januar 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

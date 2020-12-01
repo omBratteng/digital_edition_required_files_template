@@ -1,0 +1,81 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>130</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. mars 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. mars 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 2den denne Maaned.</p>
+               <p xml:id="p2">	Lieutenant Kjerulf overbragte mig Fredag Aften den 3die Deres <lb/>
+Majestæts naadige Skrivelse af 29de forrige Maaned med den naadigst <lb/>
+bifaldte Budget-Proposition og dertil hørende Documenter, som vil  <lb/>
+blive overbragt Storthinget i Morgen ved Statsraad Fleischer.</p>
+               <p xml:id="p3">	Jeg takker underdanigst for disse Sagers hurtige Expedition som <lb/>
+for den mig derom medbeærede naadige Meddelelse.</p>
+               <p xml:id="p4">	Det var visselig kun for et vigtigt og retfærdigt Princip, at jeg <lb/>
+har tilladt mig at anbefale den Formannske Sag til Deres Majestæts  <lb/>
+naadige Opmærksomhed. Det er et farligt statsopløsende Princip at indrømme <lb/>
+den lovgivende Magt Myndighed til ved Love at berøve Statens Borgere <lb/>
+vel erhvervede Rettigheder. Saadan Myndighed kunde, om den indrømmedes, <lb/>
+consequent udstrækkes til Kongelige Prærogativer! Bestræbelser for <lb/>
+en saadan Tendentz viiste sig under Discussionerne ved sidste Storthing <lb/>
+om en Lov for Lensmænds Udnævnelse. Iøvrigt turde Formanns Rettigheder <lb/>
+finde Forsvarere paa Storthinget, som jeg slutter deraf, at det er en <lb/>
+indflydelsesriig Storthingsmand som anbefalede mig hans underdanigste <lb/>
+Ansøgning til Deres Majestæt.</p>
+               <p xml:id="p5">	Uden videre Anledning til nogen underdanigst Indberetning kan jeg <lb/>
+ikke bare mig for at nævne, hvorledes det bekjendte danske Blad "Corsaren" <lb/>
+yttrer sig om de seneste Begivenheder i München. Det siger nemlig: <lb/>
+"Enden paa Lægen blev, at Kongen maatte <hi rend="underline">aabne</hi>  Universitetet og <hi rend="underline">lukke</hi>
+                  <lb/>
+Lola Montez". <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6 Marts 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

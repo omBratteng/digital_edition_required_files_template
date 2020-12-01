@@ -1,0 +1,100 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>445</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. april 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. april 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p xml:id="p2">	I Statsraadet i Gaar overveiede vi det Svar som burde gives <lb/>
+Storthinget til dets Skrivelse til Regjeringen af 19de hvoraf en <lb/>
+Copie medfulgte min underdanigste Rapport af 20de.</p>
+               <p xml:id="p3">	Vi enedes om at dette Svar burde afgives ved en Copie af <lb/>
+Marinedepartementets underdanigst vedlagte Indstilling, som Regjeringen <lb/>
+bemyndigede benævnte Departement til at meddele Storthinget og <lb/>
+som jeg ønsker maae vinde Deres Majestæts naadige Bifald.</p>
+               <p xml:id="p4">	Vi formente det rigtigst, at Regjeringen burde besvare Storthingets <lb/>
+Skrivelse, da den var stilet til denne, ikke i Underdanighed <lb/>
+til Deres Majestæt, da det kunde have været fortolket som nogen <lb/>
+Tvivl hos Regjeringen om denne i Underdanighed havde henvendt sig til <lb/>
+Deres Majestæt om det afgivende Svar og endelig, fordi vi ansaae det <lb/>
+ønskeligt, at dette blev afgivet snarest muligt.</p>
+               <p xml:id="p5">	Flere Storthingsmænd blant Andre Schweigaard, Lange, Aall, have <lb/>
+gjentagende bevidnet mig deres Uvillie og oprigtige Bekymring <lb/>
+over at Storthinget har opvakt Deres Majestæts billige Fortrydelse, <lb/>
+som visselig oprigtig angres og ønskes naadigst tilgivet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de April 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 27. april 1854</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Gjenpart.</head>
+               <p xml:id="p6">	Chefen for Marine Departementet, Statsraad Erichsen, har <lb/>
+underdanigst foredraget Følgende:</p>
+               <p xml:id="p7">	Storthingets Præsidentskab har tilstillet den norske Regjering <lb/>
+en Skrivelse af 19de dennes, i hvilken meddeles, at i et samme Dag  <lb/>
+for lukkede Døre afholdt Møde havde Storthinget fattet følgende <lb/>
+Beslutning:</p>
+               <p xml:id="p8">	"Regjeringen anmodes om at meddele Storthinget Oplysning om, <lb/>
+ hvorvidt der maatte være gjort nogen Indskrænkning i den ved <lb/>
+ Neutralitets-Erklæringen givne Adgang for fremmede Krigsskibe til at <lb/>
+ løbe ind i norske Havne."</p>
+               <p xml:id="p9">	Dette Departement, som det er paalagt at afgive Indstilling <lb/>
+angaaende denne Sag, skal underdanigst bemærke, at der ikke er indløben <lb/>
+Bestemmelse om nogensomhelst Forandring i den af Hans Majestæt <lb/>
+afgivne, og Storthinget under 22de Marts d. A. meddeelte Neutralitets- <lb/>
+Erklæring, og at det maa ansees utvivlsomt, at Storthinget i modsat <lb/>
+Fald derom vilde have erholdt naadigst Meddelelse.</p>
+               <p xml:id="p10">	I Henhold til Foranførte indstilles underdanigst:</p>
+               <quote>	  "At Marine-Departementet bemyndiges til, som Svar paa <lb/>
+        Storthingets Præsidentskabs Skrivelse af 19de dennes, at meddele <lb/>
+    	  en Gjenpart af nærværende underdanigste Foredrag". –</quote>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

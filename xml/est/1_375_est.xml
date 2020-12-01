@@ -1,0 +1,121 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>375</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. mars 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. mars 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Hvor ugjerne jeg end vil besvære Deres Majestæt med Regjeringsanliggender, <lb/>
+føler jeg mig dog, paa Grund af en særskilt Omstændighed, <lb/>
+forpligtet til at omhandle en af den Kongelige Interims-Regjering's <lb/>
+norske Afdeling nylig iværksat Constitution i et Toldembede, der under <lb/>
+nærværende Omstændigheder betragtes som en Udnævnelse.</p>
+               <p xml:id="p3">	Den Norske Regjering havde med<hi rend="underline">sex Stemmer mod een</hi>  indstillet Byfoged <lb/>
+Vogt til Toldinspecteurembedet paa Frederikshald; men Interims- <lb/>
+Regjeringen har forkastet de 6 Stemmer, bifaldt den ene og constitueret <lb/>
+dennes Candidat. Herved har Interims Regjeringen vistnok handlet <lb/>
+i sin gode Ret; men det Beklagelige i denne Begivenhed er, at den  <lb/>
+derved har gjort Brud paa et af Deres Majestæt Byfoged Vogt givet <lb/>
+naadigt Løfte.</p>
+               <p xml:id="p4">	1851 havde Regjeringen indstillet Byfoged Vogt til Toldcassererembedet <lb/>
+paa Moss, hvortil Deres Majestæt naadigst behagede at udnævne <lb/>
+Veimesteren, Capitaine Finne, men behagede derefter naadigst at  <lb/>
+tilskrive mig saaledes som underdanigst vedlagte Copie viser, hvilket <lb/>
+jeg naturligviis gjorde mig en Glæde af at meddele Vedkommende. Det <lb/>
+af Deres Majestæt paapegede annet tilfælle for Byfoged Vogt er nu  <lb/>
+indtruffet; men det ham givne naadige Løfte er ikke bleven opfyldt og <lb/>
+det er denne Omstændighed, som jeg høielig maa beklage.</p>
+               <p xml:id="p5">	Jeg ansaa det unødvendigt at meddele Interims-Regjeringen Deres <lb/>
+Majestæts naadige Løfte, fordi det næsten er exempelløst, at den  <lb/>
+fraviger den Norske Regjerings Majoritets Indstillinger og det saaledes <lb/>
+ikke faldt nogen af os her ind, at den i denne Begivenhed mod Sædvane <lb/>
+vilde bifalde een Stemme i Regjeringen mod sex, i det mindste ikke <lb/>
+uden at have indhentet nærmere Oplysning.</p>
+               <p xml:id="p6">	Forsaavidt Interims Regjeringen hertil har ladet sig forlede af <lb/>
+den af Statsraad Stang inventerede Anskuelse, at juridiske Embedsmænd <lb/>
+i Almindelighed bør være udelukkede fra Befordring i Toldfaget, tillader <lb/>
+jeg mig underdanigst at meddele følgende Oplysninger.</p>
+               <p xml:id="p7">	Juridiske Embedsmænd have hidindtil havt samme Adgang til <lb/>
+Toldembeder som Andre, naar de dertil befandtes qvalificerede. Statsraad <lb/>
+Stang opstillede 1851 for første Gang den nævnte Anskuelse, som et <lb/>
+Princip, i Faveur af Finne mod Byfoged Vogt, som Regjeringen havde <lb/>
+indstillet til Toldcasserer Embedet paa Moss, hvortil Finne udnævntes, <lb/>
+ikke fordi Stangs saa kaldte Princip anerkjendtes, men fordi Deres <lb/>
+Majestæt havde givet Finne et naadigt Løfte, som burde opfyldes. Stang <lb/>
+har neppe <hi rend="underline">for Alvor</hi>  villet gjøre sit saakaldte Princip gjældende uden <lb/>
+under en juridisk Embedsmands Concurrence med Finne. Imidlertid kom <lb/>
+dette Princip under en langvarig Discussion i et Statsraad her hos <lb/>
+Deres Majestæt den 22de September 1852, hvori Deres Majestæt naadigst <lb/>
+bifaldt Majoritetens underdanige Formening: "at intet Princip i denne <lb/>
+Begivenhed burde etableres; men at Vedkommendes Qvalification i ethvert <lb/>
+enkelt Tilfælde burde gjøre Udslaget" og som Følge heraf udnævntes <lb/>
+den juridiske Embedsmand, Raadmand Steen naadigst til Toldcasserer <lb/>
+i Bergen. Den Kongelige Interims Regjering har derimod nu <lb/>
+1853 bifaldt et splinternyt Befordringsprincip, som Deres Majestæt <lb/>
+1852 har forkastet! Jeg kan ikke bifalde Princippet, og dets Befølgelse <lb/>
+vil uden Tvivl opvække megen Uvillie blandt den talrige ikke <lb/>
+foragtelige Classe af juridiske Embedsmænd. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6te Marts 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 6. mars 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Copie af Hs. Majt Kongens naadige Skrivelse af 27 Marts 1851 <lb/>
+til H.E. Statholder Løvenskiold.</head>
+               <p xml:id="p8">" – I anseende til det löfte Jag redan förra året gaf Kapten Finne <lb/>
+att, om han gick miste om Told Casserer Platsen i Christiansand, han <lb/>
+då sökte, Jag ville vid nästa tillfälle belöna hans utmärkta fortjenster <lb/>
+om vägväsendet, har Jag nämnt honom till det i Moss lediga Embetet. <lb/>
+Jag ber Eders Excellence meddela Statsradet Vogt detta förhållande <lb/>
+och säga honom att Jag med största noje vil ihogkomma hans <lb/>
+Broder, vid något annat tillfälle." –</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>168</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 24. desember 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 24. desember 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Jeg beklager, at maatte underdanigst indberette, at Cholera har viist <lb/>
+sig i Bergen. Fra den 10de til den 18de har der været 11 Sygdomstilfælde <lb/>
+og 3de Dødsfald, efter 11, 23 og 25 Timers Forløb. Det første <lb/>
+Tilfælde indtraf i et fattigt Vagterhuus i en Udkant af Byen, hvor Sygdommen <lb/>
+hidindtil har holdt sig. Beroligende er det at vide, den folkerige <lb/>
+Bye undergivet Stiftamtmand Hagerups erfarne, dygtige og virksomme Styrelse, <lb/>
+og at denne brave Embedsmand øieblikkelig har iværksat Alt hvad <lb/>
+der staaer i menneskelig Magt, for at standse det Onde og afværge dets <lb/>
+videre Udbredelse. Herfra vil imorgen 3 Læger afgaae til Bergen.</p>
+               <p xml:id="p3">	Om Anledningen til Landeplagen yttres Intet i de forskjellige <lb/>
+Indberetninger; men jeg antager, at et Skib, som den 20de November forlod <lb/>
+Vlaardingen, hvor Cholera herskede, og ombord paa hvilket en Passageer <lb/>
+døede af Cholera den 27de, Dagen før dets Ankomst til Bergen, – har <lb/>
+bragt Sygdommen did. Herom har jeg forlangt nøiagtige Oplysninger af <lb/>
+Stiftamtmand Hagerup.</p>
+               <p xml:id="p4">	Beklagelig er det, at det nærforestaaende Sildefiskerie vil <lb/>
+foranledige talrige Almue-Samlinger ved Kysten, som ikke kunne afværges.</p>
+               <p xml:id="p5">	Med Morgenposten afgaaer en underdanigst Indstilling om naadigst <lb/>
+Afsked for Senior blandt Norges Læger og Professorer, Skjelderup, med <lb/>
+Behold af fuld Gage, 1800 Species som Pension. <lb/>
+Han har været Professor ved Kjøbenhavns Universitet fra 1805, ved <lb/>
+Christiania's siden 1814, har store Fortjenester som Lærer og Autor, <lb/>
+53 Aar Kongelig Embedsmand, og er nu 80 Aar gammel. Regjeringen har <lb/>
+eenstemmig anmodet mig om underdanigst at udbede for Professor Skjelderup, <lb/>
+Commandeur Korset af Sanct Olafs Ordenen, som Beviis paa Deres Majestæts <lb/>
+naadige Tilfredshed med hans lange og udmærkede Embedsførelse, et Ønske <lb/>
+som jeg tillader mig underdanigst at anbefale. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 24de December 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

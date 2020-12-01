@@ -1,0 +1,89 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>539</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. april 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. april 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Dagen efter dens Afgang havde jeg den Ære at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 14de denne Maaned, hvorfor jeg underdanigst <lb/>
+takker.</p>
+               <p xml:id="p3">	I Statsraadet i Gaar meddelte jeg DHrr Departements-Chefer Deres <lb/>
+Majestæts Ønske om, at Budgetforslaget maa kunne komme til Stockholm <lb/>
+inden October Maaneds Udgang, medens Statsraad Petersen for nogen <lb/>
+Tid tilbage har angivet <hi rend="underline">November</hi>  Maaned, som de saaledes have <lb/>
+nævnt som sidste Termin, inden hvilken de nødvendige Materialier af <lb/>
+alle Vedkommende bør være indsendte. De ville imidlertid gjøre Alt <lb/>
+muligt, til Opfyldelse af Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p4">	Det glæder mig inderlig at erfare Deres Majestæts foreløbige <lb/>
+naadige Tilfredshed med den nylig opløste Told- og Handels-committées <lb/>
+Arbeide. Den herom afgivne norske Indberetning og Indstilling er her <lb/>
+endnu ikke kommet udenfor Finants Departementet, som besørger den <lb/>
+trykt, hvorefter den først vil blive Regjeringens Medlemmer meddeelt. <lb/>
+Desto glædeligere var det mig at erfare Deres Majestæts naadige  <lb/>
+Tilfredshed, ligesom det glæder mig, af min Søn at høre den Enighed, <lb/>
+hvormed Committéens svenske og norske Medlemmer have arbeidet sammen,  <lb/>
+hvorfor han tillægger min afdøde Ven, Skogman, den største Fortjeneste.</p>
+               <p xml:id="p5">	Jeg beder naadigst tilgivet, at jeg med Hensyn paa min nær <lb/>
+forestaaende Afgang tillader mig at bringe en Gjenstand paa Bane, som <lb/>
+efter min Afgang kanskee ikke vil finde nogen Talsmand hos Deres <lb/>
+Majestæt.</p>
+               <p xml:id="p6">	Det er længe siden jeg paa Grund af Statsraad Riddervolds Anmodning <lb/>
+bad Statsraad Petersen om underdanigst at foreslaae Professor <lb/>
+Sars og Lector Strecker benaadede med Sanct Olafs Ordenen, og jeg <lb/>
+tillader mig nu, for Deres Majestæt at gjentage denne underdanige <lb/>
+Bøn. Sars er som Zoolog en europæisk Notabilitet og begge de nævnte <lb/>
+Universitetslærere ere en Prydelse for vor Høiskole.</p>
+               <p xml:id="p7">	Naturen og Vegetationen synes at staae stille! Det vil ikke <lb/>
+blive Foraar. Med Solskin om Dagen er Luften kold og ved klart <lb/>
+Maaneskin fryser om Natten, hvad Solen den foregaaende Dag har tøet. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de April 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

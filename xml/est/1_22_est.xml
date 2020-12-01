@@ -1,0 +1,110 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>22</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. januar 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. januar 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 17de denne Maaned.</p>
+               <p xml:id="p2">	Deres Majestæts naadige Befalinger i naadigst Skrivelse af 16de <lb/>
+denne Maaned, har jeg havt den Ære at modtage til skyldigst Befølgelse.</p>
+               <p xml:id="p3">	De mig af den norske Statsminister efter naadigst Befaling tilsendte <lb/>
+Marsch-Router, Skyds- og Qvarteer-Requisitioner m. m., har jeg <lb/>
+som sædvanlig tilstillet Hofstatens Chef til Iagttagelse, og derhos <lb/>
+anbefalet vedkommende Amtmænd at yde ham al fornøden Assistence for <lb/>
+Deres Majestæters forestaaende Reise, samt at foranstalte Veienes bedst <lb/>
+mulige Farbarhed.</p>
+               <p xml:id="p4">	Ifølge Deres Majestæts naadigste Befaling ved den norske Statsminister, <lb/>
+har jeg anmodet Hofetatens Chef om, at foranstalte Skyds Betalingen  <lb/>
+under den Kongelige Reise paa sædvanlig Maade præsteret.</p>
+               <p xml:id="p5">	Deres Majestæts naadige Skrivelse af 16de stadfæster det kjære <lb/>
+Haab om Deres Majestæters Ankomst hertil den 6te Februar, som med <lb/>
+Længsel og glad Forventning imødesees. Gud lade dette Haab gaae i <lb/>
+lykkelig Opfyldelse! Gud lade Deres Majestæters første Kongelige Ophold <lb/>
+i dette Rige blive behageligt, og bære velsignede Frugter for <lb/>
+Deres Majestæter, for det Kongelige Huus, for det Norske Folk! Med <lb/>
+dette hjertelige Ønske imødeseer jeg Deres Majestæters lykkelige  <lb/>
+Ankomst.</p>
+               <p xml:id="p6">	Jeg har noget nær føelt mig forpligtet og derfor tilbøielig til, <lb/>
+underdanigst at meddele Deres Majestæt mine Anskuelser om visse  <lb/>
+Gjenstande her, grundede paa mit Bekjendtskab med Personer og Forholde; <lb/>
+men ved nøiere Overveielse har jeg troet det ubeskedent, maaskee  <lb/>
+upassende, herom at yttre mig <hi rend="underline">uden Deres Majestæts naadige Befaling,</hi>
+                  <lb/>
+hvoraf saaledes mit Forhold i denne Henseende vil dependere.</p>
+               <p xml:id="p7">	Silde Fiskeriet har, Gud være lovet! begyndt under gode <lb/>
+Forvarsler paa Landets vestre Kyst, hvor en 8,000 Mennesker dermed ere <lb/>
+sysselsatte.</p>
+               <p xml:id="p8">	Finants-Departementets Chef, Statsraad Vogt, er i god Bedring efter <lb/>
+sin Sygdom, – og Marine-Departementets Chef, Statsraad Petersen, <lb/>
+har i Gaar tiltraadt en 8 Dages Inspections Reise til Horten og  <lb/>
+Frederiksværn.</p>
+               <p xml:id="p9">	Uagtet Gaars Posten ikke bragte mig Deres Majestæts imødeseede <lb/>
+naadige Bifald til min underdanigste Indbudelse til den 7de Februar, <lb/>
+vover jeg dog at haabe, at Deres Majestæter naadigst ville bringe den <lb/>
+gamle Kongelige Skik det naadige Offer at opfylde mit underdanigste <lb/>
+Ønske, og tillader jeg mig saaledes at forberede mig paa Deres  <lb/>
+Majestæters underdanigste Modtagelse.</p>
+               <p xml:id="p10">	Et under de sidste Dage vedholdende stærkt Tøeveir, truer at <lb/>
+borttage det gode Slædeføre, som vi have havt siden November Maaned, <lb/>
+men jeg haaber dog, at den norske Vinter vil vise sig i sin vakkre <lb/>
+Skikkelse under Deres Majestæts Reise.</p>
+               <p xml:id="p11">	Den af Deres Majestæt naadigst skjænkede Gave af 100 Speciedaler <lb/>
+til Anvendelse den 26de Januar dette Aar, Høistsalig Hans Majestæt <lb/>
+Kong Carl Johans høie Fødelsdag, blev, overeensstemmende med <lb/>
+Deres Majestæts naadige Bestemmelse uddeelt igaar deels i Klædningsstykker <lb/>
+til fattige Børn deels i Brændeunderstøttelse til Trængende <lb/>
+af denne Commune. De fra forrige Uddeling i Behold værende circa 102 <lb/>
+Speciedaler ere af mig indsatte i Christiania Sparebank, hvor de ville <lb/>
+henstaae indtil Deres Majestæt afgiver naadigst Bestemmelse om deres <lb/>
+Anvendelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27 Januar 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

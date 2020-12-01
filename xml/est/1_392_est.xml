@@ -1,0 +1,75 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>392</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. juli 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. juli 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+               <p xml:id="p2">	Jeg confererer jevnlig med Chefen for Marine Departementet, <lb/>
+Statsraad Petersen i Anledning af den i Kjøbenhavn og Østersøen nu  <lb/>
+herskende Cholera. Han har overbeviist mig om, at man her i Landet <lb/>
+iagttager al mulig Forsigtighed for at holde denne Plage udenfor vore <lb/>
+Grændser. Han har derhos berettet mig, at en Jagt fra Vestlandet,  <lb/>
+efter Indberetning fra Consulatet i Helsingøer, var passeret Sundet med <lb/>
+en Cholerasyg ombord. I denne Anledning har Marine Departementet, ved <lb/>
+Circulaire til samtlige Quarantaine Commissioner, indskjærpet den <lb/>
+størst mulige Forsigtighed, ligesom Departementet med sidste Post har <lb/>
+modtaget den Underretning, at en saadan Jagt virkelig er indkommet <lb/>
+til Mandal og at den syge Matros var paa Reisen død af Cholera. Han <lb/>
+blev begravet i Mandal paa den dertil bestemte Begravelsesplads, og <lb/>
+Fartøiet blev lagt i Quarantaine. Det øvrige Mandskab befinder sig i <lb/>
+fuldkommen Sundheds Tilstand og der er ikke Grund til at befrygte, <lb/>
+at dette Tilfælde vil have videre Følger.</p>
+               <p xml:id="p3">	Veiret er fremdeles temmelig gunstigt for Afgrøden og i <lb/>
+Almindelighed er der neppe nogen Misvæxt at befrygte.</p>
+               <p xml:id="p4">	Deres Majestæts naadigste Skrivelse af 21de dennes har jeg igaar <lb/>
+havt den Ære at modtage. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de Julii 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J.Krog</persName>.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

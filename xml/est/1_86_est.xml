@@ -1,0 +1,128 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>86</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. januar 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. januar 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 10de denne Maaned.</p>
+               <p xml:id="p2">	Gjerne benytter jeg Dagens Anledning til for Deres Majestæt at nedlægge mine underdanigste Lykønskninger for den haabfulde unge Prinds, som nu beseiler Havet. Jeg agter i Aften at feire Hans Kongelige Høiheds Fødselsdag ved en Bal, saa godt jeg formaaer, og hjerteligere Deeltagelse i Deres Majestæters huuslige Glæder end min, formaaer Ingen at nære.</p>
+               <p xml:id="p3">	Jeg længtede just efter at kjende Deres Majestæts Erklæring i Anledning af Krakauer Begivenheden, hvorom jeg havde læst une mention honorable i offentlige Blade, og jeg takker nu underdanigst, for den naadige Meddelelse af dette interessante, kloge og værdige Document.</p>
+               <p xml:id="p4">	Krakaus Indlemmelse i den Østerrigske Keiserstat er vistnok stridende mod Wiener-Congressens Bestemmelser, men spørger man, hvem der har foranlediget dette Tractatsbrud, saa maa jeg erkjende, at Forargelsen kommer fra Krakau selv.</p>
+               <p xml:id="p5">	Det af Deres Majestæt naadigst omnævnte Promemoria betræffende en tilsigtet Handelstractat med Frankrige, har jeg modtaget af Hans Excellence Due og efterat have omtalt det i en Statsraads Samling i Gaar Aftes, afgivet det til vedkommende Departementschef. De for Sveriges Vedkommende tilbudne Concessioner synes store.</p>
+               <p xml:id="p6">	Jeg modseer nu, at Hans Excellence Udenrigsministeren vil give Anledning til Sagens snarlige officielle Behandling. Denne er visselig ogsaa for Norge høist magtpaaliggende, især fordi Frankrige i de senere Aar har været og fremdeles er vort Hovedmarked (som England tidligere var) for vore Træproducter.</p>
+               <p xml:id="p7">	Den 28de forrige Maaned modtog jeg fra den norske Statsminister 2de Protocoller over de i combineret Statsraad den 10de December forrige Aar afgjorte Sager, første Gang affattede i det svenske Sprog, istedetfor, at de for Norge bestemte Protocoller for combinerede Statsraad, hidindtil stedse have været udfærdigede i det norske Sprog. Jeg indsaa og jeg vidste, hvor dybt denne Forandring, Bruget af svensk istedetfor norsk Sprog i saa officielle og vigtige Documenter, vilde krænke den ømme nationale Følelse; jeg maatte erkjende, at denne Følelse har Medhold saavel i Sagens Natur, som i Grundlovens Aand og Bogstav. Jeg fandt mig derfor forpligtet til at remittere de svenske Protocoller og at anmode Statsministeren om, af Deres Majestæt at udbede den Naade, at de for Norge bestemte combinerede Statsraads Protocoller, herefter som hidindtil, maa blive udfærdigede i det norske Sprog. Saaledes har jeg modtaget dem med sidste Post og jeg nedlægger min underdanigste Taksigelse for det Hensyn, som Deres Majestæt naadigst har skjænket min underdanige Forestilling.</p>
+               <p xml:id="p8">	Da det imidlertid, saavel for Sagen, som for mit eget Vedkommende, er mig magtpaaliggende, at Deres Majestæt om denne Gjenstand og dens Behandling her, erholder fuldkommen Kundskab, tillader jeg mig underdanigst at vedlægge Copier af mine 2de Skrivelser af 7de denne Maaned til Hans Excellence Due. De ville forhaabentlig bortfjærne enhver Mistanke om, at en barnagtig Norskhed har ledet mig i denne Begivenhed; de vise mine Collegers og min Anskuelse om Gjenstanden og at vi ikke som vore Colleger i Stockholm, have kunnet betragte den som en Bagatel.</p>
+               <p xml:id="p9">	Det glæder mig at kunne underdanigst indberette, at Statsraad Holst siden Nyaar igjen har overtaget Kirke-Departementets Bestyrelse og deeltaget i Statsraadets Sessioner. Han fylder i Dag sit 71de Aar.</p>
+               <p xml:id="p10">	Efterat Regjeringen den 19de December i 16 lange særskilte Sessioner havde gjennemgaaet Unionscomitéens Arbeide og derefter enhver af dens Medlemmer atter har taget samme under særskilt Overveielse, begyndte vi i Forgaars Eftermiddag at lægge den sidste Haand paa Værket og agte dermed at vedblive, i extraordinaire Eftermiddags Sessioner indtil vi have tilendebragt dette saare vanskelige Arbeide.</p>
+               <p xml:id="p11">	Told Intraderne ved Christiania Toldkammer, som i Aaret 1845 udgjorde 446,190 Speciedaler, beløb for 1846: 478,300 Speciedaler.</p>
+               <p xml:id="p12">	Denne Vinter er den dyreste, som jeg har oplevet i Christiania, saavel med Hensyn paa Levnetsmidler for Mennesker, som for Dyr. Een Tønde Ruug koster fra 5 til 5 2/5 Speciedl.; een Tønde Havre i forrige Aar 6 à 7 Mark; – i dette Aar 10 à 11 Mark; et Skippund Thimothei Høe dette Aar 14 à 15 Mark, i forrige Aar 8 Mark, o. s. v. Megen Trang er en Følge af denne Dyrtid og dog maa vi prise os lykkelige i Sammenligning med flere andre Lande. Her har i den gode Aarstid ikke manglet Anledning til Arbeidsfortjeneste; men vor Arbeidsclasse lever kun for Dagen. Et nylig afholdt Velgjørenheds Bal indbragte Netto 641 Speciedaler, hvorved megen Nød vil blive lettet.</p>
+               <p xml:id="p13">	Fru Heidemark er underdanigst taknemmelig for Deres Majestæts naadige Deeltagelse i hendes Mands haarde Sygdom. Han synes vel physisk bedre, men han er fremdeles lam i høire Side, han kan ikke tale og hans mentale Evner synes meget svækkede.</p>
+               <p xml:id="p14">	En af vort Universitets værdige Veteraner, Professor i Physik og Chemie, Jacob Keyser døde i Forgaars af et apoplectisk Tilfælde, 65 Aar gammel efterladende 3 Døttre i yderlig Armod.</p>
+               <p xml:id="p15">	For at tilfredsstille mine Børns og mit eget Ønske udbeder jeg Deres Majestæts naadige Tilladelse til at begive mig til Fossum, som det er et Aar siden jeg besøgte, den 5te Februar, og tilbringe der 14 Dage. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de Januar 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 21. januar 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Post Scriptum!</head>
+               <p xml:id="p16">	Efterat hosfølgende min underdanigste Rapport af Gaars Dato var skrevet, har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af 18de, hvis Indhold jeg har bemærket til underdanigst Efterlevelse, hvorom min nærmere underdanigste Indberetning forbeholdes. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22de Januar 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 21. januar 1847</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">
+                  <hi rend="underline">Copie</hi>.</head>
+               <head type="sub3" rend="center" xml:id="h7">
+                  <hi rend="underline">1</hi>.</head>
+               <p xml:id="p17">	Jeg beder Deres Excellence være overbeviist om, at det ikke er nogen utidig Oppositionslyst, men et oprigtigt loyalt Sindelag, som bevæger mig til at remittere de mig ved Deres Excellences ærede af 24de forrige Maaned tilstillede i det svenske Sprog affattede 2de Protocoller for combinerede Statsraad af 10de December f. A. i Haab om, at Hs Majestæt naadigst vil bifalde de Grunde, som jeg efter Overlæg med mine Colleger, finder mig forpligtet til at fremføre mod denne nye Expeditionsmaade.</p>
+               <p xml:id="p18">	Over Forhandlingerne og afgivne Kongl. Resolutioner i combinerede Statsraad er hidindtil bleven ført en svensk og en norsk Protocol, begge underskrevne af Hs Majestæt Kongen og sidstnævnte contrasigneret af den norske Statsminister til Efterretning for den norske Regjering, til Fremlæggelse for næste Storthing og derefter til Opbevaring i det norske Statsarchiv.</p>
+               <p xml:id="p19">	At Hans Majestæts Resolutioner til Sit norske Statsraad, som skal have Gyldighed i Norge, som skal fremlægges for Storthinget, bør være affattede i det norske Sprog, at det norske Statsarchiv bør eie en i dette Sprog affatted af Hs Majt underskrevet Protocol over enhver af Høistsamme afgiven Norge vedkommende Resolution, synes lige meget begrundet i Sagens Natur, som i Grundlovens Aand og Bogstav.</p>
+               <p xml:id="p20">	Grundlovens ømme Aand for Folkets Sprog dette ethvert Folks dyrebare Eiendom, udtrykkes allerede i dens 47de § og den 33te § byder: "at de Expeditioner, som afgives, i Anledning af Forestillinger om norske Sager, skal forfattes i det norske Sprog".</p>
+               <p xml:id="p21">	Om end de Forestillinger, som foredrages for Hs Majt i combineret Statsraad ikke udelukkende angaae Norge, ikke ere<hi rend="underline">blot</hi>
+                  <hi rend="underline">norske</hi>, saa angaae de dog ligemeget det ene som det andet Rige, ere de lige meget norske som svenske og egne sig derfor lige meget til norsk Resolution og Expedition, som til svensk. Grundlovens 33te § formenes endog udtrykkelig at være skreven for combinerede Statsraad, da dens Bud synes overflødig for norske Statsraad, hvorfor det heller ikke findes i Grundloven af 17de Mai, skrevet for Norge alene.</p>
+               <p xml:id="p22">	Vi formene saaledes, at Grundloven ikke tilstæder, at nogen Kongelig Resolution, som skal have Gyldighed i Norge, expederes for Norges Vedkommende i noget andet Sprog end i det norske, hvoraf følger, at Grundloven ikke tillader, Hs Majestæts norske Raadgivere at tiltræde den af Hs Majestæts svenske Raadgivere foreslaaede Reciprocitets Regel, som desuden vilde finde liden Anvendelse for Norge.</p>
+               <p xml:id="p23">	I de snart 19 Aar, hvori jeg har været Medlem af den norske Regjering, erindrer jeg kun et eneste afholdt norsk-svensk Statsraad, medens alle øvrige combinerede Statsraad have været svensk-norske og sandsynlig ville vedbleve at være det.</p>
+               <p xml:id="p24">	At der for et combineret Statsraad, som angaaer 2de under een Monark forenede Riger med forskjelligt Sprog, expederes 2de Protocoller, en i hvert Riges Sprog, er en naturlig Følge af en politisk Union. Saaledes har hidindtil været forholdt, uden at Erfaring, saa lang som Unionen, deraf har viist nogen Ulempe.</p>
+               <p xml:id="p25">	At lade den svenske Protocol, som af Ds Exc. foreslaaet, oversætte i Statssecretariatet, kunde ingenlunde blive fyldestgjørende, fordi Oversættelsen ikke kunde bleve vidimeret af nogen Embedsmand med constitutionel Ansvarighed.</p>
+               <p xml:id="p26">	Regjeringens samtlige Medlemmer ere efter moden Overveielse kommet til den Anskuelse: "at den hidindtil brugte Expeditionsmaade for de i combinerede Statsraad afgivne Kongl. Resolutioner, ved en svensk og en norsk Protocol, begge underskrevne af Hans Majestæt, er den ene rigtige at den norske Protocols Udfærdigelse i det svenske Sprog vilde stride lige meget mod Grundlovens Aand og Bogstav, som mod norske nationale Følelser.</p>
+               <p xml:id="p27">	Med denne Anskuelse ere vi dobbelt glade ved, at den paatænkte forandrede Expeditionsmaade endnu kan rettes, forinden den faaer Publicitet, og herom bede vi vor eenstemmige Bøn underdanigst fremført for Hs Majestæt.</p>
+               <p xml:id="p28">	Saalænge Sagen ikke har faaet Publicitet, er den endnu ikke fait accompli, og jeg beder indstændig om, at den ikke maa blive det. Den vilde opvække vel grundet Misbilligelse, Utilfredshed, Forbittrelse, og hvorfor foranledige saa store Onder, uden nogensomhelst Nødvendighed.</p>
+               <p xml:id="p29">	Betræffende den Gjenpart (Copie) af den originale norske Statsraads-Protocol, der bør opbevares i det norske Statsraads Archiv i Stockholm, som efter Deres Excellences Meddelelse undertiden er bleven underskrevet af de svenske Statsraader, undertiden ikke, tillader jeg mig følgende Bemærkninger.</p>
+               <p xml:id="p30">	Jeg er enig med Ds Excellence i, at den Kongl. Naadigste Resolution af 8de Marts 1844 ikke berettiger til at bruge Benævnelsen Norsk-Svensk i fælles Anliggender i Forhold til Udlandet; men at ifølge deraf Benævnelsen Svensk-Norsk rettelig bør bruges i alle deslige in specie ved Udnævnelse af Consuler, som af Hs Majestæt udnævnes til Svensk-Norske, ikke til Norsk-Svenske Consuler, om end denne Benævnelse maatte være brugt i de norske Indstillinger, hvilket saavidt erindres, stedse har været Tilfældet, uden dog at den i den tidligere Tid har været optaget i Protocollerne. Jeg lægger til, at naar Hs Majt har udnævnt en svensk-norsk Consul og denne Benævnelse altsaa rettelig er brugt i den svenske Statsraads Protocol, kan vi ikke være berettigede til i den norske at benævne ham norsk-svensk Consul.</p>
+               <p xml:id="p31">	Saadan Forandring er ikke Oversættelse, men en uhjemlet Omskrivning, medens Protocollen ordlydende bør gjengive Hs Majts i Statsraadet fattede Beslutninger.</p>
+               <p xml:id="p32">	Naar derfor de svenske Statsraader have vægret sig ved at underskrive norske Protocoller fordi fælles Embedsmænd deri ere benævnte anderledes end med den Benævnelse, hvormed de af Hs Majt ere udnævnte, da maa saadan Vægring erkjendes vel grundet; men denne vil kunne forebygges ved at bortrydde den ubeføiede Anledning dertil.</p>
+               <p xml:id="p33">	Iøvrigt synes de svenske Statsraaders Underskrift paa omhandlede Protocol-<hi rend="underline">Gjenpart</hi>  (Copie) at være saa lidet nødvendig, at den uden nogen somhelst Skade eller Savn kan undværes, da den ansvarlige Norske Statsminister's Bekræftelse om Gjenpartens (Copiens) Overeensstemmelse med den originale Protocol, maa være fyldestgjørende. Hvad jeg om denne Gjenstand har tilladt mig at yttre, bedes anseet som den Norske Regjerings eenstemmige Formening.</p>
+               <p xml:id="p34">		–––––o0o–––––</p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h8">
+                  <supplied resp="editor">Tillegg til rapport av 21. januar 1847</supplied>
+               </head>
+               <p xml:id="p35">	De mig med Ds Excellences ærede af 24de f. M. tilstillede 2de Statsraads Protocoller, expederede i det svenske Sprog (de første i sit Slags) frapperede mig allerede ved Modtagelsen ubehagelig og er denne nye Expeditionsmaade ved nærmere Overveielse forekommet mine Colleger og mig saa stridende mod Grundlovens Aand og Bogstav, og derhos af saa alvorlig Beskaffenhed, at vi ikke uden at paadrage os moralsk og juridisk Ansvar skulde kunne undlade at gjøre de kraftigste Forestillinger derimod.</p>
+               <p xml:id="p36">	Den paatænkte Expeditionsmaade vilde her faae Udseende af et Forsøg paa at bruge og gjøre gjældende det svenske Sprog i den norske Statsstyrelse, og hvor odiøst denne Mistanke vilde virke her, vil let indsees.</p>
+               <p xml:id="p37">	For at afværge de ubehagelige Følger heraf,<hi rend="underline">medens Sagen endnu kan redresseres</hi>, og bringes i sin forrige Stilling, finder jeg mig, efter Overlæg med mine Colleger, forpligtet til at remittere Protocollerne med hoslagte Skrivelse som, om fornødiges, ønskes Hs Majt underdanigst forelagt, ligesom jeg overlader til Deres Excellence, om det befindes hensigtsmæssigt, at meddele Høistsamme disse Linier.</p>
+               <p xml:id="p38">	Ikke letsindig tillader jeg mig at remonstrere mod Documenter, som allerede ere underskrevne af Hs Majt; men ved Valget imellem, endnu i Tide i Underdanighed at remonstrere, eller at udsætte Hans Majestæt for en eenstemmig nødtvungen Remonstration af Sin norske Regjering, som vilde faae almindelig norsk Sympathie, har jeg ikke kunnet, ikke burdet være tvivlsom om den Pligt, som paaligger mig. Jeg smigrer mig med, at Hs Majt naadigst vil bedømme min Handlemaade fra denne Synspunct.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>61</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. mars 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. mars 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Anledningen til disse underdanige Linier er at henlede Deres Majestæts naadige Opmærksomhed paa et med Dagsposten afgaaende paafaldende Andragende fra Biskop Riddervold, hvori han meddeler sin Anskuelse om: "at de norske Dronninger ikke bør krones, fordi Grundloven kun bestemmer, at Kongen skal krones og fordi, efter hans Formening, Ingen bør krones, der ikke kan kaldes til Udøvelse af den Kongelige Myndighed, hvilket ikke er Tilfældet med Dronningerne i Norge."</p>
+               <p xml:id="p3">	Vel har jeg forlængst erfaret at der ikke gives Noget saa galt, som jo kan paafindes af Mennesker; men dette Paafund var mig dog uventet af en Biskop og en ellers saa klog Mand som Riddevold.</p>
+               <p xml:id="p4">	Dette Andragende er dobbelt paafaldende af Biskop Riddervold, som var Medlem af Storthinget 1830, der indgik med en underdanigst Adresse om, at Hans Majestæt naadigst vilde lade Hendes Majestæt Dronningens Kroning som Norges Dronning iværksætte, og mod hvis Anskuelser det ikke stred Aar 1833 at modtage Ordførerskabet for den Deputation, som paa Storthingets Vegne skulde have bivaanet denne Kroning.</p>
+               <p xml:id="p5">	Man vilde have formaaet en anden Mand end Biskop Riddervold til at tilbagetage et Andragende af saadan Beskaffenhed, men man har troet, at et saadant Forsøg vilde være forgjæves hos ham. Han har forlangt sit Andragende forelagt Deres Majestæt og Regjeringen har ugjerne anseet sig forpligtet til at gjøre det til Gjenstand for en underdanigst Indstilling.</p>
+               <p xml:id="p6">	Af denne vil Deres Majestæt naadigst erfare, at Storthingene i 1830, 1833 og 1845 have anholdt om Dronningens Kronings Iværksættelse; – at i alle Riger, hvor Monarkens Kroning er bleven Vedtægt, der ere Dronningerne ogsaa blevne salvede og kronede uden Hensyn til Deres Adgang til at udøve Regjeringsmyndighed; – at, hvor faae Levninger, der end ere tilbage af Norges gamle Historie, saa viser dog denne at 3 navngivne norske Dronninger,<hi rend="underline">som ikke vare Regjeringsberettigede,</hi>  ere blevne kronede under 3 efter hinanden følgende Konger, – for mange Secler tilbage. – Dronningernes Kroning er saaledes ikke alene en europæisk, men en ældgammel norsk Vedtægt.</p>
+               <p xml:id="p7">	Efter saaledes at have viist, at Biskop Riddevolds Andragende er uden al gyldig Grund, indstiller Regjeringen underdanigst, at det ikke maa "komme i videre Betragtning, end at, om hans Function ved Hendes "Majestæt Dronningens Kroning maatte stride mod hans Anskuelser, han "derfra maa vorde naadigst suspenderet." –</p>
+               <p xml:id="p8">	Da Biskop Riddervolds Anskuelse er tydelig nok fremsat, er jeg af den underdanigste Formening, at han uden videre Forespørgsel burde fritages for enhver Function ved Kroningen.</p>
+               <p xml:id="p9">	Jeg tillader mig i øvrigt underdanigst at bemærke, at det<hi rend="underline">Ene</hi>  dependerer af Deres Majestæt at bestemme, hvormange Biskopper, der skulle fungere ved Kroningen; – at Høistsalig Kongen dertil 1818 kaldte 2de, nemlig Biskoppen i Christiania, som den norske Geistligheds Primas, og Biskoppen i Trondhjem, fordi Kroningen der skulde iværksættes, og at det er mig bekjendt, at Rigets værdige, ældste, formeentlig lærdeste Biskop Neumann, vilde sætte særdeles megen Priis paa, at maatte fungere ved Deres Majestæters Kroning.</p>
+               <p xml:id="p10">	Hofkammereer Bäkstrøm ankom i Overgaarsaftes den 25de, efter en besværlig Reise paa Grund af et meget slet Føre. Han var mig dobbelt velkommen, som Overbringer af Deres Majestæts naadige for mig dyrebare Skrivelse af 17de denne Maaned, hvorfor jeg nedlægger min underdanigste Taksigelse. Jeg har bedst mulig orienteret og veiledet ham til sit vigtige Ærendes Opfyldelse.</p>
+               <p xml:id="p11">	Consul Faye har den 8de denne Maaned fra Paris tilsendt mig et Brev fra Generalconsul Crowe, dateret London den 4de samme Maaned, hvori denne yttrer bestemt Haab om at faae istandbragt det projecterede Actie-Interessentskab for vor Jernbane og at kunne snart derom gjøre en officiel Meddelelse. Imidlertid beder han Sagen ikke omtalt.</p>
+               <p xml:id="p12">	Faye vilde den 17de reise fra Paris til London og jeg har troet at burde udsætte min underdanigste Rapport om Gjenstanden i Paavente af paalidelig Meddelelse fra ham, som meget snart han ventes.</p>
+               <p xml:id="p13">	Vor Architect Schirmer, som nu er retourneret fra Trondhjem, har meddeelt mig, at Domkirken's paatænkte Restauration, ikke kan paaregnes fuldført for August Maaned næste Aar. Han har afgivet Tegninger og Overslag til Stifts-Directionen i Trondhjem, fra hvem de daglig ventes, for derom at kunne gjøre underdanigst Indstilling.</p>
+               <p xml:id="p14">	Vistnok erklærer Schirmer, at Kroningen skulde kunne iværksættes i Domkirken, i dens nærværende Forfatning, uden nogensomhelst Fare, men da Storthinget har bevilget Penge til Kirkens Restauration "<hi rend="underline">for Kroningen</hi>", turde det være rigtigst at benytte disse, forinden den iværksættes.</p>
+               <p xml:id="p15">	Christiania Havn, nu iisfri og aaben, er Gudskee Tak, allerede nu opfyldt med mange danske Kornladede Skibe. Imidlertid holde Priserne sig endnu høie, Hvede 5 1/2 Spdl., Rug 4 Spdl., Byg 2 4/5 Spdl. pr Tønde. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27 Marts 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

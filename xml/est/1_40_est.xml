@@ -1,0 +1,156 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>40</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 23. oktober 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 23. oktober 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	I min sidste underdanigste Rapport af 16de denne Maaned har jeg <lb/>
+pligtskyldigst indberettet hvad der af vedkommende Amtmand var bleven <lb/>
+anmeldt om Folkesamlinger i Drammen den 7de denne Maaned, i Anledning <lb/>
+af Brændeviins Brænden og befrygtet Udførsel af Potatis, – Regjeringens <lb/>
+Anskuelse herom og dens underdanigste Indstilling om naadigst  <lb/>
+Bemyndigelse til, saavidt vore constitutionelle Former tilstede, at <lb/>
+beslutte og iværksætte hvad Omstændighederne maatte kræve. Ved sidste <lb/>
+Post har jeg derhos underrettet Statsraad Krog om de Omstændigheder,  <lb/>
+som bevirkede, at Deres Majestæt erfarede det i Drammen Passerede <lb/>
+tidligere af offentlige Blade, end jeg, – i Mangel af officiel <lb/>
+Rapport derom vilde indberette. Folkesamlingerne i Drammen foranledigedes <lb/>
+ved en naturlig Ængstelse for Mangel paa en af Livets Nødvendigheds- <lb/>
+Artikler, – de holdt sig indenfor lovlige Grændser og Gemytterne <lb/>
+synes senere beroligede. Alle hidindtil indkomne Indberetninger samstemme  <lb/>
+om, at Speculationerne paa at udføre Potatis synes forsvundne især  <lb/>
+fordi vore Poteters mislige Qvalitet som Følge af det meget fugtige <lb/>
+Aar, i Almindelighed gjør dem uskikkede til Export. I flere Egne har <lb/>
+endog en Sygdom yttret sig hos Poteterne efter deres Indhøstning, med <lb/>
+de samme Symptomer, som ere bemærkede i andre Lande, medens de stode <lb/>
+i Jorden. Ikke ubetydelige Partier Potates ere forskrevne fra Jylland <lb/>
+(til Moss alene ventes efter Sigende 15,000 Tønder), som skulle kunne <lb/>
+haves her for den upaaklagelige Priis 4 Mark 12 Skilling pr Tønde. <lb/>
+Følgen af disse Omstændigheder er, at gode Potates nu almindelig sælges <lb/>
+for 4 Mark pr Tønde.</p>
+               <p xml:id="p2">	Uagtet saaledes Omstændighederne ikke for Tiden synes at give <lb/>
+Anledning til nogen overordentlig Foranstaltning, anseer jeg det dog  <lb/>
+ønskeligt, at Regjeringen dertil maa vorde naadigst bemyndiget.</p>
+               <p xml:id="p3">	Da det varede mig for længe med Consul Crowes Forslag om det <lb/>
+naadigst bevidste Jernbaneanlæg, opfordrede jeg ham til at indgive et <lb/>
+saadant, som han lovede mig igaar og som jeg strax anbefalede til Finants- <lb/>
+Departmentets Behandling.</p>
+               <p xml:id="p4">	Dette Forslag gaaer i det Væsentlige ud paa, at et engelsk <lb/>
+Interessentskab vil overtage Anlægget af en Jernbane til Transport af <lb/>
+Personer og Varer imellem Christiania og Eidsvoldsbakken <hi rend="underline">for den Betaling,</hi>
+                  <lb/>
+                  <hi rend="underline">som af Kongen bestemmes</hi>, paa følgende Vilkaar: <lb/>
+                  <list xml:id="list5">
+                     <label>1o</label>
+                     <item>Banen skal være færdig til Øieren inden 2 1/2 Aar, til Eidsvoldsbakken <lb/>
+inden 5 Aar. <lb/>
+                     </item>
+                     <label>2o</label>
+                     <item>den norske Stat skal foranstalte Mjøsen seil- og farbar til <lb/>
+Eidsvoldsbakken; <lb/>
+                     </item>
+                     <label>3o</label>
+                     <item>den skal garantere Interessentskabet at kunne faae det nødvendige <lb/>
+Terrain, i Mangel af mindelig Omforening efter lovlig Taxt; <lb/>
+                     </item>
+                     <label>4o</label>
+                     <item>den skal forsikkre Interessentskabet udelukkende Eneret til <lb/>
+Transporten under de første 50 Aar, under hvilket Tidsrum ingen anden maa <lb/>
+gives nogen lignende Transport Bevilling til Lands eller Vands, ad den  <lb/>
+samme Vei. <lb/>
+                     </item>
+                     <label>5o</label>
+                     <item>toldfri Indførsel af det nødvendige Jern, øvrige Materialier og <lb/>
+Maskiner.</item>
+                  </list>
+               </p>
+               <p xml:id="p6">	Dette Tilbud forekommer mig ved første Øiekast som en Himmel-Gave <lb/>
+og jeg vil kun ønske, at vore constitutionelle Former ikke ogsaa i denne <lb/>
+Begivenhed maa foranledige uovervindelige Hindringer mod dets Antagelse. <lb/>
+Jeg anseer Tilbudet for en Følge af en øieblikkeligt Speculations- <lb/>
+Raserie for Jernbaner, som ikke vil, ikke kan holde sig i 3 Aar, til <lb/>
+næste ordentlige Storthing og som derfor ikke vil blive gjentaget om <lb/>
+det ikke kan antages nu.</p>
+               <p xml:id="p7">	Med Morgenposten vil afgaae en underdanigst Indstilling om Oprettelse <lb/>
+af et Hjælpe-Præsteembede ved Strafanstalterne i Christiania, <lb/>
+hvorpaa jeg troer at burde underdanigst henlede Deres Majestæts naadige <lb/>
+Opmærksomhed. Efterat der til benævnte Embedsmands Aflønning i  <lb/>
+Budgetforslaget var opført 400 Spd. aarlig, bevilgede Storthinget hertil <lb/>
+                  <hi rend="underline">midlertidig </hi> 300 Spd. – Til saadan Nedsættelse maa Storthinget i Følge <lb/>
+Grundlovens § 75 i, erkjendes berettiget, men Regjeringen fordrer, at <lb/>
+Storthingets Beslutning skal være definitiv og benægter dets Ret til <lb/>
+at fatte Beslutning om en foreslaaet Gage <hi rend="underline">midlertidig</hi>  eller <hi rend="underline">indtil Videre</hi>, <lb/>
+hvorved Storthinget vilde have det i sin Magt, eensidigen at forandre <lb/>
+eller ophæve deslige midlertidige Gager og derved at Sikkerhed <lb/>
+for de angjeldende Embeder ophøre. Denne Anskuelse har Regjeringens <lb/>
+Pluralitet, Statsraaderne Vogt, Sibbern, Fleischer, Foss og Undertegnede, <lb/>
+troet udtrykkelig at burde udtrykke, nu som i lignende Begivenhed for <lb/>
+nogle nye Toldembeder, og da denne Anskuelse <hi rend="underline">da</hi>  af Deres Majestæt naadigst <lb/>
+bifaldtes, tillader jeg mig efter Overlæg med benævnte Pluralitet  <lb/>
+underdanigst at indstille følgende Redaction til Deres Majestæts <lb/>
+naadige Resolution i denne Begivenhed: "Den norske Regjerings underdanigste <lb/>
+"Indstilling bifaldes saavelsom dens Pluralitets underdanigst <lb/>
+"yttrede Formening om Følgen af den saaledes stedfundne denne Sags <lb/>
+"Afgjørelse." Følgen bliver da den, at den nu bevilgede Gage 300 Spd. <lb/>
+bliver permanent, ikke midlertidig, indtil <hi rend="underline">begge</hi>  Statsmagter anderledes <lb/>
+maatte beslutte. Ved vor General Consul i London Totties Nidkjærhed og <lb/>
+Conduite er Begyndelsen til en falsk norsk Bancoseddel-Fabrik dersteds <lb/>
+opdaget og de tvende Ophavsmænd Bull og Schmidt arresterede. Da det i <lb/>
+Følge de engelske Former er nødvendigt at en norsk Bankembedsmand <lb/>
+indfinder sig i London, for at give Oplysninger, er Bank-Directionen i <lb/>
+Trondhjem anmodet om at didsende en saadan.</p>
+               <p xml:id="p8">	Tirsdag den 28de vil den første Rets-Session blive afholdt i <lb/>
+Rigsrets-Sagen, og vil Documentation og Procedure formodentlig medtage  <lb/>
+flere Dage.</p>
+               <p xml:id="p9">	I Følge af en Blodstyrtning, hvorefter paafulgte en Bryst- <lb/>
+Inflammation, er Stiftamtmand Riis den 22de dennes, Klokken 8 Aften ved <lb/>
+Døden afgaaet.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 23de October 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

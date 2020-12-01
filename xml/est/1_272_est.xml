@@ -1,0 +1,96 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>272</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 5. januar 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 5. januar 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 29de forrige Maaned.</p>
+               <p xml:id="p2">	I Overgaar, Fredag Eftermiddag den 3die endte Statsraad Collett <lb/>
+nær 79 Aar gammel sin jordiske Bane. Han blev for nogle Dage <lb/>
+siden angreben af en Lunge Inflammation, som i de senere Aar flere <lb/>
+Gange havde plaget ham, hvilken denne Gang endte hans Liv, som han <lb/>
+uden Smerte rolig udaandede ved sin fulde Bevidsthed indtil sidste <lb/>
+Øieblik. Han efterlader Enke med 2 Døttre som Enker, 3de ugifte <lb/>
+Døttre og 2de Sønner i offentlig Tjeneste, for hvem han var en  <lb/>
+kjærlig og omsorgsfuld Fader.</p>
+               <p xml:id="p3">	Hans Excellence Due har underrettet mig om, at Deres Majestæt <lb/>
+har havt den Naade at udnævne Oberstlieutenant Glad til Chef for <lb/>
+Cavalleri-Brigaden som jeg modseer stadfæstet ved den i Aften  <lb/>
+forventende Statsraads Protocol. Denne naadige Udnævnelse glæder mig, <lb/>
+fordi jeg anseer den for den bedste, som kunde gjøres og fordi De <lb/>
+Herrer Avisskrivere derved ville erfare, at deres Avisartikler ikke <lb/>
+have havt den Indflydelse, som de have indbildt sig.</p>
+               <p xml:id="p4">	Jeg formener ogsaa, at Deres Majestæt har havt fuldkommen Ret <lb/>
+i at vedholde Deres Majestæts oprindelige Anskuelse om Nødvendigheden <lb/>
+af vore menige Soldaters og Underofficierers bedre Lønning, uagtet <lb/>
+jeg ikke kan fornægte, at enhver forøget Udgift i vort Budget <lb/>
+forvolder Vanskelighed.</p>
+               <p xml:id="p5">	I Anledning af Deres Majestæts Yttring i seneste naadige Skrivelse <lb/>
+af 19de forrige Maaned om de i Stockholm antagne Politie-Constabler <lb/>
+har jeg paalagt Politiemester Morgenstjerne at forskaffe sig <lb/>
+nøiagtig Underretning om Politiets nærværende Organisation dersteds, <lb/>
+hvoraf vi muligen vil kunne lære Noget anvendeligt her i en mindre <lb/>
+Scala.</p>
+               <p xml:id="p6">	Uagtet vi ogsaa i sidste Uge havde 3de Statsraad, gaaer det <lb/>
+dog meget langsomt med vore Sager til Storthinget. Her mangler ikke <lb/>
+god Villie og Flid, men vi savne Evne til at arbeide hurtigt, en Evne, <lb/>
+som jeg nu desværre savner meest, fordi jeg er ældst.</p>
+               <p xml:id="p7">	Saavidt skrevet havde jeg den Ære at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 2den denne Maaned.</p>
+               <p xml:id="p8">	Den mig givne naadige Befaling til DeHerrer Departements Chefer, <lb/>
+vil jeg meddele i første Statsraad i Overmorgen. Deres Majestæt <lb/>
+har visselig meget træffende betegnet <hi rend="underline">een</hi>  af de fleere Aarsager til <lb/>
+Forretningernes Forsinkelse og jeg haaber at Bemærkningen vil gjøre <lb/>
+god Virkning.</p>
+               <p xml:id="p9">	Betræffende Lector Monrads formeentlige Deeltagelse i den nylig <lb/>
+i Studentersamfundet omhandlede Sag tør jeg forbeholde mig at afgive <lb/>
+min nærmere underdanigste Indberetning. <lb/>
+               </p>
+               <closer>
+                  <placeName>Christiania</placeName>
+                  <date>den 5 Januar 1851</date>. <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>101</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. mai 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. mai 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 29de forrige Maaned.</p>
+               <p xml:id="p2">	Jeg tillader mig at fornye min underdanigste Lykønskning i Anledning af Hans Kongelige Høihed Kronprindsens Fødselsdag, som jeg ved en større Middag til Dagens Feiring havde den Ære at udbringe.</p>
+               <p xml:id="p3">	Vor hele ubehagelige Tilværelse optages for Tiden af Omsorg for at afværge eller formindske Mangel paa Livets første Nødvendighed Brød, en Mangel, som med hver Dag viser sig mere almindelig og truende.</p>
+               <p xml:id="p4">	Vinterforraadene ere fortærede og den i denne Aarstid sædvanlige Korntilførsel fra Danmark, udebliver. Dette Savn træffer os uforberedet, urustede, fordi det beklageligviis ligger i den menneskelige Natur, som en Arvesynd, at den yngre Generation, i denne Begivenhed Statsraad Stang, aldrig vil blive klog af den Ældres Erfaringer, men egensindig vil gjøre dem selv. For 3 Maaneder tilbage vilde Statsraad Stang ikke troe paa, at Mangel kunde indtræffe, man ansaa det derfor unødvendigt at træffe nogensomhelst Foranstaltning til dens Afværgelse, man tiltroede Folket tilstrækkelig Kræfter til at bære store Byrder. Nu da det viser sig hvor sørgelig man har bedraget sig, nu, efterat man Intet har gjort, for at afværge Fiendens Indtrængen i Fæstningen slaaes daglig Generalmarsch! Jeg beder Deres Majestæt naadigen at modtage disse mine Bemærkninger, som det er en Trang for mit bekymrede Sind at turde uforbeholden fremføre for min naadigste Konge og Herre, men<hi rend="underline">allene for Deres Majestæt</hi>!</p>
+               <p xml:id="p5">	Fra de fleste vestlige Byer og Bygder indløbe Klager over Kornmangel ogfra flere, Ansøgninger om Laan af Statscassen til Korn-Indkjøb, for hvis Iværksættelse de Handlende overalt vise en roesværdig Virksomhed, forbunden med pecuniaire Opoffrelser. Da Christiania Bye ved nu havende Beholdning af Korn, og det som for <hi rend="underline">Tiden kan ventes</hi>, høist kan ansees forsynet til denne Maaneds Udgang besluttede Byens Handlende og Formandskab i Gaar, ved udsendte Commissionairer at søge indkjøbt 8,000 Tønder Ruug og Byg, og at det dermed mulig forbundne Tab skal reparteres paa Communen, det er paa os Byens Indvaanere. Til Indkjøbet subscriberedes igaar 100,000 Bo og paa samme Maade haaber man at tilveiebringe det betydelige manglende; lignende Operationer ere iværksatte af flere andre Byer. Landetatens Magaziner siges forsynede til September, Søetatens til August Maaned. Beholdningen paa Kongsberg Sølvværks Magazin er høist ubetydelig. Da man ingenlunde kan vente at faae Magazinerne forsynede paa sædvanlig Maade ved private Leverandeurer; da det derhos maa ønskes, at Staten maa kunne komme til nogen Hjelp i enkelte Nødstilfælde, og da her er høieste periculum in mora, besluttede Regjeringen igaar, ved et herværende Handelshuus at foranstalte indkjøbt for ulimiterede Priser 12,000 Tønder Kornvarer og for limiterede Priser 8000 Tønder i Sverige, Danmark og østersøiske Havne. Man paaregner at kunne faae 6000 Tønder af dette Parti i Sverige. Med Morgenposten afgaaer vor underdanigste Indberetning om denne Foranstaltning, som jeg tør haabe vil vinde Deres Majestæts naadige Bifald.</p>
+               <p xml:id="p6">	Det vil heraf naadigst erfares, at de i min sidste underdanigste Rapport yttrede Anskuelser om nødvendige overordentlige Foranstaltninger, som Omstændighederne kræve, omsider finde nogen Anerkjendelse. Tidligere iværksatte kunde man have ventet et sikkrere Resultat. Paa frivillig Tilførsel kan vi ikke regne; vor Redning dependerer af Resultatet af de nu altfor seent, af Stat og Private iværksatte Anstrængelser for Kjøb i Udlandet.</p>
+               <p xml:id="p7">	Naar man med Frygt omtaler Muligheden af et Udførselsforbud i Sverige, trøster man sig med det Haab, at Deres Majestæt ikke vil tillade det udstrakt til Norge, hvis Vel og Vee jeg i denne Henseende tillader mig underdanigst at anbefale til Deres Majestæts landsfaderlige Naade.</p>
+               <p xml:id="p8">	I min sidste underdanigste Rapport tillod jeg mig at yttre min og flere Statsraaders Formening om, at Indførselstolden paa Hvede, Ærter, Gryn, Bønner, burde have været hævet samtidig ved den seneste provisoriske Anordning.Statsraad Stang som den Gang bestred denne som enhver anden Formening, der ikke har sin Oprindelse fra ham selv, troer nu, at Tolden ogsaa bør hæves for sidstnævnte Artikler, men føler det formodentlig upassende, efter blot 14 Dages Forløb at andrage om en ny provisorisk Anordning for sidstnævnte Kornsorter. Det er uden Tvivl denne Betragtning, som har foranlediget Stang til at udbede Regjeringen naadigst bemyndiget til at træffe denne Foranstaltning, naar Nødvendigheden maatte kræve det, saavel som enhver anden Foranstaltning til at afhjelpe Kornmangel, som Omstændighederne maatte kræve. Denne af Regjeringen tiltraadte Indstilling tillader jeg mig underdanigst at anbefale, <hi rend="underline">forsaavidt betræffer andre Foranstaltninger</hi>.</p>
+               <p xml:id="p9">	I Henseende til Bemyndigelse for Regjeringen til ved provisorisk Anordning at hæve Indførselstold for Hvede, Ærter, Gryn af alle Slags Korn, Bønner, tillader jeg mig underdanigst at bemærke, at den grundlovmæssige Ret til at give provisoriske Anordninger, er et Kongeligt Prærogativ, som formeentlig ene bør udøves af Kongen og som jeg ikke vil tillade mig at anbefale overdraget til Regjeringen. Nødvendigheden af enhver Foranstaltning, hvorved<hi rend="underline">Cerealiers</hi>  Tilførsel kan befordres, er allerede i høi Grad nu tilstede, og da Hvede, Ærter, Gryn, Bønner, ere Fødemidler, er der samme Grund til at hæve Indførselstold for disse som for andre Kornsorter; men jeg formener det rigtigere, at Deres Majestæt Selv afgiver en naadigst Beslutning derom end dertil at bemyndige Regjeringen.</p>
+               <p xml:id="p10">	Jeg tør forbeholde mig i mit næste yderligere underdanigst at yttre mig om Kroningsanliggendet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Mai 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

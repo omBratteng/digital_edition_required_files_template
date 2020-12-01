@@ -1,0 +1,125 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>435</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 2. mars 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 2. mars 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Ved Siden af en anden min underdanigste Rapport af Dags Dato, <lb/>
+tillader jeg mig underdanigst at indberette, at den Coureer, som   <lb/>
+overbragte Deres Majestæts naadige Proposition til Storthinget om <lb/>
+Bevilgelsen af 300,000 Species, ankom betimelig i Overgaar Eftermiddag. <lb/>
+Jeg forberedede confidentielt Storthingets Præsident herpaa samme <lb/>
+Dags Aften og fremlagde Propositionen i Gaar i Statsraadet, hvorefter <lb/>
+den uopholdelig af Statsraad Riddervold blev overbragt til Storthinget, <lb/>
+som var samlet, for at modtage den.</p>
+               <p xml:id="p2">	Igaar Aftes sildig underrettede Præsidenten mig om, at <lb/>
+Storthinget havde udnævnt en Committe af 15 Medlemmer, for at gjøre  <lb/>
+Indstilling i Anledning af Propositionen at deriblandt var 10 Medlemmer <lb/>
+af mit hemmelige Udvalg og at de 5 tilkomne ere K. Motzfeldt, Pastor <lb/>
+Bergh, Daa, Sagfører Sverdrup, og Bonden Baggerud. Han androg derhos <lb/>
+om, at disse 5 nye Medlemmer, for at faae det samme Overblik over Sagen, <lb/>
+som de 10 Andre havde faaet i mit hemmelige Møde, maatte blive <lb/>
+bekjendte med de Aktstykker, som vare blevne disse meddeelte, i hvilken <lb/>
+Hensigt han udbad sig Aktstykkerne confidentielt udlaante.</p>
+               <p xml:id="p3">	Jeg svarede, at jeg ingenlunde hertil var berettiget, men at <lb/>
+jeg vilde være villig til at vise de af Storthinget i denne Committée <lb/>
+indvalgte 5 nye Medlemmer den samme Fortroelighed, som jeg tidligere <lb/>
+havde viist de 10 andre.</p>
+               <p xml:id="p4">	Med Hensyn paa Personerne var dette mig mindre end behagelig, <lb/>
+men jeg troede ikke at burde afslaae Begjæringen, deels fordi den, om <lb/>
+end maaskee foranlediget af Forfængelighed og Nysgjærrighed, efter <lb/>
+Omstændighederne maatte erkjendes beføiet, og deels, fordi jeg maatte <lb/>
+befrygte, at mit Afslag vilde foranledige en ugunstig Indflydelse paa <lb/>
+Sagens Behandling i Storthinget.</p>
+               <p xml:id="p5">	Jeg modtog saaledes de 5 nye Medlemmer tilligemed de 10 ældre <lb/>
+(som indfandt sig <hi rend="underline">ubudne</hi>) i Dag Morges og lod, efterat have taget <lb/>
+deres Løfte om ubrødelig Taushed, for dem oplæse de Aktstykker, som <lb/>
+jeg ansaae hensigtsmæssig, for at gjøre dem bekjendte med Sagens Stilling. <lb/>
+De slugte Meddelelserne med Begjærlighed og syntes tilfredsstillede.</p>
+               <p xml:id="p6">	Maatte ogsaa denne min Beslutning vinde Deres Majestæts naadige <lb/>
+Bifald! saa vil jeg deri finde Erstatning for den ikke liden  <lb/>
+Ubehagelighed, som en fornyet Underhandling med tildeels mindre behagelige <lb/>
+Personer har forvoldt mig.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2den Marts 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 2. mars 1854</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p7">	Strax efterat have forladt mig i Gaar Formiddag, afholdt <lb/>
+Committéen et Møde, og blev allerede samme Dags Eftermiddag enig om sin <lb/>
+Indstilling, der er aldeles overeensstemmende med Deres Majestæts <lb/>
+Proposition.</p>
+               <p xml:id="p8">	I Haab om med Posten idag at kunne meddele Deres Majestæt <lb/>
+Storthingets Beslutning, behandles Sagen i dette Øieblik i et til Klokken <lb/>
+9 Formiddag berammet Møde, hvis ikke tvivlsomme Udfald jeg nedenfor <lb/>
+skal give mig den Ære at meddele.</p>
+               <p xml:id="p9">	I dette Øieblik modtager jeg Storthingets saalydende eenstemmige <lb/>
+    					Beslutning:</p>
+               <quote>"Til Bestridelse af Udgifter, som Hans Majestæt Kongen paa <lb/>
+Grund af de nærværende politiske Forviklinger i Europa og til  <lb/>
+Opretholdelse af de forenede Rigers Neutralitet under samme maatte <lb/>
+finde uomgjængelig fornødne, bevilges 300,000 Spdl."</quote>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die Marts 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

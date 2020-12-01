@@ -1,0 +1,225 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>171</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. januar 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. januar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">Strax efterat jeg havde expederet min sidste underdanigste Rapport  <lb/>
+af 7de denne Maaned havde jeg den Ære at modtage Deres Majestæts  <lb/>
+naadige Skrivelse af 4de.</p>
+               <p xml:id="p2">	For ikke at opvække Opmærksomhed hos Skriveren af Brevet dateret <lb/>
+Berlin 12 November forrige Aar og hos Adressaten Mistanke om, at Brevet  <lb/>
+var funden, ansaae jeg det nødvendigt at iagttage megen Varsomhed ved  <lb/>
+Efterforskningen her efter Brevskriver og Adressat, indtil jeg havde  <lb/>
+modtaget Meddelelser fra Berlin, Carlsruhe og Darmstadt, om Sagens  <lb/>
+mulige Udvikling dersteds. Fra det Øieblik disse vare modagne har Politie  <lb/>
+Adjutant, Kammerherre Morgenstjerne efter min Anmodning, med megen <lb/>
+Virksomhed bestræbet sig for at komme paa Spoer af Adressaten, men som hans  <lb/>
+underdanigst vedlagte Rapport viser uden Resultat, og da isaafald de  <lb/>
+nidkjæreste Bestræbelser sjelden nyde Anerkjendelse, skylder jeg Sandhed  <lb/>
+at bevidne, at Morgenstjerne ikke har ladet det mangle paa Omtanke og Virksomhed.</p>
+               <p xml:id="p3">	Heller ikke underdanigst vedlagte Fremmedlister give nogen Oplysning. <lb/>
+Imidlertid tillader jeg mig at fremsende benævnte Documenter med  <lb/>
+underdanigst Bøn om, at de maa befalers sendte til Berlin, hvor de ville  <lb/>
+kunne oversættes af Deres Majestæts derværende norske Legations Secretair  <lb/>
+og efter mulig Afbenyttelse der, blive tilstillede den Storhertugelige badiske  <lb/>
+Udenrigs minister efter dennes Ønske.</p>
+               <p xml:id="p4">	Jeg holder mig overbeviist om, at det ommeldte Attentat har været <lb/>
+alvorlig tilsigtet, men at dets Udførelse er bleven forhindret ved den  <lb/>
+Meddelelse, det fundne Brevs Adressat maa have givet Brevskriveren om  <lb/>
+Brevets Tab, som kan have foranlediget Georg til, som vedlagte Avisartikel  <lb/>
+viser, at begive sig til Basel istedenfor til Carlsruhe og holdt  <lb/>
+Hr Sibbenstein tilbage ved sit Præsidium i den demokratiske Club i  <lb/>
+Berlin. </p>
+               <p xml:id="p5">	Af en anden underdanigst vedlagt Avisartikel vil Deres Majestæt <lb/>
+naadigst erfare de Foranstaltninger, som min Meddelelse har foranlediget <lb/>
+i Darmstad; Disse forekomme mig som om man før en Wargskall, vilde <lb/>
+bortskræmme Ulvene fra at gaae i Skallet.</p>
+               <p xml:id="p6">	Det eneste Udbytte, som vi hidindtil have havt i denne Begivenhed <lb/>
+er en Befaling til herværende Aubergister at affordre de hos dem  <lb/>
+logerende Fremmedes egenhændig skrevne Navn i dertil indrettede  <lb/>
+Fremmedbøger.</p>
+               <p xml:id="p7">	Efter den sidste Rapport fra Bergen af 4de Januar, vare i 4 Døgn <lb/>
+fra 31te December til 4de Januar Kl. 7 Morgen, angrebne af Cholera <lb/>
+36 Personer, døde 18, saaledes at fra Sygdommens Udbrud den 10de <lb/>
+December til 4de Januar Morgen, 128 vare angrebne og 78 døde. Sygdommen <lb/>
+som i Begyndelsen meest angreb ældre Folk, har i den senere Tid meest <lb/>
+angrebet Personer under 45 Aar.</p>
+               <p xml:id="p8">	Til Følge den Kongelige Sanct Olafs Ordens Statuter vil jeg i <lb/>
+Morgen paa Deres Majestæts høie Vegne give de herværende senest naadigst <lb/>
+udnævnte Riddere Ordens Decorationerne. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11 Januar 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 11. januar 1849</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h4">
+                  <hi rend="underline">Nota</hi>.</head>
+               <p xml:id="p9">	Musiklærer Hansen, som den 4de December f. A. indleverede paa <lb/>
+Politikammeret en Tegnebog hvori foruden nogle andre Papirer fandtes <lb/>
+et Brev dateret Berlin den 12te November og undertegnet "Georg" er <lb/>
+en Mand paa hvem der, saavel paa Grund af hans Stilling som øvrige <lb/>
+Forholde, ikke kan hvile mindste Mistanke om Medvideri i de i ommeldte <lb/>
+Brev indeholdte forbryderske Planer. Det er desuden oplyst at han fandt <lb/>
+Tegnebogen paa Fortouget foran Bogbinder Hoppes Gaard ved Torvet og at <lb/>
+han strax efter at have taget den op forespurgte sig i Hoppes Butik om <lb/>
+Nogen der skulde have mistet en saadan. Han har ikke selv undersøgt <lb/>
+Tegnebogen og er endnu uvidende om dens Indhold. –</p>
+               <p xml:id="p10">	En Person ved Navn Ludvig Holtz fra Meklemburg, der i nogen Tid <lb/>
+har opholdt sig her, har tildraget sig Politiets Opmærksomhed allerede <lb/>
+i længre Tid. Han har boet hos en Mand ved Navn Amund Petersen, der <lb/>
+modtager Reisende i Logis, og saavel denne Mand som Tjenestepigen, der <lb/>
+opvarter de Reisende have meddeelt mig Følgende:</p>
+               <p xml:id="p11">	Ludvig Holtz gik i Almindelighed ud Kl. 9 om Morgenen og kom ikke <lb/>
+tilbage før Kl. omtrent 8 om Aftenen, som oftest da ledsaget af en  <lb/>
+forhenværende Cantor ved det catholske Capel Pisani, Piemonteser af Fødsel. <lb/>
+Man vidste i hans Logis ingen Beskeed om hvor han tilbragte Dagen. Holtz <lb/>
+var stedse vel forsynet med Penge og betalte rigligen og uden Paakrav <lb/>
+hvad han blev skyldig saavel for sin Person som for sin Hest. Den  <lb/>
+omtalte Pisani opholdt sig i Almindelighed nogle Timer hos Holtz uden at <lb/>
+man nogensinde bemærkede at de foretoge sig noget mistænkeligt. Holtz <lb/>
+har i den Tid, af noget over to Maaneder, han logerede hos Petersen ikke <lb/>
+ladet bringe noget Brev paa Posthuset ved nogen af dennes Folk, heller <lb/>
+ikke blev der nogensinde bragt ham Breve hjem i Huset. – Jeg har endvidere <lb/>
+fra andre Kilder erfaret at Ludvig Holtz spiiste paa de bedste <lb/>
+Værtshuse her i Byen. Fra et af disse blev han udviist da han ved sin <lb/>
+uophørlige Snakken og ved sin Paatrængenhed generede de øvrige Gjæster. <lb/>
+Han tilbragte Dagen deels hos en Kunsthandler Broccato, af hvem han <lb/>
+kjøbte en Deel Kobberstik og Lithographier, og deels med at gjøre Besøg <lb/>
+hos Folk i Byen, hvilke for det meeste sluttede med at vise ham Døren, <lb/>
+da han er en høist kjedsommelig og snakkelysten Person. Han traf Pisani <lb/>
+hos Broccato og fulgtes som før meldt hjem af den Første. Han talte  <lb/>
+aldrig om Politik og syntes selv utilbøielig til at indlade sig paa <lb/>
+Dagens Begivenheder, uagtet han med megen Begjærlighed læste de tydske <lb/>
+Aviser og som oftest var installeret i en eller anden Caffee naar den <lb/>
+udenrigske Post var ivente, for strax at bemægtige sig de ankommende <lb/>
+Blade. Ogsaa fra en Caffee blev han udviist paa Grund af et opstaaet <lb/>
+Klammeri, der hidrørte fra at han for at sikkre sig den uforstyrrede <lb/>
+Læsning af Børsenhalles og Hamburger Correspondentes samtlige, med <lb/>
+Posten ankomne Nummere, satte sig paa den øvrige Deel af Avispakken <lb/>
+medens han læste et Blad.</p>
+               <p xml:id="p12">	Nogle Dage efter at den før omtalte Tegnebog var funden afreiste <lb/>
+Ludvig Holtz pludselig til Drammen, hvor han nogle Dage efter sin Ankomst <lb/>
+blev arresteret for et af ham forøvet Bedrageri. Da jeg erfarede hans <lb/>
+Anholdelse begav jeg mig strax til Drammen for om mueligt i de hos ham <lb/>
+fundne Papirer at komme til Kundskab om Hensigten med hans Ophold i Norge. <lb/>
+Til største Forundring saavel for Politiet i Drammen som for mig var <lb/>
+Ludvig Holtz ved Anholdelsen ikke funden i Besiddelse af nogetsomhelst <lb/>
+Brev eller Document, hvorimod han var vel forsynet med Penge og Effecter <lb/>
+hvoriblandt flere af Værdi. – I Politimester Dietrich's Overvær forelagde  <lb/>
+jeg Holtz en Deel Spørgsmaale som han besvarede saaledes: Han angav <lb/>
+sig at hedde Ludvig Holtz, 37 Aar gammel, at være fød i Nærheden <lb/>
+af Schwerin hvor hans afdøde Fader var Eier af en Mølle, Moderen lever <lb/>
+endnu paa hans Fødested. Han angav ikke at have været i Tydskland paa <lb/>
+4 Aar; han har opholdt sig i Petersburg eet Aar og senere nogen Tid i <lb/>
+Finland og i Sverrig. – Han kom første Gang til Norge for 1 1/2 Aar siden <lb/>
+og opholdt sig her paa forskjellige Steder i den Hensigt at undervise <lb/>
+i Agronomien, hvilket han dog erkjender aldrig at have effectueret. <lb/>
+Efter nogle Maaneders Forløb angiver han at være reist til Sverrig, for <lb/>
+i Linkøping at hæve nogle Penge som han der skal have havt tilgode; hos <lb/>
+hvem formaaer han ikke at opgive. Han kan heller ikke opgive nogen Aarsag <lb/>
+til at han reiste tilbage til Norge. – Han kan ikke meddele nogen <lb/>
+Oplysning om hvorfra han har erholdt Penge at leve af, han har nemlig <lb/>
+hverken skrevet noget Brev til, eller modtaget noget saadant fra Tydskland <lb/>
+siden han forlod dette Land, og har saaledes ingen Understøttelse <lb/>
+faaet fra sin Familie. Saavel Politimester Dietrichs som jeg bemærkede <lb/>
+en synlig Forvirring hos ham da jeg spurgte om han fra Tydskland havde <lb/>
+modtaget Breve eller Vexler. I sin Forvirring paastod han ikke at vide <lb/>
+hvad en Vexel var. – Han kunde ikke opgive nogen Aarsag til at han i <lb/>
+Christiania holdt Hest, men erkjendte at han aldeles ikke havde nogen <lb/>
+saadan fornøden. Han benægtede at have tabt nogen Tegnebog paa Gaden, <lb/>
+og paastod ikke at kjende den af mig foreviiste. I Begyndelsen nægtede <lb/>
+han at kjende det Ringeste til Pisani men da jeg forklarede ham at jeg <lb/>
+var vidende om at han havde tilbragt flere Aftener med ham paa sit <lb/>
+Værelse, erkjendte han at han hos Broccato havde truffet en Italiener, der <lb/>
+nogle Gange havde besøgt ham, men han paastod at han kom for Musikkens <lb/>
+Skyld, som de begge dyrkede, havde budet ham hjem med sig, hvorhos han <lb/>
+havde afkjøbt Pisani nogle Lithographier. Han havde nægtet sit Bekjendtskab <lb/>
+til denne Person fordi han ikke kjendte hans Navn. – Uagtet han <lb/>
+gjentagne Gange saavel af Politimester Dietrich som af mig blev betydet <lb/>
+det Usandsynlige i denne Forklaring, vedblev han dog at paastaae at det <lb/>
+forholdt sig som af ham opgivet. Han paastod sluttelig at hans Hensigt <lb/>
+var at begive sig til Christiansand for derfra snarest mueligt, med <lb/>
+Skibsleilighed, at begive sig ud af Landet.</p>
+               <p xml:id="p13">	Det er fuldstændigen oplyst at Broccato ikke har staaet i andre <lb/>
+Forbindelser med Ludvig Holtz end dem, der vedrørte Førstnævntes Handel <lb/>
+med Kunstsager. –</p>
+               <p xml:id="p14">	Constantino Fabri, eller som han efter hans Stedfader, Pisani <lb/>
+almindeligviis benævnes har forhen været Cantor ved det catholske Capel. <lb/>
+Han paastaaer at han som Orgelspiller har gjort Bekjendtskab med Holtz <lb/>
+og at han tilbragte nogle Aftener hos ham deels med Musik deels med at <lb/>
+lade sig forevise de forskjellige Ting Holtz var i Besiddelse af, hvorhos <lb/>
+han angiver at have solgt denne nogle Lithographier. Han paastaaer  <lb/>
+ikke at vide mindste Besked hverken om Hensigten med Holtz's Ophold her <lb/>
+i Landet eller om de Forbindelser han maatte staae i udenlands. Pisani <lb/>
+staaer selv ikke i Brevvexling med nogen Anden end med den forhenværende <lb/>
+Pastor ved den catholske Menighed, Monz, der fortiden opholder sig i <lb/>
+Aachen. Han paastaaer at denne Brevvexling kun angaaer Kirkens Anliggender, <lb/>
+da han endnu har Overopsynet med alt til denne hørende Inventarium.</p>
+               <p xml:id="p15">	Jeg har erfaret at Georg Fein efterfulgtes som Præsident i den <lb/>
+demokratiske Klub i Berlin af en Person ved Navn Sibbenstein. Jeg har seet <lb/>
+Georg Feins Haandskrift for nogle Dage siden, den er aldeles ulig den <lb/>
+med hvilken det her fundne Brev var skrevet, saa ulig at jeg ikke  <lb/>
+engang fandt det fornødent at sammenligne den med det Facsimile, som af <lb/>
+samme er bleven mig overleveret af Hans Excellence Statholderen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <date>den 11te Januar 1849</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

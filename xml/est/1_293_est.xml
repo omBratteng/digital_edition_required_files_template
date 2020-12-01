@@ -1,0 +1,99 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>293</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. mai 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 1ste denne Maaned.</p>
+               <p xml:id="p2">	Gaarsdagen, hvortil min underdanigste Lykønskning nedlægges, <lb/>
+feirede jeg ved en Middag paa 60 Couverts, hvoraf det halve Antal <lb/>
+indtoges af Storthingsmænd. Storthinget repræsenteredes af 3de <lb/>
+Præster, nemlig dets Præsident Harbitz og de 2de Afdelingers <lb/>
+Præsidenter Bergh og Blom, den samme, der som Comité-Formand skrev den <lb/>
+nederdrægtige Indstilling for Sexe.</p>
+               <p xml:id="p3">	Da jeg Intet fortier for Deres Majestæt, kan jeg ikke tilbageholde <lb/>
+den Bemærkning, at jeg igaar ærgrede mig over at see, hvorledes <lb/>
+visse Statsraader gjorde Cour til visse Storthingsmænd, fordi en <lb/>
+saa uværdig Ydmyghed maa virke skadelig paa begge Parter.</p>
+               <p xml:id="p4">	Storthinget fortrød efter nøiere Overveielse at have afslaaet <lb/>
+Hr Heines Laanetilbud og bemyndigede Regjeringen til at afslutte et <lb/>
+Laan med ham, stort 1 Million 200,000 Species. Herom har Statsraad <lb/>
+Bretteville sluttet Contract, <hi rend="underline">under Forbehold af Deres Majestæts naadige</hi>
+                  <lb/>
+                  <hi rend="underline">Approbation</hi>, hvorom jeg tilfølge Deres Majestæts naadige Bemyndigelse <lb/>
+foreløbig har forsikkret Hr Heine. En underdanigst Indstilling herom <lb/>
+vil ufortøvet blive afgivet.</p>
+               <p xml:id="p5">	Sidste Storthings Beslutning til en Veilov blev igaar<hi rend="underline">2den</hi>
+                  <lb/>
+Gang <hi rend="underline">uforandret</hi>  antaget af Odelsthinget, – og vil saaledes til Følge <lb/>
+Grundlovens § 79 faae Lovskraft, endog uden Deres Majestæts Sanction, <lb/>
+– om den ogsaa af næste Storthing bliver uforandret antaget.</p>
+               <p xml:id="p6">	Efter den nu gjældende Veilov har Regjeringen uindskrænket <lb/>
+Myndighed over Veianlæg og til at lade Udgifterne repartere paa  <lb/>
+Matriculskylden. Denne Myndighed har Regjeringen benyttet til store <lb/>
+Reformer i Veivæsenet, som under Statsraad Stangs Administration <lb/>
+formeentlig dreves for vidt og foranledigede for trykkende Udgifter.</p>
+               <p xml:id="p7">	Om denne Gjenstand har her hærsket langvarig Strid mellem <lb/>
+Regjering og Storthing, som man haabede at kunne hæve, ved for dette <lb/>
+Storthing at foreslaae en Veilov, hvorefter ethvert Storthing skulde <lb/>
+kunne bestemme den Sum, som i Budgetterminen kunde anvendes for Veivæsenet; <lb/>
+men Anvendelse og Administration være overladte til Regjeringen,  <lb/>
+som den executive Magt. End ikke denne formeentlig i Princip <lb/>
+rigtige Concession har kunnet tilfredsstille; men Storthinget vil nu  <lb/>
+ved Hjelp af Grundlovens 79de § ved Lov bestemme, at dette <hi rend="underline">ene</hi>  skal  <lb/>
+have Myndighed til ikke alene at bevilge de for Veivæsenet nødvendige  <lb/>
+Udgifter; men ogsaa til at bestemme disses Anvendelse, hvorved vort  <lb/>
+hele Veivæsen vil blive henlagt under Storthingets Magt og Myndighed.</p>
+               <p xml:id="p8">	Her have vi et af de beklagelige Tilfælde, hvor Kongemagten <lb/>
+til Skade for Almeenvellet savner det absolute Veto. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4 de Mai 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

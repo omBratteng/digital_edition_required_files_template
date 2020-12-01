@@ -1,0 +1,86 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>541</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. mai 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. mai 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de forrige Maaned.</p>
+               <p xml:id="p2">	Igaar introducerede jeg Statsraad Manthey i Statsraadet, hvori <lb/>
+han indtog sit Sæde. Han er den 8de Statsraad, som jeg under Løbet <lb/>
+af de sidste 8 Aar har introduceret.</p>
+               <p xml:id="p3">	Jeg har nu introduceret alle nuværende Statsraader i Deres <lb/>
+Majestæts norske Statsraad med Undtagelse af Statsraaderne Vogt og <lb/>
+Petersen, som vare i Embede før min Ankomst hertil.</p>
+               <p xml:id="p4">	Forinden jeg snart skal slutte min underdanige Brevvexling med <lb/>
+Deres Majestæt, føler jeg mig forpligtet til at henlede Deres Majestæts  <lb/>
+naadige Opmærksomhed paa en høist vigtig Gjenstand, som trænger <lb/>
+til Afgjørelse, nemlig de unionelle Forholde imellem Deres Majestæts <lb/>
+forenede Riger.</p>
+               <p xml:id="p5">	Som Deres Majestæt naadigst vil erindre indgav en Kongelig <lb/>
+Commission, bestaaende af svenske og norske Mænd, for flere Aar tilbage, <lb/>
+sit Forslag om disse Forholdes fremtidige Ordning.</p>
+               <p xml:id="p6">	Dette Forslag blev i den norske Regjering overveiet og drøftet <lb/>
+og derefter med denne Regjerings underdanige Indstilling (jeg troer <lb/>
+for 9 Aar siden) – sendt til Stockholm. Siden den Tid har man her <lb/>
+Intet hørt om denne Sag, som efter Sigende skal hvile hos Hans  <lb/>
+Excellence Justitiæ-Statsministeren.</p>
+               <p xml:id="p7">	Efterat denne Sag er bleven foredraget i et combineret Statsraad <lb/>
+og der af Deres Majestæt naadigst afgjort, vil en Kongelig Proposition <lb/>
+herom blive at fremsætte for næste Rigsdag og Storthing. Saa  <lb/>
+forberedet som denne Sag er, formener jeg dette endnu mulig, om den <lb/>
+strax tages under Behandling, hvortil jeg med Hensyn paa dens store <lb/>
+Vigtighed for begge Riger, tillader mig at henstille til Deres Majestæt <lb/>
+at ville give naadigst Befaling.</p>
+               <p xml:id="p8">	Medens man i Stockholm har Overflod af Regn, have vi her i <lb/>
+langsommelig Tid ikke havt en Draabe, i Mangel af hvilket Vegetationen <lb/>
+vansmægter og ikke kan gjøre Fremskridt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te Mai 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

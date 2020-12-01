@@ -1,0 +1,123 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>118</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. desember 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. desember 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 18de forrige Maaned, <lb/>
+hvorefter jeg har havt den Ære at modtage Deres Majestæts naadige  <lb/>
+Skrivelse af samme Dag.</p>
+               <p xml:id="p2">	Uden senere at have havt noget særdeles at indberette, har jeg ikke <lb/>
+troet at burde uden Nødvendighed besvære Deres Majestæt med norske <lb/>
+Anliggender, nu da de svenske kræve saa megen Omsorg og Tid. Min Tid, mit <lb/>
+Liv optages nu udelukkende af Statsraads Sessioner og en Legion af  <lb/>
+circulerende Statsraadssager, om hvilke man ikke med Føie kan sige "toujours <lb/>
+perdrix". Jeg tillader mig denne underdanige Bemærkning til naadigst <lb/>
+Undskyldning for et deprimeret Sind, som er en uundgaaelig Følge af dette <lb/>
+trættende og nedtrykkende Forretningsliv.</p>
+               <p xml:id="p3">	Vi have i denne Uge allerede havt 2de Statsraad, og da det sidste <lb/>
+i Gaar for største Deel optoges af en eneste af Statsraad Stang foredraget <lb/>
+og af ham som sædvanlig "plaideret" Sag, uden at blive tilendebragt, <lb/>
+maa Statsraadet atter samles i Eftermiddag, og tør jeg underdanigst  <lb/>
+forsikkre at al mulig Anstrængelse og Tidsopoffrelse anvendes for Sagernes <lb/>
+Expedition. Endeel Storthings Sager ere expederede til Stockholm som jeg <lb/>
+underdanigst tør anbefale til fortrinlig naadigst Afgjørelse.</p>
+               <p xml:id="p4">	Vel vidste jeg af Erfaring, at naar i Statsraadet en Gjenstand <lb/>
+bringes fortroelig paa Bane, der findes saa mange Sind og Meninger, som  <lb/>
+Hoveder, og dette erfarede jeg ogsaa, ved efter Deres Majestæts naadige <lb/>
+Befaling, at fremsætte Spørgsmaalet om Amtmændenes Lønninger.</p>
+               <p xml:id="p5">	Siden 1818 ere Kongelige Propositioner om forbedrede Lønninger for <lb/>
+Rigets Amtmænd jevnlig blevne fremlagte for Storthingene uden anden  <lb/>
+Følge end at disse have bevilget smaa partielle Tillæg og 1839 &amp; 1842  <lb/>
+bevilget aarlig 3,000 Speciedaler til Fordeling mellem Rigets samtlige <lb/>
+Amtmænd, efter Regjeringens Bestemmelse. For sidste Storthing i 1845  <lb/>
+foreslog Deres Majestæt naadigst, at bevilge 8,534 Spdl. aarlig Tillæg til <lb/>
+samtlige Amtmænds Løn (hvis Tal nu er 19) hvorved Minimum skulde blive <lb/>
+1,900, Maximum 2,100 Speciedaler; men Storthinget bevilgede kun aarlig <lb/>
+2,924 Spdl. og fordeelte selv dette Tillæg saaledes, at een Amtmand nu <lb/>
+har aarlig Løn 1550 Spdl.; andre fra 16 til 1800 Spdl; Stiftsamtmændene <lb/>
+i Bergen og Christiania 2,150 Spdl. og 2,200 Spdl; men fra disse <lb/>
+Lønninger maa drages Contoir (Cancellie) Udgifter, mindst 400 Spdl. <lb/>
+aarlig. Alle Regjeringens Medlemmer ere enige om, at den tilbageblivende <lb/>
+Løn er meget for ringe for Embedets Vigtighed og Værdighed, men 5  <lb/>
+Statsraader fraraade ikke destomindre at fornye Propositionen for næste <lb/>
+Storthing, fordi de ansee det forgjæves, ­– hvorimod Statsraaderne Vogt og <lb/>
+Fleischer formene, at enhver Kongelig Proposition, saa hensigtsmæssig <lb/>
+som denne, bør fornyes, indtil den omsider bevilges, i Mangel af hvilket <lb/>
+det moralske Ansvar ene vil paahvile Storthinget.</p>
+               <p xml:id="p6">	Efterat have erfaret saa ulige Meninger, ikke om Gjenstanden selv, <lb/>
+men om dens Behandling, troede jeg ikke at burde udsætte den anden  <lb/>
+Gjenstand for Deres Majestæts naadige Befaling, – Høiesterets Assessorernes <lb/>
+Lønforbedring, for samme Skjæbne.</p>
+               <p xml:id="p7">	Jeg valgte derfor at omhandle denne Gjenstand fortroelig med <lb/>
+Statsraaderne Holst og Vogt og Schmidt, dog med enhver især, og dele disse <lb/>
+min Anskuelse om, at Høiesterets Assessorernes Ønske om Lønforbedring er <lb/>
+velgrundet og fortjener Deres Majestæts naadige Understøttelse og  <lb/>
+Beskyttelse. Af særskilte Grunde venter jeg i denne Begivenhed ingen <lb/>
+Opposition af Statsraad Stang, ligesaalidt som af Regjeringens øvrige <lb/>
+Medlemmer. Jeg tør derfor antage, at en Deres Majestæts naadige Protocol <lb/>
+Befaling, som omnævnt, i underdanigst Rapport af 5te forrige Maaned, vil <lb/>
+her blive behandlet efter Ønske, og vil den i alle Fald blive høielig <lb/>
+paaskjønnet af Rigets høieste Tribunal.</p>
+               <p xml:id="p8">	Vore gjældende milde Quarantaine Bestemmelser ere indskjærpede til <lb/>
+nøiagtig Efterlevelse, Overøvrighederne ere advarede om at være betænkte <lb/>
+paa Muligheden af Sygdommens Ankomst og Forslag til en provisorisk <lb/>
+Anordning for en saa ulykkelig Begivenhed, modsees af Central Commissionen.</p>
+               <p xml:id="p9">	Saavidt jeg har kunnet erfare har Korntilførselen denne Høst været <lb/>
+saa tilstrækkelig, at Riget tør ansees vel forsynet for Vinteren; men <lb/>
+Efterveerne af Foraarets Dyrtid og af Anstrængelserne for at overvinde <lb/>
+denne, vise sig i en trykkende Pengemangel som har havt en beklagelig <lb/>
+Indflydelse paa den private Virksomhed som paa vore Told Intrader.</p>
+               <p xml:id="p10">	Vi have ikke Vinter, mindre Sommer. Foraar have vi heller ikke og <lb/>
+det saa kaldte Høstveir er stormfuldt, stygt og høist ubehageligt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9 December 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

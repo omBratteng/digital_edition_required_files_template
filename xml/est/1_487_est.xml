@@ -1,0 +1,110 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>487</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. februar 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. februar 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 4de denne Maaned.</p>
+               <p xml:id="p2">	Grev E. Lewenhaupt har, efter Deres Majestæts naadige Befaling <lb/>
+tilsendt mig en Lithographie af Høisalig Kongens herlige Statue, <lb/>
+tilligemed 3 Exemplarer deraf til General Baron Wedel Jarlsberg, og  <lb/>
+Statsraaderne Erichsen og Bloch hvis underdanigste Taksigelse jeg tillader <lb/>
+mig at fremføre tillige med min egen. Jeg paaskjønner høieligen denne <lb/>
+Deres Majestæts naadige Gave, den jeg bevarer som et dyrebart Minde <lb/>
+af en af Deres Majestæts skjønneste Regjeringsdage og en af mit senere <lb/>
+Livs interessanteste Levedage.</p>
+               <p xml:id="p3">	Med Morgenposten vil Regjeringens underdanige Indstilling om <lb/>
+Besættelsen af Justitiarius-Embedet i Høiesteret afgaae. Dette høie <lb/>
+Embedes <hi rend="underline">bedst mulige</hi>  Besættelse, er nu saa meget vigtigere, fordi <lb/>
+Rettens Værdighed og indbyrdes Disciplin i salig Justitiarius Bulls  <lb/>
+senere Administrations Tid unægtelig er bleven formindsket. Regjeringen <lb/>
+kan ikke hos Rettens ældste Medlem, den gamle Hæderlige Assessor Lange, <lb/>
+erkjende de Egenskaber, som udfordres til at gjenvinde det Tabte <lb/>
+og at staae i Spidsen for Rigets høieste Tribunal, hvortil vi derimod <lb/>
+eenstemmig ansee Sorenskriver Lasson bedst skikket, hvis Valg jeg <lb/>
+tillader mig underdanigst at anbefale.</p>
+               <p xml:id="p4">	Jeg takker underdanigst for den mig ved Grev Lewenhaupt naadigst <lb/>
+givne Meddelelse om Begivenheden i London, hvis hastige Fremkomst er <lb/>
+forbausende. Jeg befrygter, at denne vil blive meget ugunstig for  <lb/>
+Europas Fred, og at forinden denne kan ventes opnaaet, for det Første <lb/>
+mange tusinde stakkels Italienere skulle opoffres. Saadant er Lord <lb/>
+Palmerstons og Cammeraders mindste Kunst. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Februar 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 8. februar 1855</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p5">	Efterat hosfølgende underdanigste Rapport af Gaars Dato var <lb/>
+skrevet, bragte Stockholms Posten mig i Gaar Aftes Protocol over de <lb/>
+i Statsraad den 1ste denne Maaned afgjorte Sager; men heller ikke <lb/>
+denne Post bragte Deres Majestæts i Statsraad en <hi rend="underline">24de forrige Maaned</hi>
+                  <lb/>
+afgivne naadige Resolution betræffende Storthingets Lovcommission.</p>
+               <p xml:id="p6">	Den lange Udsættelse af denne naadige Resolution's Meddelelse, <lb/>
+er mig uforklarlig, men der en beklagelig.</p>
+               <p xml:id="p7">	Imidlertid ere Lensmand Ueland og Procurator Sverdrup i fuld <lb/>
+Virksomhed her i deres Jury-Commission. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9de Februar 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

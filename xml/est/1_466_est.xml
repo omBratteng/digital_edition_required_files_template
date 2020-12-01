@@ -1,0 +1,74 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>466</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 13. september 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 13. september 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Jeg giver mig herved den Ære underdanigst at indberette, at <lb/>
+jeg idag Onsdag den 13de September, til den bestemte Tid, Klokken <lb/>
+1 Eftermiddag, begav mig med den sædvanlige Procession fra det Kongelige <lb/>
+Palais til Storthinget, hvor jeg havde den Ære at oplæse den <lb/>
+Kongelige Tale og derefter, i Deres Majestæts høie Navn, erklærede <lb/>
+dette Storthing opløst. Storthingets Præsident Harbitz udbragte  <lb/>
+derefter Ønsker for Deres Majestæt, for Fædrelandet og Broderriget og <lb/>
+endelig et Leve for Deres Majestæt, som gjentoges af Forsamlingen. <lb/>
+Efter Processionens Tilbagekomst til det Kongelige Palais, indfandt <lb/>
+sig en Storthings-Deputation, for at complimentere Deres Majestæts <lb/>
+Regjering, – hvorefter samtlige Storthingets Medlemmer og andre Indbudne, <lb/>
+til et Antal af 150 Personer, deeltoge i den af mig i Stiftsgaarden <lb/>
+arrangerede Middag. De sædvanlige Skaaler bleve ved denne <lb/>
+Leilighed udbragte for Deres Majestæt, for Norges Storthing og for <lb/>
+de forenede Riger, hvorefter Storthingets Præsident udbragte en <lb/>
+Skaal for den Norske Regjering.</p>
+               <p xml:id="p2">	Nærværende underdanigste Rapport afsendes Klokken 7 Eftermiddag <lb/>
+med Lieutenant Møller som Coureer. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 13de September 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

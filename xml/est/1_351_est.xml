@@ -1,0 +1,143 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>351</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. april 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. april 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de forrige Maaned.</p>
+               <p xml:id="p2">	General Bloch har indgivet Forslag til nogle Forandringer i <lb/>
+den af Deres Majestæt under 17de August 1850 naadigst approberede <lb/>
+Plan for Generalstabens Organisation, hvis endelige Behandling  <lb/>
+Regjeringen havde udsat til min Tilbagekomst fra Fossum, hvilket var <lb/>
+mig ukjært, fordi jeg maa erkjende, at jeg i denne Begivenhed mangler <lb/>
+den til Forslagets rigtige Bedømmelse nødvendige Sagkundskab. <lb/>
+I Mangel heraf troer jeg at burde i det Væsentlige tiltræde den <lb/>
+Mands Mening, hos hvem jeg i militair Henseende forudsætter meest <lb/>
+Sagkundskab, og dette er General Bloch. Kun i 2de Henseender, der <lb/>
+ikke ere reen militaire, har jeg tilladt mig at yttre en egen afvigende <lb/>
+Mening.</p>
+               <p xml:id="p3">	Jeg kan være ganske enig med General Bloch i, at Generalstabens <lb/>
+første Officierer burde være amovible; men hvilket de, en Gang <lb/>
+udnævnte, ikke vilde blive efter Grundlovens 22de § og saaledes <lb/>
+skjønner jeg intet Middel til Hensigtens Opnaaelse end at <hi rend="underline">tilforordne</hi>
+                  <lb/>
+dem; men da herimod gjøres Indvendinger, har jeg ikke vovet at  <lb/>
+indstille det, men kun paapeget det.</p>
+               <p xml:id="p4">	Jeg antager derhos, at alle 3 høieste Officierposter bør strax <lb/>
+besættes, for at Generalstaben strax bør kunne komme i fuld <lb/>
+Virksomhed, og at herved bør tages Hensyn paa Capitaine Holmboe, som i <lb/>
+en lang Aarrække har arbeidet i Generalstaben med anerkjendt Dygtighed.</p>
+               <p xml:id="p5">	Jeg tillader mig underdanigst at vedlægge mit først afgivne <lb/>
+Votum, hvilket jeg har forandret med Hensyn paa Ordenen imellem de <lb/>
+3 ansættende Officierer, deels for at opnaae Enighed, deels fordi <lb/>
+jeg maa erkjende, at den foreslaaede Orden vil være den gavnligste <lb/>
+for Generalstaben.</p>
+               <p xml:id="p6">	Regjeringen (med Undtagelse af min Stemme) indstiller; "at <lb/>
+Deres Majestæt ikke vil bifalde General Blochs Forslag, og udnævne <lb/>
+Capitainerne Wergeland og Holmboe til Oberstlieutenanter som 1ste <lb/>
+og 2dre Officier i Generalstaben, og lade Oberstlieutenant Rosen <lb/>
+vedblive at være 3e Officier", som jeg sluttelig har tiltraadt.</p>
+               <p xml:id="p7">	Ogsaa i denne Begivenhed har jeg ugjerne bemærket den Uenighed, <lb/>
+som vedvarer imellem Armee-Departementet og Commandoen. Til <lb/>
+Held for Marinen forholder det sig anderledes der, hvor Departementschefen  <lb/>
+og den Høistbefalende gaae Haand i Haand.</p>
+               <p xml:id="p8">	En anden Regjerings-Indstilling vil afgaae med Morgen Posten, <lb/>
+hvorpaa jeg troer at burde henlede Deres Majestæts naadige Opmærksomhed. <lb/>
+Statsraad Riddervold foreslog først en privat Skoles Bestyrer, <lb/>
+Candidat Nissen, til Ansættelse i Kirke-Departementet som 2den  <lb/>
+Expeditions Secretair, hvilket Regjeringen saa meget mindre kunde ansee <lb/>
+nødvendigt, som dette Departement ved Indre Departementets Oprettelse <lb/>
+har afgivet betydelige Forretningsgrene til dette. Derefter <lb/>
+foreslog han benævnte Nissen ansat som faat Embedsmand for Skolevæsenet <lb/>
+i Kirke Departementet og da dette heller ikke mødte Bifald, <lb/>
+foreslog han Nissen ansat som Consulent for Skolevæsenet med aarlig <lb/>
+Løn 1050 Spdl., som er Expeditions Secretairs Gage, hvilket er <lb/>
+indstillet til Deres Majestæts naadige Bifald.</p>
+               <p xml:id="p9">	Kirke Departementets forrige Chef, Statsraad Holst, lod sig <lb/>
+nøie med en Consulent for Skolevæsenet, som var lønnet med 200  <lb/>
+Speciedaler aarlig, og Nissen har senere i samme Egenskab hos <lb/>
+Riddervold havt 400 Speciedalers Løn. Statsraad Vogt, som nylig har <lb/>
+bestyret Kirke Departementet et heelt Aar, maa bedst kunne bedømme <lb/>
+om større Hjelp kan behøves end for denne Løn kan fordres.</p>
+               <p xml:id="p10">	Jeg tilstaaer, at jeg ugjerne har givet min Stemme til det <lb/>
+nye Project, deels med Hensyn paa den høie Løn, deels, fordi jeg <lb/>
+befrygter, at Candidat Nissen, som vil kunne opoffre al sin Tid for <lb/>
+den nye Bestilling, vil foreslaae mange unødvendige upraktiske  <lb/>
+saakaldte Reformer i vort Skolevæsen.</p>
+               <p xml:id="p11">	Biskop Juuel har afgivet en meget tilfredsstillende Indberetning <lb/>
+om sin Virksomhed blandt de aandsforvirrede Lapper i Kautokeino, <lb/>
+hvorunder han tildeler Pastor Stockfleth megen Roes. Det har <lb/>
+lykket Biskoppen at tilbageføre mange Forvildede og at gjenvinde <lb/>
+Fred og Orden under den offentlige Gudstjeneste. Han beklager, at <lb/>
+de svenske Nabopræster Læstadius og Liljeblad, især den første, efter <lb/>
+hans Formening, have meget bidraget til at opvække og nære den <lb/>
+aandelige Galskab blandt Lapperne, og har Biskoppen i denne Anledning <lb/>
+skriftlig henvendt sig til Læstadius.</p>
+               <p xml:id="p12">	Da der under Indstillingen til en vacant gevorben Compagniechefspost <lb/>
+i 2den Infanterie Brigade har været yttret nogen Tvivl <lb/>
+om den for Tour staaende nationale Compagnie Chef Capitain Buddes <lb/>
+Dygtighed, har jeg herom søgt og faaet den paalidelige Oplysning, <lb/>
+at Capitaine Budde maa ansees for en til gevorben Compagniechef <lb/>
+fuldkommen dygtig Officier.</p>
+               <p xml:id="p13">	Jeg kan kun i al Ydmyghed beklage, at Capitaine Fischer ikke <lb/>
+fik det vacante 3die Artillerie Batterie, som han ivrig attraaede <lb/>
+og hvortil vi her formeente, at han havde bedre Adgang en Capitaine <lb/>
+Fleischer.</p>
+               <p xml:id="p14">	Af Hypothekbanken er allerede udlaant en 250,000 Speciedaler <lb/>
+og meget mere søgt. I den ældre Tid ansaae Folk sig lykkeligst ved  <lb/>
+at være gjældfrie; nu kappes Private med Staterne om at blive <lb/>
+forgjældet!</p>
+               <p xml:id="p15">	Stakkels Stiftamtmand Falsen føelte sig ikke længere i Stand <lb/>
+til at bestyre Christiansands Stiftamtmands Embede, hvorfor Regjeringen <lb/>
+har været nødsaget til at constituere en Anden til Embedets  <lb/>
+Bestyrelse, indtil hans Eftermand er bleven naadigst udnævnt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1e April 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

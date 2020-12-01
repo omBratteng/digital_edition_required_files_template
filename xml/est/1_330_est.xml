@@ -1,0 +1,109 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>330</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 23. oktober 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 23. oktober 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p xml:id="p2">	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse af <lb/>
+16de og for de mig deri naadigst givne Meddelelser, som for mig have <lb/>
+den høieste Interesse.</p>
+               <p xml:id="p3">	Min Upasselighed er foranlediget ved Steensmerter, hvoraf jeg i <lb/>
+de senere Aar flere Gange har været plaget. Jeg haaber imidlertid, at <lb/>
+Sygdommen denne Gang har culmineret; men jeg maa, efter min Læges <lb/>
+Forskrift, endnu forholde mig rolig, som for mig ogsaa er en Plage.</p>
+               <p xml:id="p4">	Statsraad Bretteville og General Consul Faye vare i Gaar efter <lb/>
+Indbydelse hos mig, hvem jeg meddeelte hvad Deres Majestæt har havt <lb/>
+den Naade at tilskrive mig om Hypotequebankens Bestyrelse hvilket gjorde <lb/>
+den tilsigtede Effect, idet jeg derefter fandt Faye tilbøielig til <lb/>
+at modtage en Udnævnelse af Deres Majestæt, som han ikke vilde modtage <lb/>
+af Storthinget. Dette er mig i flere Henseender saare behagelig, <lb/>
+isærdeleshed for Hypothekbanken, som, efterat være af Storthinget <lb/>
+forqvaklet, ikke vilde have kunnet komme i nogen gavnlig Virksomhed <lb/>
+uden Deres Majestæts naadige Mellemkomst, hvilket kan være en god Lexe <lb/>
+for vore arrogante Storthing. Bretteville vil nu med Faye omhandle <lb/>
+og aftale det videre om Hypotekbankens Bestyrelse og Instrux for <lb/>
+denne.</p>
+               <p xml:id="p5">	Kammerherre Morgenstjerne har maneuvreret saa klogt med Thranes <lb/>
+Arbeiderblads Redaction at jeg tør haabe, at denne, under en idag  <lb/>
+afholdende Retshandling, vil blive sprængt og opløst, hvorom jeg  <lb/>
+forbeholder mig nærmere underdanigst Rapport. Om den hertil sigtende <lb/>
+Bestræbelse, som jeg haaber, lykkes, vil istedetfor Arbeiderbladet <lb/>
+underdanigst vedlagte Mikkelsens Bekjendelser blive samtlige Abonnenter <lb/>
+tilstillede, hvoraf i denne Hensigt flere Tusinde Exemplarer ere <lb/>
+foranstaltet trykte.</p>
+               <p xml:id="p6">	Denne efter Omstændighederne vigtige Foranstaltning, i Forbindelse <lb/>
+med de gavnlige Arbeider Boliger, hvortil Morgenstjerne har givet <lb/>
+Impulsen, tør vise ham værdig til den naadige Udmærkelse, hvortil <lb/>
+jeg underdanigst har tilladt mig at anbefale ham.</p>
+               <p xml:id="p7">	I en i denne Hensigt ved privat Subscription opført stor og vakker <lb/>
+Bygning, ere nu bequemme og hyggelige Vaaninger for en meget billig <lb/>
+Huusleie, indrettede for 52 Familier.</p>
+               <p xml:id="p8">	I de sidste 8 Dage have vi havt vakkre Godveirsdage, hvorunder <lb/>
+Omegnens meste Korn er indberget, i en mere eller mindre beskadiget <lb/>
+Forfatning. Paa Ladegaardsøen har Høe Avlingen været fortrinlig god <lb/>
+og Kornet er bleven ganske godt høstet. Deres Majestæt har der en <lb/>
+fortrinlig god Bestyrelse, fra Øverst til Nederst, og Deres Majestæt vil <lb/>
+med vel fortjent Tilfredsstillelse bemærke de senere Fremskridt ved <lb/>
+Oscarshall, i den vakkre Park og ved Jordbruget. Deslige Fremskridt <lb/>
+ere ikkun indbildte, men virkelige.</p>
+               <p xml:id="p9">	Fra Laurvig har jeg Intet senere hørt om Qvægsygen, saa jeg <lb/>
+smiggrer mig med det Haab, at den er bleven qualt i Fødselen, det Gud <lb/>
+give! Jeg har senere læst at en i 60 Aars Tallet i Holsteen udbrudt <lb/>
+Qvægsyge rasede der i 8 samfulde Aar, og at den, efter at være  <lb/>
+forplantet til Danmark, standsedes ved <hi rend="underline">Quarantaine</hi>  og Nedslagtning.</p>
+               <p xml:id="p10">	Af politiske Nyheder har jeg ingen at gjengive uden at, efter de <lb/>
+sidste tydske Aviser, efter en lang <hi rend="underline">Ministercrisis</hi>, et nyt Ministerium <lb/>
+er indtraadt i Rudolstad, hvilket i Prosa vel betyder, "at Fursten af <lb/>
+Schwarzburg Rudolstad har ømsat sin Inspector". <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 23 October 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

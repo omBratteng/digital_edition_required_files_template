@@ -1,0 +1,77 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>389</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Marienbad 25. juli 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Marienbad 25. juli 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <opener>Stormægtigste <lb/>
+Naadigste Konge,</opener>
+               <p xml:id="p1">Min sidste underdanigste Rapport var fra Christiania af 12te denne <lb/>
+Maaned. </p>
+               <p xml:id="p2">Jeg tillader mig at følge mit Hiertes Trang ved at sende Deres Majestæt <lb/>
+min underdanigste Lykønskning, til den forestaaende 4de July. <lb/>
+Gud forunde Deres Majestæt Helbred og Tilfredshed, til Glæde for <lb/>
+2de Folk, hvis hiertelige Hengivenhed og Troefasthed i de onde som <lb/>
+i de gode Dage, Deres Majestæt har havt Anledning til at erfare. <lb/>
+Deres Majestæt har Gud være loved gienvunden Helbred, Han giengive <lb/>
+nu Deres Majestæt fulde Kræfter, ved et styrkende Søebad! <lb/>
+En trykkende Hede fulgte os fra Hiemmet til neden for Leipzig, hvorefter <lb/>
+et stærkt Tordenveir pludselig forandrede Temperaturen. Aftenen <lb/>
+før min Afreise, viiste Thermometeret <hi rend="underline">hiemme</hi>  16 Gr. Varme; <hi rend="underline">her</hi>
+                  <lb/>
+i Gaar Aftes 5 Gr.! Her regner daglig og vi fryse i Vinterklæder. <lb/>
+Levemaaden her, er visselig et for mig uvant far niente, som jeg vil <lb/>
+haabe maa blive mere utile, end det hidindtil er dolce. <lb/>
+Blandt de herværende Badegiæster er Enkestorhertuginden af Meclenborg  <lb/>
+og Prinds Friederich Wilhelm af Preussen, samt af Svenske Baron  <lb/>
+Sprengtporten, Baron Strømfelt med Familie og en Ritmester Kielman.</p>
+               <p xml:id="p3">	Jeg tillader mig underdanigst at anbefale mig Deres Majestæts <lb/>
+naadige Bevaagenhed og har den Ære med dyb Ærefrygt at undertegne mig</p>
+               <closer>
+                  <salute>Deres Majestæts <lb/>
+    							underdanigste Tiener <lb/>
+			  og troe Undersaat</salute>
+                  <lb/>
+                  <dateline>
+                     <placeName>Marienbad</placeName>
+                     <date>25 Juny 1853</date>.</dateline>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

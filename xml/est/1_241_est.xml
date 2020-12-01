@@ -1,0 +1,162 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>241</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. juli 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. juli 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 5te denne Maaned, <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse <lb/>
+af 8de, hvoraf jeg med Glæde erfarer, at vi tør gjøre os Haab om <lb/>
+at have den Lykke at see Deres Majestæt og den Kongelige Familie <lb/>
+her den 30te denne Maaned. Gjennem Hans Excellence Statsministeren <lb/>
+antager jeg, at Deres Majestæt er underrettet om, at Dampskibet <lb/>
+"Norcap" fra den 29de vil være til Deres Majestæts Disposition, <lb/>
+da imidlertid Fartøiet ikke anløber Christiania, men directe fra <lb/>
+Kjøbenhavn afgaaer til Gothenborg, vil det ikke være mig muligt <lb/>
+at have den Lykke derhen at reise Deres Majestæt imøde, – hvilket <lb/>
+jeg heller ikke af den Aarsag turde vove, fordi ved min Fraværelse <lb/>
+Antallet af Regjeringens Medlemmer vilde blive saa lidet, at en  <lb/>
+Tilfældighed, lettelig kunde gjøre den ufuldstændig. Derimod tillader <lb/>
+jeg mig, – efter Deres Majestæts naadige Bestemmelse, at indfinde <lb/>
+mig i Valløe, for der at gjøre Deres Majestæter min underdanigste <lb/>
+Opvartning.</p>
+               <p xml:id="p2"> I Hans Excellence Statsholderens Fraværelse vover jeg at <lb/>
+fremføre min underdanigste Bøn, at Deres Majestæt og den Kongelige  <lb/>
+Familie paa Ankomstdagen vil vise mig den Naade at indtage en middag <lb/>
+hos mig i Stiftsgaarden, som jeg, i Forventning om Deres Majestæts <lb/>
+naadige Tilsagn, tillader mig at beramme til Klokken ½ 5 <lb/>
+Eftermiddag.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12 Juli 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N.J. Krog</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="tillegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg, mellom 12. og 15. juli 1850</supplied>
+               </head>
+               <opener>Naadigste Konge!</opener>
+               <lb/>
+               <p xml:id="p3"> I det jeg herved underdanigst erkjender Modtagelsen af Deres <lb/>
+Majestæts naadigste Skrivelse af 8 dennes angaaende Deres Majestæts <lb/>
+med med Høikongelige Families forestaaende Ankomst til Christiania den <lb/>
+30te denne Maaned, har jeg den Ære herved tillige underdanigst at <lb/>
+anmelde, at jeg i underdanigst Forudsætning af Deres Majestæts  <lb/>
+Naadigste Vilie allerede har saavel i det Kongelige Slot som i Palaiet, <lb/>
+truffet de fornødne Foranstaltninger til Opfyldelse af Deres Majestæts <lb/>
+nu modtagne Naadigste Befalinger, saaledes att Alt til befalet Tid <lb/>
+skal være i behørig Orden.</p>
+               <p xml:id="p4">	Deres Majestæts Naadigst bebudede Ordre igjennem første <lb/>
+Hofmarskalk Grev Sandels, med næste Post imødesees underdanigst.</p>
+               <closer>
+                  <salute>Med undersaatlig Hengivenhed har jeg den Ære at forblive og undertegne mig <lb/>
+    Deres Majestæts <lb/>
+    underdanigste</salute>
+                  <lb/>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11te Juli 1850</date>
+                  </dateline>
+                  <signed>
+                     <persName>F. Wedel Jarlsberg</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="tillegg">
+               <head type="tillegg" xml:id="h4">
+                  <supplied resp="editor">Tillegg, mellom 12. og 15. juli 1850</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>Den 8 Julii 1850</date>.</dateline>
+                  <lb/>
+Herr General Baron Wedel Jarlsberg.</opener>
+               <note xml:id="ftn10" place="foot" n="10"> Utkast skrevet med blyant.</note>
+               <lb/>
+               <p xml:id="p5"> Jag får underrätta om att den 30de denna månad omkring kl. ½ 2 <lb/>
+middagstiden hoppas jag inträffa i Christiania om bord å Ångfartyget <lb/>
+Nordcap. Drottningen, Kronprinsen, Kronprinsessan, Prinsessan Eugenie, <lb/>
+Prinsarna Gustaf och August äro mig följaktiga. Drottningen och Jag <lb/>
+samt prinsessan Eugenie komma att begagna våra vanliga rum i Slottet. <lb/>
+Kronprinsen och Dess Gemål bebo <hi rend="underline">Palaiet</hi>. Kronprinsens rum i Slottet <lb/>
+bibehållas dock som <hi rend="underline">pied à terre</hi>  för Kronprinsen och Kronprinsessan <lb/>
+vid Deras besök hos Oss. Prinserna Gustaf och August logeras i Prins <lb/>
+Gustafs och Prins Oscars vanliga rum i Slottet.</p>
+               <p xml:id="p6">	Genom förste HofMarskalken Grefve Sandels erhåller Herr Generalen <lb/>
+med nästa post inqvarteringslisten för suiten.</p>
+               <p xml:id="p7">	Jag har velat Sjelf prevenera om tiden för vår ankomst och hoppas <lb/>
+Jag att då finna Generalen återställd till hälsan. <lb/>
+               </p>
+               <closer>Med vänskap och välvilja förblifver</closer>
+            </div>
+            <div type="tillegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg, mellom 12. og 15. juli 1850</supplied>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>Den 15 Julii 1850</date>.</dateline>
+                  <lb/>
+Herr General Br. Wedel Jarlsberg.</opener>
+               <note xml:id="ftn11" place="foot" n="11"> Utkast skrevet med blyant.</note>
+               <p xml:id="p8">Jag tackar för brefvet af den 11. dennes som nysa anlände samt <lb/>
+får jag betyga min tillfredsställelse med de åtgärder Herr Generalen <lb/>
+redan vidtagit till iordningställandet af såväl rummen i Slottet som <lb/>
+Palaiet till vår ankomst den 30de.</p>
+               <p xml:id="p9">	I fall Generalens hälsa det medgifver önskade jag att Generalen <lb/>
+samt de till tjenstgöring hos mig, Drottningen, Kronprinsessan och <lb/>
+Kronprinsen utsedde Kammarherrarne, Civiladjutanten infinna sig oss  <lb/>
+till möte vid Dröbak. Likvisst skulle jag med ledsnad se om Generalen <lb/>
+onödigtvis anstränger sina krafter med denna resa emedan jag i alla <lb/>
+fall några timmar sednare får nöjet råka Generalen i Christiania. <lb/>
+Hofvets Damer behöfva icke möta förr än vid vår ankomst till <lb/>
+Christiania. <lb/>
+               </p>
+               <closer>Med vänskap och välvilja</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

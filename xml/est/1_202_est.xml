@@ -1,0 +1,82 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>202</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 18. oktober 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 18. oktober 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Da den mig naadigst forundte Tjenstledighed destoværre slutter i <lb/>
+Dag, forlod jeg Fossum den 16de og tilbagekom hertil igaar Aftes, som <lb/>
+jeg herved tillader mig underdanigst at indberette.</p>
+               <p xml:id="p2">	Da jeg først imorgen kommer til Byen og endnu Ingen derfra har seet, <lb/>
+har jeg iøvrigt Intet at rapportere.</p>
+               <p xml:id="p3">	Sommeren forlod os med Deres Majestæter! Imidlertid vedligeholdt <lb/>
+sig det vakkreste Solskinsveir den hele Tid, som gjorde mit Ophold paa <lb/>
+Fossum dobbelt behageligt, og jeg forlod det derfor med de samme Følelser, <lb/>
+hvormed Skolediscipelen, efter lykkelige Ferier vender tilbage til <lb/>
+sin ubehagelige Skole.</p>
+               <p xml:id="p4">	Veiret har idag antaget en mørk Characteer og bebuder den før den <lb/>
+alvorlige Vinter tiltrængende Regn. Saa lyst i vakkert Soelskin, som <lb/>
+jeg i Overgaars forlod Fossum, – saa mørkt er Holgerslyst i Dag. Dette <lb/>
+fortjener kun Navnet "Gimle", naar Deres Majestæter beære det med Sin <lb/>
+høie Nærværelse.</p>
+               <p xml:id="p5">	Med det vakkre Høstveir indfandt sig en usædvanlig tidlig Kulde, <lb/>
+som formindskede og tilintetgjorde Høstgræsningen, som i dette knappe <lb/>
+Høaar er dobbelt beklagelig.</p>
+               <p xml:id="p6">	Hvor jeg har færded, angaves Kornhøsten som et Middelaar; <lb/>
+lykkeligviis ere Kornpriserne i Udlandet endnu billige.</p>
+               <p xml:id="p7">	Hvad der for Tiden meest trykker vort Land, er manglende Afsætning <lb/>
+for vore Hovedproducter, Træ og Jern. Den første tilintetgjordes i sin <lb/>
+lykkelige Periode ved Februar Revolutionen, medens vort Jern daglig mere <lb/>
+fortrænges fra Europas og Amerikas Markeder af svensk Jern, med hvilket <lb/>
+det norske vel kan concurrere i Qvalitet, men langt fra ikke i <lb/>
+Productionspriis. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 18de October 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

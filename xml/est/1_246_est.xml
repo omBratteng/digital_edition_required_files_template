@@ -1,0 +1,112 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>246</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. september 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. september 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">Ved det idag foretagne Storthingsvalg for Christiania ere udvalgte:</p>
+               <table xml:id="table1">
+                  <head xml:id="h3"> 			Til Storthingsmænd.</head>
+                  <lb/>
+                  <row>
+                     <cell>1o	</cell>
+                     <cell>Professor Schweigaard	</cell>
+                     <cell>med 25 Stemmer. </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2o	</cell>
+                     <cell>Kjøbmand Houge		</cell>
+                     <cell>  ”  25  ” </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3o	</cell>
+                     <cell>Amtmand Møinichen		</cell>
+                     <cell>  ”  19  ” </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4o	</cell>
+                     <cell>Stadshauptmand Ytteborg	 </cell>
+                     <cell> ”  14  ” </cell>
+                  </row>
+               </table>
+               <table xml:id="table2">
+                  <head xml:id="h4">			Til Suppleanter: </head>
+                  <lb/>
+                  <row>
+                     <cell>1o	</cell>
+                     <cell>Garver Schou			</cell>
+                     <cell>med 22  “ </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>2o	</cell>
+                     <cell>Byfoged Thrap		</cell>
+                     <cell>  “  14  “ </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>3o	</cell>
+                     <cell>Statsrevisor Daa		</cell>
+                     <cell>  ”  13  ” </cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>4o	</cell>
+                     <cell>Borgemester Fougstad	</cell>
+                     <cell>  ”  12  ” </cell>
+                  </row>
+               </table>
+               <p xml:id="p2">	Dette har jeg troet at burde underdanigst indberette.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30 September 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

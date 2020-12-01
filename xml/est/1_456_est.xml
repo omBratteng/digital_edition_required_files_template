@@ -1,0 +1,135 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>456</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 13. juli 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 13. juli 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 6te denne Maaned.</p>
+               <p xml:id="p2">	I Statsraadet den 8de bragte jeg Statsraadsombyttet i Stockholm <lb/>
+paa Bane. Alle vare enige i, at Touren tilfalder Statsraad Riddervold <lb/>
+og at der ikke er Grund til at fravige den, hvilket sidstnævnte, <lb/>
+efter adskillige Indvendinger, maatte erkjende, med det Ønske, <lb/>
+at hans Reise, med Hensyn paa hans ikke stærke Helbred, maa kunne <lb/>
+foretages i Løbet af September Maaned. Jeg tillader mig underdanigst <lb/>
+hertil at udbede Deres Majestæts foreløbige naadige Bifald til <lb/>
+Meddelelse for Statsraad Riddervold.</p>
+               <p xml:id="p3">	I samme Statsraad den 8de fremlagde Justits Departementets <lb/>
+Chef en nylig modtaget Skrivelse fra Storthingets Præsident Harbitz, <lb/>
+hvori denne Meddeelte Storthingets <hi rend="underline">Beslutning</hi>  om at ville, med  <lb/>
+Samtykke af Collegium academicum, flytte dets Samlinger fra sit  <lb/>
+sædvanlige i Sommerheden ubeqvemme Locale til Universitetets nye <lb/>
+Festivitetssal.</p>
+               <p xml:id="p4">	Da Regjeringen, jeg formener med god Grund, fandt det upassende, <lb/>
+at Storthinget, uden at have henvendt sig til den, propria autoritate <lb/>
+havde taget en saadan Beslutning, og derhos utilbørlig, at Collegium <lb/>
+academicum dertil havde givet Samtykke, uden at have indhentet Foresattes <lb/>
+Bifald, besluttede Regjeringen at lade ved Justits Departementet  <lb/>
+Storthingets Præsidentskab meddele, at Universitets Salen kunde <lb/>
+afbenyttes <hi rend="underline">indtil videre</hi>, – og ved Kirke Departementet Collegium <lb/>
+academicum, at naar der fremtidig maatte opstaae Spørgsmaal om  <lb/>
+Afbenyttelse af Universitetets Localer til andet Brug end efter oprindelig <lb/>
+Bestemmelse, Collegiet, forinden det dertil gav Samtykke, har at <lb/>
+indhente høiere Autoritets Bifald.</p>
+               <p xml:id="p5">	De nærværende Storthingsledere have et saa stort Begreb om deres <lb/>
+Magtfuldkommenhed, at det ikke vilde være mig uventet om de en <lb/>
+vakker Dag besluttede, at tage en af det Kongelige Slots Sale til <lb/>
+Samlingssted.</p>
+               <p xml:id="p6">	En rød Demagog, Procurator Sverdrup fra Laurvig leder Stemmegivningen <lb/>
+i Odelsthinget; en Ditto Procurator, Rolf Olsen, ligesaa i <lb/>
+Lagthinget. Meget faae have Mod til ærligt at kjæmpe med Schweigaard <lb/>
+og Lange, Representanterne for det conservative Element, som derfor <lb/>
+er numerisk meget svagt. De afvexlende Storthings Præsidenter, Aall <lb/>
+og Harbitz, have, saa synes mig, Begge kun eet Hovedformaal: at  <lb/>
+vedligeholde Stemmerne for deres President Valg. Man leger med Grundlovens <lb/>
+79de Paragraph og jeg er under dette Storthing bleven end meer <lb/>
+bestyrket i min gamle Overbeviisning, at vor Forfatning seent eller <lb/>
+tidlig vil gaae i Stykker, i Mangel af Kongens absolute Veto.</p>
+               <p xml:id="p7">	Den gamle vel grundede Fordring paa Statsraadernes Deeltagelse <lb/>
+i Storthingets Forhandlinger er, efter pompeuse Taler af Sverdrup, <lb/>
+Olsen, Ueland, bleven endelig afslaaet med stor Pluralitet, – hvilket <lb/>
+er mig kjært, fordi denne hensigtsmæssige, ja nødvendige Deeltagelse <lb/>
+under vor Folkerepresentations Organisation, vilde medføre mere Skade <lb/>
+end Gavn.</p>
+               <p xml:id="p8">	Blandt de af den norske Regjering senest afgjorte Sager er ogsaa <lb/>
+en af Storthinget fattet Lov Beslutning angaaende Forandring i <lb/>
+Mellemrigsanordningen forsaavidt Artiklen "Sukker" er udeladt blandt <lb/>
+de Artikler, der kunne indgaae fra det ene Rige til det andet mod <lb/>
+halv Told. Denne Beslutning er af den Norske Regjerings Pluralitet <lb/>
+indstillet til Deres Majestæts naadigste Sanction, hvorimod Statsraad <lb/>
+Vogt underdanigst har fraraadet Sanction, væsentlig af den Grund, at <lb/>
+han anseer Beslutningen som et Tilbageskridt i det ved Mellemrigsanordningen <lb/>
+knyttede Forhold mellem begge Riger. Jeg vilde ikke mindre <lb/>
+end Statsraad Vogt have fundet mig opfordret til at fraraade Deres <lb/>
+Majestæt at sanctionnere denne Beslutning, saafremt jeg kunde have  <lb/>
+overbeviist mig om, at samme maatte betragtes paa en saadan Maade. Den <lb/>
+Grundtanke, der gaaer gjennem den hele Mellemrigsanordning, er den, <lb/>
+at den gjensidige Ind- og Udførsel af Producter og Tilvirkninger, især <lb/>
+af norsk og svensk Oprindelse, som i et af Rigerne have undergaaet <lb/>
+en Forædling, bør lettes. Men saafremt Forholdene udvikle sig saaledes, <lb/>
+at en eller anden Bestemmelse i Mellemrigsanordningen, der fra <lb/>
+først af har viist sig gavnlig, senere viser sig at vække Splid og <lb/>
+Misnøie, saa vil efter min underdanigste Formening, Bibeholdelsen af <lb/>
+en saadan Bestemmelse, istedet for at bidrage til en nærmere commerciel <lb/>
+Tilknyttelse og Forening emllem Brødrefolkene, tvertimod fremkalde <lb/>
+idelige Tvistigheder og Conflicter samt fjærne Gemytterne fra <lb/>
+hinanden. Erfaring har desværre viist, at Artiklen: "Sukker" er i en <lb/>
+høi Grad en af disse Gjenstande. Sukker-Raffinadeurerne, <hi rend="underline">saavel i Sverige</hi>
+                  <lb/>
+                  <hi rend="underline">som i Norge</hi>, nære fremdeles Frygt, saalænge Artiklen findes i  <lb/>
+Mellemrigsanordningen, og Tidspunctet til at foretage Forandringen <lb/>
+turde maaskee nu være det meest gunstige. Deres Majestæt har nyligen, <lb/>
+dertil vistnok fornemmelig ledet af moralske Hensyn, ladet Artiklen <lb/>
+"Brændeviin" udgaae af Mellemrigsanordningen; men Hensyn til at fjærne <lb/>
+Splid og Misnøie blandt Brødrefolkene fremstiller sig for mig som <lb/>
+en saare vigtig Grund til ogsaa at lade "Sukker" udgaae af bemeldte <lb/>
+Anordning. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 13de Julii 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

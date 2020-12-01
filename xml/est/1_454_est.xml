@@ -1,0 +1,99 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>454</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 2. juli 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 2. juli 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de forrige Maaned <lb/>
+ved Coureer.</p>
+               <p xml:id="p2">	Disse mine underdanige Liniers Hovedformaal er at fremsende mine <lb/>
+underdanigste hjertelige Lykønskninger til Deres Majestæts forestaaende <lb/>
+høie Fødselsdag, til hvis Feiring paa Ladegaardsøen jeg blandt <lb/>
+Andre har indbuden Storthingets samtlige 107 Medlemmer, som med mig <lb/>
+vil udbringe det hjertelige Ønske: Gud bevare Deres Majestæt, det <lb/>
+Kongelige Huus og de forenede Riger!</p>
+               <p xml:id="p3">	Jeg tilstaaer iøvrigt, at det falder mig noget haardt, at skulle <lb/>
+nu indbyde alle benævnte 107 Storthings Mænd med Hensyn paa den <lb/>
+Aand og de Tendentzer, som under deres seneste Forhandlinger have  <lb/>
+tilkjendegivet sig. Saaledes har nu Ueland og Consorter atter bragt Jury <lb/>
+Institutionen paa Bane, for at tilvinde Almuen, som ved sit Storthing <lb/>
+allerede har den bevilgende og lovgivende Myndighed, ogsaa Dommermyndigheden. <lb/>
+Forgjæves kjæmpede Schweigaard, Manden uden Frygt og Daddel,  <lb/>
+for at faae Forslaget afviist. Han kunde kun vinde 15 Stemmer! saa <lb/>
+svagt er vort conservative Element. En anden Representant, som skal <lb/>
+have tabt en Proces ved Høiesteret, har gjort Proposition om, at Voteringen <lb/>
+i Høiesteret herefter skal foregaae for aabne Døre og Stemmegivningen  <lb/>
+strax være Publicum og Aviserne hjemfalden. Ogsaa dette Forslag, <lb/>
+som er et beklageligt Attentat paa vort høieste Tribunals  <lb/>
+Uafhængighed fik en lignende Pluralitet. En tredie Representant, <hi rend="underline">hvis</hi>
+                  <lb/>
+                  <hi rend="underline">Handelsspeculationer</hi>  paa Horten ere mislykkede, har under Behandlingen <lb/>
+af Bevilgninger til Marinen, givet sin Galde Luft mod den brave <lb/>
+Statsraad Erichsen, som under Discussionerne er bleven skammelig og <lb/>
+pøbelagtig bagtalt og fornærmet. Jeg kan kun for mit Fædreland bitterlig <lb/>
+beklage Former, som fremkalde og tilstede et saa uheldbringende <lb/>
+Uvæsen.</p>
+               <p xml:id="p4">	Jeg takker underdanigst for de naadige Meddelelser, som Deres <lb/>
+Majestæt har behaget at lade mig give ved Grev Lewenhaupt, under 26de <lb/>
+forrige Maaned.</p>
+               <p xml:id="p5">	Statsraad Petersen er ankommet og vil i Morgen overtage Justits <lb/>
+Departementet, ligesom Statsraad Vogt Finants-Departementet, – hvorefter <lb/>
+Byfoged Thrap atter forlader Statsraadet, som jeg hver Gang beklager, <lb/>
+paa Grund af hans alsidige Dygtighed.</p>
+               <p xml:id="p6">	Om nogen fortjener at benaades med St Olafs Ordenen, saa er <lb/>
+det tilvisse Thrap og Lasson, som flere Gange værdigen have havt Sæde <lb/>
+i Statsraadet, hvortil jeg tillader mig underdanigst at anbefale dem <lb/>
+Begge.</p>
+               <p xml:id="p7">	Sluttelig beder jeg underdanigst at Deres Majestæt naadigst vil <lb/>
+forunde mig nogle Ugers Tjenstledighed paa Fossum, naar Forretningerne <lb/>
+kunne tillade det, som min gamle Helbred tiltrænger. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 2den Juli 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

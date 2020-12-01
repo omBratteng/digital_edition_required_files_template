@@ -1,0 +1,246 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>314</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 27. juli 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 27. juli 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 24de denne Maaned.</p>
+               <p xml:id="p2">	I Statsraadet Fredag den 25de meddeelte Statsraad Petersen en <lb/>
+til ham samme Dags Morgen indkommen Rapport fra Amtmand Blom om, at <lb/>
+den constituerede Sørenskriver i Ringerige under et i Hønefossen den <lb/>
+22de afholdt Forhør, havde beordret den Thraneske Arbeiderforenings <lb/>
+derværende Formand Hattemager Knudsen arresteret; men at, efterat <lb/>
+Arresten var iværksat, Almue i Hønefossen, som tæller en 800 Indvaanere, <lb/>
+og Almue fra Landet, havde voldelig befriet Arrestanten. Amtmanden <lb/>
+tilføiede, at han havde beordret Sorenskriveren at anmode Chefen for <lb/>
+det Hallingdalske Corps Oberstlieutenant Eckhoff om militair Assistence, <lb/>
+for atter at arrestere benævnte Knudsen, der er bekjendt som en <lb/>
+meget slet Person.</p>
+               <p xml:id="p3">	Da Amtmand Bloms Rapport var meget kort, besluttedes øieblikkelig <lb/>
+at afsende en af Justits Departementets Betjente til Hønefossen, <lb/>
+for paa Stedet at indhente Underretning om Forholdene, hvorhos jeg <lb/>
+anmodede Oberste Garben om i lige Hensigt at afsende en Officier, <lb/>
+hvortil han valgte Capitaine Hoff.</p>
+               <p xml:id="p4">	Begge disse Udsendinge retournerede i Gaar Morges den 26de og <lb/>
+afgav den eenstemmige Rapport: at Almuens Stemning i Hønefossen og <lb/>
+Omegn er meget oprørsk og bestemt til at modsætte sig enhver af  <lb/>
+Øvrigheden besluttet Arrest. De nærmere Detailler vil naadigst erfares <lb/>
+af Capitaine Hoffs Rapport, som med Morgenposten vil blive Deres <lb/>
+Majestæt tilstillet, hvortil jeg kun vil tillade mig underdanigst at <lb/>
+tilføie Følgende:</p>
+               <p xml:id="p5">	Under Forhøret udbad Knudsen sig Tilladelse til at tiltale den i <lb/>
+hans Faveur oprørske Almue, for at berolige den; men opæggede den <lb/>
+tvertimod til voldsom Modstand og yttrede i Anledning af Sorenskriverens <lb/>
+Oplæsning af Straffelovens Bestemmelser: at Almuen ikke er forpligtet <lb/>
+til at adlyde Love, som den ikke selv har givet. Sognets 2de <lb/>
+Præster, som tiltalede Mængden bleve skammelig forhaanede. Flere til <lb/>
+Hønefossen grændsende Almuer skal være tilbøielige til at understøtte <lb/>
+Oprøret. Egnens nationale Soldater befrygtes upaalidelige til at kue <lb/>
+et Oprør, hvori deres nærmeste Frænder spille en Hovedrulle.</p>
+               <p xml:id="p6">	Med Hensyn paa alle disse Omstændigheder besluttede Regjeringen, <lb/>
+hastigt muligt at afsende en imponerende militair Styrke til Hønefossen <lb/>
+og indbød i denne Hensigt Oberste Garben til en confidentiel Conference <lb/>
+i Statsraadet i Gaar Formiddag. Mod den her yttrede Synspunct, <lb/>
+at den militaire Styrke burde tages af Christiania's Garnison yttrede <lb/>
+Obersten, Commandantens store Betænkelighed mod at svække denne; men <lb/>
+uagtet denne Betænkelighed visselig deles af Regjeringen, troede denne <lb/>
+dog at burde afbenytte den eneste paalidelige disponible militaire <lb/>
+Styrke <hi rend="underline">der</hi>  hvor Øieblikkets Krav er størst. Man enedes saaledes om, <lb/>
+at 2 Compagnier af Agershuus Fodjægere, 20 ridende Jægere, 2 Kanoner <lb/>
+med fornøden Betjening, under Major Brandts Commando skulde ufortøvet <lb/>
+afmarschere til Hønefossen, at Infanteriet skulde befordres med Vogne, <lb/>
+at en modsvarende national Styrke skulde indkaldes til Christiania <lb/>
+Garnison og at indtil dennes Ankomst Borger Corpset skal assistere den <lb/>
+tilbageværende Garnison med Vagtgjørning. Herom afgav Regjeringen paa <lb/>
+Deres Majestæts høie Vegne i Statsraadet i Gaar Beslutning.</p>
+               <p xml:id="p7">	Den langvarige af Klokker Ueland foranledigede og siden 1845 <lb/>
+vedligeholdte Strid imellem Regjering og Storthing om Toldembedsmændenes <lb/>
+Lønningsmaade, vil nu blive sluttet om det naadigst maatte behage Deres <lb/>
+Majestæt at bifalde Regjeringens underdanige Indstilling om denne  <lb/>
+Gjenstand, hvorom underdanigst vedlagte af Expeditionssecretairen i Finants <lb/>
+Departementet forfattede Exposé vil give Deres Majestæt en Anskuelse. <lb/>
+Jeg har tilladt mig underdanigst at tilføie Regjeringens ordlydende  <lb/>
+senere Indstilling, hvis Terminologi er valgt for at betage Ueland endog <lb/>
+Skinnet af Seier i denne Begivenhed. Det ikke uvigtige heldige Udfald <lb/>
+maa vi takke den Klogskab, hvormed Toldcasserer Lange har vidst at <lb/>
+bekjæmpe Uelands Intriguer.</p>
+               <p xml:id="p8">	Onsdag den 23de denne Maaned yttrede Statsraad Stang i <lb/>
+Statsraadet, at man uden Tvivl vilde vælge det saa kaldte Glasmagazins <lb/>
+Tomt til Banegaard for Jernbanen, hvorom han bad mig foreløbig  <lb/>
+underdanigst at underrette Deres Majestæt med Tillæg, at han har givet <lb/>
+Hans Excellence Due en detailleret Underretning herom.</p>
+               <p xml:id="p9">	I denne Glasmagazinets Gaard har Deres Majestæts nærværende <lb/>
+Hofintendant som hans Formand, frie Bolig; deri befindes Stald og Vogn <lb/>
+Remiser for det Kongelige Palais, hvis Domestiquer tildeels der have <lb/>
+havt Qvarteer, og jeg kan kun beklage om disse Nødvendigheder og <lb/>
+Agrements fremtidig maatte savnes.</p>
+               <p xml:id="p10">	Jeg tør underdanigst henstille, at Deres Majestæt naadigst vil <lb/>
+befale Hofchefen, General Wedel, herom at afgive Erklæring, forinden <lb/>
+den underdanige officielle Indstilling om Bygningernes Afgivelse bliver <lb/>
+Deres Majestæt forelagt.</p>
+               <p xml:id="p11">	Regjeringen vil igjen samles i Statsraad i Morgen Formiddag.</p>
+               <p xml:id="p12">	Efterat Forestaaende var skreven, indfandt sig nu i Eftermiddag <lb/>
+Oberst-lieutenant Eckhoffs Adjutant, Lieutenant Gram, hos mig, udsendt <lb/>
+af hans Chef, for at udbede et Compagnie Jægere til Assistence. Han <lb/>
+havde i Nat mødt den herfra udsendte Styrke munter og ved godt Mod, <lb/>
+som der dog efter hans Sigende neppe vil blive Leilighed for, da ved <lb/>
+første Underretning om de herfra afsendte Militaires Marsch,  <lb/>
+Hattemageren og de andre Høvdinger have taget Flugten.</p>
+               <p xml:id="p13">	Lieutenant Gram, en dygtig og paalidelig Officier, giver Stemningen <lb/>
+i det Ringerigske Compagnie det bedste Vidnesbyrd. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 27de Julii 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 27. juli 1851</supplied>
+               </head>
+               <p xml:id="p14">	Efterat Storthinget i 1842 havde anmodet Regjeringen om at lade <lb/>
+undersøge, hvorvidt Indtægterne for de vid Toldvæsenet ansatte Embeds <lb/>
+og Bestillingsmænd kunde reguleres paa en mere hensigtsmæssig <lb/>
+Maade end for Tiden, blev for det i 1845 forsamlede Storthing fremsat <lb/>
+en Kongelig naadigst Proposition angaaende denne Gjenstand, bygget paa <lb/>
+den Grundsætning, at Lønningerne for Toldvæsenets Embedsmænd og Betjente <lb/>
+skulde bestaae for det halve i fast Gage og for det halve i Procenter <lb/>
+af de oppebaarne Toldintrader. Storthinget i 1845 fattede derefter <lb/>
+en Beslutning, hvorved blev vedtaget en Plan eller et Regulativ, <lb/>
+hvorefter samtlige Toldcasserere og øvrige Toldoppebørselsbetjentes <lb/>
+Indtægter skulde staae i et vist ved Regulativet bestemt Forhold til <lb/>
+de af dem oppebaarne Intrader, og Lønningerne for Toldinspecteurerne <lb/>
+og det øvrige Toldopsynspersonale bleve for ethvert Tolddistrict og <lb/>
+for enhver Klasse bestemte til visse ved Regulativet fastsatte Beløb. <lb/>
+Det blev derfor bestemt, at de saaledes fastsatte Lønninger skulde for <lb/>
+Roerskarle af 2den Klasse alene bestaae i fast Gage, men for samtlige <lb/>
+øvrige Embedsmænd og Betjente for det halve i fast Gage og for det <lb/>
+halve i Procenter af de oppebaarne Toldintrader. Foruden at de ved  <lb/>
+dette Regulativ bestemte Lønninger vare ikke ubetydeligt lavere, end de <lb/>
+ved Hans Majestæts naadigste Proposition foreslaaede, havde Storthinget <lb/>
+tilføiet dets Beslutning adskillige Tillægsbestemmelser, blandt <lb/>
+hvilke fornemmelig er at mærke den, at Toldvæsenets Embedsmænd og <lb/>
+Betjente skulde være forpligtede til at finde sig i, at den Deel af <lb/>
+dens Gage, som bestaaer i Procenter, undergaaer saadanne Forandringer, <lb/>
+                  <hi rend="underline">som Omstændighederne maatte paakræve</hi>, samt de, at det <hi rend="underline">af et kommende</hi>
+                  <lb/>
+                  <hi rend="underline">Storthing</hi>  vilde blive at afgjøre, hvorvidt de ved dette Regulativ givne <lb/>
+Bestemmelser angaaende Lønninger skulde komme til Anvendelse paa de <lb/>
+tidligere ansatte Embedsmænd og Betjente. Idet den norske Regjering <lb/>
+under 25de Juli 1845 indgik med underdanigst Indstilling angaaende <lb/>
+denne Storthingets Beslutning, blev det anført, at Lønningerne ved det <lb/>
+af Storthinget antagne Regulativ vistnok vare ansatte lavere, end man <lb/>
+kunde ansee ønskeligt, naar hensaaes til Vigtigheden af at Toldvæsenets <lb/>
+Embedsmænd og Betjente vare saaledes aflagte, at man kunde gjøre sig <lb/>
+grundet Forhaabning om, at de med Omhu og Samvittighedsfuldhed og med <lb/>
+Troskab imod det Offentlige røgtede deres Forretninger. Med den  <lb/>
+væsentlige og afgjørende Grund til at indstille Storthingets Beslutning <lb/>
+til ikke at nyde naadigst Sanction fandt den norske Regjering i de <lb/>
+ovennævnte tvende Tillægsbestemmelser, hvorefter Toldvæsenets Embedsmænd <lb/>
+og Betjente skulde finde sig i den Nedsættelse af deres Procenter, <lb/>
+som Omstændighederne maatte paakræve, og det skulde være et <lb/>
+kommende Storthing oveladt at afgjøre, om det nye Regulativs  <lb/>
+Bestemmelser om Lønninger skulde være anvendelige paa tidligere ansatte  <lb/>
+Embedsmænd og Betjente. Idet den norske Regjering paa Grund deraf  <lb/>
+indstillede, at Storthingets Beslutning ikke skulde sanctioneres, androg <lb/>
+den tillige underdanigst paa, at der for det i 1848 sammentrædende <lb/>
+Storthing maatte blive fremsat en ny naadigst Proposition angaaende <lb/>
+Lønningsmaaden for Toldvæsenets Embedsmænd og Betjente, i hvilken <lb/>
+man søgte at imødekomme Storthingets Ønske om Nedsættelse af de i den <lb/>
+tidligere Kongelige Proposition foreslaaede Lønninger, men udelod de <lb/>
+ovennævnte af Storthinget optagne Tillægsbestemmelser, der ansaaes <lb/>
+at ville medføre en skadelig Usikkerhed med Hensyn til vedkommende <lb/>
+Embedsmænds og Betjentes Lønninger. Den naadigste Proposition, som <lb/>
+overeensstemmende hermed af Hans Majestæt blev befalet Storthinget <lb/>
+forelagt, blev af Storthinget henlagt, og det, efter hvad der under <lb/>
+Debatterne blev anført, af den Grund, at Sagen ansaaes afgjort ved den <lb/>
+af Storthinget i 1845 fattede Beslutning, der formeentes ikke at  <lb/>
+tiltrænge Kongelig Sanction, for at træde i Virksomhed. Storthinget i <lb/>
+1848 tog imidlertid angaaende Lønningerne for adskillige Toldembeder <lb/>
+Beslutninger, der vare afvigende fra Bestemmelserne i det af Storthinget <lb/>
+i 1845 antagne Regulativ, og fra Regjeringens Side er der ved <lb/>
+Bestemmelser og Udbetalinger af Lønninger for Toldvæsenets Embedsmænd <lb/>
+og Betjente i Tidsrummet 1848 til 1851 stadigen gaaet ud fra den <lb/>
+Forudsætning, at bemeldte Regulativ, som ikke naadigst sanctioneret, <lb/>
+ikke var gjældende.</p>
+               <p xml:id="p15">	For at søge hævet den Strid, som saaledes var opstaaet, befalede <lb/>
+Hans Majestæt, at der for det i 1851 sammentraadte Storthing skulde <lb/>
+fremsættes en ny naadigst Proposition om samme Gjenstand, i hvilken <lb/>
+Lønningerne, med Undtagelse af for et Par Embeder, skulde opføres <lb/>
+med samme Normalbeløb, som i den af Storthinget i 1845 fattede Beslutning, <lb/>
+men de tilnævnte af samme Storthing antagne Tillægsbestemmelser <lb/>
+udelades. I Anledning af denne sidste naadigste Proposition har <lb/>
+det nu forsamlede Storthing under 14de Juli sidstleden fattet Beslutning <lb/>
+om, at de tilnævnte Tillægsbestemmelser i Beslutningen af 1845 <lb/>
+bortfalde, <hi rend="underline">men at iøvrigt denne Beslutning forbliver uforandret</hi>. <lb/>
+Storthinget i 1851 har altsaa ved ny Beslutning gjenoptaget den af <lb/>
+Storthinget i 1845 fattede Beslutning om en Lønningsmaade for  <lb/>
+Toldvæsenets Embedsmænd og Betjente, med Frafaldelse af de Dele af denne <lb/>
+Beslutning, som i sin Tid bevirkede, at Beslutningen ikke blev naadigst <lb/>
+sanctioneret.</p>
+               <p xml:id="p16">	Da den af det nu forsamlede Storthing angaaende denne Sag fattede <lb/>
+Beslutning er, hvad dens Indhold angaaer, i alt Væsentligt  <lb/>
+overeensstemmende med den for samme Storthing fremsatte Kongelige  <lb/>
+Proposition, vil den formeentlig af den norske Regjering blive indstillet <lb/>
+til naadigst at befales taget til Følge, hvorved da denne langvarige <lb/>
+Strid forhaabentligen vil være tilendebragt. <lb/>
+                  <lb/>
+               </p>
+               <p xml:id="p17">Under 26de dennes er underdanigst indstillet Følgende:</p>
+               <p xml:id="p18">	"<hi rend="italic">At Storthingets Beslutning af 15de April 1845, – indeholdende </hi>
+                  <lb/>
+                  <hi rend="italic">Lønningsplan for de ved Toldvæsenet ansatte Embeds- og Bestillingsmænd, </hi>
+                  <lb/>
+                  <hi rend="italic">hvilken Beslutning ved Kongelig Resolution af 24de September </hi>
+                  <lb/>
+                  <hi rend="italic">1845 ikke naadigst blev sanctionneret, maa saaledes som den ved  </hi>
+                  <lb/>
+                  <hi rend="italic">Storthingets Beslutning af 11te Juli d.A. er forandret, – naadigst  </hi>
+                  <lb/>
+                  <hi rend="italic">befales tagen til Følge</hi>." </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>62</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. april 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. april 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 27de forrige Maaned har jeg havt den Lykke at modtage Deres Majestæts naadige Skrivelse af 30te forrige Maaned, hvorfor jeg bevidner min underdanigste Taknemmelighed.</p>
+               <p xml:id="p2">	Fra Trondhjem har Regjeringen ikke modtaget nogen Anmodning om nogensomhelst overordentlig Hjelp i Anledning af den sidste Ildsvaade og jeg haaber, at Landets<hi rend="underline">endnu</hi>  almindelige Brandassurance Casse vil kunne udrede de senest afbrændte Huses Værdie uden noget overordentligt Paalæg. Ildsvaader synes desværre at være bleven en sørgelig Vane hos de Stakkels Trondhjemmere.</p>
+               <p xml:id="p3">	Det er mig særdeles behageligt at kunne meddele Interessenterne i Frue Grünings Løkke, Deres Majestæts naadige genereuse Renunciation paa en hver Indtægt af den betydelige Kongl. Gave, som bør forøge deres og Christiania Indvaaneres underdanige Taknemmelighed.</p>
+               <p xml:id="p4">	Deres Majestæts naadige Beslutning at ville indstifte en norsk Orden glæder mig. Den er i Harmonie med Deres Majestæts foregaaende norske Regjerings Handlinger, fordi den vil give et nyt Beviis paa Deres Majestæts Anerkjendelse af Rigets Selvstændighed, som er stemmende med Sandhed og Ret, som vil glæde Folkets intelligente Deel, – og tilfredsstille den nationale Forfængelighed.</p>
+               <p xml:id="p5">	Ved denne naadige Beslutning vil derhos et Kongeligt Løvte, givet i et Ordenscapitel i Trondhjem den 4de September 1818, som findes i Samling af Love og Anordninger, blive naadigst opfyldt, efterat den deri bestemte Betingelse for en norsk Orden nu er tilstede, da den norske Ordenscasse nu skal eie 6 à 7,000 Spdl.</p>
+               <p xml:id="p6">	Som dette Kongelige Løvte gaves ved den sidste Kongelige Kroning, saa turde den nu forestaaende blive en passende Tidspunkt for denne Ordens første Forlehning uden at hindre dens tidligere Indstiftelse; men da Deres Majestæts svenske Undersaatter forhaabentlig ville faae Adgang til den norske Orden, saa smigrer jeg mig med at Norske fremdeles kunne benaades med svenske Ordener og vover saaledes at gjentage min underdanigste Bøn om disse for de særdeles udmærkede faa Individer, som jeg underdanigst har tilladt mig at foreslaae.</p>
+               <p xml:id="p7">	Ifølge Deres Majestæts naadige Befaling vil jeg afgive underdanigst Indberetning om Lector Scheerers Sag, efterat have gjort mig nøiere bekjendt dermed. Den beskjæftiger for Tiden i høi Grad vore Lærde, som ved saadanne Leiligheder ikke som vi andre Lægfolk lade sig nøie med at motivere deres Vota, men gjerne skrive hele Afhandlinger. Jeg beklager, at Striden verserer mellem 2de Universitetslærere Welhaven og Scheerer, som jeg begge sætter megen Priis paa.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at vedlægge et Uddrag af Statsraad Petersens fortroelige Brev til mig, dateret London den 20de forrige Maaned, som desværre levner lidet eller intet Haab om at faae en Jernbane for engelske Penge. Vi havde faaet den, om vi i det rette og beleilige Øieblik havde modtaget Tilbudet; men vore constitutionelle Former forbød os at modtage et saa stort Gode, at lade 1 1/2 Million fremmede Penge nedlægges i vort Land! Jeg fortryder nu bitterlig atjeg lod mig bevæge til at frafalde mit allerede skrevne Votum for Tilbydets øieblikkelige Antagelse. Vel veed jeg, at <hi rend="underline">jeg</hi>  af en Representation som vor, ikke kunde have ventet nogen Bill of indemnity; men for at have bidraget til at forskaffe mit Land et saa stort Gode, skulde jeg gjerne have modtaget en Fordømmelse, som desuden er det eneste Middel for en norsk Statsmand til at vinde en liden Plads i Fædrenelandets Annaler.</p>
+               <p xml:id="p9">	Statsraad Petersens med Dagsposten expederede Ansøgning om Permissions-Forlængelse til Mai Maaneds Udgang, tillader jeg mig underdanigst at anbefale. Han formener dog at kunne være hjemme medio Maij.</p>
+               <p xml:id="p10">	Min Svoger, Baron Løvenskiold, har meddeelt mig, at den paatænkte Fasanjæger burde indfinde sig<hi rend="underline">strax</hi>  ved det Kongelige Fasanerie paa Jægerspriis og forblive der <hi rend="underline">til næste Foraar</hi>  under den meget duelige Fasanmester fra Bøhmen, for at blive skikket til at anlægge og behandle et Fasanerie under de forskjellige Aarstider. Fasanerne begynde at lægge Æg i April og denne og hver af de følgende Maaneder kræver en særskild Behandling. Den beleiligste Tid for Hofjægermester Strøm til at gjøre sig bekjendt saavel med Fasaneriet som med Forst- og Jagtvæsenet, anseer min Svoger at være de sidste Dage af Juli eller de første af August Maaned og vil han gjøre sig en Fornøielse af at modtage og veilede saavel Hofjægermesteren som Jægeren. For det Tilfælde, at Deres Majestæt i denne Anledning maatte have noget at befale, tillader jeg mig underdanigst at vedlægge min Svogers Adresse.</p>
+               <p xml:id="p11">	Jeg takker underdanigst for den interessante Artikel af "the Times". Jeg har meddeelt den til mine Colleger og vi maa desværre erkjende, at kun altfor meget af hvad deri er yttret om Amerika, er anvendeligt paa Norge.</p>
+               <p xml:id="p12">	Hof-Kamrer Bäkstrøm arbeider flittig, er vel liid af Alle, som han staaer i Forbindelse med, og som ere enige om, at Deres Majestæt i ham har gjort et særdeles godt Valg.</p>
+               <p xml:id="p13">	General Wedel, som første Gang denne Vinter spiiste hos mig i Gaar, har bedet mig fremføre sin underdanigste Taksigelse for Deres Majestæts naadige Hilsen.</p>
+               <p xml:id="p14">	Mine Børn, Ernst og Fanny, som kom til mig i Gaar, for at min Sønnehustru maa kunne gjøre sin Communion her, og forblive hos mig til den 15, bede sin underdanigste Respect fremført for Deres Majestæter.</p>
+               <p xml:id="p15">	Sluttelig tillader jeg mig at bevidne min underdanige Taknemmelighed for min Søn Ottos naadige Udnævnelse til Brigadeauditeur. Han vinder i Indtægt kun 70 Speciedaler aarlig, men han har ved Deres Majestæts Naade opnaaet et selvstændigere lidet Embede. Han er nu 35 Aar og jeg var 25 Aar, da jeg blev Amtmand i Bradsberg Amt. Det er en sand Calamitet, ikke alene for Vedkommende, men for Staten, at vore yngre Embedsmænd nu ikke opnaae selvstændige høiere Embeder forinden deres dygtigste Livskraft er hensvunden. Dette er en Følge af den store Mængde Embeds-Candidater, og denne en Følge af Tidsaanden, som vil, at alle Borgerclassers Sønner skulle blive Embedsmænd. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6 April 1846 </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 6. april 1846.</supplied>
+               </head>
+               <p xml:id="p16">	Baron Rehausen har presenteret mig for Lord Aberdeen, der tog særdeles artigt imod mig, takkede mig, fordi jeg vilde gjøre ham den Ære at hilse paa ham og bad mig forsikkre den Norske Regjering om, at han og hans Colleger paaskjønnede, hvad der, med Hensyn til Told Tarifferne var blevet sidste Storthing forelagt. Han erkjendte, at den engelske Regjerings Forslag til Parliamentet, om Nedsættelse i Tolden, var et vigtigt Skridt, og navnlig, om man i andre Lande ikke skulde undlade at følge dette Exempel; han var imidlertid overbeviist om, at Norge vilde foregaae de andre Stater med et godt Exempel. Sverige fik ingen Roes, og det er kjendeligt her, at man gjør mere af os. Peel siger derfor aldrig Sverige og Norge, men Norge og Sverige, ligesom Norge af flere Parlaments Talere endog Oppositionsmænd er bleven citeret med Berømmelse.</p>
+               <p xml:id="p17">	Tottie takker meget for det Brev fra Ds Excellence, som jeg lyksaliggjorde ham med, og har bedet mig tilstille Deres Excellence indsluttede Papirer, hvoraf behageligen vil erfares hele Indholden af Sir Robert Peel's mærkelige Toldproposition. Endnu er Intet i saa Henseende definitivt afgjort, men her er det den almindelige Mening, at han vil drive Alt igjennem, da Tilliden til ham stiger med hver Dag, skjønt Anskuelserne ere meget forskjellige med Hensyn til Følgerne af Forandringen i Kornlovene. Denne Sag beskjæftiger for øvrigt Gemytterne langt mere end Americanernes drengagtige Trudsler, som man her overseer og ikke troer ville foranledige noget Fredsbrud.</p>
+               <p xml:id="p18">	Imidlertid frygter jeg for, at disse forestaaende Muligheder i Forbindelse med Uvisheden om hvorledes det forandrede Toldsystem vil virke paa Forretningerne, kunne lægge store Vanskeligheder i Veien for vore Jernbaneprojecter. Crowe synes vel endnu at have godt Haab, og jeg ønsker heller ikke, at mine modsatte Formodninger blive bekjendte i Christiania; men jeg skylder Ds Excellence oprigtigen at yttre, at Faye og jeg, ved at betragte Tidernes Tegn, troe os beføiede til den Slutning, at Planen for Tiden ikke lader sig realisere, skiøndt vi ikke ere saa vel underrettede, at det jo muligens kan gaae bedre end vi vente.</p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h4">
+                  <supplied resp="editor">Tillegg til rapport av 6. april 1846.</supplied>
+               </head>
+               <p xml:id="p19">	D. 5. Januarii skref H.M. till Ex. Lövenskiold: <lb/>
+               </p>
+               <p xml:id="p20">Jag ber Ed.Ex. å mina vägnar tacka sin Svåger för de intressanta upgifter han lemnat angående det ifrågasatte Fasaneriet. Jag har infordrat deröfver HofJägm. Ströms utlåtande och ämnar i vår sända en Jägare till Danmark för att på stället taga närmare kännedom om saken.</p>
+               <p rend="right" xml:id="p21">					(se Ex.L. rapp. f 22 Xber) <lb/>
+Kon. lemnat Ström den af Bn L. insända P.M.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

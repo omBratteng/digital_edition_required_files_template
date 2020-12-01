@@ -1,0 +1,73 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>486</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 4. februar 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 4. februar 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	De i min sidste underdanigste Rapport af 1ste denne Maaned <lb/>
+bebudede Oplysninger af det Kongelige Finants- och Told-Departement <lb/>
+betræffende Indsmugling af norsk Brændeviin til Sverige, giver jeg mig <lb/>
+den Ære underdanigst at vedlægge.</p>
+               <p xml:id="p2">	Deres Majestæt vil deraf naadigst erfare de Omstændigheder, som <lb/>
+foranledige, at norsk Brændeviin, – uagtet den lovbefalede høie <lb/>
+Productions-Afgift derfor er betalt, med Fordeel kan indføres til Sverige.</p>
+               <p xml:id="p3">	Under den nu i Norge stedfindende skarpe Control mod Smugbrænding, <lb/>
+er det ikke antagelig, at nogen saadan kan drives i nogen mærkelig <lb/>
+Grad her. Det norske Brændeviins ulovlige Indførsel til Sverige, <lb/>
+kan kun afværges ved Foranstaltninger af vedkommende svenske Autoriteter.</p>
+               <p xml:id="p4">	Ved samme Post, hvorved Deres Majestæt havde den Naade at meddele <lb/>
+mig, at Deres Majestæt i Statsraadet havde nægtet at bifalde den <lb/>
+af Storthinget besluttede Lovcommission, meddeelte Hans Excellence <lb/>
+Due mig, at Deres Majestæts naadige Resolution herom vilde komme med <lb/>
+den følgende Post, – men da dette ikke er skeet, tør jeg imødesee den <lb/>
+med den i Aften forventende Post. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Februar 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

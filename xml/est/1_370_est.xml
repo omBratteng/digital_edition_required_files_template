@@ -1,0 +1,76 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>370</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 23. januar 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 23. januar 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p xml:id="p2">	Sidste Post bragte mig Deres Majestæts naadige Skrivelse af 17de, <lb/>
+hvorfor jeg nedlægger min underdanigste Taksigelse, ligesom for det <lb/>
+Haab Deres Majestæt har den Naade at give mig om naadig Meddelelse <lb/>
+af Tildragelser udenrigs, som jeg iøvrigt kun kjender af upaalidelige <lb/>
+offentlige Blade.</p>
+               <p xml:id="p3">	Deres Majestæts naadige Skrivelse forvisser mig, Gud skee Tak, <lb/>
+om Deres Majestæts fremskridende Helbredelse, som jeg med alle mine <lb/>
+norske og svenske Landsmænd beder Gud, snart maa blive fuldkommen.</p>
+               <p xml:id="p4">	Herfra her jeg idag Intet at indberette. Senere Meddelelser fra <lb/>
+Kautokeino stadfæste, at religieus Fanatisme ingenlunde foranledigede <lb/>
+de der forøvede Voldsgjerninger; men kun benyttedes, for at  <lb/>
+tilfredsstille privat Had og Hevngjerrighed.</p>
+               <p xml:id="p5">	Jeg har aldrig oplevet et saa vedvarende og pludseligt afvexlende <lb/>
+Vinterveir som dette Aar. Disse afvexlende Temperaturforandringer <lb/>
+ere ikke uden skadelige Følger; men have dog hidindtil ikke <lb/>
+viist den farlige Indflydelse paa Sundheds Tilstanden, som man maatte <lb/>
+befrygte.</p>
+               <p xml:id="p6">	Den 21de feirede jeg Hans Kongelige Høihed Prinds Oscars <lb/>
+Fødselsdag ved en Bal for 250 Gjæster. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 23 Januar 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>268</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 15. desember 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 15. desember 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p xml:id="p2">	Den 13de om Morgenen meddeelte jeg General Bloch Indholden af <lb/>
+Deres Majestæts naadige Skrivelse af 9de, i hvis Følge han endnu <lb/>
+samme Dag udfærdigede Ordres om mulig behøvende militair Assistence <lb/>
+til Corpschefen Oberst-lieutenant Stenersen ved Coureer, med hvilken <lb/>
+jeg tillige herom underrettede Amtmand Manthey.</p>
+               <p xml:id="p3">	Høiesterets uvented milde Dom over Thrane har gjort et ubehageligt <lb/>
+Indtryk i Publicum, hvorom jeg kun har hørt een Stemme. Jeg beklager <lb/>
+denne Dom for Høiesteret som for Sagen. Med Ret eller Uret <lb/>
+vil man tillægge Høiesteret mindre hæderlige Motiver for dens Mildhed, <lb/>
+hvilket kan skade Rettens hidindtil uplettede Anseelse. Den store <lb/>
+uvidende Masse af Thranes Tilhængere vil neppe fatte den egentlige <lb/>
+Gjenstand for den mod ham anlagte Justits-Action; men snarere ansee <lb/>
+den som en Forfølgelse for hans Agitation i Almindelighed, hvorfor <lb/>
+den nu vil troe ham af Høiesteret frikjendt, hvilket vil bestyrke <lb/>
+denne Masse i sin Vildfarelse, forøge dens Overmod og Kaadhed. Om <lb/>
+Dommen for Øieblikket har befriet os fra Pøbel-Demonstrationer, tør <lb/>
+den saaledes bidrage til deres Udbrud ved en anden Leilighed.</p>
+               <p xml:id="p4">	Thranes ivrige Bestræbelser, for at bevirke deeltagende <lb/>
+Demonstrationer i Anledning af hans Frifindelse, blev frugtesløse, men  <lb/>
+hans letvindige Agitation har tilveiebragt en Gjæring, Overmod og Kaadhed <lb/>
+i Arbeidsclassen, som tidligt eller seent vil udbryde i Voldsomheder, <lb/>
+der kun vil kunne undertrykkes ved Vaabenmagt.</p>
+               <p xml:id="p5">	Den talrige Arbeidsstok ved Hafslunds Saugbrug spiller for Øieblikket <lb/>
+en modern parlamentarisk Farce. Den fordrer en Ministerforandring, <lb/>
+det er, den fordrer Brugets mangeaarige hæderlige Forvalter <lb/>
+bortfjernet, – og denne som Brugets Bogholder, hvem Posten er tilbuden, <lb/>
+erklære at de ikke kunne styre de oprørske Arbeidere. Af lignende Grunde er Arbeidet standset ved andre  <lb/>
+tilgrændsende store Saugbrug. Hafslund giver Preussen et farligt Exempel, hvoraf Hr von Vinske allerede synes smittet.</p>
+               <p xml:id="p6">	I dag er det den 16de Dag, at Forsynet har forskaanet os for Cholera Tilfælde, hvorfor Staden nu tør erklæres frie for Farsotten, hvorfor Biskoppen i dag 8 Dag, ved Vor Frelsers Kirkes forhaabentlige Gjenaabning for Guds Tjenesten, vil fremføre Menighedens Tak til det guddommelige Forsyn. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15de December 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>Underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

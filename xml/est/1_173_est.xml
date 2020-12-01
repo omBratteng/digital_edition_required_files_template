@@ -1,0 +1,103 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>173</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. januar 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. januar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p xml:id="p2">	Denne Dag foranlediger mig til at fremsende mine hjertelige <lb/>
+underdanigste Ønsker for Hans Kongelige Høihed Prinds Oscar, som jeg vil <lb/>
+gjentage ved en større Middag, hvormed jeg vil feire Hans Kongelige  <lb/>
+Høiheds høie Fødselsdag.</p>
+               <p xml:id="p3">	Fra 7de til 14de Januar angrebes af Cholera i Bergen's Bye 82 <lb/>
+Personer, døde 61, helbrededes 11. Fra 10de December til 14de Januar <lb/>
+Klokken 12 Middag, altsaa i 5 Uger, angives angrebne 261, døde 165, <lb/>
+helbredede 27. I de første 5 Uger 1833, da Cholera herjede Christiania, <lb/>
+den Gang med en omtrentlig lige Folkemængde, som nu Bergen, angrebes <lb/>
+1094 Personer, døde 561. Efter den 5te Uge aftog Sygdommen i Christiania <lb/>
+stærkt, indtil den efter 12 Ugers Forløb sluttede med i det Hele <lb/>
+1430 Angrebne og 817 døde.</p>
+               <p xml:id="p4">	En af de i Bergen tjenstgjørende unge Læger, Exam. med. Baade, <lb/>
+angrebes den 4de Januar og døde den 12te.</p>
+               <p xml:id="p5">	I Fjelds Sogn vedbliver Sygdommen at gribe om sig, dog ikke i <lb/>
+nogen høi Grad.</p>
+               <p xml:id="p6">	Et af Norges største Industrie-Værksteder, Modums Blaafarveværk, <lb/>
+tilhørende en Hr. von Grøditzberg i Berlin og hanseatisk Generalconsul <lb/>
+hersteds Wegner, har beklageligviis maattet standse sin Virksomhed, af <lb/>
+Mangel paa Product Afsætning. Dette Værk beskjæftigede engang 1300 <lb/>
+Arbeidere, nu 300, som med Familier pludselig blive brødløse.</p>
+               <p xml:id="p7">	Den samme sørgelige Skjæbne truer vore Saugbrug, om deres Producters <lb/>
+Export til Frankrige ogsaa i dette Aar skulde vedvare at være <lb/>
+standset, som vil dependere af, hvorledes de politiske Forholde der <lb/>
+ville gestalte sig. De seneste Handelsbreve fra Frankrige yttre i denne <lb/>
+Henseende Forhaabninger, som overgaae mine Forventninger. Gud lade dem <lb/>
+gaae i Opfyldelse.</p>
+               <p xml:id="p8">	I Februar Maaned forrige Aar ødelagde en raa Menneskemasse de <lb/>
+ærværdige gamle Træer ved Boulevards; nu ere 1000 af Arbeidere beskjæftigede <lb/>
+med at gjenplante nye, som dog vil behøve lang Tid, forinden de <lb/>
+kunne opnaae de gamle Trærs Størrelse og Storhed! Saaledes vil en  <lb/>
+tilkommende Generation bestræbe sig for at gjenoprette gamle ærværdige <lb/>
+Institutioner, som den nærværende i sin Begrebsforvirrelse har ødelagt.</p>
+               <p xml:id="p9">	Jeg beder Deres Majestæt naadigst undskylde min – Mandens i <lb/>
+Landsorten (thi saaledes maa vel Christiania ansees i politisk Henseende), <lb/>
+– Længsel efter at erfare noget sikkrere om den nærværende politiske <lb/>
+Stilling i Frankrige end de offentlige Blade indeholde. Jeg vover derfor <lb/>
+underdanigst at udbede, at Deres Majestæt naadigst vil lade mig <lb/>
+meddele vor gamle Veteran, G. Løwenhjelm's Anskuelse herom.</p>
+               <p xml:id="p10">	I Særdeleshed vilde det interessere mig at see Hans Excellences <lb/>
+Rapport om Nyaars Couren hos Republikkens keiserlige President.</p>
+               <p xml:id="p11">	Efterat Foranstaaende var skrevet, havde jeg den Ære at modtage <lb/>
+Deres Majestæts naadige Skrivelse af 18de med vedfulgte for mig høist <lb/>
+interessante Documenter, for hvis naadige Meddelelse jeg underdanigst <lb/>
+takker. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 Januar 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

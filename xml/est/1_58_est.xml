@@ -1,0 +1,81 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>58</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. februar 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. februar 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Efter langvarige Underhandlinger er man omsider kommet til en endelig Omforening med Fru Grüning betræffende det ved Slotsveien beliggende Grundstykke, til hvis Erhvervelse for Christianias Indvaanere Deres Majestæt naadigst har ydet et saa betydeligt Bidrag.</p>
+               <p xml:id="p3">	Det herom foreløbig udfærdigede hosfølgende Document, tør jeg underdanigst bede naadigst remitteret med Underretning, om og hvorvidt det naadigst bifaldes.</p>
+               <p xml:id="p4">	Det vilde convenere særdeles om de af Deres Majestæt naadigst skjænkede 4,000 Species kunde blive udbetalt som forudsat i Contracten's § 1 litr a anstundende 1ste Julii; men da herom intetsomhelst Tilsagn af mig er givet, tør jeg underdanigst udbede mig Deres Majestæts naadigste Bestemmelse om, Betalingstiden, til Underretning for Interessentskabet.</p>
+               <p xml:id="p5">	Det under § 1 litr b omnævnte Handelshuus: Grüning &amp; Co er Consul Faye, som har beholdt dette Huses Firma.</p>
+               <p xml:id="p6">	Efter nøiere Overveielse har jeg ikke villet ladet anføre Deres Majestæt som første og betydeligste Interessent i Documentet, deels fordi jeg fandt det mindre passende, deels fordi det ikke er umuligt, at et Interessentskab af Beskaffenhed som dette vil kunne foranledige fremtidige Udgifter, hvorfor Deres Majestæt bør være fritaget. Derimod har jeg lagt megen Vægt paa i denne lille Begivenhed at forbeholde Kongemagten det absolute Veto, saaledes at ingen Beslutning betræffende Grundstykkets Anvendelse skal have Gyldighed uden Kongens Approbation, som i Documentet udtrykkelig bestemt.</p>
+               <p xml:id="p7">	Mine jevnlige Meddelelser fra London betræffende vort Jernbaneproject give endnu ingen Sikkerhed for vort Ønskes Opfyldelse. Imidlertid vedligeholder General-Consul Crowe godt Haab. Efter Consul Fayes snart forestaaende Ankomst til London, venter jeg af ham paalidelig Underretning om denne høist interessante Gjenstand.</p>
+               <p xml:id="p8">	Et andet interessant offentligt Anliggende, omendskiøndt af en underordnet Beskaffenhed, nemlig Christiania Byes Oplysning ved Gas, har mødt uventede Vanskeligheder fra den engelske Entrepreneur Mellands Side, som man dog efter mit sidste Brev herom fra Hamburg, hvor Contracten skulde sluttes, af 17de denne Maaned, haabede at faae hævet.</p>
+               <p xml:id="p9">	Som Forsynet i de senere Aar har forundt os en god Korn- og Høe-Høst, saa har denne milde Vinter hidindtil været meget gunstig for Fiskerierne og for den indre Rørelse og vi maa prise os dobbelt lykkelige i Sammenligning med almindelig mere begunstigede Lande, som nu plages af Misvæxt, religieus og politisk Gjæring.</p>
+               <p xml:id="p10">	I den ene Maaned Januar dette Aar have Rigets Told-Intrader beløbet over 60,000 Sps mere end i samme Maaned forrige Aar, og om disse lykkelige Conjuncturer vedvare, vil Regjeringen kunne underdanigst foreslaae nogen overordentlig Anvendelse af de over Forventning forøgede Indtægter, saa vidt vor i denne Henseende meget indskrænkede executive Magt dertil kan ansees bemyndiget.</p>
+               <p xml:id="p11">	I denne Uge have vi havt en unaturlig mild Temperatur hvis lige jeg i denne Aarstid ikke kan erindre og som truer med at borttage den sidste Rest af Vinterføre, hvorved den indre Rørelse vilde lide meget.</p>
+               <p xml:id="p12">	I Anledning af Deres Majestæts naadige Meddelelse om at have affordret Hofjægermester Strøm Betænkning over et paatænkt Fasanerie, vover jeg underdanigst at foreslaae, at sende<hi rend="underline">ham</hi>  under Aarets Løb til Sjelland, ikke alene for denne Gjenstand, men for derhos at gjøre sig bekjendt med det videnskabelig organiserede danske Jagt- og Forstvæsen, sidstnævnte Gjenstand især af stor Interesse for Sverige og Norge, hvor den altfor længe har været forsømt.</p>
+               <p xml:id="p13">	Med Henhold til min underdanigste Rapport af 5te denne Maaned, tillader jeg mig underdanigst at bemærke, at jeg saavel her paa Stedet, som fra Paris har modtaget Tilbud om Leverancer til Slottets Meublering; men Intet kan herom foreslaaes, forinden en Plan er lagt, af en med Sagkundskab og Smag udrustet Mand. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27 Februar 1846</date>.<lb/>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 27. februar 1846.</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Underdanigst Postscriptum</hi>!<lb/>
+               </head>
+               <p xml:id="p14">    Efterat Ovenstaaende var skrevet, har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+    Skrivelse af 23de, hvorfor min underdanigste Taksigelse foreløbig nedlægges. <lb/>
+               </p>
+               <closer>Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

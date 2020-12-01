@@ -1,0 +1,82 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>253</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. oktober 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	De mig senere tilhændekomne CholeraRapporter til i Gaar Middag <lb/>
+giver jeg mig den Ære underdanigst at vedlægge. De vise, at i de <lb/>
+sidstforløbne 4 Døgn 20 Mennesker ere angrebne og 11 Døde af Cholera, <lb/>
+alle i Byens Forsteder under Landets Jurisdiction.</p>
+               <p xml:id="p3">	Under min sidste Nærværelse paa Fossum, meddeelte <lb/>
+Værnepligtscommissionens 2de Medlemmer, Sorenskriver Thaulow og Lieutenant <lb/>
+Ræder, mig, at de vilde søge sig entledigede fra videre Deeltagelse i <lb/>
+Commissionen, hvorom de ved min Tilbagekomst hertil allerede havde <lb/>
+indgivet deres Ansøgninger.</p>
+               <p xml:id="p4">	En saadan Udtræden vilde formeentlig skade Commissionens Anseelse <lb/>
+som den Sag, den har under Behandling, og fra denne Synspunkt har <lb/>
+jeg overtalt Thaulow til at tage sin Ansøgning tilbage. Jeg vilde uden <lb/>
+Tvivl have opnaaet det samme af Ræder, om jeg havde været nærværende; <lb/>
+thi han syntes at erkjende sin Overilelse, men nu kunde jeg ikke <lb/>
+formaa ham til at tilbagetage sin Ansøgning, som saaledes vil blive <lb/>
+Deres Majestæt forelagt, anbefalet af Regjeringen; men indstillet til <lb/>
+Afslag, af Værnepligtscommissionen og af mig, hvilket Lieutenant Ræder <lb/>
+uden Tvivl helst ønsker. En ugunstig Stjerne hviler over den upraktiske <lb/>
+Stræben efter at ville almindeliggjøre Værnepligten!</p>
+               <p xml:id="p5">	Legationsraad Bergmann er nu beskjæftiget med at gjøre sig <lb/>
+bekjendt med det ham naadigst anbetroede Hverv, der har en høi Interesse <lb/>
+for den betydelige norske Fiskeexport og vi skylde Deres Majestæt <lb/>
+underdanigst Taknemmelighed for den naadige Opmærksomhed, som Deres <lb/>
+Majestæt har havt den Naade at skjænke denne for Norge vigtige Gjenstand. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de October 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

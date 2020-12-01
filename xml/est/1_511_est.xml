@@ -1,0 +1,112 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>511</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 11. oktober 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 11. oktober 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 27de forrige Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+26de forrige Maaned, hvorfor jeg nedlægger min underdanigste  <lb/>
+Taksigelse, i Særdeleshed for Deres Majestæts naadige Deeltagelse i mine <lb/>
+rheumatiske Lidelser, som først i de seneste Dage ere noget formindskede.</p>
+               <p xml:id="p2">	Hendes Majestæt Enke Dronningens beklagelige Fald opvakte min <lb/>
+store Bekymring og almindelig oprigtig Deeltagelse. Desto taknemmeligere <lb/>
+er jeg for den beroligende Meddelelse, som Deres Majestæt har <lb/>
+havt den Naade at lade mig give ved Grev Lewenhaupt, som giver Haab  <lb/>
+om Hendes Majestæts snarlige fuldkomne Bedring, som jeg af ganske <lb/>
+Hjerte tilønsker.</p>
+               <p xml:id="p3">	For mig er det en saa stor Glæde at være Overbringer af behagelige <lb/>
+Meddelelser, at jeg efter den mig ved Grev Lewenhaupt givne naadige <lb/>
+Tilladelse, ilede at underrette Frøken Mansbach om, Deres Majestæts <lb/>
+for hende høist naadige Beslutning, som overraskede og rørte <lb/>
+hende saa meget mere, som den overgik hendes Forventning, og som bliver <lb/>
+hende end mere dyrebar ved den Bevaagenhed for hendes afdøde Broder, <lb/>
+hvorved den er foranlediget. Hun har bedet mig at fremføre sin  <lb/>
+underdanige Taknemmelighed for Deres Majestæt og tillader jeg mig at <lb/>
+tilføie min egen for dette mig naadigst overdragne behagelige Hverv.</p>
+               <p xml:id="p4">	Jeg anseer det for min Skyldighed underdanigst at indberette at <lb/>
+Hans Majestæt Kongen af Preussen har ved Sin Minister i Stockholm  <lb/>
+ladet mig bevidne Sin naadige, ja hjertelige Deeltagelse, i Anledning <lb/>
+af den mig naadigst forundte Afsked og derhos gjentagende naadigst <lb/>
+indbuden mig til et Besøg i Berlin, som for mig visselig kunde have <lb/>
+en stor Interesse, men hvoraf min Alder og min Helbred dog neppe vil <lb/>
+tillade mig at profitere.</p>
+               <p xml:id="p5">	Efter en langvarig, behagelig og tør Høst have vi faaet en <lb/>
+velgjørende Regn, som i denne Aarstid er ligesaa nødvendig for den <lb/>
+indre Rørelse, som Sneen om Vinteren. Korn- og Potateshøsten har i  <lb/>
+denne Omegn og jeg troer i Almindelighed, Gud skee Tak! været god. I <lb/>
+Danmark, som sædvanlig for en stor Deel forsyner Norge med det manglende  <lb/>
+Korn, har Høsten været velsignet. Ikke desto mindre ere Priserne  <lb/>
+saavel for Korn som for andre Livsfornødenheder overdrevne høie og <lb/>
+meget trykkende, – lykkeligviis her dog mindst trykkende for den  <lb/>
+Menneskeclasse, som i Nøden sædvanlig griber til Voldsomheder, thi <lb/>
+Arbeidsclassens Løn her i Landet er steget i Forhold til Livets <lb/>
+Fornødenheder.</p>
+               <p xml:id="p6">	Medens Forsynet har forundt de fleste Lande tilstrækkelige <lb/>
+Livsfornødenheder, er den nu almindelige Dyrtid og Nød en Følge af <lb/>
+menneskelig Daarskab, af en frivol Krig og den barbariske ødelæggende Maade, <lb/>
+hvormed den føres. Forsynet giver, men Mennesker ødelægge syndig <lb/>
+dets gode Gaver! eller forbyde at benytte dem, til Exempel ved at <lb/>
+bloquere Havne, hvor rigelige Forraad findes og derved gjøre disse <lb/>
+utilgjængelige, hvilket om end stemmende med den saa kaldte Folkeret, <lb/>
+synes at være <hi rend="underline">en Folkeuret mod neutrale</hi>  Nationer.</p>
+               <p xml:id="p7">	Efterat her længe, som Følge af heldige Conjuncturer, har været <lb/>
+Overflødighed paa Penge, er nu pludselig en trykkende Pengemangel <lb/>
+indtraadt, som endog vanskeliggjør Christiania Byes Forsyning med det <lb/>
+nødvendige Korn for Vinteren, hvilket under nuværende enorme Priser <lb/>
+kræver større Summer og Forskud end Private kunne præstere. I denne <lb/>
+Anledning besluttede vi i Statsraadet i Gaar at forøge Disconterings <lb/>
+Commissionens Fond, for det Første med 50,000 Speciedaler, som allene <lb/>
+skulle anvendes til at discontere Vexler for Korn Indkjøb.</p>
+               <p xml:id="p8">	I Christiania, som i det øvrige Land, høres, Gud skee Tak! saa <lb/>
+godt som Intet til Cholerasygdom. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 11te October 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

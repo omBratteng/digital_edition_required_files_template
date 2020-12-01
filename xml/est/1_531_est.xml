@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>531</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 28. februar 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 28. februar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 17de denne Maaned <lb/>
+er Intet indtruffet, som fortjener Deres Majestæts naadige Opmærksomhed.</p>
+               <p xml:id="p2">	Efterretningerne om Sildefiskeriet ere fremdeles variable; men <lb/>
+synes dog at love et ganske godt Udbytte.</p>
+               <p xml:id="p3">	Afdøde Grosserer Jacob Meyers efterladte Formue anslaaes til <lb/>
+1 1/2 Million Species; men hans efterlevende myndige Arvinger have <lb/>
+forenet sig om at deele den imellem sig, som om den kun er 1 Million; <lb/>
+Ritmester Thorvald Meyer eier allerede forinden han tiltræder Arv <lb/>
+efter sin Fader, en Formue af 300,000 Species, som han deels har faaet <lb/>
+med sin Frue, deels selv har erhvervet. Jeg seer i ham en af Christianias <lb/>
+haabefuldeste unge Borgere, som ved sin Dygtighed og Formue <lb/>
+vil iværksætte meget Godt og Nyttigt i denne Stad.</p>
+               <p xml:id="p4">	Da Spørgsmaalet om Agershuus Fæstning skal vedligeholdes eller <lb/>
+ikke, endnu ikke af Deres Majestæt er afgjort, tillader jeg mig  <lb/>
+underdanigst at relevere et i mit Protocollen vedlagte Votum af 26de  <lb/>
+December forrige Aar brugt urigtigt <hi rend="underline">Ord</hi>: nemlig at Fæstningen er <lb/>
+foreslaaet <hi rend="underline">sløifet</hi>. Dette forholder sig ikke saa, men der er foreslaaet, <lb/>
+                  <hi rend="underline">at Fæstningen ikke skal vedligeholdes</hi>, hvilket er det samme som at <lb/>
+Fæstningen skal sløifes, uagtet man ikke har brugt Ordet "sløifes"; <lb/>
+thi en Fæstning som ikke vedligeholdes, maa med Tiden falde i Gruus, <lb/>
+det er, være hjemfalden til en successiv passiv Sløifning og saaledes <lb/>
+vil Forslaget uden Tvivl blive forstaaet af et kommende Storthing.</p>
+               <p xml:id="p5">	Jeg troer det vilde krænke den nationale Følelse at see den gamle <lb/>
+Fæstning falde i Gruus og finder allerede heri tilstrækkelig Grund <lb/>
+til at anvende det ikke betydelige Beløb som til dens Vedligeholdelse <lb/>
+behøves.</p>
+               <p xml:id="p6">	De seneste Efterretninger om Statsraad Stangs Helbreds-Tilstand <lb/>
+ere saa slette, at Professor Conradi venter en snarlig Slutning af <lb/>
+hans Liv og Lidelser.</p>
+               <p xml:id="p7">	Efterat Forestaaende var skrevet har jeg havt den Ære at modtage <lb/>
+Deres Majestæts naadige Skrivelse af 25de, hvorfor jeg nedlægger min <lb/>
+underdanige Taksigelse.</p>
+               <p xml:id="p8">	Altid glad ved at kunne give behagelige Meddelelser, ilede jeg <lb/>
+med at oplæse for Ritmester Meyer, hvad Deres Majestæt har havt den <lb/>
+Naade, ham betræffende, at yttre, som øiensynlig glædede ham og  <lb/>
+opvakte hans underdanige Taknemmelighed, den han bad mig nedlægge for <lb/>
+Deres Majestæts Fødder.</p>
+               <p xml:id="p9">	Jeg har naturligviis Intet kunnet yttre for Capitaine Hagerup, <lb/>
+forinden jeg dertil havde modtaget Deres Majestæts naadige Befaling; <lb/>
+men vil nu ved første Post meddele ham Deres Majestæts naadige Tilbud <lb/>
+og underdanigst indberette hans Svar, saa snart jeg har modtaget det. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28de Februar 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>113</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 23. september 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 23. september 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 19de denne Maaned.</p>
+               <p xml:id="p2">	Valget af Storthings-Representanter for Christiania Bye skeede saa <lb/>
+sildig ved sidste Posts Afgang, at jeg, som ikke den Dag var i Byen, ikke <lb/>
+derom kunde gjøre underdanigst Indberetning. Det er mig imidlertid  <lb/>
+bekjendt, at Deres Majestæt ad en anden Vei vil have modtaget Underretning <lb/>
+om Valgets følgende Udfald:<lb/>
+                  <list xml:id="list3">
+                     <label>1o</label>
+                     <item>Professor Schweigaard;</item>
+                     <label>2o</label>
+                     <item>Kjøbmand Houge;</item>
+                     <label>3o</label>
+                     <item>Borgemester Bretteville;</item>
+                     <label>4o</label>
+                     <item>Politiemester Fougstad;</item>
+                  </list>
+                  <lb/>
+et Valg, hvormed man har al Grund til at være vel tilfreds.</p>
+               <p xml:id="p4">	Byskriver Rye vilde uden Tvivl været bleven valgt, om han ikke, <lb/>
+(af hvilken Grund vides ikke) havde frasagt sig Valget. Sørenssen frasagde <lb/>
+sig dette, formodentlig, fordi han vidste, at han ikke vilde blive <lb/>
+valgt.</p>
+               <p xml:id="p5">	De 24 Valgmænd vare deelte i 2de Partier, hvoraf det ene, bestaaende <lb/>
+af Embedsmænd, vilde vælge Sørenssen; det andet (mindre Kjøbmænd, <lb/>
+Høkere, Haandværkere) vilde ikke have Sørenssen; men derimod en Representant  <lb/>
+af deres egen Midte. Partierne forenedes omsider om at vælge 3 Embedsmænd <lb/>
+(deriblandt ikke Sørenssen) og en liden Kjøbmand, da de større <lb/>
+Handlende her som flere Steder, maaskee ikke med Uret, ansees som Thorys. <lb/>
+Jeg kjender ikke Kjøbmand Houge (en Broder af Foged Houge), hvis  <lb/>
+Hovedbedrift bestaaer i et Brændeviinsbrænderie; men han skal være en <lb/>
+retsindig og fornuftig Mand. Sørenssen har allerede længe tabt sin store <lb/>
+Popularitet, især som Actor i Rigsretssagen 1836, blandt den lavere Classe <lb/>
+og har endog opvakt dennes Uvillie, ved den Varme, hvormed han ved sidste <lb/>
+Storthing talede for at give Jøderne Adgang til Riget. Dette var <lb/>
+Hovedgrunden mod hans Valg.</p>
+               <p xml:id="p6">	Det viser sig mere og mere, at denne Sympathie for Jøderne er høist <lb/>
+upopulair, blandt Almuen paa Grund af religieuse Anskuelser, blandt de <lb/>
+Handlende og Næringsdrivende af Frygt for Jødernes Indtrængen i Handel <lb/>
+og Næringsveie. Under en saadan Stemning blandt den Deel af Folket, som <lb/>
+udgjør den store Masse, maatte jeg ansee det uklogt af Regjeringen at  <lb/>
+ville i denne Sag tage Partie-Initiativ. Jeg tænker nu som 1814, at vi ere <lb/>
+bedst tjente med at undvære Jøderne, og at, da dette kan opnaaes, uden <lb/>
+at betage dem nogen havende Ret, det ikke kan være inhumant at vedligeholde <lb/>
+det fra Arrilds tid bestaaende Forhold. Et er at ville fordrive Jøderne <lb/>
+fra Stater, hvor de stedse have havt lovtilladt Tilværelse; et Andet <lb/>
+at ville aabne dem Adgang til et Land hvis Love stedse har nægtet dem. <lb/>
+Det første vilde jeg ansee uchristeligt, det andet politisk uklogt. Jeg <lb/>
+kan indrømme, at det første Forbud mod Jøderne, var inhumant uden at jeg <lb/>
+kan erkjende det for en Humanitets-<hi rend="underline">Pligt</hi>, at hæve dette Forbud, hvor det <lb/>
+existerer, og i Sekler stedse har existeret. Jødefolket har Bevægelsesrum <lb/>
+nok i den hele øvrige Verden og der paaføres det ingen nye Lidelser <lb/>
+ved fremdeles i Almindelighed at nægte dem Adgang til en liden europæisk <lb/>
+Afkrog, hvor de aldrig have havt den. Fra denne Synspunkt stemte jeg <lb/>
+ved Rigsforsamlingen paa Eidsvold for Grundlovens 2den § betræffende <lb/>
+Jøderne og denne min Anskuelse er uforandret!</p>
+               <p xml:id="p7">	Jeg beder Deres Majestæt naadigst tilgive, at jeg har benyttet <lb/>
+Anledningen, til at gjøre min Troesbekjendelse betræffende denne Gjenstand.</p>
+               <p xml:id="p8">	I denne Uge have vi havt 2 Statsraad og jeg har maattet beramme <lb/>
+Statsraad imorgen og i Overmorgen, altsaa i een Uge 4. Det er gruelig,  <lb/>
+hvorledes Statsraadssagernes Mængde tiltager, og jeg gruer for den Tid, naar <lb/>
+Storthingssagerne for Alvor skulle foretages.</p>
+               <p xml:id="p9">	Medens vi i denne Uge have havt 4 Statsraadsdage, have vi desværre <lb/>
+kun havt 2 Godveirsdage, hvorunder Korn (Säd) kunde bjerges,og meget af <lb/>
+dette og af anden Høeslæt staaer endnu ude. Jeg foretrækker derfor  <lb/>
+Godveirsdage for Statsraadsdage. Dette Aars September Maaned har til Dato <lb/>
+været høist ubehagelig.</p>
+               <p xml:id="p10">	Jeg tillader mig underdanigst at vedlægge et Provindsblads Replique <lb/>
+til en Morgenbladsartikel mod St Olafs-Ordenen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 23de September 1847</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

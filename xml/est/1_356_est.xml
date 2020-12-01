@@ -1,0 +1,72 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>356</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 29. april 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 29. april 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 22de denne Maaned.</p>
+               <p xml:id="p2">	Jeg har idag Intet at indberette undtagen, at Statsraad Krog har <lb/>
+indgivet underdanigst Ansøgning om naadigst Permission til at besøge <lb/>
+et Bad i Bøhmen, formodentlig Teplitz, hvortil hans under hele denne <lb/>
+Vinter lidende Helbred er høielig trængende.</p>
+               <p xml:id="p3">	Da Hans Excellence Statsminister Due har meddeelt mig, at Deres <lb/>
+Majestæt har udsat af afgive naadigst Resolution til Regjeringens  <lb/>
+underdanigste Indstilling om Avancement i den 2den Agershusiske  <lb/>
+Infanterie Brigade til et senere Statsraad, føeler jeg mig forpligtet til <lb/>
+underdanigst at bemærke, at den til Chef for den Laurvigske Corps <lb/>
+instillede Capitaine Rye (Broder til den faldne danske General Rye), <lb/>
+er en udmærket dygtig Officier, som, om Deres Majestæt naadigst maatte <lb/>
+behage at udnævne ham, vil blive en værdig Efterfølger af bemeldte <lb/>
+Corpses forrige Chef, Oberst Mansbach.</p>
+               <p xml:id="p4">Efter næsten 3 Maaneders vedvarende Tørke giver Himelen os i Dag <lb/>
+Regn, som Jord og Temperatur høielig tiltrænge. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29e April 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

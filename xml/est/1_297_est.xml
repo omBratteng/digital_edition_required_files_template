@@ -1,0 +1,144 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>297</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 18. mai 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 18. mai 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 15de denne Maaned.</p>
+               <p xml:id="p2">	Jeg har idag kun underdanigst at melde, at Gaarsdagen den 17de <lb/>
+hengik meget rolig ja næsten ubemærket her i Byen.</p>
+               <p xml:id="p3">	Det herværende, ikke mandstærke Thraniske Regiment samledes <lb/>
+med en Deel Haandværkssvende og Drenge i Gaar Eftermiddag under sin <lb/>
+Fane paa Torvet, hvorfra de marscherede til Langvig; men jeg har endnu <lb/>
+ikke modtaget nogen Rapport om, hvorledes de der have forlystet sig. <lb/>
+Ved denne Udmarsch bortfjernedes de for den offentlige Rolighed farligste <lb/>
+Elementer fra Byen, hvor Alt var stille og rolig.</p>
+               <p xml:id="p4">	I Overmorgen den 20de vil Storthinget in corpore, efter Statsraad <lb/>
+Erichsens Indbydelse, paa Dampskibet Gyller begive sig til Horten, <lb/>
+for at bivære Dampcorvetten "Nidaros's" Gaaen af Stabelen og tage <lb/>
+Værftet i Øiesyn. Fleertallet af de Herrer Statsraader ville gjøre <lb/>
+Følge, og agter Selskabet sig samme Dags Aften tilbage.</p>
+               <p xml:id="p5">	Efterat Forestaaende var skreven, modtog jeg Politiemesterens <lb/>
+underdanigst vedlagte Rapport om Gaarsdagens Begivenheder, som kun giver <lb/>
+et nyt Beviis paa, hvorledes der kan skrives Rapporter om Intet. De <lb/>
+deri ommeldte Marscher, Contramarscher og Hurrahs, som formodentlig <lb/>
+ville blive vedbørlig udmalede i Aviserne, maa have været meget <lb/>
+ubemærkelige, da jeg Intet har hørt eller vidst derom før nu. Gaarsdagens <lb/>
+Formiddag tilbragte jeg i Statsraadet og ved min Hjemkomst i Gaar Aftes <lb/>
+fra Landet, fandt jeg endeel Mennesker rolig samlede paa Ruseløkbakken, <lb/>
+hvor de frysende oppebiede et lille Fyrværkerie, som skulde afbrændes  <lb/>
+i Klingenbergs Etablissement. I øvrigt havde Byen aldeles sit vanlige <lb/>
+Hverdagsudseende. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18 Mai 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 18. mai 1851</supplied>
+               </head>
+               <div type="tillegg-main">
+                  <opener>CHRISTIANIA POLITIKAMMER. <lb/>
+                     <salute>Deres Excellence</salute>
+                  </opener>
+                  <p xml:id="p6">	Gaarsdagen gik over uden nogensomhelst Uorden, uagtet det smukke <lb/>
+Veir havde lokket den største Deel af Stadens Befolkning ud paa  <lb/>
+Spadsergangene, hvilke vare overfyldte selv af Fruentimmer, til kl. 12 inat. <lb/>
+– Der er i Nattens Løb kun arresteret, i det Hele, 10 Personer, og som <lb/>
+Deres Excellence vil erfare af hosfølgende Rapport fra Vagten fra  <lb/>
+Politikammeret, de fleeste for Drukkenskab. Paa Lyststedet Klingenberg <lb/>
+vare flere hundrede Personer, af alle Classer, forsamlede, blandt hvilke <lb/>
+en stor Deel Storthingsmænd, hvilke forud havde været samlet til <lb/>
+Middag i Frimurerlogen. Fra Kl. 4 igaar Morges hørtes Canonade, fra <lb/>
+Egeberg, fra Ladegaardsøen og fra Skibene paa Havnen, hvor alle Skibe <lb/>
+den hele Dag flaggede. Kl. 12 vare Studenterne samlede i Samfundets <lb/>
+Locale, hvor Professor Monrad holdt en Tale, hvorefter man i Procession <lb/>
+med Flag begav sig til Krogstøtten, hvor der udbragtes et Hurrah, <lb/>
+hvilket gjentoges inden de skildtes ad fra Torvet. – Kl. 4 samledes <lb/>
+Arbeiderforeningens Bestyrelse i dens Locale i Grubbegaden, hvor <lb/>
+Fanen afsløredes i Nærværelse af 18 Medlemmer af Foreningen. Da et  <lb/>
+større Antal til at deeltage i Processionen ikke havde tegnet sig havde <lb/>
+Bestyrelsen maattet slaae sig sammen med Skrædder- og Snedkersvendene, <lb/>
+ hvilke til et Antal af omtrent 20 af hvert Loug havde samlet sig under <lb/>
+deres respective Faner, og samledes med Arbeiderne paa Torvet. Med <lb/>
+et Musikcorps i Spidsen drog Processionen derpaa udover Landeveien, <lb/>
+fulgt af en Skare Nysgjærrige af 3 à 400 Personer, standsede udenfor <lb/>
+Storthingsmanden Prokurator Lerches Boelig, hvor der gaves et tregange <lb/>
+gjentaget Hurrah! hvorpaa den lidt efter lidt forladt af de Nysgjærrige <lb/>
+begav sig til Langvig paa Ladegaardsøen. – Her holdtes Taler <lb/>
+af Abildgaard og af Bernhard Hansen, hvorefter Salen aabnedes til <lb/>
+Adgang for Alle og Enhver. Det derpaa følgende Bal vedblev til Kl. 4. <lb/>
+Selskabet der det sidstangivne Klokkeslet kun bestod af faae Personer <lb/>
+skildtes ad ved Pipervigsbryggen Kl. omtrent 6 imorges uden mindste <lb/>
+Støi. Kl. 9 droge Studenterne med Sangforeningen i Spidsen op til <lb/>
+Slotspladsen, hvor flere Sange blevne afsungne og flere Hurrah <lb/>
+udbragte for H.M. Kongen og det Kongelige Huus. <lb/>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <placeName>Christiania</placeName>
+                        <date>d. 18 Mai 1851</date>.</dateline>
+                     <lb/>
+                     <salute>underdanig</salute>
+                     <signed>
+                        <persName>C. Morgenstierne</persName>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="tillegg-extra">
+                  <head type="sub3" rend="underline" xml:id="h4">Underdanig Efterskrift</head>
+                  <p xml:id="p7">	Den Person, der ved Indgangen til Salen paa Langvig modtog <lb/>
+Billetterne, har i dette Øieblik fortalt mig at de Tilstædeværende under <lb/>
+Fanens Afsløring, og som udgjorde den hele Procession, var 64 Personer.</p>
+                  <closer>
+                     <signed>C. Morgenstierne</signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

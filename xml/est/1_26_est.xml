@@ -1,0 +1,133 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>26</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 9. mai 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 9. mai 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 5te denne Maaned.</p>
+               <p xml:id="p2">	Gjenstanden for denne min underdanige Rapport er en underdanig <lb/>
+Meddelelse om hvad her i de senere Dage er passeret betræffende det <lb/>
+saa ofte paa Bane bragte norske Studenter Besøg i Kjøbenhavn. En <lb/>
+Indbydelse i denne Hensigt, hvoraf en Copie underdanigst vedlægges, er <lb/>
+fra Upsala bleven tilstillet det herværende Studenter Samfund. Da <lb/>
+man under Discussionerne herom ikke i Studenter-Samfundet kunde blive <lb/>
+enig om det afgivende Svar, idet en betydelig Majoritet voterede <lb/>
+for Afslag, med Tillæg, "at den saakaldte skandinaviske Idée ikke <lb/>
+har Sympathie hos de norske Studenter", – blev Sagen henviist til en <lb/>
+talrigere Studenter Samling. I denne besluttedes i Forgaars, "at <lb/>
+Christiania Universitets Studerende ikke ville være representerede ved  <lb/>
+det foreslaaede Besøg i Kjøbenhavn, og at om norske Studerende maatte <lb/>
+ville deeltage heri, de ikke skulle være berettigede til at gerere sig <lb/>
+som Representanter for de norske Studenter," – hvilket er det samme <lb/>
+som et Afslag.</p>
+               <p xml:id="p3">	Statsraad Foss, som nu tilbringer et Par Dage paa Horten for der <lb/>
+at vinde Local Kundskab, har indgivet Ansøgning om Reise-Permission <lb/>
+for 2 à 3 Maaneder, for at besøge et Bad i Tydskland. Han var med <lb/>
+Statsraad Petersen bleven enig om, at denne, med Deres Majestæts naadige <lb/>
+Approbation, skulde overtage Marine-Departementets Bestyrelse under <lb/>
+hans Fraværelse, men da jeg fra Synspunkte, som jeg tør troe Deres <lb/>
+Majestæt naadigst deler, fandt dette mindre passende, vil Statsraad <lb/>
+Krog, som tilforn har bestyret Marine-Departementet, hertil blive <lb/>
+underdanigst indstillet.</p>
+               <p xml:id="p4">	Hendes Majestæt Dronningen er, Gud skee Tak, i den ønskeligste <lb/>
+Bedring; men det vedværende kolde og fugtige Veir, fordrer megen <lb/>
+Forsigtighed, især for en Reconvalescent. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 9 Mai 1845</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 9. mai 1845.</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <lb/>
+               <opener>Till samtlige Studerande vid Christiania Universitet!</opener>
+               <p xml:id="p5">	Norske Brøder! Med åtankan lifligt fästad på den uppmaning som <lb/>
+från Brøderne vid Christianias leende vik før någon tid sedan utgik, <lb/>
+icke blott till Upsala Studenter, utan äfven till Nordens øfvriga  <lb/>
+Universiteter, att på samma dag och stund møtas "i Andan" och tømma  <lb/>
+Bragibägaren "før Norden och dess gamla minnen" gå vi nu att inbjuda Eder <lb/>
+till ett personligt møte, hvilcket mer än något annat måste bidraga <lb/>
+att fastare tillknyta de venskapsband, som redan länge førenat oss.</p>
+               <p xml:id="p6">	Vår varma ønskan att aflägga ett gästbesøk hos alla våra gemensamma <lb/>
+vänner i Køpenhamn och Lund blef, såsom I väl veten, førlidit <lb/>
+år genom mellankommande hinder om intet. Men med den nyvaknade våren <lb/>
+har denna vår länge närde ønskan åter vaknat till nytt lif, och då <lb/>
+det vore lika betydelsefullt som skønt att få se representanter från <lb/>
+Nordens fyra Universiteter på ett ställe førsamlade, så vilje vi  <lb/>
+härmedelst indbjuda Eder att møte Oss i Lund och Køpenhamn. Ett større <lb/>
+antal af härvarande studenter har nemligen tecknadt sig før att, den <lb/>
+18.–20. instundande Junii afgå från Stockholm, och att efter korta <lb/>
+påhälsningar i några svenska städer vid Østersjøn, ifall allt går <lb/>
+lyckligt, den 22–23 innträffa i Malmø. Derifrån är det vår afsigt, <lb/>
+att, efter ett kortare besøk hos Lunds Studenter, gemensamt med Eder <lb/>
+och dem gästa hos Studenterna i Danas Konungastad.</p>
+               <p xml:id="p7">	När dagen før vår afresa framdeles blifver fullkomligt bestämd, <lb/>
+skola vi hafva det nøjet att underrätta Eder derom. Vi bringa Eder <lb/>
+till dess vår varma och innerliga helsning. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Upsala</placeName>
+                     <date>den 28de April 1845</date>
+                  </dateline>
+                  <lb/>
+    å de resandes vägnar: <lb/>
+                  <signed>
+                     <list xml:id="list8">
+                        <item>Elias Aug. Carlstén, Docent</item>
+                        <item>F.R.Osc. Meyerberg, Student</item>
+                        <item>P.J. Petersson, Docent</item>
+                        <item>Arfvid Sundborg, Magister</item>
+                        <item>Carl Säve, Candidat</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

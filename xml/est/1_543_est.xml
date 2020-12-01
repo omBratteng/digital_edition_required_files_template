@@ -1,0 +1,90 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>543</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 22. mai 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 22. mai 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p xml:id="p2">	Senere har jeg havt den Ære at modtage Deres Majestæts naadige <lb/>
+Skrivelse af 15de, og ved Kammerherre Holst ladet meddele Hr Daa, <lb/>
+hvad Deres Majestæt naadigst har befalet. Han undskyldte sig med en <lb/>
+Tidnings Redacteurs ofte vanskelige Stiling; at om nogen mishagelig <lb/>
+Artikel fandtes i hans Avis, troede han ikke, at den var selvstændig <lb/>
+af ham; men muligen taget af noget engelsk Blad; at han beklager  <lb/>
+derved at have foranlediget Misnøie; at han vilde iagttage større <lb/>
+Forsigtighed i Fremtiden, og lovede sluttelig Bod og Bedring. Iøvrigt <lb/>
+formoder jeg, at Hr Daa føler sig meget smigret ved den høie <lb/>
+Opmærksomhed, som er skjænket hans Blad og at han i Deres Majestæts <lb/>
+skaansomme naadige Bedømmelse vil finde sin Trøst. Hr Daa gjorde vel i, <lb/>
+at offre mere Tid til sin Skole Undervisning hvorfor han er lønnet, <lb/>
+end til Politiken.</p>
+               <p xml:id="p3">	Deres Kongelige Høiheder Kronprindsen og høie Gemalinde ankom i <lb/>
+høistønskeligt Velgaaende i Gaar Eftermiddag, Klokken 4 1/2 og vil <lb/>
+have den Naade at indtage Middag hos mig i Dag. De modtoges af en <lb/>
+jublende Folkemængde, og Norge modtager med skyldig Taknemmelighed <lb/>
+Deres Majestæts Offer, ved at anbetroe Rigets Styrelse til Sin kjære <lb/>
+Hr Søn.</p>
+               <p xml:id="p4">	Mit offentlige Liv er nu sluttet, mine Kræfter ere udtømte; <lb/>
+Jeg er træt og mat. Jeg gaaer med den Bevidsthed til Hvile, at jeg <lb/>
+stedse ærlig stræbede efter at befordre min elskede Konges og  <lb/>
+Fædrenelands Bedste. Jeg takker Deres Majestæt hjertelig for hver Dag i <lb/>
+mit offentlige Liv, og om jeg nogen Gang ved uforbeholden Ærlighed <lb/>
+mod min Villie maatte have foranlediget Deres Majestæts Utilfredshed, <lb/>
+beder jeg det naadigst tilgivet og glemt.</p>
+               <p xml:id="p5">	Efter 28 Aars Fraværelse, stunder jeg nu som Olding, for en <lb/>
+kort Tid tilbage til mit rette jordiske Hjem, hvor jeg vil fornye og <lb/>
+bevare Mindet om de svundne Dage, om Deres Majestæts Naade, og til <lb/>
+Forsynet opsende mine Bønner for Deres Majestæt, for Hendes Majestæt, <lb/>
+min elskelige Dronning, og det hele Kongelige Huus.</p>
+               <p xml:id="p6">	Mig og de mine tillader jeg mig at anbefale til Deres Majestæts <lb/>
+naadige Beskyttelse. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 22de Mai 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

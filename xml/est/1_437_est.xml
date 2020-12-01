@@ -1,0 +1,93 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>437</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. mars 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. mars 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 5te denne Maaned, <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+6te, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p xml:id="p2">	Med megen Bekymring har jeg erfaret Hans Kongelige Høihed <lb/>
+Arvprindsens Sygdom og ønsker til Gud, at Dagens Post maa bringe bedre <lb/>
+Efterretninger. I Haab herom, har jeg indbuden til en Bal den 14de, <lb/>
+for at feire Hendes Majestæt Dronningens høie Fødselsdag, hvortil jeg <lb/>
+tillader mig at nedlægge min underdanige og hjertelige Lykønskning.</p>
+               <p xml:id="p3">	Med Morgenposten vil Regjeringnes underdanigste Indstilling om <lb/>
+følgende Avancement i Marinen afgaae: Til Contre-Admiral, Commandeur <lb/>
+Capitaine Hesselberg; til Commandeur Capitaine Capitaine Klinck; til <lb/>
+Capitaine Capitaine Lieutenant Hagerup.</p>
+               <p xml:id="p4">	Ved sidste Avancement bifaldt Deres Majestæt ikke en lignende <lb/>
+underdanigst Indstilling for Capitaine Klinck, som derved fik en  <lb/>
+formeentlig vel fortjent for sig og Cammerader gavnlig Advarsel og Straf, <lb/>
+for en mindre tactmæssig Conduite; men herved formenes Hensigten  <lb/>
+opnaaet, Brøden afsonet, og jeg tillader mig nu underdanigst at udbede <lb/>
+Deres Majestæts Naade for Capitaine Klinck.</p>
+               <p xml:id="p5">	Under denne Indstillings Circulation blandt Regjeringens Medlemmer, <lb/>
+foreslog Statsraad Bloch, at man, ved at indstille Hesselberg <lb/>
+til Contre-Admiral, tillige vilde underdanigst indstille til Deres <lb/>
+Majestæt, naadigst at udnævne Statsraad Erichsen til samme Værdighed <lb/>
+foran Hesselberg, – hvori alle Statsraader vare enige undtagen  <lb/>
+Statsraad Vogt, ikke fordi han har noget mod Erichsen, men fordi han ikke <lb/>
+har Begreb om militaire Forholde og saaledes ikke kan indsee det Upassende <lb/>
+i, at en Officier i en inferieur Grad fører den høieste Commando. <lb/>
+Jeg erklærede mig med de øvrige enig i Statsraad Blochs Forslag, <lb/>
+om det kunde blive indstillet <hi rend="underline">uden Dissents</hi>; men da Statsraad Vogt <lb/>
+ikke vilde frafalde denne, fraraadede jeg den paatænkte Indstilling, <lb/>
+fordi jeg holder mig overbeviist om, at Deres Majestæt uden denne, <lb/>
+naadigst vil ved denne Leilighed udnævne Statsraad Erichsen til Contre- <lb/>
+Admiral foran Hesselberg. Jeg formener det bedre, at Deres Majestæt <lb/>
+afgiver naadigst Resolution herom af egen Drift, end efter en Regjerings- <lb/>
+Indstilling med Dissents.</p>
+               <p xml:id="p6">	Vinteren har alt for tidlig forladt os, thi vi tiltrænge endnu <lb/>
+høielig Snee og formodentlig kommer Vinteren tilbage, naar vi ønske <lb/>
+Foraar. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te Marts 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>155</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 24. september 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 24. september 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var skrevet i Kjøbenhavn den 13de <lb/>
+denne Maaned.</p>
+               <p xml:id="p2">	Den 14de begav jeg mig til Baroniet Løvenborg, hvor jeg, som for <lb/>
+Tiden caput familias, efter 28 Aars Forløb, havde den Glæde at forefinde <lb/>
+en værdig yngre Generation, en fornuftig og dygtig Stamherre, med <lb/>
+50,000 Rigsbankdalers aarlig Indkomst og lykkelige Undergivne. Denne <lb/>
+skjønne Familie Eiendom er bleven opretholdt, fordi den fra Arrilds Tid <lb/>
+har været Stamhuus, fideicomis, medens min Slægts store norske Eiendomme, <lb/>
+                  <hi rend="underline">som ikke vare det</hi>, i samme Tidsrum ere blevne adsplittede, med <lb/>
+Undtagelse endnu af Fossum. Nutidens Radicale ville tilintetgjøre denne <lb/>
+for Slægter og Stater lige velgjørende Stabilitet og da de ikke kunne <lb/>
+gjøre Alle rige, ville de gjøre alle fattige! dette kan opnaaes!</p>
+               <p xml:id="p3">	Den 16de begav jeg mig til General Oxholm paa Taarnborg, den 18de <lb/>
+til Hans Excellence Greve Otto Moltke paa Espe, som forlod sin  <lb/>
+Statsminister Post, fordi Kong Christian den 8de mod hans Raad udnævnte  <lb/>
+Prindsen af Augustenborg til Statholder i Hertugdømmerne. Dette Raad var  <lb/>
+dog ikke ilde!</p>
+               <p xml:id="p4">	Den 19de reiste jeg til Hans Excellence Greve Gebhard Moltke paa <lb/>
+Glorup i Fyhn, samme Dags Aften til min nær beslægtede Grev Reventlow <lb/>
+paa Brahe-Trolleborg. Den 20de indskibede jeg mig i Nyborg, den 22de <lb/>
+landede jeg velbeholden i Christiania.</p>
+               <p xml:id="p5">	Paa Glorup Herregaard forefandt jeg indqvarteret Oberstlieutenant <lb/>
+Nordenfeldt med 12 Officierer og 44 Underofficierer og Menige af Elfsborgs <lb/>
+Regemente, som Alle forpleiedes rundelig af Eieren. Almindelig  <lb/>
+Tilfredshed, med Deres Majestæts Tropper i Fyhn erfarede jeg af Herremænd, <lb/>
+som af Bønder. Jeg har gjennemreist en stor Deel af Sjælland og en Deel <lb/>
+af Fyhn. Overalt har jeg funden store Fremskridt, Velstand og Lykke, som <lb/>
+Nutidens Radicale Politikere, <hi rend="underline">der</hi>  som i andre Lande, snart vil bringe af <lb/>
+Dynen i Halmen. Agitatorer gjennemkrydse Landet, for under Navn af  <lb/>
+Bondevenner, at vinde og opægge den nu lykkelige Bondestand for Reformer, <lb/>
+som Godseierne af alle Stænder og andre modsee med Frygt og Grue.  <lb/>
+Dannemarks Konger og Magnater have længe været Bondens sande Venner. <lb/>
+Høsten har i Dannemark været velsignet.</p>
+               <p xml:id="p6">	Deres Majestæts Besvær og Opoffrelser for Danmark paaskjønnes <lb/>
+taknemmelig af Høie og Lave, af det hele danske Folk. Som Beviis paa  <lb/>
+Opmærksomhed for Deres Majestæt tillader jeg mig at bemærke, at Hans danske <lb/>
+Majestæt paa Frederiksborg ikke bar nogen anden Decoration end Seraphims <lb/>
+Ordenen. Her hjemme, har jeg, Gud være lovet! funden Alt vel, og tør <lb/>
+jeg ogsaa antage, at Kornhøsten her har været meget god.</p>
+               <p xml:id="p7">	Ved at passere Horten havde jeg en Samtale med Capitaine Erichson, <lb/>
+for at meddele ham Deres Majestæts naadige Tilbud om som Statsraad at <lb/>
+overtage Marine Departementet. Han modtog dette naadige Tilbud med dyb <lb/>
+Taknemmelighed; men udbad sig nogle Dages Betænkning, hvorefter jeg vil <lb/>
+afgive underdanigst Rapport.</p>
+               <p xml:id="p8">	Statsraad Krog har meddeelt mig, at Kirke Departementet har indstillet <lb/>
+Præsten Harbitz til at gaae tilbage til sit forrige Embede, hvortil <lb/>
+han yttrede <hi rend="underline">ugjerne</hi>  at have givet sin Stemme. Jeg vover at bede Deres <lb/>
+Majestæts naadige Resolution udsat, indtil jeg, efterat have gjort mig <lb/>
+bekjendt med Indstillingen, har havt Anledning til derom underdanigst <lb/>
+at yttre mig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName> den 24 September 1848.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 24. september 1848</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Postscriptum!</head>
+               <p xml:id="p9">	Jeg tillader mig underdanigst at fremsende mit hjertelige Ønske <lb/>
+for Hans Kongelige Høihed Prinds Gustavs Helbredelse, hvorom jeg med stor <lb/>
+Længsel modseer Underretning.</p>
+               <closer>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.</salute>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

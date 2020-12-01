@@ -1,0 +1,86 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>450</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. juni 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. juni 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 28de forrige Maaned.</p>
+               <p xml:id="p2">	Den 29de forrige Maaned kom Statsraad Stang tilbage fra sin <lb/>
+udenrigske Reise, uden, efter hans eget Sigende, deraf at have opnaaet <lb/>
+nogen synderlig Forbedring for sin Helbred, saa at han ganske vel <lb/>
+endnu tiltrænger den ham naadigst forundte Tjenstledighed til denne <lb/>
+Maaneds Udgang. Derefter skulde han egentlig overtage Indre <lb/>
+Departementets Bestyrelse indtil han i August Maaned efter Tour skal <lb/>
+tiltræde Statsraads-Afdelingen i Stockholm; men han befrygter, at hans <lb/>
+endnu svage Kræfter vilde gjøre ham Departements Bestyrelsen meget <lb/>
+besværlig, og han ønsker derfor, at maatte blive naadigst dispenseret <lb/>
+derfra.</p>
+               <p xml:id="p3">	Jeg deler denne Statsraad Stangs Anskuelse og anseer det mere <lb/>
+stemmende med Tjenestens Tarv, at Statsraad Bretteville for Tiden <lb/>
+uafbrudt beholder Indre-Departementets Bestyrelse, end at han den <lb/>
+1ste Julii skulde overdrage den til Stang og, naar denne efter 5 à <lb/>
+6 Uger senere skulde afgaae til Stockholm, atter maatte overtage den.</p>
+               <p xml:id="p4">	Jeg formener det saaledes stemmende saavel med Tjenestens som <lb/>
+med Statsraad Stang's Tarv, at Deres Majestæt naadigst vil tillade <lb/>
+ham at tiltræde Statsraads Afdelingen i Stockholm noget tidligere <lb/>
+end sædvanlig, og tillader mig fra denne Synspunkt underdanigst at <lb/>
+indstille: at Deres Majestæt i første norske Statsraad naadigst vil <lb/>
+befale, at Statsraad Petersen, i Slutningen af Junii eller Begyndelsen <lb/>
+af Julii Maaned skal begive sig hid og overtage Justits Departementets <lb/>
+Bestyrelse, at Statsraad Stang paa samme Tid skal begive sig <lb/>
+til Stockholm og tiltræde den norske Statsraads Afdeling og at Statsraad <lb/>
+Vogt fra den Tid Statsraad Petersen overtager Justits Departementet, <lb/>
+skal overtage Finants Departementets Bestyrelse.</p>
+               <p xml:id="p5">	I denne min Anskuelse ere de her vedkommende Statsraader Vogt, <lb/>
+Stang og Bretteville enige, ligesom jeg har Grund til at antage, at <lb/>
+den ikke vil møde nogen Indvending af Statsraad Petersen. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste Junii 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

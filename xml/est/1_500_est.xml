@@ -1,0 +1,100 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>500</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 29. april 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 29. april 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 22de, har jeg havt <lb/>
+den Lykke at modtage Deres Majestæts naadige Skrivelse af 19de,  <lb/>
+hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p xml:id="p2">	Jeg veed at paaskjønne Deres Majestæts naadige Yttringer om min <lb/>
+Embedsførelse og jeg modtager dem med underdanigst Taknemmelighed og <lb/>
+med oprigtig Ydmyghed, vel vidende, at de mere maa tilskrives Deres <lb/>
+Majestæts naadige Overbærelse end min Fortjeneste.</p>
+               <p xml:id="p3">	Naar jeg tillod mig saa tidlig at udbede Deres Majestæts<hi rend="underline">naadige</hi>
+                  <lb/>
+                  <hi rend="underline">Bifald</hi>  til min Afskeed, som jeg ikke ønsker at benytte før i <lb/>
+anstundende September Maaned, saa var det deels af Pligtfølelse mod <lb/>
+Deres Majestæt, deels paa Grund af den Nødvendighed for mig, allerede <lb/>
+                  <hi rend="underline">nu</hi>, at tage mine Forholdsregler for den kommende Vinter, <hi rend="underline">hvorved jeg</hi>
+                  <lb/>
+                  <hi rend="underline">vil blive bunden</hi>, fordi disse Forberedelser i den ene eller anden <lb/>
+Retning, <hi rend="underline">ikke kunne udsættes</hi>. Jeg regnede derhos paa, at faae den  <lb/>
+Lykke at opvarte Deres Majestæt her, forinden den angivne Tid, og dette <lb/>
+Haab vil jeg ikke opgive.</p>
+               <p xml:id="p4">	Da de Meddelelser, som stykkeviis gaves i offentlige Blade om <lb/>
+Storthingets Lovcommission og dens Medlemmer, lettelig kunde forvilde <lb/>
+den offentlige Mening, foranledigede jeg, til dens Berigtigelse, en <lb/>
+Artikel indført i Christiania Posten, som jeg tillader mig underdanigst <lb/>
+at vedlægge.</p>
+               <p xml:id="p5">	Aarstiden har i sidste Uge virket saa uventet pludselig paa <lb/>
+Haviisen, at den paa det Nærmeste er forsvunden og Adgangen til <lb/>
+Havnen aaben for Skibsfarten.</p>
+               <p xml:id="p6">	Anstundende 3die Mai, Hans Kongelige Høihed Kronprindsens høie <lb/>
+Fødselsdag, agter jeg at feire ved en større Middag.</p>
+               <p xml:id="p7">	Vi behandlede i Statsraadet i Gaar en Gjenstand af stor Interesse <lb/>
+for dette Land, som vil blive Deres Majestæt underdanigst forelagt.  <lb/>
+2de Forstcandidater, – Meydell og Barth, som ved Hjelp af <lb/>
+Stipendier, have i nogle Aar erhvervet theoretisk og practisk Kundskab  <lb/>
+om det fortrinlige tydske Forstvæsen, synes at have anvendt sin <lb/>
+Tid vel, – og vi ville underdanigst indstille, at de nu maa undersøge <lb/>
+Landets Skove, derom give Indberetning og foreslaae hvad der fra <lb/>
+Regjeringens Side maa kunne gjøres, for endnu i den 11te Time at <lb/>
+standse Skovødelæggelsen og tilveiebringe en rational Skovhuusholdning.</p>
+               <p xml:id="p8">	Jeg har med megen Interesse læst de unge Mænds Indberetning om <lb/>
+Skovhuusholdningen i de tydske Stater, som jeg for 62 Aar tilbage har <lb/>
+besøgt i samme Hensigt som de; men jeg maa desværre erkjende de store <lb/>
+Vanskeligheder hos os, mod at indføre en bedre Huusholdning. De  <lb/>
+fleste Skove eies af Bønder, som sjelden ville gjøre noget for <lb/>
+Efterkommerne, fordi disse Intet have kundet gjøre for dem. Noget vil <lb/>
+forhaabentlig dog kunne udrettes og det er paa høieste Tid. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 29de April 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

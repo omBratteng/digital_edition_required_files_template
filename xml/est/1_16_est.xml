@@ -1,0 +1,121 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>16</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. oktober 1844</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. oktober 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Uagtet jeg tillod mig at tilstille Deres Majestæt en underdanigst <lb/>
+Rapport den 18de dennes, troer jeg dog at burde benytte Dagens Post <lb/>
+til at henlede Deres Majestæts naadigste Opmærksomhed paa en med denne <lb/>
+afgaaende Regjeringsindstilling, foranlediget ved at Forslag fra <lb/>
+Finantsdepartementets Chef, om at Svenske skulde gives Adgang og Rettighed <lb/>
+til at deeltage i den norske Kystfart og Norske i den svenske.</p>
+               <p xml:id="p2">	Den indenrigske Kystfart (cabottage) har i Norge som i andre Lande <lb/>
+stedse været forbeholdt Landets egne Søefarende, for hvilke den udgjør <lb/>
+en vigtig Næringskilde, der visselig vilde lide meget ved de Svenskes <lb/>
+Deeltagelse og Concurrence. Fra denne Synspunct har en stor Majoritet <lb/>
+af de Authoriteter, som have været hørte om Gjenstanden, saa vel <lb/>
+som Christianias respectableste Handelshuse, hvis Formening jeg privatim <lb/>
+har indhentet, paa det Kraftigste erklæret sig mod Statsraad Vogts <lb/>
+Forslag. Da Regjeringens samtlige øvrige Medlemmer dele denne Anskuelse, <lb/>
+at Forslagets Iværksættelse vilde indvirke skadeligt paa de norske <lb/>
+Kystboeres Næring og Velvære, og opvække almindelig velgrundet Utilfredshed, <lb/>
+have vi underdanigst indstillet: at Deres Majestæt ikke vil <lb/>
+bifalde Finants Departementets ommeldte Forslag; hvilken Regjeringens <lb/>
+Indstilling jeg tillader mig underdanigst at anbefale. –</p>
+               <p xml:id="p3">	For ikke oftere end nødvendig at besvære Deres Majestæt, tillader <lb/>
+jeg mig at benytte Leiligheden til underdanigst at berøre en Gjenstand, <lb/>
+hvorom Regjeringens underdanigste Indstilling vil afgaae med <lb/>
+næste Post.</p>
+               <p xml:id="p4">	En Sognepræst Sang, 68 Aar gammel med 41 Aars Tjenestetid i geistlige <lb/>
+Embeder, ansøger underdanigst at Deres Majestæt naadigst vil udnævne <lb/>
+hans Stedsøn Candidatus Theologiae Timmerman til hans personelle <lb/>
+Capellan, for i hans Alderdom og Svagelighed at være ham behjælpelig <lb/>
+ved hans Embedes Bestyrelse. Dette Andragende er paa det bedste <lb/>
+anbefalet af Supplicantens foresatte Provst og Biskop.</p>
+               <p xml:id="p5">	Regjeringens Pluralitet har indstillet Ansøgningen til Afslag, fordi <lb/>
+der gives ledige Capellaner, der som saadanne bør have Fortrin til <lb/>
+Ansættelse, men Notabene dette Fortrin er ikke forundt de ledige Capellaner <lb/>
+ved Lov, men ved Kongelige Resolutioner som almindelig Regel, <lb/>
+hvorfra Hans Majestæt kan dispensere, og Høistsalig Kongen havde sædvanlig <lb/>
+den Naade, at forunde en til Medhjælp trængende Præst en Søn <lb/>
+til Capellan, uagtet der gaves ledige Capellaner. Da saadan Kongelig <lb/>
+Naade formentlig er stemmende med Billighed vedkommende Menigheds og <lb/>
+Præsts Tarv, tillader jeg mig i dette og lignende Tilfælde underdanigst <lb/>
+at udbede den af Deres Majestæt.</p>
+               <p xml:id="p6">	Den i Aaret 1818 bevilgede af Hans Majestæt bifaldte Civilliste <lb/>
+for det Kongelige Huus, er senere uden videre Forespørgsel bleven befulgt <lb/>
+af Regjeringen i Indstillingerne til Budgettet, af Hans Majestæt <lb/>
+og af Storthingene uden Diskussion bifaldt. I benævnte Aar 1818 bevilgedes <lb/>
+til H. M. Kongen 64,000 Spd, til H. K. H. Kronprindsen 32,000 Spd., <lb/>
+Appanage til H. M. den daværende Enkedronning 16,000 Spd., tilsammen <lb/>
+112,000 Spd. –</p>
+               <p xml:id="p7">	Paa Grund af det nu indtrufne Tronskifte og forandrede Omstændigheder, <lb/>
+vil Regjeringen finde sig forpligtet til snarlig om denne Gjenstand <lb/>
+at indhente Deres Majestæts naadigste Befaling, og da jeg ønsker <lb/>
+Sagen behandlet med en passende Tact og overeensstemmende med Deres  <lb/>
+Majestæts Ønske, tillader jeg mig underdanigst derom at udbede mig Deres <lb/>
+Majestæts naadigste foreløbige Befaling snarest muligt meddeelt. Da <lb/>
+jeg ikke gjør Nogen bekjendt med at have indhentet denne, vil jeg kun <lb/>
+ansee den, enten blot som en naadig Veiledning for mig, eller bestemt <lb/>
+til fortrolig Meddelelse til Regjeringen øvrige Medlemmer, i hvilken <lb/>
+Henseende jeg ogsaa tør imødesee Deres Majestæts naadigste Befaling.</p>
+               <p xml:id="p8">	Slutteligen tillader jeg mig underdanigst at bemærke at Regjeringen <lb/>
+neppe kan finde sig foranlediget til at foreslaae nogen Formindskelse  <lb/>
+i ovenciterede Bestemmelser; thi Rigets Ressourcer ere Gud skee <lb/>
+Tak ikke senere formindskede, men den Kongelige Familie er forøget. For <lb/>
+saa vidt man vilde gjøre Sammenligning med hvad for Sverige vil blive <lb/>
+bestemt, maa det bemærkes, at dette Rige foruden Civillisten yder det <lb/>
+Kongelige Huus ikke ubetydelige Naturalpræstationer, som Norge destoværre  <lb/>
+ikke for Tiden kan byde. – <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de October 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

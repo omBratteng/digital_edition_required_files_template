@@ -1,0 +1,183 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>480</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 28. desember 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 28. desember 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Den norske Regjerings til Følge Deres Majestæts naadige Befaling <lb/>
+afgivne Indberetning om Alt hvad der behøves, for at sætte den <lb/>
+norske Armee <hi rend="underline">i marschfærdig Stand</hi>, vil blive afsendt i en hemmelig <lb/>
+Protocol med Morgendagens Post, tilligemed en lignende Indberetning <lb/>
+om hvad der behøves, til Søeforsvarets <hi rend="underline">Udrustning</hi>. Disse Indberetninger <lb/>
+ere grundede paa de af de 2de militaire Departementschefer og <lb/>
+Høistbefalende meddeelte Oplysninger og Beregninger, til hvis Bedømmelse <lb/>
+Regjeringens øvrige Medlemmer mangle de nødvendige Fag- og Sagkundskaber, <lb/>
+og forsaavidt, <hi rend="underline">uden disse</hi>, Bemærkninger maatte kunne gjøres, <lb/>
+levnede den for Indberetningens Afgivelse bestemte Termin, ikke <lb/>
+den til Granskning for Usagkyndige nødvendige Tid.</p>
+               <p xml:id="p2">	Af disse Indberetninger vil Deres Majestæt naadigst erfare, at <lb/>
+der foruden de af Storthinget bevilgede Summer, blot til at sætte  <lb/>
+Armeen <hi rend="underline">i marschfærdig Stand</hi>, udfordres 1,200,000 Speciedaler og til  <lb/>
+Søeforsvarets <hi rend="underline">første Udrustning</hi>  omtrent 200,000 Speciedaler. Til disse <lb/>
+overordentlige Udgifter er af det nylig opløste Storthing Intet  <lb/>
+begjært og altsaa Intet bevilget, hvorimod Storthinget bevilgede de af <lb/>
+Deres Majestæt til <hi rend="underline">Neutralitetens Opretholdelse</hi>  begjærte 300,000 <lb/>
+Speciedaler, og derhos har bestemt og bevilget alle Statens øvrige  <lb/>
+Udgifter for de følgende 3 Aar.</p>
+               <p xml:id="p3">	Udenfor hvad der saaledes af Storthinget er bevilget, er Regjeringen <lb/>
+ikke berettiget til at disponere over Statens Midler, og om <lb/>
+mere eller andet end det bevilgede udfordres, vil et overordentligt <lb/>
+Storthings Sammenkaldelse være det eneste Middel, hvorved saadant kan <lb/>
+                  <hi rend="underline">forsøges</hi>  opnaaet, men om Regjeringen kan tillade sig underdanigst at <lb/>
+tilraade dette Middels Anvendelse, maa formeentlig dependere af, om <lb/>
+og hvor vidt man kan vente; at Forsøget vil lykkes, i Mangel af hvilket <lb/>
+Storthingets Sammenkaldelse kunde have saare betænkelige Følger.</p>
+               <p xml:id="p4">	Herom føler jeg mig forpligtet til foreløbig underdanigst at <lb/>
+yttre mig ærlig og uforbeholdent.</p>
+               <p xml:id="p5">	Politiske Sympathier og Antipathier give sig gjerne og let tilkjende, <lb/>
+saa længe de kunne udtrykkes med Ord, med Pen og Blæk, med <lb/>
+Tryksværte; men de træde snart tilbage, naar de skulle bekræftes med <lb/>
+Opoffrelse af Penge og Liv, som Mennesket længst muligt ønsker at spare <lb/>
+og bevare. Da forsvinde Følelserne og man spørger: "er det uundgaaeligt <lb/>
+nødvendigt at opoffre Liv og Velfærd, for at beholde en uafhængig <lb/>
+Tilværelse? Om dette Spørgsmaal ikke kan besvares bejaende, <lb/>
+vil man naturligviis foretrække at beholde Freden med dens Velsignelser, <lb/>
+fremfor at udsætte dette for Staten største Gode for Fare og Tab.</p>
+               <p xml:id="p6">	De af Deres Majestæt antydede Rustninger hentyde ikke paa Fred; <lb/>
+men paa Krig; de ville blive saaledes forstaaede inden- og udenrigs <lb/>
+og ville ikke levne nogen Tvivl om, <hi rend="underline">mod hvem</hi>  de ere rettede. Hvor <lb/>
+megen Antipathie i Tale og Skrift der end mod denne "Hvem", nemlig <lb/>
+Rusland, er bleven yttret, saa vil denne Antipathie dog uden Tvivl <lb/>
+forstumme, naar den skal bekræftes med de største Opoffrelser.</p>
+               <p xml:id="p7">	Storthinget vil spørge, om Rusland i den senere Aarrække virkelig <lb/>
+har fornærmet Deres Majestæts forenede Riger eller fordret noget <lb/>
+af dem, som ikke kan indvilges, uden at krænke deres Ære eller  <lb/>
+Selvstændighed. Mig vitterlig kan dette Spørgsmaal ingenlunde besvares <lb/>
+bekræftende, og <hi rend="underline">Formodninger</hi>  om Ruslands fiendtlige <hi rend="underline">Hensigter</hi>  kan ikke <lb/>
+gjælde som Handlinger. Mig vitterlig har saaledes Rusland ikke  <lb/>
+foranlediget, mindre provoceret Krig.</p>
+               <p xml:id="p8">	Ruslands forenede Fienders Fordring paa Deres Majestæts <lb/>
+Medvirkning, paa Opoffrelse af de forenede Rigers Fred og Velvære, paa <lb/>
+de uberegnelige med Krig forbundne Offre, uden anden Grund end disse <lb/>
+Magters Villie, kan ikke fyldestgjøres uden med Opoffrelse af Rigernes <lb/>
+Selvstændighed og Uafhængighed. Det vilde være oprørende om 2de <lb/>
+krigførende Magter kunde tvinge en 3die selvstændig Magt til Krig, <lb/>
+uden anden gyldig Grund end deres Villie; Deres Majestæts Rigers <lb/>
+Selvstændighed og Uafhængighed vilde derved blive opoffret.</p>
+               <p xml:id="p9">	Om saadant indrømmedes, vilde den Stærkeres Ret indtræde i Europa <lb/>
+istedetfor civiliserede Nationers Folkeret.</p>
+               <p xml:id="p10">	Jeg kan ikke troe, at Storthinget vil erkjende, at Rusland har <lb/>
+givet Deres Majestæt tilstrækkelig Grund til Krig, eller at det vil <lb/>
+finde en saadan i fremmede Regjeringers Ønske; jeg vil ikke troe, at <lb/>
+dette Ønske vil overgaae til Fordring, om det mødes med en uafhængig <lb/>
+Monarks Værdighed og Bestemthed, thi dette kan ikke skee, uden at <lb/>
+gjøre Brud paa Folkeretten, og for denne have endog civiliserede  <lb/>
+Regjeringer dog endnu nogen Respect.</p>
+               <p xml:id="p11">	For at bevæge Storthinget til de paatænkte Bevilgninger, maatte <lb/>
+Deres Majestæt meddele dette de Grunde, de Anskuelser, som foranledige <lb/>
+til at fordre dem, hvilket vilde være lig en Krigserklæring, thi <lb/>
+hvad der meddeles et Storthing eller et hemmeligt Utskott, maa ansees <lb/>
+som publiceret i Europa.</p>
+               <p xml:id="p12">	Da jeg ikke kan troe, at de Oplysninger, de Anskuelser, som <lb/>
+maatte meddeles Storthinget, vilde bevæge dette til at bevilge meget <lb/>
+betydelige Summer til Krig, da saadan Meddelelse kan have meget  <lb/>
+betænkelige Følger, kan jeg ikke finde det tilraadeligt i denne Anledning  <lb/>
+for Tiden at sammenkalde et overordentligt Storthing og beder i <lb/>
+alle Fald underdanigst, at Deres Majestæt ikke herom vil afgive nogen <lb/>
+Beslutning uden at have indhentet den Norske Regjerings underdanigste <lb/>
+Betænkning.</p>
+               <p xml:id="p13">	Jeg maa vel indrømme, at enhver Armee burde være i en nogenlunde <lb/>
+marschfærdig Stand, og at den norske Armée, efter hvad der nu er <lb/>
+oplyst, er langt fra at være det. Jeg formener derfor at det bør haves <lb/>
+for Øie, at afhjelpe de stedfindende Mangler og jeg troer, at det <lb/>
+sidste Storthing dertil vilde have rakt en villig Haand, om de nu  <lb/>
+oplyste Mangler var bleven det meddeelt; men da dette beklageligviis <lb/>
+ikke skeet, formener jeg, at Øieblikket, for at faae Manglerne afhjulpne <lb/>
+af et overordentligt Storthing, er høist ugunstigt, fordi de samme <lb/>
+Mangler allerede existerede, forinden Storthinget blev opløst, og fordi <lb/>
+det neppe vil være muligt at motivere Nødvendigheden af at afhjelpe <lb/>
+Manglerne <hi rend="underline">mere nu</hi>
+                  <hi rend="underline">end da</hi>, uden at compromittere Deres Majestæts <lb/>
+Politik og Statens høieste Tarv.</p>
+               <p xml:id="p14">	Forinden jeg forlader denne vigtige Gjenstand, tør jeg tillade <lb/>
+mig underdanigst at fremføre en Bemærkning, som dermed staaer i  <lb/>
+Forbindelse.</p>
+               <p xml:id="p15">	Man har sagt: "at medens tilforen Souverainerne vare krigslystne, <lb/>
+saa er det nu Folkene". Jeg troer virkelig ikke, at nogen af Europas <lb/>
+nuregjerende Souverainer er krigslysten. Saa proclamerede t.E. <lb/>
+de Franskes Keiser kort efter sin Regjerings Tiltrædelse, som sit <lb/>
+Program: "L'empire c'est la paix", og jeg troer, at enhver Souverain <lb/>
+gjerne vil anvende dette paa sin Regjering; men jeg troer derhos, <lb/>
+at det beroer paa en Illusion, naar man nu formener Folkene mere <lb/>
+krigslystne end tilforen.</p>
+               <p xml:id="p16">	Om Deres Majestæt kunde spørge Sit Svenske og Norske<hi rend="underline">Folk</hi>, da <lb/>
+vilde de løfte sine velsignende og bedende Hænder, takke for den Fred, <lb/>
+som Deres Majestæts Viisdom hidtil har bevaret dem, bede om, at maatte <lb/>
+beholde den. Det er ikke Folket, som i offentlige Blade daglig fører <lb/>
+det krigslystne Sprog, men det er Tidningsskrivere, som uden Hjemmel <lb/>
+gerere sig som Folkets Ordførere og Talsmænd. Disse, som Intet <lb/>
+have at tabe, men Alt at vinde; hvis fordærvelige Næring florerer <lb/>
+bedst under Omvæltninger, bestræbe sig utrættelig for at fremkalde <lb/>
+dem og Alt hvad de trykke, troes af den store Mængde. <hi rend="underline">De bedrage Fyrster</hi>
+                  <lb/>
+                  <hi rend="underline">og Folk</hi>, de af- og indsætte Regjeringer, og deres Stemme har en <lb/>
+mægtig Indflydelse paa Krig eller Fred. De trykke de groveste Løgne, <lb/>
+                  <hi rend="underline">uden at de modsiges</hi>  eller berigtiges. – Saa debiterer et Christiania <lb/>
+Blad i disse Dage, at Keiseren af Rusland er grusom nok til at forbyde <lb/>
+Tilførsel til Finmarken, uagtet det er vitterligt, at Forbudet udgaaer <lb/>
+fra de saa kaldte civiliserede Regjeringer. Christiania Posten <lb/>
+optager <hi rend="underline">uden nogensomhelst Bemærkning</hi>  en Artikel af et engelsk Blad, <lb/>
+hvori det fortælles, at Foreningsdagen feiredes her, ikke for at vise <lb/>
+Sympathie for Broderfolket, for Foreningen, men for at vise Sympathie <lb/>
+for Vestmagterne og for en Alliance med dem. Saadanne Løgne modsiges <lb/>
+ikke; de troes og de gjøre sin tilsigtede Virkning! </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28de December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>189</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 26. april 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 26. april 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 22de denne Maaned.</p>
+               <p xml:id="p2">	Den 24de havde jeg den Ære at feire Hendes Kongelige Høihed <lb/>
+Prindsesse Eugenies høie Fødselsdag ved en Bal med hjertelige Ønsker <lb/>
+for Hendes Kongelige Høiheds Velvære.</p>
+               <p xml:id="p3">	I Paavente af hvad Deres Majestæt muligen vilde befale i Anledning <lb/>
+af min underdanigste Indberetning af 25de forrige Maaned betræffende <lb/>
+Generaladjutants Postens Besættelse, har Regjeringen udsat sin underdanige <lb/>
+Indstilling herom; men som nu er expederet da jeg ikke senere <lb/>
+herom har modtaget nogen naadig Befaling. Om Deres Majestæt naadigst <lb/>
+vilde have udnævnt Oberst Mansbach, vilde Regjeringen eenstemmig have <lb/>
+indstillet ham; men da dette ikke er Tilfældet og han derhos, i Mangel <lb/>
+heraf indstændig har frabedet sig at blive indstillet, saa er han ikke <lb/>
+nævnt.</p>
+               <p xml:id="p4">	Statsraad Erichsen, som i dette Tilfælde fungerende Chef for Armee- <lb/>
+departementet, har indstillet som No 1 Generalmajor Meydell No 2  <lb/>
+Oberstlieutenant Sørenssen No 3 Ingenieur Capitaine Irgens, hvilken  <lb/>
+Indstilling jeg for mit Vedkommende har tiltraadt. Regjeringens øvrige <lb/>
+Medlemmer ere enige om No 1, hvorimod Stemmerne ere ulige om No 2 og 3.</p>
+               <p xml:id="p5">	Min Anskuelse om General Meydell har jeg tidligere tilladt mig <lb/>
+underdanigst at meddele; men mine Betænkeligheder ere ikke tilstrækkelige <lb/>
+til at fraraade hans Udnævnelse, under hans iøvrigt formelle og i <lb/>
+flere Henseender reelle militaire Qvalification, hvorhos jeg har Grund <lb/>
+til at troe, at hans Udnævnelse vil være behagelig for Armeen.</p>
+               <p xml:id="p6">	Med Dagens Post afgaaer underdanigst Indstilling om Afsked i Naade <lb/>
+for Amtmanden i Hedemarken, Heidemann, den han nylig har begjært.</p>
+               <p xml:id="p7">	Han har tjent i 52 Aar, hvoraf 27 Aar som Amtmand og er i en Alder <lb/>
+af nær 72 Aar. Hans Forhold har stedse været hæderligt, hvorfor han <lb/>
+i sin store Amtscommune er agtet og elsket. Med et udmærket godt Hoved <lb/>
+har han stedse viist en særdeles Dygtighed i skrivende Forretninger, <lb/>
+hvorimod man hos ham har savnet den Virksomhed i den udvortes Styrelse, <lb/>
+som hos en Amtmand er ønskelig og nødvendig. Fra denne Synspunkt tillader <lb/>
+man sig ikke at indstille Amtmand Heidemann til særskilt Bevidnelse <lb/>
+af Deres Majestæts naadige Tilfredshed, hvortil han iøvrigt kunde <lb/>
+være vel fortjent paa Grund af hans lange og troe Tjeneste, hvorimod <lb/>
+jeg herfor og for hans statsborgerlige Fortjenester tillader mig  <lb/>
+underdanigst at udbede, at Deres Majestæt ved hans Forafskedigelse vil <lb/>
+benaade ham med St Olafs Ordenens Commandeur Kors, som især i Hedemarken <lb/>
+vil blive meget paaskjønnet.</p>
+               <p xml:id="p8">	I Bergens Bye er i de 11 sidste Døgn til 21de dennes intet nyt <lb/>
+Tilfælde af Cholera indtruffet: de 5 tilbageliggende Syge ere alle <lb/>
+helbredede. I Stavanger anmeldtes fra 15de til 20de April intet nyt <lb/>
+Tilfælde. 7 ligge under Behandling.</p>
+               <p xml:id="p9">	I Landdistricterne findes kun nogle faae Syge, der næsten alle <lb/>
+ere i god Bedring.</p>
+               <p xml:id="p10">	Forøvrigt findes ikke Cholera nogensteds i Landet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 April 1849. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

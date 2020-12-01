@@ -1,0 +1,67 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>98</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. april 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. april 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p xml:id="p2">	Ifølge Deres Majestæts naadige Befaling af 5te har jeg meddeelt Admiral Petersen Deres Majestæts Utilfredshed over, at han har foreslaaet Capitainlieutenant Sigholdt til Chef for et Fartøi, som gjør ham meget ondt. Admiralen anfører til sin Undskyldning, at han ikke ansaa sig berettiget til ved denne Leilighed at forbigaae den nævnte Officier, paa Grund af blotte Rygter uden nogetsomhelst Beviis. Imidlertid meddeelte Admiralen mig, at Sigholt senere har meldt sig syg og at han i hans Sted underdanigst har foreslaaet Premier-Lieutenant Steenstrup til den omhandlede Chefs-Post. Fra anden Haand veed jeg, at Sigholts Sygdom er foranlediget ved hans Cammaraders almindelige Utilfredshed over hans Udnævnelse til den omnævnte Chefspost, som skal være af den Beskaffenhed, at den neppe nogensinde vil tilstede ham Adgang til activ Tjeneste.</p>
+               <p xml:id="p3">	Jeg deler Deres Majestæts Anskuelse, at man først efter Skibsfartens Aabning vil med mere Sikkerhed kunne bedømme hvorvidt vi kunne gjøre os Haab om en tilstrækkelig Korntilførsel og tør forbeholde mig nærmere underdanigst at yttre mig saavel herom som om hvorvidt denne Omstændighed bør tillægges nogen Indflydelse paa Deres Majestæters Kroning.</p>
+               <p xml:id="p4">	Jeg er endnu i Uvished om de nærværende høie Kornpriser, den store Nød i mange Lande, ere Følger af Mangel paa Korn eller af Speculationer, Kornpugerie.</p>
+               <p xml:id="p5">	For Øieblikket ere Symptomerne høist forskjellige. Medens en pludselig uventet Priisdalen er indtruffet paa flere betydelige europæiske Korn-Markeder, vedbliver Trang og Nød i flere Lande, taler man i Frankrige allerede nu om at forlænge Korn Toldens Ophævelse, for hele Aaret 1848. Den for os frygteligste Omstændighed er, at ifølge de seneste Consulatrapporter fra Kjøbenhavn og Aalborg, skal næsten alle Kornbeholdninger i Danmark, – vort bedste Korn-Kammer, være opkjøbte for engelsk Regning. Jeg svæver virkelig imellem megen Frygt for vort Land, som i dette Aar vil tiltrænge en Korn Tilførsel af mindst 1,000,000 Tønder, – og lidet Haab!</p>
+               <p xml:id="p6">	Under ingen Omstændigheder nærer jeg dog nogen Frygt for de norske Provindser, hvorigjennem Deres Majestæter vil reise til og fra Trondhjem. I disse vil neppe nogen Nød indtræffe og den Kongelige Reise der igjennem vil endog være velgjørende, fordi den vil sætte mange Penge i Omløb.</p>
+               <p xml:id="p7">	Efterat den norske Ordenssag har circuleret imellem Regjeringens Medlemmer og de derunder gjorte Bemærkninger ere mundtlig omhandlede, formene vi det rigtigst ved Dagsposten at tilstille den norske Statsminister Sagen, for at den kan blive Deres Majestæt underdanigst foreløbig forelagt og Deres Majestæts Befalinger kan modtages forinden officiel Indstilling gjøres.</p>
+               <p xml:id="p8">	Intet Navn kan være ærefuldere, mere passende for den Norske Orden end dens Høie Stifters Navn og til underdanigst at foreslaae dette, behøve vi kun Deres Majestæts naadige Tilladelse. I Mangel heraf formene vi Benævnelsen Sanct Olafs Orden meest passende; men bede underdanigst, at Deres Majestæts Høie Navneziffer i alle Fald maa pryde Ordenens Insignier. Fortjenst-Orden er en temmelig forslidt Benævnelse, som neppe vilde give Ordenen nogen Relief. Vi formene underdanigst, at et blot og bart rødt Ordensbaand (den norske Hovedfarve) vil være vakkrere end et fleerfarvigt Baand.</p>
+               <p xml:id="p9">	Til disse formelle Bemærkninger tillader jeg mig underdanigst, at tilføie følgende: Grundlovens 23de § bestemmer: "at Kongen kan meddele Ordener til hvem han for godt befinder, for udmærkede Fortjenester, der offentlig<hi rend="underline">maa</hi>  kundgjøres." Ordet maa forstaaes i daglig Tale som blot <hi rend="underline">tilladende</hi>  og saaledes har jeg i denne Begivenhed forstaaet det. Skal dette Ord derimod, som nu af de Lærde og Skriftkloge, forstaaes som <hi rend="underline">befalende</hi>, da maatte jeg underdanigst have fraraadet Deres Majestæt at gjøre Brug af et monarkisk Prærogativ, bunden til en saadan upraktisk Betingelse. Om Kongen hver Gang en Orden meddeles, skal være forpligtet til at offentliggjøre de Fortjenester, hvorfor den meddeles, da vil saadan Offentliggjørelse i de fleste Tilfælde foranledige, ja indbyde til en offentlig Critik, der som oftest maa ventes at blive saarende for den benaadende Monark, som for den Benaadede, som for denne kan blive høist krænkende. Ordener gives desuden ikke alene for Fortjenester, hvorom Begreberne kunne være meget forskjellige; men ofte af conventionelle Hensyn. Saaledes gav Dronningen af England nylig Sin høieste Orden til Privatmanden, Hertugen af Bedford, medens dennes Broder, Premier Ministeren, Lord Russell neppe nogensinde faaer den. Men Englænderne ere meget praktiske og derfor findes i Deres Grundlov Intet om Ordener. En puur og bar Fortjenst Orden, som den er idealiseret i den norske Grundlov, vil neppe vinde nogen synderlig europæisk Anseelse.</p>
+               <p xml:id="p10">	Med Henhold til min underdanigste Rapport af 18de forrige Maaned, tillader jeg mig at gjentage min underdanigste Bøn, at Deres Majestæt naadigst vil forunde den danske Kammerjunker Wedel-Heinen den Kongelige Nordstjerne Orden. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11 April 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst,		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

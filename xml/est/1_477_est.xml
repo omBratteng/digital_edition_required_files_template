@@ -1,0 +1,91 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>477</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 14. desember 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 14. desember 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die denne Maaned.</p>
+               <p xml:id="p2">	Senere er Intet indtruffet som har kunnet foranledige mig til <lb/>
+at besvære Deres Majestæt med nogen underdanigst Rapport.</p>
+               <p xml:id="p3">	Høiesterets Justitiarius Bull er efter en kort Sygdom afgaaet <lb/>
+ved Døden 69 Aar gammel. Han var en hæderlig Mand, en øm Familiefader <lb/>
+og en oprigtig Ven; men som Embedsmand havde han overlevet sig og  <lb/>
+derfor kaldte vor Herre ham i et for ham lykkeligt Øieblik.</p>
+               <p xml:id="p4">	Han efterlader en ved Aandsgaver udmærket sygelig Enke (en Søster <lb/>
+af den som Retslærd berømte danske Premierminister Ørsted) og <lb/>
+tre uforsørgede Døttre, jeg befrygter i en mislig oeconomisk Stilling.</p>
+               <p xml:id="p5">	Et usædvanlig ustadigt Vejrlig foranlediger her megen Sygelighed. <lb/>
+Mig har det givet piinlige reumatiske Smerter, som forhindrede <lb/>
+mig fra at bivaane det sædvanlige Statsraad igaar, hvor kun courante <lb/>
+Sager blev behandlet.</p>
+               <p xml:id="p6">	Ved at gjentage min underdanigste Taksigelse for Deres Majestæts <lb/>
+naadige Skrivelse af 30te forrige Maaned, tillader jeg mig <lb/>
+underdanigst at lykønske Deres Maejstæt til det lykkelige ja brillante <lb/>
+Resultat af den sidste Rigsdag. Dette er for mig et nyt Bevis for at <lb/>
+Ligevægten imellem de forskjællige statsborgerlige Interesser sikrere <lb/>
+opnaaes og vedligeholdes med den gamle svenske Repræsentation, <hi rend="underline">under</hi>
+                  <lb/>
+                  <hi rend="underline">en forstandig Ledning</hi>  end ved nogetsomhelst Et- eller Tokammersystem.</p>
+               <p xml:id="p7">	Deres Majestæts naadige Bemærkning, at Ruslands seneste Eftergivenhed, <lb/>
+istedetfor at lede til Fred, snarere synes at ville forlænge <lb/>
+den ødelæggende Krig, er desværre kun altfor sand og er for mig et <lb/>
+nyt Bevis for at Contraparterne <hi rend="underline">ikke ville have Fred</hi>; <hi rend="underline">men Krig</hi>  à tout <lb/>
+prix, en Tendens, som i mine Øine er barbarisk. Om Rusland fra  <lb/>
+Begyndelsen har den svære Brøde at have foranlediget Krigen, saa have <lb/>
+Contraparterne nu den større Brøde at forlænge den og alle dens Ulykker. <lb/>
+Efter min ringe Formening er det ikke, som den store Hob indbilder <lb/>
+sig, een Krig imellem Civilisation og Barbarie; men nu en Krig mellem <lb/>
+Revolution og Orden, imellem Kossuth, Mazzini, Palmerston og den  <lb/>
+bestaaende europæiske Ordens Opretholdere, blandt hvilke Deres Majestæt <lb/>
+ifølge Sit Kongelige Kald og Sin ridderlige Tænkemaade indtager en <lb/>
+fremragende Plads. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14de December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

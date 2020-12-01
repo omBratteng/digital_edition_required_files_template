@@ -1,0 +1,107 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>360</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 1. juli 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 1. juli 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanige Rapport var af 18de forrige Maaned.</p>
+               <p xml:id="p2">	Sidste Post bragte mig Grev E. Lewenhaupts brev af 24de forrige <lb/>
+Maaned, hvoraf jeg med Glæde erfarer Deres Majestæts lykkelige  <lb/>
+Tilbagekomst til Stockholm og at Reisen har havt en velgjørende Indflydelse <lb/>
+paa Deres Majestæts Helbred. Dette glæder mig især og betager <lb/>
+mig den Bekymring, som den senere Tids Rygte om Deres Majestæts  <lb/>
+Upasselighed har forvoldt mig.</p>
+               <p xml:id="p3">	Mit høieste og hjerteligste Ønske til Deres Majestæts nu <lb/>
+forestaaende høie Fødselsdag er da: Gud skjænke Deres Majestæt en god og <lb/>
+varig Helbred, en lang og lykkelig Regjering, til Held og Glæde for <lb/>
+Deres Majestæts troe Undersaatter.</p>
+               <p xml:id="p4">	Uagtet jeg endnu ikke har modtaget Deres Majestæts naadige Tilladelse <lb/>
+til at feire de forenede Rigers høieste Festdag paa Ladegaardsøen, <lb/>
+vover jeg dog at stole paa, at den vil blive mig naadigst givet <lb/>
+dette som forrige Aar.</p>
+               <p xml:id="p5">	Under hele Juny Maaned har jeg været lidende af Steensmerter, som <lb/>
+jeg første Gang føelte ved mit Besøg i Trondhjem 1841 under en der <lb/>
+ikke usædvanlig pludselig Temperaturforandring. Mine Lidelser vare <lb/>
+denne Gang langvarigere end sædvanlig; men ere nu Gud skee Tak  <lb/>
+overstaaet for denne Gang.</p>
+               <p xml:id="p6">	Min Upasselighed har forhindret mig fra at deeltage i de Upsalensiske <lb/>
+Studenteres Besøg, hvortil jeg kun har kunnet være Tilskuer undertiden <lb/>
+Tilhører, her fra Holgerslyst.</p>
+               <p xml:id="p7">	Selskabet, hvoriblandt ogsaa befandtes Raadmænd, Herredshøfdinger, <lb/>
+Possessionater og mange Magistre, ankom paa Dampskibet "Berzelius" <lb/>
+den 24de og reiste den 29de Juny.</p>
+               <p xml:id="p8">	Under dette Besøg har hele Christiania og Omegn, med faae <lb/>
+Undtagelser, været i Bevægelse; Statsraader og Copiister, Professorer og <lb/>
+Haandværkere kappedes om at beværte Gjæsterne med Champagne, Taler, <lb/>
+Sange; Damerne skjænkede dem en Fahne, Alt Arbeide var standset; for <lb/>
+mig som var aldeles ædru (nykter) syntes Svenske og Norske under hele <lb/>
+Besøget at gaae dandse og synge i En skandinavisk Ruus.</p>
+               <p xml:id="p9">	Jeg ønsker og haaber, at de svenske Gjæster maa være tilfredse! <lb/>
+Vist er det, at om Keiseren af Rusland besøgte Christiania, <hi rend="underline">vilde</hi>
+                  <lb/>
+dets Indvaanere ikke gjøre <hi rend="underline">saa meget</hi>, kunde de ikke gjøre <hi rend="underline">mere</hi>, for <lb/>
+at feire Ham, end de have gjort, for at more (roga) Studenterne fra <lb/>
+Upsala. Jeg antager, at Christiania Commune har bidraget i Penge og <lb/>
+Natural Præstationer til dette som til forrige Aars Studenterbesøg <lb/>
+10,000 Speciedaler.</p>
+               <p xml:id="p10">	Det vil ikke forundre mig, om norske republikanske Sæder og Skikke, <lb/>
+norsk demokratisk Lighed, har noget tillokkende for den svenske <lb/>
+Ungdom, og at den vil gjøre dem gjældende i sit svenske Hjem, som <lb/>
+lignende Ideer i sin Tid forplantedes fra det unge Amerika til det <lb/>
+gamle Frankrige.</p>
+               <p xml:id="p11">	Veiret er fremdeles meget gunstigt for Vegetationen; men vi <lb/>
+tiltrænge nu høielig tør og varm Temperatur for Høets Bjergning og <lb/>
+Agrenes Triven.</p>
+               <p xml:id="p12">	Jeg længes meget efter Deres Majestæts naadige Tilladelse til i <lb/>
+Slutningen af næste Uge at begive mig til Fossum, som jeg underdanigst <lb/>
+udbad før Deres Majestæts Afreise til Skaane. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 1ste Julii 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

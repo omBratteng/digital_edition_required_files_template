@@ -1,0 +1,185 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>280</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. mars 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. mars 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 16de denne Maaned.</p>
+               <p xml:id="p2">	Jeg imødeseer med Længsel gode Efterretninger om Deres Majestæts <lb/>
+lykkelige Tilbagekomst til Stockholm med Dagens Post.</p>
+               <p xml:id="p3">	Copie af Grev Trampes sidste Rapport tillader jeg mig underdanigst <lb/>
+at vedlægge.</p>
+               <p xml:id="p4">	Jeg har opfordret Statsraad Stang til i næste Statsraad at <lb/>
+gjøre officiel Indberetning om Jernbane Sagens Udfald i Storthinget, <lb/>
+som forhaabentlig vil kunne afgaae med næste Post til Stockholm.</p>
+               <p xml:id="p5">	Denne Sag var neppe vel afgjort i Storthinget før dette har <lb/>
+begyndt sin uhyggelige Virksomhed, som opvækker Uroe og Bekymring hos <lb/>
+sindige Fædrenelandsvenner og det temmelig almindelige Ønske i denne <lb/>
+Bye at vi snarest mulig maa kunne blive befriede fra dette fremmede <lb/>
+Selskab af arrogante Selvherskere. En saadan Stemning har Comité- <lb/>
+Indstillingen om den Sexiske Sag og Forhandlingerne om Statholder- <lb/>
+Embedet opvakt.</p>
+               <p xml:id="p6">	Statsraad Bretteville havde tilbudt den Sexiske Comité Oplysninger <lb/>
+i Sag; men den foretrak for sit Formaal at indhente disse af <lb/>
+Morgenblad og Partimænd.</p>
+               <p xml:id="p7">	Jeg mistænker Professor Monrad for at have conciperet Indstillingen, <lb/>
+hvilket ikke forundrer mig af en Partimand; men forargeligt <lb/>
+er det, at en heel Comité eenstemmig har kunnet forvanske factiske <lb/>
+Forhold og foreslaae en Beslutning, hvorved en velgrundet Regjerings <lb/>
+Foranstaltning skal blive compromitteret, Kongemagtens Afmagt og <lb/>
+Storthingets Magtfuldkommenhed tydelig vil blive fremstillet for det <lb/>
+forbausede Folk.</p>
+               <p xml:id="p8">	Jeg kan ikke i Grundloven finde nogen Hjemmel for Storthinget <lb/>
+til i denne Begivenhed at trodse Kongemagten; men denne min Anskuelse, <lb/>
+om den end af Deres Majestæts Statsraader maatte deles, kan <lb/>
+neppe ventes udtalt af dem, af Frygt for et Tribunal, hvori Storthinget <lb/>
+baade er Part og Dommer, og som af dette Storthing er saaledes <lb/>
+sammensat, at Fordømmelse under alle Omstændigheder maa ventes. <lb/>
+Med saadanne Former kan en god Statsstyrelse ikke bestaae!</p>
+               <p xml:id="p9">	Grundlovs Forslaget om at berøve Deres Majestæt Ret til at <lb/>
+udnævne en svensk Statholder, er fremsat af den vel-menende, men <lb/>
+ikke vidt-seende Byfoged Vogt, for at lette Forslaget om Statsraadernes <lb/>
+Adgang til at deeltage i Storthingets Forhandlinger. Med <lb/>
+velberaad Hue bragtes hiint Forslag under Discussion før sidstnævnte, <lb/>
+for at dette desto sikkrere skulde falde, naar Deres Majestæt, <lb/>
+som man ventede, havde nægtet at sanctionnere det Første. At Stabel <lb/>
+gaaer videre ved at foreslaae Statholder Embedet udtaget af  <lb/>
+Grundloven, uden Hensyn til, om det beklædes af en Norsk eller Svensk, <lb/>
+undrer mig mindre end at dette understøttes af Motzfeldt. Stabell kan <lb/>
+ikke indsee, hvortil et Statholderskab i Norge skal kunne tjene; <lb/>
+Hr Motzfeldt deler denne Mening, maaskee ogsaa Hr Stang og Sørenssen. <lb/>
+"Les beaux esprits se rencontrent". <lb/>
+               </p>
+               <p xml:id="p10">Statsraadernes Udelukkelse fra Storthinget er exempelløs i en <lb/>
+constitutionel Stat og medfører store Ulemper; men jeg kan dog ikke <lb/>
+ønske Grundlovs Forslaget om deres Adgang til Storthinget antaget, <lb/>
+fordi jeg forudseer, at denne snart vilde føre til en Majoritets <lb/>
+Styrelse, som <hi rend="underline">med vor Representation</hi>  vilde føre til overveiende  <lb/>
+Ulykker og omsider tilintetgjøre Kongemagten. Jeg tillader mig  <lb/>
+underdanigst at anbefale denne min Anskuelse til Deres Majestæts naadige <lb/>
+Overveielse.</p>
+               <p xml:id="p11">	Kongsbergs Sølvværk har i afvigte Aar givet 140,000 Species <lb/>
+Netto Revenu. Efter et saadant Resultat formoder jeg, at dets Direction, <lb/>
+hvem det næst Forsynet skyldes, modtager Storthingets utaknemmelige <lb/>
+Bedømmelse, med de samme bittre Følelser, som jeg dets udelicate <lb/>
+Forhandlinger om det mig naadigst anbetroede Embedes Overflødighed <lb/>
+og Unytte.</p>
+               <p xml:id="p12">	Den til Undersøgelse af Sølvværkets Drift og Tilstand udnævnte <lb/>
+Commission, bestaaende af Amtmand Blom, Baron Harald Wedel, Bergmester <lb/>
+Sinding og Oberstiger Olsen, er nu samlet paa Kongsberg. Om <lb/>
+Nogen fortjener naadigst at udnævnes til Commandeur af St. Olafs <lb/>
+Ordenen, da er det visselig Amtmand Blom, til hvem Regjeringen tyer <lb/>
+ved alle Leiligheder, som har udført saamange offentlige Hverv ved <lb/>
+Siden af sit vigtige Embede.</p>
+               <p xml:id="p13">	I Anledning af Deres Majestæts naadige Spørgsmaal om norsk <lb/>
+Jerns Salg i Amerika, tillader jeg mig underdanigst at bemærke, at <lb/>
+jeg senere har havt Tilbud af et af de største Huse i New-York, om <lb/>
+jeg kunde sælge for samme Priis som for svensk Jern, nemlig 85 Dollars <lb/>
+pr Ton; men vi kan ligesaa lidt i Amerika som i Europa concurrere <lb/>
+i Priis; thi medens svensk Jern kan sælges med good Fordeel <lb/>
+for 85 Dollars, kan vi ikke sælge under 105 à 100 Dollars pr. Ton. <lb/>
+Saa stor er Forskjellen af Tilvirknings-Omkostninger; men Qvaliteten <lb/>
+staaer maaskee i samme Forhold.</p>
+               <p xml:id="p14">	I og nærmest om Byen er Slædeføret borte; men jeg har endnu <lb/>
+idag kjørt Isen til Vækkerøe og derfra godt Føre til Holgerslyst.</p>
+               <p xml:id="p15">	Saavidt skreven havde jeg den Glæde at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 17de, hvorfor jeg nedlægger min underdanigste <lb/>
+Taksigelse. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 de Marts 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 20. mars 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Efterskrift!</head>
+               <p xml:id="p16">	I dette Øieblik Klokken 9 Morgen meddeler General Bloch mig en <lb/>
+Rapport fra Commandanten i Trondhjem om grove Politie Uordener, som <lb/>
+der have funden Sted i flere Dage, hvorefter Ordenen, ved militair <lb/>
+Magt, er bleven retahleret. Da jeg ingen Rapport har modtaget fra <lb/>
+den civile Overøvrighed, maa jeg indtil videre underdanigst referere <lb/>
+til hvad den commanderende General om denne Begivenhed med Dags Posten <lb/>
+vil indberette til Deres Majestæt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21de Marts 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 20. mars 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">
+                  <hi rend="underline">Copie</hi>.</head>
+               <head type="sub3" xml:id="h7">Amtmand Grev Trampes Skrivelse af 10 Marts 1851 <lb/>
+    	  til den Kongl. Norske Regjering.</head>
+               <p xml:id="p17">	Ankommen hertil Stedet (Levanger) idag Eftermiddag, har <lb/>
+Amtmanden i Aften tilkjendegivet den paa Stedet Høistbefalende <lb/>
+Officier Oberstlieutenant Ridder Bødtker, at det antages, at den  <lb/>
+herværende militaire Styrke nu kan formindskes til den tilstedeværende <lb/>
+Styrke af Ytterøens Compagnie og at det øvrige Militaire <lb/>
+kan successive, saasnart gjørligt er, hjemforloves. Forhøret over <lb/>
+Arrestanterne er endnu langtfra sluttet og continuerer daglig. Alt <lb/>
+har været roligt under Amtmandens Fraværelse. Efterat have nu i <lb/>
+snart 5 Uger været fraværende, paa 2 Dage nær, fra sit Hjem og <lb/>
+Contoir, vender Amtmanden i Aften tilbage.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

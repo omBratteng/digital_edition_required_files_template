@@ -1,0 +1,60 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>89</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 15. februar 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 15. februar 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Under Hans Excellence Statholderens Fraværelse paa en Reise til Fossum, tillader jeg mig i Underdanighed at indberette, at Kjøbmand Stephansen, paa given Anledning fra Chefen for Departementet for det Indre, har erklæret sig villig til, saafremt Deres Majestæt naadigst maatte befale det, at foretage Reisen til Paris, for der at gaae tilhaande med Oplysninger angaaende Norges Handel og Skibsfart.</p>
+               <p xml:id="p2">	Den engelske Civil-Ingenieur England er for Tiden beskjæftiget med, i Forening med Ingenieur Lieutenant Ræder, at undersøge Terrainet for det projecterede Jernbaneanlæg fra Strømmen, og agter derefter at bereise begge Sider af Mjøsen, for at gjøre sig bekjendt med de omliggende Bygders Beskaffenhed.</p>
+               <p xml:id="p3">	I Anledning af Deres Majestæts naadigste Befaling om at indsende underdanigst Indberetning om de Beholdninger af Korn, der maatte findes her i Riget, og om Udsigterne til Indførsel ved Skibsfartens Aabning, vil Statsraad Stang med Dagsposten tilstille Hans Excellence Statsministeren de fornødne Oplysninger.</p>
+               <p xml:id="p4">	Efterat Sildefiskeriet ved Skudesnæs allerede i nogen Tid har været i god Gang, er nu ogsaa Skreifiskeriet langs Kysten af Romsdal begyndt men uden at Amtmanden i sin Indberetning af 3die denne Maaned derom har kunnet afgive nogen Formening. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15 Februar 1847</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>N.J. Krog.</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>476</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 3. desember 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 3. desember 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de forrige Maaned.</p>
+               <p xml:id="p2">	Statsraad Krogs underdanigste Ansøgning om Afskeed i Naade med <lb/>
+Pension, vil afgaae med Morgendagens Post til Stockholm, og vover jeg <lb/>
+at haabe, at Deres Majestæt naadigst vil bifalde, at han, som har havt <lb/>
+den Ære at være Medlem af sin Konges Statsraad i 32 Aar, maa erholde <lb/>
+2/3 af sin Gage, nemlig 2000 Spdl. aarlig i Pension, hvortil Regjeringen <lb/>
+har tilladt sig underdanigst at indstille ham.</p>
+               <p xml:id="p3">	Jeg beklager meget, at denne hæderlige Mand, 10 Aar yngre end <lb/>
+jeg, er nødsaget til at trække sig tilbage paa Grund af legemlig Svaghed. <lb/>
+Statsraad Krog har som Regjeringens ældste Medlem oftere havt den <lb/>
+Ære med Værdighed at representere Deres Majestæt, og i denne Henseende <lb/>
+vil ingen af hans tilbageblevne Colleger kunne erstatte ham.</p>
+               <p xml:id="p4">	I Forbindelse hermed skal jeg underdanigst indberette, at jeg, <lb/>
+ifølge Deres Majestæts naadige Bemyndigelse, har tilbuden Amtmanden i <lb/>
+Agershuus Amt, Møinichen, at indtræde i den vacant blivende Statsraadspost, <lb/>
+og at han med underdanigst Taknemmelighed har modtaget dette <lb/>
+Deres Majestæts naadige Tilbud.</p>
+               <p xml:id="p5">	Regjeringens Medlemmer ere enige om, at Revisionsdepartementet, <lb/>
+som det mindst besværlige Regjerings Departement i Almindelighed bør <lb/>
+overdrages til den ældste Statsraad, nu Statsraad Vogt; men da vi ogsaa <lb/>
+ere enige om, at det vilde være skadelig for Administrationen <hi rend="underline">nu</hi>
+                  <lb/>
+at foretage en Forandring i Departementernes Bestyrelse, formener det <lb/>
+derfor hensigtsmæssigst, at Amtmand Møinichen for Tiden overtager  <lb/>
+Bestyrelsen af Revisions Departementet, hvori han tidligere har været <lb/>
+ansat.</p>
+               <p xml:id="p6">	Jeg tillader mig saaledes underdanigst at indstille, at Deres <lb/>
+Majestæt, ved naadigst at bevilge Statsraad Krog Afsked, tillige  <lb/>
+naadigst vil udnævne Amtmand Møinichen til Statsraad, med naadigst  <lb/>
+Befaling, at han indtil videre skal overtage Revisions Departementets <lb/>
+Bestyrelse".</p>
+               <p xml:id="p7">	Den af Deres Majestæt naadigst befalede Indstilling betræffende <lb/>
+Armeen, er under forberedende Arbeide i Armee Departementet. Jeg <lb/>
+forudseer, at denne Sags ansvarsfulde Behandling <hi rend="underline">nu</hi>  vil blive vanskelig <lb/>
+og forvolde Regjeringen alvorlige Bekymringer.</p>
+               <p xml:id="p8">	Jeg vil idag give en officiel Middag i Anledning af Statsraad <lb/>
+Langes Indtrædelse i Statsraadet, hvortil jeg, foruden Statsraadets <lb/>
+og Høiesterets Medlemmer har indbuden de herværende militaire  <lb/>
+Embedsmænd, som vare i Stockholm den 4de November. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 3. desember 1854</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p9">	Efterat vedlagte var skrevet, havde jeg den Lykke at modtage <lb/>
+Deres Majestæts naadige Skrivelse af 30te forrige Maaned, hvorfor <lb/>
+jeg foreløbig nedlægger min underdanigste Taksigelse. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 3. desember 1854</supplied>
+               </head>
+               <opener>
+                  <salute>Naadigste Konge!</salute>
+               </opener>
+               <p xml:id="p10">	Med Deres Majestæts naadigste Tilladelse har jeg giennem den <lb/>
+Kongelige Norske Regiering indgivet min Afskeds-Ansøgning, og i <lb/>
+denne Anledning vover jeg herved i dybeste Underdanighed at  <lb/>
+fremtræde for Deres Majestæt med een fra Hiertets Inderste hentet  <lb/>
+Taksigelse for al den Overbærelse og Naade, hvorpaa jeg i min lange <lb/>
+Tjenesttiid har modtaget saa mange dyrebare Beviser. Rige Gaver <lb/>
+faldt det ikke i min Lod at kunde offre i min Konges Tieneste, men <lb/>
+redelig Villie og en levende Attraae efter at gjøre mig nogenledes <lb/>
+værdig til Deres Majestæts Tillid og Naade har altid ledsaget mine <lb/>
+Bestræbelser i de Kald, som naadigst have været mig anfortroede.</p>
+               <p xml:id="p11">	Tanken paa det Henrundne, fra Rigernes Forening og indtil <lb/>
+denne Stund, opfylder mit taknemmelige Hierte med dyrebare Erindringer <lb/>
+om Deres Majestæts Yndest og Naade, og disse Følelser lige <lb/>
+varme og levende ved mine Dages Ende som i denne Stund skal oplive <lb/>
+mine Alderdomsdage og blive mig et hædrende Vidnesbyrd om at mine <lb/>
+svage Bestræbelser ikke have været aldeles frugtesløse.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de December 1854</date>.</dateline>
+                  <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>N. J. Krog </persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>521</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. desember 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. desember 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 20de denne Maaned.</p>
+               <p xml:id="p2">	Et Aar er atter hensvunden, siden jeg i min underdanige Rapport <lb/>
+af 28 December forrige Aar for Deres Majestæt fremførte min underdanige <lb/>
+Taksigelse for det da forløbne Aar, min hjertelige Lykønskning <lb/>
+til det da begyndende Aar, og jeg kan i Dag kun gjentage Bevidnelsen <lb/>
+af de samme mine Følelser, min lige hjertelige Lykønskning til et atter <lb/>
+snart begyndende Aar. Mine Følelser for Deres Majestæt, min  <lb/>
+Taknemmelighed, ere uforandrede; mine Ønsker for Deres Majestæts Riger  <lb/>
+ere de samme; min Anskuelse om, at deres Hæder og Held sikkrest bevares, <lb/>
+ved at holde dem udenfor den store Strid, som nu er Verdens Ulykke, – <lb/>
+er urokkelig.</p>
+               <p xml:id="p3">	Efterat jeg havde erfaret, at der i et fra London kommende, paa <lb/>
+Jomfruland strandet svensk Skib, var forefunden offentlige Documenter, <lb/>
+forlangte jeg herom Oplysning af Kragerøe Toldkammer, som jeg <lb/>
+igaar modtog af følgende Indhold: "det strandede Skib hedder "Minerva", <lb/>
+Capitaine A.Retzius, hvoraf man, da det er fuldt af Vand, den <lb/>
+11te denne Maaned opfiskede en Casse med Adresse: "Au Cabinet du <lb/>
+Roi à Stockholm," hvori befandtes de i underdanigst vedlagte  <lb/>
+Fortegnelse anførte Documenter, – som vare gjennemblødte af Søvand,  <lb/>
+Toldkammeret tilstillede mig derhos et i ommeldte Casse funden Brev <lb/>
+under Deres Majestæts høie Adresse, som jeg med Dagens Post under  <lb/>
+særskildt Couvert tilsender det Kongelige Cabinet, hvortil jeg ogsaa <lb/>
+vil indsende de i samme Casse befundne øvrige Sager, naar de,  <lb/>
+efterat være tørrede, ere fra Toldkammeret modtagne.</p>
+               <p xml:id="p4">	Jeg bivaanede i Gaar en vakker Gudstjeneste i Slotscapellet, <lb/>
+hvori Hofprædikant Stiftsprovst Rode prædikede med sædvanlig  <lb/>
+Veltalenhed. Den lille vakkre Kirke modtog saa mange Mennesker, som <lb/>
+Rummet tillod; men Mange maatte gaae bort i Mangel af Plads.</p>
+               <p xml:id="p5">	Generalconsul Crowe vil om faae Dage tiltræde en Reise over <lb/>
+Stockholm til England for 3 Maaneder. Uagtet det engelske  <lb/>
+Jernbanecompagnie er berettiget til at have et lige Antal Directeurer, som <lb/>
+den norske Stat, nemlig 3, har Crowe dog været den eneste udnævnte <lb/>
+engelske Directeur. Da han derhos er bemyndiget til i sit Forfald at <lb/>
+vælge en Directeur for det engelske Compagnie, har han, under sin nu <lb/>
+forestaaende Fraværelse, dertil beskikket Ingenieur Capitaine Ræder, <lb/>
+et vakkert Beviis paa Tillid fra engelsk Side.</p>
+               <p xml:id="p6">	I Morgen vil min Søn, Høiesterets Assessor Otto Løvenskiold, <lb/>
+tiltræde sin Reise til Stockholm, i Selskab med sine 2de Medcommissarier <lb/>
+Faye og Lorch.</p>
+               <p xml:id="p7">	Uden Ubeskedenhed tør jeg sige, at min Søn er en dygtig <lb/>
+Forretningsmand, besjælet af den bedste Villie, og jeg tillader mig <lb/>
+underdanigst at anbefale ham til Deres Majestæts Naade. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 27. desember 1855</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <p xml:id="p8">				  Fortegnelse <lb/>
+over de i den fra det ved Jomfruland strandede svenske Skib "Minerva" <lb/>
+Capitaine A. Retzius hertil indbjergede Casse, mærket "au cabinet du <lb/>
+Roi Stockholm", forefundne Sager, nemlig: <lb/>
+                  <list xml:id="list9">
+                     <label>a.	</label>
+                     <item>et forseglet Brev med Udskrift "Hans Maj:t Konungen Stockholm".</item>
+                     <lb/>
+                     <label>b.	</label>
+                     <item>Fire Protocoller (trykte engelske Statsforhandlinger) hvoraf een <lb/>
+med Adresse: Till Kongl. Commerce Collegium. Stockholm".</item>
+                     <lb/>
+                     <label>c.	</label>
+                     <item>En Bog (Edinbourgh Review No 208) under Adresse.</item>
+                     <lb/>
+                     <label>d.	</label>
+                     <item>En do Adresse Hr Kongl.Secreteraren Ström, Stockholm, Kgl. <lb/>
+Com. Colleg. </item>
+                     <lb/>
+                     <label>e.	</label>
+                     <item>To smaa Pakker, Adresse Högl. Kgl. Commerce Collegium, Stockholm.</item>
+                     <lb/>
+                     <label>f.	</label>
+                     <item>en Bog Adresse: Dr Hamberg Stockholm.</item>
+                     <lb/>
+                     <label>g.	</label>
+                     <item>en do Adresse: Till Kongl. Stutterie Öfverstyrelsen, Stockholm".</item>
+                     <lb/>
+                     <label>h.	</label>
+                     <item>en Pakke i Papir, Adresse Medicinal Rådet &amp; Riddaren Berg. <lb/>
+Stockholm.</item>
+                     <lb/>
+                     <label>i.	</label>
+                     <item>en Bog, Adresse: L'Academie Royale des sciences, Stockholm.</item>
+                  </list>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Kragerøe</placeName> Toldinspection <date>d. 22de December 1855</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Weibye</persName>
+                     <lb/>
+    						fungerende Toldinspepecteur.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

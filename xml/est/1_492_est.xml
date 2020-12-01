@@ -1,0 +1,132 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>492</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 15. mars 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 15. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p xml:id="p2">	Jeg vil nu tillade mig underdanigst at meddele hvad jeg veed om <lb/>
+den i Deres Majestæts naadige Skrivelse af 5te ovennævnte Storthingets <lb/>
+Lov-Commission.</p>
+               <p xml:id="p3">	Allerede medens Regjeringens underdanige Indstilling om denne <lb/>
+Gjenstand var i Stockholm til Deres Majestæts naadige Afgjørelse, havde <lb/>
+Commissionens Formand, Høiesterets-Assessor Motzfeldt, <hi rend="underline">uden at oppebie</hi>
+                  <lb/>
+                  <hi rend="underline">denne</hi>, indkaldt hertil Commissionens udenbyes Medlemmer, Procurator <lb/>
+Sverdrup og Lensmand Ueland. Vedkommende Amtmand havde, i Tillid <lb/>
+til, at en saa høit betroet Embedsmand som en Høiesterets Assessor, <lb/>
+ikke uden Hjemmel havde hidkaldt de nævnte Mænd, permitteret dem <lb/>
+og constitueret Andre til at udføre deres offentlige Functioner.</p>
+               <p xml:id="p4">	De indfandt sig her og begyndte strax i Forening med Motzfeldt, <lb/>
+Advocaten Dunker og Kildal (hvilken sidste var indtraadt som første <lb/>
+Suppleant, i Stedet for Byfoged Meldal, som sin Pligt troe, vægrede <lb/>
+at tiltræde Commissionen) at bearbeide det dem af Storthinget overdragne <lb/>
+Hverv.</p>
+               <p xml:id="p5">	Imidlertid indtraf Deres Majestæts uventede naadige Resolution <lb/>
+af 1ste Februar, trods hvilken de nævnte Mænd besluttede at fuldføre <lb/>
+det paabegyndte Arbeide.</p>
+               <p xml:id="p6">	Deres Majestæts naadige Resolution blev af Justits Departemenete <lb/>
+strax communiceret vedkommende Overøvrigheder, hvoraf burde følge <lb/>
+Tilbagekaldelse af de Sverdrup og Ueland givne Permissioner og derved <lb/>
+foranledigede Constitutioner; men da herom ingen senere Rapporter ere <lb/>
+indløbne, har Finants Departementet (under hvilket Lensmændene  <lb/>
+sortere) forlængst forlangt vedkommende Amtmands Erklæring for Uelands <lb/>
+Vedkommende, ligesom jeg har anmodet Statsraad Petersen om, gjentagende <lb/>
+at paalægge Amtmanden i Laurvig uden Ophold at iværksætte det <lb/>
+befalede betræffende Sverdrup.</p>
+               <p xml:id="p7">	Efter dette venter jeg, at de 2de store Patrioter snart ville <lb/>
+blive rappelerede; men jeg venter derhos, at de ville stræbe efter en <lb/>
+Martyrkrone ved heller at opoffre deres Bestillinger end at adlyde, <lb/>
+stolende paa, at et tilkommende Storthing vil give dem, som i sin Tid <lb/>
+Sexe, rigelig Erstatning for udviist Trods. I saa Fald vil jeg stole <lb/>
+paa, at de gjøre Regning uden Vært, og at de ville erfare, at  <lb/>
+Storthinget ikke egenmægtig raader over Statens Midler, uden  <lb/>
+Kongemagtens Samtykke.</p>
+               <p xml:id="p8">	Jeg maa ganske dele Deres Majestæts Anskuelse om Pluralitetens <lb/>
+Forhold her, thi hvad er det dog andet end Hyklerie, naar den siger, <lb/>
+at den ikke vilde anbefale Storthingsbeslutningen til naadigst Bifald, <lb/>
+om deri kunde øines en Tendents til at krænke et Kongeligt Prærogativ, <lb/>
+medens den paa samme Tid <hi rend="underline">erkjender dette krænket</hi>. Det var altsaa en <lb/>
+Storthings <hi rend="underline">Handling uden Tendents</hi>! Om man kunde nære Tvivl om  <lb/>
+Tendentsen, maatte denne dog bortfalde ved Handlingen. Jeg har dog ikke  <lb/>
+troet at burde meddele Statsraad Petersen Deres Majestæts træffende  <lb/>
+Bemærkning, fordi den kunde foranledige en vidtløftig mindre behagelig <lb/>
+Retfærdiggjørelse, – hvorimod jeg har meddeelt ham hvad jeg ansaa <lb/>
+gavnlig for Sagens videre Behandling.</p>
+               <p xml:id="p9">	Deres Majestæts naadige Yttringer i Anledning af Generalinde <lb/>
+Mansbachs Død, som Greve Lewenhaupt foreløbig har meddeelt mig, er <lb/>
+allerede en stor Trøst for hendes sørgende Efterlevende, som de med <lb/>
+underdanigst Taknemmelighed anerkjende. Den 13de begravedes Frøken <lb/>
+Marie Mansbach, 4 Dage efter hendes salige Moder; Det vilde kanskee <lb/>
+nu være forstandigst, om den blinde Broder vilde med sin gjenlevende <lb/>
+Søster flytte til Danmark og etablere sig i Nærheden af hendes  <lb/>
+Kloster; men hertil er han ikke at formaa, hvorimod hans eneste Ønske <lb/>
+er, at Søsteren ikke vil forlade ham i hans hjelpeløse Stilling og <lb/>
+hertil er hun med en sjelden Opoffrelse villig, om det kun i oeconomisk  <lb/>
+Henseende er muligt, hvilket nu er vanskeligere, efterat den afdøde <lb/>
+Søsters Klosterindtægt bortfalder.</p>
+               <p xml:id="p10">	Jeg takker underdanigst for den naadigst hurtige Expedition af <lb/>
+Ordens Decorationen til den geistlige Veteran, Provst Gaarder, som <lb/>
+jeg allerede den 13de kunde tilsende Biskop Juuel.</p>
+               <p xml:id="p11">	Jeg vilde have feiret Hendes Majestæt Dronningens høie Fødselsdag <lb/>
+ved en Bal; men den dybe Sorg, som har rammet flere af mine Nærmeste, <lb/>
+bevægede mig til at forandre den til en Middag for 50 Couverts <lb/>
+for Damer og Herrer. Af ganske Hjerte udbragte jeg Skaalen for vor <lb/>
+naadige og elskede Dronning, med det hjertelige Ønske, at Gud vil holde <lb/>
+Sin beskyttende Haand over Hendes Majestæt, for Deres Majestæt, det <lb/>
+Kongelige Huus og de forenede Riger.</p>
+               <p xml:id="p12">	Vinteren vedbliver, med korte Afvexlinger, at herske lige barskt <lb/>
+og haardt. Den har været velgjørende for den indre Communication; men <lb/>
+medfører mangehaande andre Ulemper, til Exempel en seen Export og  <lb/>
+Import til Søes, en almindelig Vandmangel, som her i Staden er stor, da <lb/>
+de fleste Vandspring ere standsede. Gud bevare os for Ildløs! </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 15de Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

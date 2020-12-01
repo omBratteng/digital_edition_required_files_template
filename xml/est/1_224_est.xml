@@ -1,0 +1,229 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>224</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. april 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. april 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 12te, har jeg havt den <lb/>
+Ære at modtage Deres Majestæts naadige Skrivelse af 18de.</p>
+               <p xml:id="p2">	Igaar Aftes feirede jeg ved en stor Souper Hendes Kongelige Høihed <lb/>
+Prindsesse Eugenies høie Fødselsdag, hvortil jeg nedlægger min underdanige <lb/>
+Lykønskning.</p>
+               <p xml:id="p3">	Jeg tillader mig at henlede Deres Majestæts naadige Opmærksomhed <lb/>
+paa en med Morgenposten afgaaende Indstilling betræffende de saakaldte <lb/>
+Generalstillæg, hvis Oprindelse og Behandling jeg finder mig <lb/>
+forpligtet til nøiere at explicere.</p>
+               <p xml:id="p4">	Ved Armee-Planen af 3die Julii 1817 § 8, bestemte Høistsalig Kongen, <lb/>
+at een General, – een Generallieutenant, og 4 Generalmajorer, skulle <lb/>
+have et Gagetillæg for disse Charger, hvilket foresloges for Storthinget <lb/>
+1818 for den førstnævnte til 800 Speciedaler, for Generallieutenanten <lb/>
+til 400 Spdl. og for hver Generalmajor 200 Spdl. tilsammen <lb/>
+2000 Speciedaler aarlig. Denne Sum bevilgedes af Storthinget, – er senere <lb/>
+upaaanket passeret alle efterfølgende Storthing, og kan som een Gang <lb/>
+bevilgede faste Gager, formeentlig ikke formindskes uden Deres Majestæts <lb/>
+naadige Bifald.</p>
+               <p xml:id="p5">	Da sidste Storthings Budgetcomité havde foreslaaet benævnte Sums <lb/>
+Bevilgelse som sædvanlig, yttrede Stabell, at han havde tænkt at foreslaae <lb/>
+den hele Sum inddraget, men at han <hi rend="underline">for Tiden</hi>  vilde indskrænke <lb/>
+sig til den halve Sum, og foreslog saaledes, at kun 1000 Speciedaler <lb/>
+aarlig skulde bevilges til Generalstillæg, hvilket Forslag vandt Pluralitet <lb/>
+mod 33 vægtige Stemmer.</p>
+               <p xml:id="p6">	Ifølge heraf indstillede Statsraad Sylow, at Storthingets Beslutning <lb/>
+skulde tages til Følge, som strax tiltraadtes af de 3 yngste Statsraader; <lb/>
+men efter mine confidentielle Bemærkninger, om at det ikke <lb/>
+kunde være til Tjenestens Tarv, at formindske Kongens Adgang til at <lb/>
+forbedre ældre og høiere Officierers Kaar; – at man, engang bifaldt <lb/>
+halv Nedsættelse, snart kunde komme til at renoncere paa den resterende <lb/>
+halve Deel, – og endelig, at det, mig bekjendt, vilde foranledige <lb/>
+megen Uvillie i Armeen, om Deres Majestæt indvilgede at berøve den Adgang <lb/>
+til et Tillæg, som Høistsalig Kongen har forskaffet den, har Sylow <lb/>
+senere indstillet: "at Storthingets Beslutning ikke skal tages til Følge".</p>
+               <p xml:id="p7">	Denne Indstilling er nu efter megen Discussion tiltraadt af alle <lb/>
+Statsraader, dog med det Tillæg, af 4, "at hver Gang en General herefter <lb/>
+faaer det nu bestemte Tillæg, skal han dog være forpligtet til at <lb/>
+taale det formindsket eller aldeles hævet." – Jeg forudseer, at dette <lb/>
+Tillæg vilde være det første Skridt til Generalstillæggenes aldeles <lb/>
+Ophævelse, og kan derfor ikke anbefale det til Deres Majestæts naadige <lb/>
+Bifald, som i Armeen vilde opvække megen Utilfredshed.</p>
+               <p xml:id="p8">	Jeg vil nu tillade mig at omhandle M. Thrane og H. Harring, som <lb/>
+berøve mig megen Tid, og forvolde mig megen Bekymring,</p>
+               <p xml:id="p9">	Efterat jeg havde erfaret Thranes Hensigt at ville overrække mig <lb/>
+den oftomnævnte Petition den 17de Mai geleidet av en talrig Arbeiderforening <lb/>
+                  <hi rend="underline">i Procession med Fahne</hi>, foreholdt jeg ham i Gaar det Ukloge <lb/>
+heri, og erklærede ham, at jeg ikke den Dag vilde modtage Petitionen, <lb/>
+ – ligesom jeg fraraadede ham at indgive den paa nogen anden Dag med <lb/>
+nogensomhelst opsigtvækkende Demonstration. Thrane frafaldt villig <lb/>
+Petitionens Afgivelse den 17de Mai og lovede mig al sin Indflydelse for den <lb/>
+Dag at afværge Uordenen, men kunde ikke love at afværge den paatænkte <lb/>
+Procession nogen anden Dag, uden hans Cameraders Samtykke, som han <lb/>
+vilde søge erhvervet.</p>
+               <p xml:id="p10">	Jeg betvivler desto værre meget, at disse ville frafalde <lb/>
+Processionen, og da jeg ikke har lovlige Midler til forbyde eller forhindre <lb/>
+en saadan troer jeg det for Øieblikket klogest "de faire bonne mine à <lb/>
+un désagréable jeu," hvor piinligt det end vil være mig.</p>
+               <p xml:id="p11">	Jeg vover herom at udbede mig Deres Majestæts naadige Formening.</p>
+               <p xml:id="p12">	En anden Copie af H. Harrings senere Dagbog vedlægges underdanigst.</p>
+               <p xml:id="p13">	Om ham har jeg senere af Morgenstjerne erfaret Følgende: Han skal <lb/>
+være i megen Pengetrang, han havde engageret en mindre Handlende her <lb/>
+til at begive sig til Boppart ved Rhenen eller til Carlsruhe, for af en <lb/>
+af hans Venner at modtage en Sum Penge, som han skulde bringe tilbage <lb/>
+hertil mod et Honorar af 200 preussiske Thaler; Pengene skulde Vennen <lb/>
+skylde Harring for Malerier, som denne havde leveret ham til Salg; den <lb/>
+Handlende har imidlertid senere tilbagekaldt sit Løvte om Reisen. – <lb/>
+Ifølge Morgenstjernes underdanigst vedlagte Brev skal Harring blive <lb/>
+Hovedredakteur for et nyt <hi rend="underline">religieust</hi>  politisk norsk Blad efter medfølgende <lb/>
+Program. Han skal have en Søster eller nær Beslægtet som Gouvernante <lb/>
+hos en Grev Piper i Stockholm, fra hvem han jevnlig modtager Breve.</p>
+               <p xml:id="p14">	Jeg henledede i Gaar under en confidentiel Samtale Regjeringens <lb/>
+Opmærksomhed paa denne lumpne Person. Vi vare alle enige om at uagtet det <lb/>
+ikke hidindtil har lykket at opdage nogen hans juridisk strafbar Virksomhed <lb/>
+her, maa han dog ansees saa mistænkelig, ja farlig, at det er <lb/>
+saare ønskelig at man kunde sende ham bort, før han udvikler sin bebudede <lb/>
+literaire Virksomhed og muligen nogen anden. Vi vare ogsaa enige <lb/>
+om, at Regjeringen hertil har Myndighed og Ret, endog uden juridisk <lb/>
+Beviis, men kun en vel grundet Formodning om, at Harring opholder sig her <lb/>
+i en for Staten og Samfundet skadelig Hensigt.</p>
+               <p xml:id="p15">	Til Begrundelse for en saadan Formodning vilde det være tilstrækkeligt, <lb/>
+om Deres Majestæt vilde have den Naade at give Udenrigsministeren <lb/>
+de fornødne Oplysninger, for at Hans Excellence <hi rend="underline">uden at angive sine</hi>
+                  <lb/>
+                  <hi rend="underline">Kilder</hi>, – kunde meddele mig, at have udenrigsfra modtaget paalidelig <lb/>
+Underretning om, at Harring er hidkommen eller hidsendt i den i flere <lb/>
+Deres Majestæts naadige Skrivelser angivne Hensigt, at tilveiebringe <lb/>
+en Forening mellem vore Arbeiderforeninger og udenrigske socialistiske <lb/>
+Klubber. En saadan confidentiel <hi rend="underline">snarlig</hi>  Meddelelse fra Hans Excellence <lb/>
+Udenrigs Ministeren, er saare ønskelig, medens jeg ikke vil undlade at <lb/>
+søge andre Oplysninger. Jeg tillader mig underdanigst at gjentage, at <lb/>
+Kilden for Meddelelsen ikke behøve at angives, da det for os vil være <lb/>
+nok, at Hans Excellence anseer dem paalidelige.</p>
+               <p xml:id="p16">	Jeg antager, at Lieutenant Ræders Deeltagelse i <lb/>
+Værnepligtscommissionen maa faae en god Indflydelse paa Sagens Behandling. <lb/>
+Jeg har herom kun hørt den Bemærkning, som var mig behagelig: "Her har  <lb/>
+Kongen gjort Sin egen Mening gjeldende".</p>
+               <p xml:id="p17">	Jeg tør forbeholde i mit næste at afgive min underdanige Rapport <lb/>
+betræffende Kammerherre Brandts Huus. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25 April 1850</date>.</dateline>
+                  <lb/>
+Til  <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 25. april 1850</supplied>
+               </head>
+               <head type="sub3" xml:id="h4">  11 Avril.</head>
+               <p xml:id="p18">J’apprends que Taparelli s’est fait rédacteur du ”civitta  <lb/>
+cattolica”, il est donc véritablement Jésuité? – au reste quand le diable <lb/>
+se fit vieux il se fit moine.</p>
+               <p rend="center" xml:id="p19">------- </p>
+               <p xml:id="p20">Le socialisme éclaire, la réligion trompe. L’un est l’esprit de <lb/>
+lumiére, l’autre l’esprit de ténèbres. <lb/>
+               </p>
+               <p xml:id="p21">Entre eux est la lutte du bien et du mal! Ramener tout á Dieu au <lb/>
+lieu de ramener tout à l’homme:</p>
+               <p xml:id="p22">	Voilà la religion!</p>
+               <p xml:id="p23">	Pour qu’elle triomphe il faut détrouer le socialisme et anéantir <lb/>
+Son idée.</p>
+               <p xml:id="p24">	Dieu c’est le mal!</p>
+               <p xml:id="p25">	L’on prêche la divinité, tout en flattant les penchans matériels <lb/>
+et les instincts terrestres, n’est ce pas plus franc de dire: ”jouis <lb/>
+de tous les biens de ce monde, c’est ton droit, dont on n’a pu te dé- <lb/>
+pouiller que par un crime”.</p>
+               <p rend="center" xml:id="p26">-------</p>
+               <p xml:id="p27">C’est édifiant de voir Son Altesse le Duc Ferdinand Charles de <lb/>
+Bourbon, par la grâce du diable, Duc de Parme, de Plaisance etc.  <lb/>
+assister à une messe, chantée en commémoration de la victoire de  <lb/>
+l’infame Rodetzky à Novara, où perdit sa couronne et son trône – <hi rend="underline">son</hi>
+                  <lb/>
+grand père, ce pauvre Victor Emanuel, qui était le moins mauvais de <lb/>
+cette race execrable qu’on nomme ”rois”. Si cette bataille eût été <lb/>
+gagnée nous aurions eu <hi rend="underline">pour</hi>  nous toutes les chances que nous avons <lb/>
+actuellement <hi rend="underline">contre</hi>  nous, et personne ne sait quel aspect l’Europe  <lb/>
+aurait eu aujourd’hui même. Ce beau pays de Parme, qui se trouve sous <lb/>
+la ferule d’un imbecille comme ce jeune Duc Charles. Quelles infamies <lb/>
+n’a-t-on pas commis avec ce pauvre pays depuis la maison Farnèse en <lb/>
+1731 jusqu’à présent!</p>
+               <p xml:id="p28">	Enfin le 15 Avril est arrivé! Que fait-on dans ce moment à Génève? <lb/>
+Louis Blanc et Caussidière sont-ils arrivés? j’en doute!</p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 25. april 1850</supplied>
+               </head>
+               <opener>Hans Excellence <lb/>
+Høivelbaarne Hr Statholder <lb/>
+v. Løvenskiold,  <lb/>
+Ridder og Commandør af Hs. Msts Ordener,  <lb/>
+Storkors af St Olafsordenen,  <lb/>
+Ridder af Elephanten.</opener>
+               <p xml:id="p29">	Ved hoslagt at oversende Ders Excellence Programmet til en ny <lb/>
+udkommende Avis ”Folkets Røst”, tillader jeg mig at anmelde at  <lb/>
+Undertegnerne, ”nogle Venner af Friheden”, ere DHr Haro Haring, Prokurator  <lb/>
+Gaarder, to Herrer Poulsen og Martinus Bratlie. Haro Haring er  <lb/>
+Hovedredactøren og den hvem al pecuniær Fordel skal tilflyde.</p>
+               <p xml:id="p30">	Da Bogtrykker Malling skal indestaae for hvad der trykkes i Bladet, <lb/>
+og han derhos ønsker at faae det udbredt igjennem Landets Præster, har <lb/>
+han fordret som første Betingelse at det skal holdes i en stræng  <lb/>
+religiøs Aand, – Gaarder, der af Storthinget skal vælges til Statsrevisor, <lb/>
+har fordret at dette ved enhver Leilighed skal behandles høfligt. Der <lb/>
+skal allerede have tegnet sig imellem 4 og 500 Subscribentere her i Byen; <lb/>
+Meest af Haandværkere og Handlende. – Det Hele antages almindelig, selv <lb/>
+blant Harings Omgivelser, for at være en Pengespeculation. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania Politikammer</placeName>
+                     <date>d. 24de April 1850</date>.</dateline>
+                  <lb/>
+                  <salute>underdanig</salute>
+                  <lb/>
+                  <signed>
+                     <persName>C. Morgenstierne</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

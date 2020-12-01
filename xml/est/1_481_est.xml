@@ -1,0 +1,72 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>481</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 28 desember 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 28 desember 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned.</p>
+               <p xml:id="p2">	Hensigten med disse underdanige Linier, er kun at fremføre for <lb/>
+Deres Majestæt min underdanige Taksigelse for det nu hensvundne Aar, <lb/>
+min underdanige og hjertelige Lykønskning til det nye Aar. Gud holde <lb/>
+Sin beskyttende Haand over Deres Majestæt, det Kongelige Huus og Deres <lb/>
+Majestæts Riger!</p>
+               <p xml:id="p3">	Tvende Folk velsigne Deres Majestæt taknemmelig, for den Viisdom, <lb/>
+hvormed Deres Majestæt i det forløbne Aar har beskyttet deres <lb/>
+Fred og Velvære, de nedbede Forsynets Bistand for Deres Majestæt i <lb/>
+det nye Aar. En ond Dæmon har løssluppet alle menneskelige Lidenskaber <lb/>
+i Europa, man brænder og myrder med Lidenskab, uden gyldig Grund, <lb/>
+uden forstandigt eller billigt Formaal! Gud holde den onde Dæmon borte <lb/>
+fra Deres Majestæts Riger!</p>
+               <p xml:id="p4">	Jeg beder naadigst tilgivet, at jeg i Dag besværer Deres Majestæt <lb/>
+med 2de særskilte Rapporter, og udbeder naadig Overbærelse om <lb/>
+de bære Præg af den rheumatiske Lidelse, hvorunder de ere skrevne. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 28de December 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

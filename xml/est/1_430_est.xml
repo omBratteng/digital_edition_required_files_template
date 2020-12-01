@@ -1,0 +1,86 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>430</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 12. februar 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 12. februar 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p xml:id="p2">	Regjeringens Medlemmer, hvem jeg, efter Deres Majestæts naadige <lb/>
+Befaling, har meddeelt de Deres Majestæts naadige Skrivelse af 1ste <lb/>
+denne Maaned vedlagte Aktstykker, har med stor Tilfredsstillelse  <lb/>
+erfaret Deres Majestæts Yttringer, saavel i Samtale med den russiske <lb/>
+Minister, som i Brev til Keiseren, i Anledning af den russiske Erklæring. <lb/>
+Om denne var ubehagelig, saa ere de senere modtagne Erklæringer <lb/>
+om den samme Gjenstand fra Wien, Berlin, London, saa meget behageligere, <lb/>
+og glæder det mig især, at disse Magter ikke alene erkjende <lb/>
+den af Deres Majestæt indtagne neutrale Stilling stemmende med Klogskab, <lb/>
+men ogsaa med den europæiske Folkeret.</p>
+               <p xml:id="p3">	Med sidste Post afsendtes Budgetforslaget, hvoraf vil erfares, <lb/>
+hvorledes Finantsbestyrelsen har bestræbet sig for at opfylde de mange <lb/>
+og overordentlig store Fordringer, som gjøres paa Statscassen. Endog <lb/>
+hvad der udfordres til Iværksættelse af Armeens Reorganisation vil <lb/>
+kunne præsteres, naar der renonceres paa 22,000 Species, som i andre <lb/>
+Retninger ere foreslaaede for Armeen; men som, uagtet ønskelige,  <lb/>
+Statsraad Bloch erkjender at maatte staae tilbage for hiin høist vigtige <lb/>
+Gjenstand.</p>
+               <p xml:id="p4">	I denne Begivenhed har den heldige Indflydelse af Armee-Departementets <lb/>
+Forening med Commandoen tilfulde viist sig. Uden denne Forening <lb/>
+vilde Armeens Reorganisationsplan neppe være bleven tiltraadt af <lb/>
+Regjeringen; men Statsraad Bloch forsvarede sin Indstilling med saa  <lb/>
+megen Sagkundskab og Maadehold, at han overvandt alle Fordomme. Paa <lb/>
+den anden Side vilde General Bloch neppe have erkjendt Nødvendigheden <lb/>
+af at frafalde andre Fordringer, om han ikke havde været Medlem af <lb/>
+Regjeringen.</p>
+               <p xml:id="p5">	For mig er det en stor Tilfredsstillelse at see, hvorledes man, <lb/>
+efter moderne Reformer, kommer tilbage til det Gamle, til vore gamle <lb/>
+Regimenter, med deres gamle Navne. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 12te Februar 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

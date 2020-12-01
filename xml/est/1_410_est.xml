@@ -1,0 +1,155 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>410</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 15. september 1853</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 15. september 1853</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 8de denne Maaned.</p>
+               <p xml:id="p2">	Den frygtelige Cholera Sygdom vedbliver at herje og dræbe i <lb/>
+Christiania Bye og Omegn, og derfra at udbrede sig til Rigets øvrige <lb/>
+Dele. Fra 25de Julii til igaar Morges vare i Staden og Agers Sogns <lb/>
+Landdistrict angrebne af Sygdommen 1604, død 1020 Personer. Sygommens <lb/>
+videre Fremskridt til Postens Afgang i Morgen, vil af Kammerherre <lb/>
+Holst blive antegnet paa Foden heraf.</p>
+               <p xml:id="p3">	Epidemien synes endnu ikke at have opnaaet sit Culminationspunkt, <lb/>
+uagtet der fra den Tid da det første Tilfælde viiste sig, er forløbet <lb/>
+50 Dage, hvorimod der fra den Tid, da Sygdommen tog et stærkere <lb/>
+Opsving og viiste sig som Epidemie, kun er forløbet lidt over 4 Uger.</p>
+               <p xml:id="p4">	Jeg søger ikke Faren, men jeg skyer den heller ikke, naar jeg <lb/>
+under Guds Varetægt gaaer i mit lovlige Kald. Saaledes var jeg i  <lb/>
+Overgaars i Byen for løbende Forretninger; igaar for Statsraadet, hvor <lb/>
+2 Medlemmer forhindredes fra at møde, ved en <hi rend="underline">dog ikke farlig</hi>  Upasselighed. <lb/>
+Stemningen er, medens hvert Øieblik en Bekjendt, en Ven bortrives, <lb/>
+og Ingen veed, hvor længe man selv bliver forskaanet, naturligviis <lb/>
+nedtrykt og sørgelig. Under mit Ophold i Byen i Gaar bortrev Sygdommen <lb/>
+atter en brav Mand, Oberstlieutenant Heyerdahl, Chef for 3die <lb/>
+Artillerie Bataillon.</p>
+               <p xml:id="p5">	Just med Hensyn paa den sørgelige Stemning og for at vise, at man <lb/>
+ikke bør opgive Haabet paa en Fremtid, tog jeg, ledsaget af General <lb/>
+Wedel, i Overgaar Theatret i sin nye Skikkelse i Øiesyn og fandt, at <lb/>
+det, ved Tillægget af en nye 3die Logerad og øvrige Forbedringer, har  <lb/>
+vundet overmaade meget. Give Gud, at sanitaire Hensyn og en gladere <lb/>
+Stemning snart maa tillade at tage det i Brug!</p>
+               <p xml:id="p6">	Jeg er fremdeles uvidende om Deres Majestæts naadige Hensigt med <lb/>
+Hensyn paa den vacante Statsraadposts Besættelse og Justits  <lb/>
+Departementets Bestyrelse. Min fra første Øieblik yttrede underdanige  <lb/>
+Formening er uforandret: at Sorenskriver Lasson er det bedste Valg, som  <lb/>
+Deres Majestæt kan gjøre, og hans mundtlige Yttringer levne mig noget <lb/>
+Haab om, at de <hi rend="underline">undskyldelige</hi>  Betænkeligheder, som forhindrede ham fra <lb/>
+at modtage Deres Majestæts første naadige Tilbud, maatte kunne hæves. <lb/>
+                  <hi rend="underline">I Mangel heraf</hi>  formener jeg underdanigst, at Justits Departementets <lb/>
+Overdragelse til Statsraad Vogt er det Bedste, ja det ene Rette; men i <lb/>
+saa Fald mangler dog en Statsraad!</p>
+               <p xml:id="p7">	Under de mange Statsraads Vacancer, som jeg har oplevet, har man <lb/>
+som oftest været forlegen for en Eftermand. I denne Begivenhed havde <lb/>
+man en selvskreven Mand, som allerede som tilforordnet Statsraad har <lb/>
+viist sin anerkjendte Dygtighed, og denne Mand bortfjerner man ved en <lb/>
+utidig Remonstration mod Deres Majestæts tilkjendegivne naadige Villie, <lb/>
+som neppe er forbleven Lasson ubekjendt! og som uden Tvivl har havt en  <lb/>
+afgjørende Indflydelse paa hans Beslutning.</p>
+               <p xml:id="p8">	Kort før min Bortreise sidste Sommer blev jeg meget glad ved af <lb/>
+Deres Majestæts naadige Skrivelse af 6te Junii at erfare Deres Majestæts <lb/>
+naadige Bifald til Regjeringens Pluralitets underdanige Indstilling  <lb/>
+i Anledning af Tvisten mellem Commandanten paa Agershuus Fæstning <lb/>
+og Brand Directeuren i Christiania, hvorom jeg i min underdanige Rapport <lb/>
+af 2den Juny har givet Oplysning. Vidende om, at Generaladjutant <lb/>
+Krogh er meget bekymret over denne Sags Stilling, hvorunder han daglig <lb/>
+er udsat for at blive compromitteret som Commandant, beroligede jeg <lb/>
+ham før min Afreise med Haab om, at Deres Majestæt snart vilde have <lb/>
+den Naade at afgjøre Sagen efter Commandantens billige Ønske. Jeg vovede <lb/>
+at troe, at dette forlængst var skeet, og jeg kan nu kun beklage, <lb/>
+st denne Sag i sidste Statsraad endnu ikke er bleven afgjort, fordi en <lb/>
+i Agershuus Fæstning udbrydende Ildsvaade, i Sagens nærværende Stilling <lb/>
+skulde kunne foranledige uheldige Conflicter og andre slemme Følger, <lb/>
+som jeg i min underdanige Rapport af 2de Junii har tilladt mig <lb/>
+at paapege.</p>
+               <p xml:id="p9">	Høehøsten har i Almindelighed været ringe, hvorimod Agrene give <lb/>
+en riig Høst, hvis Indbjergning fremdeles begunstiges af et velsignet <lb/>
+Veir. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 15 September 1853</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 15. september 1853</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Cholerasyge i Christiania og Omegn</hi>:</head>
+               <table rend="noBorder" xml:id="table1">
+                  <row>
+                     <cell>Fra 25de Julii til 14de Septbr:</cell>
+                     <cell> 1604 Angrebne,</cell>
+                     <cell> hvoraf 1020 Døde;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell> "  14de Septbr til 15de Septbr:</cell>
+                     <cell>  89	  do	</cell>
+                     <cell>  do	59  do;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>"  15de Septbr til 16de Septbr:</cell>
+                     <cell>  91  do </cell>
+                     <cell> do  60  do;</cell>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell/>
+                     <cell rend="botBorder"/>
+                     <cell rend="botBorder"/>
+                  </row>
+                  <lb/>
+                  <row>
+                     <cell>i det Hele fra 25de Juli til 16de Septbr;</cell>
+                     <cell>1784 Angrebne,</cell>
+                     <cell> hvoraf 1139 Døde.</cell>
+                  </row>
+               </table>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

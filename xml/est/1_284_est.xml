@@ -1,0 +1,186 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>284</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 3. april 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 3. april 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 30te forrige Maaned.</p>
+               <p xml:id="p2">	Jeg takker underdanigst for Deres Majestæts naadige Skrivelse <lb/>
+af 27de forrige Maaned. Statsraad Petersens underdanigst vedlagte <lb/>
+Skrivelse oplyser, hvorledes det gik til med, at Rapporterne om  <lb/>
+Begivenhederne i Trondhjem ikke blev offentliggjorte.</p>
+               <p xml:id="p3">	Grev Trampe har meddeelt mig, at han har afgivet directe til <lb/>
+Stockholm underdanigst Rapport om ny voldsom Opsætsighed af Almuesmænd <lb/>
+i Øvre Størdalen. Det er sørgelig nu jevnligen at see deslige <lb/>
+Udbrud af voldsom Lovløshed i og af et Folk, som i de første 37 Aar <lb/>
+under en frie Forfatning bevarede den Lovlydighed, som under en  <lb/>
+faderlig Enevolds Regjering i Secler var bleven det til en lykkelig Vane. <lb/>
+Dette beklagelige Phænomen finder dog sin Forklaring i den sande <lb/>
+Beskrivelse over vore Døgnblades Virksomhed, som gives i underdanigst <lb/>
+vedlagte Blad. Denne Pressens Virksomhed er Roden til den lovløse <lb/>
+Tænke- og Handlemaade, som nu truer det norske Statssamfund med  <lb/>
+Opløsning, den har opvakt en statsopløsende Aand og Tendents, først i <lb/>
+de høiere staaende Classer, og er nu nedtrængt i Folkets Masse, hvor <lb/>
+den bringes til jevnlige Udbrud af lumpne Agitatorer og finder Medhold <lb/>
+hos en Storthings Majoritet, som den nærværende. Det er Tilfældet <lb/>
+med moralske som med physiske Sygdomme, den døende Patient <lb/>
+kan kun reddes, om hans Læge har Skarpsindighed til at opdage  <lb/>
+Sygdommens Aarsag og Dygtighed til at hæve den.</p>
+               <p xml:id="p4">	Den Formodning, som jeg i min sidste underdanigste Rapport yttrede <lb/>
+om, at Professor Munch er Forfatter af Morgenblads Artiklerne om <lb/>
+et nyt Ministerium er nu bleven til Vished. Han skriver deslige Artikler <lb/>
+for god Betaling af Stabell.</p>
+               <p xml:id="p5">	Fra Regjerings Advocaten har jeg nu modtaget den forlangte <lb/>
+Betænkning om Storthingets Beslutning i Bergmester Sexes Faveur. Denne <lb/>
+Betænkning er fordret og givet confidentielt, og jeg vover derfor  <lb/>
+underdanigst at bede den ikke for Tiden omtalt.</p>
+               <p xml:id="p6">	Vor Kron-Jurist yttrer den bestemte Mening: at Storthinget ikke <lb/>
+i Grundloven har Hjemmel følgelig ikke har Ret til eensidig at tage <lb/>
+en Beslutning som den tagne, og at følgelig Beslutningens Gyldighed <lb/>
+eller Ugyldighed aldeles <hi rend="underline">er afhængig af Deres Majestæts naadige</hi>
+                  <lb/>
+                  <hi rend="underline">Bifald eller Forkastelse</hi>. Denne juridiske Mening vil formodentlig <lb/>
+vinde Pluralitet, muligen Unanimitet i Statsraadet, men naar det kommer <lb/>
+an paa at yttre sig om Tilraadeligheden eller om Utilraadeligheden af <lb/>
+at opretholde det Kongelige Prærogativ, det er Kongemagten i Norge <lb/>
+om at staae eller falde, − ak! da er jeg meget usikker! Min eneste <lb/>
+Trøst, mit eneste Haab er, at Gud vil forunde Deres Majestæt Kraft <lb/>
+til uden Hensyn til Andres Raad, at opretholde den Kongemagt, som af <lb/>
+Forsynet er Deres Majestæt forlehnet. Deres Majestæt er ophøiet over <lb/>
+juridisk Ansvar, over en infernal Rigsret, og Kongemagtens Kraft <lb/>
+møder endnu megen Sympathie i Norge. Deres Majestæts høie Personlighed <lb/>
+end mere!</p>
+               <p xml:id="p7">	Det i min underdanigste Rapport af 27de forrige Maaned som <lb/>
+udsat ommeldte Festmaaltid for Storthinget, er efter mange  <lb/>
+Underhandlinger omsider bleven skrinlagt. Indbydelsen strandede paa  <lb/>
+Mangel af Deeltagere, hvorved Indbyderne og de som man vilde feire, ere <lb/>
+compromitterede.</p>
+               <p xml:id="p8">	Underhaanden tilspurgt om jeg vilde modtage Indbydelsen, bad <lb/>
+jeg mig paa Grund af min Alder undskyldt for at deeltage i et talrigt <lb/>
+Selskab paa et offentligt Sted, hvorom jeg underrettede mine Colleger. <lb/>
+Faa Dage før denne Indbydelse udgik var det ved en Middag, som <lb/>
+Ytteborg gav for en stor Deel Storthingsmænd indtruffet, at de 2 de <lb/>
+Brødre Olsen, Lerche og nogle røde Storthingsbønder, nægtede at drikke <lb/>
+den af Værten proponerede Deres Majestæts Skaal og blev siddende. <lb/>
+Dette var nok for mig, for ikke at ville deeltage i et Selskab, hvor <lb/>
+saadant kunde passere. Efter mange Underhandlinger refuserede alle <lb/>
+Statsraader Indbydelsen med Undtagelse af Stang, som interesserede <lb/>
+sig ivrig for Selskabet, thi her vilde have været Anledning til at <lb/>
+lade sit Talent lyse og til at høste Laurbær.</p>
+               <p xml:id="p9">	Det Paafaldenste i denne Begivenhed, er at Byens Borgemester <lb/>
+Fougstad og Formandskabets Ordfører, Rasch stod i Spidsen for den <lb/>
+taktløse Indbydelse, som desværre ikke kan alene tilskrives  <lb/>
+Tankeløshed. Man mener nemlig, at Rasch vilde gjøre Storthinget Cour,for <lb/>
+at blive Bank-Direkteur efter Bankens mulige Flytning hertil.</p>
+               <p xml:id="p10">	Jeg beklager, at Politiemester Morgenstjerne befandtes blandt <lb/>
+de meget faae Embedsmænd, som havde antaget og paategnet Indbydelsen. <lb/>
+Deslige Smaadrag betegne Menneskers Paalidelighed eller Upaalidelighed.</p>
+               <p xml:id="p11">	Idag har den hele Storthings Session fra Klokken 9 Morgen til <lb/>
+Klokken 4 Eftermiddag været optaget af Skjænderie i Anledning af <lb/>
+Adresse Committeens Indstilling. De ærværdige Fædre skulle, som <lb/>
+man af dem maatte vente, have været yderst grove mod Regjeringen og <lb/>
+imellem sig indbyrdes. Præsidenten, Hr Aall kaldte gamle Rector <lb/>
+Holmboe til Orden i Anledning af Yttringer mod Lerche; hvorimod Holmboe <lb/>
+protesterede. Sluttelig bifaldtes Comitéens Indstilling <hi rend="underline">mod Adressen</hi>, <lb/>
+mod 19 Stemmer. Imidlertid har denne rhetoriske Øvelse idag <lb/>
+kostet 4 à 500 Spdl. som kunde have været bedre anvendte.</p>
+               <p xml:id="p12">	Jeg bekjender, at den Dag vort Selskab<hi rend="underline">ikke</hi>  er samlet, er for <lb/>
+mig en Lise, da man derved undgaaer den følgende Morgen at forarges <lb/>
+over fremført Uvid, Dumhed og Grovhed.</p>
+               <p xml:id="p13">	Jeg beklager, at jeg ikke har Anledning til at indberette <lb/>
+Noget bedre; men jeg skylder Deres Majestæt fremfor Alt Sandhed. Jeg <lb/>
+har ikke ventet mig Noget bedre af dette Selskabs Majoritet, hvis bedre <lb/>
+Minoritet, træt af forgjæves Modstand, trækker sig mere og mere <lb/>
+tilbage. Denne Majoritet vil drive det til en aaben Kamp, hvis Udbrud <lb/>
+muligens Ene vil kunne afværges ved Deres Majestæts kraftige <lb/>
+og personlige Optræden ved første Leilighed, til Exempel i den Sexiske <lb/>
+Sag; men om Kampen skulde blive uundgaaelig vil Majoriteten snart <lb/>
+erfare sin Afmagt og give Anledning til at Mangt og Meget som 1814 <lb/>
+blev overseet og forsømt, vil kunne blive redresseret. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die April 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 3. april 1851</supplied>
+               </head>
+               <p xml:id="p14">	Ved hoslagt at tilbagesende H.M. Kongens Skrivelse til Deres <lb/>
+Excellence af 27de Januar giver jeg mig den Ære at meddele, at <lb/>
+de omhandlede Rapporter fra Stiftamtmanden og Politiemesteren i <lb/>
+Trondhjem herfra bleve overleverede en af Christianiapostens <lb/>
+Redakteurer samme Dag Departementet havde modtaget dem, for at de <lb/>
+kunde blive indtagne i Bladet for næste Dag. At dette alligevel <lb/>
+icke skeete, kom deraf, at Redakteuren samme Gang havde modtaget <lb/>
+et privat Brev om Tildragelserne og foretrak at indrykke det,  <lb/>
+efterat have forvisset sig om at det stemmede overeens med de  <lb/>
+officielle Rapporter. Jeg blev først senere opmærksom paa dette, men <lb/>
+fandt det da mindre passende at forlange disse indrykkede. Herefter <lb/>
+skal saadant dog blive iagttaget.</p>
+               <p xml:id="p15">	Jeg beder Deres Excellence undskylde at jeg, som Følge af <lb/>
+presserende Forretninger, tillader mig at gjøre denne Meddelelse  <lb/>
+skriftlig. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 31 Marts 1851</date>.</dateline>
+                  <salute>Allerærbødigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Petersen</persName>
+                  </signed>
+                  <lb/>
+Hans Excellence <lb/>
+Statholder Løvenskiold <lb/>
+Ridder og Commandeur af <lb/>
+H.Kgl Majestæts Ordener.
+    	Pp</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

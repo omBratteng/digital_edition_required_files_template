@@ -1,0 +1,66 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>67</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. mai 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. mai 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 1ste denne Maaned har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelser af 27de April og 4de Mai, hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p xml:id="p2">	Dagsposten bragte mig ogsaa den i sidstnævnte ommeldte Deres Majestæts foreløbige naadige Bifald til Toldpakhusets Bygning, ved Statsraad Krog.</p>
+               <p xml:id="p3">	Jeg takker underdanigst for den Opmærksomhed, Deres Majestæt har havt den Naade at skjænke den norske Posts Befordring gjennem Sverige, som jeg ønsker at lade komme til almeen Kundskab, naar den anbefalede gavnlige Foranstaltning til Postens hastigere Befordring er bleven iværksat.</p>
+               <p xml:id="p4">	At vi tør gjøre os Haab om den Lykke at modtage Deres Majestæt her under Løbet af anstundende Sommer glæder mig meget. Ogsaa i Kjøbenhavn smigrer man sig med Haab om Deres Majestæts og Hans Kongelige Høihed Kronprindsens Besøg?</p>
+               <p xml:id="p5">	Jeg vil ikke undlade i første Statsraad foreløbig at omtale den naadigst bebudede Dampskibscommunication imellem Gothenborg, Christiansand og Hull, som her vilde opvække særdeles megen Tilfredshed. Nogen Meddelelse om denne interessante Gjenstand fra Statsraad Krog er mig til Dato ubekjendt.</p>
+               <p xml:id="p6">	Hans Kongelige Høihed Kronprindsens høie Fødselsdag, havde jeg den Ære at feire med en større Middag og med hjertelige Ønsker.</p>
+               <p xml:id="p7">	Statsraad Schmidt ankom hertil fra Stockholm den 4de.</p>
+               <p xml:id="p8">	Statsraad Vogt vilde have tiltraadt sin Reise til Stockholm i Morgen; men er forhindret ved en stærk Forkjølelse, som i Gaar og i Dag har holdt ham i Sengen. Hans Læge haaber, at han vil kunne reise kommende Mandag, i hvilket Fald han vil kunne komme til Stockholm den 18de Mai.</p>
+               <p xml:id="p9">	Foraaret, som tidlig tilsmilede os, har desværre gjort Vendereise. Den senere Tids Temperatur er kold og ubehagelig og vi faae neppe det efterlængtede Foraar tidligere end sædvanlig, altsaa meget seent. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Mai 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

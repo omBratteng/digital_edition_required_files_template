@@ -1,0 +1,63 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>59</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 6. mars 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 6. mars 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de forrige Maaned.</p>
+               <p xml:id="p2">	Jeg tillader mig at gjentage min underdanigste Taksigelse for Deres Majestæts naadige Skrivelse af 23de forrige Maaned, som var mig dobbelt kjærkommen, efterat jeg i længere Tid havde savnet den Lykke at modtage Noget fra Deres Majestæts Høie Haand.</p>
+               <p xml:id="p3">	Major Ingjers naadige Udnævnelse til Chef for det Valderske Corps var mig meget behagelig, fordi den er aldeles overeensstemmende med de Grundsætninger, og de derpaa baserede Regler for Avancement til de høiere militaire Charger, som Høistsalig Kongen Selv har ordlydende dicteret i Armeeplanen. Den deri etablerede Grundsætning, at Avancement i de inferieure Poster skal foregaae efter Anciennetet, i de superieure derimod<hi rend="underline">ene</hi>  med Hensyn paa Dygtighed, er dicteret af en competent Dommer og uden Tvivl saa stemmende med Armeens Tarv, at jeg høieligen betvivler, at den nu for denne Gjenstand anordnede Commission vil kunne udfinde noget hensigtsmæssigere. Deres Majestæts naadigste Befaling angaaende Deres Kongelige Høiheder Prindsernes Bestallinger, har jeg meddeelt Statssecretairen.</p>
+               <p xml:id="p4">	Ligesaa har jeg underrettet General Wedel og øvrige Vedkommende om Deres Majestæts naadige Beslutninger betræffende Slottets Meublering. For General Wedel var Deres Majestæts naadige Hilsen en kjærkommen Opmuntring, hvorfor han har bedet mig bevidne sin underdanigste Taknemmelighed. Den Stakkels Mand har den hele Vinter ikke kunnet bruge sine Fødder. Ikkedestomindre er han daglig iklæd sin Uniform, pleier sine Forretninger med sædvanlig Nøiagtighed og jeg har aldrig hørt en Klage af hans Mund over hans piinlige Stilling.</p>
+               <p xml:id="p5">	Min senest yttrede Frygt for vort gode Vinterføre var desværre vel grundet. Den senere Tids milde Temperatur og taagige (dimmige) Atmosphære har aldeles berøvet os dette for vor indre Rørelse uundværlige Middel, medens de Kjørseler, hvortil Slædeføre behøves, neppe ere fremmede mere end 2/3. Dette er en virkelig og stor Calamitet.</p>
+               <p xml:id="p6">	Da jeg første Gang Aar 1797, altsaa et halvt Seculum tilbage, besøgte Christiania, havde denne Bye 11,000 Indvaanere. Efter den nu fuldførte Folketælling har den 31,702. Jeg tillader mig underdanigst at vedlægge en Opgave over de 3 sidste Folketællinger 1825, 1835 &amp; 1845, som viser, at Folkemængden i de sidste 20 Aar er forøget med 12,641. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 6 Marts 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

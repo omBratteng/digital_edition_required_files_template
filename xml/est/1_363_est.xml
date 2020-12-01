@@ -1,0 +1,105 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>363</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 17. oktober 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 17. oktober 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Det bliver i Morgen 8 Dage siden Deres Majestæt forlod os, og jeg <lb/>
+har idag Intet at indberette.</p>
+               <p xml:id="p2">	Det er saaledes alene mit Hjerte, som uimodstaaelig foranlediger <lb/>
+mig til at besvære Deres Majestæt med disse underdanige Linier; thi <lb/>
+medens jeg i Alt øvrigt føler, at min Alder er en ulægelig Sygdom, er <lb/>
+Hjertet endnu ungt og byder mig med Ungdommens varme Følelse endnu en <lb/>
+Gang at bevidne Deres Majestæt min hjertelige Deeltagelse i det haarde <lb/>
+Slag, som saa uventet rammede Deres Majestæts ømme Faderhjerte.</p>
+               <p xml:id="p3">	At dette Slag skulde slutte Deres Majestæts skjønne Reise, der <lb/>
+lignede et Triumphtog; at det skulde ramme inden Norges Grændser,  <lb/>
+bedrøver mig usigelig; men Guds Veie ere ikke vore! og Deres Majestæt <lb/>
+har erfaret, at Norges Folk af ganske Hjerte deeler Sorg som Glæde med <lb/>
+Sin elskede Konge og Hans Huus.</p>
+               <p xml:id="p4">	Deres Majestæt begræder med Ret en elseklig og elsket Søns Tab; <lb/>
+men Forsynet har levnet Deres Majestæt andre kjære Børn, andre Pligter, <lb/>
+andre Gjenstande for Sin Kjærlighed og Omsorg og give Gud! at Deres <lb/>
+Majestæt i denne Følelse maa finde Trøst! Kongen, som Undersaatten have <lb/>
+det Menneskelige fælles, og jeg tør saaledes bemærke at jeg under Tabet <lb/>
+af mit Kjæreste paa Jorden, en høit elsket Hustru, elskede Børn, <lb/>
+har føelt mig haabløs; tilintetgjort; men jeg har erfaret, at Gud alene <lb/>
+kan styrke det svage Menneske og gjengive os Kraft til endnu her <lb/>
+at virke, indtil han vil forene os med vore kjære Hedengangne, naar vi <lb/>
+skulle skilles fra de os her levnede Kjære, fra vore jordiske Pligter.</p>
+               <p xml:id="p5">	Den samme velgjørende Erfaring vil Deres Majestæt vinde og hertil <lb/>
+give Gud Deres Majestæt og hendes Majestæt Dronningen Sjæls og  <lb/>
+Legemsstyrke! Vi følge Deres Majestæter med vore kjærlige Ønsker og med <lb/>
+Længsel efter at erfare Deres Lykkelige Hjemkomst.</p>
+               <p xml:id="p6">	Efterat jeg har erfaret, at Deres Majestæt anseer Oberstlieutenant <lb/>
+Rosen ubrugbar for Generalstaben, ubrugbar i Stockholm, er al min  <lb/>
+Omtanke, al min Bestræbelse henvendt paa at kunne forlænge hans passive <lb/>
+Stilling og faae hans Function udført, uden at krænke vore minutieuse <lb/>
+constitutionelle Former. Vanskeligheden bestaaer i, at Rosen som bestallet <lb/>
+3die Officier i Generalstaben, er inamovible og at Regjeringen ikke <lb/>
+kan disponere over Armeens besparede Midler, fordi Storthinget  <lb/>
+udtrykkelig har bestemt, at disse skulle anvendes til Armeens Materiel. <lb/>
+Denne Sag er nu Gjenstand for Statsraadets Discussion og især for mine <lb/>
+møisommelige Underhandlinger med de flere Vedkommende. I Haab om at <lb/>
+kunne opnaae et nogenlunde tilfredsstillende Resultat, tillader jeg <lb/>
+mig imidlertid at tilbageholde Indstillingen om General Staben.</p>
+               <p xml:id="p7">	Denne ubehagelige Forlegenhed, hvori vi nu befinde os, viser <lb/>
+tilstrækkelig 1o Nødvendigheden af, at Generalstabens Officierer bør <lb/>
+være amovible og 2o hvor saare vanskelig de constitutionelle Former <lb/>
+gjøre en god Styrelse.</p>
+               <p xml:id="p8">	Ved den i Gaar afsagte Commissions Dom, dømtes Armee Intendant <lb/>
+Meylænder og Depôtforvalter Gløersen til Embedsfortabelse og 6 Aars <lb/>
+og 1 Maaneds Strafarbeide, det er Slaveri samt Stadshauptmand Ytteborg <lb/>
+til Embedsfortabelse.</p>
+               <p xml:id="p9">	Medens jeg skrev disse underdanige Linier, nedbrændte 4 eller 5 <lb/>
+smaa Huse paa Ruseløkbakken i vort saa kaldte Algier. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 17de October 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

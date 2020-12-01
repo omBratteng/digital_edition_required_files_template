@@ -1,0 +1,167 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>350</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 21. mars 1852</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 21. mars 1852</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 11te denne Maaned.</p>
+               <p xml:id="p2">	Jeg takker underdanigst for Deres Majestæts naadige Meddelelse <lb/>
+ved Grev Lewenhaupt om Deres Majestæts Reise til Upsala, hvorfra <lb/>
+jeg haaber Deres Majestæt lykkelig tilbagekommet.</p>
+               <p xml:id="p3">	Da Deres Majestæt nu naadigst har besluttet Kroningen udsat <lb/>
+til næste Aar, vover jeg underdanigst at bede mig naadigst underrettet <lb/>
+om Deres Majestæts Planer for Sommeren med Hensyn paa Norge, <lb/>
+som naturligviis har en stor Interesse for Deres Majestæts norske <lb/>
+Undersaatter.</p>
+               <p xml:id="p4">	Hendes Majestæt Dronningens høie Fødselsdag feirede jeg ved <lb/>
+en Bal, hvorved jeg savnede et Huus, som paa Fossum, hvor jeg nylig <lb/>
+havde bivaanet en Bal.</p>
+               <p xml:id="p5">	Høiesterets Assessor Ottesen er afgaaet ved Døden. Han var <lb/>
+en hæderlig Mand, men nu saa afkræftet, at hans Bortgang snarere <lb/>
+er en Fordeel end et Savn for Retten, hvilket kan siges om flere dens <lb/>
+ældre Medlemmer, som kun tilbageholdes i Mangel af Sikkerhed om billig <lb/>
+og anstændig Alderdoms Understøttelse.</p>
+               <p xml:id="p6">	Jeg føler mig forpligtet til at gjentage min underdanige Bøn <lb/>
+i Rapport af 14de December forrige Aar om den naadige Udmærkelse <lb/>
+for Generalconsul Faye, hvorom jeg i sin Tid troede at turde give ham <lb/>
+Haab og som saaledes for mig er bleven en Æresgjæld. Jeg vovede at <lb/>
+give dette Haab efter Overlæg med Finants Departementets Chef, for <lb/>
+at bevæge Faye til at indtræde i Hypothekbankens Direction, fordi <lb/>
+vi begge vare overbeviiste om, at dens Tilblivelse og heldige Virksomhed <lb/>
+dependerede af Fayes Bestyrelse, og vi erfare daglig denne <lb/>
+Anskuelses Rigtighed. Faye havde allerede fortjent et offentligt Beviis <lb/>
+paa Deres Majestæts Naade, ved sine opoffrende Anstrængelser <lb/>
+for Hypothekbankens Tilblivelse, og han fortjener det daglig mere <lb/>
+ved sin ufortrødne Bestræbelse for dens heldige Virksomhed. Man kan <lb/>
+neppe gjøre sig Begreb om den Opoffrelse af Tid og Kræfter, som <lb/>
+denne Virksomhed kræver af en dygtig Mand med Fayes meget svage Helbred, <lb/>
+der ikke taaler Udsættelse for de Goder, som han endnu skal <lb/>
+kunne modtage i denne Verden.</p>
+               <p xml:id="p7">	Jeg tillader mig derhos at gjentage min underdanige Bøn af <lb/>
+14de August forrige Aar om at Deres Majestæt ved samme Leilighed <lb/>
+vil benaade Statsraad Erichsen med Commandeur Graden af St Olafs <lb/>
+Ordenen og de aftraadte værdige Stifts-Amtmænd Hagerup og Falsen <lb/>
+med Guldmedaillen for Borgerdaad. Jeg har oftere erfaret, at gode <lb/>
+Gjerninger komme for seent, naar de udsættes og derfor bør jeg <lb/>
+underdanigst udbede Deres Majestæts naadige Tilgivelse for min <lb/>
+Paatrængenhed i denne Begivenhed.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at vedlægge en Opfordring af <lb/>
+Harro Harring til hans Venner, paa Grund af den Maade, hvormed han <lb/>
+omtaler en Hr Mansvil, som skal opholde sig i Stockholm. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 21 Marts 1852</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 21. mars 1852</supplied>
+               </head>
+               <p xml:id="p9">	Om Generaladjutanten havde havt Anledning til at afgive sin <lb/>
+Betænkning om Planen for Generalstaben af 17de August 1850, forinden <lb/>
+den blev indstillet til naadigst Approbation, vilde han uden <lb/>
+Tvivl have yttret de samme Anskuelser, som nu, og disse yttrede af <lb/>
+en Mand, hos hvem i Følge hans Embedsstilling en høi Grad af Sagkundskab <lb/>
+bør forudsættes og som skal være Generalstabens Chef, vilde <lb/>
+rimeligviis have havt megen Indflydelse paa Sagens Behandling og <lb/>
+endelige Afgjørelse. Denne Indflydelse kan og bør Generaladjutantens <lb/>
+Anskuelse formeentlig have endnu, da intet af Planen er bleven iværksat, <lb/>
+og i Mangel af egen Sagkundskab, troer jeg at burde respectere  <lb/>
+General Adjutantens og tiltræde hans nu fremsatte Forslag om <lb/>
+Stabens militaire Organisation, alene med Undtagelse af den  <lb/>
+Afsættelighed, som han vil have bestemt for dens 1ste og 2den Officier.</p>
+               <p xml:id="p10">	Naar jeg ikke i dette Punkt kan tiltræde Generaladjutantens <lb/>
+Mening, saa er det ikke, fordi jeg jo anseer den vel begrundet; men <lb/>
+fordi jeg ikke kan bringe den i Harmonie med Grundlovens 22de § eller <lb/>
+i Analogie med den paaberaabte Kongl. Resolution af 18e Juny <lb/>
+1831.</p>
+               <p xml:id="p11">	Den eneste Maade at bringe disse 2de Officierer i den afsættelige <lb/>
+Stilling, som alle Sagkyndige anser hensigtsmæssig ja nødvendig <lb/>
+for Generalstabens Tarv, vil formeentlig være at constituere <lb/>
+(tilforordne), istedetfor at udnævne dem til faste Officierer. I <lb/>
+denne Hensigt maatte i Forslagets § 2 a istedetfor "<hi rend="underline">fast ansatte</hi>" <lb/>
+sættes "<hi rend="underline">constituerede</hi>  (tilforordnede) Officierer" og i § 28 ligeledes <lb/>
+istedetfor "faste" constituerede Officierer".</p>
+               <p xml:id="p12">	Herved vilde Hensigten opnaaes og det skjønnes ikke, at en <lb/>
+afsættelig Oberstlieutenant i Generalstaben vilde være i en værre <lb/>
+Stilling end en som Corpschef afsættelig Oberst-lieutenant.</p>
+               <p xml:id="p13">	Med Hensyn paa Charger og Personal i Generalstaben er Armee <lb/>
+Departementet og Generaladjutanten enige om, at denne bør have 3 høieste <lb/>
+Officierposter, at en af disse indtil videre skal staae vacant, <lb/>
+at Oberstlieutenant Rosen og Capitaine Wergeland bør ansættes i Staben; <lb/>
+men medens Departementet vil have den første Post staaende vacant <lb/>
+og Rosen ansat som 3die Officier, vil Generaladjutanten have <lb/>
+den 3e Post vacant og Rosen ansat som første Officier. Generaladjutanten <lb/>
+vil derhos have constitueret som 3e Officier Capitaine Blom, <lb/>
+hvem han dog ikke finder sig foranlediget til at indstille til virkelig <lb/>
+Ansættelse i Generalstaben.</p>
+               <p xml:id="p14">	Jeg seer ingen skjellig Grund til at lade nogen af de 3 høieste <lb/>
+Officierposter henstaae vacant; men formener, at de alle strax <lb/>
+bør besættes og at herved bør tages Hensyn paa Capitaine Holmboe, <lb/>
+som efter paalidelige Vidnesbyrd i en lang Aarrække har arbeidet i <lb/>
+Generalstaben, derunder har viist udmærket Dygtighed, om om hvem <lb/>
+Generaladjutanten yttrer, at han er en duelig og værdig Officier, <lb/>
+som han anseer qvalificeret til Ansættelse i Generalstaben ved en <lb/>
+anden Leilighed.</p>
+               <p xml:id="p15">	Jeg formener saaledes, at Oberstlieutenant Rosen, Capitaine <lb/>
+Holmboe og Capitaine Wergeland bør ansættes i de 3 høieste Officierposter <lb/>
+i Generalstaben, efter deres nu havende militaire Charger og  <lb/>
+Anciennetet, de 2de førstnævnte som Oberstlieutenanter, constituerede <lb/>
+i Generalstaben og den sidstnævnte som Major.</p>
+               <p xml:id="p16">	At ville i en iøvrigt lige Stilling ansætte en Oberstlieutenant <lb/>
+under en Capitaine, eller en meget ældre Capitaine under en <lb/>
+yngre, vilde neppe være gavnligt for det militaire Respectforhold.</p>
+               <closer>
+                  <dateline>
+                     <date>19/3 1852</date>.</dateline>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

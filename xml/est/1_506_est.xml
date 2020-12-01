@@ -1,0 +1,87 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>506</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 28. juni 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 28. juni 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Som jeg i min sidste underdanigste Rapport af 24de denne Maaned <lb/>
+gav mig den Ære at bebude, blev Høiesterets Dom mod Marcus Thrane <lb/>
+og Consorter afsagt Mandag den 25de. Da det er mig bekjendt at <lb/>
+Statsraad Petersen med Tellegrafen har meddelt Hans Excellence Due <lb/>
+Dommens Indhold indskrænker jeg mig til at bemærke at M. Thrane og <lb/>
+Abildgaard ere dømte til 4 Aars Tugthusstraf, en Hattemager Knudsen <lb/>
+til 9 Aars Slaverie og de Øvrige deels til Tugthus deels til Vand <lb/>
+og Brød. Høiesteret har kun kunnet anvende Lovens Bogstav; men jeg <lb/>
+beklager at saa grove Forbrydere kunne slippe for saa godt Kjøb.</p>
+               <p xml:id="p2">	En 30 à 40 Haandværkssvende gav Dommen en liden Episode, idet <lb/>
+de samme Aften bragte Advocat Dunker en Serenade og Hurra.</p>
+               <p xml:id="p3">	Da jeg skrev min sidste underdanigste Rapport var det mig <lb/>
+ubekjendt at Hans Kongelige Høihed Kronprindsen havde ladet anmode  <lb/>
+Kammerherre Holst om at anskaffe Logie for Hendes Kongelige Høihed  <lb/>
+Kronprindsessen i Sandefjord og at han mig uafvidende havde besørget <lb/>
+dette forinden han tiltraadte en Reise til Udlandet. Sidste Post bragte <lb/>
+en Anmodning fra Hofmarchalk Grev Rosen til Kammerherre Holst om <lb/>
+at træffe de øvrige nødvændige Arrangements for Hendes Kongelige <lb/>
+Høiheds sejour i Sandefjord, som er blottet for alle dertil fornødne <lb/>
+Resourser. Kammerherre Holsts Fraværelse foranledigede min Søn Ernst <lb/>
+til i Gaar per Tellegraf at tilbyde sin Tjeneste i denne Begivenhed, <lb/>
+som ved et nylig fra Grev Rosen per Tellegraf modtaget Svar er  <lb/>
+antaget. Svaret er afgaaet fra Stockholm i Formiddag Klokken 9 og <lb/>
+modtoges i Christiania Klokken 9–50 Minutter altsaa efter 50 Minutter. <lb/>
+I Følge heraf vil min Søn udsætte sin til i Overmorgen bestemte Reise <lb/>
+til Kjøbenhavn og derimod begive sig til Sandefjord, for at arrangere <lb/>
+det Fornødne bedst mueligt, efter de med Dagsposten forventende <lb/>
+Forskrifter.</p>
+               <p xml:id="p4">	Vejret og især Temperaturen er saa foranderlig, at jeg finder <lb/>
+det tilraadeligt, at fejre Deres Majestæts høie Fødselsdag ved en <lb/>
+stor Middag i Stiftsgaarden i Stedet for paa Ladegaardsøen. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 28de Juni 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

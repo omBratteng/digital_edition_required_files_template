@@ -1,0 +1,67 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>111</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 9. september 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 9. september 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Idag ere 8 Dage svundne siden jeg bukkede mig til Afsked for Deres Kongelige Majestæter paa Kjølstad, hvor Middagen var saa behagelig; Afskeds Samtalen for mig saa interessant. Jeg forlod Deres Majestæter med taknemmelige og vemodige Afskedsfølelser og har i Tankerne fulgt Deres Majestæter paa Reisen med mine bedste Ønsker, hvis Opfyldelse jeg længes efter at erfare.</p>
+               <p xml:id="p2">	Efter Afreisen havde vi desværre daglig Regn med en kold Temperatur, som først den 7de blev blidere, da vi gjensaae Solen, hvis velgjørende Varme vi nu for Nytte og Behagelighed høielig tiltrænge.</p>
+               <p xml:id="p3">	Jeg tillader mig at nedlægge min underdanigste Taksigelse for det naadige Besøg, hvormed Deres Majestæter nylig have lykkeliggjort Norge, for ethvert Beviis paa Naade og Tillid, hvormed De derunder have behaget at lykkeliggjøre mig. Ved min Tilbagekomst til Christiania havde Byen et vemodig Savnets Præg, en Følelse, som jeg tør forsikkre er almindelig som en Følge af almindelig hjertelig Hengivenhed for Deres Majestæter og den Kongelige Familie, en Hengivenhed, som under ethvert Deres Majestæters Ophold her fornyes og forøges.</p>
+               <p xml:id="p4">	Igaar havde vi det første Statsraad siden Deres Majestæts Afreise og har jeg berammet Statsraad i Morgen og i Overmorgen til Behandling af mange efterliggende Sager.</p>
+               <p xml:id="p5">	Statsraad Holst’s Helbred bedres daglig.</p>
+               <p xml:id="p6">	Imorgen venter jeg min Søn Otto og Hustru tilbage fra deres udenlandske Reise.</p>
+               <p xml:id="p7">	I disse Dage nedlægges Gasrørene i Christianias Hovedgader.</p>
+               <p xml:id="p8">	Architect Nebelong agter nu at lade ryddiggjøre og planere Tomten til Deres Majestæts Pavillon paa Ladegaardsøen.</p>
+               <p xml:id="p9">	Efterat jeg ifølge Deres Majestæts naadige Befaling havde meddeelt Biskop Neumann Deres Majestæts naadige Ønske, at han maa ville vedblive i sin Embedsvirksomhed saa længe hans Kræfter tillade, har jeg fra ham modtaget hosfølgende Svarskrivelse, hvori han erklærer sig villig til at opfylde Deres Majestæts naadige Ønske; men henstiller, at dette maa blive ham paa nogensomhelst Maade naadigst tilkjendegivet for at kunne paaberaabe samme som Hjemmel for, at han for Tiden har frafaldt sit offentlig udtalte Forsæt, at ville nu strax ansøge sig entlediget. I denne Anledning tillader jeg mig underdanigst at yttre, at Biskop Neumann, som nylig feirede sit 25aarige Jubilæum som Biskop i Bergen og, om han oplever 1849 vil have været 50 Aar geistlig Embedsmand, i en høi Alder har vedligeholdt en sjelden Legems- og Aands-Kraft og at jeg endnu anseer ham for Rigets lærdeste og dygtigste Biskop, hvorfor den ham underordnede Geistlighed i Taler og Adresser indstændig har bedet ham om endnu at vedblive i hans biskoppelige Virkekreds. Med Hensyn herpaa tillader jeg mig underdanigst at henstille, at Deres Majestæt vil have den Naade i et privat Kongeligt Brev at meddele Biskop Neumann det naadige Ønske, at han til Gavn for Konge og Stat vil vedblive i sin hæderlige Embedsvirksomhed, saa længe Gud dertil forunder ham Kræfter.</p>
+               <p xml:id="p10">	Ved saadan Kongelig Naade vil Deres Majestæt paa den meest tilfredsstillende Maade belønne denne udmærkede gamle tro Tjener, og endnu nogen Tid vedlige holde hans gavnlige Virksomhed.</p>
+               <p xml:id="p11">	Mine Børn paa Fossum, om hvis lykkelige Hjemkomst jeg nu modtog Efterretning, bede mig lægge dem for Deres Majestæters Fødder og fremføre deres underdanigste Taknemmelighed for den dem senest beviiste Kongelige Naade. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 9de September 1847</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

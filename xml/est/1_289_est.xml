@@ -1,0 +1,155 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>289</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. april 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. april 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 17de har jeg havt <lb/>
+den Ære at modtage Deres Majestæts naadige Skrivelse af 14de denne <lb/>
+Maaned.</p>
+               <p xml:id="p2">	Regjeringens Medlemmer have ikke været uopmærksomme paa <lb/>
+Neergaards Pensionsforslag, og man er i Finants Departementet beskjæftiget <lb/>
+med denne Gjenstand, for hvilken jeg dog ikke tør vente mere Interesse <lb/>
+hos dette end hos foregaaende Storthing.</p>
+               <p xml:id="p3">	Ifølge Deres Majestæts naadige Befaling vil jeg gjennem Amtmand <lb/>
+Manthey tilsende Lensmand Hersæters Enke Deres Majestæts genereuse <lb/>
+Naadegave 100 Spdl, som vil være saa meget mere velgjørende <lb/>
+som jeg neppe tør nære Haab om, at nogen Pension vil kunne forskaffes <lb/>
+hende.</p>
+               <p xml:id="p4">	Statsraadets Session i Gaar optoges for største Deel af en for <lb/>
+mig høist piinlig Discussion om Sexes Pension, for hvilken Stang med <lb/>
+saa megen Held plaiderede, at Udfaldet blev det i min sidste  <lb/>
+underdanigste Rapport bebudede. Stang spaaede blandt Andet, at Sanctions <lb/>
+Nægtelse vilde lede til aabent Brud imellem de 2de Statsmagter, som <lb/>
+vilde foranledige en reactionair russisk Indblanding, hvortil man i <lb/>
+Petersborg længe har ønsket Anledning (?) etc. etc. og hans  <lb/>
+Fremstillinger gjorde den tilsigtede Virkning. Erichsen vilde tiltræde <lb/>
+Indstillingen, efterat have protocolleret sit Forsvar for Sexes <lb/>
+Forafskedigelse og sin skarpe Misbilligelse af Storthingets Beslutning. <lb/>
+Han frafaldt imidlertid denne Protocollation, som var mig saa meget <lb/>
+kjærere, fordi den var unyttig og kun vilde have foranlediget en <lb/>
+Replique af Stang til Skade for Regjeringen; men til Fordeel <hi rend="underline">for ham</hi>
+                  <lb/>
+i Storthinget.</p>
+               <p xml:id="p5">	Sagens uheldige Stilling er derefter nu den, at alle Deres <lb/>
+Majestæts herværende Raadgivere ere enige om, at Storthingets Beslutning <lb/>
+tiltrænger Deres Majestæts Sanction for at blive gyldig, at 6 <lb/>
+af dem anbefale den til naadigst Sanction, kun 2de, Vogt og jeg  <lb/>
+fraraade den, og tillader jeg mig underdanigst at vedlægge vort til <lb/>
+Protocollen afgivne Votum, som end ikke Betragtning af dette Votums <lb/>
+forudseelige Følger har burdet afholde os fra at afgive.</p>
+               <p xml:id="p6">	Jeg tillader mig underdanigst at referere til hvad jeg tidligere <lb/>
+om Gjenstanden har yttret. Sagen vilde have været i en ganske anden <lb/>
+og fordeelagtigere Stilling, om alle Deres Majestæts Raadgivere <lb/>
+havde været enige om at fraraade Sanction; men det Medhold i Sag, om <lb/>
+end ikke i Form, som Storthingets Beslutning har fundet hos det store <lb/>
+Fleertal i Regjeringen, vil naturligviis opvække en lidenskabelig <lb/>
+Uvillie mod den ringe Minoritet, mod hvilken jeg forventer et  <lb/>
+øieblikkelig Rigsrets Decret afgivet, om Deres Majestæts naadige Sanction <lb/>
+efter denne Minoritets underdanigste Raad, nægtes.</p>
+               <p xml:id="p7">	En saadan Rigsrets Dom kunde rolig imødesees af Landets almindelige <lb/>
+Domstole, men af et Tribunal, hvis store Pluralitet bestaaer <lb/>
+af uvidende lidenskabelige Lagthingsmænd, som i Virkeligheden vil <lb/>
+dømme i egen Sag, maa Fordømmelse forudsees, det er: de ville henføre <lb/>
+Minoritetens Raad under Ansvarligheds Lovens af 7de Juli 1828 1ste <lb/>
+Capitel § 1 lit. e, uagtet paalidelige Jurister og Regjeringens  <lb/>
+samtlige Medlemmer ere enige om, at den omhandlede Beslutning ikke kan <lb/>
+have Gyldighed uden Deres Majestæts Sanction, og den mildeste Straf <lb/>
+for saadan Forbrydelse er, <hi rend="underline">at have Embede forbrudt</hi>.</p>
+               <p xml:id="p8">	Jeg kan kun underdanigst forsikkre, at jeg i denne som i enhver <lb/>
+Begivenhed har stemt efter min bedste Overbeviisning, efter Eed <lb/>
+og Pligt, og jeg beder Gud lede Deres Majestæts naadige Beslutning <lb/>
+til det Bedste for Deres Majestæts og Rigets Tarv.</p>
+               <p xml:id="p9">	Jeg tør forbeholde mig med næste Post underdanigst at yttre mig <lb/>
+om 3de med Morgen Posten afgaaende underdanigste Indstillinger  <lb/>
+betræffende en Laane-Indretning, Bevilgelse af 500,000 Species til <lb/>
+sammes Fond og Sparebankernes forhøiede Renter. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 April 1851</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 20. april 1851</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <p xml:id="p10">	Vi Statholder Løvenskiold og Statsraad Vogt kunne ikke med <lb/>
+Finants- og Told-Departementet vare enige i at anbefale den her <lb/>
+omhandlede Storthings Beslutning til af Deres Majestæt at sanctioneres. <lb/>
+Den for 4 Aar siden ved Sølvværket som Bergmester ansatte Sjur <lb/>
+Amundsen Sexe's utilbørlige Forhold foranledigede, at han efter Deres <lb/>
+Majestæts naadige Bestemmelse af Værkets Tjeneste blev opsagt, og <lb/>
+efterat dette er skeet, at tilstaae ham af Værkets Casse et aarligt <lb/>
+Beløb, – hvorvel ikkun indtil videre, svarende til hans havte Løn, – <lb/>
+finde vi utilraadeligt baade for Exemplets Skyld og fordi der saaledes <lb/>
+vilde vises ham en Gunst, der ikkun under særegne Omstændigheder <lb/>
+kommer dem tilgode, der efter et langt og berømmeligt Forretningsliv <lb/>
+fratræde det Offentliges Tjeneste; Sexe blev opsagt af Tjenesten <lb/>
+i afvigte December Maaned til Fratrædelse i dette Aars April Maaned. <lb/>
+Om at nogen Hjelp enten af Sølvværket eller af Statscassen i Almindelighed <lb/>
+maa ydes ham i hans muligens brødløse Stilling er det ikke fra <lb/>
+eller for ham indkommet nogen os forelagt af behørige Oplysninger ledsaget <lb/>
+Ansøgning eller Andragende i hvis Anledning der kunde have været <lb/>
+afgivet underdanigst Betænkning angaaende hvad der maaskee til <lb/>
+Fordeel for ham efter befundne Omstændigheder kunde være at foretage.  <lb/>
+– Saafremt Noget i saadan Retning herefter maatte fremkomme, maa <lb/>
+det være os forbeholdt i saadan Sag at yttre os, for at i samme naadigst <lb/>
+Resolution kan indhentes. Hvad nærværende Sag betræffer, tillade <lb/>
+vi os, i Henhold til det ovenfor Anførte underdanigst at indstille: <lb/>
+ "at den af Storthinget under 22de Marts d.A. fattede Beslutning <lb/>
+ "saalydende: "Bergmester etc. etc. ikke naadigst sanctioneres.". – <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>d.14 April 1851</date>.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

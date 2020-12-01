@@ -1,0 +1,176 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>457</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Holgerslyst 20. juli 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Holgerslyst 20. juli 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 13de har jeg havt den <lb/>
+Ære at modtage Deres Majestæts naadige Skrivelse af 12te.</p>
+               <p xml:id="p2">	Til Følge heraf vil jeg søge en bequem Leilighed til en confidentiel <lb/>
+Samtale med Toldcasserer Lange, uden at paaberaabe Deres Majestæts <lb/>
+Bemyndigelse, for at hans mulige Afslag maa ramme mig og ikke <lb/>
+Deres Majestæt.</p>
+               <p xml:id="p3">	Efter Indbydelse af Generalconsul Crowe gjorde jeg den 14de denne <lb/>
+Maaned en Prøvetour paa Jernbanen i Selskab med Statsraaderne Vogt, <lb/>
+Petersen, Erichsen og Bretteville, – fulgt af Jernbanens Direction og <lb/>
+teckniske Commission. Personer vare hidindtil kun befordrede den halve <lb/>
+Vei til Dahl, og det var første Gang, at Persontoget befordredes <lb/>
+til Banens nuværende Endepunct, Eidsvoldsbakken, hvor vi besteg det <lb/>
+engelske Dampskib "Dronningen" og paa dette gik paa den herlige Flod <lb/>
+"Wormen" til Minde og videre nogle Mile op i Indsøen Mjøsen. Ombord <lb/>
+paa Dampskibet ansaae jeg mig paa engelsk Grund og fulgte gjerne den <lb/>
+gamle vakkre engelske Skik, ved at udbringe en underdanig og hjertelig <lb/>
+Skaal for Deres Majestæt.</p>
+               <p xml:id="p4">	Denne Route er saa skjøn og interessant, at jeg indstændig vil <lb/>
+bede Deres Majestæt at gjøre den med den Kongelige Familie, naar vi <lb/>
+hernæst vil faae den Lykke at see Deres Majestæter her.</p>
+               <p xml:id="p5">	Jernbanen opfylder allerede over Forventning, hvad jeg ved dens <lb/>
+Anlæg for 3 Aar spaaede. Nylig blev i een Uge befordrede over 9000 <lb/>
+Personer og Vare Transporten tiltager ugentlig. I Slutningen af August <lb/>
+skal Banen af de engelske Entrepreneurer overleveres til Bestyrelsen <lb/>
+og da vil dens Construction komme under nødvendig sagkyndig Bedømmelse.</p>
+               <p xml:id="p6">	Af Morgenbladet No 200 vil Deres Majestæt erfare, at Storthinget <lb/>
+den 18de denne Maaned med 72 Stemmer mod 29 har bifaldt Høiesterets <lb/>
+Assessor Motzfeldts Forslag <hi rend="underline">om Statholderpostens Ophævelse</hi>. Storthinget <lb/>
+har ikke mere Ret til, <hi rend="underline">uden Deres Majestæts Bifald</hi>, at iværksætte <lb/>
+denne Beslutning, end til at beslutte Kongedømmets Ophævelse!  <lb/>
+Imidlertid er det for mig, Embedets Indehaver, uhyggelig og krænkende, <lb/>
+at være endnu levende Vidne til saadan Beslutning og dermed forbundne <lb/>
+Discussioner, som udgaae i den vide Verden, – hvorunder Schweigaard <lb/>
+dog skal have skarpt tugtet Proponenten. Det er paafaldende i <lb/>
+denne Begivenhed at see visse Stemmer: til Exempel Capitaine Hagerup, <lb/>
+                  <hi rend="underline">for</hi>  Forslaget, Andre, til Exempel Procurator Rolf Olsen, <hi rend="underline">derimod</hi>, <lb/>
+– hvilket sidstnævnte skal have motiveret derved, "at Democraterne <lb/>
+i denne reactionaire Tid bør vogte sig for at spænde deres Bue for <lb/>
+stramt." –</p>
+               <p xml:id="p7">	Statsraad Erichsen foredrog i Statsraadet i Gaar Storthingets <lb/>
+Beslutninger i Anledning af Marinens Budget, hvorved ikke allene den <lb/>
+fordrede Totalsum er betydelig nedsat, men i Detaillen pedantiske og <lb/>
+lumpne Nedsættelser ere bestemte. Regjeringen havde, efter Statsraad <lb/>
+Erichsens Forslag og med Deres Majestæts naadige Bifald i det hele <lb/>
+forlangt til Marinens personelle og materielle Udgifter 466,000  <lb/>
+Species og til Hortens Befæstning 34,000 Species, tilsammen 500,000 <lb/>
+Species, hvoraf Storthinget ialt har bevilget 395,000 Species, altsaa <lb/>
+105,000 Species mindre. Dette er visselig beklagelig; men end  <lb/>
+beklageligere er det, at Statsraad Erichsen efter Foredraget erklærede, <lb/>
+at han med de bevilgede Midler og under den Mistillid, som fra  <lb/>
+Storthingets Side er ham viist, ikke i sin nærværende Stilling kan  <lb/>
+opfylde sine Pligter mod Deres Majestæt og Fædrenelandet, og derfor <lb/>
+finder sig nødsaget til at ansøge om Afskeed. Han vil dog forinden <lb/>
+tillade sig underdanigst at henvende sig til Deres Majestæt og jeg <lb/>
+trøster mig ved, at Deres Majestæt naadigst vil og kan afværge  <lb/>
+Iværksættelsen af en Beslutning, som jeg maatte ansee for høist  <lb/>
+fordærvelig for Fædrenelandet, da jeg ikke veed at erstatte Statsraad <lb/>
+Erichsen.</p>
+               <p xml:id="p8">	Jeg maa finde Erichsens Krænkelse og Græmmelse naturlig; jeg <lb/>
+kan finde hans Anskuelse og Beslutning vel beføiet; men jeg erindrer, <lb/>
+at jeg for 18 Aar tilbage fandt mig forpligtet til, efter min naadige <lb/>
+Konges Ønske, at frafalde en lignende Beslutning, og at jeg i Hans <lb/>
+Majestæts naadige og <hi rend="underline">offentliggjorte</hi>  Svar fandt Trøst og Opreisning <lb/>
+for mig vederfarne Krænkelser. Jeg veed, at Statsraad Erichsen hædres  <lb/>
+med en lige vel fortjent naadig Anerkjendelse af Deres Majestæt <lb/>
+og jeg tillader mig underdanigst at anbefale ham til en lige naadig <lb/>
+Behandling, som den, hvormed Høisalig Kongen i sin Tid naadigst <lb/>
+benaadede mig.</p>
+               <p xml:id="p9">	Jeg tiltrænger virkelig noget Hvile og ønsker med Deres Majestæts <lb/>
+mig givne almindelige naadige Tilladelse at reise den 28de <lb/>
+denne Maaned til Fossum, for at tilbringe der omtrent 3 Uger, hvorefter <lb/>
+jeg vil kunne være betimelig her tilbage før Storthingets Slutning, <lb/>
+formodentlig i de sidste Dage af August eller de første af September. <lb/>
+Give Gud, at vi kunde have den store Lykke og Glæde af Deres <lb/>
+Majestæts høie Nærværelse her til den Tid!</p>
+               <p xml:id="p10">	Under 7de denne Maaned har det naadigst behaget Deres Majestæt <lb/>
+gjentagende at <hi rend="underline">udsætte</hi>  Beslutning, i Anledning af den norske  <lb/>
+Regjerings underdanigste Indstillinger af 12te April, at 24 Junii og <lb/>
+18de Januar dette Aar.</p>
+               <p xml:id="p11">	Naar jeg vil tillade mig herved underdanigst at bønfalde Deres <lb/>
+Majestæt om de nævnte Sagers snarlige naadige Afgjørelse, saa  <lb/>
+bønfalder jeg derhos Deres Majestæt om naadigst Tilgivelse for min  <lb/>
+tilsyneladende Paatrængenhed, som, jeg forsikkrer det helligt, ene <lb/>
+foranlediges ved min Opfattelse af de Pligter, som jeg skylder Deres <lb/>
+Majestæt og Almeenvellet.</p>
+               <p xml:id="p12">	I førstnævnte Indstilling har Regjeringen underdanigst foredraget <lb/>
+en Høiesterets Dom af 14de Februar dette Aar, hvorved 5 Personer <lb/>
+ere dømte fra Livet for Mord, Mordbrand, Røverie, grovt Tyverie, <lb/>
+m.m., Forbrydelser, som de med Overlæg og velberaad Hu have udøvet <lb/>
+mod uskyldige Mennesker paa den meest grusomme og canibalske Maade.</p>
+               <p xml:id="p13">	Høiesteret, som i Sandhed er et agtværdigt Tribunal, har dømt <lb/>
+disse Forbrydere efter Landets Love, men derhos indstillet 3de til <lb/>
+Benaadning for Livsstraf. Deres Majestæts Regjering har, efter modent <lb/>
+Overlæg, erklæret sig enig med Høiesteret og derved har Deres <lb/>
+Majestæt megen Garantie for Dommens Retfærdighed, for at den bør  <lb/>
+exeqveres, som vel fortjent, som et nødvendigt afskrækkende Exempel for <lb/>
+en raa vild Folkerace og med Hensyn paa de grusomt Mishandledes og <lb/>
+Myrdedes uskyldige Efterladte. Efter min bedste Overbeviisning bør <lb/>
+jeg underdanigst tilraade, at Deres Majestæt naadigst vil bifalde  <lb/>
+Regjeringens underdanigste Indstilling, men i modsat Fald vover jeg <lb/>
+indstændigt at udbede, at Deres Majestæt naadigst vil afgive en Beslutning i <lb/>
+hvilkensomhelst forgodtbefindende Retning. En længere Udsættelse kan <lb/>
+kun være piinlig for de Angjeldende og i flere Henseender skadelig.</p>
+               <p xml:id="p14">	Ved den anden Dom ere 17 Personer dømte for Deeltagelse i de <lb/>
+Førstnævntes Forbrydelser, – til Straffearbeide fra 8 Maaneder til <lb/>
+for Livstid og Regjeringen har underdanigst indstillet Dommen til <lb/>
+naadigst Stadfæstelse for Alle. Disse have nu hensiddet 5 Maaneder i <lb/>
+Arrest, siden deres Dom faldt, hvorved deres Straf, forsaavidt den <lb/>
+ikke er for Livstid, betydelig forøges, tilligemed det Offentliges <lb/>
+Byrder og Udgifter for deres Arrest. Jeg vover ogsaa underdanigst at <lb/>
+henstille denne Sag til snarlig naadig Afgjørelse.</p>
+               <p xml:id="p15">	Indstillingen af 18de Januar angaaer en naadigst Proposition <lb/>
+til Storthinget om en ny militair Straffelov.</p>
+               <p xml:id="p16">	Denne Lov tiltrænges og savnes lige meget; Storthinget, som <lb/>
+veed at den underdanigst er forelagt Deres Majestæt, har flere Gange <lb/>
+underhaanden yttret Længsel efter den; dens Forberedelse har kostet  <lb/>
+Tid og Penge, og det vilde i Sandhed være beklagelig, om den ikke <lb/>
+skulde kunne blive dette Storthing forelagt.</p>
+               <p xml:id="p17">	Vi have længe havt en trykkende Hede og Tørke, hvorefter Regn <lb/>
+og Vand høielig tiltrænges. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Holgerslyst</placeName>
+                     <date>den 20de Julii 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

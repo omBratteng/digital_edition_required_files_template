@@ -1,0 +1,300 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>122</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. januar 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. januar 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 9de denne Maaned, har <lb/>
+jeg havt den Lykke at modtage Deres Majestæts naadige Skrivelse af 10de, <lb/>
+hvorfor jeg nedlægger min underdanigste Taksigelse.</p>
+               <p xml:id="p2">	Jeg beklager høieligen, at den berøver mig mit sidste Haab om Deres <lb/>
+Majestæts Høie Nærværelse her ved Storthingets Aabning. Dette Savn er <lb/>
+en Følge af Storthingets og Rigsdagens Samtidighed, som desuden medfører <lb/>
+saa mangehaande Ulemper, at man for Fremtiden maa ønske den afværget.</p>
+               <p xml:id="p3">	Fra Localautoriteterne i Trondhjem er ingen Anmodning indkommet om <lb/>
+nogen overordentlig Hjelp i Anledning af den sidste Ildsvaade. Ogsaa i <lb/>
+denne Begivenhed synes en ulykkelig Vane at være bleven en anden Natur <lb/>
+hos Trondhjemmerne.</p>
+               <p xml:id="p4">	Naar jeg har modtaget de forlangte Oplysninger betræffende de 2de <lb/>
+naadigst omskrevne forafskedigede Artillerister, vil jeg derom afgive <lb/>
+underdanigst Indberetning.</p>
+               <p xml:id="p5">	Jeg tillader mig at henlede Deres Majestæts naadige Opmærksomhed <lb/>
+paa 2de Regjerings Indstillinger betræffende Generalstabens Organisation <lb/>
+og Quarantainevæsenet, og beder naadigst tilgivet den Vidtløftighed, <lb/>
+hvormed jeg anseer mig forpligtet til at omhandle disse vigtige <lb/>
+Gjenstande.</p>
+               <p xml:id="p6">	Jeg maa ærlig bekjende min Mangel paa Sagkundskab om en Generalstabs <lb/>
+Organisation, og med denne Mangel har jeg anseet det rigtigst at <lb/>
+tiltræde de Anskuelser, som ere yttrede af de Mænd, hvem jeg i denne <lb/>
+Begivenhed tiltroer meest Sagkundskab, nemlig den commanderende General <lb/>
+og Armee-Departementets Chef, hvis Mening ogsaa er tiltraadt af  <lb/>
+Statsraadets ældste militaire Medlem, Statsraad Krog.</p>
+               <p xml:id="p7">	En modsat Mening forfægtes af Statsraad Stang, og at denne er <lb/>
+tiltraadt af den militaire Statsraad Foss, vilde forundre mig mere, om jeg <lb/>
+ikke oftere havde bemærkt, at denne let lader sig forlede af hiins  <lb/>
+veltalende Advocatur.</p>
+               <p xml:id="p8">	Med den Ærlighed, hvormed det er min Pligt at yttre mig for Deres <lb/>
+Majestæt, bekjender jeg, at jeg antager Stangs Opposition foranlediget: <lb/>
+1o ved at den geographiske Opmaaling er foreslaaet henlagt <hi rend="underline">fra</hi>
+                  <lb/>
+Departementet for det Indre <hi rend="underline">til</hi>  Generalstaben og Armee-Departementet, 2o <lb/>
+fordi han formener, at denne Forandring vil være mindre behagelig for  <lb/>
+Professor Hansteen, der i en Række af Aar med udmærket Dygtighed har <lb/>
+bestyret Opmaalingen med 400 Speciedaler aarlig Gage.</p>
+               <p xml:id="p9">	Ingen kan sætte større Priis paa vor Hansteens Fortjenester for <lb/>
+Videnskaben og for vor Opmaaling end jeg; men naar vore sagkyndigste Mænd <lb/>
+ansee Opmaalingens Henlæggelse til Generalstaben hensigtsmæssig og  <lb/>
+nødvendig, og dette derhos kan skee saaledes, at Hansteens Virksomhed og Løn <lb/>
+for den kan bibeholdes, saa formenes alt tilbørligt Hensyn paa Sag og paa <lb/>
+Hansteen iagttaget. I denne Hensigt tillader jeg mig underdanigst at <lb/>
+vedlægge (Bilag No 1) et efter min Anmodning af Statsraad Fleischer  <lb/>
+forfattet Udkast til Deres Majestæts naadigste Resolution, den jeg med Armee  <lb/>
+Departementets øvrige Indstilling tillader mig underdanigst at anbefale <lb/>
+til Deres Majestæts naadige Approbation.</p>
+               <p xml:id="p10">	Det er iøvrigt beklageligt, at Dissents i Regjeringen skal forøge <lb/>
+Vanskeligheden for Bevilgning til almeennyttige og interessante Gjenstande.</p>
+               <p xml:id="p11">	Statsraad Foss har efter lang Forberedelse og meget Arbeide, <lb/>
+fremlagt et Forslag til Lov om vort Quarantainevæsen, i hvilken Anledning <lb/>
+han havde indstillet at dette foreløbig maatte blive bedømt af en  <lb/>
+foranstaltende Samling af norske, svenske og danske Læger i Gothenborg. Mine <lb/>
+Grunde imod denne Indstilling vil naadigst erfares af hosfølgende mit under <lb/>
+Sagens Circulation afgivne Votum (Bilag No 2), hvorved dog er opnaaet, <lb/>
+at Doctor Congressen er udeladt af Indstillingen og at mere Raadighed <lb/>
+er forbeholdt Styrelsen betræffende Cholerasygdommen. Min Anskuelse om, <lb/>
+at det er uklogt af Regjeringen at søge sig bunden ved Lov, hvor den har <lb/>
+frie Hænder, er uforandret og jeg har allene opoffret den, for at undgaae <lb/>
+Dissents, som jeg meest beklager, naar den skal forelægges Storthinget.</p>
+               <p xml:id="p12">	Statsraad Vogt har i de 2de sidste Uger ved Brystsvaghed, som er en <lb/>
+Følge af grippe, været forhindret fra at deeltage i Statsraadet, som, <lb/>
+da han endnu ikke tør gaae ud, igaar holdtes hos ham. Det optoges for det <lb/>
+meste af Gjennemgaaelsen af den for Storthinget forfattede Meddelelse om <lb/>
+de 3 sidste Aars Regjerings Administration og Rigets Tilstand, som  <lb/>
+expederes med Dagsposten, for at vorde Deres Majestæt underdanigst forelagt. <lb/>
+Vi maatte herved gaae ud fra den Synspunkt, at Deres Majestæt naadigst  <lb/>
+vil bifalde Regjeringens underdanigste Indstillinger, overladende til <lb/>
+Statsraadsafdelingen i Stockholm at forandre hvad Deres Majestæt naadigst <lb/>
+maatte befale forandret.</p>
+               <p xml:id="p13">	Vi ere enige om, at Kroningen ikke kan lades uberørt saa meget mindre <lb/>
+som Deres Majestæt i den i Mai 1847 afgivne naadige Resolution om <lb/>
+Kroningens Udsættelse har yttret Ønske og Haab om dens Iværksættelse <lb/>
+i 1848. Vi formene derhos underdanigst, at Deres Majestæt vil fatte  <lb/>
+naadigst Beslutning herom uden Hensyn til Rigsdag eller Storthing, som i <lb/>
+denne Begivenhed bør rette sig efter Deres Majestæt og ikke omvendt. Fra <lb/>
+denne Synspunkt tillade vi os underdanigst at indstille, at Deres Majestæt <lb/>
+i den Kongelige Tale vil lade indflyde en naadigst Yttring betræffende <lb/>
+Kroningen som antydet i Bilag No 3.</p>
+               <p xml:id="p14">	Den norske Stats pecuniaire Tab i Anledning af forrige Aars truende <lb/>
+Hungersnød, beløber for Korntold: 160,000 Speciedaler og Tab paa indkjøbte <lb/>
+Kornvarer 40,000 Speciedl.,som forholdsviis mod andre Staters, mod  <lb/>
+Communers, Privates Opoffrelser, for at afværge en national Calamitet, ikke <lb/>
+bør fortrydes, men tvertimod Forsynet prises, som ikke paalagde dette <lb/>
+Folk større Plager end et vist nok føleligt, men dog overkommeligt pecuniairt <lb/>
+Tab. Jeg tillader mig underdanigst at indstille, at Gjenstanden maa <lb/>
+blive berørt i den Kongl. Tale fra denne Synspunkt. Christiania Communes <lb/>
+Tab i samme Anledning beløber 10,000 Spdl., mit eget som Brugseier flere <lb/>
+Tusinde Speciedaler.</p>
+               <p xml:id="p15">	Sluttelig vover jeg underdanigst at udbede den Kongelige Tale og Deres <lb/>
+Majestæts naadige Befaling betræffende Storthingets Aabning om mulig <lb/>
+den 3die, men senest den 6te Februar.</p>
+               <p xml:id="p16">	Jeg tillader mig at nedlægge mine underdanigste hjertelige Ønsker til <lb/>
+Hans Kongelige Høihed Prinds Oscars Fødselsdag, som jeg imorgen agter at <lb/>
+feire ved en større Middag.</p>
+               <p xml:id="p17">	I Overgaar begravedes Statsraadinde Motzfeldt, i Gaar Statsraadinde <lb/>
+Schmidt.</p>
+               <p xml:id="p18">	Saavidt skrevet havde jeg den Lykke at modtage Deres Majestæts høist <lb/>
+naadige Skrivelse af 17de, som jeg tillader mig at meddele mine dybt  <lb/>
+sørgende Børn paa Fossum, for ogsaa at give dem den velgjørende Trøst, som <lb/>
+Deres Majestæters naadige Deeltagelse i vor store Sorg har skjænket mig <lb/>
+og hvorfor vi i Liv og i Død ere underdanigst taknemmelige. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20 Januar 1848. </date>
+                  </dateline>
+                  <lb/>
+                  <address>
+                     <addrLine>Til</addrLine>
+                     <lb/>
+                     <addrLine> Hans Majestæt Kongen</addrLine>
+                  </address>
+                  <lb/>
+                  <salute>underdanigst.</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 20. januar 1848</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">No 1.</head>
+               <p xml:id="p19">	Hs Majestæt erkjender naadigst, at den geographiske Opmaalings <lb/>
+Henlæggelse under Generalstaben, i væsentlig Maade vil bidrage til <lb/>
+at give denne, for Armeen vigtige Institution det høiere Præg af <lb/>
+Videnskabelighed, uden hvilket Samme ei tilfulde skulde kunne virke for <lb/>
+sit Øiemed.</p>
+               <p xml:id="p20">	Hs Majestæt vil derhos have anseet den, i 31te § af nærværende <lb/>
+Udkast til en ny Plan for Generalstaben nævnte Videnskabsmand, der <lb/>
+skal bestemme og controlere Methoden for Norges geographiske  <lb/>
+Opmaalingsarbeider, som en i saa Henseende ligesaa uundværlig som fuldkommen <lb/>
+selvstændig og af Generalstabs-Chefen uafhængig Functionair; og finder <lb/>
+saaledes al Anledning til at antage bemeldte Opmaalings nuværende <lb/>
+Directeur villig til, ogsaa i de Forholde som Generalstabens fremtidige <lb/>
+Organisation skulle medføre, at virke til fortsat Fremme af det Værk, <lb/>
+som skylder denne udmærkede Videnskabsmands Bestyrelse sin vundne <lb/>
+Anerkjendelse af fortrinligt Værd.</p>
+               <p xml:id="p21">	Det er i Henhold til disse Betragtninger at Hs Majestæt naadigst <lb/>
+bifalder:</p>
+               <p xml:id="p22">	  1.}</p>
+               <p xml:id="p23">	  }  Armedepartementets og Minoritetens</p>
+               <p xml:id="p24">	  2.}</p>
+               <p xml:id="p25">	  }  Indstillingsposter, Ord til andet gjentagne.</p>
+               <p xml:id="p26">	  3.} <lb/>
+               </p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 20. januar 1848</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">No 2.</head>
+               <p xml:id="p27">	Under den Forudsætning, at det maatte befindes tilraadeligt nu <lb/>
+at fremsætte Forslag til en ny Lov om Quarantaine Bestemmelser mod <lb/>
+Pest og Cholera Sygdom, har jeg deelt den Formening, at det vilde være <lb/>
+hensigtsmæssigt, at foranledige en Samling af norske, svenske og <lb/>
+danske Læger til Lovforslagets Bedømmelse. Jeg maa imidlertid efter <lb/>
+nøiere Overveielse fraraade nu at fremsætte noget Forslag til Lov <lb/>
+eller til den paatænkte Lægesamling.</p>
+               <p xml:id="p28">	Anskuelserne om de Sygdomme, som ere Gjenstand for Quarantaine <lb/>
+Bestemmelser, deres Smitsomhed eller IkkeSmitsomhed, Incubationsperiode <lb/>
+m.m. ere endnu langt fra at være enige og følgelig heller ikke <lb/>
+sikkre, paalidelige. Usikkerhed, Uovereensstemmelse finder især Sted <lb/>
+med Hensyn paa Cholerasygdommen. Denne Sygdom, som for ikke mange Aar <lb/>
+tilbage af Videnskabsmænd erklæredes for meget smitsom og derfor <lb/>
+krævede de strængeste Forsigtighedsregler, erklæres nu af mange, <lb/>
+maaskee de fleste Læge for aldeles usmitsom. Sidstnævnte Anskuelse <lb/>
+er nu bleven saa modern, at de fleste Læger neppe tør være en modsat <lb/>
+bekjendt, medens andre erklære de modsatte Formeninger om Sygdommens <lb/>
+Smitsomhed eller Ikke-Smitsomhed lige saa usikkre og upaalidelige, som <lb/>
+om dens Cuurmethode. Medens de videnskabelige Medicinal-Autoriteter i <lb/>
+Paris (fortiden procul a Jove, procul a fulmine) have erklæret sig for <lb/>
+den moderne Anskuelse have Autoriteterne i Marseille (fortiden nærmere  <lb/>
+Cholerasmittet Sted) i den seneste Tid besluttet meget strænge Quarantaine- <lb/>
+Foranstaltninger mod denne Sygdom.</p>
+               <p xml:id="p29">	Under saa ulige, saa modsatte Anskuelser, uden at kunne forudsee <lb/>
+hvilke nye Anskuelser, der i Fremtiden ville gjøre sig gjældende, er <lb/>
+det neppe klogt eller tilraadeligt for Styrelsen selv at søge sig bunden <lb/>
+ved en Lov, som kunde forhindre den fra at handle efter forandrede <lb/>
+Omstændigheder, om man skulde see sig tvungen til i en eller anden <lb/>
+Henseende at fravige nu antagne Grundsætninger.</p>
+               <p xml:id="p30">	Fra de angivne Synspunkter finder jeg det utilraadeligt, nu at søge <lb/>
+Quarantaine Bestemmelser fastsatte ved Lov, hvorimod det formenes <lb/>
+langt hensigtsmæssigere, at disse herefter som hidindtil gives ved <lb/>
+Kongl. Resolutioner, som kunne forandres efter forandrede Omstændigheder <lb/>
+og forandrede Anskuelser.</p>
+               <p xml:id="p31">	Med Hensyn paa tvende, i Forbindelse med Quarantaine-væsenet staaende <lb/>
+Gjenstande, nemlig Omkostninger og Straf- Bestemmelser, tillader <lb/>
+jeg mig at yttre følgende Formening.</p>
+               <p xml:id="p32">	Pasgebyhrerne, som var en i Budgettet opført, ikke ganske ubetydelig <lb/>
+Statsindtægt, ere heldigviis allerede hævede ved en af Kongen bifaldt <lb/>
+Storthingsbeslutning, og de endnu tilbageværende ved Kongl. Resolution <lb/>
+af 6te August 1816 bestemte Quarantaine Gebyhrer, maa ligesaavel <lb/>
+kunne ved Kongl. Resolution aldeles hæves som de ved Kongl. Resolution <lb/>
+af 19 August 1832 bleve nedsatte. Denne paatænkte billige Reform maa <lb/>
+saaledes kunne iværksættes uden Storthingets Deeltagelse.</p>
+               <p xml:id="p33">	De for Overtrædelse af Quarantaine Budene bestemte nu gjældende <lb/>
+Straffe Bestemmelser, ere formeentlig i den forbigangne Tid, sjelden komne <lb/>
+til Anvendelse, hvortil der, efterat Quarantainebestemmelserne ere saa <lb/>
+betydelig formildede, i Fremtiden vil være end mindre Anledning. Jeg  <lb/>
+troer saaledes, at man uden Ulempe ret vel kan lade disse Strafbestemmelser <lb/>
+forblive i Kraft, men i modsat Fald kunde man jo foreslaae nye, ved <lb/>
+Lov bestemt. Rigtigst formener jeg dog, at der for Tiden Intet  <lb/>
+Quarantainevæsenet betræffende bringes for Storthinget.</p>
+               <p xml:id="p34">	Om Marine Departementets Forslag til Quarantaine-Bestemmelser, <lb/>
+istedetfor at indstilles som Lovforslag, maatte blive indstillet til naadigst <lb/>
+Bifald som reglementariske Bestemmelser, vilde jeg ikke desto mindre  <lb/>
+fraraade at undergive dem den paatænkte Lægesamlings Bedømmelse.</p>
+               <p xml:id="p35">	Saadant synes mindre nødvændigt, da Forslaget i det væsentlige <lb/>
+stemmer med 2de udmærkede norske Læger (Thulstrup, Holst's) Anskuelser.</p>
+               <p xml:id="p36">	Den paatænkte Samling vilde koste endeel Penge ved Skyds, Diæter, <lb/>
+Honorarer, uden at give andet væsentligt Udbytte end en lærd Afhandling <lb/>
+om: " at Cholerasygdommen ikke er smitsom, og at følgelig alle  <lb/>
+Foranstaltninger mod dens Indtrængen ere overflødige og unyttige, i hvilken <lb/>
+Fald de søe- og handelskyndige Mænds Deeltagelse i Forhandlingerne ogsaa  <lb/>
+vilde være overflødig og unyttig. Efter en saadan lærd Opinionsyttring <lb/>
+turde det blive vanskelig at vedligeholde den Middelvei i  <lb/>
+Quarantainebestemmelser, som vi nu have valgt og som ikke paalægger  <lb/>
+Skibsfart og Handel større Byrde end Omsorg for det hele Folks Velvære <lb/>
+kræver, saalænge ikke de moderne Anskuelser ere mere stadfæstede.</p>
+               <p xml:id="p37">	Endelig vil jeg tillade mig min sidste Bemærkning, mod den paatænkte <lb/>
+Lægesamling. Vi begjærte meget, da vi udbad Hans Majestæts naadige <lb/>
+Bifald til den norske Regjerings seneste Beslutninger om Quarantainevæsenet <lb/>
+i Norge paa samme Tid som Hans Majestæt havde antaget og iværksat <lb/>
+et andet og meget strængere System i Sverige, som endnu der vedligeholdes, <lb/>
+men vi vilde begjære for meget, om vi forlangte, at Hans Majestæt <lb/>
+skulde bifalde og befale en Lægesamling, som uden al Tvivl vilde give <lb/>
+hiint System en complet Dementi.</p>
+               <p xml:id="p38">	De i begge Riger nu befølgende divergerende Anskuelser og derpaa <lb/>
+grundede Beslutninger, ere for nye og ferske for nu at kunne bringes i  <lb/>
+Harmonie. Overlade vi ogsaa i denne Begivenhed til Tiden at jævne og mægle <lb/>
+imellem Yderligheder.</p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 4de Januar 1848</date>.</dateline>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h7">
+                  <supplied resp="editor">Tillegg til rapport av 20. januar 1848</supplied>
+               </head>
+               <head type="sub2" xml:id="h8">No 3.</head>
+               <p xml:id="p39">	Jeg fandt Mig hindret fra at lade Min og Hendes Majestæt <lb/>
+Dronningens Kroning foregaae i Aaret 1846 og var derfor betænkt paa at <lb/>
+lade denne grundlovmæssige Act iværksætte i Aaret 1847, men da en <lb/>
+endelig Beslutning maatte afgives paa en Tid, da Udsigterne for Landets <lb/>
+Forsyning opvakte almindelig Bekymring, fandt Jeg Mig foranlediget til <lb/>
+i Mai Maaned samme Aar at beslutte Kroningen udsat. Jeg agter nu at <lb/>
+lade denne Act foregaae i næstkommende August Maaned i det Haab, at <lb/>
+Storthinget til den Tid vil kunne have tilendebragt sine nødvendigste <lb/>
+Forretninger, og saaledes uden Savn vil kunne afsee de af dets Medlemmer, <lb/>
+som det maatte ville udkaare til at bivære Kroningsacten.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

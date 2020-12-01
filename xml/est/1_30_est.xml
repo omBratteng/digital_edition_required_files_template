@@ -1,0 +1,93 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>30</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 30. mai 1845</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 30. mai 1845</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 26 denne Maaned.</p>
+               <p xml:id="p2">	Jeg havde ikke tænkt med Dagsposten at besvære Deres Majestæt <lb/>
+med nogen underdanigst Rapport, fordi jeg heldigviis Intet har at <lb/>
+rapportere. Deres Majestæts naadige Meddelelser af 26de denne Maaned <lb/>
+paalægge mig imidlertid den behagelige Pligt derfor uden Ophold at  <lb/>
+bevidne min underdanige Taknemmelighed. Med glad Deeltagelse har jeg  <lb/>
+og Mange med mig erfaret Hendes Majestæt Dronningens, Deres Kongelige <lb/>
+Høiheder Prindsessens og Prinds Gustavs lykkelige Reise og Ankomst til <lb/>
+Stockholm, hvortil jeg tillader mig underdanigst at lykønske Deres  <lb/>
+Majestæt.</p>
+               <p xml:id="p3">	Jeg tillader mig at nedlægge min underdanigste Taksigelse for de <lb/>
+Høie Reisendes naadigste Erindring, geleidet af Forsikkringen om min <lb/>
+hjertelige Ærefrygt og Hengivenhed. Til Hendes Majestæt Dronningen <lb/>
+vover jeg at bede naadigst meddeelt, at jeg efter Hendes Majestæts <lb/>
+naadige Ønske har besørget Cuur og Pleie paa Kongsvinger for den lidende <lb/>
+scrophuleuse Gut, som fremstilledes ved Gjestgiveriet Midtskougen.</p>
+               <p xml:id="p4">	Erindrende mig at Hendes Majestæt yttrede Lyst til at læse en <lb/>
+ganske interessant trykt Beskrivelse over det russiske Linieskib <lb/>
+"Ingermanlands" Forliis, tillader jeg mig underdanigst at fremsende den <lb/>
+med Dagsposten under Hendes Majestæts Adresse.</p>
+               <p xml:id="p5">	Grevinde Wedel flyttede til Bogstad Dagen efter Hendes Majestæt <lb/>
+Dronningens Afreise. Jeg forefandt hende ved mit Besøg sidste Søndag <lb/>
+svag og lidende, som dog ikke forhindrede os fra at drikke en velmeent <lb/>
+Skaal for Hendes Majestæt Dronningens lykkelige Ankomst til Stockholm.</p>
+               <p xml:id="p6">	Min ældste Søn med Familie tilbagevendte ogsaa strax til Hjemmet. <lb/>
+Her er saaledes nu bleven tomt og øde for mig, saa jeg er dobbelt glad <lb/>
+ved at kunne i Morgen tilflytte mit lille Landsted Holgerslyst.</p>
+               <p xml:id="p7">	Storthinget har med 2/3 Stemmer forkastet Forslaget om det totale <lb/>
+Forbud mod Brændeviinets Fabrication og Indførsel. Dette var mig ikke <lb/>
+uventet thi sandt at sige, var Storthingets Middag den 17de Mai  <lb/>
+sidstleden ingen Nykterheds Middag.</p>
+               <p xml:id="p8">	Da Deres Majestæts i naadigst Skrivelse af 19de denne Maaned <lb/>
+naadigst omnævner at have modtaget mine underdanigste Rapporter af 9de, <lb/>
+11te, 12te, tillader jeg mig underdanigst at bemærke, at jeg ogsaa <lb/>
+den 4de Mai tillod mig at insinuere en underdanigst Rapport som jeg <lb/>
+tør haabe naadigst modtaget, uagtet den ikke er omnævnt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 30 Mai 1845. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>174</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. januar 1849</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. januar 1849</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 21de denne Maaned, og <lb/>
+fremsendes denne hovedsagelig, for at geleide underdanigst vedlagte Copie <lb/>
+af den sidste Cholera Rapport fra Bergen, som vil blive completteret ved  <lb/>
+den med Morgenposten forventende.</p>
+               <p xml:id="p2">	Fra Landsognene ved Bergen bragte sidste Post ingen Rapport.</p>
+               <p xml:id="p3">	En Ulykke kommer sjelden alene, saaledes har et fra Spanien kommende <lb/>
+Skib bragt Koppe Epidemien til Bergen, som var udbrudt paa Skibet under <lb/>
+Reisen til Bergen. Skipperens Forhold ved Ankomsten did vil nærmere <lb/>
+blive undersøgt.</p>
+               <p xml:id="p4">	Siden mit sidste har jeg med stor Interesse læst de Documenter, <lb/>
+betræffende den danske Sag, som Deres Majestæt har havt den Naade at <lb/>
+meddele mig og hvorfor jeg gjentager min underdanigste Taksigelser. Jeg <lb/>
+seer deraf med Glæde, at det forurettede Danmarks Sag nu synes at  <lb/>
+omfattes med Deeltagelse i London.</p>
+               <p xml:id="p5">	Kongen af Danmark vilde forlængst Selv kunne have bragt Sine <lb/>
+oprøreriske Undersaatter til Raison, om ikke Kongen af Preussen havde taget <lb/>
+deres Partie, hvoraf endnu europæisk Krig kan opstaae, om ikke  <lb/>
+Underhandlingen i London skulde afværge den.</p>
+               <p xml:id="p6">	Enhver naadig Meddelelse om europæiske Anliggender har for mig en <lb/>
+stor Interesse og vil forpligte mig til underdanigst Taknemmelighed.</p>
+               <p xml:id="p7">	Deres Majestæts Naadegave, 100 Spdl., den 26de denne Maaned, har <lb/>
+jeg efter den mig naadigst givne Fuldmagt, tilladt mig at anvise til <lb/>
+Understøttelses Selskabet for pauvres honteux, som vil anvende den efter <lb/>
+den høie Givers naadige Hensigt.</p>
+               <p xml:id="p8">	Den snart 80aarige Professor Skjelderup var i Gaar hos mig for at <lb/>
+bede mig for Deres Majestæt at nedlægge hans underdanigste Taksigelse <lb/>
+for den ham beviiste megen Kongelige Naade.</p>
+               <p xml:id="p9">	Samtlige Universitetslærere bragte ham Søndag deres Hyldning og de <lb/>
+her studerende Medicinere i Gaar Aftes et Fakkeltog. Den værdige Olding <lb/>
+paaskjønner med inderlig Taknemmelighed, at Deres Majestæts Naade sætter <lb/>
+ham i Stand til vedblivende at understøtte trængende Slægtninge <lb/>
+og at vedligeholde tilvant Levemaade, som det i en høi Alder er tungt <lb/>
+at forandre. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25 Januar 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 25. januar 1849</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Postscriptum!</head>
+               <p xml:id="p10">	Efterat have sluttet min underdanigste Indberetning af Gaars Dato, <lb/>
+har jeg idag modtaget Beretning om Choleran i Bergen til 22de d. M., <lb/>
+hvorom jeg tillader mig underdanigst at vedlægge Copie af Stadsphysicus <lb/>
+Meddelelse til Departementet for det Indre af samme Dato. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 26 Januar 1849</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 25. januar 1849</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">
+                  <hi rend="underline">Copie</hi>.</head>
+               <lb/>
+               <head type="sub2" xml:id="h7">
+                  <hi rend="underline">Skrivelse fra Stadsphysicus i Bergen, Heiberg, til det Kongl. <lb/>
+Departement for det Indre, dateret 19de Januar 1849</hi>.</head>
+               <p xml:id="p11">	Fra 15de til idag Kl. 7 Formiddag er Antallet af anmeldte Cholera- <lb/>
+patienter 62, nemlig:</p>
+               <table xml:id="table1">
+                  <row>
+                     <cell>		fra 15de til 16de:</cell>
+                     <cell>  11</cell>
+                  </row>
+                  <row>
+                     <cell>			  " 16de  " 17de:</cell>
+                     <cell>  21</cell>
+                  </row>
+                  <row>
+                     <cell>			  " 17de  " 18de:</cell>
+                     <cell>  16</cell>
+                  </row>
+                  <row>
+                     <cell>			  " 18de  " 19de:</cell>
+                     <cell>  14.</cell>
+                  </row>
+               </table>
+               <p xml:id="p12">	Det er sandsynligt, at et 3die Lazaret, hvortil der er leiet <lb/>
+Locale, i disse Dage maa gjøres færdigt til Indtagelse af Patienter. <lb/>
+Sygdommens Intensitet er uforandret og de senere Dage have viist, at <lb/>
+den saakaldte bedre Classe heller ikke forskaanes for den. Jeg skylder <lb/>
+mig selv at bemærke, at det ikke er mig muligt med den Post, som afgaaer <lb/>
+denne Dag i Ugen, at opgive Mortalitetsforholdet, da Dødsanmeldelserne <lb/>
+gaae fra Middag Kl. 12 til samme Tid i næste Døgn og denne Post afgaaer <lb/>
+Kl. 11 Formiddag.</p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h8">
+                  <supplied resp="editor">Tillegg til rapport av 25. januar 1849</supplied>
+               </head>
+               <head type="sub2" xml:id="h9">
+                  <hi rend="underline">Copie af en Skrivelse fra Stadsphysicus i Bergen Heiberg, til <lb/>
+Departementet for det Indre, dateret 22de Januar 1849.</hi>
+               </head>
+               <p xml:id="p13">	Siden sidste Beretning af 19de er Antallet af anmeldte Syge 53, nemlig</p>
+               <table xml:id="table2">
+                  <row>
+                     <cell>fra 19de til 20de:</cell>
+                     <cell>  15</cell>
+                  </row>
+                  <row>
+                     <cell>	  "  20  "  21 :</cell>
+                     <cell>  20</cell>
+                  </row>
+                  <row>
+                     <cell>	  "  21  "  22 :</cell>
+                     <cell>  18.</cell>
+                  </row>
+               </table>
+               <p xml:id="p14">	Totalsummen af de angrebne er 388, hvoraf 254 Døde og 51 helbredede; <lb/>
+under Behandling 83.</p>
+               <p rend="center" xml:id="p15">------------</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

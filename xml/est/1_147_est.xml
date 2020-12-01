@@ -1,0 +1,205 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>147</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 11. mai 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 11. mai 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p xml:id="p2">	For at godtgjøre, at det uagtet min ivrige Bestræbelse ikke har <lb/>
+været mig muligt at faae den i Deres Majestæts naadige Skrivelse af <lb/>
+4de omhandlede vigtige Sag hastigere behandlet og expederet end  <lb/>
+hidindtil skeet, nødsages jeg til underdanigst at meddele hvorledes Sagen <lb/>
+her er bleven behandlet.</p>
+               <p xml:id="p3">	I det den 8de samlede Statsraad oplæste jeg  1o Protocollen fra <lb/>
+Stockholm af 3die, indeholdende Deres Majestæts naadige Meddelelse til <lb/>
+det hemmelige Utskott;  2o de medfulgte 15 pièces justificatives; <lb/>
+3o Deres Majestæts naadige Skrivelse til mig af 4de;  4to Grundlovens <lb/>
+25de § og 26de §. Det øiensynlig gode Indtryk, som Documenterne <lb/>
+No 1 og 3 havde gjort paa Regjeringens Medlemmer tilintetgjordes snart <lb/>
+af Statsraad Stang, som strax bemægtigede sig Ordet og i et lidenskabeligt <lb/>
+uendelig langt Foredrag søgte at bevise Dannemarks Uret med Hensyn <lb/>
+paa Slesvig, de danske Kongers forræderiske Færd mod dette Hertugdømme, <lb/>
+de fremmede Troppers Besættelse af Jylland, provoceret ved den danske <lb/>
+Embargo og Blokade etc. etc. Den derved foranledigede lange Discussion <lb/>
+blev høist ubehagelig, især ved Stangs heftige Tone og Manerer, og jeg <lb/>
+mærkede strax, at hans Foredrag gjorde Indtryk især paa de 2de yngste <lb/>
+Medlemmer, hvem han ved alle Leiligheder courtiserer, medens han viser <lb/>
+os andre Ringeagt.</p>
+               <p xml:id="p4">	Under dette Indtryk hævedes Statsraadet, da Tiden var medgaaet.</p>
+               <p xml:id="p5">	Sessionen den paafølgende Dag den 9de medgik til at undersøge og <lb/>
+overveie de af vedkommende Departementer fremlagte foreløbige Beretniner <lb/>
+om Rigets financielle Stilling og Forsvarsmidler, der dog ingenlunde lød <lb/>
+saa ynkelige som Stang den foregaaende Dag havde skildret dem.</p>
+               <p xml:id="p6">	Under Sessionen igaar den 10de yttrede paa min Opfordring – <lb/>
+Sørenssen og Riddervold sig overeensstemmende med Stangs Anskuelser og <lb/>
+tiltraadte det af ham i Form af en statistisk politisk Afhandling affattede <lb/>
+vidtløftige Votum, hvorved al activ Deeltagelse i de danske Anliggender <lb/>
+fraraades, med mindre Deres Majestæt maatte beslutte en saadan for Sverige, <lb/>
+i hvilket Tilfælde de dog erkjende at Norge ikke bør staae tilbage. Jeg <lb/>
+hørte endog en løs Yttring om, at det vilde være klogere, at benytte <lb/>
+Omstændighederne til at blive frie for Sundtolden end at hjelpe Dannemark.</p>
+               <p xml:id="p7">	Efter en herved foranlediget langvarig Discussion, oplæste jeg <lb/>
+underdanigst vedlagte Concept til mit paatænkte Votum, som i <hi rend="underline">det væsentlige</hi>
+                  <lb/>
+tiltraadtes af Regjeringens øvrige Medlemmer, med Forbehold af  <lb/>
+Forandringer, hvorom vi ville søge i en hos mig til i Eftermiddag berammet <lb/>
+Samling,at blive enige, hvorefter Sagens endelige Behandling vil blive <lb/>
+foretaget i Statsraad i Morgen, og om den, som jeg haaber, da bliver <lb/>
+tilendebragt, vil jeg expedere den ved Coureer, Løverdag den 13de. Uden <lb/>
+Stangs Deeltagelse vilde Gjenstanden uden Tvivl været bleven hastigere <lb/>
+og ønskeligere behandlet.</p>
+               <p xml:id="p8">	Under forløbne 34 Aar har jeg ofte erfaret, at vor Grundlov byder <lb/>
+Styrelsen mange og store Vanskeligheder under Fred; jeg erfarer nu, at <lb/>
+disse ere end flere og større, naar Spørgsmaal opstaaer om Krig. Til at <lb/>
+overraske en Fiende due vore grundlovmæssige Former aldeles ikke.</p>
+               <p xml:id="p9">	Stemningen for eller mod Dannemark er her deelt imellem 2 skarpt <lb/>
+modstaaende Partier. Det ene, hvortil hører vore Militaire, al vor Ungdom, <lb/>
+og ikke faae Ældre, er høist begeistret; det andet, bestaaende af  <lb/>
+Handlende, Næringsdrivende og andre frygte Krigen og ængstiges med Grund <lb/>
+for dens Følger. Advocat Dunker er ligesaa enthousiastisk for den danske <lb/>
+Sag som hans fordums Kammerad, Statsraad Stang, er fanatisk antidansk.</p>
+               <p xml:id="p10">	Jeg deler fuldkommen Deres Majestæts ædle Følelser og Anskuelser, <lb/>
+saavel om det Slesvigske som om det nordiske Spørgsmaal, men jeg tilstaaer <lb/>
+ærlig, at det vilde i høi Grad forurolige mig, om Deres Majestæt tog <lb/>
+activ Deel, uden at være sikkrere paa russisk og engelsk Medhold, end <lb/>
+der hidindtil er mig bekjendt.</p>
+               <p xml:id="p11">	Vort danske Parties Begeistring forøgedes ved min Søn Leopolds <lb/>
+uventede Ankomst hertil i Overgaar med Dampskibet fra Kjøbenhavn, hvorhen han <lb/>
+retournerede idag Morges. Den danske Krigsminister havde sent ham, for at <lb/>
+engagere nogle dygtige Frivillige, hvoraf han medførte 20, blandt Andre <lb/>
+en Søn af Statsraad Vogt, en Ditto af Amtmand Blom, – og maaskee for at <lb/>
+virke paa Stemningen her, hvorefter han strax vender tilbage til sin <lb/>
+Bataillon i Fyen med brændende Længsel efter nye Feldtslag. Alle Skibe i <lb/>
+Havnen flaggede ved de Frivilliges Afgang.</p>
+               <p xml:id="p12">	Saa vanskelig som det er for en menig Soldat (og kun i denne <lb/>
+Stilling vilde min Søn begynde) til at finde Leilighed til at udmærke sig, <lb/>
+har min Søn været heldig. Han har deeltaget i alle Affairer, og da han, <lb/>
+efterat de fleste af hans Compagnies Officierer i Slaget ved Slesvig vare <lb/>
+skudte eller saarede, 2de Gange fremførte det tilbageværende Mandskab <lb/>
+mod Fienden, nedskiød han med sin sidste Riefle Kugle en høi preussisk <lb/>
+Officeer af Hesten. Han blev udnævnt til Underofficier og tilsagt  <lb/>
+Tapperhedsmedaillen, som er under Myntning. Min Søn siger, at Preusserne <lb/>
+maneuvrere i Slag som paa Paradepladsen, men at de ikke kunne maale sig <lb/>
+med de danske i at bruge Bajonetten. Begeistringen i Danmark er vedvarende <lb/>
+lige varm i Armeen som hos Folket.</p>
+               <p xml:id="p13">	Samme Dampskib bragte Grev Plessen, nuværende dansk Minister i <lb/>
+Berlin, hertil paa en Lystreise. Han er vist en af de faae, som i denne Tid <lb/>
+kan forlyste sig, men han er politisk Amphibium, da hans Fader har  <lb/>
+Eiendomme i Danmark, og i Holsteen, og hans Sprog er mere tydsk end dansk.</p>
+               <p xml:id="p14">	Det desværre nu paa Storthinget raadende Stabelske Partie, har i <lb/>
+Gaar udmærket sig ved med 3 Stemmers Pluralitet at udvotere Falsen fra <lb/>
+Vice-Presidentskabet altsaa ogsaa fra Presidentskabet, og istedet for <lb/>
+ham at vælge Byfoged Christensen. I denne Anledning vil der i Aften af <lb/>
+et talrigt Publicum blive bragt Falsen en Serenade og Hurra.</p>
+               <p xml:id="p15">	Efterat den herværende russiske Generalconsul Tscheffkine flere Gange <lb/>
+for mig havde yttret Formodning om Hans Majestæt Keiserens Tilbøielighed  <lb/>
+til at præstere det Statslaan, som Norge tiltrænger og som under <lb/>
+nærværende Omstændigheder turde blive meget vanskeligt at opnaae <lb/>
+paa noget andet Sted, har Statsraad Vogt herom tilskrevet Ministeren  <lb/>
+Nordin og Generalconsul Sterky overeensstemmende med underdanigst vedlagte <lb/>
+Copier, og tillader jeg mig underdanigst at anbefale denne for Norge <lb/>
+høist vigtige Gjenstand til Deres Majestæts naadigste Understøttelse.</p>
+               <p xml:id="p16">	Efter flere Timers Conference denne Eftermiddag med Statsraaderne <lb/>
+Krog, Vogt og Foss, finder jeg mig nødsaget til at omarbeide mit  <lb/>
+tiltænkte Votum, om jeg skal kunne gjøre mig Haab om, at see det tiltraadt <lb/>
+af nogle Colleger, hvilket i Forbindelse med den Tid Beretningens <lb/>
+Udfærdigelse kræver, vil gjøre Sagens Expedition før Mandag den 15de  <lb/>
+umulig, Vor Grundlov passer ikke for Krig!</p>
+               <p xml:id="p17">	Deres Majestæts naadige Befalinger i den i Aften modtagne naadige <lb/>
+Skrivelse af 8de vil jeg bestræbe mig for at opfylde, saa snart jeg <lb/>
+har expederet Krigs Spørgsmaalet, som nu optager al min Tid.</p>
+               <p xml:id="p18">	Stockholms Posten bragte Consul Faye Anmodning fra den preussiske <lb/>
+Minister dersteds om at advare herværende preussiske Skippere om den <lb/>
+Fare, som et sandsynligt Fredsbrud fra de forenede Rigers Side, for dem <lb/>
+kunde medføre.</p>
+               <p xml:id="p19">	Foreløbig tillader jeg mig underdanigst at nedlægge Consul Fayes <lb/>
+dybe Erkjendtlighed for den ham tiltænkte Kongelige Naade. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 11 Mai 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst.		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 11. mai 1848</supplied>
+               </head>
+               <p xml:id="p20">	Ifølge Deres Majestæts i Norsk Statsraad i Stockholm afgivne <lb/>
+naadigste Befaling af 3die denne Maaned paaligger det os at fremstille vor <lb/>
+underdanigste Betænkning om Deres Majestæts naadigste Meddelelse af <lb/>
+2den denne Maaned til den nu forsamlede Svenske Rigsdags hemmelige Utskott, <lb/>
+hvorved det har behaget Deres Majestæt,at tilkjendegive Høistsammes <lb/>
+politiske Anskuelser i Anledning af den imellem Naboriget Dannemark <lb/>
+og det tydske Forbund udbrudte Krig og som Følge deraf Deres Majestæts <lb/>
+Hensigt at ville med svensk og norsk væbnet Magt bistaae Hs <lb/>
+Majt Kongen af Dannemark til at forsvare hans danske Arvelande mod <lb/>
+fiendtligt Angreb.</p>
+               <p xml:id="p21">	Ved i denne Anledning, overeensstemmende med Grundlovens 26de § <lb/>
+at fremlægge vor underdanigste Beretning om Rigets Tilstand med Hensyn <lb/>
+til dets Finantser og Forsvarsmidler, for saavidt samme for Øieblikket <lb/>
+approximativ kan opgives, bør vi i Underdanighed til Deres Majestæts <lb/>
+vise Bedømmelse fremstille de betænkelige Følger for Norge, som en <lb/>
+Krigstilstand med vedkommende tydske Forbundsstater vilde medføre.</p>
+               <p xml:id="p22">	Krigen vilde meget forøge den Forlegenhed og Næringsløshed, som <lb/>
+allerede nu existerer, som en Følge af den standsede Trælastudførsel; <lb/>
+den vilde have en skadelig Indflydelse paa vor Skibsfart, paa Afsætningen <lb/>
+af norske Fiskeproducter, paa vor Handelsrørelse og endelig paa vor <lb/>
+offentlige og private Credit i Udlandet.</p>
+               <p xml:id="p23">	Disse Onder ere visselig store; men en sund Politik fordrer for de <lb/>
+nordiske Riger, at Dannemark ikke opløses som nordisk Stat, hvilket synes <lb/>
+at være en nærliggende Følge af tydske Troppers Indrykken i de danske <lb/>
+Arvelande, og vi holde os overbeviiste om, at det norske Folk er villig <lb/>
+til at gjøre enhver mulig Opoffrelse, som dets Ære, dets Pligt mod et <lb/>
+agtet stambeslægtet Nabofolk maatte kræve, at det i denne Henseende <lb/>
+ikke vil staae tilbage for sit svenske Broderfolk.</p>
+               <p xml:id="p24">	Vi henstille saaledes til Deres Majestæts Viisdom at fatte de <lb/>
+Beslutninger, som de forenede Rigers Værdighed fremtidige Sikkerhed og <lb/>
+Selvstændighed maatte kræve, efter overeensstemmende med Grundlovens <lb/>
+25de og 26de §er at have af Storthinget begjært Bevilgning til de  <lb/>
+nødvendige Udgifter og dets Samtykke til de norske Troppers Anvendelse.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

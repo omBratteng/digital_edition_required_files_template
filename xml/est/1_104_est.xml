@@ -1,0 +1,62 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>104</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 3. juni 1847</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 3. juni 1847</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 20de har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af samme Dag ligesom jeg af Hr Greve Lewenhaupt er bleven underrettet om Deres Majestæts Afreise fra Stockholm den 27de forrige Maaned.</p>
+               <p xml:id="p2">	I St Petersburg kunde ingen Ruug faaes den 21de forrige Maaned. Nylig havde vi i Christiania knap Ruug for 8 Dage, men senere ere saavel hertil som til flere andre Byer ikke ubetydelige Partier<hi rend="underline">indforskrevne</hi>  Kornvarer ankomne, som mangle Kjøbere, fordi den store Mængde af Trængende ikke mægter at betale de høie Priser. Med Hensyn herpaa, som paa sidste Posts gunstigere Efterretninger om Kornmarkederne og Udsigten for Aarsvæxten udenrigs, har Regjeringen contramanderet sine Ordinationer paa udenrigske Markeder, forsaavidt de ikke ere effectuerede. I Riga stod Rugen den ene Dag 190 Rubel Sølv pr Læst. Den anden Dag kjøbtes for den norske Regjering 100 Læster à 185 Rubel og den følgende Dag faldt Prisen til 140 Rubel pr Læst. Deslige convulsiviske Fluctuationer, overbevise mig mere og mere om, at den Calamitet, som vi nu opleve, meget mere maa tilskrives djevelske Kunster og Speculationer end naturlige Aarsager. Med Kornpriser drives desværre nu det samme Børsspil, som med Statsfonds, Jernbaneactier etc.</p>
+               <p xml:id="p3">	Fra en meget kold Mai ere vi pludselig gaaede over til en stærk Hede og vi savne Regn. Aarsvæxten er meget langt tilbage og kan saaledes endnu ikke med nogen Sikkerhed bedømmes.</p>
+               <p xml:id="p4">	Ifølge Deres Majestæts naadige Befaling har jeg aldeles privatim foranstaltet indhentet Vedkommendes Formening om Tegningen til den Fane, som Deres Majestæt naadigst har tiltænkt Frederikshalds Borgercorps, hvorom min underdanigste Rapport forbeholdes.</p>
+               <p xml:id="p5">	Jeg tillader mig at lade disse underdanige Linier gaae over Stockholm, formenende, at de ad denne Vei sikkrest og snarest ville tilhændekomme Deres Majestæt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die Junii 1847. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

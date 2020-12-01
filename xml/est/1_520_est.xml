@@ -1,0 +1,83 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>520</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 20. desember 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 20. desember 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Henholdende mig til mine sidste underdanigste Rapporter af <lb/>
+16de og 17de dennes, vil jeg ikke undlade underdanigst at indberette, <lb/>
+at jeg i Statsraadet den 17de meddeelte den med England og Frankrige <lb/>
+under 21de November afsluttede Tractat og oplæste Deres Majestæts  <lb/>
+naadige Skrivelse til mig af 11te dennes. Derefter lod jeg, da <lb/>
+Statsraadet var sluttet, uopholdelig ved Kammerherre Holst besørge <lb/>
+Indførelsen af Tractaten i Morgenbladet, Christianiaposten og Rigs- <lb/>
+Tidenden. Med Hensyn til den mindre iøinefaldende Plads, som den har <lb/>
+erholdt i de 2de førstnævnte Blade, troer jeg at burde bemærke, at <lb/>
+det var foranlediget af, at Statsraadet sluttede sildig og at jeg <lb/>
+først derefter kunde meddele Tractaten til Tidningerne. Da derfor <lb/>
+Kammerherre Holst bragte den, vare allerede Aviserne færdige til den <lb/>
+paafølgende Dag, og kunde der ikke tilveiebringes nogen Plads uden <lb/>
+ved at indtage Tractaten under Christiania-Artikelen, hvor den dog <lb/>
+blev stillet som den første.</p>
+               <p xml:id="p2">	Hidtil have flere Omstændigheder lagt Hindringer i Veien for <lb/>
+Afholdelse af Guds Tjeneste i det Kongelige Slotscapel, hvortil Deres <lb/>
+Majestæt naadigst har givet Sit Samtykke. Disse Hindringer ere nu <lb/>
+hævede, da Stadens Geistlige frivillig have tilbuden sig at forrette <lb/>
+Gudstjenesten, – og vil Deres Majestæts Hofpredikant, Stiftsprovst <lb/>
+Rode til en Begyndelse afholde Prædiken i det Kongelige Slotscapel <lb/>
+2den Juledag, og vi skulle da opsende vore hjertelige varme Bønner <lb/>
+for Deres Majestæt, det Kongelige Huus og de forenede Riger, til den <lb/>
+Algode og Almægtige.</p>
+               <p xml:id="p3">	Efterat Foranstaaende var skrevet, modtog jeg Deres Majestæts <lb/>
+naadige Skrivelse af 17de dennes, hvorfor jeg nedlægger min <lb/>
+underdanigste Tak. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 20de December 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

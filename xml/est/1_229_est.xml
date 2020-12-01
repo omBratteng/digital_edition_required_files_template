@@ -1,0 +1,91 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>229</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 16. mai 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 16. mai 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 12te denne Maaned.</p>
+               <p xml:id="p2">	Mit Hjerte er lige gjennemtrængt af dyb og oprigtig <lb/>
+Taknemmelighed for Deres Majestæts naadige Indbydelse til Hans Kongelige Høihed <lb/>
+Kronprindsens høie Formæling, som nu af Bekymring over, at min Helbred <lb/>
+Forbyder mig at opfylde denne Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p3">	Jeg har den hele Vinter været lidende, hvorfor jeg allerede ved <lb/>
+Modtagelsen af Deres Majestæts naadige Indbydelse nærede Frygt for, <lb/>
+at jeg muligen ikke skulde kunne profitere deraf. Imidlertid haaber man <lb/>
+saa gjerne hvad man ønsker, og dette Haab har jeg ikke villet opgive før <lb/>
+nu, da min Læge, Professor Holst erklærer det absolut nødvendig, at <lb/>
+jeg skal besøge Marienbad. Jeg beder Deres Majestæt naadigst tilgive, <lb/>
+at jeg saa længe har næret det kjære Haab, og som Følge deraf udsat <lb/>
+saa længe at meddele min Læges haarde Dom, hvorfor jeg indtil sidste <lb/>
+Øieblik forgjæves har haabet Benaadning.</p>
+               <p xml:id="p4">	Min Sorg er stor over, at jeg skal savne den Lykke at opvarte Deres <lb/>
+Majestæter ved denne glade og høitidelige Anledning. Denne Sorg  <lb/>
+forøger mit Ildebefindende, men jeg vil ogsaa fraværende af ganske Hjerte <lb/>
+dele Deres Majestæters Følelser og Ønsker for det Høie unge Ægtepar, <lb/>
+hvis Lykke jeg beder Gud berede og bevare.</p>
+               <p xml:id="p5">	Jeg nødes saaledes til underdanigst at udbede Deres Majestæts <lb/>
+naadige Tilladelse til om mulig den 6te Juny at reise til Marienbad, <lb/>
+saavel for mig som for min Søn Adam, der vil bringe mig det Offer at <lb/>
+geleide mig did istedetfor til Stockholm. Hid vilde vi begge have reist <lb/>
+med glade Hjerter, den modsatte Vei tiltrædes vi bedrøvede.</p>
+               <p xml:id="p6">	Ogsaa for det mig naadigst tiltænkte fortræffelige Qvarteer <lb/>
+takker jeg underdanigst, med Bekymring over ikke at kunne profitere af  <lb/>
+denne Kongelige Naade. Jeg kan i denne for mig sørgelige Begivenhed kun <lb/>
+gjentage den gamle Sandhed: ”L’homme propose, Dieu dispose,” selv naar <lb/>
+vi svage Mennesker ikke kunne forstaae Guds Styrelse.</p>
+               <p xml:id="p7">	Statsraad Bretteville har taget Sæde i Regjeringen og Alt <lb/>
+berettiger mig til det Haab, at den i ham vil faae et ligesaa dygtigt, som <lb/>
+værdigt Medlem. Byens Borgerskab gav ham i Overgaars en Festmiddag, <lb/>
+for at bevidne ham Agtelse og Erkjendtlighed for hans gavnlige  <lb/>
+Virksomhed som Borgesmester. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 16de Mai 1850</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

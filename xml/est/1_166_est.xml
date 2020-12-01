@@ -1,0 +1,105 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>166</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 7. desember 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 7. desember 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 30te forrige Maaned.</p>
+               <p xml:id="p2">	Den 4de denne Maaned Aften, Klokken 8 anmeldte Politiemester <lb/>
+Fougstad og Politieadjutant Kammerherre Morgenstjerne, at en Lommebog med <lb/>
+Indhold efter underdanigst vedlagte Fortegnelse, af en Musikus Hansen <lb/>
+nylig var funden paa Gaden og indleveret paa Politiekammeret.</p>
+               <p xml:id="p3">	Ved den mundtlige Meddelelse om det i Lommebogen fundne Brev, <lb/>
+dateret Berlin den 12te November, fandt jeg dets Indhold saa extravagant, <lb/>
+at jeg ansaae det for hvad man i det moderne Sprog kalder en Hoax; men <lb/>
+efter nøiere at have overveiet Brevets Indhold finder jeg, at dette <lb/>
+bærer Præget af den nu i Tydskland raadende Tidsaand og at som Følge <lb/>
+heraf det i Brevet ommeldte forbryderiske Attentat kan være alvorlig <lb/>
+paatænkt.</p>
+               <p xml:id="p4">	Fra denne Synspunct vilde jeg have indskrænket mig til en <lb/>
+underdanigst Rapport herom til Deres Majestæt, men da Almanakken viser mig, <lb/>
+at en Meddelelse fra Stockholm til Vedkommende kunde komme for seent, <lb/>
+om som ikke er umuligt, et forbryderisk Attentat virkelig er paatænkt, <lb/>
+til den i Brevet omnævnte Tid, saa troer jeg mig forpligtet til ved <lb/>
+Dagens Post at tilsende de Storhertugelige Udenrigsministerier i <lb/>
+Carlsruhe og Darmstadt Copier af Brevet.</p>
+               <p xml:id="p5">	Under sædvanlige Forholde kunde det i Brevet omnævnte Attentat <lb/>
+ansees for en exalteret Phantasts eventyrlige Hjernespind, uden  <lb/>
+alvorlige Følger; men under den nærværende politiske Idéers Forvildelse <lb/>
+og Forrykthed i Tydskland, er det ingenlunde umuligt, men snarere <lb/>
+sandsynligt, at den forbryderiske Plan er alvorlig paatænkt og med denne <lb/>
+Anskuelse, anseer jeg det for Pligt uden Ophold at meddele Vedkommende, <lb/>
+hvad jeg ved et besynderligt Tilfælde derom har erfaret, hvilket jeg <lb/>
+ønsker maa vinde Deres Majestæts naadige Bifald. Da det tydske Brev er <lb/>
+vanskelig at læse tillader jeg mig underdanigst at vedlægge en ordlydende <lb/>
+Copie for Deres Majestæt.</p>
+               <p xml:id="p6">	Det originale Brev og Lommebogens øvrige Indhold tør maaskee lede <lb/>
+til at opdage den i alle Fald forbryderiske Brevskriver Georg i Berlin. <lb/>
+Dette Fornavn har tilbagekaldt i min Erindring en tydsk politisk Literat <lb/>
+ved Navn Georg Fein, som i længere Tid opholdt sig her, senere i <lb/>
+Anledning af hans politiske Virksomhed blev arresteret i Schweitz, <lb/>
+udleveret til Wien, hvor han efter lang Arrest blev frigivet mod  <lb/>
+Forpligtelse at begive sig til Amerika, hvilket han dog ikke har opfyldt, <lb/>
+da <hi rend="underline">han senest har præsideret i den demokratiske Club i Berlin</hi>.</p>
+               <p xml:id="p7">	Det fundne Brevs Eier har endnu ikke meldt sig. Om mod Formodning <lb/>
+dette skulde skee vil han blive behandlet efter de sig da visende <lb/>
+Omstændigheder.</p>
+               <p xml:id="p8">	Da jeg anseer det ønskeligt, at denne Begivenhed for Tiden bliver <lb/>
+holdt hemmelig, har jeg ikke engang meddeelt den til nogen Statsraad, <lb/>
+paalagt Politiemesteren og Politie-Adjutanten stræng Taushed indtil <lb/>
+videre, og jeg tillader mig underdanigst at bede det samme iagttaget  <lb/>
+i Stockholm.</p>
+               <p xml:id="p9">	Om Sagen maatte befindes alvorlig, saa er det visselig mærkværdigt, <lb/>
+at en i det sydligste Tydskland paatænkt Forbrydelse skulde blive <lb/>
+opdaget i Christiania og derfra Vedkommende meddeelt. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7de Decbr. 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

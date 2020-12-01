@@ -1,0 +1,94 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>339</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 25. desember 1851</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 25. desember 1851</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 14de denne Maaned.</p>
+               <p xml:id="p2">	Med underdanigst Taknemmelighed og stor Interesse har jeg havt <lb/>
+den Ære at modtage Deres Majestæts naadige Skrivelse af 18de denne <lb/>
+Maaned, som jeg har tilladt mig at meddele Regjeringens øvrige Medlemmer.</p>
+               <p xml:id="p3">	Det er magtpaaliggende, at Anskuelserne om Anledningen til og <lb/>
+Udviklingen af den store Begivenhed i Frankrige berigtiges og hertil <lb/>
+giver Deres Majestæts naadige Meddelelse  den bedste Veiledning.</p>
+               <p xml:id="p4">	Jeg deler ganske Deres Majestæts Mening, at Præsidentens djærve <lb/>
+Beslutning var det eneste Middel til at afværge de Ulykker, som truede <lb/>
+Europa og at derfor alle Landes sande Patrioter bør ønske ham Held.</p>
+               <p xml:id="p5">	Ludvig den 16des uskyldige Blod raaber fremdeles Ak! og Vee! <lb/>
+over det syndige ulykkelige franske Folk og vil endnu ikke blive afsonet. <lb/>
+Fra religieus og politisk Synspunct hænger jeg ved Legitimiteten; men <lb/>
+Louis Napoléon har ogsaa en Legitimitet, som Arving til sin store <lb/>
+Farbroders Mission og Herredømme, og selv i Mangel heraf vilde jeg paa ham  <lb/>
+anvende en gammel tydsk Digters Ord: <lb/>
+                  <lg xml:id="lg6">
+                     <l>"Der König sey der beste Mann!"</l>
+                     <l>"<hi rend="underline">Sonst</hi> sey der beste König."</l>
+                  </lg>
+               </p>
+               <p xml:id="p7">Jeg har Gud skee Lov, denne Gang Intet at indberette uden om <lb/>
+Vind og Veir.  Nogle Graders Kulde har siden i Gaar afløst det Mørke, <lb/>
+hvori vi længe have ravet.  Som Nordstjernen ikke kjender nogen Undergang, <lb/>
+saa kjender Deres Majestæts norske Regjering ingen Ferier og vi <lb/>
+have saaledes i denne hellige Uge vore sædvanlige Statsraads Sessioner.</p>
+               <p xml:id="p8">	Med næste Post vil Regjeringens underdanigste Indstilling om <lb/>
+Afskeed for Stiftamtmand Falsen med 1500 Spdl. Pension afgaae. I <lb/>
+Forbindelse hermed tillader jeg mig underdanigst at andrage Regjeringens <lb/>
+eensstemmige underdanige Ønske at Deres Majestæt naadigst vil meddele ham <lb/>
+Sin særdeles  naadige Tilfredshed med hans udmærkede Embedsførelse <lb/>
+tilligemed Medaillen for Borgerdaad i Guld, hvortil vi ansee Falsen <lb/>
+værdig som loyal Undersaat, som udmærket Embedsmand og hæderlig  <lb/>
+Medborger.</p>
+               <p xml:id="p9">	Jeg maa ganske bifalde den "svenske Tidnings" Sammenligning imellem <lb/>
+den svenske og norske Rigsret og vilde derfor heller undergives den <lb/>
+førstnævntes end den sidstnævntes Dom.  At gjøre Anklagere til Dommere <lb/>
+er barbarisk i Princip, som i Anvendelse. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 25de December 1851</date>.</dateline>
+                  <lb/> 
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>66</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. mai 1846</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. mai 1846</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de denne Maaned.</p>
+               <p xml:id="p2">	Med Dagsposten afgaaer Regjeringens underdanigste Indstilling betræffende Besættelsen af Holmestrands Toldcasserer Embede, hvortil underdanigst er indstillet som No 1 Foged Sommerfeldt, No 2 Capitaine i Marinen Dahl, No 3 Capitaine-Vagtmester i Christiansand Oberstlieutenant Tobiesen. Uagtet de af Finants Departementet anførte Grunde for, som No 2 og 3 at nævne 2de veltjente Toldembedsmænd, maa erkjendes gyldige, troede Statsraadets Pluralitet at maatte stemme for de nævnte 2de militaire Embedsmænd, blandt hvilke jeg med Hensyn paa meget længere Tjenestetid og Stilling, dog maa give Tobiesen Fortrin for Dahl. Hvorom imidlertid alle Regjeringens Medlemmer ere enige og hvilket er Formaalet for disse underdanigste Linier er den underdanigste Bøn, at Deres Majestæt til det omhandlende Embede naadigst vil udnævne den under No 1 indstillede Foged Sommerfeldt, som i Alder og Tjenesteaar er sine Concurrenter meget overlegen. Hertil kommer, at Sommerfeldt under 26 Aars Tjenestetid som Foged i det samme District, hvori Holmestrand er beliggende, har erhvervet almindelig Agtelse og Tillid, og at denne Befordring er den eneste, som han i hans fremrykkede Alder kan attraae.</p>
+               <p xml:id="p3">	For ikke uden Nødvendighed postdaglig at besvære Deres Majestæt med mine ennyante Rapporter, vil jeg tillade mig underdanigst at berøre en Regjerings Indstilling, som vil afgaae med næste Post. Toldinspecteuren i Laurvig, Baron Wedel Jarlsberg, ansøger underdanigst om, at han fremdeles maa vedblive at beboe sin Eiendomsgaard, Brunlaug, beliggende omtrent 3/8 Miil fra Laurvig, hvor han efter almindelige Regler burde have sin Bopæl.</p>
+               <p xml:id="p4">	Finants og Told-Departementet har indstillet Ansøgningen til Afslag, hvorimod Regjeringens store Pluralitet underdanigst indstiller den til Deres Majestæts naadige Bifald. Den støtter sin Anbefaling paa følgende Grunde: Toldloven bestemmer med Hensyn paa de forskjellige Aarstider et vist Antal Timer, nemlig 6,9,10 Timer daglig for Toldinspecteurens Nærværelse ved Toldstedet og naar dette, som hidindtil, af Baron Wedel iagttages, synes det Tjenesten uvedkommende, hvor han tilbringer den øvrige korte Tid af Dagen og Natten. Under hans 2aarige Tjeneste er ingen Ulempe opstaaet af, at han har beboet Brunlaug, hvorfra han i 20 à 30 Minutter kan komme til Laurvig hvor han med Virksomhed og Nidkjærhed opfylder sine Embedspligter. Da saaledes Tjenestens Tarv ingenlunde fordrer, at paalægge Baron Wedel det for ham ødelæggende Offer at flytte sin Bopæl til Laurvig, indstilles hans underdanigste Ansøgning til Deres Majestæts naadige Bifald, som jeg tillader mig at ledsage med min underdanigste Anbefaling.</p>
+               <p xml:id="p5">	General-Consul Stael v. Holstein har nu meddeelt Magistraten hersteds, at det omsider har lykkes ham at faae afsluttet Contract om Christiania Byes Oplysning ved Gas forinden Udgangen af Aar 1847, som da vil blive et Fremskridt i virkelig Oplysning.</p>
+               <p xml:id="p6">	Min Søn Adam og Hustru forlod mig den 29de forrige Maaned, og vil det Skib, som skal føre dem til Havre, blive seilfærdig om 10 à 12 Dage. Vi ere visselig ikke utaknemmelige; men en saadan Afskeed er og bliver dog høist smertelig.</p>
+               <p xml:id="p7">	Luftens Temperatur er i den senere Tid bleven kold og tør, som holder Vegetationen tilbage. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste Mai 1846. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

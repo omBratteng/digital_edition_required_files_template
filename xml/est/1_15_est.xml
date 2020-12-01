@@ -1,0 +1,128 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>15</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christania 18. oktober 1844</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christania 18. oktober 1844</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 7de denne Maaned.</p>
+               <p xml:id="p2">	Da jeg af en lang Erfaring veed, hvor ønskeligt det er, at den <lb/>
+norske Regjerings Indstillinger om Gjenstande, som høre under Storthingets <lb/>
+Ressort, afgives betimelig, har jeg ikke undladt herpaa at <lb/>
+gjøre vedkommende Departementschefer opmærksomme. Dette Ønske har jeg <lb/>
+in specie gjentaget for Indstillengen om næste Budget i Følge den mig <lb/>
+derom gjennem den norske Statsminister under 7de denne Maaned givne <lb/>
+naadigste Befaling; men jeg forudseer, at Indstilling om denne vigtige <lb/>
+Gjenstand ikke vil kunne afgives saa betimelig, som ønskelig, uagtet <lb/>
+Vedkommendes Bestræbelser, og mine gjentagne Erindringer.</p>
+               <p xml:id="p3">	Indstilling om det nu gjeldende Budget fra 1ste Juli 1842 til 1ste <lb/>
+Juli 1845 indgaves først den 19de Februar 1842, hvortil Kongelig naadigst <lb/>
+Resolution afgaves den 1ste Marts, og jeg befrygter at Indstilling <lb/>
+om næste Budget ikke vil kunne indgives tidligere. Imidlertid <lb/>
+tillader jeg mig underdanigst at udbede mig Deres Majestæts naadige <lb/>
+Ønske i denne Henseende gjentagende naadigst meddeelt til Gjentagelse <lb/>
+for Vedkommende.</p>
+               <p xml:id="p4">	Som Aarsager for Budgetternes alt for sene Behandling, tillader <lb/>
+jeg mig underdanigst at anføre:</p>
+               <list xml:id="list5">
+                  <label>1o</label>
+                  <item> Storthingenes Samling hvert 3die Aar, som levner et for kort <lb/>
+Mellemrum til Indhentning af alle de Oplysninger, som behøves fra de <lb/>
+paa Landets vide Areal adspredte underordnede Embedsmænd. Først naar <lb/>
+disse Oplysninger og Betænkninger ere modtagne, kunne de underdanigste <lb/>
+Indstillinger indgives om alle de Gjenstande, som staae i Forbindelse <lb/>
+med Budgettet, og hvorom Kongelige naadigste Resolutioner maa <lb/>
+indhentes, forinden Budgettet endelig kan tages under Behandling i <lb/>
+Departementerne, og sluttelig i Regjeringen. –</item>
+                  <label>2o</label>
+                  <item> Den for vor hele Forretningsgang beklagelige Omstændighed at <lb/>
+nogle Regjeringsdepartementer ere saa overlæssede med løbende Forretninger, <lb/>
+at den bedste Villie og Dygtighed ikke kan bevirke sammes ordentlige <lb/>
+og betimelige Pleie. –</item>
+               </list>
+               <p xml:id="p6">	For at raade Bod paa dette store Onde, foreslog Høistsalig Kongen <lb/>
+for sidste Storthing Gage bevilling for en 9de Statsraad, som Chef <lb/>
+for et Departement for det Indre, der skulde overtage de Forretningsgrene, <lb/>
+hvormed nogle Departementer nu ere overlæssede. Denne nødvendige  <lb/>
+Reform vandt dog ikke Majoritet i Storthinget; men afsloges af 57 <lb/>
+Stemmer mod 38. Regjeringen vil nu underdanigst tilraade, at gjentage <lb/>
+samme naadigste Proposition for næste Storthing, hvorom underdanigst <lb/>
+Indstilling vil afgaae med næste Post. Man tør nu gjøre sig saameget <lb/>
+mere Haab om Propositionens Antagelse, fordi en ny Statsraadsgage nu <lb/>
+kan bevilges uden forøget Udgift for Statscassen, ved Hjelp af den  <lb/>
+anticiperede større Nedsættelse af Rigsstatholderens Gage.</p>
+               <p xml:id="p7">	Uagtet jeg vel kan vide, at Deres Majestæt af vedkommende militaire <lb/>
+Authoritet vil have modtaget underdanigst Rapport om en <hi rend="underline">Disposition</hi>
+                  <lb/>
+til Mytterie, som yttredes sidstliden Søndag den 13de af de paa <lb/>
+Agershuus Fæstning hensiddende Slaver, vilde jeg dog ikke have manglet <lb/>
+derom at gjøre min underdanigste Indberetning, om jeg om denne Begivenhed <lb/>
+havde havt nogen paalidelig Kundskab; men en saadan mangler jeg endnu <lb/>
+i denne Time. Jeg har kun af Rygter og offentlige Blade erfaret, at <lb/>
+Vagterne bleve forstærkede og forsynede med skarpe Patroner, at ladede <lb/>
+Kanoner placeredes mod Slaveriet. Om Begivenheder, der foranledige saa <lb/>
+alvorlige Foranstaltninger, kan jeg dog hverken finde det passende eller <lb/>
+rigtigt, at Deres Majestæts Statholder skal være uvidende, og om Deres <lb/>
+Majestæt naadigst bifalder denne Anskuelse, tillader jeg mig underdanigst <lb/>
+at indstille: at det naadigst maa vorde Rigets Fæstningscommandantskaber <lb/>
+paalagt, at meddele Rigsstatholderen <hi rend="underline">overordentlige</hi>  Begivenheder, <lb/>
+som maatte indtreffe i Fæstningerne.</p>
+               <p xml:id="p8">	Jeg tillader mig underdanigst at affatte denne Rapport uden Sørgerand, <lb/>
+fordi jeg formener Sorgen efter Høistsalig Kongen aflagt, uden <lb/>
+dog at vide det med Vished, fordi Kongelige Beslutninger om Sorgs Anlæggelse <lb/>
+eller Aflæggelse ikke her, som i Sverige og andre Lande, offentliggjøres. <lb/>
+I denne Anledning tillader jeg mig underdanigst at indstille: <lb/>
+at Deres Majestæt naadigst vil befale Rigsmarskalksembedet, at <lb/>
+meddele Chefen for den norske Hofstat Deres Majestæts naadigste Beslutninger <lb/>
+om Hofsorgs An- eller Aflæggelse, og sidstnævnte derom at give <lb/>
+Publicum Meddelelse i Rigstidenden. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 18de October 1844. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst				</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

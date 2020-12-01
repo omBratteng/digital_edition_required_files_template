@@ -1,0 +1,133 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>491</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 8. mars 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 8. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 3die eller rettere af <lb/>
+4de denne Maaned.</p>
+               <p xml:id="p2">	I et den 6te afholdt overordentligt Statsraad afgav Armee <lb/>
+Departementets Chef de af Deres Majestæt under 1ste Februar befalede <lb/>
+Oplysninger, visende, at Anskaffelsen af de af Deres Majestæt paapegede <lb/>
+meest paatrængende Fornødenheder, foruden de for hele Budgetterminen <lb/>
+til Armeen bevilgede Summer, som <hi rend="underline">kunne anticiperes</hi>, – vil endvidere <lb/>
+udfordre 250,000 Speciedaler, som ikke bevilgede. Spørgsmaalet <lb/>
+dreiede sig nu om, hvorledes denne betydelige Sum skal kunne  <lb/>
+tilveibringes, da man à priori kunde antage, at Statscassen heldigviis <lb/>
+ikke savner Evner til Summens Udredelse, – hvilket senere af Finants <lb/>
+Departementets Chef blev stadfæstet.</p>
+               <p xml:id="p3">	Jeg indledede Sagens Behandling ved at fremstille de 2de Maader, <lb/>
+som Regjeringen havde at vælge: 1o at tilraade Deres Majestæt at  <lb/>
+sammenkalde et Storthing, for at faae den nødvendige Sum bevilget; eller <lb/>
+2o underdanigst at raade Deres Majestæt at benytte de havende  <lb/>
+Resourcer, i Tillid til et kommende Storthings Bifald. Jeg fremstillede <lb/>
+de med et Storthings Sammenkaldelse <hi rend="underline">nu</hi>  forbundne Ulemper, ja Farer, <lb/>
+saa store, at jeg ikke kunde tilraade det. Jeg indrømmede det med det <lb/>
+andet Alternativ forbundne juridiske Ansvar, men erklærede bestemt <lb/>
+at ville foretrække dette, fremfor det større moralske Ansvar.</p>
+               <p xml:id="p4">	Jeg fandt Stemningen i Regjeringen høist loyal og meget tilbøielig <lb/>
+til at imødegaae Deres Majestæts Ønske; men de alvorlige  <lb/>
+Betænkeligheder, som yttredes, maa ikke forundre, naar man billigen vil <lb/>
+betænke ansvarlige Kongelige Raadgiveres ofte vanskelige Stilling og  <lb/>
+de Krænkelser og Lidelser, som de ere udsatte for.</p>
+               <p xml:id="p5">	Imidlertid blev Resultatet af en 3 à 4 Timers Discussion, at <lb/>
+Regjeringen i en Indstilling, som vil afgaae med Morgenposten, <hi rend="underline">eenstemmig</hi>
+                  <lb/>
+underdanigst tilraade Deres Majestæt at benytte de havende <lb/>
+Midler, <hi rend="underline">uden at sammenkalde Storthinget</hi>.</p>
+               <p xml:id="p6">	Saaledes sluttede Discussionen i<hi rend="underline">Overgaar</hi>  tilfredsstillende, <lb/>
+da Statsraad Erichsen i Statsraadet <hi rend="underline">i Gaar</hi>  atter vilde optage den og  <lb/>
+i et særskilt Votum yttre sig om Marinens Behov m.m., som vilde have <lb/>
+bragt Sagen i en heel anden Stilling og forspildt al derpaa anvendt <lb/>
+Møie; men det lykkedes omsider at bevæge ham til at frafalde dette <lb/>
+Forsæt, hvorom han dog yttrede, at ville henvende sig directe til <lb/>
+Deres Majestæt.</p>
+               <p xml:id="p7">	Deres Majestæts naadige Resolution af 1ste Februar er redigeret <lb/>
+saa omhyggelig, at den betydelig har lettet mine Bestræbelser. <lb/>
+Blandt Andet havde Yttringen om Deres Majestæts vedvarende Formaal  <lb/>
+"at ville vedligeholde Neutraliteten", en god Indflydelse i Statsraadet <lb/>
+og vil ogsaa visselig have den i Storthinget.</p>
+               <p xml:id="p8">	Jeg skylder endnu underdanigst at bemærke, at jeg under <lb/>
+Discussionen erfarede, at Regjeringen ikke oftere vil vove i lignende  <lb/>
+Retning at tilraade ubevilgede Midlers Anvendelse, uden <hi rend="underline">tillige</hi>
+                  <lb/>
+underdanigst at tilraade Storthingets Sammenkaldelse, hvorfor Gud os <lb/>
+forskaane!</p>
+               <p xml:id="p9">	Et nyt uventet Slag har rammet den Mansbachske Slægt, som er <lb/>
+haardere end det første. Dagen efter den gamle Generalindes Død, blev <lb/>
+hendes ældste Datter, Frøken Marie, befalden af en Lungebetændelse og <lb/>
+da jeg i Formiddag vilde begive mig til Moderens Begravelse, anmeldte <lb/>
+man mig ogsaa denne Datters dødelige Afgang. – Frøken Marie var <lb/>
+Sjælen i dette Sørgehuus. Den ulykkelige blinde Broder lever nu  <lb/>
+tilbage med en svag og sygelig Tvillingsøster. Familien er nedbøiet i <lb/>
+den dybeste Sorg.</p>
+               <p xml:id="p10">	Medens jeg i Overgaar sad i en alvorlig Statsraads Discussion <lb/>
+bragte en Telegraph Depêche fra Gothenborg den sørgelige uventede  <lb/>
+Efterretning om Keiser Nicolaus bratte Død. Dette rapellerede mig, at <lb/>
+da jeg den 2den April 1801, efter Slagets Ophør, som Auscultant  <lb/>
+bivaanede et Statsraad, som Frederik den 6te afholdt i Citadellet ved <lb/>
+Kjøbenhavn om Aftenen, bragte en Coureer den lige uventede Efterretning <lb/>
+om Keiser Pauls Død, som havde megen Indflydelse paa dette Statsraad.</p>
+               <p xml:id="p11">	Nu i dette Øieblik havde jeg den Ære at modtage Deres Majestæts <lb/>
+naadige Skrivelse af 5te Marts, hvorfor jeg underdanigst takker, hvorved <lb/>
+dette Sørgebudskab, som jeg ikke vilde troe paa, stadfæstes.</p>
+               <p xml:id="p12">	Jeg deler ganske Deres Majestæts Dom om den afdøde Keiser, som <lb/>
+Monark og som Menneske, og beklager, at den sidste Deel af hans <lb/>
+ærefulde Regjering blev forbittret ved Utaknemmelighed af Magter, som <lb/>
+skylde ham sin Tilværelse, ved en canibalsk Forfølgelse.</p>
+               <p xml:id="p13">	En sardinsk Minister, Grev Cavour, yttrede nylig: "at Tydskland <lb/>
+ikke 1848 opnaaede den tilsigtede Frihed var alene Keiser Nicolaus's <lb/>
+Skyld." Bebreidelsen er sand, men Lovtalen er stor!</p>
+               <p xml:id="p14">	Som Deres Majestæts og de forenede Rigers tro Tjener ønsker jeg <lb/>
+hjertelig, at Deres Majestæts Venskab for den afdøde Keiser maa gaae <lb/>
+over paa hans Søn og Thronfølger. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 8de Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

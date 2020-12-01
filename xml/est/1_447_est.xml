@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>447</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 14. mai 1854</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 14. mai 1854</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Siden min sidste underdanigste Rapport af 7de denne Maaned <lb/>
+har jeg havt den Ære at modtage Deres Majestæts naadige Skrivelse af <lb/>
+4de, med et af Baron Manderstrøm, efter Deres Majestæts naadige  <lb/>
+Befaling, forfattet Promemoria, hvorfor jeg nedlægger min underdanigste <lb/>
+Taksigelse.</p>
+               <p xml:id="p2">	Efter Deres Majestæts naadige Befaling har jeg confidentielt <lb/>
+meddeelt dette Document til Regjeringens Medlemmer, som ere enige med <lb/>
+mig i, at dets videre Meddelelse bør dependere af den Vending, som <lb/>
+Gjenstandens Behandling i Protocol-Committeen vil faae, hvilket ogsaa <lb/>
+er stemmende med Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p3">	Benævnte Document oplyser, at Deres Majestæts Bestemmelse om, <lb/>
+at kun 4 fremmede Orlogsfartøier maatte indløbe i Rigets Befæstede <lb/>
+Havne, saa længe ikke Krig var erklæret, ingenlunde er stridende mod <lb/>
+Europas Folkeret eller Vedtægt. Denne sagkyndige Oplysning kan  <lb/>
+Protocolcommitteens Medlemmer vistnok tiltrænge; men Tvivl i denne <lb/>
+Henseende er ikke Gjenstand for dens Forhandling, som nu dreier sig om det <lb/>
+Spørgsmaal, hvorvidt deslige Bestemmelser bør gives i Commandovei  <lb/>
+eller, efter at være behandlet i Regjeringen, og paa dette Spørgsmaal <lb/>
+kan oftnævnte Oplysning ikke have nogensomhelst Indflydelse. De  <lb/>
+mangehaande Omstændigheder, som bør bestemme mig til videre at meddele <lb/>
+eller ikke meddeele Documentet, ere for vidtløftige for en skriftlig <lb/>
+Meddelelse; men jeg beder underdanigst, at Deres Majestæt vil troe, <lb/>
+at jeg i denne Henseende vil efter Omstændighederne og efter  <lb/>
+Raadførsel med paalidelige Storthingsmænd, handle efter min bedste <lb/>
+Overbeviisning.</p>
+               <p xml:id="p4">	Imidlertid formoder jeg, at Protocolcommitteen vil benytte <lb/>
+Leiligheden til at faae undergivet de Høistbefalende constitutionel  <lb/>
+Ansvarlighed, som de formeentlig have i Sverige, men ikke i Norge.</p>
+               <p xml:id="p5">	Af Statsraad Bloch vil Deres Majestæt have modtaget en underdanigst <lb/>
+foreløbig Indberetning om en i Garnisonen paa Horten indtruffet <lb/>
+ubehagelig Begivenhed, i hvilken Anledning Forhør er befalet optaget. <lb/>
+En Disposition til Opsætsighed yttredes, som heldigviis qvaltes i  <lb/>
+Fødselen ved Corpschefen, Oberstlieutenant Ryes raske og gode Conduite. <lb/>
+De Vilkaar, som ere bestemte for Soldaternes Arbeide paa Horten, ere <lb/>
+saa gode, at de uden Tvivl maatte været paaskjønnede, om ikke Aviserne <lb/>
+og andre Ildesindede havde opviglet enfoldige Soldater; men saaledes <lb/>
+er desværre den saa kaldte Tidsaand og – den duer ikke!</p>
+               <p xml:id="p6">	Man maatte i vor slemme Tid mistvivle, i Mangel af Tillid til <lb/>
+et naadigt Forsyn. Dette har Gud være lovet! forvandlet vor Frygt for <lb/>
+Misvæxt, under en langvarig Tørke, til et godt Haab efter en velgjørende <lb/>
+Regn og senere heldigt Veir. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 14de Mai 1854</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

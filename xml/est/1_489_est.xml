@@ -1,0 +1,132 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>489</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 1. mars 1855</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 1. mars 1855</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 18de forrige Maaned.</p>
+               <p xml:id="p2">	Intet er senere passeret, som fortjener Deres Majestæts <lb/>
+Opmærksomhed. Vinteren er vedbleven med megen Strænghed, indtil de senere <lb/>
+Dage, hvorunder Kulden betydelig har aftaget, og vi have faaet noget <lb/>
+mere efterlængted Snee.</p>
+               <p xml:id="p3">	Jeg tillader mig underdanigst at vedlægge en Skrivelse fra Biskoppen <lb/>
+i Tromsø til det Kongelige Kirke-Departement, hvori han henleder <lb/>
+Opmærksomheden paa den 77aarige Provst Gaarder, Sognepræst til <lb/>
+Alstahaug, som den <hi rend="underline">3die Mai</hi>  dette Aar forhaabentlig vil opleve sit <lb/>
+femtiaarige Embeds Jubileum som Præst. Paa Grund af hvad Biskoppen  <lb/>
+har oplyst om denne værdige Geistlige, tillader jeg mig, efter <lb/>
+Regjeringens Ønske, at fremføre den underdanige Bøn: at Deres Majestæt ved <lb/>
+denne høitidelige Leilighed vil benaade ham med Ridderkorset af den <lb/>
+Kongelige St Olafs Orden. Om denne Kongelige Naade skal kunne blive <lb/>
+Provst Gaarder til Deel, paa hans Høitidsdag den 3die Mai, taaler  <lb/>
+den ingen Udsættelse, da Befordringen af Biskoppens Brev har medtaget <lb/>
+en Maaned.</p>
+               <p xml:id="p4">	Til at succedere Statsraad Møinichen som Amtmand i Agershuus Amt, <lb/>
+vil Regjeringen underdanigst indstille Amtmanden i Smaalehnene, Birch- <lb/>
+Reichenwald. Jeg beklager, at jeg ikke har kundet stemme for Politiemester <lb/>
+Morgenstjerne uagtet jeg erkjender hans udmærkede Embedsdygtighed, <lb/>
+og uagtet jeg erindrer, at Deres Majestæt, da han efter Deres <lb/>
+Majestæts Ønske indgav Ansøgning om det vigtige Politiemester Embede, <lb/>
+naadigst gav ham Haab om en Befordring som den omnævnte.</p>
+               <p xml:id="p5">	Derimod tillader jeg mig at udbede den Naade, at Deres Majestæt <lb/>
+naadigst vil bifalde mit dissenterende Votum ved Besættelsen af  <lb/>
+Landphysicus-Embedet i Bradsberg Amt, hvortil Regjeringen underdanigst <lb/>
+har indstillet som No 1 Corpslæge Roll og som No 2 Batteriechirurg <lb/>
+Heyerdahl, hvilken sidstnævnte jeg har tilladt mig i Underdanighed at <lb/>
+indstille som No 1, fordi jeg, efter Raadførsel med herværende Læger, <lb/>
+holder mig overbeviist om, at Embedet ved ham vil blive bedst besat, <lb/>
+hvilket ligger mig meget paa Hjertet, saavel for Districtets Tarv, <lb/>
+som for min egen Skyld. Regjeringens øvrige Medlemmer ere enige med <lb/>
+mig i Bedømmelsen af Roll og Heyerdahl; men have givet Førstnævnte <lb/>
+Fortrin paa Grund af nogen bedre <hi rend="underline">formal</hi>  Qvalification, hvorpaa jeg i  <lb/>
+denne Begivenhed bør tage mindre Hensyn end paa Realiteten.</p>
+               <p xml:id="p6">	Endnu i Statsraadet i Gaar erindrede jeg Statsraad Bloch om de <lb/>
+Oplysninger, som Regjeringen behøver, for at kunne afgive den af Deres <lb/>
+Majestæt naadigst befalede Betænkning om Anskaffelse af Armeens <lb/>
+meest paatrængende Behov; men han erklærede ikke at kunne meddele den <lb/>
+før i næste Uge. Imidlertid yttrede han foreløbig, at det nødvendige <lb/>
+Udgifts Beløb, hvorom for Tiden er Spørgsmaal, sandsynlig vil, som af <lb/>
+Deres Majestæt formodet, udgjøre omtrent 250,000 Speciedaler.</p>
+               <p xml:id="p7">	Jeg har allerede i min sidste underdanigste Rapport foreløbig <lb/>
+yttret min Anskuelse om Beløbets Tilveiebringelse; men jeg anseer det <lb/>
+ganske gavnlig, at Regjeringens øvrige Medlemmer have nogen Betænkningstid <lb/>
+i vor unægtelig vanskelige Stilling; thi jeg har ofte erfaret,  <lb/>
+at Tiden kan, om ikke hæve, saa dog formindske det første Øiebliks <lb/>
+Betænkeligheder. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 1ste Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 1. mars 1855</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">Underdanigst Apostille!</head>
+               <p xml:id="p8">	Efterat Foranstaaende var skrevet indtraf idag Klokken 9 den <lb/>
+gamle værdige Generalinde Mansbachs dødelige Afgang; hiin opnaaede <lb/>
+den høie Alder af over 85 Aar og var rask indtil nogle Dage før sin <lb/>
+Død. Dette Dødsfald er saa meget beklageligere, som den Afdøde sammenholdt <lb/>
+Familien, bestaaende af 2de Døttre, som antages forsørgede, og <lb/>
+den stakkels blinde hjelpeløse Søn, som i sin Moders Huus fandt et <lb/>
+Hjem og et Bidrag til sin Underholdning, hvoraf Tabet i hans ubemidlede <lb/>
+Forfatning uden Tvivl vil være meget føleligt. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 2den Marts 1855</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

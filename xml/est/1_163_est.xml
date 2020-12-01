@@ -1,0 +1,127 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>163</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 19. november 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 19. november 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 9de denne Maaned.</p>
+               <p xml:id="p2">	Vinteren, som indfandt sig usædvanlig tidlig dette Aar, synes nu <lb/>
+at have befæstet sig. Vi have om Morgenen 7 à 8 Grader Réaumur Kulde <lb/>
+og ved en liden Sneebedækning et godt Slædeføre. Havnen er belagt med <lb/>
+Iis og Skibene kunne nu ikke komme Christiania nærmere end til Drøbak.</p>
+               <p xml:id="p3">	Den Formindskelse i Toldintraderne som man havde Grund til at <lb/>
+befrygte, er lykkeligviis ikke indtruffet i Aarets første 10 Maaneder. <lb/>
+Disse beløb nemlig fra Januar til sidste October dette Aar, – 1,754,412 <lb/>
+Speciedaler og i samme Tidsrum forrige Aar 1,691,321 Spdl. altsaa dette <lb/>
+Aar 63,091 Speciedl. mere, men derhos bør, for at gjøre en rigtig  <lb/>
+Sammenligning, erindres, at Statscassen ved Korntoldens Ophævelse, i nogle <lb/>
+Maaneder forrige Aar tabte 160,000 Speciedaler, saa at, om denne havde <lb/>
+været opkrævet, vilde Toldintraderne i samme Aars første 10 Maaneder <lb/>
+have beløbet(Nsp) 1,851,321 Speciedl. altsaa 97,000 Spdl. mere end dette <lb/>
+Aar. Imidlertid have dog Toldintraderne i Virkeligheden givet Statscassen <lb/>
+63,000 Speciedl. større Indtægt i dette Aars første 10 Maaneder end i <lb/>
+samme Tidsrum forrige Aar. Den tidligere Vinter dette Aar og deraf  <lb/>
+følgende Skibsfartens tidligere Standsning, vil formodentlig formindske <lb/>
+Toldintraderne i Aarets tilbageværende 2 Maaneder.</p>
+               <p xml:id="p4">	Blandt Norges Export Artikler har Planker og Bord lidt meest, ved <lb/>
+den politiske Omvæltning i Frankrige og den deraf følgende Pengemangel, <lb/>
+standsede Industrie, og ødelagte Velvære i dette ulykkelige Land. I <lb/>
+Frankrige fandt Norges som Sveriges Saugproducter i den senere Aarrække <lb/>
+sin største og bedste Afsætning. Denne har i den længste Deel af Aaret <lb/>
+været aldeles standset, og det Ubetydelige, som i den seneste Tid er <lb/>
+bleven solgt, kunde kun finde Kjøbere for meget nedsatte Priser. Af min <lb/>
+ikke ubetydelige Saugproduction dette Aar har jeg Intet kunnet sælge og <lb/>
+det er en Selvfølge,at det er saare vanskeligt at vedligeholde de med en <lb/>
+betydelig Rørelse forbundne Udgifter, uden Productsalg, altsaa uden  <lb/>
+Indtægt. Den Erstatning, som Exporteurer, især svenske, have søgt i England, <lb/>
+har kun bevirket det engelske Markeds Overfyldning med Saugproducter og <lb/>
+Umuligheden af disses Salg. Under disse ugunstige Omstændigheder er denne <lb/>
+Norges vigtige Industrigreen i en meget nedtrykt Stilling, men jeg trøster <lb/>
+mig ved min Erfaring, at jeg tidligere har oplevet en lignende; men at <lb/>
+Forsynet forundte Hjelp i Nødens Stund.</p>
+               <p xml:id="p5">	Den 14de tiltraadte Statsraad Krog med Frue Reisen til Stockholm <lb/>
+og vil forhaabentlig ved Modtagelsen heraf, være lykkelig ankommet.</p>
+               <p xml:id="p6">	Hr Ole Bull har efter en 8 Dages Ophold her gjort mig en Visit, <lb/>
+medens jeg var i Statsraadet; men efter hans seneste uforskammede Opførsel <lb/>
+i Paris i Selskab med vor Carl Bonaparte Rosen, kan jeg ikke finde det <lb/>
+passende at indbyde ham.</p>
+               <p xml:id="p7">	Man har gjort mig opmærksom paa, at een af vore værdige Embedsmænd <lb/>
+og Dommere, Sorenskriver i Hadeland og Land, Thaulow, anstundende 23de <lb/>
+December dette Aar vil opfylde sit 50-aarige Jubilæum som Kongelig <lb/>
+Embedsmand, og anmodet mig om, underdanigst at udbede, at Deres Majestæt <lb/>
+i denne Anledning naadigst vil forunde ham St Olofsordenens Ridderkors. <lb/>
+Jeg opfylder saa meget heller dette Ønske, som jeg i Eet og Alt underskriver  <lb/>
+hosfølgende mig af Stiftamtmand Sem om Thaulow givne Oplysninger, <lb/>
+dem Statsraad Krog, som nøie kjender ham, vil kunne stadfæste. Deres <lb/>
+Majestæt turde muligen erindre en munter Aften og et godt Natteqvarteer <lb/>
+paa Sorenskriver Thaulows vakkre Gaard Velo paa Tilbagereisen fra Bergen <lb/>
+i Aaret 1833.</p>
+               <p xml:id="p8">	Om Deres Majestæt naadigst maatte bifalde dette underdanigste <lb/>
+Forslag, vilde den Kongelige Naades Værd forhøies, om Decorationen maatte <lb/>
+tilsendes mig saa betimelig, at jeg kunde tilstille Thaulow den paa hans <lb/>
+forestaaende Høitidsdag, <hi rend="underline">anstundende 23de December</hi>.</p>
+               <p xml:id="p9">	En lignende Kongelig Naade vover jeg underdanigst at udbede for en <lb/>
+anden lige værdig Kongelig Embedsmand, Sorenskriver i Nedre Tellemarken, <lb/>
+Jonas Wessell, Ridder af Nordstjerneordenen i Anledning af hans Udtrædelse <lb/>
+af hans lange og hæderlige Embedsbane ved dette Aars Udgang.</p>
+               <p xml:id="p10">	Han begyndte sin Embedsbane som Auditeur og Regementsqvarteermester <lb/>
+1788, altsaa for 60 Aar tilbage og har i 56 Aar med Retsind og udmærket <lb/>
+Dygtighed beklædt sit nu iværende Embede, som hans høie Alder 82 Aar, <lb/>
+nødsager ham til at fratræde ved dette Aars Udgang.</p>
+               <p xml:id="p11">	Med Glæde har jeg af danske Blade erfaret, at Deres Majestæt har <lb/>
+benaadet den Kongelig danske Conseillepresident Greve W. Moltke med <lb/>
+Seraphimer Ordenen, medens jeg ligesaalidet har seet dennes som Hans <lb/>
+Excellence Stjernelds Udnævnelse til Ridder af Elephantordenen omnævnt <lb/>
+i svenske Blade.</p>
+               <p xml:id="p12">	Jeg skal idag give en Middag for Statsraad Erichsen. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 19de November 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst			</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

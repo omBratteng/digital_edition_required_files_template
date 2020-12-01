@@ -1,0 +1,146 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>524</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 3. januar 1856</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 3. januar 1856</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 27de forrige Maaned.</p>
+               <p xml:id="p2">	Som jeg i mine sidste Rapporter af 16de, 17de og 20de forrige <lb/>
+Maaned i Underdanighed har indberettet, har jeg behandlet Deres <lb/>
+Majestæts naadige Skrivelse af 11te forrige Maaned og den samme <lb/>
+vedlagte Tractat nøiagtig efter Deres Majestæts naadige Befaling.</p>
+               <p xml:id="p3">	Den os naadigst meddeelte Tractat, hvorom vi ikke havde den <lb/>
+ringeste Ahnelse, som kan faae en mægtig Indflydelse paa vort <lb/>
+Fædrenelands, paa de forenede Rigers tilkommende Skjæbne, overraskede os.</p>
+               <p xml:id="p4">	Vi frygtede for, at den muligen kunde blive et Skridt til at <lb/>
+indvikles i den store europæiske Strid, vi forudsaae Muligheden for <lb/>
+den Norske Regjering at maatte senere yttre sig officielt om denne <lb/>
+høist vigtige Gjenstand, vi vare Alle taknemmelig overbeviiste om <lb/>
+Deres Majestæts Landfaderlige Hensigt ogsaa i denne Begivenhed; men <lb/>
+Regjeringens Medlemmer fandt det betænkeligt nu at yttre nogen Mening, <lb/>
+som Deres Majestæt ikke havde befalet afgivet og som ikke kunde <lb/>
+have nogen Indflydelse paa en afgjort Sag, hvorfor de bleve enige <lb/>
+om, ikke for Tiden at udtale sig i denne Anledning.</p>
+               <p xml:id="p5">	Jeg havde saaledes Intet at andrage for Regjeringen og jeg <lb/>
+ønskede at undgaae at yttre min egen Anskuelse, som efter det allerede <lb/>
+Iværksatte, ikke kunde have den ringeste Indflydelse.</p>
+               <p xml:id="p6">	En ved sidste Post fra Statsraad Petersen modtaget Meddelelse <lb/>
+om en Deres Majestæts Yttring til ham, paalægger mig dog nu den Pligt, <lb/>
+underdanigst at yttre mig uforbeholdent, men denne Pligt er for mig <lb/>
+piinlig, fordi jeg kun har Valget imellem, at yttre en Anskuelse, som <lb/>
+ikke stemmer med Deres Majestæts, – eller at svigte min Pligt, som <lb/>
+Deres Majestæts og mit Fædrenelands troe Tjener.</p>
+               <p xml:id="p7">	Det er piinlig for mig at erklære at den afsluttede Tractat <lb/>
+bedrøver og bekymrer mig, for vor Nutid og Fremtid.</p>
+               <p xml:id="p8">	Rusland kan ikke ansee denne, ved en Mistroe, som det uden <lb/>
+Tvivl vil finde fornærmelig, foranledigede Alliance Tractat med dets <lb/>
+brændende Fiender, stemmende med Deres Majestæts høitideligen erklærede <lb/>
+Neutralitet. Det vil betragte den, som en henkastet Stridshandske,  <lb/>
+som om det end ikke optager den nu, kan blive optaget i en beleiligere <lb/>
+Fremtid.</p>
+               <p xml:id="p9">	Spørger jeg, om Rusland har givet Anledning til denne Mistroe, <lb/>
+som characteriserer Tractaten, til at henkaste Stridshandsken, kan <lb/>
+jeg ikke besvare det bekræftende.</p>
+               <p xml:id="p10">	Jeg vil ikke hensee til en for længst hensvunden Fortid, hvorunder <lb/>
+Stridigheder imellem de 2de Naboestater foranledigedes snart <lb/>
+af den Ene, snart af den Anden; men siden Freden i Åbo, har Rusland <lb/>
+formeentlig opfyldt Alt hvad Keiser Alexander lovede Kong Carl Johan, <lb/>
+mod at han renoncerede paa Finland, og siden Deres Majestæts  <lb/>
+høitidelige Neutralitets Erklæring har det dog ikke givet nogensomhelst <lb/>
+Anledning til at frafalde den.</p>
+               <p xml:id="p11">	De sande Grunde til Misnøie og Mistroe existerede, da Neutraliteten <lb/>
+erklæredes, og det turde saaledes være unødvendig nu at relevere <lb/>
+dem, om ikke Deres Majestæt havde nævnt dem.</p>
+               <p xml:id="p12">	Jeg indrømmer, at Nærheden af russiske Fortificationer paa <lb/>
+Ålands Øerne, er høist besværlig; men Rusland har ved Freden i Åbo <lb/>
+udtrykkelig betinget sig Ret dertil, de existerede før Neutraliteten <lb/>
+erklæredes, de hindrede den ikke og bør vel heller ikke nu give  <lb/>
+Anledning til at fravige den.</p>
+               <p xml:id="p13">	Forholdene mellem finmarkiske og finlandske Undersaatter ere <lb/>
+ordnede med Undtagelse af 2 Punkter, nemlig Rettergangsmaaden  <lb/>
+imellem norske og finske Lapper, og Fiskeriet i Tana Elv, som synes at <lb/>
+være Lapperier, da Rusland i sidstnævnte Henseende ikke har forlangt <lb/>
+mere end Forbud for norske Undersaatter at stænge Tana Elv med Fiske- <lb/>
+Redskaber, ved dens Udmunding i Havet, hvorved Fisken forhindres fra <lb/>
+at gaae ind i Floden i det russiske Gebet, hvilket endog er stemmende <lb/>
+med vor private Lovgivning. De senere Underhandlinger med Rusland <lb/>
+have ikke kunnet opvække nogen Mistanke hos mig om, at nogen alvorlig <lb/>
+Fare truer os i Finmarken.</p>
+               <p xml:id="p14">	En Deel af det svenske Folk har endnu bevaret Had mod Rusland, <lb/>
+Attraae efter at gjenvinde Finland; men min Samvittighed byder mig <lb/>
+i Underdanighed at paapege, at disse Lidenskaber ere farlige for den <lb/>
+nu bestaaende Forening som var vor Høistsalige Konges Storværk.</p>
+               <p xml:id="p15">	Det norske Folk deler ikke det ultra-svenske Parties Nationalhad <lb/>
+eller Attraa efter at gjenvinde Finland, vi formene tvertimod, <lb/>
+– og jeg troer mange forstandige Svenske, – at Finlands Gjenforening <lb/>
+vilde blive en Ulykke for Sverige og dets nu bestaaende Forening med <lb/>
+Norge. Det bør da ikke forundre, om det norske Folk vil være mindre <lb/>
+tilbøielig til at opoffre dets Sønner og Velfærd for at tilfredsstille <lb/>
+fremmede Lidenskaber, og en farlig Conflict kan da opstaae imellem <lb/>
+de forskjellige Interesser.</p>
+               <p xml:id="p16">	Jeg har indlevet mig i min Høisalige Konges Politik og jeg kan <lb/>
+ikke forlade den. Han ansaa en Stat, bestaaende af Sverige og Norge, <lb/>
+stærkere og lykkeligere end Sverige og Finland forenede. Derfor valgte  <lb/>
+Han den første Stat, da Han havde Valget og gav derhos Sit Afkald <lb/>
+paa Finland, som skyldes Agtelse.</p>
+               <p xml:id="p17">	Jeg hørte Høisalig Kongen ofte sige: "Cajolez la putaine à <lb/>
+l'autre côté de la Manche, mais soyez toujours bien avec la Russie". <lb/>
+"Vi bør aldrig ønske os over den Botniske Bugt eller over Øresund."</p>
+               <p xml:id="p18">	Denne Politik har bevaret os en lykkelig Fred i et halvt <lb/>
+Aarhundrede, og det bekymrer mig saare, at Deres Majestæt nu synes at <lb/>
+ville forlade den.</p>
+               <p xml:id="p19">	Jeg har ikke havt Anledning til at yttre mig om Tractaten, før <lb/>
+den afsluttedes, og om Deres Majestæt end ikke vil bifalde mine nu i <lb/>
+Underdanighed fremførte Anskuelser, – beder jeg dog, at Deres <lb/>
+Majestæt vil modtage dem overbærende og naadig af en sin Konge, Sin <lb/>
+Fædreneland og de forenede Riger gammel troe hengiven Tjener. </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 3die Januar 1856</date>.</dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

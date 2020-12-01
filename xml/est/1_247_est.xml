@@ -1,0 +1,238 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>247</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 7. oktober 1850</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 7. oktober 1850</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 30te forrige Maaned.</p>
+               <p xml:id="p2">	I næst forrige Uge henvendte Amtmand Manthey i Hedemarkens <lb/>
+Amt sig mundtligen til Chefen for Justits Departementet og mig, og  <lb/>
+afgav Forklaring om det Anliggende, der er Gjenstanden for en senere  <lb/>
+af ham udfærdiget Skrivelse, dateret 30te September, til Statsraad  <lb/>
+Petersen, af hvilken jeg tager mig den Frihed underdanigst at  <lb/>
+vedlægge en Afskrift. Han var reist herind, for at raadføre sig med  <lb/>
+nogle af Regjeringens Medlemmer. Efter Overlæg med os bestemte han <lb/>
+sig til, efter sin Tilbagekomst at fremstille Sagen i en Skrivelse,  <lb/>
+stilet til Statsraad Petersen, da man derved vilde lades friere Hæn- <lb/>
+der i Henseende til Brevets Afbenyttelse og hvad der maatte bedst i <lb/>
+denne Sag være at foretage, end om der i dets Sted var indkommen en <lb/>
+Skrivelse, stilet til Justits-Departementet. Da Statsraad Petersen <lb/>
+havde modtaget Brevet, foredrog han samme i vort Statsraadsmøde, hvor <lb/>
+det blev vedtaget, at Amtmand Mantheys Brev, idetmindste for Tiden, <lb/>
+ikke skulde betragtes som en Embedsskrivelse til Departementet, samt <lb/>
+at jeg skulde i Underdanighed gjøre Deres Majestæt bekjendt med  <lb/>
+Sagen, hvorhos forøvrigt Intet skulde foretages, førend efterat man  <lb/>
+havde erfaret, hvad der maatte være stemmende med Deres Majestæts  <lb/>
+naadige Villie.</p>
+               <p xml:id="p3">	Idet jeg herved tager mig den underdanige Frihed herom at <lb/>
+underrette Deres Majestæt skulde jeg dernæst, efter Opdrag af  <lb/>
+Statsraadets samtlige herværende Medlemmer underdanigst henstille til <lb/>
+Deres Majestæt, om det ikke i Anledning af nærværende Sag maatte <lb/>
+behage Høistsamme: <lb/>
+                  <list xml:id="list4">
+                     <label>
+                        <hi rend="underline">a</hi>
+                     </label>
+                     <item>Naar om et Par Uger den Norske Regjering, ved at forelægge <lb/>
+Deres Majestæt Arbeiderforeningernes bekjendte Petition,  <lb/>
+underdanigst andrager paa, at Deres Majestæt naadigst vil tilkjendegive, <lb/>
+at Deres Majestæt vil tage Gjenstanden for Petitionen nærmere <lb/>
+naadigst Overveielse, da at afgive en saadan naadigst Resolution som <lb/>
+den, hvortil et Udkast naadigst vil findes derhos lagt:, og </item>
+                     <lb/>
+                     <label>
+                        <hi rend="underline">b</hi>, </label>
+                     <item>at lade samtidigen med Kundgjørelsen af den saaledes  <lb/>
+afgivne naadige Resolution i et offentligt Blad en saadan  <lb/>
+Avisartikel som den, hvortil ligeledes hoslagt følger et Udkast.</item>
+                  </list>
+               </p>
+               <p xml:id="p5">	Deres Majestæt vil naadigst bemærke, at hvad der i Udkastet <lb/>
+til Avisartikelen er anført om de 2de Audiencer, er nedskrevet  <lb/>
+efter Erindringen af den Meddelelse, Deres Majestæt var saa naadig <lb/>
+om samme at give Statsraadets Medlemmer. Om noget Urigtigt eller <lb/>
+Ufuldstændigt er indløbet, vil Deres Majestæt vistnok have den  <lb/>
+Naade at lade antyde hvad der bør rettes.</p>
+               <p xml:id="p6">	Strax efter den førstnævnte Audience berettede nogle <lb/>
+offentlige Blade, at denne Audience havde fundet Sted, at Deputationen  <lb/>
+havde fundet gunstig Modtagelse, at den forlod Slottet med gode  <lb/>
+Forhaabninger for Arbeidernes Sag, samt, at Deres Majestæt havde yttret, <lb/>
+at der var meget at rette paa, men at Deres Majestæt ikke alene  <lb/>
+kunde bevirke Saadant og at ikke alle Forbedringer kunde komme paa  <lb/>
+engang. Mere eller Andet blev i Bladene ikke berettet. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 7de October 1850</date>. </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst</salute>
+                  <lb/>
+                  <signed>
+                     <persName>J.H. Vogt</persName>
+                  </signed>
+                  <lb/>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h3">
+                  <supplied resp="editor">Tillegg til rapport av 7. oktober 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h4">
+                  <hi rend="underline">Copie</hi>.</head>
+               <opener>Til Chefen for det Kongl. Justits og Politi Departement <lb/>
+Hr Statsraad, Commandeur m.m. Petersen.</opener>
+               <lb/>
+               <p xml:id="p7">Deels af personlige Samtaler, deels af Meddelelser fra  <lb/>
+paalidelige Personer har jeg bragt i Erfaring, at der i Møder af de ved <lb/>
+de Thraneske Agitationer her i Districtet stiftede Arbeiderforeninger  <lb/>
+er bleven yttret og derigjennem almindelig udspredt, at  <lb/>
+Marcus Thranes Virksomhed billiges og støttes af Hans Majestæt Kongen.  <lb/>
+Ihvor urimeligt og taabeligt et saadant Rygte end er, forholder det <lb/>
+sig dog virkelig saa, at det hos uoplyste, ueftertænksomme eller <lb/>
+mindre velsindede Mennesker har vundet Indgang og visselig paa den <lb/>
+ene Side, nemlig hos Arbeiderklassen, forøget Lysten til at  <lb/>
+deeltage og virke i Arbeiderforeningerne og paa den anden Side næret  <lb/>
+Bekymringen for Følgerne af den Thraneske Virksomhed. Det er en <lb/>
+Selvfølge, at jeg har benyttet enhver Anledning til at søge at  <lb/>
+overbevise dem, der kunne have fæstet Liid til dette Rygte, om sammes <lb/>
+fuldstændige Grundløshed, hvilket jeg med saa meget større Kraft <lb/>
+har kunnet gjøre, efterat jeg under min Reise i denne Maaned, for <lb/>
+at ledsage Hans Majt og den Kongl. Familie gjennom Odalen og  <lb/>
+Winger, har erholdt positiv Forvisning om, hvad jeg forøvrigt heller <lb/>
+ikke tidligere ansaa i mindste Maade for tvivlsomt, at der ikke  <lb/>
+ligger end det fjerneste Spoer af Sandhed til Grund for Rygtet; det er <lb/>
+imidlertid ikke at regne paa, at sammes Tilintetgjørelse vil lykkes <lb/>
+mig, thi engang udspredt, trænger det igjennem til enhver Vraa af <lb/>
+Amtet. At en saadan Tilintetgjørelse dog maa ansees for høist  <lb/>
+ønskelig, staaer for mig klart; foruden, at der nemlig i disse  <lb/>
+Agitationer indeholdes Adskilligt, der leder til Frygt for Forstyrrelse <lb/>
+af den almindelige Orden og Ro, ligger der, forsaavidt  <lb/>
+Statsforfatningens Omstyrten tillige opstilles som Maal for den Thraneske  <lb/>
+Virksomhed i Udspredelsen af det Rygte, at Kongen skulde understøtte  <lb/>
+eller endog kun billige saadant, en Krænkelse af Majestæten og en <lb/>
+formelig Lovovertrædelse. Uagtet der saaledes kunde være  <lb/>
+Spørgsmaal om at søge Straffelovens Capitel 9 § 21 sat i Anvendelse mod <lb/>
+dem, der bringe disse i visse Maader ”beskjæmmende Rygter” i Omløb, <lb/>
+har jeg dog havt Betænkelighed ved at foretage det hertil sigtende <lb/>
+Skridt efter samme Lovs Capitel 27 § 7, da jeg anseer det givet, at <lb/>
+retlige Undersøgelser angaaende denne Sag, om de end foretagne  <lb/>
+efter Kongl. Naadigst Befaling, vilde virke til Hensigten, at bringe <lb/>
+Troen paa Rygtets Sandhed til at ophøre, dog neppe vilde lede til <lb/>
+at udfinde og faae afstraffet den, der fra først af har udspredt <lb/>
+Rygtet, medens dets tankeløse Gjentagere vilde blive haardt ramme- <lb/>
+de ved at underkastes Lovens Straf. Derimod kunde muligens en i <lb/>
+Kongens Navn udfærdiget og i de offentlige Blade indrykket  <lb/>
+Bekjendtgjørelse eller Advarsel mod Deeltagelse i de Thraneske Agitationer, <lb/>
+af hvilken det fremgik, at Hs. Majestæt fuldstændig misbilligede <lb/>
+disse, være et ligesaa sikkert og for det Offentlige ligesaa  <lb/>
+hensigtsmæssigt Middel til at modvirke Ondet.</p>
+               <p xml:id="p8">	I ethvert Fald turde det findes ønskeligt, at Hs. Majestæt <lb/>
+paa en eller anden Maade blev gjort opmærksom paa disse Forhold, <lb/>
+hvorfor jeg har anseet det for min Pligt, at gjøre Hr Statsraaden, <lb/>
+som Chef for det Kongl. Justits og Politie Departement bekjendt  <lb/>
+hermed og tør jeg ærbødigst udbede mig Hr Statsraadens gunstige  <lb/>
+Tilkjendegivende, om min Fremgangsmaade med Hensyn til denne for  <lb/>
+Hedemarkens Amtsdistrict ikke uvigtige Sag, maatte vinde Bifald. Med <lb/>
+udmærket Høiagtelse etc. etc. <lb/>
+               </p>
+               <closer>Hedemarkens Amtscontoir				<signed>
+                     <persName>A. Manthey</persName>
+                  </signed>
+                  <lb/>
+                  <dateline>
+                     <placeName>Veen</placeName>
+                     <date>den 30 Septbr. 1850</date>.</dateline>
+               </closer>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h5">
+                  <supplied resp="editor">Tillegg til rapport av 7. oktober 1850</supplied>
+               </head>
+               <head type="sub2" xml:id="h6">
+                  <hi rend="center underline">Udkast</hi>
+                  <lb/>
+til Kongelig Resolution paa den Norske Regjerings underdanigste <lb/>
+Indstilling i Anledning af Arbeider-Foreningernes Petition.</head>
+               <p xml:id="p9">	”Hans Majestæt, som med lige Varme omfatter alle <lb/>
+Samfundselementers Vel, skal, med det Heles Tarv for Øine, tage de Anliggender <lb/>
+under Overveielse, hvilke den Høistsamme forelagte Petition  <lb/>
+omhandler, og derefter særligen fatte de Bestemmelser Hans Majestæt  <lb/>
+maatte finde tjenlige.</p>
+               <p xml:id="p10">	Hans Majestæt har med Bekymring betragtet den misledende <lb/>
+Indflydelse paa den arbeidende Classe, som i den senere Tid har viist <lb/>
+sig, og nærer det Haab, at retsindige Mænd baade i og udenfor  <lb/>
+denne Classe ville række Haand til at fortrænge Anskuelser og  <lb/>
+Fordringer, der, grundede paa utilstrækkeligt Overblik over de almene  <lb/>
+Anliggender, letteligen kunde lede bort fra den Ordenens, Lovlighedens <lb/>
+og Samdrægtighedens Vei, som paa eengang udgjør det hele Folks som <lb/>
+den Enkeltes Lykke.”</p>
+            </div>
+            <div type="vedlegg">
+               <head type="tillegg" xml:id="h7">
+                  <supplied resp="editor">Tillegg til rapport av 7. oktober 1850</supplied>
+               </head>
+               <head type="sub2" rend="center" xml:id="h8">
+                  <hi rend="underline">Udkast til en Avisopsats</hi>.</head>
+               <p xml:id="p11">	Paa nogle Steder i Riget skal der gaae det Rygte, at Marcus <lb/>
+Thranes Virksomhed billiges og støttes af Hans Majestæt Kongen.  <lb/>
+Hvad Rygtet saaledes beretter, skal, uanseet Urimeligheden deraf,  <lb/>
+dog have vundet Tiltroe. Vi see os istand til paa det Bestemteste <lb/>
+at det saa langt fra er Tilfældet, at Hans Majestæt billiger denne  <lb/>
+Virksomhed, at Hans Majestæt tvertimod i høieste <lb/>
+Grad misbilliger samme. En Deputation fra Arbeiderforeningernes i <lb/>
+dette Aars Sommer afholdte Centralmøde, blev i August Maaned modtaget  <lb/>
+af Hans Majestæt, og forsikkrede Hans Majestæt om Centralmødets  <lb/>
+Loyalitet og gode Hensigter. Hans Majestæt underholdt Sig venligen  <lb/>
+med Deputationens Medlemmer og yttrede Sig i Almindelighed om de  <lb/>
+Gjenstande, der ere omhandlede i den fra Arbeiderforeningerne  <lb/>
+tidligere indkomne Petition, uden at opmuntre disse Foreninger til  <lb/>
+fortsat Virksomhed. Hans Majt tilkjendegav derfor Deputationen Sin  <lb/>
+Misbilligelse af hvad der yttredes om Utilfredshed med Statsforfatningen.  <lb/>
+Marcus Thrane søgte senere og erholdt Foretræde hos Hans Majestæt,  <lb/>
+til Hvem han overleverede nogle flere Exemplarer end de forhen  <lb/>
+indgivne af Arbeiderforenigernes Petition. Hans Majt foreholdt ved  <lb/>
+denne Leilighed Marcus Thrane det høist Farlige i hans Virksomhed,  <lb/>
+og forudsagde ham at denne vilde føre, foruden til mange Andres,  <lb/>
+ogsaa til hans egen, Fordærvelse, da den, der udsaaer Splid og  <lb/>
+Tvedragt, høster Ulykke og Fordærv; hvilket var meget mer end Thrane  <lb/>
+eller noget Menneske kunde bære paa sin Samvittighed.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

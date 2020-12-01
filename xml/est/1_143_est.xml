@@ -1,0 +1,171 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løvenskiold stattholderrapporter 1844–1856</title>
+            <editor>Mette Ekker</editor>
+            <author>Severin Løvenskiold</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-11-23</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>meek</name>
+               <date>2016-11-23</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   <profileDesc><creation><idNo>143</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Christiania 27. april 1848</title></creation><textClass><catRef target="non-fiction"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <div type="rapport">
+            <head xml:id="h1">
+               <supplied resp="editor">Christiania 27. april 1848</supplied>
+            </head>
+            <div type="hoveddel">
+               <head type="sub" xml:id="h2">Underdanigst Rapport!</head>
+               <p xml:id="p1">	Min sidste underdanigste Rapport var af 23de denne Maaned.</p>
+               <p xml:id="p2">	Ifølge Deres Majestæts naadige Befaling er Statsraad Fleischers <lb/>
+Afskedsansøgning bleven behandlet i Regjeringen i Gaar og vil med dens <lb/>
+underdanigste Indstilling blive afsendt med Morgenposten. Jeg tillader <lb/>
+mig underdanigst at anbefale Statsraad Fleischer til Bevidnelse af Deres <lb/>
+Majestæts naadigste Tilfredshed ved Afskedens Bevilgelse. Paa  <lb/>
+Regjeringens samtlige Medlemmers som paa egne Vegne, udbeder jeg imidlertid <lb/>
+underdanigst, at Deres Majestæt ikke vil bevilge Afskeden, forinden <lb/>
+Eftermanden <hi rend="underline">samtidig</hi>  kan blive udnævnt. I denne Henseende befinder jeg <lb/>
+mig vedvarende i Uvished og Forlegenhed. Selv har jeg ingen Candidat <lb/>
+at foreslaae, og jeg har hidindtil forgjæves søgt Raad hos den commanderende <lb/>
+General, som hos Statsraaderne Krog, Fleischer og Foss med flere, <lb/>
+som bedre end jeg maa kjende vort militaire Personal, hvor en Chef for <lb/>
+Armee Departementet bør søges. Schweigaard og andre agtværdige Storthings- <lb/>
+mænd ere lige raadvilde. I næste Statsraad Overmorgen vil jeg <lb/>
+confidentielt behandle Gjenstanden og i mit næste underdanigste meddele <lb/>
+Resultatet.</p>
+               <p xml:id="p3">	I Forgaar indfandt Præsten Harbitz sig hos mig, for at meddele mig, <lb/>
+at den tidligere omtalte Adresse ikke kunde afværges.</p>
+               <p xml:id="p4">	Jeg søgte at bevise: at det paatænkte Skridt var unødvendigt fordi <lb/>
+Deres Majestæt allerede proprio motu deels har iværksat (Holst og <lb/>
+Schmidt) deels besluttet (Fleischer) hvad Rigets Tarv for Tiden kræver, – <lb/>
+at det var uklogt, at det var en upassende og ubeføiet Indblanding <lb/>
+i et væsentligt og vigtigt Kongeligt Prærogativ, og at det var  <lb/>
+uforsvarligt med Hensyn paa de Følger, som et saadant Skridt muligen kunde <lb/>
+medføre, da jeg holdt mig overbeviist om, at Deres Majestæt vil vide <lb/>
+at hævde Sine grundlovmæssige Prærogativer. Min Documentation syntes <lb/>
+at gjøre Indtryk paa Harbitz, som neppe ahner, hvis Ærender han gaaer <lb/>
+(Stabells) og efter hans Ønske tillod jeg ham at meddele mine Yttringer <lb/>
+til hans Colleger.</p>
+               <p xml:id="p5">	Ved Storthingets Sammentræden igaar efter Paaskeferierne, fandt <lb/>
+Præsidenten Falsen, (hvem Fractionen ikke har viist mindste Fortroelighed) <lb/>
+paa sit Bord en Motion, underskrevet af Stabell, Bonden Fouchald <lb/>
+Klokker Ueland, Kjøbmandene Johnsen og Krognæss, hvori deres Utilfredshed <lb/>
+med Regjeringspersonalet udtrykkes, som foreslaaes andraget for <lb/>
+Deres Majestæt i en af Stabell conciperet Adresse. Slutteligen yttre <lb/>
+de at være bestyrkede i deres Anskuelser ved Riddervold og Sørensens <lb/>
+Udnævnelser! hvori de kun see en Forandring af Personer, ikke af System. <lb/>
+Dette viser, at de handlende Personer kun kan tilfredsstilles ved selv <lb/>
+at befordres til Magt og Anseelse, som er deres Formaal. Den overraskede <lb/>
+Minoritet kunde for Øieblikket kun bevirke Sagen udsat, for at gjøre <lb/>
+sig bekjendt med det vidtløftige Document og er indigneret over  <lb/>
+Motionairernes Complot, en Indignation som deles af Almeenheden. Schweigaard <lb/>
+yttrede sig idag for mig forbittret, med det Haab, at det vil lykkes  <lb/>
+den talrige og dygtige Minoritet, at faae Motionen og Adressen forkastet.</p>
+               <p xml:id="p6">	Jeg deler ikke dette Haab, og da opstaaer Spørgsmaalet hvilken Vægt <lb/>
+hvilken Indflydelse bør der tillægges den forventende Adresse?</p>
+               <p xml:id="p7">	I denne Henseende tillader jeg mig underdanigst at referere til min <lb/>
+underdanigste Rapport af 20de denne Maaned. Om Kongemagten skulde lade <lb/>
+sig dictere Love af Storthinget, for Udøvelsen af sine grundlovmæssige <lb/>
+Prærogativer, vilde den snart de facto blive tilintetgjort i Norge, <lb/>
+som nylig desværre er skeet i flere europæiske Stater. Deres Majestæt <lb/>
+blander Sig ikke i Udøvelsen af Storthingets grundlovmæssige Ret til <lb/>
+at vælge sine Præsidenter og Functionairer, til at udnævne vel lønnede <lb/>
+Bankadministratorer og Statsrevisorer; men Deres Majestæt kan ikke <lb/>
+tilstæde Storthingets Indgreb i Deres Majestæts grundlovmæssige Ret <lb/>
+til Selv med Hjemmel af Grundlovens § 12 at vælge Sine Raadgivere. Fra <lb/>
+denne Synspunkt formener jeg underdanigst, at det af en Fraction af <lb/>
+Storthinget paatænkte Attentat mod Kongemagten bestemt bør tilbagevises. <lb/>
+Om den Form, hvori dette bør skee, tør jeg ikke tillade mig nogen <lb/>
+Yttring, forinden Adressen kjendes.</p>
+               <p xml:id="p8">	Da jeg i en saa vigtig Begivenhed ikke har turdet stole alene paa <lb/>
+min egen Mening, har jeg herom confidentielt confereret med Statsraaderne <lb/>
+Krog, Holst, Vogt, Foss, Riddervold, Sørenssen, saavelsom med  <lb/>
+Storthingsmændene Schweigaard, Falsen, Blom, Fougstad, som alle dele min <lb/>
+Anskuelse. Jeg beklager, at jeg ikke i denne Begivenhed kan finde det <lb/>
+Medhold hos Stang, som hans Talent burde kunne yde, fordi han ikke dølger <lb/>
+den Mening, at foruden ham kun Vogt og Petersen og <hi rend="underline">for en Tid</hi>  jeg burde <lb/>
+blive, og han har neppe iagttaget den Forsigtighed at tilbageholde denne <lb/>
+Mening, som jeg befrygter har influeret og mulig har foranlediget <lb/>
+Morgenbladet idag til at paapege en Premier-Minister med uindskrænket <lb/>
+Myndighed til at antage og forafskedige de Kongelige Raadgivere, – en <lb/>
+Minister, som da skulde udøve det Kongelige Prærogativ efter Storthingets <lb/>
+naadige Villie.</p>
+               <p xml:id="p9">	Ved det nu forestaaende Statsraadsombytte med Statsraad Petersen <lb/>
+skulde Touren at gaae til Stockholm tilfalde Foss; men denne nidkjære <lb/>
+Mand, troer ikke under nærværende Omstændigheder at burde forlade <lb/>
+Marine Departementets Bestyrelse, en Anskuelse, som jeg fuldkommen deler. <lb/>
+Derefter tilfalder Touren Stang, som tidligere har ønsket sig den, men <lb/>
+paa min Opfordring idag yttrede han sig mindre tilbøielig, fordi, om <lb/>
+Statsraaderne skulde faae Adgang til Storthinget, hans Optræden der <lb/>
+kunde blive til Gavn og jeg lægger uforbeholden til, vilde smigre hans <lb/>
+Forfængelighed. Han bad mig endelig erklære, at han i denne Henseende <lb/>
+intet privat Ønske har, men er skyldig, som beredt til at opfylde Deres <lb/>
+Majestæts naadige Befaling, den jeg tør modsee. Jeg formener det  <lb/>
+rigtigst, at Stang efter sin Tour afløser Petersen og at denne overtager <lb/>
+Departementet for det Indre, ligesom jeg ærligen siger, at jeg under <lb/>
+nærværende Omstændigheder heller seer Stang i Stockholm end her. Om <lb/>
+Statsraaderne virkelig skulde faae Adgang til Storthinget, mangle de <lb/>
+tilbageværende Statsraader Vogt, Petersen, Sørenssen, Riddervold, Foss <lb/>
+hverken Talent eller Dygtighed til der at optræde.</p>
+               <p xml:id="p10">	Jeg har i denne som i enhver Begivenhed føelt mig forpligtet til <lb/>
+at yttre mig for Deres Majestæt aldeles uforbeholden, stolende paa at <lb/>
+mine Yttringer, saavidt de angaae Personer, <hi rend="underline">ere Ene og Alene for Deres</hi>
+                  <lb/>
+                  <hi rend="underline">Majestæt</hi>.</p>
+               <p xml:id="p11">	Saavidt skrevet har jeg den Ære st modtage Deres Majestæts naadige <lb/>
+Skrivelse af 24de, hvoraf jeg med Glæde erfarer Deres Majestæts <lb/>
+Kongelige Sindelag med Hensyn paa Adressen, som jeg confidentielt vil <lb/>
+meddele Storthingspræsidenten, hvem jeg venter i Formiddag. Jeg  <lb/>
+paaskjønner saameget taknemmeligere Deres Majestæts naadige Skrivelser, <lb/>
+som de under de mangehaande Bekymringer, som nedtrykke mig, ere min <lb/>
+eneste Trøst.</p>
+               <p xml:id="p12">	Statsraad Stangs Holdning under nærværende Omstændigheder giver <lb/>
+mig uventede Bekymringer. Man finder ikke sjelden eminente Egenskaber <lb/>
+forenede med store Svagheder, og saa er det med Stang. Hans umaadelige <lb/>
+Forfængelighed er endnu ikke bleven tilfredsstillet, ved at være bleven <lb/>
+Statsraad! Den ham af andre foreholdte Stilling af en Premier Minister <lb/>
+for et selvvalgt Ministerium. er for fristende for den i dette <lb/>
+Punkt meget svage Mand.</p>
+               <p xml:id="p13">	Corvetten Nordstjernen, Capitaine Grønn, ankrede i Aften paa <lb/>
+Christiania Havn, efterat have forladt Chartagena den 3die April sidstleden.</p>
+               <p xml:id="p14">	Efterat forestaaende var skrevet igaar, læser jeg idag den 28de <lb/>
+Morgenbladets Adresse offentliggjort. <lb/>
+               </p>
+               <closer>
+                  <dateline>
+                     <placeName>Christiania</placeName>
+                     <date>den 27de April 1848. </date>
+                  </dateline>
+                  <lb/>
+Til <lb/>
+Hans Majestæt Kongen <lb/>
+                  <salute>underdanigst		</salute>
+                  <signed>
+                     <persName>Løvenskiold</persName>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
