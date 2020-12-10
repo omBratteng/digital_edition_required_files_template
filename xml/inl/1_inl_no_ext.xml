@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Løvenskiold stattholderrapporter 1844–1856</title>
+                <editor>Mette Ekker</editor>
+                <author>Severin Løvenskiold</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016-11-23</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <name>meek</name>
+                    <date>2020-12-10</date>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+       <div type="div1">
+           <div type="div2">
+          <head>Stattholder Løvenskiolds rapporter til kong Oscar I 
+     mars 1844–juni 1856.</head>
+     
+     
+     <p>Manus under arbeid.</p> 
+     <list><head>Status:</head> 
+     <item>Transkribert på grunnlag av maskinskrevne avskrifter fra rundt 1920</item>
+     <item>Kollasjonert mot avskriftene i 2013</item>
+     <item>Innledning ved Odd Arvid Storsveen fra 2005</item>
+     <item>Mangler: fullstendig noteapparat og registre</item></list>
+     
+     <p>Versjonsdato 10.12.2020</p>
+     
+     <p>© Arkivverket 2020</p>
+           </div>
+     <div type="div2">
+     <head>Foreløpig forord</head>
+    <p> I unionstiden med Sverige var stattholderen kongens personlige representant i Norge og ledet møtene i regjeringen i Kristiania. Stattholderen sendte skriftlige rapporter til kongen, som hadde sete i Stockholm. Severin Løvenskiold var stattholder i perioden 1841–1856, under Karls Johans og Oscar Is regjeringstid. Rapportene til Karl Johan er skrevet på fransk, mens rapportene til Oscar I er skrevet på datidens dansk-norsk.</p> 
+     <p>Løvenskiolds stattholderrapporter befinner seg i Bernadotteska arkivet, det svenske kongehusets familiearkiv i Stockholm.</p> 
+     <p>Rundt 1920 ble disse rapportene med den svenske kongens tillatelse skrevet av for det norske Riksarkivet. Disse maskinskrevne avskriftene befinner seg i dag i Riksarkivets avskriftssamling på Sognsvann i Oslo, EA-4022/H pakke 214, 215 og 216.</p> 
+         <p>I 1993 ble dette materialet foreslått som et utgivelsesprosjekt for Kjeldeskriftkommisjonen. I 1994 vedtok Kjeldeskriftkommisjonen å sette Løvenskiolds rapporter 1841–1856 på publiseringsplanen, og i 1997 ble vedtaket nærmere presisert til å gjelde de norske rapportene til kong Oscar I, 1844–1856.</p>
+         <p>I utgangspunktet planla man en tradisjonell bokutgave med noter og registre basert på de maskinskrevne avskriftene i Riksarkivets samling. Riksarkivet engasjerte Bjørg Harvey som i perioden 1998–2000 transkriberte avskriftene over på PC. Odd Arvid Storsveen ble engasjert til å skrive en faglig innledning til utgaven i 2004–2005. Rapportene ble kollasjonert mot de maskinskrevne avskriftene av daværende Seksjon for kildeutgivelse i Arkivverket i 2013. Rapportene er foreløpig ikke kollasjonert mot originalene i Bernadotteska arkivet.</p>
+     <p>I 2011 vedtok Kjeldeskriftkommisjonen at de transkriberte rapportene skulle publiseres digitalt.</p>
+     <p>Høsten 2020 ble rapportene xml-kodet ved seksjon for Tilgjengeliggjøring i Arkivverket og publisert i Svenska Litteratursällskapet i Finlands publiseringsløsning Generic Digital Edition Platform på Arkivverket beta som en første prøve på digital publisering.</p>
+     <p>Den foreliggende kildeutgaven er ikke å regne for et ferdig produkt. Feil i transkripsjonene
+                        kan forekomme. Utgaven er ikke gjennomkommentert, men inneholder sporadiske
+                        noter. Foreløpig mangler også person- og stedsnavnsopplysninger.</p>
+     <p></p>
+ <p>Vi vil gjerne ha respons! Spørsmål, kommentarer eller feil kan meldes til bokbestilling@arkivverket.no</p>
+     <p></p>
+     <closer><date>10.12.2020</date>
+                        <signed>Mette G. Ekker</signed></closer>
+     </div>
+      
+                        </div>
+            
+        </body>
+    </text>
+</TEI>
